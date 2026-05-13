@@ -32,7 +32,7 @@ A sporting goods store.
 #class/SportingGoodsStore
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/SportingGoodsStore
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

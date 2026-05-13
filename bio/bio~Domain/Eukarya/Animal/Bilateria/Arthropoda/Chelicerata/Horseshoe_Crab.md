@@ -193,7 +193,7 @@ Pseudoniscus roosevelti (Siluric).
 Illustration from: North American Index Fossils, Volume II, A. W. Grabau
 and H. W. Shimer (eds.), A. G. Seiler & Co., New York, 1910.
 
-![](Horseshoe_Crab/Pseudoniscus_roosevelti.jpg)
+![](Horseshoe_Crab/Pseudoniscus_roosevelti.jpg) 
 
 
 ## Confidential Links & Embeds: 

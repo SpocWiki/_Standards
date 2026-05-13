@@ -274,7 +274,7 @@ sacrifice. Behav. Ecol. 15:785-792.
   Life Cycle Stage ::     Adult
   copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
-  ---------------------------------------------------------------------------------------
+  --------------------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

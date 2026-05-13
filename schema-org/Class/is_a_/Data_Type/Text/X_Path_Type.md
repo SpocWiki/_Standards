@@ -65,6 +65,7 @@ Text representing an XPath (typically but not necessarily version 1.0).
 
 has_parent_class = `=this.dv_has_parent_class` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Data_Type/Text/X_Path_Type|X_Path_Type]] 

@@ -71,6 +71,7 @@ has_range = `=this.dv_has_range`
 
 has_parent_property = `=this.dv_has_parent_property` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_is_yielding_servings|has_value_for_is_yielding_servings]] 

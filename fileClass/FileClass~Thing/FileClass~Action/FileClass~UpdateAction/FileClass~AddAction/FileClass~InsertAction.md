@@ -43,7 +43,7 @@ The act of adding at a specific location in an ordered collection.
 ### ToLocation
 A sub property of location. The final location of the object or the agent after the action.
 
-ToLocation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place')"}}
+ToLocation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place')"}} 
 
 
 ## Confidential Links & Embeds: 

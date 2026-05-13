@@ -32,7 +32,7 @@ A garden store.
 #class/GardenStore
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/GardenStore
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

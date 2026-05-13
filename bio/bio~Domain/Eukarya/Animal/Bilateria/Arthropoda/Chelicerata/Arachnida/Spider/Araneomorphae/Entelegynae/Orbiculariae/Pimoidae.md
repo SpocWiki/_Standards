@@ -100,7 +100,7 @@ World. Musée Royal de l\'Afrique Centrale, Tevuren. 336pp.
   Size                 Spider body length ca. 13 mm.
   copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
-  ---------------------------------------------------------------------------------
+  --------------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

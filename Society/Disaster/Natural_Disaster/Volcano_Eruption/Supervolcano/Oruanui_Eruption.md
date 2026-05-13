@@ -38,3 +38,21 @@ Commons_category: Oruanui eruption
 | VEI            | 8              | index (0–8)          | Maximum on volcanic explosivity scale |
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Disaster/Natural_Disaster/Volcano_Eruption/Supervolcano/Oruanui_Eruption|Oruanui_Eruption]] 
+
+### #is_/same_as :: [[/_public/Society/Disaster/Natural_Disaster/Volcano_Eruption/Supervolcano/Oruanui_Eruption.public|Oruanui_Eruption.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Disaster/Natural_Disaster/Volcano_Eruption/Supervolcano/Oruanui_Eruption.internal|Oruanui_Eruption.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Disaster/Natural_Disaster/Volcano_Eruption/Supervolcano/Oruanui_Eruption.protect|Oruanui_Eruption.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Disaster/Natural_Disaster/Volcano_Eruption/Supervolcano/Oruanui_Eruption.private|Oruanui_Eruption.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Disaster/Natural_Disaster/Volcano_Eruption/Supervolcano/Oruanui_Eruption.personal|Oruanui_Eruption.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Disaster/Natural_Disaster/Volcano_Eruption/Supervolcano/Oruanui_Eruption.secret|Oruanui_Eruption.secret]] 

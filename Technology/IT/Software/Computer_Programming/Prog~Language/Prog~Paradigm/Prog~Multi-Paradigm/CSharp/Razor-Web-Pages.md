@@ -67,7 +67,7 @@ Razor Web Pages facilitate the embedding of server-side code into web pages, uti
 
 For an in-depth understanding, please refer to the official documentation:  
 - [Microsoft ASP.NET Razor Pages](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/razor)  
-- [ASP.NET Core Documentation](https://learn.microsoft.com/en-us/aspnet/core/razor-pages/)  
+- [ASP.NET Core Documentation](https://learn.microsoft.com/en-us/aspnet/core/razor-pages/) 
 
 
 ## Confidential Links & Embeds: 

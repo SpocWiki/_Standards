@@ -113,7 +113,7 @@ scientific_name ::     Babesia microti
   Comments             Blood smear showing larger trophic stage of Babesia microti in erythrocyte.
   Creator              Dr. George Healy (Center for Disease Control)
   specimen_condition ::  Dead Specimen
-  Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
+  Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp) 
 
 
 ## Confidential Links & Embeds: 

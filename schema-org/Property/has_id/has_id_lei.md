@@ -72,19 +72,20 @@ has_range = `=this.dv_has_range`
 
 has_parent_property = `=this.dv_has_parent_property` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_id_lei|has_id_lei]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_id/has_id_lei|has_id_lei]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_id_lei.public|has_id_lei.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_id/has_id_lei.public|has_id_lei.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_id_lei.internal|has_id_lei.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_id/has_id_lei.internal|has_id_lei.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_id_lei.protect|has_id_lei.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_id/has_id_lei.protect|has_id_lei.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_id_lei.private|has_id_lei.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_id/has_id_lei.private|has_id_lei.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_id_lei.personal|has_id_lei.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_id/has_id_lei.personal|has_id_lei.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_id_lei.secret|has_id_lei.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_id/has_id_lei.secret|has_id_lei.secret]] 
 

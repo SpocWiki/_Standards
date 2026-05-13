@@ -53,7 +53,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Hatobohei/
 markerFolder: ./Hatobohei/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

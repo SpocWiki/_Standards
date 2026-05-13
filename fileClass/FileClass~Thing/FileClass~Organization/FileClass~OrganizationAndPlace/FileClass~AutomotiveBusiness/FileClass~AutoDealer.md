@@ -32,7 +32,7 @@ An car dealership.
 #class/AutoDealer
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/AutoDealer
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

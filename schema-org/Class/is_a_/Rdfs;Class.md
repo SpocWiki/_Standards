@@ -18,7 +18,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Class/is_a_/Rdfs;Class.personal|Rdfs;Class.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Rdfs;Class.secret|Rdfs;Class.secret]]"
 ---
-# rdfs;class
+# rdfs;class 
 
 
 ## Confidential Links & Embeds: 

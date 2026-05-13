@@ -33,3 +33,21 @@ subclass_of: "[[_Standards/WikiData/WD~informal_fallacy,3312438]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Correlative-based%20fallacies)  
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Correlative-based_Fallacy|Correlative-based_Fallacy]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Correlative-based_Fallacy.public|Correlative-based_Fallacy.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Correlative-based_Fallacy.internal|Correlative-based_Fallacy.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Correlative-based_Fallacy.protect|Correlative-based_Fallacy.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Correlative-based_Fallacy.private|Correlative-based_Fallacy.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Correlative-based_Fallacy.personal|Correlative-based_Fallacy.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Correlative-based_Fallacy.secret|Correlative-based_Fallacy.secret]] 

@@ -32,7 +32,7 @@ A college, university, or other third-level educational institution.
 #class/CollegeOrUniversity
 #class/Thing/Place/CivicStructure/CivicStructureAndOrganization/EducationalOrganization/CollegeOrUniversity
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

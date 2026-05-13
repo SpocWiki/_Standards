@@ -148,7 +148,7 @@ relationship of Surianaceae to Polygalaceae and Fabaceae (Crayn et al.,
 scientific_name ::     Suriana maritima L.
 location ::           Dade Co. Coral Gables, Fairchild Tropical Garden, Florida
 specimen_condition ::  Live Specimen
-copyright ::            © 2005 [Dennis Stevenson](http://www.plantsystematics.org/)
+copyright ::            © 2005 [Dennis Stevenson](http://www.plantsystematics.org/) 
 
 
 ## Confidential Links & Embeds: 

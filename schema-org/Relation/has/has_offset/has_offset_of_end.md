@@ -83,17 +83,17 @@ has_name = `=this.dv_has_name`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_offset_of_end|has_offset_of_end]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_offset/has_offset_of_end|has_offset_of_end]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_offset_of_end.public|has_offset_of_end.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_offset/has_offset_of_end.public|has_offset_of_end.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_offset_of_end.internal|has_offset_of_end.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_offset/has_offset_of_end.internal|has_offset_of_end.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_offset_of_end.protect|has_offset_of_end.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_offset/has_offset_of_end.protect|has_offset_of_end.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_offset_of_end.private|has_offset_of_end.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_offset/has_offset_of_end.private|has_offset_of_end.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_offset_of_end.personal|has_offset_of_end.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_offset/has_offset_of_end.personal|has_offset_of_end.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_offset_of_end.secret|has_offset_of_end.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_offset/has_offset_of_end.secret|has_offset_of_end.secret]] 
 

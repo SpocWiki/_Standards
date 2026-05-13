@@ -38,7 +38,7 @@ Related actions:
 #class/SubscribeAction
 #class/Thing/Action/InteractAction/SubscribeAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

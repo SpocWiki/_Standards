@@ -318,7 +318,7 @@ copyright ::         © 1996 P. L. Meserve
 ![Chinchilla mouse](Phyllotini/Chinchillula1.jpg) 
 scientific_name ::  Chinchillula sahamae
 Comments          Chinchilla mouse
-copyright ::         © 1996 J. Anderson
+copyright ::         © 1996 J. Anderson 
 
 
 ## Confidential Links & Embeds: 

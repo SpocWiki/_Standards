@@ -146,7 +146,7 @@ Photograph courtesy [InsectImages.org](http://www.insectimages.org/)
 and Prevention.![](Araneomorphae/Lycosa_helluo.jpg))
 -   Wolf spider male, Lycosa (Hogna) helluo (Entelegynae, Lycosoidea,
 Lycosidae).\
-Photograph copyright © Jim Kalisch, [Department of Entomology,     University of Nebraska-Lincoln](http://entomology.unl.edu/).
+Photograph copyright © Jim Kalisch, [Department of Entomology,     University of Nebraska-Lincoln](http://entomology.unl.edu/). 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ A posting to a discussion forum.
 #class/DiscussionForumPosting
 #class/Thing/CreativeWork/Article/SocialMediaPosting/DiscussionForumPosting
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

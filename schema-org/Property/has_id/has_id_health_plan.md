@@ -75,17 +75,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_id_health_plan|has_id_health_plan]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_id/has_id_health_plan|has_id_health_plan]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_id_health_plan.public|has_id_health_plan.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_id/has_id_health_plan.public|has_id_health_plan.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_id_health_plan.internal|has_id_health_plan.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_id/has_id_health_plan.internal|has_id_health_plan.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_id_health_plan.protect|has_id_health_plan.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_id/has_id_health_plan.protect|has_id_health_plan.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_id_health_plan.private|has_id_health_plan.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_id/has_id_health_plan.private|has_id_health_plan.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_id_health_plan.personal|has_id_health_plan.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_id/has_id_health_plan.personal|has_id_health_plan.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_id_health_plan.secret|has_id_health_plan.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_id/has_id_health_plan.secret|has_id_health_plan.secret]] 
 

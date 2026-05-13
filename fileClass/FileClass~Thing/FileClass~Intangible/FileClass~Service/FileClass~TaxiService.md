@@ -32,7 +32,7 @@ A service for a vehicle for hire with a driver for local travel. Fares are usual
 #class/TaxiService
 #class/Thing/Intangible/Service/TaxiService
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

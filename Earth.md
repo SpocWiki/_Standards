@@ -1253,7 +1253,7 @@ style : card
 col: 2
 briefMax: 128
 noteOnly: true
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
@@ -1271,8 +1271,6 @@ noteOnly: true
 ### #is_/same_as :: [[/_personal/Earth.personal|Earth.personal]] 
 
 ### #is_/same_as :: [[/_secret/Earth.secret|Earth.secret]] 
-
-
 # [[Earth]] 
 
 #is_/part_of :: [[geo]] 

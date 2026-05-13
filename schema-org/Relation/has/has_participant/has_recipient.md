@@ -90,19 +90,20 @@ Relation describes that:
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_recipient|has_recipient]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_participant/has_recipient|has_recipient]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_participants/has_recipient.public|has_recipient.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_participant/has_recipient.public|has_recipient.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_participants/has_recipient.internal|has_recipient.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_participant/has_recipient.internal|has_recipient.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_participants/has_recipient.protect|has_recipient.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_participant/has_recipient.protect|has_recipient.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_participants/has_recipient.private|has_recipient.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_participant/has_recipient.private|has_recipient.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_participants/has_recipient.personal|has_recipient.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_participant/has_recipient.personal|has_recipient.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_participants/has_recipient.secret|has_recipient.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_participant/has_recipient.secret|has_recipient.secret]] 
 

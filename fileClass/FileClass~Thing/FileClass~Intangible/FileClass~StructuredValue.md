@@ -32,7 +32,7 @@ Structured values are used when the value of a property has a more complex struc
 #class/StructuredValue
 #class/Thing/Intangible/StructuredValue
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

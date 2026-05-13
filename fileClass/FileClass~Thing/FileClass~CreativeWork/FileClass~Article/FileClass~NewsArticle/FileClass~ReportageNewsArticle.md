@@ -36,7 +36,7 @@ The [[ReportageNewsArticle]] type is a subtype of [[NewsArticle]] representing
 #class/ReportageNewsArticle
 #class/Thing/CreativeWork/Article/NewsArticle/ReportageNewsArticle
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

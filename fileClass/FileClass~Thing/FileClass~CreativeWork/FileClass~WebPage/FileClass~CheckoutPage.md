@@ -32,7 +32,7 @@ Web page type: Checkout page.
 #class/CheckoutPage
 #class/Thing/CreativeWork/WebPage/CheckoutPage
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

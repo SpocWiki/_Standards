@@ -74,7 +74,7 @@ Pagination:: {"type":"Input","options":{}}
 ### VolumeNumber
 Identifies the volume of publication or multi-part work; for example, "iii" or "2".
 
-VolumeNumber:: {"type":"Number","options":{}}
+VolumeNumber:: {"type":"Number","options":{}} 
 
 
 ## Confidential Links & Embeds: 

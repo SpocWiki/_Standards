@@ -34,7 +34,7 @@ This is the Schema to the [[../../schema-org/Class/is_a_/Intangible|Intangible]]
 #class/Intangible
 #class/Thing/Intangible
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

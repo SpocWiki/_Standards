@@ -177,3 +177,21 @@ dv_has_:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ambiguity)  
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Ambiguity|Ambiguity]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Ambiguity.public|Ambiguity.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Ambiguity.internal|Ambiguity.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Ambiguity.protect|Ambiguity.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Ambiguity.private|Ambiguity.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Ambiguity.personal|Ambiguity.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Ambiguity.secret|Ambiguity.secret]] 

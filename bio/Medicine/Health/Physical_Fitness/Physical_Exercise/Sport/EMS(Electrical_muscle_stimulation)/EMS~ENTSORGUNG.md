@@ -74,6 +74,21 @@ sind Sie selbst für deren Löschung verantwortlich, bevor Sie es zurückgeben.
 ![[EMS~ENTSORGUNG.svg]] 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport/EMS(Electrical_muscle_stimulation)/EMS~ENTSORGUNG|EMS~ENTSORGUNG]] 
+
+### #is_/same_as :: [[/_public/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport/EMS(Electrical_muscle_stimulation)/EMS~ENTSORGUNG.public|EMS~ENTSORGUNG.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport/EMS(Electrical_muscle_stimulation)/EMS~ENTSORGUNG.internal|EMS~ENTSORGUNG.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport/EMS(Electrical_muscle_stimulation)/EMS~ENTSORGUNG.protect|EMS~ENTSORGUNG.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport/EMS(Electrical_muscle_stimulation)/EMS~ENTSORGUNG.private|EMS~ENTSORGUNG.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport/EMS(Electrical_muscle_stimulation)/EMS~ENTSORGUNG.personal|EMS~ENTSORGUNG.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport/EMS(Electrical_muscle_stimulation)/EMS~ENTSORGUNG.secret|EMS~ENTSORGUNG.secret]] 
 %%
 ## Drawing
 ```compressed-json

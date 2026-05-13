@@ -93,7 +93,7 @@ PostalCodePrefix:: {"type":"Input","options":{}}
 ### PostalCodeRange
 A defined range of postal codes.
 
-PostalCodeRange:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/PostalCodeRangeSpecification')"}}
+PostalCodeRange:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/PostalCodeRangeSpecification')"}} 
 
 
 ## Confidential Links & Embeds: 

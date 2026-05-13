@@ -78,17 +78,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_id_of_health_plan_standard|has_id_of_health_plan_standard]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_id/has_id_of_health_plan_standard|has_id_of_health_plan_standard]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_id_of_health_plan_standard.public|has_id_of_health_plan_standard.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_id/has_id_of_health_plan_standard.public|has_id_of_health_plan_standard.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_id_of_health_plan_standard.internal|has_id_of_health_plan_standard.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_id/has_id_of_health_plan_standard.internal|has_id_of_health_plan_standard.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_id_of_health_plan_standard.protect|has_id_of_health_plan_standard.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_id/has_id_of_health_plan_standard.protect|has_id_of_health_plan_standard.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_id_of_health_plan_standard.private|has_id_of_health_plan_standard.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_id/has_id_of_health_plan_standard.private|has_id_of_health_plan_standard.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_id_of_health_plan_standard.personal|has_id_of_health_plan_standard.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_id/has_id_of_health_plan_standard.personal|has_id_of_health_plan_standard.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_id_of_health_plan_standard.secret|has_id_of_health_plan_standard.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_id/has_id_of_health_plan_standard.secret|has_id_of_health_plan_standard.secret]] 
 

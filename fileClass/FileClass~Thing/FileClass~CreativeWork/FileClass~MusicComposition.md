@@ -139,7 +139,7 @@ MusicalKey:: {"type":"Input","options":{}}
 ### RecordedAs
 An audio recording of the work.
 
-RecordedAs:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MusicRecording')"}}
+RecordedAs:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MusicRecording')"}} 
 
 
 ## Confidential Links & Embeds: 

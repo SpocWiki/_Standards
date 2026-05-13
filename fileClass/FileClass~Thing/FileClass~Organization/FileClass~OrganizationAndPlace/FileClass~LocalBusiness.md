@@ -79,7 +79,7 @@ PaymentAccepted:: {"type":"Input","options":{}}
 ### PriceRange
 The price range of the business, for example ```$$$```.
 
-PriceRange:: {"type":"Input","options":{}}
+PriceRange:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

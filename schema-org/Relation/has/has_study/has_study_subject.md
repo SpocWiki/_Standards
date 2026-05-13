@@ -77,17 +77,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_study_subject|has_study_subject]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_study/has_study_subject|has_study_subject]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_study_subject.public|has_study_subject.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_study/has_study_subject.public|has_study_subject.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_study_subject.internal|has_study_subject.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_study/has_study_subject.internal|has_study_subject.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_study_subject.protect|has_study_subject.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_study/has_study_subject.protect|has_study_subject.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_study_subject.private|has_study_subject.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_study/has_study_subject.private|has_study_subject.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_study_subject.personal|has_study_subject.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_study/has_study_subject.personal|has_study_subject.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_study_subject.secret|has_study_subject.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_study/has_study_subject.secret|has_study_subject.secret]] 
 

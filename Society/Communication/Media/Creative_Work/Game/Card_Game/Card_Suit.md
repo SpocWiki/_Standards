@@ -48,3 +48,21 @@
 
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit|Card_Suit]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit.public|Card_Suit.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit.internal|Card_Suit.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit.protect|Card_Suit.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit.private|Card_Suit.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit.personal|Card_Suit.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit.secret|Card_Suit.secret]] 

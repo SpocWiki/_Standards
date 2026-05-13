@@ -137,3 +137,21 @@ Plex_person_key: 5d7768253c3c2a001fbca996
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Christopher%20Plummer) 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/Canadian_Actor/Plummer,Christopher|Plummer,Christopher]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/Canadian_Actor/Plummer,Christopher.public|Plummer,Christopher.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/Canadian_Actor/Plummer,Christopher.internal|Plummer,Christopher.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/Canadian_Actor/Plummer,Christopher.protect|Plummer,Christopher.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/Canadian_Actor/Plummer,Christopher.private|Plummer,Christopher.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/Canadian_Actor/Plummer,Christopher.personal|Plummer,Christopher.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/Canadian_Actor/Plummer,Christopher.secret|Plummer,Christopher.secret]] 

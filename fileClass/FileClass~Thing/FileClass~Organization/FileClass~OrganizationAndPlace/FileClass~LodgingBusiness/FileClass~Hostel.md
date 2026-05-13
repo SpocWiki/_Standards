@@ -36,7 +36,7 @@ A hostel - cheap accommodation, often in shared dormitories.
 #class/Hostel
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Hostel
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

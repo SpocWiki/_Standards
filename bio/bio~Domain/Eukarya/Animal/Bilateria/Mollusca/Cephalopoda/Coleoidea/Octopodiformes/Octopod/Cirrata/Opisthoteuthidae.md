@@ -174,7 +174,7 @@ morphology of cirrate octopods: locomotion and feeding. Vie Milieu
   Comments          Captured by submersible
   copyright ::         © [Michael Vecchione](mailto:vecchiom@si.edu) 
  
-  ----------------------------------------------------------------------
+  ---------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

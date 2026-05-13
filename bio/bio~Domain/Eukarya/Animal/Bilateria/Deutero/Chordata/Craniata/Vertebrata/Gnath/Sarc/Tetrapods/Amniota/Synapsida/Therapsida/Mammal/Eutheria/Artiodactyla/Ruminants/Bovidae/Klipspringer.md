@@ -66,7 +66,7 @@ scientific_name ::     Oreotragus oreotragus
 location ::           captive at Brookfield Zoo, Chicago, USA
 Acknowledgements     The copyright owner has released this image under the [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons license](http://creativecommons.org/licenses/by-nc-nd/2.0/).
 specimen_condition ::  Live Specimen
-copyright ::            © 2006 [Ben Seese](http://flickr.com/people/benseese/)
+copyright ::            © 2006 [Ben Seese](http://flickr.com/people/benseese/) 
 
 
 ## Confidential Links & Embeds: 

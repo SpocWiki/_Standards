@@ -316,17 +316,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Mifune,Toshirō|Mifune,Toshirō]] 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/Asian_Actor/Mifune,Toshirō|Mifune,Toshirō]] 
 
-### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/Mifune,Toshirō.public|Mifune,Toshirō.public]] 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/Asian_Actor/Mifune,Toshirō.public|Mifune,Toshirō.public]] 
 
-### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/Mifune,Toshirō.internal|Mifune,Toshirō.internal]] 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/Asian_Actor/Mifune,Toshirō.internal|Mifune,Toshirō.internal]] 
 
-### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/Mifune,Toshirō.protect|Mifune,Toshirō.protect]] 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/Asian_Actor/Mifune,Toshirō.protect|Mifune,Toshirō.protect]] 
 
-### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/Mifune,Toshirō.private|Mifune,Toshirō.private]] 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/Asian_Actor/Mifune,Toshirō.private|Mifune,Toshirō.private]] 
 
-### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/Mifune,Toshirō.personal|Mifune,Toshirō.personal]] 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/Asian_Actor/Mifune,Toshirō.personal|Mifune,Toshirō.personal]] 
 
-### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/Mifune,Toshirō.secret|Mifune,Toshirō.secret]] 
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/Asian_Actor/Mifune,Toshirō.secret|Mifune,Toshirō.secret]] 
 

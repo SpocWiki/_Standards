@@ -84,7 +84,7 @@ dv_has_:
 	-   *Nyanzachoerus* †
 	-   *Parachleuastochoerus* †
 	-   *Sivachoerus* †
-	-   *Tetraconodon* †
+	-   *Tetraconodon* † 
 
 
 ## Confidential Links & Embeds: 

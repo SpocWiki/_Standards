@@ -32,7 +32,7 @@ A governmental organization or agency.
 #class/GovernmentOrganization
 #class/Thing/Organization/GovernmentOrganization
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ version: 2.0
 ---
 
 has_range:: {"type":"File","options":{"dvQueryString":"dv.pages('#class/Class')"},"style":{"code":false}}
-has_domain:: {"type":"File","options":{"dvQueryString":"dv.pages('#class/Class')"}}
+has_domain:: {"type":"File","options":{"dvQueryString":"dv.pages('#class/Class')"}} 
 
 
 ## Confidential Links & Embeds: 

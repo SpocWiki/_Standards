@@ -32,7 +32,7 @@ A taxi stand.
 #class/TaxiStand
 #class/Thing/Place/CivicStructure/TaxiStand
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

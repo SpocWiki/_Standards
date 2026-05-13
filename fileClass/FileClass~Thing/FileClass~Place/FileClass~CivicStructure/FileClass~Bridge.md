@@ -32,7 +32,7 @@ A bridge.
 #class/Bridge
 #class/Thing/Place/CivicStructure/Bridge
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

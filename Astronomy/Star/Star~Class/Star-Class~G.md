@@ -49,7 +49,7 @@ dv_is_same_as:
 has_name = `=this.dv_has_name`  
 has_value_for_temperature_k = `=this.dv_has_value_for_temperature_k`  
 has_value_for_radius_sol = `=this.dv_has_value_for_radius_sol`  
-has_value_for_weight_sol = `=this.dv_has_value_for_weight_sol`  
+has_value_for_weight_sol = `=this.dv_has_value_for_weight_sol` 
 
 
 ## Confidential Links & Embeds: 

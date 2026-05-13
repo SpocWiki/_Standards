@@ -9,7 +9,7 @@ It's SI Unit is the [[../Unit_of_Measure/SI-Unit/derived_Unit/Unit~Joule|Unit~Jo
 Due to the [[Isotropy]] of Time, it is a conserved Unit. 
 
 In [[../../../Knowledge/Physics.internal/Quantum-Physics|Quantum-Physics]] the [[Dim~Frequency]] of a Particle is 
-given by its [[Dim~Energy]]:  E = h * f
+given by its [[Dim~Energy]]:  E = h * f 
 
 
 ## Confidential Links & Embeds: 

@@ -75,19 +75,20 @@ has_range = `=this.dv_has_range`
 
 has_parent_property = `=this.dv_has_parent_property` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_landlord|has_landlord]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_participant/has_landlord|has_landlord]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_participants/has_landlord.public|has_landlord.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_participant/has_landlord.public|has_landlord.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_participants/has_landlord.internal|has_landlord.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_participant/has_landlord.internal|has_landlord.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_participants/has_landlord.protect|has_landlord.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_participant/has_landlord.protect|has_landlord.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_participants/has_landlord.private|has_landlord.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_participant/has_landlord.private|has_landlord.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_participants/has_landlord.personal|has_landlord.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_participant/has_landlord.personal|has_landlord.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_participants/has_landlord.secret|has_landlord.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_participant/has_landlord.secret|has_landlord.secret]] 
 

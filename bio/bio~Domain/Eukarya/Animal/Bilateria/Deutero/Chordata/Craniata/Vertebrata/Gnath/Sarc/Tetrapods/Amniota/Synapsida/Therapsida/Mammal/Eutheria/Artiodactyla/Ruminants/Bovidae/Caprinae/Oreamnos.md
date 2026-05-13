@@ -63,7 +63,7 @@ Containing group: [Caprinae](../Caprinae.md)
   specimen_condition ::  Live Specimen
   Source Collection    [InsectImages.org](http://www.insectimages.org/)
   copyright ::            © William M. Ciesla, Forest Health Management International
-  ------------------------------
+  ------------------------------ 
 
 
 ## Confidential Links & Embeds: 

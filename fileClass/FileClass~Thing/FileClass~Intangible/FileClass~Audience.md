@@ -53,7 +53,7 @@ AudienceType:: {"type":"Input","options":{}}
 ### GeographicArea
 The geographic area associated with the audience.
 
-GeographicArea:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place/AdministrativeArea')"}}
+GeographicArea:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place/AdministrativeArea')"}} 
 
 
 ## Confidential Links & Embeds: 

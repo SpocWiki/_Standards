@@ -71,17 +71,17 @@ range = `=this.dv_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_duration_of_lease|has_duration_of_lease]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_duration/has_duration_of_lease|has_duration_of_lease]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_duration_of/has_duration_of_lease.public|has_duration_of_lease.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_duration/has_duration_of_lease.public|has_duration_of_lease.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_duration_of/has_duration_of_lease.internal|has_duration_of_lease.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_duration/has_duration_of_lease.internal|has_duration_of_lease.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_duration_of/has_duration_of_lease.protect|has_duration_of_lease.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_duration/has_duration_of_lease.protect|has_duration_of_lease.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_duration_of/has_duration_of_lease.private|has_duration_of_lease.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_duration/has_duration_of_lease.private|has_duration_of_lease.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_duration_of/has_duration_of_lease.personal|has_duration_of_lease.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_duration/has_duration_of_lease.personal|has_duration_of_lease.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_duration_of/has_duration_of_lease.secret|has_duration_of_lease.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_duration/has_duration_of_lease.secret|has_duration_of_lease.secret]] 
 

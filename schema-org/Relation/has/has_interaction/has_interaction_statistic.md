@@ -78,22 +78,22 @@ has_domain = `=this.dv_has_domain`
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
-`Supersedes` `has_interaction_count`.
+`Supersedes` `has_interaction_count`. 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_interaction_statistic|has_interaction_statistic]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_interaction/has_interaction_statistic|has_interaction_statistic]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_interaction_statistic.public|has_interaction_statistic.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_interaction/has_interaction_statistic.public|has_interaction_statistic.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_interaction_statistic.internal|has_interaction_statistic.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_interaction/has_interaction_statistic.internal|has_interaction_statistic.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_interaction_statistic.protect|has_interaction_statistic.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_interaction/has_interaction_statistic.protect|has_interaction_statistic.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_interaction_statistic.private|has_interaction_statistic.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_interaction/has_interaction_statistic.private|has_interaction_statistic.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_interaction_statistic.personal|has_interaction_statistic.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_interaction/has_interaction_statistic.personal|has_interaction_statistic.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_interaction_statistic.secret|has_interaction_statistic.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_interaction/has_interaction_statistic.secret|has_interaction_statistic.secret]] 
 

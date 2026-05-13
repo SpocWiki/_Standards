@@ -75,17 +75,17 @@ But typically it is a typed [[../../../Collection/item_list|item_list]] with sub
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_child_property|has_child_property]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_child/has_child_property|has_child_property]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_child_property.public|has_child_property.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_child/has_child_property.public|has_child_property.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_child_property.internal|has_child_property.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_child/has_child_property.internal|has_child_property.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_child_property.protect|has_child_property.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_child/has_child_property.protect|has_child_property.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_child_property.private|has_child_property.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_child/has_child_property.private|has_child_property.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_child_property.personal|has_child_property.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_child/has_child_property.personal|has_child_property.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_child_property.secret|has_child_property.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_child/has_child_property.secret|has_child_property.secret]] 
 

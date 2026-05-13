@@ -226,7 +226,7 @@ scientific_name ::     Pickeringia montana var. tomentosa
 Comments             Commonly called Chaparral Pea.
 specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-copyright ::            © 1996 [Christopher L. Christie](mailto:refugee2000@qwest.net)
+copyright ::            © 1996 [Christopher L. Christie](mailto:refugee2000@qwest.net) 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ Event type: Food event.
 #class/FoodEvent
 #class/Thing/Event/FoodEvent
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

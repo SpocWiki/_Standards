@@ -32,7 +32,7 @@ An [[../../../../Society/Communication/Media/Creative_Work/Article|Article]] who
 #class/SatiricalArticle
 #class/Thing/CreativeWork/Article/SatiricalArticle
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

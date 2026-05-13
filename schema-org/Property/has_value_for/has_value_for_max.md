@@ -79,17 +79,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_max_value|has_value_for_max_value]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_max|has_value_for_max]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_max_value.public|has_value_for_max_value.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_max.public|has_value_for_max.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_max_value.internal|has_value_for_max_value.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_max.internal|has_value_for_max.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_max_value.protect|has_value_for_max_value.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_max.protect|has_value_for_max.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_max_value.private|has_value_for_max_value.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_max.private|has_value_for_max.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_max_value.personal|has_value_for_max_value.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_max.personal|has_value_for_max.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_max_value.secret|has_value_for_max_value.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_max.secret|has_value_for_max.secret]] 
 

@@ -54,7 +54,7 @@ Enables procurement teams to conduct spend intelligence, improve strategic sourc
  There are four ; each level contains a twocharacter numerical value and a textual description. Codes can be embedded into purchasing systems for purchase orders, invoices, electronic documents, etc., to assist employees throughout the company to find and purchase supplies and, for themselves, to analyze the supplies expenditures. The GPC schema provides an . Each brick may be assigned one or more attributes; in turn each brick attribute has a set of associated mutually-exclusive brick attribute values; the brick attribute can be defined as a particular product detail. For example, the brick can specify whether milk contains animal milk (cow, goat, etc.) or non-animal milk (soy, rice, etc.)
 
 Login: heuerm
-🔐β 💡yes💡wb+n2j3TLnvM87bL+tRgPZjYVHV0cjb3HF0BycM90SL+C+9suPnYruyHZ4JfL04geQHT/0znehn+ 🔐
+🔐β 💡yes💡wb+n2j3TLnvM87bL+tRgPZjYVHV0cjb3HF0BycM90SL+C+9suPnYruyHZ4JfL04geQHT/0znehn+ 🔐 
 
 
 ## Confidential Links & Embeds: 

@@ -16,3 +16,21 @@ The spread of new crops and advanced techniques of Water-Management in the Musli
 an increase in agricultural production, especially in the developing world 
 (also known as the Green Revolution)
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Agricultural_Revolution|Agricultural_Revolution]] 
+
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Agricultural_Revolution.public|Agricultural_Revolution.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Agricultural_Revolution.internal|Agricultural_Revolution.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Agricultural_Revolution.protect|Agricultural_Revolution.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Agricultural_Revolution.private|Agricultural_Revolution.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Agricultural_Revolution.personal|Agricultural_Revolution.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Agricultural_Revolution.secret|Agricultural_Revolution.secret]] 

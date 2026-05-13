@@ -32,7 +32,7 @@ The act of expressing a negative sentiment about the object. An agent dislikes a
 #class/DislikeAction
 #class/Thing/Action/AssessAction/ReactAction/DislikeAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

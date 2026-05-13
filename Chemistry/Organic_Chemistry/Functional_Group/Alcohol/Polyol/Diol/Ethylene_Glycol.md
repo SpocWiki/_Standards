@@ -173,17 +173,17 @@ has_formula_structural = `=this.dv_has_formula_structural`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Ethylene_Glycol|Ethylene_Glycol]] 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Functional_Group/Alcohol/Polyol/Diol/Ethylene_Glycol|Ethylene_Glycol]] 
 
-### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Ethylene_Glycol.public|Ethylene_Glycol.public]] 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Functional_Group/Alcohol/Polyol/Diol/Ethylene_Glycol.public|Ethylene_Glycol.public]] 
 
-### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Ethylene_Glycol.internal|Ethylene_Glycol.internal]] 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Functional_Group/Alcohol/Polyol/Diol/Ethylene_Glycol.internal|Ethylene_Glycol.internal]] 
 
-### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Ethylene_Glycol.protect|Ethylene_Glycol.protect]] 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Functional_Group/Alcohol/Polyol/Diol/Ethylene_Glycol.protect|Ethylene_Glycol.protect]] 
 
-### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Ethylene_Glycol.private|Ethylene_Glycol.private]] 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Functional_Group/Alcohol/Polyol/Diol/Ethylene_Glycol.private|Ethylene_Glycol.private]] 
 
-### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Ethylene_Glycol.personal|Ethylene_Glycol.personal]] 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Functional_Group/Alcohol/Polyol/Diol/Ethylene_Glycol.personal|Ethylene_Glycol.personal]] 
 
-### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Ethylene_Glycol.secret|Ethylene_Glycol.secret]] 
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Functional_Group/Alcohol/Polyol/Diol/Ethylene_Glycol.secret|Ethylene_Glycol.secret]] 
 

@@ -32,7 +32,7 @@ An office equipment store.
 #class/OfficeEquipmentStore
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/OfficeEquipmentStore
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

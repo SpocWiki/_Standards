@@ -89,7 +89,7 @@ Relation describes that:
 
 #has_/domain  :: [[../../../Society/Communication/Media/Creative_Work|Creative_Work]], [[../../Class/is_a_/Intangible/Rating|Rating]], [[../../Class/is_a_/Event/User_Interaction/User_Comments|User_Comments]]   
 has_name = `=this.dv_has_name` 
-(has_/range :: [[../../../Society/Agent/Community/Organization|Organization]], [[../../../Society/Agent/Person|Person]] )
+(has_/range :: [[../../../Society/Agent/Community/Organization|Organization]], [[../../../Society/Agent/Person|Person]] ) 
 
 
 ## Confidential Links & Embeds: 

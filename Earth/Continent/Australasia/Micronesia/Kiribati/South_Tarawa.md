@@ -59,7 +59,7 @@ coordinates: [[South_Tarawa]]
 markerFile: [[South_Tarawa]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

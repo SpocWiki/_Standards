@@ -87,17 +87,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Rhinopristiformes|Rhinopristiformes]] 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Cartilaginous_Fish/Elasmobranchii/Rhinopristiformes|Rhinopristiformes]] 
 
-### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Rhinopristiformes.public|Rhinopristiformes.public]] 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Cartilaginous_Fish/Elasmobranchii/Rhinopristiformes.public|Rhinopristiformes.public]] 
 
-### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Rhinopristiformes.internal|Rhinopristiformes.internal]] 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Cartilaginous_Fish/Elasmobranchii/Rhinopristiformes.internal|Rhinopristiformes.internal]] 
 
-### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Rhinopristiformes.protect|Rhinopristiformes.protect]] 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Cartilaginous_Fish/Elasmobranchii/Rhinopristiformes.protect|Rhinopristiformes.protect]] 
 
-### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Rhinopristiformes.private|Rhinopristiformes.private]] 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Cartilaginous_Fish/Elasmobranchii/Rhinopristiformes.private|Rhinopristiformes.private]] 
 
-### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Rhinopristiformes.personal|Rhinopristiformes.personal]] 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Cartilaginous_Fish/Elasmobranchii/Rhinopristiformes.personal|Rhinopristiformes.personal]] 
 
-### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Rhinopristiformes.secret|Rhinopristiformes.secret]] 
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Cartilaginous_Fish/Elasmobranchii/Rhinopristiformes.secret|Rhinopristiformes.secret]] 
 

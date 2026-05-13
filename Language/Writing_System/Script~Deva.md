@@ -10,7 +10,7 @@ Devanagari Script is used to write [[../Language_Family/LangFamily-Indo-European
 3. **Hindi:**
     
     - Devanagari Script: hi-Deva
-    - Latin Script (Transcription): hi-Latn
+    - Latin Script (Transcription): hi-Latn 
 
 
 ## Confidential Links & Embeds: 

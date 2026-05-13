@@ -32,7 +32,7 @@ Event type: Music event.
 #class/MusicEvent
 #class/Thing/Event/MusicEvent
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

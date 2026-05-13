@@ -72,17 +72,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_related_structure|has_related_structure]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_related/has_related_structure|has_related_structure]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_related_structure.public|has_related_structure.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_related/has_related_structure.public|has_related_structure.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_related_structure.internal|has_related_structure.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_related/has_related_structure.internal|has_related_structure.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_related_structure.protect|has_related_structure.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_related/has_related_structure.protect|has_related_structure.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_related_structure.private|has_related_structure.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_related/has_related_structure.private|has_related_structure.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_related_structure.personal|has_related_structure.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_related/has_related_structure.personal|has_related_structure.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_related_structure.secret|has_related_structure.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_related/has_related_structure.secret|has_related_structure.secret]] 
 

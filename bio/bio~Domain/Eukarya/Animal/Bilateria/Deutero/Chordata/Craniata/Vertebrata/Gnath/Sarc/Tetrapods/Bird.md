@@ -733,7 +733,7 @@ Behavior             flying
   Comments          Reconstruction of the fossil Archaeopteryx
   Reference         From Heilmann, G. 1926. The Origin of Birds. H. F. & G. Witherby, London.
   Sex ::             Male and Female
-  ---------------------------
+  --------------------------- 
 
 
 ## Confidential Links & Embeds: 

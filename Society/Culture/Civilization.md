@@ -466,7 +466,7 @@ The Advent of Nuclear Bombs has frozen Imperial Borders since 1945.
 | External conquest or invasion            | 67       | 0.78                                  |
 | Fiscal exhaustion & overextension        | 58       | 0.73                                  |
 | Environmental shocks (droughts, disease) | 54       | 0.69                                  |
-| Internal political fragmentation         | 52       | 0.66                                  |
+| Internal political fragmentation         | 52       | 0.66                                  | 
 
 
 ## Confidential Links & Embeds: 

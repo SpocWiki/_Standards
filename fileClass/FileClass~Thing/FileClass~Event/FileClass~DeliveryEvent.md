@@ -71,7 +71,7 @@ AvailableThrough:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultI
 ### HasDeliveryMethod
 Method used for delivery or shipping.
 
-HasDeliveryMethod:: {"type":"Select","options":{"valuesList":{"LockerDelivery","OnSitePickup","ParcelService"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
+HasDeliveryMethod:: {"type":"Select","options":{"valuesList":{"LockerDelivery","OnSitePickup","ParcelService"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}} 
 
 
 ## Confidential Links & Embeds: 

@@ -37,7 +37,8 @@ A trial that takes place at a single center.
 
 #has_/parent_class :: [[../MedicalTrialDesign|MedicalTrialDesign]]  
 
-#is_/enum_of :: [[../MedicalTrialDesign|MedicalTrialDesign]]  
+#is_/enum_of :: [[../MedicalTrialDesign|MedicalTrialDesign]] 
+
 
 ## Confidential Links & Embeds: 
 

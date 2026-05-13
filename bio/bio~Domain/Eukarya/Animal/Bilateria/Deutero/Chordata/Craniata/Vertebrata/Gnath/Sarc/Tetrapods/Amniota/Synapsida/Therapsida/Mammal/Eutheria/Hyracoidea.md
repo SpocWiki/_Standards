@@ -312,7 +312,7 @@ Mammalogy 76:1088-1099.
   specimen_condition ::  Live Specimen
   copyright ::            © 1989 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
  
-  ------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------ 
 
 
 ## Confidential Links & Embeds: 

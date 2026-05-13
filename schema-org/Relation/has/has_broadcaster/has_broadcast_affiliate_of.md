@@ -78,17 +78,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_broadcast_affiliate_of|has_broadcast_affiliate_of]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_broadcaster/has_broadcast_affiliate_of|has_broadcast_affiliate_of]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_broadcast_affiliate_of.public|has_broadcast_affiliate_of.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_broadcaster/has_broadcast_affiliate_of.public|has_broadcast_affiliate_of.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_broadcast_affiliate_of.internal|has_broadcast_affiliate_of.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_broadcaster/has_broadcast_affiliate_of.internal|has_broadcast_affiliate_of.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_broadcast_affiliate_of.protect|has_broadcast_affiliate_of.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_broadcaster/has_broadcast_affiliate_of.protect|has_broadcast_affiliate_of.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_broadcast_affiliate_of.private|has_broadcast_affiliate_of.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_broadcaster/has_broadcast_affiliate_of.private|has_broadcast_affiliate_of.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_broadcast_affiliate_of.personal|has_broadcast_affiliate_of.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_broadcaster/has_broadcast_affiliate_of.personal|has_broadcast_affiliate_of.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_broadcast_affiliate_of.secret|has_broadcast_affiliate_of.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_broadcaster/has_broadcast_affiliate_of.secret|has_broadcast_affiliate_of.secret]] 
 

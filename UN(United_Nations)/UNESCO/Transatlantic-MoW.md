@@ -1818,7 +1818,7 @@ aliases:
 | Silver Men: West Indian Labourers at the [Panama Canal](https://en.wikipedia.org/wiki/Panama_Canal) | [[USA]], <br>[[UK]], <br>[[../../Earth/Continent/America~Caribbean/Lesser_Antilles/Barbados|Barbados]], <br>[[../../Earth/Continent/America~Caribbean/Greater_Antilles/Jamaica|Jamaica]], <br>[[Panama]], <br>[Saint Lucia](https://en.wikipedia.org/wiki/Saint_Lucia) | - Barbados Museum and Historical Society, St. Michael<br> [13°05′00″N 59°36′08″W] | 2011 |
 | Permanent Collection of the Eleanor Roosevelt Papers Project | [[USA]] | [Eleanor Roosevelt](https://en.wikipedia.org/wiki/Eleanor_Roosevelt) Papers Project<br> [38°53′49″N 77°02′40″W] | 2013 |
 | [Moses and Frances Asch Collection](https://en.wikipedia.org/wiki/Smithsonian_Folkways). Center for Folklife and Cultural Heritage, Smithsonian Institution | [[USA]] | [Smithsonian Institution](https://en.wikipedia.org/wiki/Smithsonian_Institution), [[Suitland]]<br> [38°53′10″N 77°01′17″W] | 2015 |
-| The [Villa Ocampo](https://en.wikipedia.org/wiki/Villa_Ocampo) Documentation Center | [[USA]], <br>[[../../Earth/Continent/America~South/Southern_Cone/Argentina|Argentina]] | - UNESCO Villa Ocampo<br> [34°27′29″S 58°31′06″W] | 2017 |
+| The [Villa Ocampo](https://en.wikipedia.org/wiki/Villa_Ocampo) Documentation Center | [[USA]], <br>[[../../Earth/Continent/America~South/Southern_Cone/Argentina|Argentina]] | - UNESCO Villa Ocampo<br> [34°27′29″S 58°31′06″W] | 2017 | 
 
 
 ## Confidential Links & Embeds: 

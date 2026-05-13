@@ -80,7 +80,7 @@ PickupLocation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#clas
 ### PickupTime
 When a taxi will pick up a passenger or a rental car can be picked up.
 
-PickupTime:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
+PickupTime:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}} 
 
 
 ## Confidential Links & Embeds: 

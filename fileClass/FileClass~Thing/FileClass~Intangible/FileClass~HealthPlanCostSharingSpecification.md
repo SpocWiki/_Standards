@@ -83,7 +83,7 @@ HealthPlanCopayOption:: {"type":"Input","options":{}}
 ### HealthPlanPharmacyCategory
 The category or type of pharmacy associated with this cost sharing.
 
-HealthPlanPharmacyCategory:: {"type":"Input","options":{}}
+HealthPlanPharmacyCategory:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

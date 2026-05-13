@@ -210,7 +210,7 @@ location ::           Pikermi, Greece
 Reference            Lankester, E. R. 1905. Extinct Animals. Archibald Constable & Co. Ltd., London
 Creator              M. Gaudry
 specimen_condition ::  Fossil \-- Period: Miocene
-Body Part            restored skeleton
+Body Part            restored skeleton 
 
 
 ## Confidential Links & Embeds: 

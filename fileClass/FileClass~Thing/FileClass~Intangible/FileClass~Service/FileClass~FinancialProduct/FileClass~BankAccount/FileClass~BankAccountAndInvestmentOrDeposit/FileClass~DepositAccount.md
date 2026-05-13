@@ -32,7 +32,7 @@ A type of Bank Account with a main purpose of depositing funds to gain interest 
 #class/DepositAccount
 #class/Thing/Intangible/Service/FinancialProduct/BankAccount/BankAccountAndInvestmentOrDeposit/DepositAccount
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -331,7 +331,7 @@ location ::           Ngorogoro Wildlife Lodge, Tanzania
 Acknowledgements     Photograph courtesy [InsectImages.org](http://www.insectimages.org/) (#4321056)
 specimen_condition ::  Live Specimen
 Source Collection    [InsectImages.org](http://www.insectimages.org/)
-copyright ::            © Kenneth M. Gale
+copyright ::            © Kenneth M. Gale 
 
 
 ## Confidential Links & Embeds: 

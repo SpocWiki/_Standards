@@ -4,7 +4,7 @@ aliases:
   - Romantic painter
   - Romantic_Painting
   - Romantic Painting
----
+--- 
 
 
 ## Confidential Links & Embeds: 

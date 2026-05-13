@@ -32,7 +32,7 @@ A casino.
 #class/Casino
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/Casino
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

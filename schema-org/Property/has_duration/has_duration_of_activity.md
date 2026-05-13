@@ -68,17 +68,17 @@ range = `=this.dv_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_duration_of_activity|has_duration_of_activity]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_duration/has_duration_of_activity|has_duration_of_activity]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_duration_of/has_duration_of_activity.public|has_duration_of_activity.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_duration/has_duration_of_activity.public|has_duration_of_activity.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_duration_of/has_duration_of_activity.internal|has_duration_of_activity.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_duration/has_duration_of_activity.internal|has_duration_of_activity.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_duration_of/has_duration_of_activity.protect|has_duration_of_activity.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_duration/has_duration_of_activity.protect|has_duration_of_activity.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_duration_of/has_duration_of_activity.private|has_duration_of_activity.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_duration/has_duration_of_activity.private|has_duration_of_activity.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_duration_of/has_duration_of_activity.personal|has_duration_of_activity.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_duration/has_duration_of_activity.personal|has_duration_of_activity.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_duration_of/has_duration_of_activity.secret|has_duration_of_activity.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_duration/has_duration_of_activity.secret|has_duration_of_activity.secret]] 
 

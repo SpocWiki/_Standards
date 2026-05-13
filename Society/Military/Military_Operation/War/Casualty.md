@@ -102,17 +102,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Casualty|Casualty]] 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/War/Casualty|Casualty]] 
 
-### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/War/Casualty.public|Casualty.public]] 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/War/Casualty.public|Casualty.public]] 
 
-### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/War/Casualty.internal|Casualty.internal]] 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/War/Casualty.internal|Casualty.internal]] 
 
-### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/War/Casualty.protect|Casualty.protect]] 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/War/Casualty.protect|Casualty.protect]] 
 
-### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/War/Casualty.private|Casualty.private]] 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/War/Casualty.private|Casualty.private]] 
 
-### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/War/Casualty.personal|Casualty.personal]] 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/War/Casualty.personal|Casualty.personal]] 
 
-### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/War/Casualty.secret|Casualty.secret]] 
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/War/Casualty.secret|Casualty.secret]] 
 

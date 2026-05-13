@@ -106,6 +106,21 @@ Burns has published
 ![[Burns,David_D.svg]] 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Psychology/Psychiatrist/Burns,David_D|Burns,David_D]] 
+
+### #is_/same_as :: [[/_public/bio/Psychology/Psychiatrist/Burns,David_D.public|Burns,David_D.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Psychology/Psychiatrist/Burns,David_D.internal|Burns,David_D.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Psychology/Psychiatrist/Burns,David_D.protect|Burns,David_D.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Psychology/Psychiatrist/Burns,David_D.private|Burns,David_D.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Psychology/Psychiatrist/Burns,David_D.personal|Burns,David_D.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Psychology/Psychiatrist/Burns,David_D.secret|Burns,David_D.secret]] 
 %%
 ## Drawing
 ```compressed-json

@@ -83,7 +83,7 @@ Relation describes that:
 
 #has_/domain  :: "[[../../Class/is_a_/Intangible/Structured_Value/Contact_Point|Contact_Point]]", "[[../../../Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business|Lodging_Business]]", "[[../../Class/is_a_/Intangible/Service_Channel|Service_Channel]]", "[[../../../Earth/Geography/Place/Tourist_Attraction|Tourist_Attraction]]" 
 has_name = `=this.dv_has_name` 
-(has_/range :: "[[../../../Language|Language]]", "[[../../Class/is_a_/Data_Type/Text|Text]]" )
+(has_/range :: "[[../../../Language|Language]]", "[[../../Class/is_a_/Data_Type/Text|Text]]" ) 
 
 
 ## Confidential Links & Embeds: 

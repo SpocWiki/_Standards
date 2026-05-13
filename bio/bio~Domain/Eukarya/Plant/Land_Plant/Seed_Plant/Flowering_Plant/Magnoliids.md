@@ -328,7 +328,7 @@ specimen_condition ::  Live Specimen
 Identified By        Matyas Buzgo
 Sex ::                Female
 Body Part            Flowers
-copyright ::            © 2005 [Matyas Buzgo](ftp://ftp.flmnh.ufl.edu/Public/mbuzgo/MyPage/mbuzgo.htm)
+copyright ::            © 2005 [Matyas Buzgo](ftp://ftp.flmnh.ufl.edu/Public/mbuzgo/MyPage/mbuzgo.htm) 
 
 
 ## Confidential Links & Embeds: 

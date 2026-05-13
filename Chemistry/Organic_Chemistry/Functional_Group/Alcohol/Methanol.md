@@ -312,17 +312,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Alcohol/Methanol|Methanol]] 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Functional_Group/Alcohol/Methanol|Methanol]] 
 
-### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Alcohol/Methanol.public|Methanol.public]] 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Functional_Group/Alcohol/Methanol.public|Methanol.public]] 
 
-### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Alcohol/Methanol.internal|Methanol.internal]] 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Functional_Group/Alcohol/Methanol.internal|Methanol.internal]] 
 
-### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Alcohol/Methanol.protect|Methanol.protect]] 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Functional_Group/Alcohol/Methanol.protect|Methanol.protect]] 
 
-### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Alcohol/Methanol.private|Methanol.private]] 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Functional_Group/Alcohol/Methanol.private|Methanol.private]] 
 
-### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Alcohol/Methanol.personal|Methanol.personal]] 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Functional_Group/Alcohol/Methanol.personal|Methanol.personal]] 
 
-### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Alcohol/Methanol.secret|Methanol.secret]] 
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Functional_Group/Alcohol/Methanol.secret|Methanol.secret]] 
 

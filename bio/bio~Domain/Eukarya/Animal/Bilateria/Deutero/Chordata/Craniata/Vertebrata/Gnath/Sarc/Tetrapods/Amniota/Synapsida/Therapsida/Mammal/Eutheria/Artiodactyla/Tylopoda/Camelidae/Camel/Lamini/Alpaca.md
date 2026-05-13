@@ -54,7 +54,7 @@ scientific_name ::     Lama pacos
 location ::           Peru
 Acknowledgements     The copyright owner has released this image under the [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/).
 specimen_condition ::  Live Specimen
-copyright ::            © 2005 [lakerae](http://flickr.com/people/lakerae/)
+copyright ::            © 2005 [lakerae](http://flickr.com/people/lakerae/) 
 
 
 ## Confidential Links & Embeds: 

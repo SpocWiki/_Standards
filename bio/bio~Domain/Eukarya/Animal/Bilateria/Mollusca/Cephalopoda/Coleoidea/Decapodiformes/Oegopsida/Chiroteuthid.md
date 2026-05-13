@@ -120,7 +120,7 @@ Atlas.
   Acknowledgements   Batoteuthis scolops illustration by A. D. Hart, Chiroteuthis veranyi photograph copyright © 1996, E. McSweeny, Joubiniteuthis portieri photograph copyright © 1996, R. E. Young, Megapinna pacifica photograph copyright © 1998, Richard E. Young), Mastigoteuthis glaukopis from Chun, 1910, Promachoteuthis megaptera from Okutani, 1983.
   copyright ::          © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
-  -------------------------------------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

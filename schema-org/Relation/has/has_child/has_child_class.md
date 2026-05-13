@@ -88,17 +88,17 @@ has_inverse = `=this.dv_has_inverse`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_child_class|has_child_class]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_child/has_child_class|has_child_class]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/has_child_class.public|has_child_class.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_child/has_child_class.public|has_child_class.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/has_child_class.internal|has_child_class.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_child/has_child_class.internal|has_child_class.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/has_child_class.protect|has_child_class.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_child/has_child_class.protect|has_child_class.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/has_child_class.private|has_child_class.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_child/has_child_class.private|has_child_class.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/has_child_class.personal|has_child_class.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_child/has_child_class.personal|has_child_class.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/has_child_class.secret|has_child_class.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_child/has_child_class.secret|has_child_class.secret]] 
 

@@ -231,7 +231,7 @@ Magnapinna atlantica, n. sp. Proc. Biol. Soc. Wash. 119 (3): 365-372.
   View                 Side
   Size                 ca. 7 m
   copyright ::            © NOAA Undersea Research Program, Minerals Management Service and National Energy Technology Lab.
-  ------------------------------------
+  ------------------------------------ 
 
 
 ## Confidential Links & Embeds: 

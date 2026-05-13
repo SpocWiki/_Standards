@@ -286,7 +286,7 @@ Comments             The skeleton of the Mammoth found frozen in Siberia and now
 Reference            Lankester, E. R. 1905. Extinct Animals. Archibald Constable & Co. Ltd., London
 specimen_condition ::  Fossil
 Body Part            skeleton
-View                 lateral
+View                 lateral 
 
 
 ## Confidential Links & Embeds: 

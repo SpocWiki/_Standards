@@ -32,7 +32,7 @@ A publication event, e.g. catch-up TV or radio podcast, during which a program i
 #class/OnDemandEvent
 #class/Thing/Event/PublicationEvent/OnDemandEvent
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

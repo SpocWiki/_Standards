@@ -88,7 +88,7 @@ ValidFor:: {"type":"Number","options":{"min":"0","max":"2359"}}
 ### ValidIn
 The geographic area where a permit or similar thing is valid.
 
-ValidIn:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place/AdministrativeArea')"}}
+ValidIn:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place/AdministrativeArea')"}} 
 
 
 ## Confidential Links & Embeds: 

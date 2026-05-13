@@ -74,7 +74,7 @@ EduQuestionType:: {"type":"Input","options":{}}
 ### SuggestedAnswer
 An answer (possibly one of several, possibly incorrect) to a Question, e.g. on a Question/Answer site.
 
-SuggestedAnswer:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Comment/Answer')"}}
+SuggestedAnswer:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Comment/Answer')"}} 
 
 
 ## Confidential Links & Embeds: 

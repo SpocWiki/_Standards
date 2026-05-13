@@ -233,7 +233,7 @@ VehicleCode = `=this.dv_VehicleCode`
 [Alcohol-l::]
 [Language-Id::]
 [has_place_longitude::]
-[has_place_latitude::36.143]
+[has_place_latitude::36.143] 
 
 
 ## Confidential Links & Embeds: 

@@ -41,3 +41,21 @@ Commons_category: Empress (Major Arcana)
 - public rejoicings; 
 - according to another reading, vacillation 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~03~Empress|Tarot~03~Empress]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~03~Empress.public|Tarot~03~Empress.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~03~Empress.internal|Tarot~03~Empress.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~03~Empress.protect|Tarot~03~Empress.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~03~Empress.private|Tarot~03~Empress.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~03~Empress.personal|Tarot~03~Empress.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~03~Empress.secret|Tarot~03~Empress.secret]] 

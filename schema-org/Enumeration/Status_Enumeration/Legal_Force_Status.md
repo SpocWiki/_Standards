@@ -61,6 +61,7 @@ A list of possible statuses for the legal force of a legislation.
 
 has_parent_class = `=this.dv_has_parent_class` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status|Legal_Force_Status]] 

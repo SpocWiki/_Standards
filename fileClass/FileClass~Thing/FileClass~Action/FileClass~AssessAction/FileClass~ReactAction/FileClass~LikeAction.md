@@ -32,7 +32,7 @@ The act of expressing a positive sentiment about the object. An agent likes an o
 #class/LikeAction
 #class/Thing/Action/AssessAction/ReactAction/LikeAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

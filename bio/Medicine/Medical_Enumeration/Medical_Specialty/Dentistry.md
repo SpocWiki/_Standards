@@ -35,7 +35,8 @@ A branch of medicine that is involved in the dental care.
 
 #has_/parent_class :: [[../MedicalSpecialty|MedicalSpecialty]]  
 
-#is_/enum_of :: [[../MedicalSpecialty|MedicalSpecialty]]  
+#is_/enum_of :: [[../MedicalSpecialty|MedicalSpecialty]] 
+
 
 ## Confidential Links & Embeds: 
 

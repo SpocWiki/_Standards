@@ -167,7 +167,7 @@ part of a revision of the Characeae. Verlag von J. Cramer, Weinheim.
 
   ---------
   copyright ::   © 1996 R. M. McCourt
-  ---------
+  --------- 
 
 
 ## Confidential Links & Embeds: 

@@ -632,7 +632,7 @@ rubinellus II. Late spore development. Mycologia 78: 185-197.
   Body Part         Fruiting structures
   copyright ::         © 2003 [David S. Hibbett](http://www.clarku.edu/faculty/dhibbett/) 
  
-  -----------------------------------------------------------------------------
+  ----------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

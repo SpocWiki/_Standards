@@ -31,7 +31,7 @@ A sports location, such as a playing field.
 #class/SportsActivityLocation
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

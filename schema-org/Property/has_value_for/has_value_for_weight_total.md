@@ -91,17 +91,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_weight_total_kg|has_value_for_weight_total_kg]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_weight_total|has_value_for_weight_total]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_weight_total_kg.public|has_value_for_weight_total_kg.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_weight_total.public|has_value_for_weight_total.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_weight_total_kg.internal|has_value_for_weight_total_kg.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_weight_total.internal|has_value_for_weight_total.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_weight_total_kg.protect|has_value_for_weight_total_kg.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_weight_total.protect|has_value_for_weight_total.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_weight_total_kg.private|has_value_for_weight_total_kg.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_weight_total.private|has_value_for_weight_total.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_weight_total_kg.personal|has_value_for_weight_total_kg.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_weight_total.personal|has_value_for_weight_total.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_weight_total_kg.secret|has_value_for_weight_total_kg.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_weight_total.secret|has_value_for_weight_total.secret]] 
 

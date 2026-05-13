@@ -32,7 +32,7 @@ A file containing a note, primarily for the author.
 #class/NoteDigitalDocument
 #class/Thing/CreativeWork/DigitalDocument/NoteDigitalDocument
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -84,7 +84,7 @@ MembershipPointsEarned:: {"type":"Number","options":{}}
 ### ProgramName
 The program providing the membership.
 
-ProgramName:: {"type":"Input","options":{}}
+ProgramName:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

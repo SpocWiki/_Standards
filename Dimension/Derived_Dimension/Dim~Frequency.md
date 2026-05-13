@@ -434,7 +434,7 @@ because the Events are often completed Circles of 2*[[Pi]].
 | **Alto Voice**       | Voice    |          196 |          784 |
 | **Tenor Voice**      | Voice    |        130.8 |        523.3 |
 | **Baritone Voice**   | Voice    |          110 |        493.9 |
-| **Bass Voice**       | Voice    |        82.41 |          392 |
+| **Bass Voice**       | Voice    |        82.41 |          392 | 
 
 
 ## Confidential Links & Embeds: 

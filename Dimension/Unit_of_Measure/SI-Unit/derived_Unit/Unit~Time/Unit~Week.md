@@ -519,17 +519,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Week|Unit~Week]] 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Time/Unit~Week|Unit~Week]] 
 
-### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Week.public|Unit~Week.public]] 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Time/Unit~Week.public|Unit~Week.public]] 
 
-### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Week.internal|Unit~Week.internal]] 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Time/Unit~Week.internal|Unit~Week.internal]] 
 
-### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Week.protect|Unit~Week.protect]] 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Time/Unit~Week.protect|Unit~Week.protect]] 
 
-### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Week.private|Unit~Week.private]] 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Time/Unit~Week.private|Unit~Week.private]] 
 
-### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Week.personal|Unit~Week.personal]] 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Time/Unit~Week.personal|Unit~Week.personal]] 
 
-### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Week.secret|Unit~Week.secret]] 
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Time/Unit~Week.secret|Unit~Week.secret]] 
 

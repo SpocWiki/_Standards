@@ -135,7 +135,7 @@ Speakable:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thi
 ### Specialty
 One of the domain specialities to which this web page's content applies.
 
-Specialty:: {"type":"Input","options":{}}
+Specialty:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

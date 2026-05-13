@@ -32,7 +32,7 @@ A golf course.
 #class/GolfCourse
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/GolfCourse
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

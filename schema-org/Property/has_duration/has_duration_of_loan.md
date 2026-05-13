@@ -74,19 +74,20 @@ has_range = `=this.dv_has_range`
 
 has_parent_property = `=this.dv_has_parent_property` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_duration_of_loan|has_value_for_loan_term]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_duration/has_duration_of_loan|has_duration_of_loan]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_loan_term.public|has_value_for_loan_term.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_duration/has_duration_of_loan.public|has_duration_of_loan.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_loan_term.internal|has_value_for_loan_term.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_duration/has_duration_of_loan.internal|has_duration_of_loan.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_loan_term.protect|has_value_for_loan_term.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_duration/has_duration_of_loan.protect|has_duration_of_loan.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_loan_term.private|has_value_for_loan_term.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_duration/has_duration_of_loan.private|has_duration_of_loan.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_loan_term.personal|has_value_for_loan_term.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_duration/has_duration_of_loan.personal|has_duration_of_loan.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_loan_term.secret|has_value_for_loan_term.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_duration/has_duration_of_loan.secret|has_duration_of_loan.secret]] 
 

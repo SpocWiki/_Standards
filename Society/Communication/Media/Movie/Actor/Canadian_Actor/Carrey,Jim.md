@@ -322,7 +322,6 @@ dv_has_:
 Similar to [[../German_Actor/Kerkeling,Hape|Kerkeling,Hape]], his Mother was depressive and he was, from an early age on, trying to cheer her up. 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/Canadian_Actor/Carrey,Jim|Carrey,Jim]] 

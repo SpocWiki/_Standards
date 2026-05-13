@@ -32,7 +32,7 @@ A bus stop.
 #class/BusStop
 #class/Thing/Place/CivicStructure/BusStop
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

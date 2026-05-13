@@ -32,7 +32,7 @@ A process of care relying upon counseling, dialogue and communication  aimed at 
 #class/PsychologicalTreatment
 #class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/PsychologicalTreatment
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

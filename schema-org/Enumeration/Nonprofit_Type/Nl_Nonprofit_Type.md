@@ -61,6 +61,7 @@ NLNonprofitType: Non-profit organization type originating from the Netherlands.
 
 has_parent_class = `=this.dv_has_parent_class` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type|Nl_Nonprofit_Type]] 

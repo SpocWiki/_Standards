@@ -34,7 +34,8 @@ Tag Instances like this:
 
 Design models for medical trials. Enumerated type.
 
-#has_/parent_class :: [[../MedicalEnumeration|MedicalEnumeration]]  
+#has_/parent_class :: [[../MedicalEnumeration|MedicalEnumeration]] 
+
 
 ## Confidential Links & Embeds: 
 

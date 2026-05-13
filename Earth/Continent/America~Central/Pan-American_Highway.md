@@ -153,7 +153,7 @@ a dense and impassable jungle region
 spanning the border between Panama and Colombia. 
 
 This natural barrier prevents a continuous road connection 
-along the length of the Americas.
+along the length of the Americas. 
 
 
 ## Confidential Links & Embeds: 

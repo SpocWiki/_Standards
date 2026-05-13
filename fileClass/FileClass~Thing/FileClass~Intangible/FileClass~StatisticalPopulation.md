@@ -34,7 +34,7 @@ A StatisticalPopulation is a set of instances of a certain given type that satis
 #class/StatisticalPopulation
 #class/Thing/Intangible/StatisticalPopulation
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ A tourist information center.
 #class/TouristInformationCenter
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/TouristInformationCenter
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -176,7 +176,7 @@ Long-necked plant-eating dinosaurs.
 -   [First Dinosaur Embryos Found With Fossilized     Skin](http://www.amnh.org/science/expeditions/dinosaur/patagonia/).
     American Museum of Natural History Exhibition. Information about the
     recent discovery of sauropod nesting grounds in Auca Mahuida,
-    Argentina (Chiappe et al. 1998).
+    Argentina (Chiappe et al. 1998). 
 
 
 ## Confidential Links & Embeds: 

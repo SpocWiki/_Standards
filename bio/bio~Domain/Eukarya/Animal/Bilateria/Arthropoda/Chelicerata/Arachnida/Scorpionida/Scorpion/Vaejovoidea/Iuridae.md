@@ -92,7 +92,7 @@ dv_has_:
 Hadrurus arizonensis.
 Copyright © 1988, Scott A. Stockwell.
 ![arizonensis](Iuridae/iuridae.jpg) 
-copyright ::   © 1988 Scott A. Stockwell
+copyright ::   © 1988 Scott A. Stockwell 
 
 
 ## Confidential Links & Embeds: 

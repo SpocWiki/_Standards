@@ -32,7 +32,7 @@ A moving company.
 #class/MovingCompany
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/MovingCompany
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

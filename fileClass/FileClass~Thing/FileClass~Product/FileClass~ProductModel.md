@@ -54,7 +54,7 @@ PredecessorOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class
 ### SuccessorOf
 A pointer from a newer variant of a product  to its previous, often discontinued predecessor.
 
-SuccessorOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Product/ProductModel')"}}
+SuccessorOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Product/ProductModel')"}} 
 
 
 ## Confidential Links & Embeds: 

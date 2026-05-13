@@ -32,7 +32,7 @@ A travel agency.
 #class/TravelAgency
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/TravelAgency
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

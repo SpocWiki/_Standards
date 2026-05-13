@@ -32,7 +32,7 @@ WebContent is a type representing all [[WebPage]], [[WebSite]] and [[WebPageElem
 #class/WebContent
 #class/Thing/CreativeWork/WebContent
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

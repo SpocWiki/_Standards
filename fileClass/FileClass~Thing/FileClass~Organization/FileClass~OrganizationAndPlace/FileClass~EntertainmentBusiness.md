@@ -32,7 +32,7 @@ A business providing entertainment.
 #class/EntertainmentBusiness
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

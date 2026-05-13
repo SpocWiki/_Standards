@@ -112,7 +112,7 @@ dv_has_:
 	-   *Glomeridesmus pectinatus*
 	-   *Glomeridesmus riveroi*
 	-   *Glomeridesmus rotundatus*
-	-   *Glomeridesmus sbordoni*
+	-   *Glomeridesmus sbordoni* 
 
 
 ## Confidential Links & Embeds: 

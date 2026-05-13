@@ -343,17 +343,17 @@ has_formula_structural = `=this.dv_has_formula_structural`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Amine/Amino_Acid|Amino_Acid]] 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Functional_Group/Amine/Amino_Acid|Amino_Acid]] 
 
-### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Amine/Amino_Acid.public|Amino_Acid.public]] 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Functional_Group/Amine/Amino_Acid.public|Amino_Acid.public]] 
 
-### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Amine/Amino_Acid.internal|Amino_Acid.internal]] 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Functional_Group/Amine/Amino_Acid.internal|Amino_Acid.internal]] 
 
-### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Amine/Amino_Acid.protect|Amino_Acid.protect]] 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Functional_Group/Amine/Amino_Acid.protect|Amino_Acid.protect]] 
 
-### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Amine/Amino_Acid.private|Amino_Acid.private]] 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Functional_Group/Amine/Amino_Acid.private|Amino_Acid.private]] 
 
-### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Amine/Amino_Acid.personal|Amino_Acid.personal]] 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Functional_Group/Amine/Amino_Acid.personal|Amino_Acid.personal]] 
 
-### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Amine/Amino_Acid.secret|Amino_Acid.secret]] 
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Functional_Group/Amine/Amino_Acid.secret|Amino_Acid.secret]] 
 

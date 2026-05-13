@@ -35,7 +35,8 @@ A system of medicine that originated in India over thousands of years and that f
 
 #has_/parent_class :: [[../MedicineSystem|MedicineSystem]]  
 
-#is_/enum_of :: [[../MedicineSystem|MedicineSystem]]  
+#is_/enum_of :: [[../MedicineSystem|MedicineSystem]] 
+
 
 ## Confidential Links & Embeds: 
 

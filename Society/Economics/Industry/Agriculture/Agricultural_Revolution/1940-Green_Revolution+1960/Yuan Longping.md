@@ -93,3 +93,21 @@ aliases:
 
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Agricultural_Revolution/1940-Green_Revolution+1960/Yuan Longping|Yuan Longping]] 
+
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Agricultural_Revolution/1940-Green_Revolution+1960/Yuan Longping.public|Yuan Longping.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Agricultural_Revolution/1940-Green_Revolution+1960/Yuan Longping.internal|Yuan Longping.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Agricultural_Revolution/1940-Green_Revolution+1960/Yuan Longping.protect|Yuan Longping.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Agricultural_Revolution/1940-Green_Revolution+1960/Yuan Longping.private|Yuan Longping.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Agricultural_Revolution/1940-Green_Revolution+1960/Yuan Longping.personal|Yuan Longping.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Agricultural_Revolution/1940-Green_Revolution+1960/Yuan Longping.secret|Yuan Longping.secret]] 

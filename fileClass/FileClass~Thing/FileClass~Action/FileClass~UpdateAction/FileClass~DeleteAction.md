@@ -32,7 +32,7 @@ The act of editing a recipient by removing one of its objects.
 #class/DeleteAction
 #class/Thing/Action/UpdateAction/DeleteAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

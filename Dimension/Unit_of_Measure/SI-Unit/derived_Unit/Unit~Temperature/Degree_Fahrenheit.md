@@ -254,17 +254,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature/Degree_Fahrenheit|Degree_Fahrenheit]] 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Temperature/Degree_Fahrenheit|Degree_Fahrenheit]] 
 
-### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature/Degree_Fahrenheit.public|Degree_Fahrenheit.public]] 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Temperature/Degree_Fahrenheit.public|Degree_Fahrenheit.public]] 
 
-### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature/Degree_Fahrenheit.internal|Degree_Fahrenheit.internal]] 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Temperature/Degree_Fahrenheit.internal|Degree_Fahrenheit.internal]] 
 
-### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature/Degree_Fahrenheit.protect|Degree_Fahrenheit.protect]] 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Temperature/Degree_Fahrenheit.protect|Degree_Fahrenheit.protect]] 
 
-### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature/Degree_Fahrenheit.private|Degree_Fahrenheit.private]] 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Temperature/Degree_Fahrenheit.private|Degree_Fahrenheit.private]] 
 
-### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature/Degree_Fahrenheit.personal|Degree_Fahrenheit.personal]] 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Temperature/Degree_Fahrenheit.personal|Degree_Fahrenheit.personal]] 
 
-### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Temperature/Degree_Fahrenheit.secret|Degree_Fahrenheit.secret]] 
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Temperature/Degree_Fahrenheit.secret|Degree_Fahrenheit.secret]] 
 

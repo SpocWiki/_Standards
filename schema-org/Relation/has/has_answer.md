@@ -93,9 +93,10 @@ has_name = `=this.dv_has_name`
 
 has_child_property = `=this.dv_has_child_property` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_answer|has_answer]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_answer|has_answer]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_answer.public|has_answer.public]] 
 

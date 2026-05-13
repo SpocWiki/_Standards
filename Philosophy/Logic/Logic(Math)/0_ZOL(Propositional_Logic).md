@@ -208,17 +208,17 @@ All these can be formed from NAND or NOR Gates.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[0_ZOL(Propositional_Logic)|0]] 
+### #is_/same_as :: [[/_Standards/Philosophy/Logic/Logic(Math)/0_ZOL(Propositional_Logic)|0_ZOL(Propositional_Logic)]] 
 
-### #is_/same_as :: [[/_public/Philosophy/Logic/Logic(Math)/Propositional_Logic.public|Propositional_Logic.public]] 
+### #is_/same_as :: [[/_public/Philosophy/Logic/Logic(Math)/0_ZOL(Propositional_Logic).public|0_ZOL(Propositional_Logic).public]] 
 
-### #is_/same_as :: [[/_internal/Philosophy/Logic/Logic(Math)/Propositional_Logic.internal|Propositional_Logic.internal]] 
+### #is_/same_as :: [[/_internal/Philosophy/Logic/Logic(Math)/0_ZOL(Propositional_Logic).internal|0_ZOL(Propositional_Logic).internal]] 
 
-### #is_/same_as :: [[/_protect/Philosophy/Logic/Logic(Math)/Propositional_Logic.protect|Propositional_Logic.protect]] 
+### #is_/same_as :: [[/_protect/Philosophy/Logic/Logic(Math)/0_ZOL(Propositional_Logic).protect|0_ZOL(Propositional_Logic).protect]] 
 
-### #is_/same_as :: [[/_private/Philosophy/Logic/Logic(Math)/Propositional_Logic.private|Propositional_Logic.private]] 
+### #is_/same_as :: [[/_private/Philosophy/Logic/Logic(Math)/0_ZOL(Propositional_Logic).private|0_ZOL(Propositional_Logic).private]] 
 
-### #is_/same_as :: [[/_personal/Philosophy/Logic/Logic(Math)/Propositional_Logic.personal|Propositional_Logic.personal]] 
+### #is_/same_as :: [[/_personal/Philosophy/Logic/Logic(Math)/0_ZOL(Propositional_Logic).personal|0_ZOL(Propositional_Logic).personal]] 
 
-### #is_/same_as :: [[/_secret/Philosophy/Logic/Logic(Math)/Propositional_Logic.secret|Propositional_Logic.secret]] 
+### #is_/same_as :: [[/_secret/Philosophy/Logic/Logic(Math)/0_ZOL(Propositional_Logic).secret|0_ZOL(Propositional_Logic).secret]] 
 

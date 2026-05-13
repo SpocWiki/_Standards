@@ -225,9 +225,7 @@ independent = `=this.dv_independent`
 [	Developed_/Developing_Countries	 :: Developed ]
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
-
-
+[	Small_Island_Developing_States	 ::  ] 
 
 
 ## Confidential Links & Embeds: 

@@ -197,17 +197,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Military_Offensive|Military_Offensive]] 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/War/Military_Offensive|Military_Offensive]] 
 
-### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/War/Military_Offensive.public|Military_Offensive.public]] 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/War/Military_Offensive.public|Military_Offensive.public]] 
 
-### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/War/Military_Offensive.internal|Military_Offensive.internal]] 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/War/Military_Offensive.internal|Military_Offensive.internal]] 
 
-### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/War/Military_Offensive.protect|Military_Offensive.protect]] 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/War/Military_Offensive.protect|Military_Offensive.protect]] 
 
-### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/War/Military_Offensive.private|Military_Offensive.private]] 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/War/Military_Offensive.private|Military_Offensive.private]] 
 
-### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/War/Military_Offensive.personal|Military_Offensive.personal]] 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/War/Military_Offensive.personal|Military_Offensive.personal]] 
 
-### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/War/Military_Offensive.secret|Military_Offensive.secret]] 
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/War/Military_Offensive.secret|Military_Offensive.secret]] 
 

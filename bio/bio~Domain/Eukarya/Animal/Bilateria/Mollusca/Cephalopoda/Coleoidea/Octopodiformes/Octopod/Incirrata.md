@@ -221,7 +221,7 @@ African Jour. Mar. Sci. .
   specimen_condition ::  Live Specimen
   copyright ::            © 1996 [Mark D. Norman](mailto:mnorman@unimelb.edu.au) 
  
-  ---------------------------------------------------------------------------
+  --------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

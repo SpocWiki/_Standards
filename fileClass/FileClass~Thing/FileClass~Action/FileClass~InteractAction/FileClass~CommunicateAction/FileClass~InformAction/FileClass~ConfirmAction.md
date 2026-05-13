@@ -36,7 +36,7 @@ Related actions:
 #class/ConfirmAction
 #class/Thing/Action/InteractAction/CommunicateAction/InformAction/ConfirmAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

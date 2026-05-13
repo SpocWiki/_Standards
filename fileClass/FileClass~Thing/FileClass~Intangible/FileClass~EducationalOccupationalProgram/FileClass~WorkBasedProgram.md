@@ -32,7 +32,7 @@ A program with both an educational and employment component. Typically based at 
 #class/WorkBasedProgram
 #class/Thing/Intangible/EducationalOccupationalProgram/WorkBasedProgram
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

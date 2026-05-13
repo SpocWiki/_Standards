@@ -129,7 +129,7 @@ RenegotiableLoan:: {"type":"Boolean","options":{}}
 ### RequiredCollateral
 Assets required to secure loan or credit repayments. It may take form of third party pledge, goods, financial instruments (cash, securities, etc.)
 
-RequiredCollateral:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing')"}}
+RequiredCollateral:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing')"}} 
 
 
 ## Confidential Links & Embeds: 

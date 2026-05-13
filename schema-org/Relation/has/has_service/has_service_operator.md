@@ -78,17 +78,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_service_operator|has_service_operator]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_service/has_service_operator|has_service_operator]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_service_operator.public|has_service_operator.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_service/has_service_operator.public|has_service_operator.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_service_operator.internal|has_service_operator.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_service/has_service_operator.internal|has_service_operator.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_service_operator.protect|has_service_operator.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_service/has_service_operator.protect|has_service_operator.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_service_operator.private|has_service_operator.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_service/has_service_operator.private|has_service_operator.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_service_operator.personal|has_service_operator.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_service/has_service_operator.personal|has_service_operator.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_service_operator.secret|has_service_operator.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_service/has_service_operator.secret|has_service_operator.secret]] 
 

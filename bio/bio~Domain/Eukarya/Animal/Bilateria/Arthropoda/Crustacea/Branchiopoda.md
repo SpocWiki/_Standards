@@ -203,7 +203,7 @@ location ::           Shasta County, California, USA
 Comments             Tadpole shrimp
 specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-copyright ::            © 1999 [William Leonard](mailto:mollusca1@attbi.com)
+copyright ::            © 1999 [William Leonard](mailto:mollusca1@attbi.com) 
 
 
 ## Confidential Links & Embeds: 

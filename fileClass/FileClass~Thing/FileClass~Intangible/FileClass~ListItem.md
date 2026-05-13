@@ -75,7 +75,7 @@ Position:: {"type":"Number","options":{}}
 ### PreviousItem
 A link to the ListItem that precedes the current one.
 
-PreviousItem:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/ListItem')"}}
+PreviousItem:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/ListItem')"}} 
 
 
 ## Confidential Links & Embeds: 

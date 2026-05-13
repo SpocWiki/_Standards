@@ -32,7 +32,7 @@ A condition or factor that indicates use of a medical therapy, including signs, 
 #class/MedicalIndication
 #class/Thing/MedicalEntity/MedicalIndication
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

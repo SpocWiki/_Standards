@@ -38,7 +38,8 @@ A medical study is an umbrella type covering all kinds of research studies relat
 
 #has_/child_/class :: [ MedicalObservationalStudy, MedicalTrial ]  
 
-#has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, healthCondition, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, sponsor, status, study, studyLocation, studySubject, subjectOf, url ]  
+#has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, healthCondition, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, sponsor, status, study, studyLocation, studySubject, subjectOf, url ] 
+
 
 ## Confidential Links & Embeds: 
 

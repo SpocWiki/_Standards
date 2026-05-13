@@ -281,7 +281,7 @@ dv_has_:
 ------------ 
 ![Tupaia tana](Scandentia/Tupaia_tana.jpg)) 
 scientific_name ::  Tupaia tana
-Creator           Joseph Smit (1836--1929)
+Creator           Joseph Smit (1836--1929) 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ A dance group—for example, the Alvin Ailey Dance Theater or Riverdance.
 #class/DanceGroup
 #class/Thing/Organization/PerformingGroup/DanceGroup
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

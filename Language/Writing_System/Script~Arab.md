@@ -10,7 +10,7 @@ Several Languages, especially [[../Language_Family/LangFamily-Afro-Asiatic/LangF
 1. **Arabic:**
     
     - Arabic Script: ar-Arab
-    - Latin Script (Transcription): ar-Latn
+    - Latin Script (Transcription): ar-Latn 
 
 
 ## Confidential Links & Embeds: 

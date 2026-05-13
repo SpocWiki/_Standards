@@ -96,22 +96,22 @@ Relation describes that:
 
 #has_/domain  :: "[[../../../../Society/Communication/Media/Creative_Work/Course|Course]]", "[[../../../Class/is_a_/Intangible/Educational_Occupational_Program|Educational_Occupational_Program]]"  
 has_name = `=this.dv_has_name` 
-(has_/range :: "[[../../../../Society/Communication/Media/Creative_Work/Educational_Occupational_Credential|Educational_Occupational_Credential]]", "[[../../../Class/is_a_/Data_Type/Text|Text]]", "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]" )
+(has_/range :: "[[../../../../Society/Communication/Media/Creative_Work/Educational_Occupational_Credential|Educational_Occupational_Credential]]", "[[../../../Class/is_a_/Data_Type/Text|Text]]", "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]" ) 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_occupation_credential_awarded|has_occupation_credential_awarded]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_occupation/has_occupation_credential_awarded|has_occupation_credential_awarded]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_occupation_credential_awarded.public|has_occupation_credential_awarded.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_occupation/has_occupation_credential_awarded.public|has_occupation_credential_awarded.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_occupation_credential_awarded.internal|has_occupation_credential_awarded.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_occupation/has_occupation_credential_awarded.internal|has_occupation_credential_awarded.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_occupation_credential_awarded.protect|has_occupation_credential_awarded.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_occupation/has_occupation_credential_awarded.protect|has_occupation_credential_awarded.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_occupation_credential_awarded.private|has_occupation_credential_awarded.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_occupation/has_occupation_credential_awarded.private|has_occupation_credential_awarded.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_occupation_credential_awarded.personal|has_occupation_credential_awarded.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_occupation/has_occupation_credential_awarded.personal|has_occupation_credential_awarded.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_occupation_credential_awarded.secret|has_occupation_credential_awarded.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_occupation/has_occupation_credential_awarded.secret|has_occupation_credential_awarded.secret]] 
 

@@ -22,7 +22,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/Texts.secret|Texts.secret]]"
 ---
 
-# Texts
+# Texts 
 
 
 ## Confidential Links & Embeds: 

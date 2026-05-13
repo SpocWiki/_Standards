@@ -36,7 +36,8 @@ An observational study is a type of medical study that attempts to infer the pos
 
 #has_/parent_class :: [[../MedicalStudy|MedicalStudy]]  
 
-#has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, healthCondition, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, sponsor, status, study, studyDesign, studyLocation, studySubject, subjectOf, url ]  
+#has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, healthCondition, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, sponsor, status, study, studyDesign, studyLocation, studySubject, subjectOf, url ] 
+
 
 ## Confidential Links & Embeds: 
 

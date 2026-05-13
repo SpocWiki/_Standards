@@ -162,7 +162,7 @@ of the Museum of Comparative Zoology 85: 325-409.
   View              dorsal, palatal, left palatal, occipital
   copyright ::         © 1996 [Michel Laurin](http://tolweb.org/tree/laurin/Laurin_Home_page.html) 
  
-  ---------------------------------------------------------------------------------
+  --------------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

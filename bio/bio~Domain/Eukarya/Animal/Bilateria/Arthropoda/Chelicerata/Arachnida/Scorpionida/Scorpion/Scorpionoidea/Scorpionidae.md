@@ -154,7 +154,7 @@ dv_has_:
 ----------
 Pandinus imperator.
 Photograph copyright © 1991, Scott A. Stockwell.![](Scorpionidae/scorpionidae.jpg))
-copyright ::   © 1991 Scott A. Stockwell
+copyright ::   © 1991 Scott A. Stockwell 
 
 
 ## Confidential Links & Embeds: 

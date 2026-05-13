@@ -84,7 +84,7 @@ dv_has_:
 -   » Sub-Groups 
 	-   *Chleuastochoerus* †
 	-   *Dubiotherium* †
-	-   *Hyotherium* †
+	-   *Hyotherium* † 
 
 
 ## Confidential Links & Embeds: 

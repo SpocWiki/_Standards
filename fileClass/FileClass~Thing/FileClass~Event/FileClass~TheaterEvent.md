@@ -32,7 +32,7 @@ Event type: Theater performance.
 #class/TheaterEvent
 #class/Thing/Event/TheaterEvent
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

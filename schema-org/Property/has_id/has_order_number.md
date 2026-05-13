@@ -73,19 +73,20 @@ has_range = `=this.dv_has_range`
 
 has_parent_property = `=this.dv_has_parent_property` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_order_number|has_order_number]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_id/has_order_number|has_order_number]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_order_number.public|has_order_number.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_id/has_order_number.public|has_order_number.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_order_number.internal|has_order_number.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_id/has_order_number.internal|has_order_number.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_order_number.protect|has_order_number.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_id/has_order_number.protect|has_order_number.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_order_number.private|has_order_number.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_id/has_order_number.private|has_order_number.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_order_number.personal|has_order_number.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_id/has_order_number.personal|has_order_number.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_order_number.secret|has_order_number.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_id/has_order_number.secret|has_order_number.secret]] 
 

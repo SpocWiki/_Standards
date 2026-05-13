@@ -164,7 +164,7 @@ specimen_condition ::  Live Specimen
 Identified By        Tony Dold
 Collection           USMS, GRA
 Collector            T. Dold
-copyright ::            © 2006 [Tony Dold](http://www.ru.ac.za/botany)
+copyright ::            © 2006 [Tony Dold](http://www.ru.ac.za/botany) 
 
 
 ## Confidential Links & Embeds: 

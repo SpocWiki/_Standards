@@ -409,7 +409,7 @@ scientific_name ::     Bison bison
 Comments             American bison
 Creator              Steve Maslowski
 Acknowledgements     Photo courtesy U. S. Fish and Wildlife Service
-specimen_condition ::  Live Specimen
+specimen_condition ::  Live Specimen 
 
 
 ## Confidential Links & Embeds: 

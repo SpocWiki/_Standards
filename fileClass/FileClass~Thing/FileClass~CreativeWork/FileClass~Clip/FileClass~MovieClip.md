@@ -32,7 +32,7 @@ A short segment/part of a movie.
 #class/MovieClip
 #class/Thing/CreativeWork/Clip/MovieClip
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -152,3 +152,19 @@ dv_has_:
 > [Wikipedia](https://en.wikipedia.org/wiki/Dyscalculia) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disability/Intellectual_Disability/Dyscalculia|Dyscalculia]] 
+
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disability/Intellectual_Disability/Dyscalculia.public|Dyscalculia.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disability/Intellectual_Disability/Dyscalculia.internal|Dyscalculia.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disability/Intellectual_Disability/Dyscalculia.protect|Dyscalculia.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disability/Intellectual_Disability/Dyscalculia.private|Dyscalculia.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disability/Intellectual_Disability/Dyscalculia.personal|Dyscalculia.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disability/Intellectual_Disability/Dyscalculia.secret|Dyscalculia.secret]] 
+

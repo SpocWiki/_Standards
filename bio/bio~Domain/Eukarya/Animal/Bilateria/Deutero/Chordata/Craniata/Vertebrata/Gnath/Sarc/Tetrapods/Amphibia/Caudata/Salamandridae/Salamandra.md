@@ -151,7 +151,7 @@ specimen_condition ::  Live Specimen
 Source               [Salamandra atra](http://www.flickr.com/photos/philgimp/205901169/)
 Source Collection    [Flickr](http://flickr.com/)
 Image Use ::    [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
-copyright ::            © 2006 [Philippe Henry](http://flickr.com/people/66579298@N00)
+copyright ::            © 2006 [Philippe Henry](http://flickr.com/people/66579298@N00) 
 
 
 ## Confidential Links & Embeds: 

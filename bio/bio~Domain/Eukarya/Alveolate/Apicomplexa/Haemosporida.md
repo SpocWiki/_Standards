@@ -94,7 +94,7 @@ dv_has_:
 	-   *Plasmodium*
 	-   *Polychromophilus*
 	-   *Rayella*
-	-   *Saurocytozoon*
+	-   *Saurocytozoon* 
 
 
 ## Confidential Links & Embeds: 

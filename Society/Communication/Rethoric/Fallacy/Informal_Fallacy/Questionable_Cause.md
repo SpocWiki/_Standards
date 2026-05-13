@@ -71,3 +71,21 @@ dv_has_:
 
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Questionable_Cause|Questionable_Cause]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Questionable_Cause.public|Questionable_Cause.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Questionable_Cause.internal|Questionable_Cause.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Questionable_Cause.protect|Questionable_Cause.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Questionable_Cause.private|Questionable_Cause.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Questionable_Cause.personal|Questionable_Cause.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Questionable_Cause.secret|Questionable_Cause.secret]] 

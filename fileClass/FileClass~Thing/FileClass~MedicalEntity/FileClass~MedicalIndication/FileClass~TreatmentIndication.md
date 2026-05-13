@@ -32,7 +32,7 @@ An indication for treating an underlying condition, symptom, etc.
 #class/TreatmentIndication
 #class/Thing/MedicalEntity/MedicalIndication/TreatmentIndication
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ The act of distributing content to people for their amusement or edification.
 #class/ShareAction
 #class/Thing/Action/InteractAction/CommunicateAction/ShareAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

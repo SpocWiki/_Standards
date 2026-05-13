@@ -18,7 +18,7 @@ In Science and [[../../Engineering|Engineering]] Literature a set of common Name
 | Trudy                                                                   | **Intruder**                         | Intrusion models             | 1993 |  15 |
 | Erin                                                                    | Additional honest participant        | Extended protocols           | 1994 |  20 |
 | Sybil                                                                   | Fake or forged identity              | Distributed systems          | 2002 |  50 |
-| Heidi                                                                   | Honest **voter**                     | Electronic voting            | 2004 |  20 |
+| Heidi                                                                   | Honest **voter**                     | Electronic voting            | 2004 |  20 | 
 
 
 ## Confidential Links & Embeds: 

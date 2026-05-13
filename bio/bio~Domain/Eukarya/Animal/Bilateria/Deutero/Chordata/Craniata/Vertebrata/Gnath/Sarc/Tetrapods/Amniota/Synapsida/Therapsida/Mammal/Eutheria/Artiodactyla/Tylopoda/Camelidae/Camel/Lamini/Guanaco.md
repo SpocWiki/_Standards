@@ -222,7 +222,7 @@ specimen_condition ::  Live Specimen
 Source               [Guanaco](http://flickr.com/photos/merula/153179602/)
 Source Collection    [Flickr](http://flickr.com/)
 Image Use ::    [Attribution-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-sa/2.0/).
-copyright ::            © 2005 [Alastair Rae](http://flickr.com/people/merula/)
+copyright ::            © 2005 [Alastair Rae](http://flickr.com/people/merula/) 
 
 
 ## Confidential Links & Embeds: 

@@ -54,7 +54,7 @@ AvailableService:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cl
 ### HealthcareReportingData
 Indicates data describing a hospital, e.g. a CDC [[CDCPMDRecord]] or as some kind of [[../../../../../../Society/Communication/Media/Creative_Work/Dataset|Dataset]].
 
-HealthcareReportingData:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/CDCPMDRecord')"}}
+HealthcareReportingData:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/CDCPMDRecord')"}} 
 
 
 ## Confidential Links & Embeds: 

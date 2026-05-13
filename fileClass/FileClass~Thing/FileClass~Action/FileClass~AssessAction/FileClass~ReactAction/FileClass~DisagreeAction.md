@@ -32,7 +32,7 @@ The act of expressing a difference of opinion with the object. An agent disagree
 #class/DisagreeAction
 #class/Thing/Action/AssessAction/ReactAction/DisagreeAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

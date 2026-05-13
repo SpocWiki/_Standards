@@ -127,7 +127,7 @@ scientific_name ::     Oryzomys palustris
 Creator              R.K. LaVal
 specimen_condition ::  Live Specimen
 Identified By        R.K. LaVal
-Life Cycle Stage ::     Adult
+Life Cycle Stage ::     Adult 
 
 
 ## Confidential Links & Embeds: 

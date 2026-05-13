@@ -32,7 +32,7 @@ An indication for a medical therapy that has been formally specified or approved
 #class/ApprovedIndication
 #class/Thing/MedicalEntity/MedicalIndication/ApprovedIndication
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

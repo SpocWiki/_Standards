@@ -103,7 +103,7 @@ Containing group: [Leptodactylinae](../Leptodactylinae.md)
   ------------------------------------------------------------------------
   copyright ::   © 1996 [David Cannatella](http://www.catfishlab.org/) 
  
-  ------------------------------------------------------------------------
+  ------------------------------------------------------------------------ 
 
 
 ## Confidential Links & Embeds: 

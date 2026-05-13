@@ -319,7 +319,7 @@ Containing group: [Caprinae](../Caprinae.md)
   specimen_condition ::  Live Specimen
   Image Use ::    [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
   copyright ::            © 2005 [Patrick Smillie](http://flickr.com/people/mafic/)
-  ------------------------------------------------------------------
+  ------------------------------------------------------------------ 
 
 
 ## Confidential Links & Embeds: 

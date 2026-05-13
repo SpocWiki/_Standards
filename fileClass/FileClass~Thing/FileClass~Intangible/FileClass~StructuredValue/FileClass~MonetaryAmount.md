@@ -103,7 +103,7 @@ The value of a [[QuantitativeValue]] (including [[Observation]]) or property val
 \* Use values from 0123456789 (Unicode 'DIGIT ZERO' (U+0030) to 'DIGIT NINE' (U+0039)) rather than superficially similar Unicode symbols.
 \* Use '.' (Unicode 'FULL STOP' (U+002E)) rather than ',' to indicate a decimal point. Avoid using these symbols as a readability separator.
 
-Value:: {"type":"Boolean","options":{}}
+Value:: {"type":"Boolean","options":{}} 
 
 
 ## Confidential Links & Embeds: 

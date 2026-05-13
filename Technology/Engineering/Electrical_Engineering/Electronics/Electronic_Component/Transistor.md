@@ -346,7 +346,7 @@ manufactured between 1960 and 2018.
 
 The key advantages of a MOSFET transistors over BJTs are that 
 they __consume no current__ _except_ when switching states (unlike TTL-ICs) 
-and they have faster switching speed (ideal for digital signals).
+and they have faster switching speed (ideal for digital signals). 
 
 
 ## Confidential Links & Embeds: 

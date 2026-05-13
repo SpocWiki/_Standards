@@ -32,7 +32,7 @@ A theater group or company, for example, the Royal Shakespeare Company or Druid 
 #class/TheaterGroup
 #class/Thing/Organization/PerformingGroup/TheaterGroup
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

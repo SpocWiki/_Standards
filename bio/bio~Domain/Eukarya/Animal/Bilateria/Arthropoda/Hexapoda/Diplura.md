@@ -209,7 +209,7 @@ der Schweiz. Denkschr. Schweiz. Naturforsch. Ges. 74(2):113-227.
   specimen_condition ::  Live Specimen
   copyright ::            © 2002 [David R. Maddison](http://david.bembidion.org/) 
  
-  ---------------------------------------------------------------------------
+  --------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

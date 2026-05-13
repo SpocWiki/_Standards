@@ -101,7 +101,8 @@ Relation describes that:
 
 #has_/domain  :: [[../../../Society/Agent/Community/Organization|Organization]], [[../../../Society/Agent/Person|Person]]  
 has_name = `=this.dv_has_name` 
-(has_/range :: [[../../../Society/Agent/Community/Organization|Organization]],  [[../../Class/is_a_/Intangible/Program_Membership|Program_Membership]] )
+(has_/range :: [[../../../Society/Agent/Community/Organization|Organization]],  [[../../Class/is_a_/Intangible/Program_Membership|Program_Membership]] ) 
+
 
 ## Confidential Links & Embeds: 
 

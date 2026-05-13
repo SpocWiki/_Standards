@@ -85,7 +85,7 @@ PrintPage:: {"type":"Input","options":{}}
 ### PrintSection
 If this NewsArticle appears in print, this field indicates the print section in which the article appeared.
 
-PrintSection:: {"type":"Input","options":{}}
+PrintSection:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

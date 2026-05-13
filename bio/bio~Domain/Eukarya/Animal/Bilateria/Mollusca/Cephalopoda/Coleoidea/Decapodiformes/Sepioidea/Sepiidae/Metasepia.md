@@ -95,7 +95,7 @@ Hokkaido Imperial University, 20(supplement):357 pages.
   scientific_name ::  Metasepia tullbergi
   location ::        Japan
   copyright ::         © 1996 Yutaka Natsukari
-  ------------
+  ------------ 
 
 
 ## Confidential Links & Embeds: 

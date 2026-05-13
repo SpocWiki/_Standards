@@ -138,7 +138,7 @@ ParentService:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class
 ### VideoFormat
 The type of screening or video broadcast used (e.g. IMAX, 3D, SD, HD, etc.).
 
-VideoFormat:: {"type":"Input","options":{}}
+VideoFormat:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

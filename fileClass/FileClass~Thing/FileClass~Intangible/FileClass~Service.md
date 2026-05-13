@@ -247,7 +247,7 @@ Slogan:: {"type":"Input","options":{}}
 ### TermsOfService
 Human-readable terms of service documentation.
 
-TermsOfService:: {"type":"Input","options":{}}
+TermsOfService:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

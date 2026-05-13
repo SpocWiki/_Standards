@@ -177,5 +177,22 @@ dv_has_:
 > 
 > The center of mass is a useful reference point for calculations in mechanics that involve masses distributed in space, such as the linear and angular momentum of planetary bodies and rigid body dynamics. In orbital mechanics, the equations of motion of planets are formulated as point masses located at the centers of mass (see Barycenter (astronomy) for details). The center of mass frame is an inertial frame in which the center of mass of a system is at rest with respect to the origin of the coordinate system.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Center%20of%20mass)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Center%20of%20mass) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Mathematics/Optimization(Math)/Center_of_Mass|Center_of_Mass]] 
+
+### #is_/same_as :: [[/_public/Mathematics/Optimization(Math)/Center_of_Mass.public|Center_of_Mass.public]] 
+
+### #is_/same_as :: [[/_internal/Mathematics/Optimization(Math)/Center_of_Mass.internal|Center_of_Mass.internal]] 
+
+### #is_/same_as :: [[/_protect/Mathematics/Optimization(Math)/Center_of_Mass.protect|Center_of_Mass.protect]] 
+
+### #is_/same_as :: [[/_private/Mathematics/Optimization(Math)/Center_of_Mass.private|Center_of_Mass.private]] 
+
+### #is_/same_as :: [[/_personal/Mathematics/Optimization(Math)/Center_of_Mass.personal|Center_of_Mass.personal]] 
+
+### #is_/same_as :: [[/_secret/Mathematics/Optimization(Math)/Center_of_Mass.secret|Center_of_Mass.secret]] 
 

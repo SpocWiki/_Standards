@@ -317,7 +317,7 @@ has_properties = `=this.dv_has_properties`
 Class of all zoos.
 
 Tag Instances like this: 
-#is_a_/zoo
+#is_a_/zoo 
 
 
 ## Confidential Links & Embeds: 

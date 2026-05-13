@@ -32,7 +32,7 @@ The act of consuming static visual content.
 #class/ViewAction
 #class/Thing/Action/ConsumeAction/ViewAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

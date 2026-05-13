@@ -306,7 +306,7 @@ and Evolution 40(3):739-749.
   Creator              Photograph by Scott Bauer
   Acknowledgements     courtesy [USDA Agricultural Research Service](http://www.ars.usda.gov/)
   specimen_condition ::  Live Specimen
-  ---------------------------
+  --------------------------- 
 
 
 ## Confidential Links & Embeds: 

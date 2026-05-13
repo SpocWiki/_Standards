@@ -88,22 +88,22 @@ Relation describes that:
 
 has_domain = `=this.dv_has_domain` 
 has_name = `=this.dv_has_name` 
-(has_/range :: [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]],  [[../../../Class/is_a_/Data_Type/Text/Url|Url]] )
+(has_/range :: [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]],  [[../../../Class/is_a_/Data_Type/Text/Url|Url]] ) 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_media_before|has_media_before]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_media/has_media_before|has_media_before]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_media_before.public|has_media_before.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_media/has_media_before.public|has_media_before.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_media_before.internal|has_media_before.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_media/has_media_before.internal|has_media_before.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_media_before.protect|has_media_before.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_media/has_media_before.protect|has_media_before.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_media_before.private|has_media_before.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_media/has_media_before.private|has_media_before.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_media_before.personal|has_media_before.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_media/has_media_before.personal|has_media_before.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_media_before.secret|has_media_before.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_media/has_media_before.secret|has_media_before.secret]] 
 

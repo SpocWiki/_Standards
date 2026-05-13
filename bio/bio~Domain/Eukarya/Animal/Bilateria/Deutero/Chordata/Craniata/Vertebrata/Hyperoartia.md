@@ -346,7 +346,7 @@ to the eyes. One of the earliest known fossil lamprey, Mayomyzon
 such a parasitic form and had a stouter body than modern lampreys)
 (after Bardack & Zangerl 1971).
 ![](Hyperoartia/hyperoartia.gif) 
-copyright ::   © 1997 Philippe Janvier
+copyright ::   © 1997 Philippe Janvier 
 
 
 ## Confidential Links & Embeds: 

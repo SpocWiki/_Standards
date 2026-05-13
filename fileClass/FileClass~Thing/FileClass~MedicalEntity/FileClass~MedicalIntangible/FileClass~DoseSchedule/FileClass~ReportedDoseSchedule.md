@@ -32,7 +32,7 @@ A patient-reported or observed dosing schedule for a drug or supplement.
 #class/ReportedDoseSchedule
 #class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/ReportedDoseSchedule
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

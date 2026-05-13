@@ -474,7 +474,7 @@ scientific_name ::     Deto echinata
 Comments             As the name suggests, the horned isopod is easily recognized by the pairs of \"horns\" arising on the back of each thoracic segment. It is often confused with the similar looking Ligia, to which it is only distantly related. It is an air breathing isopod found associated with kelp and other drift algae washed up on rocky shores of western South Africa. It feeds mainly on this algae as well as live prey and carrion.
 Reference            G. M. Branch, C. L. Griffiths, M. L. Branch, and L. E. Beckley. 1994. Two Oceans, a Guide to the Marine Life of Southern Africa. David Philip Publishers, South Africa.
 specimen_condition ::  Live Specimen
-copyright ::            © 1994 G. M. Branch
+copyright ::            © 1994 G. M. Branch 
 
 
 ## Confidential Links & Embeds: 

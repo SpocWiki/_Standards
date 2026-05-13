@@ -95,7 +95,7 @@ InBroadcastLineup:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#c
 ### ProvidesBroadcastService
 The BroadcastService offered on this channel.
 
-ProvidesBroadcastService:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Service/BroadcastService')"}}
+ProvidesBroadcastService:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Service/BroadcastService')"}} 
 
 
 ## Confidential Links & Embeds: 

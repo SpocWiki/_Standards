@@ -481,8 +481,6 @@ has_/time_/stopped :: 1650-06
 ### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1400-Renaissance+1650.personal|1400-Renaissance+1650.personal]] 
 
 ### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1400-Renaissance+1650.secret|1400-Renaissance+1650.secret]] 
-
-
 # [[1400-Renaissance+1650]] 
 
 has_/time_/started :: 1400-06 

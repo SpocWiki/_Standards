@@ -32,7 +32,7 @@ An elementary school.
 #class/ElementarySchool
 #class/Thing/Place/CivicStructure/CivicStructureAndOrganization/EducationalOrganization/ElementarySchool
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

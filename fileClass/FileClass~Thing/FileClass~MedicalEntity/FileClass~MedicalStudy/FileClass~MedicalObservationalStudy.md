@@ -37,7 +37,7 @@ An observational study is a type of medical study that attempts to infer the pos
 ### StudyDesign
 Specifics about the observational study design (enumerated).
 
-StudyDesign:: {"type":"Select","options":{"valuesList":{"CaseSeries","CohortStudy","CrossSectional","Longitudinal","Observational","Registry"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
+StudyDesign:: {"type":"Select","options":{"valuesList":{"CaseSeries","CohortStudy","CrossSectional","Longitudinal","Observational","Registry"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}} 
 
 
 ## Confidential Links & Embeds: 

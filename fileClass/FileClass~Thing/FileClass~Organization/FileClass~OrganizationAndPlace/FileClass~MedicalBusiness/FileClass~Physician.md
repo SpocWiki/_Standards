@@ -54,7 +54,7 @@ AvailableService:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cl
 ### HospitalAffiliation
 A hospital with which the physician or office is affiliated.
 
-HospitalAffiliation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyServiceAndMedicalOrganization/Hospital')"}}
+HospitalAffiliation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyServiceAndMedicalOrganization/Hospital')"}} 
 
 
 ## Confidential Links & Embeds: 

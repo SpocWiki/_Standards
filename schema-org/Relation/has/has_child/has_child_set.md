@@ -78,19 +78,20 @@ including the **empty set** and the **set itself**.
 
 Via [[../../../../../Knowledge/Math/Math-Axioms/Diagonal-Argument|Diagonal-Argument]] you can show that 2^N > N, even for infinite N. 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_child_set|has_child_set]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_child/has_child_set|has_child_set]] 
 
-### #is_/same_as :: [[/_public/schema-org/Collection/has_child_set.public|has_child_set.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_child/has_child_set.public|has_child_set.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Collection/has_child_set.internal|has_child_set.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_child/has_child_set.internal|has_child_set.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Collection/has_child_set.protect|has_child_set.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_child/has_child_set.protect|has_child_set.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Collection/has_child_set.private|has_child_set.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_child/has_child_set.private|has_child_set.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Collection/has_child_set.personal|has_child_set.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_child/has_child_set.personal|has_child_set.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Collection/has_child_set.secret|has_child_set.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_child/has_child_set.secret|has_child_set.secret]] 
 

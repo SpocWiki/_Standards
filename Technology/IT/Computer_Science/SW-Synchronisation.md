@@ -309,3 +309,21 @@ The correct approach is to
 - identify the **minimum synchronisation contract** required for each shared resource and 
 - apply the lightest-weight mechanism sufficient to satisfy it.
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Science/SW-Synchronisation|SW-Synchronisation]] 
+
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Science/SW-Synchronisation.public|SW-Synchronisation.public]] 
+
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Science/SW-Synchronisation.internal|SW-Synchronisation.internal]] 
+
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Science/SW-Synchronisation.protect|SW-Synchronisation.protect]] 
+
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Science/SW-Synchronisation.private|SW-Synchronisation.private]] 
+
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Science/SW-Synchronisation.personal|SW-Synchronisation.personal]] 
+
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Science/SW-Synchronisation.secret|SW-Synchronisation.secret]] 

@@ -149,7 +149,7 @@ Fascists use this concept to delegitimize democratic institutions
 they accuse of "no longer represent[ing] the voice of the people".
 ### [Newspeak](https://en.wikipedia.org/wiki/Newspeak "Newspeak") 
 fascism employs and promotes an impoverished vocabulary 
-in order to limit critical reasoning.
+in order to limit critical reasoning. 
 
 
 ## Confidential Links & Embeds: 

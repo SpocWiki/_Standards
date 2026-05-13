@@ -32,7 +32,7 @@ A car rental business.
 #class/AutoRental
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/AutoRental
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

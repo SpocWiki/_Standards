@@ -534,7 +534,7 @@ has_number_of_electrons = `=this.dv_has_number_of_electrons`
 |        3 | civil Reactor    |
 |       12 | Medical Research |
 |       60 | Atom-U-Boot      |
-|       90 | Atom Bomb        |
+|       90 | Atom Bomb        | 
 
 
 ## Confidential Links & Embeds: 

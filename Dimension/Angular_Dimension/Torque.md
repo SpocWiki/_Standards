@@ -347,17 +347,17 @@ The SI-Unit is [[Torque/Unit~NewtonMeter|Unit~NewtonMeter]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Torque|Torque]] 
+### #is_/same_as :: [[/_Standards/Dimension/Angular_Dimension/Torque|Torque]] 
 
-### #is_/same_as :: [[/_public/Dimension/Linear_Dimension/Torque.public|Torque.public]] 
+### #is_/same_as :: [[/_public/Dimension/Angular_Dimension/Torque.public|Torque.public]] 
 
-### #is_/same_as :: [[/_internal/Dimension/Linear_Dimension/Torque.internal|Torque.internal]] 
+### #is_/same_as :: [[/_internal/Dimension/Angular_Dimension/Torque.internal|Torque.internal]] 
 
-### #is_/same_as :: [[/_protect/Dimension/Linear_Dimension/Torque.protect|Torque.protect]] 
+### #is_/same_as :: [[/_protect/Dimension/Angular_Dimension/Torque.protect|Torque.protect]] 
 
-### #is_/same_as :: [[/_private/Dimension/Linear_Dimension/Torque.private|Torque.private]] 
+### #is_/same_as :: [[/_private/Dimension/Angular_Dimension/Torque.private|Torque.private]] 
 
-### #is_/same_as :: [[/_personal/Dimension/Linear_Dimension/Torque.personal|Torque.personal]] 
+### #is_/same_as :: [[/_personal/Dimension/Angular_Dimension/Torque.personal|Torque.personal]] 
 
-### #is_/same_as :: [[/_secret/Dimension/Linear_Dimension/Torque.secret|Torque.secret]] 
+### #is_/same_as :: [[/_secret/Dimension/Angular_Dimension/Torque.secret|Torque.secret]] 
 

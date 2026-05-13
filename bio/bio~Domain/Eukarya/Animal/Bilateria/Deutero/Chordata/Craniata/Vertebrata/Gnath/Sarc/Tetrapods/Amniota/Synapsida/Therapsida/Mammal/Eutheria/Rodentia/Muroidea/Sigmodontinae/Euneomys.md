@@ -154,7 +154,7 @@ the appropriate view below.
   ------------
   scientific_name ::  Euneomys chinchilloides
   copyright ::         © 1996 O. Pearson
-  ------------
+  ------------ 
 
 
 ## Confidential Links & Embeds: 

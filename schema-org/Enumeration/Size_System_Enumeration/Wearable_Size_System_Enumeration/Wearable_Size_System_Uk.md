@@ -64,7 +64,7 @@ is_enum_of = `=this.dv_is_enum_of`
 [[../../../../Earth/Continent/Europe/Europe~North/UK|United Kingdom]] size system for [[../../../../Technology/Tool/Clothing|wearables]].
 
 Tag Instances like this: 
-#is_a_/wearable_size_system_uk
+#is_a_/wearable_size_system_uk 
 
 
 ## Confidential Links & Embeds: 

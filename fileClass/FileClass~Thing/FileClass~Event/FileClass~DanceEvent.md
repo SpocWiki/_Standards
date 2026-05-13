@@ -32,7 +32,7 @@ Event type: A social dance.
 #class/DanceEvent
 #class/Thing/Event/DanceEvent
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

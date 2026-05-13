@@ -32,7 +32,7 @@ A single season of a podcast. Many podcasts do not break down into separate seas
 #class/PodcastSeason
 #class/Thing/CreativeWork/CreativeWorkSeason/PodcastSeason
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

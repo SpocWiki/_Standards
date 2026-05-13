@@ -792,7 +792,9 @@ FOL --> MT
 - [[Proof Techniques — Practice Problems]]
 - [[Computability and Decidability]]
 - [[Propositional Calculus — Exercises]]
-- [[Gödel's Incompleteness Theorems]]
+- [[Gödel's Incompleteness Theorems]] 
+
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Philosophy/Logic/Logic(Math)|Logic(Math)]] 

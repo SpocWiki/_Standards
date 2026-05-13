@@ -121,17 +121,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol|Polyol]] 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Functional_Group/Alcohol/Polyol|Polyol]] 
 
-### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Alcohol/Polyol.public|Polyol.public]] 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Functional_Group/Alcohol/Polyol.public|Polyol.public]] 
 
-### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Alcohol/Polyol.internal|Polyol.internal]] 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Functional_Group/Alcohol/Polyol.internal|Polyol.internal]] 
 
-### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Alcohol/Polyol.protect|Polyol.protect]] 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Functional_Group/Alcohol/Polyol.protect|Polyol.protect]] 
 
-### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Alcohol/Polyol.private|Polyol.private]] 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Functional_Group/Alcohol/Polyol.private|Polyol.private]] 
 
-### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Alcohol/Polyol.personal|Polyol.personal]] 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Functional_Group/Alcohol/Polyol.personal|Polyol.personal]] 
 
-### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Alcohol/Polyol.secret|Polyol.secret]] 
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Functional_Group/Alcohol/Polyol.secret|Polyol.secret]] 
 

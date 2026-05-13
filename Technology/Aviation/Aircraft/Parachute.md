@@ -274,17 +274,17 @@ Unicode_character: 🪂
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Parachute|Parachute]] 
+### #is_/same_as :: [[/_Standards/Technology/Aviation/Aircraft/Parachute|Parachute]] 
 
-### #is_/same_as :: [[/_public/Technology/Aviation/Parachute.public|Parachute.public]] 
+### #is_/same_as :: [[/_public/Technology/Aviation/Aircraft/Parachute.public|Parachute.public]] 
 
-### #is_/same_as :: [[/_internal/Technology/Aviation/Parachute.internal|Parachute.internal]] 
+### #is_/same_as :: [[/_internal/Technology/Aviation/Aircraft/Parachute.internal|Parachute.internal]] 
 
-### #is_/same_as :: [[/_protect/Technology/Aviation/Parachute.protect|Parachute.protect]] 
+### #is_/same_as :: [[/_protect/Technology/Aviation/Aircraft/Parachute.protect|Parachute.protect]] 
 
-### #is_/same_as :: [[/_private/Technology/Aviation/Parachute.private|Parachute.private]] 
+### #is_/same_as :: [[/_private/Technology/Aviation/Aircraft/Parachute.private|Parachute.private]] 
 
-### #is_/same_as :: [[/_personal/Technology/Aviation/Parachute.personal|Parachute.personal]] 
+### #is_/same_as :: [[/_personal/Technology/Aviation/Aircraft/Parachute.personal|Parachute.personal]] 
 
-### #is_/same_as :: [[/_secret/Technology/Aviation/Parachute.secret|Parachute.secret]] 
+### #is_/same_as :: [[/_secret/Technology/Aviation/Aircraft/Parachute.secret|Parachute.secret]] 
 

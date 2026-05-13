@@ -158,7 +158,7 @@ SEM of Allothyrus sp. from Queensland (D.E. Walter)
 
 --------
 copyright ::   © 1996 D. E. Walter
---------
+-------- 
 
 
 ## Confidential Links & Embeds: 

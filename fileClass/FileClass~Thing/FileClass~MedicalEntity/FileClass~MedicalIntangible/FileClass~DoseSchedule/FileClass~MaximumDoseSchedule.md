@@ -32,7 +32,7 @@ The maximum dosing schedule considered safe for a drug or supplement as recommen
 #class/MaximumDoseSchedule
 #class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/MaximumDoseSchedule
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

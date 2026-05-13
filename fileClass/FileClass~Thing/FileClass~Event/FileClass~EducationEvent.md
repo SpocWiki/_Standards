@@ -65,7 +65,7 @@ EducationalLevel:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cl
 ### Teaches
 The item being described is intended to help a person learn the competency or learning outcome defined by the referenced term.
 
-Teaches:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm')"}}
+Teaches:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm')"}} 
 
 
 ## Confidential Links & Embeds: 

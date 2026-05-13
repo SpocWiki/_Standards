@@ -61,6 +61,7 @@ has_parent_class = `=this.dv_has_parent_class`
 
 has_properties = `=this.dv_has_properties` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Collection/item_list/offer_catalog|offer_catalog]] 

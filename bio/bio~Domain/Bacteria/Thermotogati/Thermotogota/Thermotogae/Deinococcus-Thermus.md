@@ -88,7 +88,7 @@ dv_has_:
 	-   *Marinithermus*
 	-   *Meiothermus*
 	-   *Oceanithermus*
-	-   *Vulcanithermus*
+	-   *Vulcanithermus* 
 
 
 ## Confidential Links & Embeds: 

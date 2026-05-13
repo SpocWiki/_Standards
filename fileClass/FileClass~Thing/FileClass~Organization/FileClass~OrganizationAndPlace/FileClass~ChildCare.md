@@ -32,7 +32,7 @@ A Childcare center.
 #class/ChildCare
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ChildCare
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

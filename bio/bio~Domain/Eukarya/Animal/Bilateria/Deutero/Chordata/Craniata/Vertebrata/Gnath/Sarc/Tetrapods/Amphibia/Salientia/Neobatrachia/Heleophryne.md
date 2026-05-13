@@ -158,7 +158,7 @@ amplexus is a synapomorphy is unclear.
 	-   *Heleophryne natalensis*
 	-   *Heleophryne purcelli*
 	-   *Heleophryne regis*
-	-   *Heleophryne rosei*
+	-   *Heleophryne rosei* 
 
 
 ## Confidential Links & Embeds: 

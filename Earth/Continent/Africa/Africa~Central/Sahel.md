@@ -293,8 +293,7 @@ markerFile: [[Sahel]]
 unit: px
 scale: 1
 darkMode: false
-```
-
+``` 
 
 
 ## Confidential Links & Embeds: 

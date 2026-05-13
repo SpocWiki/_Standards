@@ -103,3 +103,21 @@ ONET provides CSV and XML files here: [https://www.onetcenter.org/database.html]
 | Occupation   | Occupation Titles               | Standardized job title                          | N/A   | Software Developer  |  N/A |       N/A |                                                                            |
 | Occupation   | Alternate Titles                | Synonyms or common variations                   | N/A   | Software Engineer   |  N/A |       N/A |                                                                            |
 | Occupation   | Description                     | Narrative describing tasks and responsibilities | N/A   | Nurse Practitioner  |  N/A |       N/A |                                                                            |
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/UN(United_Nations)/ONET(Occupational_Information_Network)|ONET(Occupational_Information_Network)]] 
+
+### #is_/same_as :: [[/_public/UN(United_Nations)/ONET(Occupational_Information_Network).public|ONET(Occupational_Information_Network).public]] 
+
+### #is_/same_as :: [[/_internal/UN(United_Nations)/ONET(Occupational_Information_Network).internal|ONET(Occupational_Information_Network).internal]] 
+
+### #is_/same_as :: [[/_protect/UN(United_Nations)/ONET(Occupational_Information_Network).protect|ONET(Occupational_Information_Network).protect]] 
+
+### #is_/same_as :: [[/_private/UN(United_Nations)/ONET(Occupational_Information_Network).private|ONET(Occupational_Information_Network).private]] 
+
+### #is_/same_as :: [[/_personal/UN(United_Nations)/ONET(Occupational_Information_Network).personal|ONET(Occupational_Information_Network).personal]] 
+
+### #is_/same_as :: [[/_secret/UN(United_Nations)/ONET(Occupational_Information_Network).secret|ONET(Occupational_Information_Network).secret]] 

@@ -32,7 +32,7 @@ A series of books. Included books can be indicated with the hasPart property.
 #class/BookSeries
 #class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/BookSeries
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -68,17 +68,17 @@ range = `=this.dv_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_duration_required|has_duration_required]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_duration/has_duration_required|has_duration_required]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_duration_of/has_duration_required.public|has_duration_required.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_duration/has_duration_required.public|has_duration_required.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_duration_of/has_duration_required.internal|has_duration_required.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_duration/has_duration_required.internal|has_duration_required.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_duration_of/has_duration_required.protect|has_duration_required.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_duration/has_duration_required.protect|has_duration_required.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_duration_of/has_duration_required.private|has_duration_required.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_duration/has_duration_required.private|has_duration_required.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_duration_of/has_duration_required.personal|has_duration_required.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_duration/has_duration_required.personal|has_duration_required.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_duration_of/has_duration_required.secret|has_duration_required.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_duration/has_duration_required.secret|has_duration_required.secret]] 
 

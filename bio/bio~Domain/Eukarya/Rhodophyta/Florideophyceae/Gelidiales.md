@@ -181,7 +181,7 @@ press).
   Acknowledgements   Hand model courtesy of Jose Rico
   copyright ::          © 2002 [D. Wilson Freshwater](mailto:freshwaterw@uncw.edu) 
  
-  ---------------------------------------------------------------------------
+  --------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

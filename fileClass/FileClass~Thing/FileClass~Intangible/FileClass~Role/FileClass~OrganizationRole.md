@@ -42,7 +42,7 @@ A subclass of Role used to describe roles within organizations.
 ### NumberedPosition
 A number associated with a role in an organization, for example, the number on an athlete's jersey.
 
-NumberedPosition:: {"type":"Number","options":{}}
+NumberedPosition:: {"type":"Number","options":{}} 
 
 
 ## Confidential Links & Embeds: 

@@ -37,7 +37,8 @@ A designation by the US FDA signifying that there is positive evidence of human 
 
 #has_/parent_class :: [[../DrugPregnancyCategory|DrugPregnancyCategory]]  
 
-#is_/enum_of :: [[../DrugPregnancyCategory|DrugPregnancyCategory]]  
+#is_/enum_of :: [[../DrugPregnancyCategory|DrugPregnancyCategory]] 
+
 
 ## Confidential Links & Embeds: 
 

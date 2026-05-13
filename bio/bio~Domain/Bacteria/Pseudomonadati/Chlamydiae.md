@@ -97,7 +97,7 @@ dv_has_:
 	-   *Parachlamydia*
 	-   *Rhabdochlamydia*
 	-   *Simkania*
-	-   *Waddlia*
+	-   *Waddlia* 
 
 
 ## Confidential Links & Embeds: 

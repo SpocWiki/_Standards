@@ -43,7 +43,7 @@ A medical laboratory that offers on-site or off-site diagnostic services.
 ### AvailableTest
 A diagnostic test or procedure offered by this lab.
 
-AvailableTest:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalTest')"}}
+AvailableTest:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalTest')"}} 
 
 
 ## Confidential Links & Embeds: 

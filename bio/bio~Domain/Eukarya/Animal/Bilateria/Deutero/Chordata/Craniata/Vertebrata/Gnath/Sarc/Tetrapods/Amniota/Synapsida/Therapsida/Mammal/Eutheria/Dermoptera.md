@@ -278,7 +278,7 @@ specimen_condition ::  Live Specimen
 Source               [Flying lemur, Colugo](http://www.flickr.com/photos/64684201@N00/296191800/)
 Source Collection    [Flickr](http://flickr.com/)
 Image Use ::    [Attribution 2.0 Creative Commons License](http://creativecommons.org/licenses/by/2.0/).
-copyright ::            © 2006 [Jwee](http://flickr.com/people/64684201@N00)
+copyright ::            © 2006 [Jwee](http://flickr.com/people/64684201@N00) 
 
 
 ## Confidential Links & Embeds: 

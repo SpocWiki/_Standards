@@ -118,7 +118,7 @@ of Natural History. 235:1-82.
   ----------
   scientific_name ::  Molossus rufus
   copyright ::         © 1998 Nancy Simmons
-  ----------
+  ---------- 
 
 
 ## Confidential Links & Embeds: 

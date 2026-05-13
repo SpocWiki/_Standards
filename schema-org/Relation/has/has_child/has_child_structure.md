@@ -78,17 +78,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_child_structure|has_child_structure]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_child/has_child_structure|has_child_structure]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_child_structure.public|has_child_structure.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_child/has_child_structure.public|has_child_structure.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_child_structure.internal|has_child_structure.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_child/has_child_structure.internal|has_child_structure.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_child_structure.protect|has_child_structure.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_child/has_child_structure.protect|has_child_structure.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_child_structure.private|has_child_structure.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_child/has_child_structure.private|has_child_structure.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_child_structure.personal|has_child_structure.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_child/has_child_structure.personal|has_child_structure.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_child_structure.secret|has_child_structure.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_child/has_child_structure.secret|has_child_structure.secret]] 
 

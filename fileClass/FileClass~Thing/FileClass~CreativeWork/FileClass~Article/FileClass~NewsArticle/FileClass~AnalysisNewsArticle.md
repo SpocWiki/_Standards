@@ -32,7 +32,7 @@ An AnalysisNewsArticle is a [[NewsArticle]] that, while based on factual reporti
 #class/AnalysisNewsArticle
 #class/Thing/CreativeWork/Article/NewsArticle/AnalysisNewsArticle
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

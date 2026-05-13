@@ -74,7 +74,7 @@ CourseWorkload:: {"type":"Input","options":{}}
 ### Instructor
 A person assigned to instruct or provide instructional assistance for the [[CourseInstance]].
 
-Instructor:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Person')"}}
+Instructor:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Person')"}} 
 
 
 ## Confidential Links & Embeds: 

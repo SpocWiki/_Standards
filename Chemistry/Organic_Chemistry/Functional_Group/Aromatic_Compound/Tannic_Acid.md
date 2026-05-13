@@ -206,17 +206,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Aromatic_Compound/Tannic_Acid|Tannic_Acid]] 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Functional_Group/Aromatic_Compound/Tannic_Acid|Tannic_Acid]] 
 
-### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Aromatic_Compound/Tannic_Acid.public|Tannic_Acid.public]] 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Functional_Group/Aromatic_Compound/Tannic_Acid.public|Tannic_Acid.public]] 
 
-### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Aromatic_Compound/Tannic_Acid.internal|Tannic_Acid.internal]] 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Functional_Group/Aromatic_Compound/Tannic_Acid.internal|Tannic_Acid.internal]] 
 
-### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Aromatic_Compound/Tannic_Acid.protect|Tannic_Acid.protect]] 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Functional_Group/Aromatic_Compound/Tannic_Acid.protect|Tannic_Acid.protect]] 
 
-### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Aromatic_Compound/Tannic_Acid.private|Tannic_Acid.private]] 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Functional_Group/Aromatic_Compound/Tannic_Acid.private|Tannic_Acid.private]] 
 
-### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Aromatic_Compound/Tannic_Acid.personal|Tannic_Acid.personal]] 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Functional_Group/Aromatic_Compound/Tannic_Acid.personal|Tannic_Acid.personal]] 
 
-### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Aromatic_Compound/Tannic_Acid.secret|Tannic_Acid.secret]] 
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Functional_Group/Aromatic_Compound/Tannic_Acid.secret|Tannic_Acid.secret]] 
 

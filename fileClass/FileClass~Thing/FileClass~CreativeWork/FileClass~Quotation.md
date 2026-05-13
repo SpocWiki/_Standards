@@ -43,7 +43,7 @@ A quotation. Often but not necessarily from some written work, attributable to a
 ### SpokenByCharacter
 The (e.g. fictional) character, Person or Organization to whom the quotation is attributed within the containing CreativeWork.
 
-SpokenByCharacter:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
+SpokenByCharacter:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}} 
 
 
 ## Confidential Links & Embeds: 

@@ -447,7 +447,7 @@ copyright ::         © 1997 Nancy Simmons
 ---------- 
 ![](Microchiroptera/uroderma1.gif) 
 scientific_name ::  Uroderma bilobatum
-copyright ::         © 1997 Nancy Simmons
+copyright ::         © 1997 Nancy Simmons 
 
 
 ## Confidential Links & Embeds: 

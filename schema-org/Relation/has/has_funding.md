@@ -89,6 +89,7 @@ Relation describes that:
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_funding|has_funding]] 

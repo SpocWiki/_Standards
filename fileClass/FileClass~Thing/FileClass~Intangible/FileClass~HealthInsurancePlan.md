@@ -125,7 +125,7 @@ IncludesHealthPlanNetwork:: {"type":"MultiFile","options":{"dvQueryString":"dv.p
 ### UsesHealthPlanIdStandard
 The standard for interpreting the Plan ID. The preferred is "HIOS". See the Centers for Medicare & Medicaid Services for more details.
 
-UsesHealthPlanIdStandard:: {"type":"Input","options":{}}
+UsesHealthPlanIdStandard:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

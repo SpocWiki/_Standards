@@ -64,7 +64,8 @@ is_enum_of = `=this.dv_is_enum_of`
 Size group "Regular" for wearables.
 
 Tag Instances like this: 
-#is_a_/wearable_size_/group_/regular
+#is_a_/wearable_size_/group_/regular 
+
 
 ## Confidential Links & Embeds: 
 

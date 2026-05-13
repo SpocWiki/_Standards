@@ -32,7 +32,7 @@ geojsonFolder: ./Islands-Malay//
 markerFolder: ./Islands-Malay/
 coordinates: [[Islands-Malay]] 
 markerFile: [[Islands-Malay]] 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

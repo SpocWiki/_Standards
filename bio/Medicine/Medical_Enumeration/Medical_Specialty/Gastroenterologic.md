@@ -35,7 +35,8 @@ A specific branch of medical science that pertains to diagnosis and treatment of
 
 #has_/parent_class :: [[../MedicalSpecialty|MedicalSpecialty]]  
 
-#is_/enum_of :: [[../MedicalSpecialty|MedicalSpecialty]]  
+#is_/enum_of :: [[../MedicalSpecialty|MedicalSpecialty]] 
+
 
 ## Confidential Links & Embeds: 
 

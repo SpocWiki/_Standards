@@ -293,7 +293,7 @@ in -otis. J. Mamm. 74:544-546.
   ----------
   scientific_name ::  Phyllotis darwini
   copyright ::         © 1996 P. L. Meserve
-  ----------
+  ---------- 
 
 
 ## Confidential Links & Embeds: 

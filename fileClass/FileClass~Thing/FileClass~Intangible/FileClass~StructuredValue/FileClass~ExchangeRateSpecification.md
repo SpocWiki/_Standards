@@ -65,7 +65,7 @@ CurrentExchangeRate:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('
 ### ExchangeRateSpread
 The difference between the price at which a broker or other intermediary buys and sells foreign currency.
 
-ExchangeRateSpread:: {"type":"Number","options":{}}
+ExchangeRateSpread:: {"type":"Number","options":{}} 
 
 
 ## Confidential Links & Embeds: 

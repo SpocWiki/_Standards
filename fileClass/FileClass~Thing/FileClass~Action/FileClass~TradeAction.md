@@ -72,7 +72,7 @@ PriceCurrency:: {"type":"Input","options":{}}
 ### PriceSpecification
 One or more detailed price specifications, indicating the unit price and delivery or payment charges.
 
-PriceSpecification:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/PriceSpecification')"}}
+PriceSpecification:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/PriceSpecification')"}} 
 
 
 ## Confidential Links & Embeds: 

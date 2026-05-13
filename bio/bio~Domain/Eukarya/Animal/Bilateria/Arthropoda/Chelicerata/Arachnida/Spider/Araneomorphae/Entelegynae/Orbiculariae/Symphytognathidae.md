@@ -75,7 +75,7 @@ Araneoidea). Zoologica Scripta 32:129-151.
   Behavior             web size ca. 4 cm. Note large number of radii that do not all reach hub.
   copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
-  ---------------------------------------------------------------------------------
+  --------------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

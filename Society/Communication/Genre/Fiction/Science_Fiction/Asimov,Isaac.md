@@ -356,17 +356,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Asimov,Isaac|Asimov,Isaac]] 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Science_Fiction/Asimov,Isaac|Asimov,Isaac]] 
 
-### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac.public|Asimov,Isaac.public]] 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Science_Fiction/Asimov,Isaac.public|Asimov,Isaac.public]] 
 
-### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac.internal|Asimov,Isaac.internal]] 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Science_Fiction/Asimov,Isaac.internal|Asimov,Isaac.internal]] 
 
-### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac.protect|Asimov,Isaac.protect]] 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Science_Fiction/Asimov,Isaac.protect|Asimov,Isaac.protect]] 
 
-### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac.private|Asimov,Isaac.private]] 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Science_Fiction/Asimov,Isaac.private|Asimov,Isaac.private]] 
 
-### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac.personal|Asimov,Isaac.personal]] 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Science_Fiction/Asimov,Isaac.personal|Asimov,Isaac.personal]] 
 
-### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac.secret|Asimov,Isaac.secret]] 
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Science_Fiction/Asimov,Isaac.secret|Asimov,Isaac.secret]] 
 

@@ -123,7 +123,7 @@ is known about reproductive biology of the species.
   scientific_name ::     Louteridium costaricense Radlk. & Donn.Sm.
   specimen_condition ::  Live Specimen
   copyright ::            © 2006 [www.sagan-gea.org](http://www.sagan-gea.org/hojared_biodiversidad/paginas/hoja2_flora_amenazada.html)
-  ---------------------------------------
+  --------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

@@ -52,7 +52,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Koror/
 markerFolder: ./Koror/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

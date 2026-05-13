@@ -78,3 +78,21 @@ dv_has_:
 > [Wikipedia](https://en.wikipedia.org/wiki/Sampling%20bias)
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Rethoric/Fallacy/Spotlight Fallacy|Spotlight Fallacy]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Rethoric/Fallacy/Spotlight Fallacy.public|Spotlight Fallacy.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Rethoric/Fallacy/Spotlight Fallacy.internal|Spotlight Fallacy.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Rethoric/Fallacy/Spotlight Fallacy.protect|Spotlight Fallacy.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Rethoric/Fallacy/Spotlight Fallacy.private|Spotlight Fallacy.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy/Spotlight Fallacy.personal|Spotlight Fallacy.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy/Spotlight Fallacy.secret|Spotlight Fallacy.secret]] 

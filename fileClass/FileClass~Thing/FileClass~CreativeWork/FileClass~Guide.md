@@ -42,7 +42,7 @@ This is a kind of [[FileClass~CreativeWork]]
 ### ReviewAspect
 This Review or Rating is relevant to this part or facet of the itemReviewed.
 
-ReviewAspect:: {"type":"Input","options":{}}
+ReviewAspect:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

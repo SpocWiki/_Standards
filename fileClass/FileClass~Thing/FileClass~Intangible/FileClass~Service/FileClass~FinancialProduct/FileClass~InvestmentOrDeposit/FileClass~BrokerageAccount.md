@@ -32,7 +32,7 @@ An account that allows an investor to deposit funds and place investment orders 
 #class/BrokerageAccount
 #class/Thing/Intangible/Service/FinancialProduct/InvestmentOrDeposit/BrokerageAccount
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

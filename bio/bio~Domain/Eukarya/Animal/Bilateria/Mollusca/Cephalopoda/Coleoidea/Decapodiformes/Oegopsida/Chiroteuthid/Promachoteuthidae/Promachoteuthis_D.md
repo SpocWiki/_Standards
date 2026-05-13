@@ -135,7 +135,7 @@ from the WALTHER HERWIG at 1550 m depth.
   View                 Ventral
   copyright ::            © 2003 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
-  --------------------------------------------------------------------------------
+  -------------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

@@ -131,4 +131,19 @@ dv_has_:
 > [Wikipedia](https://en.wikipedia.org/wiki/ASML%20Holding) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/ASML(Advanced_Semiconductor)|ASML(Advanced_Semiconductor)]] 
+
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/ASML(Advanced_Semiconductor).public|ASML(Advanced_Semiconductor).public]] 
+
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/ASML(Advanced_Semiconductor).internal|ASML(Advanced_Semiconductor).internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/ASML(Advanced_Semiconductor).protect|ASML(Advanced_Semiconductor).protect]] 
+
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/ASML(Advanced_Semiconductor).private|ASML(Advanced_Semiconductor).private]] 
+
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/ASML(Advanced_Semiconductor).personal|ASML(Advanced_Semiconductor).personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/ASML(Advanced_Semiconductor).secret|ASML(Advanced_Semiconductor).secret]] 
 

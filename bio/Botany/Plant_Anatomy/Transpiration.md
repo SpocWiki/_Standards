@@ -214,6 +214,7 @@ which reduces the Pressure by 25% in **dry Air**.
 In **humid air of 75%** both pressures are the same, 
 so no more cooling takes place. 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/bio/Botany/Plant_Anatomy/Transpiration|Transpiration]] 

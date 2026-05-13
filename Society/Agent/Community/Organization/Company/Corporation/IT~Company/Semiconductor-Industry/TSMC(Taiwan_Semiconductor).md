@@ -204,8 +204,22 @@ Since 2017 they focus on mature Technologies like dUV (Deep UltraViolet).
 The near-monopoly for Semiconductor Production creates the so-called Silicon Shield for Taiwan. 
 Disrupting this Production would result in world-wide Shortage and Depression. 
 
-It also depends on XUV Technology which is currently supplied from [[ASML(Advanced_Semiconductor)]] in the [[../../../../../../../../Earth/Continent/Europe/Europe~West/Netherlands|Netherlands]] exclusively.  
+It also depends on XUV Technology which is currently supplied from [[ASML(Advanced_Semiconductor)]] in the [[../../../../../../../../Earth/Continent/Europe/Europe~West/Netherlands|Netherlands]] exclusively. 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/TSMC(Taiwan_Semiconductor)|TSMC(Taiwan_Semiconductor)]] 
+
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/TSMC(Taiwan_Semiconductor).public|TSMC(Taiwan_Semiconductor).public]] 
+
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/TSMC(Taiwan_Semiconductor).internal|TSMC(Taiwan_Semiconductor).internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/TSMC(Taiwan_Semiconductor).protect|TSMC(Taiwan_Semiconductor).protect]] 
+
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/TSMC(Taiwan_Semiconductor).private|TSMC(Taiwan_Semiconductor).private]] 
+
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/TSMC(Taiwan_Semiconductor).personal|TSMC(Taiwan_Semiconductor).personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/TSMC(Taiwan_Semiconductor).secret|TSMC(Taiwan_Semiconductor).secret]] 
 

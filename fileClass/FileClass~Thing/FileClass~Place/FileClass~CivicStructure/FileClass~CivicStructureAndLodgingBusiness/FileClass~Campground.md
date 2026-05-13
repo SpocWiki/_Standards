@@ -38,7 +38,7 @@ A camping site, campsite, or [[../../../../../Earth/Geography/Place/Civic_Struct
 #class/Campground
 #class/Thing/Place/CivicStructure/CivicStructureAndLodgingBusiness/Campground
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

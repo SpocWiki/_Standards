@@ -38,7 +38,8 @@ A guideline recommendation that is regarded as efficacious and where quality of 
 
 #has_/parent_class :: [[../MedicalGuideline|MedicalGuideline]]  
 
-#has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, evidenceLevel, evidenceOrigin, funding, guideline, guidelineDate, guidelineSubject, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, recommendationStrength, relevantSpecialty, sameAs, study, subjectOf, url ]  
+#has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, evidenceLevel, evidenceOrigin, funding, guideline, guidelineDate, guidelineSubject, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, recommendationStrength, relevantSpecialty, sameAs, study, subjectOf, url ] 
+
 
 ## Confidential Links & Embeds: 
 

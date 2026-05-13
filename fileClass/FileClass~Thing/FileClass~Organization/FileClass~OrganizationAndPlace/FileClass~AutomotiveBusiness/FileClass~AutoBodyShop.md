@@ -32,7 +32,7 @@ Auto body shop.
 #class/AutoBodyShop
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/AutoBodyShop
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

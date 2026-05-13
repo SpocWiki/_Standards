@@ -40,3 +40,20 @@ dv_has_:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Honesty-humility%20factor%20of%20the%20HEXACO%20model%20of%20personality) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Psychology/Personality_Psychology/Personality~HEXACO/honesty+humility|honesty+humility]] 
+
+### #is_/same_as :: [[/_public/bio/Psychology/Personality_Psychology/Personality~HEXACO/honesty+humility.public|honesty+humility.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Psychology/Personality_Psychology/Personality~HEXACO/honesty+humility.internal|honesty+humility.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Psychology/Personality_Psychology/Personality~HEXACO/honesty+humility.protect|honesty+humility.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Psychology/Personality_Psychology/Personality~HEXACO/honesty+humility.private|honesty+humility.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Psychology/Personality_Psychology/Personality~HEXACO/honesty+humility.personal|honesty+humility.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Psychology/Personality_Psychology/Personality~HEXACO/honesty+humility.secret|honesty+humility.secret]] 
+

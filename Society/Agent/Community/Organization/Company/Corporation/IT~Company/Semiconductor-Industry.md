@@ -564,7 +564,7 @@ History has shown that Europe’s governments and the European Union were more t
 
 But previous rounds of government money, R&D coordination, and forced company consolidations have yet to reverse the 
 
-situation. Will the EU CHIPS Act change course or just be more of the same?
+situation. Will the EU CHIPS Act change course or just be more of the same? 
 
 
 ## Confidential Links & Embeds: 

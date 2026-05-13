@@ -125,7 +125,7 @@ There is also a rev=Attribute for the Reverse Relation, but that was eliminated 
 |via|Identifies a resource that is the source of the information in the link's context.|[[RFC4287](https://www.iana.org/go/rfc4287)]||
 |webmention|Identifies a target URI that supports the Webmention protocol. This allows clients that mention a resource in some form of publishing process to contact that endpoint and inform it that this resource has been mentioned.|[[Webmention](http://www.w3.org/TR/webmention/)]|This is a similar "Linkback" mechanism to the ones of Refback, Trackback, and Pingback. It uses a different protocol, though, and thus should be discoverable through its own link relation type.|
 |working-copy|Points to a working copy for this resource.|[[RFC5829](https://www.iana.org/go/rfc5829)]||
-|working-copy-of|Points to the versioned resource from which this working copy was obtained.|[[RFC5829](https://www.iana.org/go/rfc5829)]|
+|working-copy-of|Points to the versioned resource from which this working copy was obtained.|[[RFC5829](https://www.iana.org/go/rfc5829)]| 
 
 
 ## Confidential Links & Embeds: 

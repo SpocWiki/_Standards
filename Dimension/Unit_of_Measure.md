@@ -362,22 +362,22 @@ In XML-Syntax, the value can be specified either as an Attribute or as the Node'
 
 ```ccard
 type: folder_brief_live
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement|Unit_of_Measurement]] 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measure|Unit_of_Measure]] 
 
-### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement.public|Unit_of_Measurement.public]] 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measure.public|Unit_of_Measure.public]] 
 
-### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement.internal|Unit_of_Measurement.internal]] 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measure.internal|Unit_of_Measure.internal]] 
 
-### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement.protect|Unit_of_Measurement.protect]] 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measure.protect|Unit_of_Measure.protect]] 
 
-### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement.private|Unit_of_Measurement.private]] 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measure.private|Unit_of_Measure.private]] 
 
-### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement.personal|Unit_of_Measurement.personal]] 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measure.personal|Unit_of_Measure.personal]] 
 
-### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement.secret|Unit_of_Measurement.secret]] 
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measure.secret|Unit_of_Measure.secret]] 
 

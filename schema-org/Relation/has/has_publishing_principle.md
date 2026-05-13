@@ -120,9 +120,10 @@ has_/range :: [[../../../Society/Communication/Media/Creative_Work|Creative_Work
 
 #has_/child_/property :: [[has_publishing_principle/has_actionable_feedback_policy|has_actionable_feedback_policy]], [[has_publishing_principle/has_correction/has_correction_policy|has_correction_policy|]], [[has_publishing_principle/has_diversity_staffing_report|has_diversity_staffing_report]], [[has_publishing_principle/has_masthead|has_masthead]], [[has_publishing_principle/has_mission_coverage_priorities_policy|has_mission_coverage_priorities_policy]], [[has_publishing_principle/has_no_bylines_policy|has_no_bylines_policy]], [[has_publishing_principle/has_ownership_funding_info|has_ownership_funding_info]], [[has_publishing_principle/has_unnamed_sources_policy|has_unnamed_sources_policy]], [[has_publishing_principle/has_verification_fact_checking_policy|has_verification_fact_checking_policy]] 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_publishing_principle|has_publishing_principle]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_publishing_principle|has_publishing_principle]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_publishing_principle.public|has_publishing_principle.public]] 
 

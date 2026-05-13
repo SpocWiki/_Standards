@@ -738,7 +738,7 @@ parasiticum* is not a fungus, but a member of the DRIPs. Protist 151:
   specimen_condition ::  Dead Specimen
   copyright ::            © [Robert Lichtwardt](mailto:licht@ku.edu) 
  
-  -----------------------------------------------------------------------
+  ----------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

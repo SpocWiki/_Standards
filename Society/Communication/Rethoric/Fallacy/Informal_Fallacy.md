@@ -112,3 +112,21 @@ dv_has_:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Informal%20fallacy)  
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Rethoric/Fallacy/Informal_Fallacy|Informal_Fallacy]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Rethoric/Fallacy/Informal_Fallacy.public|Informal_Fallacy.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy.internal|Informal_Fallacy.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Rethoric/Fallacy/Informal_Fallacy.protect|Informal_Fallacy.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Rethoric/Fallacy/Informal_Fallacy.private|Informal_Fallacy.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy.personal|Informal_Fallacy.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy/Informal_Fallacy.secret|Informal_Fallacy.secret]] 

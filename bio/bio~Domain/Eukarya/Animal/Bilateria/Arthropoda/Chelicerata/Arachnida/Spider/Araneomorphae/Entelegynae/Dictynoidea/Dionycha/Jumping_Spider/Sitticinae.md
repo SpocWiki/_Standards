@@ -56,7 +56,7 @@ chelicerae. The fourth leg is much longer than the third leg.
     -   [Aillutticus](Aillutticus)
 	-   *[Sitticus](Sitticus)*
 	-   *[Jollas](Jollas)*
-	-   *[Aillutticus](Aillutticus)*
+	-   *[Aillutticus](Aillutticus)* 
 
 
 ## Confidential Links & Embeds: 

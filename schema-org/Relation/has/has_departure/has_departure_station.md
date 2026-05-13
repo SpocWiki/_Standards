@@ -78,17 +78,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_departure_station|has_departure_station]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_departure/has_departure_station|has_departure_station]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_departure_station.public|has_departure_station.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_departure/has_departure_station.public|has_departure_station.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_departure_station.internal|has_departure_station.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_departure/has_departure_station.internal|has_departure_station.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_departure_station.protect|has_departure_station.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_departure/has_departure_station.protect|has_departure_station.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_departure_station.private|has_departure_station.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_departure/has_departure_station.private|has_departure_station.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_departure_station.personal|has_departure_station.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_departure/has_departure_station.personal|has_departure_station.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_departure_station.secret|has_departure_station.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_departure/has_departure_station.secret|has_departure_station.secret]] 
 

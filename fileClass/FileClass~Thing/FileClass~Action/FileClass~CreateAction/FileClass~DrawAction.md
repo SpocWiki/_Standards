@@ -32,7 +32,7 @@ The act of producing a visual/graphical representation of an object, typically w
 #class/DrawAction
 #class/Thing/Action/CreateAction/DrawAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

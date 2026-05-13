@@ -109,7 +109,7 @@ green sulfur bacteria
 	-   *Chlorobaculum*
 	-   *Chloroherpeton*
 	-   *Pelodictyon*
-	-   *Prosthecochloris*
+	-   *Prosthecochloris* 
 
 
 ## Confidential Links & Embeds: 

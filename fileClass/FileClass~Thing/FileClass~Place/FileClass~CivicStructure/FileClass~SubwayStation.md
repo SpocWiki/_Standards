@@ -32,7 +32,7 @@ A subway station.
 #class/SubwayStation
 #class/Thing/Place/CivicStructure/SubwayStation
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

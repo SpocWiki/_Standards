@@ -59,7 +59,7 @@ A body of water, such as a sea, ocean, or lake.
 
 has_child_class = `=this.dv_has_child_class` ]
 
-has_properties = `=this.dv_has_properties` ]
+has_properties = `=this.dv_has_properties` ] 
 
 
 ## Confidential Links & Embeds: 

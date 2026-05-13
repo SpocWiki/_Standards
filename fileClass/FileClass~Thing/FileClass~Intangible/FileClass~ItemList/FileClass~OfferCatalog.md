@@ -32,7 +32,7 @@ An OfferCatalog is an ItemList that contains related Offers and/or further Offer
 #class/OfferCatalog
 #class/Thing/Intangible/ItemList/OfferCatalog
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

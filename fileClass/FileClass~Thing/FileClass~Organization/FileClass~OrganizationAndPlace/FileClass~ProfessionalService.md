@@ -36,7 +36,7 @@ The general [[ProfessionalService]] type for local businesses was deprecated due
 #class/ProfessionalService
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ProfessionalService
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

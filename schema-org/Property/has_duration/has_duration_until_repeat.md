@@ -83,17 +83,17 @@ has_parent_property = `=this.dv_has_parent_property`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_duration_until_repeat|has_duration_until_repeat]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_duration/has_duration_until_repeat|has_duration_until_repeat]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_duration_of/has_duration_until_repeat.public|has_duration_until_repeat.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_duration/has_duration_until_repeat.public|has_duration_until_repeat.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_duration_of/has_duration_until_repeat.internal|has_duration_until_repeat.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_duration/has_duration_until_repeat.internal|has_duration_until_repeat.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_duration_of/has_duration_until_repeat.protect|has_duration_until_repeat.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_duration/has_duration_until_repeat.protect|has_duration_until_repeat.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_duration_of/has_duration_until_repeat.private|has_duration_until_repeat.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_duration/has_duration_until_repeat.private|has_duration_until_repeat.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_duration_of/has_duration_until_repeat.personal|has_duration_until_repeat.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_duration/has_duration_until_repeat.personal|has_duration_until_repeat.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_duration_of/has_duration_until_repeat.secret|has_duration_until_repeat.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_duration/has_duration_until_repeat.secret|has_duration_until_repeat.secret]] 
 

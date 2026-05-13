@@ -32,7 +32,7 @@ Residence type: Gated community.
 #class/GatedResidenceCommunity
 #class/Thing/Place/Residence/GatedResidenceCommunity
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

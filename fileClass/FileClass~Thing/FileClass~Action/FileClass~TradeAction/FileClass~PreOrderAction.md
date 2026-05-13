@@ -32,7 +32,7 @@ An agent orders a (not yet released) object/product/service to be delivered/sent
 #class/PreOrderAction
 #class/Thing/Action/TradeAction/PreOrderAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

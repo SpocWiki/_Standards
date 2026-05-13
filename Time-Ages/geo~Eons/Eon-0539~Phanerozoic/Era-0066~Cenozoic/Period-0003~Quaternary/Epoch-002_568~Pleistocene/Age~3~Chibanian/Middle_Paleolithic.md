@@ -203,8 +203,7 @@ has_time_stopped = `=this.dv_has_time_stopped`
 | Frequency of symbolic items (per 1000 artifacts)               | 5                 | 120             | +2300 |
 | Genetic indicators of neural complexity (e.g., FOXP2 variants) | 1 variant         | 2 variants      |  +100 |
 | Estimated vocabulary size (words)                              | 500 ± 200         | 30 000 ± 5000   | +5900 |
-| Population carrying capacity (individuals/km²)                 | 0.05              | 0.5             |  +900 |
- 
+| Population carrying capacity (individuals/km²)                 | 0.05              | 0.5             |  +900 | 
 
 
 ## Confidential Links & Embeds: 

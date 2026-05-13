@@ -43,7 +43,7 @@ The act of taking money from a buyer in exchange for goods or services rendered.
 ### Buyer
 A sub property of participant. The participant/person/organization that bought the object.
 
-Buyer:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
+Buyer:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}} 
 
 
 ## Confidential Links & Embeds: 

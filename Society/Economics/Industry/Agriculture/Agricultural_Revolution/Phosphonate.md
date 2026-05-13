@@ -97,3 +97,21 @@ until the EU required all Detergents to be bio-degradable.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Phosphonate) 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Agricultural_Revolution/Phosphonate|Phosphonate]] 
+
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Agricultural_Revolution/Phosphonate.public|Phosphonate.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Agricultural_Revolution/Phosphonate.internal|Phosphonate.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Agricultural_Revolution/Phosphonate.protect|Phosphonate.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Agricultural_Revolution/Phosphonate.private|Phosphonate.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Agricultural_Revolution/Phosphonate.personal|Phosphonate.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Agricultural_Revolution/Phosphonate.secret|Phosphonate.secret]] 

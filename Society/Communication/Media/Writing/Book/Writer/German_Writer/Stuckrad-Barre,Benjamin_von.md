@@ -189,7 +189,7 @@ Normdaten (Person): [GND](https://de.wikipedia.org/wiki/Gemeinsame_Normdatei "Ge
 |NAME|Stuckrad-Barre, Benjamin von|
 |KURZBESCHREIBUNG|deutscher Schriftsteller, Journalist und Moderator|
 |GEBURTSDATUM|27. Januar 1975|
-|GEBURTSORT|[Bremen](https://de.wikipedia.org/wiki/Bremen "Bremen")|
+|GEBURTSORT|[Bremen](https://de.wikipedia.org/wiki/Bremen "Bremen")| 
 
 
 ## Confidential Links & Embeds: 

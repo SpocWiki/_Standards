@@ -1219,7 +1219,7 @@ WorkExample:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/T
 ### WorkTranslation
 A work that is a translation of the content of this work. E.g. 西遊記 has an English workTranslation “Journey to the West”, a German workTranslation “Monkeys Pilgerfahrt” and a Vietnamese  translation Tây du ký bình khảo.
 
-WorkTranslation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}
+WorkTranslation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}} 
 
 
 ## Confidential Links & Embeds: 

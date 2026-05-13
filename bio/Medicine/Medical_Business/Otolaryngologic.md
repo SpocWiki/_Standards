@@ -35,7 +35,8 @@ A specific branch of medical science that is concerned with the ear, nose and th
 
 #has_/parent_class :: [[../MedicalBusiness, MedicalSpecialty|MedicalBusiness, MedicalSpecialty]]  
 
-#is_/enum_of :: [[../MedicalSpecialty|MedicalSpecialty]]  
+#is_/enum_of :: [[../MedicalSpecialty|MedicalSpecialty]] 
+
 
 ## Confidential Links & Embeds: 
 

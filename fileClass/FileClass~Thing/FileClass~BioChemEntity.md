@@ -175,7 +175,7 @@ IsPartOfBioChemEntity:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages
 ### TaxonomicRange
 The taxonomic grouping of the organism that expresses, encodes, or in some way related to the BioChemEntity.
 
-TaxonomicRange:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm')"}}
+TaxonomicRange:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm')"}} 
 
 
 ## Confidential Links & Embeds: 

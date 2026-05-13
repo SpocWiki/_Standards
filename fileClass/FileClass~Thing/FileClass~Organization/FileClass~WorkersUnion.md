@@ -32,7 +32,7 @@ A Workers Union (also known as a Labor Union, Labour Union, or Trade Union) is a
 #class/WorkersUnion
 #class/Thing/Organization/WorkersUnion
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

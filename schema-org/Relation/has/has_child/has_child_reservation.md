@@ -78,17 +78,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_child_reservation|has_child_reservation]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_child/has_child_reservation|has_child_reservation]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_child_reservation.public|has_child_reservation.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_child/has_child_reservation.public|has_child_reservation.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_child_reservation.internal|has_child_reservation.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_child/has_child_reservation.internal|has_child_reservation.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_child_reservation.protect|has_child_reservation.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_child/has_child_reservation.protect|has_child_reservation.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_child_reservation.private|has_child_reservation.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_child/has_child_reservation.private|has_child_reservation.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_child_reservation.personal|has_child_reservation.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_child/has_child_reservation.personal|has_child_reservation.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_child_reservation.secret|has_child_reservation.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_child/has_child_reservation.secret|has_child_reservation.secret]] 
 

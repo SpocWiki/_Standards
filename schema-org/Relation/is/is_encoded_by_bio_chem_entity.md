@@ -71,6 +71,7 @@ has_range = `=this.dv_has_range`
 
 has_inverse = `=this.dv_has_inverse` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_encoded_by_bio_chem_entity|is_encoded_by_bio_chem_entity]] 

@@ -32,7 +32,7 @@ The act of producing a painting, typically with paint and canvas as instruments.
 #class/PaintAction
 #class/Thing/Action/CreateAction/PaintAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

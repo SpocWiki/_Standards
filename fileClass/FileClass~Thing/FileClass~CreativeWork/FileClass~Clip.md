@@ -128,7 +128,7 @@ PartOfSeries:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/
 ### StartOffset
 The start time of the clip expressed as the number of seconds from the beginning of the work.
 
-StartOffset:: {"type":"Number","options":{}}
+StartOffset:: {"type":"Number","options":{}} 
 
 
 ## Confidential Links & Embeds: 

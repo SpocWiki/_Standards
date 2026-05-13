@@ -32,7 +32,7 @@ Event type: Exhibition event, e.g. at a museum, library, archive, tradeshow, ...
 #class/ExhibitionEvent
 #class/Thing/Event/ExhibitionEvent
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -55,7 +55,7 @@ An [EIDR](https://eidr.org/) (Entertainment Identifier Registry) [[identifier]] 
  For example, the motion picture known as "Ghostbusters" has a titleEIDR of  "10.5240/7EC7-228A-510A-053E-CBB8-J". This title (or work) may have several variants, which EIDR calls "edits". See [[editEIDR]].  
  Since schema.org types like [[../../../../Society/Communication/Media/Creative_Work/Movie|Movie]] and [[TVEpisode]] can be used for both works and their multiple expressions, it is possible to use [[titleEIDR]] alone (for a general description), or alongside [[editEIDR]] for a more edit-specific description.
 
-TitleEIDR:: {"type":"Input","options":{}}
+TitleEIDR:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

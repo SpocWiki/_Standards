@@ -57,3 +57,20 @@ Dewey_Decimal_Classification: "597.2"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lamprey) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha/Cyclostomi/Lamprey|Lamprey]] 
+
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha/Cyclostomi/Lamprey.public|Lamprey.public]] 
+
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha/Cyclostomi/Lamprey.internal|Lamprey.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha/Cyclostomi/Lamprey.protect|Lamprey.protect]] 
+
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha/Cyclostomi/Lamprey.private|Lamprey.private]] 
+
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha/Cyclostomi/Lamprey.personal|Lamprey.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha/Cyclostomi/Lamprey.secret|Lamprey.secret]] 
+

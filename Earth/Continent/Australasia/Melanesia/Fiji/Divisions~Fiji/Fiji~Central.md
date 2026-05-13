@@ -52,7 +52,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Fiji~Central//
 markerFolder: ./Fiji~Central//
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

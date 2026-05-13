@@ -32,7 +32,7 @@ An [[EmployerReview]] is a review of an [[../../../../Society/Agent/Community/Or
 #class/EmployerReview
 #class/Thing/CreativeWork/Review/EmployerReview
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

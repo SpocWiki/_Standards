@@ -32,7 +32,7 @@ A public swimming pool.
 #class/PublicSwimmingPool
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/PublicSwimmingPool
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

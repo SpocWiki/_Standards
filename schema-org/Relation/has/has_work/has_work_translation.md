@@ -84,18 +84,20 @@ has_domain = `=this.dv_has_domain`
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[[[has_work_translation|has_work_translation]]
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_work_translation.public|has_work_translation.public]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_work/has_work_translation|has_work_translation]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_work_translation.internal|has_work_translation.internal]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_work/has_work_translation.public|has_work_translation.public]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_work_translation.protect|has_work_translation.protect]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_work/has_work_translation.internal|has_work_translation.internal]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_work_translation.private|has_work_translation.private]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_work/has_work_translation.protect|has_work_translation.protect]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_work_translation.personal|has_work_translation.personal]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_work/has_work_translation.private|has_work_translation.private]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_work_translation.secret|has_work_translation.secret]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_work/has_work_translation.personal|has_work_translation.personal]] 
+
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_work/has_work_translation.secret|has_work_translation.secret]] 
 

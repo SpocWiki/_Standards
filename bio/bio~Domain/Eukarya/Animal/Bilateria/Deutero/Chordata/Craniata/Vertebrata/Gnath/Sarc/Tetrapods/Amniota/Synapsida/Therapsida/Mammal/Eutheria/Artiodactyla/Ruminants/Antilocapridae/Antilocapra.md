@@ -126,7 +126,7 @@ specimen_condition ::  Live Specimen
 scientific_name ::     Antilocapra americana
 Creator              Photograph by H. Hoops
 Acknowledgements     Photograph courtesy of the U.S. Fish and Wildlife Service
-specimen_condition ::  Live Specimen
+specimen_condition ::  Live Specimen 
 
 
 ## Confidential Links & Embeds: 

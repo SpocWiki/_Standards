@@ -32,7 +32,7 @@ A radio episode which can be part of a series or season.
 #class/RadioEpisode
 #class/Thing/CreativeWork/Episode/RadioEpisode
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

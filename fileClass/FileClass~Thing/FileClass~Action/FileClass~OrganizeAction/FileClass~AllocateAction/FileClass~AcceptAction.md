@@ -36,7 +36,7 @@ Related actions:
 #class/AcceptAction
 #class/Thing/Action/OrganizeAction/AllocateAction/AcceptAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

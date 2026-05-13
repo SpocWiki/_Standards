@@ -43,7 +43,7 @@ A set of Category Code values.
 ### HasCategoryCode
 A Category code contained in this code set.
 
-HasCategoryCode:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm/CategoryCode')"}}
+HasCategoryCode:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm/CategoryCode')"}} 
 
 
 ## Confidential Links & Embeds: 

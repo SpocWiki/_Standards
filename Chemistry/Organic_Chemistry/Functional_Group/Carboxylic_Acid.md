@@ -166,20 +166,19 @@ O-H O
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Carboxylic_Acid|Carboxylic_Acid]] 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Functional_Group/Carboxylic_Acid|Carboxylic_Acid]] 
 
-### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Carboxylic_Acid.public|Carboxylic_Acid.public]] 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Functional_Group/Carboxylic_Acid.public|Carboxylic_Acid.public]] 
 
-### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Carboxylic_Acid.internal|Carboxylic_Acid.internal]] 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Functional_Group/Carboxylic_Acid.internal|Carboxylic_Acid.internal]] 
 
-### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Carboxylic_Acid.protect|Carboxylic_Acid.protect]] 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Functional_Group/Carboxylic_Acid.protect|Carboxylic_Acid.protect]] 
 
-### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Carboxylic_Acid.private|Carboxylic_Acid.private]] 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Functional_Group/Carboxylic_Acid.private|Carboxylic_Acid.private]] 
 
-### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Carboxylic_Acid.personal|Carboxylic_Acid.personal]] 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Functional_Group/Carboxylic_Acid.personal|Carboxylic_Acid.personal]] 
 
-### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Carboxylic_Acid.secret|Carboxylic_Acid.secret]] 
-
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Functional_Group/Carboxylic_Acid.secret|Carboxylic_Acid.secret]] 
 R$|'
 general_formula: RC(=O)OH
 has_part_s_:

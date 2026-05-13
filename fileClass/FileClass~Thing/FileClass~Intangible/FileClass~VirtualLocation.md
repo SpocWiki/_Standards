@@ -32,7 +32,7 @@ An online or virtual location for attending events. For example, one may attend 
 #class/VirtualLocation
 #class/Thing/Intangible/VirtualLocation
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

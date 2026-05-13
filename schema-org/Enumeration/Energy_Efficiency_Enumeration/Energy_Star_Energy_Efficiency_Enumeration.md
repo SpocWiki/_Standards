@@ -61,6 +61,7 @@ Used to indicate whether a product is EnergyStar certified.
 
 has_parent_class = `=this.dv_has_parent_class` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration|Energy_Star_Energy_Efficiency_Enumeration]] 

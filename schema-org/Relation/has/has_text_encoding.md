@@ -82,7 +82,7 @@ enabling applications to interpret the file correctly.
 | Properties (Java)         | ISO-8859-1 default                              | ASCII escapes for Unicode                                                         |
 | MP3 (ID3 tags)            | ID3 tag encoding field                          | Metadata encoding for display text                                                |
 
-Many applications rely on conventions (e.g., UTF-8 by default) or assume encoding based on a BOM marker if present. For maximum compatibility, UTF-8 is widely recommended across most formats.
+Many applications rely on conventions (e.g., UTF-8 by default) or assume encoding based on a BOM marker if present. For maximum compatibility, UTF-8 is widely recommended across most formats. 
 
 
 ## Confidential Links & Embeds: 

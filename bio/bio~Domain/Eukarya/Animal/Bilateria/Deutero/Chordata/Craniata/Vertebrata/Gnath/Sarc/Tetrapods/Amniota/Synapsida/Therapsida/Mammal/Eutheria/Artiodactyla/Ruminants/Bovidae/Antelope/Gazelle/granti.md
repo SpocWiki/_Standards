@@ -161,7 +161,7 @@ Acknowledgements                    The copyright owner has released this image 
 								  source: [flickr: Grant\'s Gazelle\... Serengeti National                                       Park](http://flickr.com/photos/kumasawa/215861752/)
 specimen_condition ::                 Live Specimen
 Source Collection                   [Flickr](http://flickr.com/)
-copyright ::                           © 2006 [Darren Kumasawa](http://flickr.com/people/kumasawa/)
+copyright ::                           © 2006 [Darren Kumasawa](http://flickr.com/people/kumasawa/) 
 
 
 ## Confidential Links & Embeds: 

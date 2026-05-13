@@ -244,3 +244,21 @@ dv_has_:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Harrison%20Ford) 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Ford,Harrison|Ford,Harrison]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Ford,Harrison.public|Ford,Harrison.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Ford,Harrison.internal|Ford,Harrison.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Ford,Harrison.protect|Ford,Harrison.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Ford,Harrison.private|Ford,Harrison.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Ford,Harrison.personal|Ford,Harrison.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Ford,Harrison.secret|Ford,Harrison.secret]] 

@@ -52,3 +52,21 @@ Commons_category: Strength (Major Arcana)
 - discord, 
 - sometimes even disgrace 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~08~Strength|Tarot~08~Strength]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~08~Strength.public|Tarot~08~Strength.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~08~Strength.internal|Tarot~08~Strength.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~08~Strength.protect|Tarot~08~Strength.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~08~Strength.private|Tarot~08~Strength.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~08~Strength.personal|Tarot~08~Strength.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~08~Strength.secret|Tarot~08~Strength.secret]] 

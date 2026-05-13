@@ -190,7 +190,7 @@ specimen_condition ::  Live Specimen
 scientific_name ::     Spermophilus
 Creator              Joe Martin
 Acknowledgements     Photo courtesy U.S. Fish and Wildlife Service
-specimen_condition ::  Live Specimen
+specimen_condition ::  Live Specimen 
 
 
 ## Confidential Links & Embeds: 

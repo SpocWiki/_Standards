@@ -53,7 +53,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Saint_Thomas/
 markerFolder: ./Saint_Thomas/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

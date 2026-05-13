@@ -25,8 +25,7 @@ dv_is_same_as:
 
 ```ccard
 type: folder_brief_live
-```
- 
+``` 
 
 
 ## Confidential Links & Embeds: 

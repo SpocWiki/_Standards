@@ -32,7 +32,7 @@ A [[NewsArticle]] providing historical context, definition and detail on a speci
 #class/BackgroundNewsArticle
 #class/Thing/CreativeWork/Article/NewsArticle/BackgroundNewsArticle
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

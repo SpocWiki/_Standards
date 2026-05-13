@@ -75,6 +75,7 @@ has_range = `=this.dv_has_range`
 
 has_child_property = `=this.dv_has_child_property` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_name_alternate|has_name_alternate]] 

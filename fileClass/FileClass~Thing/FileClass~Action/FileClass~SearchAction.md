@@ -57,7 +57,7 @@ Query:: {"type":"Input","options":{}}
 ### QueryInput
 Gets or sets the query input search parameter.
 
-QueryInput:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/JsonLdObject/Thing/Intangible/PropertyValueSpecification')"}}
+QueryInput:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/JsonLdObject/Thing/Intangible/PropertyValueSpecification')"}} 
 
 
 ## Confidential Links & Embeds: 

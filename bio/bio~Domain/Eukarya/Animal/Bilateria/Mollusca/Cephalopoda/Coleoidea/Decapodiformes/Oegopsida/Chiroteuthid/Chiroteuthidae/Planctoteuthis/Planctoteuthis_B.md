@@ -131,7 +131,7 @@ Neptune City, NJ, 351pp.
   Comments          scale bar = 15 mm
   Size              96 mm ML
   copyright ::         © 1999 K. Nesis and I. Nikitina
-  --------------
+  -------------- 
 
 
 ## Confidential Links & Embeds: 

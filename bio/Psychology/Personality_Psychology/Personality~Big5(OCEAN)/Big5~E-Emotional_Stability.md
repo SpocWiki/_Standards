@@ -137,22 +137,22 @@ The Set-Point Theory documents the fact that People return to their specific emo
 ## Drawing
 ```compressed-json
 N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Big5~E-Emotional_Stability|Big5~E-Emotional_Stability]] 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Personality_Psychology/Personality~Big5(OCEAN)/Big5~E-Emotional_Stability|Big5~E-Emotional_Stability]] 
 
-### #is_/same_as :: [[/_public/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~E-Emotional_Stability.public|Big5~E-Emotional_Stability.public]] 
+### #is_/same_as :: [[/_public/bio/Psychology/Personality_Psychology/Personality~Big5(OCEAN)/Big5~E-Emotional_Stability.public|Big5~E-Emotional_Stability.public]] 
 
-### #is_/same_as :: [[/_internal/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~E-Emotional_Stability.internal|Big5~E-Emotional_Stability.internal]] 
+### #is_/same_as :: [[/_internal/bio/Psychology/Personality_Psychology/Personality~Big5(OCEAN)/Big5~E-Emotional_Stability.internal|Big5~E-Emotional_Stability.internal]] 
 
-### #is_/same_as :: [[/_protect/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~E-Emotional_Stability.protect|Big5~E-Emotional_Stability.protect]] 
+### #is_/same_as :: [[/_protect/bio/Psychology/Personality_Psychology/Personality~Big5(OCEAN)/Big5~E-Emotional_Stability.protect|Big5~E-Emotional_Stability.protect]] 
 
-### #is_/same_as :: [[/_private/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~E-Emotional_Stability.private|Big5~E-Emotional_Stability.private]] 
+### #is_/same_as :: [[/_private/bio/Psychology/Personality_Psychology/Personality~Big5(OCEAN)/Big5~E-Emotional_Stability.private|Big5~E-Emotional_Stability.private]] 
 
-### #is_/same_as :: [[/_personal/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~E-Emotional_Stability.personal|Big5~E-Emotional_Stability.personal]] 
+### #is_/same_as :: [[/_personal/bio/Psychology/Personality_Psychology/Personality~Big5(OCEAN)/Big5~E-Emotional_Stability.personal|Big5~E-Emotional_Stability.personal]] 
 
-### #is_/same_as :: [[/_secret/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~E-Emotional_Stability.secret|Big5~E-Emotional_Stability.secret]] 
+### #is_/same_as :: [[/_secret/bio/Psychology/Personality_Psychology/Personality~Big5(OCEAN)/Big5~E-Emotional_Stability.secret|Big5~E-Emotional_Stability.secret]] 
 

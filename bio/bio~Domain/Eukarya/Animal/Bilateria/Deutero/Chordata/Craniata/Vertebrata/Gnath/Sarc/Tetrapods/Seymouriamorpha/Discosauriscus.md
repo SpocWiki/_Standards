@@ -183,7 +183,7 @@ Forschungshefte, Reihe C 400: 117-139.
   Body Part         skull
   View              dorsal
   copyright ::         © 1996 L. Osvald (Faculty of Natural Sciences, Bratislava)
-  ----------------------
+  ---------------------- 
 
 
 ## Confidential Links & Embeds: 

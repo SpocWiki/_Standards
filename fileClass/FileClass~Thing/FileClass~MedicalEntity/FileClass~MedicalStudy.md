@@ -81,7 +81,7 @@ StudyLocation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class
 ### StudySubject
 A subject of the study, i.e. one of the medical conditions, therapies, devices, drugs, etc. investigated by the study.
 
-StudySubject:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity')"}}
+StudySubject:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity')"}} 
 
 
 ## Confidential Links & Embeds: 

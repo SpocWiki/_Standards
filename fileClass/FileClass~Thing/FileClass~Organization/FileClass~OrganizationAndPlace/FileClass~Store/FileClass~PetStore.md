@@ -32,7 +32,7 @@ A pet store.
 #class/PetStore
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/PetStore
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -611,7 +611,7 @@ As of 1994 the Winter Games are held interleaved with 2 year distance to the Sum
 | 2030 | [[../../../../../../Earth/Continent/Europe/Europe~West/France\|France]]              | [[French Alps]]                 |  W  | 2030-02-08 | 2030-02-24 |
 | 2032 | [[../../../../../../Earth/Continent/Australasia/Australia\|Australia]]               | [[Brisbane]]                    |  S  | 2032-07-23 | 2032-08-08 |
 | 2034 | [[../../../../../../Earth/Continent/America~North/USA\|USA]]                         | [[Salt_Lake_City]]              |  W  | 2034-02-10 | 2034-02-26 |
-| 2028 |                                                                                   |                                 |     |            |            |
+| 2028 |                                                                                   |                                 |     |            |            | 
 
 
 ## Confidential Links & Embeds: 

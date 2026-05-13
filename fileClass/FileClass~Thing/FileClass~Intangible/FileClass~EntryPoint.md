@@ -88,7 +88,7 @@ HttpMethod:: {"type":"Input","options":{}}
 ### UrlTemplate
 An url template (RFC6570) that will be used to construct the target of the execution of the action.
 
-UrlTemplate:: {"type":"Input","options":{}}
+UrlTemplate:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

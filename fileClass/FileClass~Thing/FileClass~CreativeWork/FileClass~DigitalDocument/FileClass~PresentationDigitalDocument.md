@@ -32,7 +32,7 @@ A file containing slides or used for a presentation.
 #class/PresentationDigitalDocument
 #class/Thing/CreativeWork/DigitalDocument/PresentationDigitalDocument
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

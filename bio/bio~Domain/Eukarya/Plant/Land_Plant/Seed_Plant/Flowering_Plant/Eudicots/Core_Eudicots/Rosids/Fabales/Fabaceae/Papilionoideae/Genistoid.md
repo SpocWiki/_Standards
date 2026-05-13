@@ -146,7 +146,7 @@ copyright ::         © [J. Paul Scurlock Collection](http://www.fairchildgarden
 ![Baptisia australis](Genistoid/Baptisia_australis.jpg) 
 scientific_name ::     Baptisia australis R.Br.
 specimen_condition ::  Live Specimen
-copyright ::            © 2006 [Don Les](mailto:don.les@uconn.edu)
+copyright ::            © 2006 [Don Les](mailto:don.les@uconn.edu) 
 
 
 ## Confidential Links & Embeds: 

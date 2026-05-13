@@ -57,7 +57,7 @@ DatePosted:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertA
 ### LeaseLength
 Length of the lease for some [[../../../../Earth/Geography/Place/Accommodation|Accommodation]], either particular to some [[../../../../Society/Agent/Community/Organization/Business/Offer|Offer]] or in some cases intrinsic to the property.
 
-LeaseLength:: {"type":"Number","options":{"min":"0","max":"2359"}}
+LeaseLength:: {"type":"Number","options":{"min":"0","max":"2359"}} 
 
 
 ## Confidential Links & Embeds: 

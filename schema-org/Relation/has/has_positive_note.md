@@ -106,7 +106,7 @@ has_range :: [[../../Collection/item_list|item_list]], [[../../Collection/list_i
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_positive_note|has_positive_note]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_positive_note|has_positive_note]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_positive_note.public|has_positive_note.public]] 
 

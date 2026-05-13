@@ -86,19 +86,20 @@ has_domain = `=this.dv_has_domain`
 has_name = `=this.dv_has_name` 
 has_range :: [[../../../../Society/Communication/Media/Creative_Work|Creative_Work]], [[../../../Class/is_a_/Data_Type/Text/Url|Url]] 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_no_bylines_policy|has_no_bylines_policy]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_publishing_principle/has_no_bylines_policy|has_no_bylines_policy]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_no_bylines_policy.public|has_no_bylines_policy.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_publishing_principle/has_no_bylines_policy.public|has_no_bylines_policy.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_no_bylines_policy.internal|has_no_bylines_policy.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_publishing_principle/has_no_bylines_policy.internal|has_no_bylines_policy.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_no_bylines_policy.protect|has_no_bylines_policy.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_publishing_principle/has_no_bylines_policy.protect|has_no_bylines_policy.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_no_bylines_policy.private|has_no_bylines_policy.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_publishing_principle/has_no_bylines_policy.private|has_no_bylines_policy.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_no_bylines_policy.personal|has_no_bylines_policy.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_publishing_principle/has_no_bylines_policy.personal|has_no_bylines_policy.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_no_bylines_policy.secret|has_no_bylines_policy.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_publishing_principle/has_no_bylines_policy.secret|has_no_bylines_policy.secret]] 
 

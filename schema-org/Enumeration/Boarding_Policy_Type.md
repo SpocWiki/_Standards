@@ -58,6 +58,7 @@ A type of boarding policy used by an airline.
 
 has_parent_class = `=this.dv_has_parent_class` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Boarding_Policy_Type|Boarding_Policy_Type]] 

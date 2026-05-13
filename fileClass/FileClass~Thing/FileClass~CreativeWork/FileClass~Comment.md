@@ -63,7 +63,7 @@ ParentItem:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Th
 ### UpvoteCount
 The number of upvotes this question, answer or comment has received from the community.
 
-UpvoteCount:: {"type":"Number","options":{}}
+UpvoteCount:: {"type":"Number","options":{}} 
 
 
 ## Confidential Links & Embeds: 

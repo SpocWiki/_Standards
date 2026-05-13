@@ -213,7 +213,7 @@ Acknowledgements                    The copyright owner has released this image 
 								  source: [flickr: Sea spider /                                       Havedderkopp](http://flickr.com/photos/xoto/108057513/)
 specimen_condition ::                 Live Specimen
 Source Collection                   [Flickr](http://flickr.com/)
-copyright ::                           © 2006 [Asbjørn Hansen](http://flickr.com/people/xoto/)
+copyright ::                           © 2006 [Asbjørn Hansen](http://flickr.com/people/xoto/) 
 
 
 ## Confidential Links & Embeds: 

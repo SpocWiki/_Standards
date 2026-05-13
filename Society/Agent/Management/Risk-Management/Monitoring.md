@@ -149,3 +149,21 @@ and support timely decision-making and corrective actions.
 
 - [Monitor (disambiguation)](https://en.wikipedia.org/wiki/Monitor_\(disambiguation\) "Monitor (disambiguation)")
 - [Surveillance](https://en.wikipedia.org/wiki/Surveillance "Surveillance"), the monitoring or observation of the behaviour or communications of individuals or groups
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Agent/Management/Risk-Management/Monitoring|Monitoring]] 
+
+### #is_/same_as :: [[/_public/Society/Agent/Management/Risk-Management/Monitoring.public|Monitoring.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Agent/Management/Risk-Management/Monitoring.internal|Monitoring.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Agent/Management/Risk-Management/Monitoring.protect|Monitoring.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Agent/Management/Risk-Management/Monitoring.private|Monitoring.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Agent/Management/Risk-Management/Monitoring.personal|Monitoring.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Agent/Management/Risk-Management/Monitoring.secret|Monitoring.secret]] 

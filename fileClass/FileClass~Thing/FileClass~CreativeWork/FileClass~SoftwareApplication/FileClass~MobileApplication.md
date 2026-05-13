@@ -42,7 +42,7 @@ A software application designed specifically to work well on a mobile device suc
 ### CarrierRequirements
 Specifies specific carrier(s) requirements for the application (e.g. an application may only work on a specific carrier network).
 
-CarrierRequirements:: {"type":"Input","options":{}}
+CarrierRequirements:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

@@ -76,17 +76,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_place_postal_code|has_place_postal_code]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_location/has_place_postal_code|has_place_postal_code]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_place_postal_code.public|has_place_postal_code.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_location/has_place_postal_code.public|has_place_postal_code.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_place_postal_code.internal|has_place_postal_code.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_location/has_place_postal_code.internal|has_place_postal_code.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_place_postal_code.protect|has_place_postal_code.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_location/has_place_postal_code.protect|has_place_postal_code.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_place_postal_code.private|has_place_postal_code.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_location/has_place_postal_code.private|has_place_postal_code.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_place_postal_code.personal|has_place_postal_code.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_location/has_place_postal_code.personal|has_place_postal_code.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_place_postal_code.secret|has_place_postal_code.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_location/has_place_postal_code.secret|has_place_postal_code.secret]] 
 

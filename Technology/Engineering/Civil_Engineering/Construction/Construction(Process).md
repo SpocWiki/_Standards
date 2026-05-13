@@ -261,7 +261,7 @@ This is about Instances of Construction
 | **Definition**         | Process/event of building                                             | Economic activity of building or assembling       |
 | **Type (Instance of)** | Occurrence                                                            | Economic activity                                 |
 | **Classification**     | Subclass of economic production, technical activity, planned creation | Includes ISIC F, NACE F; part of secondary sector |
-|  **Usage Focus**       | Focuses on _process itself_                                           | Focuses on _economic classification/statistics_   |
+|  **Usage Focus**       | Focuses on _process itself_                                           | Focuses on _economic classification/statistics_   | 
 
 
 ## Confidential Links & Embeds: 

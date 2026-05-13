@@ -182,7 +182,7 @@ dv_has_:
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
   copyright ::            © 1995 [Saint Mary\'s College of California](mailto:rpolowin@stmarys-ca.edu) 
  
-  ---------------------------------------------------------------------------------
+  --------------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

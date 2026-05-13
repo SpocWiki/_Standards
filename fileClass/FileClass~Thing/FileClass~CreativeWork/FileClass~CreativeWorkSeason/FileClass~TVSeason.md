@@ -32,7 +32,7 @@ Season dedicated to TV broadcast and associated online delivery.
 #class/TVSeason
 #class/Thing/CreativeWork/CreativeWorkSeason/TVSeason
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

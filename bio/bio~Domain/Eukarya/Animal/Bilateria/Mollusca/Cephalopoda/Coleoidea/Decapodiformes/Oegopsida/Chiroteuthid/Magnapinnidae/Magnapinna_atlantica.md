@@ -159,7 +159,7 @@ Vecchione, M. and R. E. Young. 2006. The squid family Magnapinnidae
   Type                 Holotype
   copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
-  ------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------ 
 
 
 ## Confidential Links & Embeds: 

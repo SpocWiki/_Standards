@@ -255,7 +255,7 @@ Ruellia (Acanthaceae). Systematic Botany, in press.
   Collector            E. Tripp
   copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
  
-  -----------------------------------------------------------------------
+  ----------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

@@ -78,21 +78,22 @@ Relation describes that:
 
 has_domain = `=this.dv_has_domain` 
 has_name = `=this.dv_has_name` 
-has_range :: `=this.dv_has_range`  
+has_range :: `=this.dv_has_range` 
+
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_recipient_to|has_recipient_to]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_participant/has_recipient/has_recipient_to|has_recipient_to]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_recipient_to.public|has_recipient_to.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_participant/has_recipient/has_recipient_to.public|has_recipient_to.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_recipient_to.internal|has_recipient_to.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_participant/has_recipient/has_recipient_to.internal|has_recipient_to.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_recipient_to.protect|has_recipient_to.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_participant/has_recipient/has_recipient_to.protect|has_recipient_to.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_recipient_to.private|has_recipient_to.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_participant/has_recipient/has_recipient_to.private|has_recipient_to.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_recipient_to.personal|has_recipient_to.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_participant/has_recipient/has_recipient_to.personal|has_recipient_to.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_recipient_to.secret|has_recipient_to.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_participant/has_recipient/has_recipient_to.secret|has_recipient_to.secret]] 
 

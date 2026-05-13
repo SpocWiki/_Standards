@@ -32,7 +32,7 @@ Natural languages such as Spanish, Tamil, Hindi, English, etc. Formal language c
 #class/Language
 #class/Thing/Intangible/Language
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

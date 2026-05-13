@@ -522,7 +522,7 @@ copyright ::            © 2000 [Sumaitt Putchakarn](http://www.nrm.se/ev/dok/th
 scientific_name ::     Cucumaria (Dendrochirotida)
 location ::           Ross Sea, Antarctica
 specimen_condition ::  Live Specimen
-copyright ::            © 2000 [Norbert Wu](http://www.norbertwu.com/)
+copyright ::            © 2000 [Norbert Wu](http://www.norbertwu.com/) 
 
 
 ## Confidential Links & Embeds: 

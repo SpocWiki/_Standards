@@ -86,19 +86,20 @@ has_inverse = `=this.dv_has_inverse`
 
 has_child_property = `=this.dv_has_child_property` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_work_example|has_work_example]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_work/has_work_example|has_work_example]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_work_example.public|has_work_example.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_work/has_work_example.public|has_work_example.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_work_example.internal|has_work_example.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_work/has_work_example.internal|has_work_example.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_work_example.protect|has_work_example.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_work/has_work_example.protect|has_work_example.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_work_example.private|has_work_example.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_work/has_work_example.private|has_work_example.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_work_example.personal|has_work_example.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_work/has_work_example.personal|has_work_example.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_work_example.secret|has_work_example.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_work/has_work_example.secret|has_work_example.secret]] 
 

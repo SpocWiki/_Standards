@@ -78,17 +78,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[is_supplier_for|is_supplier_for]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_supply_consumed/is_supplier_for|is_supplier_for]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/is_supplier_for.public|is_supplier_for.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_supply_consumed/is_supplier_for.public|is_supplier_for.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/is_supplier_for.internal|is_supplier_for.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_supply_consumed/is_supplier_for.internal|is_supplier_for.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/is_supplier_for.protect|is_supplier_for.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_supply_consumed/is_supplier_for.protect|is_supplier_for.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/is_supplier_for.private|is_supplier_for.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_supply_consumed/is_supplier_for.private|is_supplier_for.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/is_supplier_for.personal|is_supplier_for.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_supply_consumed/is_supplier_for.personal|is_supplier_for.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/is_supplier_for.secret|is_supplier_for.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_supply_consumed/is_supplier_for.secret|is_supplier_for.secret]] 
 

@@ -36,7 +36,7 @@ Related actions:
 #class/BefriendAction
 #class/Thing/Action/InteractAction/BefriendAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

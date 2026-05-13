@@ -134,7 +134,7 @@ Beaufortia, 47: 91-108.
   Type               Holotype
   copyright ::          © 2004 [Mario Alejandro Salcedo-Vargas](mailto:ikatako@hotmail.com) 
  
-  ------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------ 
 
 
 ## Confidential Links & Embeds: 

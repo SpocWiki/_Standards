@@ -181,3 +181,20 @@ has_formula_structural = `=this.dv_has_formula_structural`
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cyanide) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Functional_Group/Cyanide|Cyanide]] 
+
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Functional_Group/Cyanide.public|Cyanide.public]] 
+
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Functional_Group/Cyanide.internal|Cyanide.internal]] 
+
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Functional_Group/Cyanide.protect|Cyanide.protect]] 
+
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Functional_Group/Cyanide.private|Cyanide.private]] 
+
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Functional_Group/Cyanide.personal|Cyanide.personal]] 
+
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Functional_Group/Cyanide.secret|Cyanide.secret]] 
+

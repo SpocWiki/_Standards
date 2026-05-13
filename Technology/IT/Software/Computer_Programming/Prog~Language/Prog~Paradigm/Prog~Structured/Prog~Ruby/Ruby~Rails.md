@@ -2,7 +2,7 @@
 aliases:
   - Ruby on Rails
   - Ruby~Rails
----
+--- 
 
 
 ## Confidential Links & Embeds: 

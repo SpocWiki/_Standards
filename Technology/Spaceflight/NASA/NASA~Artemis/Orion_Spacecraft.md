@@ -170,3 +170,21 @@ dv_has_:
 > [Wikipedia](https://en.wikipedia.org/wiki/Orion%20(spacecraft)) 
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Technology/Spaceflight/NASA/NASA~Artemis/Orion_Spacecraft|Orion_Spacecraft]] 
+
+### #is_/same_as :: [[/_public/Technology/Spaceflight/NASA/NASA~Artemis/Orion_Spacecraft.public|Orion_Spacecraft.public]] 
+
+### #is_/same_as :: [[/_internal/Technology/Spaceflight/NASA/NASA~Artemis/Orion_Spacecraft.internal|Orion_Spacecraft.internal]] 
+
+### #is_/same_as :: [[/_protect/Technology/Spaceflight/NASA/NASA~Artemis/Orion_Spacecraft.protect|Orion_Spacecraft.protect]] 
+
+### #is_/same_as :: [[/_private/Technology/Spaceflight/NASA/NASA~Artemis/Orion_Spacecraft.private|Orion_Spacecraft.private]] 
+
+### #is_/same_as :: [[/_personal/Technology/Spaceflight/NASA/NASA~Artemis/Orion_Spacecraft.personal|Orion_Spacecraft.personal]] 
+
+### #is_/same_as :: [[/_secret/Technology/Spaceflight/NASA/NASA~Artemis/Orion_Spacecraft.secret|Orion_Spacecraft.secret]] 

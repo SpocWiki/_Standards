@@ -32,7 +32,7 @@
 | YouTube |  2.0 |
 | Pandora |  1.2 |
 | Deezer  |  1.1 |
-| TicToc  |  0.0 |
+| TicToc  |  0.0 | 
 
 
 ## Confidential Links & Embeds: 

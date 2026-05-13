@@ -32,7 +32,7 @@ The act of capturing still images of objects using a camera.
 #class/PhotographAction
 #class/Thing/Action/CreateAction/PhotographAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

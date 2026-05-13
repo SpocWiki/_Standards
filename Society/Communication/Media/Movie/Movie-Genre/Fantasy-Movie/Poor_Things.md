@@ -75,7 +75,7 @@ Duncan Weatherburn is manipulative and played by [[../../Actor/US_Actor/Ruffalo,
 It shows how a woman can grow up rapidly and, unspoiled by societal pressure, 
 become an independent person. 
 
-Max McCandles is played by ???
+Max McCandles is played by ??? 
 
 
 ## Confidential Links & Embeds: 

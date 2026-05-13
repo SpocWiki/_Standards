@@ -38,7 +38,7 @@ provided for singular events such as business conferences and meetings
 #class/MeetingRoom
 #class/Thing/Place/Accommodation/Room/MeetingRoom
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

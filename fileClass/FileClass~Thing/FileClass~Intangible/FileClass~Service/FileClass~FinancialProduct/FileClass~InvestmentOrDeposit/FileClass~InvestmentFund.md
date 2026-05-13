@@ -32,7 +32,7 @@ A company or fund that gathers capital from a number of investors to create a po
 #class/InvestmentFund
 #class/Thing/Intangible/Service/FinancialProduct/InvestmentOrDeposit/InvestmentFund
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

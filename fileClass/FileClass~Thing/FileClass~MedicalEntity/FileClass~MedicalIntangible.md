@@ -32,7 +32,7 @@ A utility class that serves as the umbrella for a number of 'intangible' things 
 #class/MedicalIntangible
 #class/Thing/MedicalEntity/MedicalIntangible
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

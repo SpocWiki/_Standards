@@ -50,3 +50,21 @@ Commons_category: Pope (Major Arcana)
 
 - Society, good understanding, concord, over kindness, weakness 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~05~Hierophant|Tarot~05~Hierophant]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~05~Hierophant.public|Tarot~05~Hierophant.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~05~Hierophant.internal|Tarot~05~Hierophant.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~05~Hierophant.protect|Tarot~05~Hierophant.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~05~Hierophant.private|Tarot~05~Hierophant.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~05~Hierophant.personal|Tarot~05~Hierophant.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~05~Hierophant.secret|Tarot~05~Hierophant.secret]] 

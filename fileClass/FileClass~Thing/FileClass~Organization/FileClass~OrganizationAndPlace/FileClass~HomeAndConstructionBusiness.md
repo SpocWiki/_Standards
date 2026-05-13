@@ -36,7 +36,7 @@ As a [[LocalBusiness]] it can be described as a [[provider]] of one or more [[..
 #class/HomeAndConstructionBusiness
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

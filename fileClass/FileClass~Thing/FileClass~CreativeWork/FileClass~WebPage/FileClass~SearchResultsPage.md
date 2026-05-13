@@ -32,7 +32,7 @@ Web page type: Search results page.
 #class/SearchResultsPage
 #class/Thing/CreativeWork/WebPage/SearchResultsPage
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

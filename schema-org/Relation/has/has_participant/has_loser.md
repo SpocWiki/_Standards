@@ -74,19 +74,20 @@ has_range = `=this.dv_has_range`
 
 has_parent_property = `=this.dv_has_parent_property` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_loser|has_loser]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_participant/has_loser|has_loser]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_participants/has_loser.public|has_loser.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_participant/has_loser.public|has_loser.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_participants/has_loser.internal|has_loser.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_participant/has_loser.internal|has_loser.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_participants/has_loser.protect|has_loser.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_participant/has_loser.protect|has_loser.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_participants/has_loser.private|has_loser.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_participant/has_loser.private|has_loser.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_participants/has_loser.personal|has_loser.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_participant/has_loser.personal|has_loser.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_participants/has_loser.secret|has_loser.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_participant/has_loser.secret|has_loser.secret]] 
 

@@ -32,7 +32,7 @@ A comedy club.
 #class/ComedyClub
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/ComedyClub
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

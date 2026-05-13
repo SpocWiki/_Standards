@@ -32,7 +32,7 @@ A single episode of a podcast series.
 #class/PodcastEpisode
 #class/Thing/CreativeWork/Episode/PodcastEpisode
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

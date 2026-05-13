@@ -32,7 +32,7 @@ Target audiences for medical web pages.
 #class/MedicalAudience
 #class/Thing/Intangible/Audience/PeopleAudience/MedicalAudience
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -43,7 +43,7 @@ You can use it like this when the Lyrics need to be referenced from multiple pla
 - has_lyrics = `=this.dv_has_lyrics`  
 
 or, when giving the text directly: 
-- has_text_of_lyrics = `=this.dv_has_text_of_lyrics`  
+- has_text_of_lyrics = `=this.dv_has_text_of_lyrics` 
 
 
 ## Confidential Links & Embeds: 

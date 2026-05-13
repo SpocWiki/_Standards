@@ -74,7 +74,7 @@ PassengerSequenceNumber:: {"type":"Input","options":{}}
 ### SecurityScreening
 The type of security screening the passenger is subject to.
 
-SecurityScreening:: {"type":"Input","options":{}}
+SecurityScreening:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

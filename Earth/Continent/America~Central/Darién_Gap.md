@@ -167,7 +167,7 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Dari%C3%A9n%20Gap) 
 
 
-The Pan American Highway is a Project by the OAS(Organization_of_American_States):
+The Pan American Highway is a Project by the OAS(Organization_of_American_States): 
 
 
 ## Confidential Links & Embeds: 

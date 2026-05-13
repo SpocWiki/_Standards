@@ -47,7 +47,7 @@ title: Choeropotamidae
 	-   *Parabunodon* †
 	-   *Rhagatherium* †
 	-   *Tapirulus* †
-	-   *Thaumastognathus* †
+	-   *Thaumastognathus* † 
 
 
 ## Confidential Links & Embeds: 

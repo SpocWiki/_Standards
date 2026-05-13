@@ -391,8 +391,6 @@ type: private_note
 ### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/Shia_Islam.personal|Shia_Islam.personal]] 
 
 ### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/Shia_Islam.secret|Shia_Islam.secret]] 
-
-
 # [[Shia_Islam]] 
 
 #is_/part_of :: [[Shia-Islam]] 

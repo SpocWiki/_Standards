@@ -448,4 +448,21 @@ A red herring fallacy, one of the main subtypes of fallacies of relevance, is an
 - [Texas sharpshooter fallacy](https://en.wikipedia.org/wiki/Texas_sharpshooter_fallacy "Texas sharpshooter fallacy") – improperly asserting a cause to explain a cluster of data.
 - _[Tu quoque](https://en.wikipedia.org/wiki/Tu_quoque "Tu quoque")_ ('you too' – appeal to hypocrisy, [whataboutism](https://en.wikipedia.org/wiki/Whataboutism "Whataboutism")) – stating that a position is false, wrong, or should be disregarded because its proponent fails to act consistently in accordance with it.
 - [Two wrongs make a right](https://en.wikipedia.org/wiki/Two_wrongs_make_a_right "Two wrongs make a right") – assuming that, if one wrong is committed, another wrong will rectify it.
-- [Vacuous truth](https://en.wikipedia.org/wiki/Vacuous_truth "Vacuous truth") – a claim that is technically true but meaningless, in the form no _A_ in _B_ has _C_, when there is no _A_ in _B_. For example, claiming that no mobile phones in the room are on when there are no mobile phones in the room.
+- [Vacuous truth](https://en.wikipedia.org/wiki/Vacuous_truth "Vacuous truth") – a claim that is technically true but meaningless, in the form no _A_ in _B_ has _C_, when there is no _A_ in _B_. For example, claiming that no mobile phones in the room are on when there are no mobile phones in the room. 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Rethoric/Fallacy|Fallacy]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Rethoric/Fallacy.public|Fallacy.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Rethoric/Fallacy.internal|Fallacy.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Rethoric/Fallacy.protect|Fallacy.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Rethoric/Fallacy.private|Fallacy.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy.personal|Fallacy.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy.secret|Fallacy.secret]] 

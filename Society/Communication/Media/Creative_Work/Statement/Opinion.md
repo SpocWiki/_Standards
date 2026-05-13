@@ -197,7 +197,7 @@ dv_has_:
 
 Opinions are protected in many Jurisdictions by [[../../../../Social_Issues/Human_Rights/Freedom_of_Speech|Freedom_of_Speech]], 
 but [[../Statement|Statement]]s need to be proven 
-and [[Claim]]s of Facts are debatable.
+and [[Claim]]s of Facts are debatable. 
 
 
 ## Confidential Links & Embeds: 

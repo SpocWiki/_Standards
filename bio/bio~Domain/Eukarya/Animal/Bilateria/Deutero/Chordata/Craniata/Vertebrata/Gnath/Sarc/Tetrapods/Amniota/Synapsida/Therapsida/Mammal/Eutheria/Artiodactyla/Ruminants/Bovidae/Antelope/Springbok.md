@@ -222,7 +222,7 @@ location ::           Etosha National Park, Namibia
 Acknowledgements     This image is licensed under the [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
 specimen_condition ::  Live Specimen
 Image Use ::    [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
-copyright ::            © 2006 [Damien du Toit](http://flickr.com/people/coda/)
+copyright ::            © 2006 [Damien du Toit](http://flickr.com/people/coda/) 
 
 
 ## Confidential Links & Embeds: 

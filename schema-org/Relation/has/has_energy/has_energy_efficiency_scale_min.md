@@ -80,17 +80,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_energy_efficiency_scale_min|has_energy_efficiency_scale_min]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_energy/has_energy_efficiency_scale_min|has_energy_efficiency_scale_min]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_energy_efficiency_scale_min.public|has_energy_efficiency_scale_min.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_energy/has_energy_efficiency_scale_min.public|has_energy_efficiency_scale_min.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_energy_efficiency_scale_min.internal|has_energy_efficiency_scale_min.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_energy/has_energy_efficiency_scale_min.internal|has_energy_efficiency_scale_min.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_energy_efficiency_scale_min.protect|has_energy_efficiency_scale_min.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_energy/has_energy_efficiency_scale_min.protect|has_energy_efficiency_scale_min.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_energy_efficiency_scale_min.private|has_energy_efficiency_scale_min.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_energy/has_energy_efficiency_scale_min.private|has_energy_efficiency_scale_min.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_energy_efficiency_scale_min.personal|has_energy_efficiency_scale_min.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_energy/has_energy_efficiency_scale_min.personal|has_energy_efficiency_scale_min.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_energy_efficiency_scale_min.secret|has_energy_efficiency_scale_min.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_energy/has_energy_efficiency_scale_min.secret|has_energy_efficiency_scale_min.secret]] 
 

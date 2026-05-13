@@ -89,7 +89,7 @@ The date and time an item was removed from a [[../../../Society/Communication/Me
 Formal Predicate: 
 domain = `=this.dv_domain`  
 has_name = `=this.dv_has_name`  
-range = `=this.dv_range`  
+range = `=this.dv_range` 
 
 
 ## Confidential Links & Embeds: 

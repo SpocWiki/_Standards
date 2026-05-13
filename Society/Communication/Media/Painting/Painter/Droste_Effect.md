@@ -49,3 +49,21 @@ Artist --creates--> Picture
 
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Droste_Effect|Droste_Effect]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Droste_Effect.public|Droste_Effect.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Droste_Effect.internal|Droste_Effect.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Droste_Effect.protect|Droste_Effect.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Droste_Effect.private|Droste_Effect.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Droste_Effect.personal|Droste_Effect.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Droste_Effect.secret|Droste_Effect.secret]] 

@@ -17,7 +17,7 @@ dv_is_same_as:
   - "[[/_personal/Earth/Continent/_CityName.personal|_CityName.personal]]"
   - "[[/_secret/Earth/Continent/_CityName.secret|_CityName.secret]]"
 ---
-_Cities/{{City}}.md
+_Cities/{{City}}.md 
 
 
 ## Confidential Links & Embeds: 

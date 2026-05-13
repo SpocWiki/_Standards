@@ -173,7 +173,7 @@ waters. Bull. Mar. Sci., 49: 162-185.
   scientific_name ::  Chiroteuthis spoeli
   location ::        off N.E. coast of U.S.A.
   Creator           M. Vecchione
-  ------------
+  ------------ 
 
 
 ## Confidential Links & Embeds: 

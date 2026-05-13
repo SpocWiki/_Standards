@@ -668,17 +668,17 @@ The day of the week between Friday and Sunday.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Saturday|Saturday]] 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Saturday|Saturday]] 
 
-### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Saturday.public|Saturday.public]] 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Saturday.public|Saturday.public]] 
 
-### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Saturday.internal|Saturday.internal]] 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Saturday.internal|Saturday.internal]] 
 
-### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Saturday.protect|Saturday.protect]] 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Saturday.protect|Saturday.protect]] 
 
-### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Saturday.private|Saturday.private]] 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Saturday.private|Saturday.private]] 
 
-### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Saturday.personal|Saturday.personal]] 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Saturday.personal|Saturday.personal]] 
 
-### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Saturday.secret|Saturday.secret]] 
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Saturday.secret|Saturday.secret]] 
 

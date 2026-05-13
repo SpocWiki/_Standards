@@ -155,7 +155,7 @@ dv_has_:
 | North Germanic         | -dóttir        | “daughter of”   | Jónsdóttir ("daughter of Jón")   | Iceland                 |   900 |
 | East Slavic            | -vich          | “son of”        | Ivanovich ("son of Ivan")        | Russia, Belarus         |  1000 |
 | East Slavic (feminine) | -ovna / -evna  | “daughter of”   | Ivanovna ("daughter of Ivan")    | Russia                  |  1000 |
-| South Slavic           | -ić / -vić     | “descendant of” | Petrović ("descendant of Petar") | Serbia, Croatia, Bosnia |  1300 |
+| South Slavic           | -ić / -vić     | “descendant of” | Petrović ("descendant of Petar") | Serbia, Croatia, Bosnia |  1300 | 
 
 
 ## Confidential Links & Embeds: 

@@ -44,5 +44,22 @@ Iconclass_notation: 82A(WAYLAND)
 > Wayland is also mentioned in passing in a wide range of texts, such as 
 > the Old English Waldere and Beowulf, as the maker of weapons and armour.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Wayland%20the%20Smith)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Wayland%20the%20Smith) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Plato/Wayland_the_Smith|Wayland_the_Smith]] 
+
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Ancient_Philosopher/Plato/Wayland_the_Smith.public|Wayland_the_Smith.public]] 
+
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Ancient_Philosopher/Plato/Wayland_the_Smith.internal|Wayland_the_Smith.internal]] 
+
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Ancient_Philosopher/Plato/Wayland_the_Smith.protect|Wayland_the_Smith.protect]] 
+
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Ancient_Philosopher/Plato/Wayland_the_Smith.private|Wayland_the_Smith.private]] 
+
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Ancient_Philosopher/Plato/Wayland_the_Smith.personal|Wayland_the_Smith.personal]] 
+
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Ancient_Philosopher/Plato/Wayland_the_Smith.secret|Wayland_the_Smith.secret]] 
 

@@ -139,7 +139,7 @@ Acknowledgements                    This image is licensed under the
 							  source: [flickr: elephant                                       shrew](http://flickr.com/photos/zeandroid/210618830/)
 specimen_condition ::                 Live Specimen
 Source Collection                   [Flickr](http://flickr.com/)
-copyright ::                           © 2006 [zeandroid](http://flickr.com/people/zeandroid/)
+copyright ::                           © 2006 [zeandroid](http://flickr.com/people/zeandroid/) 
 
 
 ## Confidential Links & Embeds: 

@@ -34,7 +34,7 @@ This type is deprecated - [[LegalService]] is more inclusive and less ambiguous.
 #class/Attorney
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LegalService/Attorney
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

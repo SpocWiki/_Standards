@@ -71,3 +71,21 @@ The topological related [[Klein_Bottle]] cannot be used to map the complex Plane
 not the least because it is non-orientable. 
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Print_Gallery(Escher)|Print_Gallery(Escher)]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Print_Gallery(Escher).public|Print_Gallery(Escher).public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Print_Gallery(Escher).internal|Print_Gallery(Escher).internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Print_Gallery(Escher).protect|Print_Gallery(Escher).protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Print_Gallery(Escher).private|Print_Gallery(Escher).private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Print_Gallery(Escher).personal|Print_Gallery(Escher).personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Print_Gallery(Escher).secret|Print_Gallery(Escher).secret]] 

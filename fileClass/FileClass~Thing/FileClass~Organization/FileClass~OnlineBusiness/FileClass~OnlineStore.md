@@ -32,7 +32,7 @@ An eCommerce site.
 #class/OnlineStore
 #class/Thing/Organization/OnlineBusiness/OnlineStore
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

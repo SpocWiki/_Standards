@@ -60,22 +60,22 @@ is_part_of = `=this.dv_is_part_of`
 H-C-C=O
   | |
   H H
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Aldehyde/Ethanal|Ethanal]] 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Functional_Group/Aldehyde/Ethanal|Ethanal]] 
 
-### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Aldehyde/Ethanal.public|Ethanal.public]] 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Functional_Group/Aldehyde/Ethanal.public|Ethanal.public]] 
 
-### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Aldehyde/Ethanal.internal|Ethanal.internal]] 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Functional_Group/Aldehyde/Ethanal.internal|Ethanal.internal]] 
 
-### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Aldehyde/Ethanal.protect|Ethanal.protect]] 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Functional_Group/Aldehyde/Ethanal.protect|Ethanal.protect]] 
 
-### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Aldehyde/Ethanal.private|Ethanal.private]] 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Functional_Group/Aldehyde/Ethanal.private|Ethanal.private]] 
 
-### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Aldehyde/Ethanal.personal|Ethanal.personal]] 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Functional_Group/Aldehyde/Ethanal.personal|Ethanal.personal]] 
 
-### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Aldehyde/Ethanal.secret|Ethanal.secret]] 
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Functional_Group/Aldehyde/Ethanal.secret|Ethanal.secret]] 
 

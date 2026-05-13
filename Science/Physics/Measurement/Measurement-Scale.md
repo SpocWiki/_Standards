@@ -201,7 +201,7 @@ Measurements bound to a range and repeating (like degrees in a circle, clock tim
 7. Cyclical ratio
 8. Derived ratio
 9. Counts
-10. Absolute
+10. Absolute 
 
 
 ## Confidential Links & Embeds: 

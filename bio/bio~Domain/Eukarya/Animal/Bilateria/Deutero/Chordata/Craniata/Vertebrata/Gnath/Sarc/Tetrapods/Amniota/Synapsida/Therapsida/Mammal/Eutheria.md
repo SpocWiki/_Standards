@@ -718,7 +718,7 @@ Artiodactyla (plus Cetacea). Molecular Biology and Evolution
   Comments             Killer whale
   specimen_condition ::  Live Specimen
   copyright ::            © 1999 Brian Scott
-  ----------
+  ---------- 
 
 
 ## Confidential Links & Embeds: 

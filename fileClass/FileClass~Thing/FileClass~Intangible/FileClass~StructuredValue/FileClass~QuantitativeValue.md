@@ -111,7 +111,7 @@ Value:: {"type":"Boolean","options":{}}
 ### ValueReference
 A secondary value that provides additional information on the original value, e.g. a reference temperature or a type of measurement.
 
-ValueReference:: {"type":"Input","options":{}}
+ValueReference:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

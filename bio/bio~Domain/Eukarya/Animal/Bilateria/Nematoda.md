@@ -321,7 +321,7 @@ Roundworms
 scientific_name ::    Strongyloides
 Creator             CDC/Dr. Mae Melvin
 Life Cycle Stage ::    filariform larva
-Source Collection   [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
+Source Collection   [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp) 
 
 
 ## Confidential Links & Embeds: 

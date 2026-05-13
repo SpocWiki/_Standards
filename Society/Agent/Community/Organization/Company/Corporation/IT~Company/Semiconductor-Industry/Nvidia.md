@@ -331,3 +331,19 @@ dv_has_:
 > [Wikipedia](https://en.wikipedia.org/wiki/Nvidia) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Nvidia|Nvidia]] 
+
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Nvidia.public|Nvidia.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Nvidia.internal|Nvidia.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Nvidia.protect|Nvidia.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Nvidia.private|Nvidia.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Nvidia.personal|Nvidia.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Nvidia.secret|Nvidia.secret]] 
+

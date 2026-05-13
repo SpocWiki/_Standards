@@ -240,17 +240,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Nautical_Mile|Nautical_Mile]] 
+### #is_/same_as :: [[/_Standards/Dimension/Linear_Dimension/Dim~Length/Nautical_Mile|Nautical_Mile]] 
 
-### #is_/same_as :: [[/_public/Dimension/Dim~Length/Nautical_Mile.public|Nautical_Mile.public]] 
+### #is_/same_as :: [[/_public/Dimension/Linear_Dimension/Dim~Length/Nautical_Mile.public|Nautical_Mile.public]] 
 
-### #is_/same_as :: [[/_internal/Dimension/Dim~Length/Nautical_Mile.internal|Nautical_Mile.internal]] 
+### #is_/same_as :: [[/_internal/Dimension/Linear_Dimension/Dim~Length/Nautical_Mile.internal|Nautical_Mile.internal]] 
 
-### #is_/same_as :: [[/_protect/Dimension/Dim~Length/Nautical_Mile.protect|Nautical_Mile.protect]] 
+### #is_/same_as :: [[/_protect/Dimension/Linear_Dimension/Dim~Length/Nautical_Mile.protect|Nautical_Mile.protect]] 
 
-### #is_/same_as :: [[/_private/Dimension/Dim~Length/Nautical_Mile.private|Nautical_Mile.private]] 
+### #is_/same_as :: [[/_private/Dimension/Linear_Dimension/Dim~Length/Nautical_Mile.private|Nautical_Mile.private]] 
 
-### #is_/same_as :: [[/_personal/Dimension/Dim~Length/Nautical_Mile.personal|Nautical_Mile.personal]] 
+### #is_/same_as :: [[/_personal/Dimension/Linear_Dimension/Dim~Length/Nautical_Mile.personal|Nautical_Mile.personal]] 
 
-### #is_/same_as :: [[/_secret/Dimension/Dim~Length/Nautical_Mile.secret|Nautical_Mile.secret]] 
+### #is_/same_as :: [[/_secret/Dimension/Linear_Dimension/Dim~Length/Nautical_Mile.secret|Nautical_Mile.secret]] 
 

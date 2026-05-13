@@ -162,7 +162,7 @@ copyright ::         © 1999 [Richard E. Young](http://www.soest.hawaii.edu/%7Er
 ------------ 
 ![](Bolitaena_pygmaea/eledonellaFem.jpg) 
 scientific_name ::  Bolitaena pygmaea
-Reference         modified from Chun, 1910
+Reference         modified from Chun, 1910 
 
 
 ## Confidential Links & Embeds: 

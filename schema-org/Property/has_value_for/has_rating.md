@@ -79,17 +79,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_rating|has_content_rating]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_rating|has_rating]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_content_rating.public|has_content_rating.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_rating.public|has_rating.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_content_rating.internal|has_content_rating.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_rating.internal|has_rating.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_content_rating.protect|has_content_rating.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_rating.protect|has_rating.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_content_rating.private|has_content_rating.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_rating.private|has_rating.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_content_rating.personal|has_content_rating.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_rating.personal|has_rating.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_content_rating.secret|has_content_rating.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_rating.secret|has_rating.secret]] 
 

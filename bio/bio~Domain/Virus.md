@@ -583,7 +583,7 @@ scientific_name ::     Simplexvirus
 Comments             Transmission electron micrograph of herpes simplex virus. Some nucleocapsids are empty, as shown by penetration of electron-dense stain.
 Creator              Dr. Erskine Palmer (Center for Disease Control)
 specimen_condition ::  Dead Specimen
-Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
+Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp) 
 
 
 ## Confidential Links & Embeds: 

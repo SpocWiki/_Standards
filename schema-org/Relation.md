@@ -264,7 +264,7 @@ Complement is all Pairs NOT in the Relation:
 - 2 A,B,C
 
 The Complement is typically much larger than the Relation! 
-That is why it is usually less helpful
+That is why it is usually less helpful 
 
 
 ## Confidential Links & Embeds: 

@@ -128,4 +128,21 @@ Commons_category: Morgenthau Plan
 > and used as part of propaganda efforts in the final seven months of the war in Europe 
 > that aimed to convince Germans to fight on.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Morgenthau%20Plan)
+> [Wikipedia](https://en.wikipedia.org/wiki/Morgenthau%20Plan) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/WWII-Reconstruction/Morgenthau-Plan|Morgenthau-Plan]] 
+
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/WWII-Reconstruction/Morgenthau-Plan.public|Morgenthau-Plan.public]] 
+
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/WWII-Reconstruction/Morgenthau-Plan.internal|Morgenthau-Plan.internal]] 
+
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/WWII-Reconstruction/Morgenthau-Plan.protect|Morgenthau-Plan.protect]] 
+
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/WWII-Reconstruction/Morgenthau-Plan.private|Morgenthau-Plan.private]] 
+
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/WWII-Reconstruction/Morgenthau-Plan.personal|Morgenthau-Plan.personal]] 
+
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/WWII-Reconstruction/Morgenthau-Plan.secret|Morgenthau-Plan.secret]] 

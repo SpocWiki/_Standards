@@ -106,7 +106,7 @@ dv_has_:
 
 	-   *Oryzorictes hova* [(Hova rice tenrec)]
 	-   *Oryzorictes talpoides* [(molelike rice tenrec)]
-	-   *Oryzorictes tetradactylus* [(four-toed rice tenrec)]
+	-   *Oryzorictes tetradactylus* [(four-toed rice tenrec)] 
 
 
 ## Confidential Links & Embeds: 

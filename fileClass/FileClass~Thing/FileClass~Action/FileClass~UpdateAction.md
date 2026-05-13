@@ -43,7 +43,7 @@ The act of managing by changing/editing the state of the object.
 ### TargetCollection
 A sub property of object. The collection target of the action.
 
-TargetCollection:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing')"}}
+TargetCollection:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing')"}} 
 
 
 ## Confidential Links & Embeds: 

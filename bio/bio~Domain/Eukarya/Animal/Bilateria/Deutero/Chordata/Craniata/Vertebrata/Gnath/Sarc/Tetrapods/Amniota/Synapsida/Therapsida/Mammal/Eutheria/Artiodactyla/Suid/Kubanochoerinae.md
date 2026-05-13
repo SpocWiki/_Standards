@@ -40,7 +40,7 @@ title: Kubanochoerinae
 	-   *Kenyasus* †
 	-   *Kubanochoerus* †
 	-   *Libycochoerus* †
-	-   *Megalochoerus* †
+	-   *Megalochoerus* † 
 
 
 ## Confidential Links & Embeds: 

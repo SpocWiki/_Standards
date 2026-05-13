@@ -223,7 +223,7 @@ Life Cycle Stage ::     adult
 Body Part            whole
 View                 side
 copyright ::            © 2006 [David Bygott](mailto:davidbygott@yahoo.com) 
--------------------------------------------------------------------------
+------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

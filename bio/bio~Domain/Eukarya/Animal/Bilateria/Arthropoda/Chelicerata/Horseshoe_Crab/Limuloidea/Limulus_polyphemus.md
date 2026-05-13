@@ -149,7 +149,7 @@ dv_has_:
 scientific_name ::    Limulus polyphemus
 location ::          Washington D.C., USA
 Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
-copyright ::           © 2000 [John White](mailto:reptiles@erols.com)
+copyright ::           © 2000 [John White](mailto:reptiles@erols.com) 
 
 
 ## Confidential Links & Embeds: 

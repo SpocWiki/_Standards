@@ -35,7 +35,8 @@ Something in medical science that pertains to infectious diseases, i.e. caused b
 
 #has_/parent_class :: [[../MedicalSpecialty|MedicalSpecialty]]  
 
-#is_/enum_of :: [[../MedicalSpecialty|MedicalSpecialty]]  
+#is_/enum_of :: [[../MedicalSpecialty|MedicalSpecialty]] 
+
 
 ## Confidential Links & Embeds: 
 

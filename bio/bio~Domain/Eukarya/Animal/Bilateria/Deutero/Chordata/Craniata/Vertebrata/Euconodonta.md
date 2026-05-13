@@ -199,7 +199,7 @@ vertebrate-like. (After Purnell et al. 1995.)
 
 ---------- 
 ![euconodonta](Euconodonta/euconodonta.gif) 
-copyright ::   © 1997 Philippe Janvier
+copyright ::   © 1997 Philippe Janvier 
 
 
 ## Confidential Links & Embeds: 

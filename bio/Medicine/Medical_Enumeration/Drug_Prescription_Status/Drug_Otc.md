@@ -36,7 +36,8 @@ The character of a medical substance, typically a medicine, of being available o
 
 #has_/parent_class :: [[../DrugPrescriptionStatus|DrugPrescriptionStatus]]  
 
-#is_/enum_of :: [[../DrugPrescriptionStatus|DrugPrescriptionStatus]]  
+#is_/enum_of :: [[../DrugPrescriptionStatus|DrugPrescriptionStatus]] 
+
 
 ## Confidential Links & Embeds: 
 

@@ -446,7 +446,7 @@ Chippindale et al., 2004).
 scientific_name ::  Plethodon dorsalis
 location ::        Eastern United States
 Comments          The zigzag salamander
-copyright ::         © 1996 Dr. Robert S. Simmons
+copyright ::         © 1996 Dr. Robert S. Simmons 
 
 
 ## Confidential Links & Embeds: 

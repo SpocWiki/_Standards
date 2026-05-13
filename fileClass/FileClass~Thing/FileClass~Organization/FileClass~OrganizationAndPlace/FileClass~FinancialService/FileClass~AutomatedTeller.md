@@ -32,7 +32,7 @@ ATM/cash machine.
 #class/AutomatedTeller
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService/AutomatedTeller
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

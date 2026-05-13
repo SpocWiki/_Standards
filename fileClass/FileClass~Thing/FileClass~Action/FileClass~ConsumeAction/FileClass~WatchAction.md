@@ -32,7 +32,7 @@ The act of consuming dynamic/moving visual content.
 #class/WatchAction
 #class/Thing/Action/ConsumeAction/WatchAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

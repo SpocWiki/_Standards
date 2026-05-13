@@ -42,7 +42,7 @@ An item used as either a tool or supply when performing the instructions for how
 ### RequiredQuantity
 The required quantity of the item(s).
 
-RequiredQuantity:: {"type":"Number","options":{}}
+RequiredQuantity:: {"type":"Number","options":{}} 
 
 
 ## Confidential Links & Embeds: 

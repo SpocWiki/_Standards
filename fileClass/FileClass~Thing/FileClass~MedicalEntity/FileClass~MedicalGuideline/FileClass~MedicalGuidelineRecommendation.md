@@ -42,7 +42,7 @@ A guideline recommendation that is regarded as efficacious and where quality of 
 ### RecommendationStrength
 Strength of the guideline's recommendation (e.g. 'class I').
 
-RecommendationStrength:: {"type":"Input","options":{}}
+RecommendationStrength:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

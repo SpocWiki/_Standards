@@ -183,3 +183,20 @@ Libris_URI: nl021p7641wmgtn
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Iberian%20Peninsula) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Iberian_Peninsula|Iberian_Peninsula]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Iberian_Peninsula.public|Iberian_Peninsula.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Iberian_Peninsula.internal|Iberian_Peninsula.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Iberian_Peninsula.protect|Iberian_Peninsula.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Iberian_Peninsula.private|Iberian_Peninsula.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Iberian_Peninsula.personal|Iberian_Peninsula.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Iberian_Peninsula.secret|Iberian_Peninsula.secret]] 
+

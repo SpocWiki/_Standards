@@ -130,7 +130,7 @@ Vie Milieu, 35: 203-209.
   View              Ventral
   copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
-  -------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

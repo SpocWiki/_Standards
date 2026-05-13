@@ -58,6 +58,7 @@ A type of permission which can be granted for accessing a digital document.
 
 has_parent_class = `=this.dv_has_parent_class` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Digital_Document_Permission_Type|Digital_Document_Permission_Type]] 

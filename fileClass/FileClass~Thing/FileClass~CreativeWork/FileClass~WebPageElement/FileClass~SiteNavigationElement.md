@@ -32,7 +32,7 @@ A navigation element of the page.
 #class/SiteNavigationElement
 #class/Thing/CreativeWork/WebPageElement/SiteNavigationElement
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

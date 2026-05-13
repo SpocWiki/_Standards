@@ -35,7 +35,6 @@ Tag Instances like this:
 has_inverse = `=this.dv_has_inverse` 
 
 Vocabularies defining similar Relations: 
- 
 
 
 ## Confidential Links & Embeds: 

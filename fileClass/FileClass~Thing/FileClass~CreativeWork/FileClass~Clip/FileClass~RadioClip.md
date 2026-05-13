@@ -32,7 +32,7 @@ A short radio program or a segment/part of a radio program.
 #class/RadioClip
 #class/Thing/CreativeWork/Clip/RadioClip
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

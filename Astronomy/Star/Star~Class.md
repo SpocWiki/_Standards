@@ -42,7 +42,7 @@ Masses are in solar Mass M☉
 TABLE 
 FROM "astro/Star~Class"
 LIMIT 3
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -43,7 +43,7 @@ The act of granting permission to an object.
 ### Recipient
 A sub property of participant. The participant who is at the receiving end of the action.
 
-Recipient:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Audience')"}}
+Recipient:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Audience')"}} 
 
 
 ## Confidential Links & Embeds: 

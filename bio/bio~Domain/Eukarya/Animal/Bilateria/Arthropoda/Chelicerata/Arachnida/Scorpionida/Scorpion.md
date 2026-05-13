@@ -411,7 +411,7 @@ dv_has_:
 Centruroides vittatus (Buthoidea).\
 Photograph copyright © Scott A. Stockwell.
 ![Buthoidea](Scorpion/buthoidea.jpg) 
-copyright ::   © 1988 Scott A. Stockwell
+copyright ::   © 1988 Scott A. Stockwell 
 
 
 ## Confidential Links & Embeds: 

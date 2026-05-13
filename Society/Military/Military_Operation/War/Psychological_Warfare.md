@@ -172,17 +172,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Psychological_Warfare|Psychological_Warfare]] 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/War/Psychological_Warfare|Psychological_Warfare]] 
 
-### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/War/Psychological_Warfare.public|Psychological_Warfare.public]] 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/War/Psychological_Warfare.public|Psychological_Warfare.public]] 
 
-### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/War/Psychological_Warfare.internal|Psychological_Warfare.internal]] 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/War/Psychological_Warfare.internal|Psychological_Warfare.internal]] 
 
-### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/War/Psychological_Warfare.protect|Psychological_Warfare.protect]] 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/War/Psychological_Warfare.protect|Psychological_Warfare.protect]] 
 
-### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/War/Psychological_Warfare.private|Psychological_Warfare.private]] 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/War/Psychological_Warfare.private|Psychological_Warfare.private]] 
 
-### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/War/Psychological_Warfare.personal|Psychological_Warfare.personal]] 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/War/Psychological_Warfare.personal|Psychological_Warfare.personal]] 
 
-### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/War/Psychological_Warfare.secret|Psychological_Warfare.secret]] 
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/War/Psychological_Warfare.secret|Psychological_Warfare.secret]] 
 

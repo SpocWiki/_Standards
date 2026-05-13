@@ -38,8 +38,7 @@ markerFolder: ./Asia~North~West/
 
 ```ccard
 type: folder_brief_live
-```
- 
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -140,7 +140,7 @@ location ::           Malaysia: Sabah: Mt. Kinabalu
 specimen_condition ::  Live Specimen
 Identified By        Read S. Beaman
 Sex ::                Male
-copyright ::            © 2004 Read S. Beaman
+copyright ::            © 2004 Read S. Beaman 
 
 
 ## Confidential Links & Embeds: 

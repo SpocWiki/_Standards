@@ -1,17 +1,5 @@
 
-## Confidential Links & Embeds: 
-
-### [rdfs~isDefinedBy](../../../../_public/W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~isDefinedBy) 
-
-### [rdfs~isDefinedBy.internal](../../../../_internal/W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~isDefinedBy.internal) 
-
-### [rdfs~isDefinedBy.protect](../../../../_protect/W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~isDefinedBy.protect) 
-
-### [rdfs~isDefinedBy.private](../../../../_private/W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~isDefinedBy.private) 
-
-### [rdfs~isDefinedBy.personal](../../../../_personal/W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~isDefinedBy.personal) 
-
-### [rdfs~isDefinedBy.secret](../../../../_secret/W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~isDefinedBy.secret) 
+ 
 
 
 ## Confidential Links & Embeds: 

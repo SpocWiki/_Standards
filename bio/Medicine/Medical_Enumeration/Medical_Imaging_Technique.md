@@ -34,7 +34,8 @@ Tag Instances like this:
 
 Any medical imaging modality typically used for diagnostic purposes. Enumerated type.
 
-#has_/parent_class :: [[../MedicalEnumeration|MedicalEnumeration]]  
+#has_/parent_class :: [[../MedicalEnumeration|MedicalEnumeration]] 
+
 
 ## Confidential Links & Embeds: 
 

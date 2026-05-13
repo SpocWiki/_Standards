@@ -83,7 +83,7 @@ dv_has_:
 	-   *Neocondeellum*
 	-   *Paracondeellum*
 	-   *Protentomon*
-	-   *Proturentomon*
+	-   *Proturentomon* 
 
 
 ## Confidential Links & Embeds: 

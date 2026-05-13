@@ -120,7 +120,7 @@ ServiceSmsNumber:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cl
 ### ServiceUrl
 The website to access the service.
 
-ServiceUrl:: {"type":"Input","options":{}}
+ServiceUrl:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

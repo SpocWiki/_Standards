@@ -44,3 +44,21 @@ Unicode_character: ♦
 > [Wikipedia](https://en.wikipedia.org/wiki/Diamonds%20(suit))  
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit/Suit~Diamonds|Suit~Diamonds]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit/Suit~Diamonds.public|Suit~Diamonds.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit/Suit~Diamonds.internal|Suit~Diamonds.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit/Suit~Diamonds.protect|Suit~Diamonds.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit/Suit~Diamonds.private|Suit~Diamonds.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit/Suit~Diamonds.personal|Suit~Diamonds.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit/Suit~Diamonds.secret|Suit~Diamonds.secret]] 

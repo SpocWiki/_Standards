@@ -31,7 +31,7 @@ The act of accomplishing something via previous efforts. It is an instantaneous 
 #class/AchieveAction
 #class/Thing/Action/AchieveAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

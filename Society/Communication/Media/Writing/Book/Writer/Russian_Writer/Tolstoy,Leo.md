@@ -565,7 +565,7 @@ Sophia Tolstaya, Leo Tolstoy's wife,
 played a significant role in the creation of "War and Peace." 
 
 She meticulously hand-copied the entire manuscript seven times, 
-often working by candlelight after attending to her household and family duties.
+often working by candlelight after attending to her household and family duties. 
 
 
 ## Confidential Links & Embeds: 

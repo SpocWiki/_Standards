@@ -61,7 +61,7 @@ OriginalMediaContextDescription:: {"type":"Input","options":{}}
 ### OriginalMediaLink
 Link to the page containing an original version of the content, or directly to an online copy of the original [[MediaObject]] content, e.g. video file.
 
-OriginalMediaLink:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MediaObject')"}}
+OriginalMediaLink:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MediaObject')"}} 
 
 
 ## Confidential Links & Embeds: 

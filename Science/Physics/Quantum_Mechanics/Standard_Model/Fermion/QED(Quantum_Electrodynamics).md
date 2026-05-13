@@ -206,7 +206,7 @@ Thus, **QED simultaneously describes**:
 - **Bosons** (force mediators: photons)
 - **Their interactions** through electromagnetic coupling
     
-Neutral fermions (like neutrinos) are **not** described by QED, as they lack electric charge.
+Neutral fermions (like neutrinos) are **not** described by QED, as they lack electric charge. 
 
 
 ## Confidential Links & Embeds: 

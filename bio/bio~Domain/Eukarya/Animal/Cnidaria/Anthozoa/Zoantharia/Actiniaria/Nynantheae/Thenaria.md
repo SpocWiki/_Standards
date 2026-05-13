@@ -111,7 +111,7 @@ Photographs copyright © 2000, Ron Ates.
 
   -------
   copyright ::   © 2000 Ron Ates
-  -------
+  ------- 
 
 
 ## Confidential Links & Embeds: 

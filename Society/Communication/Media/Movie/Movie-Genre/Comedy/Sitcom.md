@@ -197,7 +197,7 @@ bei denen Sketche lediglich aneinandergereiht werden.
 
 Allgemein folgt das Geschehen einer „zirkulären Dramaturgie“ – 
 die Figuren sind am Ende der Episode so klug wie zuvor. 
-Dies hat zur Folge, dass Sitcoms prinzipiell eine eher konservative Ausrichtung haben
+Dies hat zur Folge, dass Sitcoms prinzipiell eine eher konservative Ausrichtung haben 
 
 
 ## Confidential Links & Embeds: 

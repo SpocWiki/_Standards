@@ -119,7 +119,7 @@ Phuket Mar. Biol. Cent. Res. Bull. 66: 23-26.
   View                 Dorsal
   copyright ::            © [Michael Vecchione](mailto:vecchiom@si.edu) 
  
-  -----------------------------------------------------------------------
+  ----------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

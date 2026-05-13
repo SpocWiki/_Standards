@@ -53,7 +53,7 @@ DurationOfWarranty:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#
 ### WarrantyScope
 The scope of the warranty promise.
 
-WarrantyScope:: {"type":"Input","options":{}}
+WarrantyScope:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

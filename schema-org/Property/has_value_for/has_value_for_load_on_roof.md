@@ -93,7 +93,7 @@ Predicate describes that:
 
 #has_/domain  :: [[../../../Technology/Transport/Road_Transport/Bus_or_Coach|Bus_or_Coach]],  [[../../../Technology/Transport/Road_Transport/Car|Car]] 
 has_name = `=this.dv_has_name`  
-has_range = `=this.dv_has_range`  
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

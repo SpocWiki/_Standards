@@ -77,7 +77,7 @@ HandlingTime:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/
 ### TransitTime
 The typical delay the order has been sent for delivery and the goods reach the final customer. Typical properties: minValue, maxValue, unitCode (d for DAY).
 
-TransitTime:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
+TransitTime:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}} 
 
 
 ## Confidential Links & Embeds: 

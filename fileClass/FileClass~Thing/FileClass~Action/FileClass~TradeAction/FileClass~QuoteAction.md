@@ -32,7 +32,7 @@ An agent quotes/estimates/appraises an object/product/service with a price at a 
 #class/QuoteAction
 #class/Thing/Action/TradeAction/QuoteAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

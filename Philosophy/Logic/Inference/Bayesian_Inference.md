@@ -209,5 +209,22 @@ In short, the Bayesian ideal says:
 - state priors openly, 
 - model evidence carefully, 
 - update mechanically, and 
-- remain humble about model error.  
+- remain humble about model error. 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Philosophy/Logic/Inference/Bayesian_Inference|Bayesian_Inference]] 
+
+### #is_/same_as :: [[/_public/Philosophy/Logic/Inference/Bayesian_Inference.public|Bayesian_Inference.public]] 
+
+### #is_/same_as :: [[/_internal/Philosophy/Logic/Inference/Bayesian_Inference.internal|Bayesian_Inference.internal]] 
+
+### #is_/same_as :: [[/_protect/Philosophy/Logic/Inference/Bayesian_Inference.protect|Bayesian_Inference.protect]] 
+
+### #is_/same_as :: [[/_private/Philosophy/Logic/Inference/Bayesian_Inference.private|Bayesian_Inference.private]] 
+
+### #is_/same_as :: [[/_personal/Philosophy/Logic/Inference/Bayesian_Inference.personal|Bayesian_Inference.personal]] 
+
+### #is_/same_as :: [[/_secret/Philosophy/Logic/Inference/Bayesian_Inference.secret|Bayesian_Inference.secret]] 
 

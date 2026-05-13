@@ -193,7 +193,7 @@ dv_has_:
   Source Collection    [Flickr](http://flickr.com/)
   Image Use ::    [Attribution 2.0 Creative Commons License](http://creativecommons.org/licenses/by/2.0/).
   copyright ::            © 2006 [Mark](http://flickr.com/people/u123072/)
-  --------------------------------------------------------
+  -------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

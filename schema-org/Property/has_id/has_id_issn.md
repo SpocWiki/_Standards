@@ -79,19 +79,20 @@ has_range = `=this.dv_has_range`
 
 has_parent_property = `=this.dv_has_parent_property` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_id_issn|has_id_issn]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_id/has_id_issn|has_id_issn]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_id_issn.public|has_id_issn.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_id/has_id_issn.public|has_id_issn.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_id_issn.internal|has_id_issn.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_id/has_id_issn.internal|has_id_issn.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_id_issn.protect|has_id_issn.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_id/has_id_issn.protect|has_id_issn.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_id_issn.private|has_id_issn.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_id/has_id_issn.private|has_id_issn.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_id_issn.personal|has_id_issn.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_id/has_id_issn.personal|has_id_issn.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_id_issn.secret|has_id_issn.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_id/has_id_issn.secret|has_id_issn.secret]] 
 

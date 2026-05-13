@@ -183,7 +183,7 @@ than with a[[../../../../IT/Data/Data~Graphics/Text-Diagrams/Diagram~Mermaid/MMD
 
 ```ccard
 type: folder_brief_live
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

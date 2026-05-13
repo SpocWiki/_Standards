@@ -108,7 +108,7 @@ has_range :: `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_negative_note|has_negative_note]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_negative_note|has_negative_note]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_negative_note.public|has_negative_note.public]] 
 

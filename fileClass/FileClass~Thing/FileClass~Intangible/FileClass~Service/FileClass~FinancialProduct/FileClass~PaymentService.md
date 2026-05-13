@@ -32,7 +32,7 @@ A Service to transfer funds from a person or organization to a beneficiary perso
 #class/PaymentService
 #class/Thing/Intangible/Service/FinancialProduct/PaymentService
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

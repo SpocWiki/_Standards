@@ -107,7 +107,7 @@ Image copyright © 1995 David R. Maddison
 	-   *Ephedra trifurca*
 	-   *Ephedra trifurcata*
 	-   *Ephedra tweediana*
-	-   *Ephedra viridis*
+	-   *Ephedra viridis* 
 
 
 ## Confidential Links & Embeds: 

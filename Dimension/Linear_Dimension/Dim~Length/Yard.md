@@ -226,17 +226,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Yard|Yard]] 
+### #is_/same_as :: [[/_Standards/Dimension/Linear_Dimension/Dim~Length/Yard|Yard]] 
 
-### #is_/same_as :: [[/_public/Dimension/Dim~Length/Yard.public|Yard.public]] 
+### #is_/same_as :: [[/_public/Dimension/Linear_Dimension/Dim~Length/Yard.public|Yard.public]] 
 
-### #is_/same_as :: [[/_internal/Dimension/Dim~Length/Yard.internal|Yard.internal]] 
+### #is_/same_as :: [[/_internal/Dimension/Linear_Dimension/Dim~Length/Yard.internal|Yard.internal]] 
 
-### #is_/same_as :: [[/_protect/Dimension/Dim~Length/Yard.protect|Yard.protect]] 
+### #is_/same_as :: [[/_protect/Dimension/Linear_Dimension/Dim~Length/Yard.protect|Yard.protect]] 
 
-### #is_/same_as :: [[/_private/Dimension/Dim~Length/Yard.private|Yard.private]] 
+### #is_/same_as :: [[/_private/Dimension/Linear_Dimension/Dim~Length/Yard.private|Yard.private]] 
 
-### #is_/same_as :: [[/_personal/Dimension/Dim~Length/Yard.personal|Yard.personal]] 
+### #is_/same_as :: [[/_personal/Dimension/Linear_Dimension/Dim~Length/Yard.personal|Yard.personal]] 
 
-### #is_/same_as :: [[/_secret/Dimension/Dim~Length/Yard.secret|Yard.secret]] 
+### #is_/same_as :: [[/_secret/Dimension/Linear_Dimension/Dim~Length/Yard.secret|Yard.secret]] 
 

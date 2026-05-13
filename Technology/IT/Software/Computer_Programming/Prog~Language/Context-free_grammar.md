@@ -167,7 +167,7 @@ As the parser becomes more complex, the code becomes cluttered with necessary de
 #has_/result_/negative :: Over time, languages often evolve, gaining new features. 
 When trying to make changes to a language that has no formal grammar, 
 you may find it difficult to distinguish between changes to the language's grammar 
-and changes to its implementation.
+and changes to its implementation. 
 
 
 ## Confidential Links & Embeds: 

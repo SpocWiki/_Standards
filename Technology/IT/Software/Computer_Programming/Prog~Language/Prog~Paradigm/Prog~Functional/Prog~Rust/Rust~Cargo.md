@@ -29,7 +29,7 @@ cargo install cargo-binstall # skip compilation if downloadable for Architecture
 cargo install sccache # cache Compilation of unchanged sources. 
 
 cargo install bacon #continuously checks code with better linter! 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ A grocery store.
 #class/GroceryStore
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/GroceryStore
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

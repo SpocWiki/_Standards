@@ -92,17 +92,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_education_credential_awarded|has_education_credential_awarded]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_education/has_education_credential_awarded|has_education_credential_awarded]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_education_credential_awarded.public|has_education_credential_awarded.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_education/has_education_credential_awarded.public|has_education_credential_awarded.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_education_credential_awarded.internal|has_education_credential_awarded.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_education/has_education_credential_awarded.internal|has_education_credential_awarded.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_education_credential_awarded.protect|has_education_credential_awarded.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_education/has_education_credential_awarded.protect|has_education_credential_awarded.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_education_credential_awarded.private|has_education_credential_awarded.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_education/has_education_credential_awarded.private|has_education_credential_awarded.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_education_credential_awarded.personal|has_education_credential_awarded.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_education/has_education_credential_awarded.personal|has_education_credential_awarded.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_education_credential_awarded.secret|has_education_credential_awarded.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_education/has_education_credential_awarded.secret|has_education_credential_awarded.secret]] 
 

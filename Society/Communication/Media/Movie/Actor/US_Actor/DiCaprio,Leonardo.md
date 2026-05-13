@@ -191,3 +191,21 @@ Facebook_username: LeonardoDiCaprio
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Leonardo%20DiCaprio) 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/DiCaprio,Leonardo|DiCaprio,Leonardo]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/DiCaprio,Leonardo.public|DiCaprio,Leonardo.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/DiCaprio,Leonardo.internal|DiCaprio,Leonardo.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/DiCaprio,Leonardo.protect|DiCaprio,Leonardo.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/DiCaprio,Leonardo.private|DiCaprio,Leonardo.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/DiCaprio,Leonardo.personal|DiCaprio,Leonardo.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/DiCaprio,Leonardo.secret|DiCaprio,Leonardo.secret]] 

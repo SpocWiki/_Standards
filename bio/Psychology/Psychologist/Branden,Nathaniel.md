@@ -134,6 +134,21 @@ and runs self-esteem seminars.
 ![[Branden,Nathaniel.svg]] 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Psychology/Psychologist/Branden,Nathaniel|Branden,Nathaniel]] 
+
+### #is_/same_as :: [[/_public/bio/Psychology/Psychologist/Branden,Nathaniel.public|Branden,Nathaniel.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Psychology/Psychologist/Branden,Nathaniel.internal|Branden,Nathaniel.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Psychology/Psychologist/Branden,Nathaniel.protect|Branden,Nathaniel.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Psychology/Psychologist/Branden,Nathaniel.private|Branden,Nathaniel.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Psychology/Psychologist/Branden,Nathaniel.personal|Branden,Nathaniel.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Psychology/Psychologist/Branden,Nathaniel.secret|Branden,Nathaniel.secret]] 
 %%
 ## Drawing
 ```compressed-json

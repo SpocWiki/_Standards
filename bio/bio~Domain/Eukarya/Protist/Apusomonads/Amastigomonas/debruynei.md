@@ -114,7 +114,7 @@ Natural History 34: 483-562.
   specimen_condition ::  Live Specimen
   copyright ::            © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
  
-  ---------------------------------------------------------------------------------
+  --------------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

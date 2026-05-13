@@ -139,19 +139,20 @@ has_parent_property = `=this.dv_has_parent_property`
 
 has_child_property = `=this.dv_has_child_property` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_gtin|has_gtin]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_id/has_gtin|has_gtin]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_gtin.public|has_gtin.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_id/has_gtin.public|has_gtin.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_gtin.internal|has_gtin.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_id/has_gtin.internal|has_gtin.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_gtin.protect|has_gtin.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_id/has_gtin.protect|has_gtin.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_gtin.private|has_gtin.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_id/has_gtin.private|has_gtin.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_gtin.personal|has_gtin.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_id/has_gtin.personal|has_gtin.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_gtin.secret|has_gtin.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_id/has_gtin.secret|has_gtin.secret]] 
 

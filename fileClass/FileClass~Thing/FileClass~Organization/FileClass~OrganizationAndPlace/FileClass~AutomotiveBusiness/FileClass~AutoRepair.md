@@ -32,7 +32,7 @@ Car repair business.
 #class/AutoRepair
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/AutoRepair
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

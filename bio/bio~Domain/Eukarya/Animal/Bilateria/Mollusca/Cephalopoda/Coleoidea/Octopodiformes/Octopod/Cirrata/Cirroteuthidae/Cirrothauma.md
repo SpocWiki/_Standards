@@ -113,7 +113,7 @@ Cephalopoda) of the Northeastern Pacific. Proc. Calif. Acad. Sci. 47:
   Sex ::              Male
   Size               220 mm ML
   copyright ::          © 1998 Bulletin of Marine Science
-  -------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

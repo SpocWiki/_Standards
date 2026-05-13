@@ -36,7 +36,8 @@ A medical test performed by a laboratory that typically involves examination of 
 
 #has_/parent_class :: [[../MedicalTest|MedicalTest]]  
 
-#has_/properties :: [ additionalType, affectedBy, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, normalRange, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, signDetected, study, subjectOf, tissueSample, url, usedToDiagnose, usesDevice ]  
+#has_/properties :: [ additionalType, affectedBy, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, normalRange, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, signDetected, study, subjectOf, tissueSample, url, usedToDiagnose, usesDevice ] 
+
 
 ## Confidential Links & Embeds: 
 

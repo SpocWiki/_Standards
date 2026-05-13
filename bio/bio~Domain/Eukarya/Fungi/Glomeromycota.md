@@ -531,7 +531,7 @@ taxa in the Glomeromycota. Mycological Research 108, in press.
   Size              Diameter of larger spores is approximately 200 µm
   copyright ::         © [Dirk Redecker](http://www.unibas.ch/bothebel/people/redecker/redecker.htm) 
  
-  ---------------------------------------------------------------------------------
+  --------------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

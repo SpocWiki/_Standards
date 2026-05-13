@@ -65,7 +65,7 @@ SensoryUnit:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/T
 ### SourcedFrom
 The neurological pathway that originates the neurons.
 
-SourcedFrom:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure/BrainStructure')"}}
+SourcedFrom:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure/BrainStructure')"}} 
 
 
 ## Confidential Links & Embeds: 

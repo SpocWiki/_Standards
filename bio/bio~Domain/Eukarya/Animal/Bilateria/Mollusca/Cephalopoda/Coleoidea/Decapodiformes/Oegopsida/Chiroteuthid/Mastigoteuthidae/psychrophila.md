@@ -123,7 +123,7 @@ Mastigoteuthidae) from the Southern Ocean. Zoologichesky Zhurnal,
   Type                 Holotype
   copyright ::            © [Michael Vecchione](mailto:vecchiom@si.edu) 
  
-  -----------------------------------------------------------------------
+  ----------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

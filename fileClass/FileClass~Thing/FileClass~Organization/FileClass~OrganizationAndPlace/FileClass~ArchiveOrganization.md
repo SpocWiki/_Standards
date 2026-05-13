@@ -43,7 +43,7 @@ An organization with archival holdings. An organization which keeps and preserve
 ### ArchiveHeld
 Collection, [fonds](https://en.wikipedia.org/wiki/Fonds), or item held, kept or maintained by an [[ArchiveOrganization]].
 
-ArchiveHeld:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/ArchiveComponent')"}}
+ArchiveHeld:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/ArchiveComponent')"}} 
 
 
 ## Confidential Links & Embeds: 

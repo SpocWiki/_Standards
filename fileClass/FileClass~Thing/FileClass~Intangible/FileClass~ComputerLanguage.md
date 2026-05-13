@@ -32,7 +32,7 @@ This type covers computer programming languages such as Scheme and Lisp, as well
 #class/ComputerLanguage
 #class/Thing/Intangible/ComputerLanguage
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ A process of progressive physical care and rehabilitation aimed at improving a h
 #class/PhysicalTherapy
 #class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/PhysicalTherapy
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

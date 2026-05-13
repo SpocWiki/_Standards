@@ -92,9 +92,10 @@ Relation describes that:
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_defined_term|has_defined_term]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_defined_term|has_defined_term]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_defined_term.public|has_defined_term.public]] 
 

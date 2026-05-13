@@ -28,8 +28,7 @@ for electronic transactions between companies and organizations around the world
 
 ```ccard
 type: folder_brief_live
-```
- 
+``` 
 
 
 ## Confidential Links & Embeds: 

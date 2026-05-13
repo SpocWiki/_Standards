@@ -38,7 +38,8 @@ Any medical test, typically performed for diagnostic purposes.
 
 #has_/child_/class :: [ BloodTest, ImagingTest, MedicalTestPanel, PathologyTest ]  
 
-#has_/properties :: [ additionalType, affectedBy, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, normalRange, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, signDetected, study, subjectOf, url, usedToDiagnose, usesDevice ]  
+#has_/properties :: [ additionalType, affectedBy, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, normalRange, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, signDetected, study, subjectOf, url, usedToDiagnose, usesDevice ] 
+
 
 ## Confidential Links & Embeds: 
 

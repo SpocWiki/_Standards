@@ -53,7 +53,7 @@ Containing group: [Poduromorpha](../Poduromorpha.md)
   specimen_condition ::  Live Specimen
   copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
  
-  ------------------------------------------------------------------------
+  ------------------------------------------------------------------------ 
 
 
 ## Confidential Links & Embeds: 

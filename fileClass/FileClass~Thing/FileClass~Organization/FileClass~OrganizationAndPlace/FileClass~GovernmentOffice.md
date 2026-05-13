@@ -32,7 +32,7 @@ A government office—for example, an IRS or DMV office.
 #class/GovernmentOffice
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/GovernmentOffice
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -38,7 +38,7 @@ Related actions:
 #class/CheckInAction
 #class/Thing/Action/InteractAction/CommunicateAction/CheckInAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

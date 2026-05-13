@@ -32,7 +32,7 @@ A Search and Rescue organization of some kind.
 #class/SearchRescueOrganization
 #class/Thing/Organization/SearchRescueOrganization
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

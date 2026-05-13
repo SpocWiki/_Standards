@@ -1,6 +1,6 @@
 # [[Forming]] 
 
-Process where a workpiece is reshaped without adding or removing material
+Process where a workpiece is reshaped without adding or removing material 
 
 
 ## Confidential Links & Embeds: 

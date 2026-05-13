@@ -41,3 +41,21 @@ inception: 2013-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Wait%20But%20Why) 
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Blog/Wait_But_Why|Wait_But_Why]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Blog/Wait_But_Why.public|Wait_But_Why.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Blog/Wait_But_Why.internal|Wait_But_Why.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Blog/Wait_But_Why.protect|Wait_But_Why.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Blog/Wait_But_Why.private|Wait_But_Why.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Blog/Wait_But_Why.personal|Wait_But_Why.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Blog/Wait_But_Why.secret|Wait_But_Why.secret]] 

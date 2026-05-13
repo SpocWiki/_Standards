@@ -357,7 +357,7 @@ alternate outgroups provide different character state polarizations. The
 current weight of evidence, however, seems to support the
 alismatid/aroid hypothesis. An example of this is the trans-spliced
 structure of the 4th intron in the mitochondrial gene nad1 shared by all
-monocots sampled except Araceae and Alismataceae (Qui & Palmer, 1996).
+monocots sampled except Araceae and Alismataceae (Qui & Palmer, 1996). 
 
 
 ## Confidential Links & Embeds: 

@@ -38,7 +38,8 @@ A condition or factor that indicates use of a medical therapy, including signs, 
 
 #has_/child_/class :: [ ApprovedIndication, PreventionIndication, TreatmentIndication ]  
 
-#has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]  
+#has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] 
+
 
 ## Confidential Links & Embeds: 
 

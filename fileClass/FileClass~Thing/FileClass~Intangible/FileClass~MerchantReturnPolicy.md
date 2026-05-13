@@ -203,7 +203,7 @@ ReturnPolicySeasonalOverride:: {"type":"MultiFile","options":{"dvQueryString":"d
 ### ReturnShippingFeesAmount
 Amount of shipping costs for product returns (for any reason). Applicable when property [[returnFees]] equals [[ReturnShippingFees]].
 
-ReturnShippingFeesAmount:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')"}}
+ReturnShippingFeesAmount:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')"}} 
 
 
 ## Confidential Links & Embeds: 

@@ -631,7 +631,7 @@ Virtue Epistemology offers an elegant dissolution of Gettier cases: in a Gettier
 |Reliabilism|Justification theory|Bypassed|No (externalist)|Yes|~21 %|
 |Infinitism|Justification theory|Infinite|Yes|No|~5 %|
 |Virtue Epistemology|Agent-based|Varies by school|Both|Yes|~15 %|
-|Contextualism|Semantic / meta-level|N/A|No|Partially|~26 %|
+|Contextualism|Semantic / meta-level|N/A|No|Partially|~26 %| 
 
 
 ## Confidential Links & Embeds: 

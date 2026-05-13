@@ -252,7 +252,7 @@ African Jour. Mar. Sci.., 20: 393-420.
   Acknowledgements   courtesy of Mark Norman
   Size               58 mm shell length
   copyright ::          © 1996 David Paul
-  ------------
+  ------------ 
 
 
 ## Confidential Links & Embeds: 

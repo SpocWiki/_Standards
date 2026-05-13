@@ -108,7 +108,7 @@ IneligibleRegion:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cl
 ### RequiresSubscription
 Indicates if use of the media require a subscription  (either paid or free). Allowed values are ```true``` or ```false``` (note that an earlier version had 'yes', 'no').
 
-RequiresSubscription:: {"type":"Boolean","options":{}}
+RequiresSubscription:: {"type":"Boolean","options":{}} 
 
 
 ## Confidential Links & Embeds: 

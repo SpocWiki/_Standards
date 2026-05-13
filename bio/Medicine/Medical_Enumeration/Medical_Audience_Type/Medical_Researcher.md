@@ -38,7 +38,8 @@ Medical researchers.
 
 #has_/parent_class :: [[../MedicalAudienceType|MedicalAudienceType]]  
 
-#is_/enum_of :: [[../MedicalAudienceType|MedicalAudienceType]]  
+#is_/enum_of :: [[../MedicalAudienceType|MedicalAudienceType]] 
+
 
 ## Confidential Links & Embeds: 
 

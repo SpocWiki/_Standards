@@ -152,7 +152,7 @@ TransFatContent:: {"type":"Input","options":{}}
 ### UnsaturatedFatContent
 The number of grams of unsaturated fat.
 
-UnsaturatedFatContent:: {"type":"Input","options":{}}
+UnsaturatedFatContent:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

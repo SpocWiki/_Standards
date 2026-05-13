@@ -32,7 +32,7 @@ A Series in schema.org is a group of related items, typically but not necessaril
 #class/Series
 #class/Thing/Intangible/Series
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

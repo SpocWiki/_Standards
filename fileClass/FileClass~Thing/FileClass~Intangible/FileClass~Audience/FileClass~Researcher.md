@@ -32,7 +32,7 @@ Researchers.
 #class/Researcher
 #class/Thing/Intangible/Audience/Researcher
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

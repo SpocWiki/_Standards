@@ -69,17 +69,17 @@ The Name is from the [[../../../../../Knowledge/Languages/Natural~Languages/Lati
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_result_positive|has_result_positive]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_result/has_result_positive|has_result_positive]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_result_positive.public|has_result_positive.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_result/has_result_positive.public|has_result_positive.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_result_positive.internal|has_result_positive.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_result/has_result_positive.internal|has_result_positive.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_result_positive.protect|has_result_positive.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_result/has_result_positive.protect|has_result_positive.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_result_positive.private|has_result_positive.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_result/has_result_positive.private|has_result_positive.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_result_positive.personal|has_result_positive.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_result/has_result_positive.personal|has_result_positive.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_result_positive.secret|has_result_positive.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_result/has_result_positive.secret|has_result_positive.secret]] 
 

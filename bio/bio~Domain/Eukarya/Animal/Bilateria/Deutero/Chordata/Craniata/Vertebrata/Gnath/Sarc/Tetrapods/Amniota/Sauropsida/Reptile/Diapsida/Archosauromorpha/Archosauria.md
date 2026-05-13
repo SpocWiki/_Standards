@@ -221,7 +221,7 @@ specimen_condition ::  Live Specimen
 ![](Archosauria/Pteranodon-Harder.jpg)
 scientific_name ::     Pteranodon
 Creator              Heinrich Harder
-specimen_condition ::  Fossil \-- Period: Cretaceous
+specimen_condition ::  Fossil \-- Period: Cretaceous 
 
 
 ## Confidential Links & Embeds: 

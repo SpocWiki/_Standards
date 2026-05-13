@@ -36,7 +36,8 @@ A single, identifiable product instance (e.g. a laptop with a particular serial 
 
 #has_/parent_class :: [[../Product|Product]]  
 
-#has_/properties :: [ additionalProperty, additionalType, aggregateRating, alternateName, asin, audience, award, awards, brand, category, color, countryOfAssembly, countryOfLastProcessing, countryOfOrigin, depth, description, disambiguatingDescription, funding, gtin, gtin12, gtin13, gtin14, gtin8, hasAdultConsideration, hasEnergyConsumptionDetails, hasMeasurement, hasMerchantReturnPolicy, hasProductReturnPolicy, height, identifier, image, inProductGroupWithID, isAccessoryOrSparePartFor, isConsumableFor, isFamilyFriendly, isRelatedTo, isSimilarTo, isVariantOf, itemCondition, keywords, logo, mainEntityOfPage, manufacturer, material, mobileUrl, model, mpn, name, negativeNotes, nsn, offers, pattern, positiveNotes, potentialAction, productID, productionDate, purchaseDate, releaseDate, review, reviews, sameAs, serialNumber, size, sku, slogan, subjectOf, url, weight, width ]  
+#has_/properties :: [ additionalProperty, additionalType, aggregateRating, alternateName, asin, audience, award, awards, brand, category, color, countryOfAssembly, countryOfLastProcessing, countryOfOrigin, depth, description, disambiguatingDescription, funding, gtin, gtin12, gtin13, gtin14, gtin8, hasAdultConsideration, hasEnergyConsumptionDetails, hasMeasurement, hasMerchantReturnPolicy, hasProductReturnPolicy, height, identifier, image, inProductGroupWithID, isAccessoryOrSparePartFor, isConsumableFor, isFamilyFriendly, isRelatedTo, isSimilarTo, isVariantOf, itemCondition, keywords, logo, mainEntityOfPage, manufacturer, material, mobileUrl, model, mpn, name, negativeNotes, nsn, offers, pattern, positiveNotes, potentialAction, productID, productionDate, purchaseDate, releaseDate, review, reviews, sameAs, serialNumber, size, sku, slogan, subjectOf, url, weight, width ] 
+
 
 ## Confidential Links & Embeds: 
 

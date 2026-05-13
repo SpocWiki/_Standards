@@ -32,7 +32,7 @@ A computer store.
 #class/ComputerStore
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ComputerStore
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

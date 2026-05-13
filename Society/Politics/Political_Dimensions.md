@@ -346,4 +346,21 @@ This model allows you to:
 
 If you want, I can **create a visualization-ready table** with all **36 axes and all their disjoint values**, so you could drop it into a program for scoring or plotting.
 
-Do you want me to do that?
+Do you want me to do that? 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Politics/Political_Dimensions|Political_Dimensions]] 
+
+### #is_/same_as :: [[/_public/Society/Politics/Political_Dimensions.public|Political_Dimensions.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Politics/Political_Dimensions.internal|Political_Dimensions.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Politics/Political_Dimensions.protect|Political_Dimensions.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Politics/Political_Dimensions.private|Political_Dimensions.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Politics/Political_Dimensions.personal|Political_Dimensions.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Politics/Political_Dimensions.secret|Political_Dimensions.secret]] 

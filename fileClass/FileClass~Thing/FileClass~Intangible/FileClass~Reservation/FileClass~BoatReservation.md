@@ -33,7 +33,7 @@ A reservation for boat travel.
 #class/BoatReservation
 #class/Thing/Intangible/Reservation/BoatReservation
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

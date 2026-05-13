@@ -32,7 +32,7 @@ A museum.
 #class/Museum
 #class/Thing/Place/CivicStructure/Museum
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

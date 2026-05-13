@@ -124,5 +124,22 @@ Dewey_Decimal_Classification: "616.0478"
 > Doctors may be unfamiliar with ME/CFS, as it is often not fully covered in medical school. 
 > Historically, research funding for ME/CFS has been far below that of diseases with comparable impact.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Myalgic%20encephalomyelitis/chronic%20fatigue%20syndrome)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Myalgic%20encephalomyelitis/chronic%20fatigue%20syndrome) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/ME~CFS(chronic_fatigue_syndrome)|ME~CFS(chronic_fatigue_syndrome)]] 
+
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/ME~CFS(chronic_fatigue_syndrome).public|ME~CFS(chronic_fatigue_syndrome).public]] 
+
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/ME~CFS(chronic_fatigue_syndrome).internal|ME~CFS(chronic_fatigue_syndrome).internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/ME~CFS(chronic_fatigue_syndrome).protect|ME~CFS(chronic_fatigue_syndrome).protect]] 
+
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/ME~CFS(chronic_fatigue_syndrome).private|ME~CFS(chronic_fatigue_syndrome).private]] 
+
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/ME~CFS(chronic_fatigue_syndrome).personal|ME~CFS(chronic_fatigue_syndrome).personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/ME~CFS(chronic_fatigue_syndrome).secret|ME~CFS(chronic_fatigue_syndrome).secret]] 
 

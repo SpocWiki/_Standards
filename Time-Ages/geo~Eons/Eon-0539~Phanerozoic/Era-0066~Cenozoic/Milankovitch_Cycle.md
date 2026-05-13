@@ -224,7 +224,7 @@ or about 15 %, relative to low-eccentricity configurations.
 Approximately 90 % of peer-reviewed paleoclimate literature 
 attributes Quaternary glacial–interglacial timing primarily to orbital forcing 
 amplified by ice-albedo and greenhouse gas feedbacks, 
-with high authority from sources such as NASA and IPCC assessments.
+with high authority from sources such as NASA and IPCC assessments. 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ Animal shelter.
 #class/AnimalShelter
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AnimalShelter
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -180,7 +180,7 @@ copyright ::            © [Robin Foster](http://fm2.fieldmuseum.org/plantguides
 ![Berlinia bruneelii](Detarieae/Berlinia_bruneelii.jpg) 
 scientific_name ::     Berlinia bruneelii (De Wild.) Torr. & Hillc.
 specimen_condition ::  Live Specimen
-copyright ::            © 2005 [Paul Latham](http://home.tiscali.be/lpauwels/Latham2.htm)
+copyright ::            © 2005 [Paul Latham](http://home.tiscali.be/lpauwels/Latham2.htm) 
 
 
 ## Confidential Links & Embeds: 

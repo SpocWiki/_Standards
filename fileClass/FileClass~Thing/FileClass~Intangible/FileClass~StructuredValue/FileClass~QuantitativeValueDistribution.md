@@ -94,7 +94,7 @@ Percentile75:: {"type":"Number","options":{}}
 ### Percentile90
 The 90th percentile value.
 
-Percentile90:: {"type":"Number","options":{}}
+Percentile90:: {"type":"Number","options":{}} 
 
 
 ## Confidential Links & Embeds: 

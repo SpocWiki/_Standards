@@ -32,7 +32,7 @@ The act of stopping or deactivating a device or application (e.g. stopping a tim
 #class/DeactivateAction
 #class/Thing/Action/ControlAction/DeactivateAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -553,19 +553,22 @@ The homepages below are stable entry points for authoritative reference material
   
 
 
-### Confidential Links & Embeds: 
+# 
 
-#### #is_/same_as :: [[/_Standards/Science/Scientific_Method|Scientific_Method]] 
 
-#### #is_/same_as :: [[/_public/Science/Scientific_Method.public|Scientific_Method.public]] 
+## Confidential Links & Embeds: 
 
-#### #is_/same_as :: [[/_internal/Science/Scientific_Method.internal|Scientific_Method.internal]] 
+### #is_/same_as :: [[/_Standards/Science/Scientific_Method|Scientific_Method]] 
 
-#### #is_/same_as :: [[/_protect/Science/Scientific_Method.protect|Scientific_Method.protect]] 
+### #is_/same_as :: [[/_public/Science/Scientific_Method.public|Scientific_Method.public]] 
 
-#### #is_/same_as :: [[/_private/Science/Scientific_Method.private|Scientific_Method.private]] 
+### #is_/same_as :: [[/_internal/Science/Scientific_Method.internal|Scientific_Method.internal]] 
 
-#### #is_/same_as :: [[/_personal/Science/Scientific_Method.personal|Scientific_Method.personal]] 
+### #is_/same_as :: [[/_protect/Science/Scientific_Method.protect|Scientific_Method.protect]] 
 
-#### #is_/same_as :: [[/_secret/Science/Scientific_Method.secret|Scientific_Method.secret]] 
+### #is_/same_as :: [[/_private/Science/Scientific_Method.private|Scientific_Method.private]] 
+
+### #is_/same_as :: [[/_personal/Science/Scientific_Method.personal|Scientific_Method.personal]] 
+
+### #is_/same_as :: [[/_secret/Science/Scientific_Method.secret|Scientific_Method.secret]] 
 

@@ -230,7 +230,7 @@ or into a niche in which it has an advantage over its competitors,
 a new species, or subspecies, will have come into being. 
 
 In geological terms, this will be an abrupt event. 
-A resumption of avoiding mutant mates will thereafter result, once again, in evolutionary stagnation
+A resumption of avoiding mutant mates will thereafter result, once again, in evolutionary stagnation 
 
 
 ## Confidential Links & Embeds: 

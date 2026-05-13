@@ -88,7 +88,7 @@ CostPerUnit:: {"type":"Number","options":{}}
 ### DrugUnit
 The unit in which the drug is measured, e.g. '5 mg tablet'.
 
-DrugUnit:: {"type":"Input","options":{}}
+DrugUnit:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

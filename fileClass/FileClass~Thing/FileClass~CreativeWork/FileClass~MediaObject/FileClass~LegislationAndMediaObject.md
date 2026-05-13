@@ -179,7 +179,7 @@ LegislationTransposes:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages
 ### LegislationType
 The type of the legislation. Examples of values are "law", "act", "directive", "decree", "regulation", "statutory instrument", "loi organique", "règlement grand-ducal", etc., depending on the country.
 
-LegislationType:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm/CategoryCode')"}}
+LegislationType:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm/CategoryCode')"}} 
 
 
 ## Confidential Links & Embeds: 

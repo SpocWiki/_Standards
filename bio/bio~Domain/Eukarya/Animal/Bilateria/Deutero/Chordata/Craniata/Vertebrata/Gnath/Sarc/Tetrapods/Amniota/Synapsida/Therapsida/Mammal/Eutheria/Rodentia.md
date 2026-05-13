@@ -483,7 +483,7 @@ scientific_name ::     Spermophilus parryii
 Comments             Arctic ground squirrel
 Creator              Jim McCarthy
 Acknowledgements     Photograph courtesy of the U.S. Fish and Wildlife Service
-specimen_condition ::  Live Specimen
+specimen_condition ::  Live Specimen 
 
 
 ## Confidential Links & Embeds: 

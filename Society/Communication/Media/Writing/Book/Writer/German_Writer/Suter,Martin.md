@@ -135,7 +135,7 @@ aliases:
 
 - _Richtig leben mit Geri Weibel_. Diogenes, Zürich 2001, [ISBN 3-257-23273-X](https://de.wikipedia.org/wiki/Spezial:ISBN-Suche/325723273X).
 - _Richtig leben mit Geri Weibel. Neue Folge_. Diogenes, Zürich 2002, [ISBN 3-257-23302-7](https://de.wikipedia.org/wiki/Spezial:ISBN-Suche/3257233027).
-    - Zusammen als: _Richtig leben mit Geri Weibel. Sämtliche Folgen_. Diogenes, Zürich 2005, [ISBN 3-257-23460-0](https://de.wikipedia.org/wiki/Spezial:ISBN-Suche/3257234600).
+    - Zusammen als: _Richtig leben mit Geri Weibel. Sämtliche Folgen_. Diogenes, Zürich 2005, [ISBN 3-257-23460-0](https://de.wikipedia.org/wiki/Spezial:ISBN-Suche/3257234600). 
 
 
 ## Confidential Links & Embeds: 

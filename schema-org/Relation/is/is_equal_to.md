@@ -114,7 +114,7 @@ leading to ≈ 30 % data quality degradation in some linked datasets according t
 | Linking a company to its Wikidata entity     | `sameAs`         | Same real organization         |
 | Stating 1 meter equals 100 centimeters       | `equal`          | Equivalent quantitative values |
 | Matching a product SKU across catalogs       | `sameAs`         | Same product identity          |
-| Comparing two ratings from different sources | `equal`          | Equal value, different source  |
+| Comparing two ratings from different sources | `equal`          | Equal value, different source  | 
 
 
 ## Confidential Links & Embeds: 

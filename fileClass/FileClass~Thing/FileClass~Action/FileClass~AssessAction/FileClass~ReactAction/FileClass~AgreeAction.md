@@ -32,7 +32,7 @@ The act of expressing a consistency of opinion with the object. An agent agrees 
 #class/AgreeAction
 #class/Thing/Action/AssessAction/ReactAction/AgreeAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

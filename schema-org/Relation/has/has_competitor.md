@@ -78,7 +78,8 @@ Relation describes that:
 
 has_domain = `=this.dv_has_domain` 
 has_name = `=this.dv_has_name` 
-(has_/range :: [[../../../Society/Agent/Person|Person]], [[../../../Society/Agent/Community/Organization/Sports_Organization/Sports_Team|Sports_Team]] )
+(has_/range :: [[../../../Society/Agent/Person|Person]], [[../../../Society/Agent/Community/Organization/Sports_Organization/Sports_Team|Sports_Team]] ) 
+
 
 ## Confidential Links & Embeds: 
 

@@ -54,7 +54,7 @@ Authenticator:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class
 ### ExpectsAcceptanceOf
 An Offer which must be accepted before the user can perform the Action. For example, the user may need to buy a movie before being able to watch it.
 
-ExpectsAcceptanceOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Offer')"}}
+ExpectsAcceptanceOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Offer')"}} 
 
 
 ## Confidential Links & Embeds: 

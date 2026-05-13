@@ -78,7 +78,7 @@ OwnedThrough:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInser
 ### TypeOfGood
 The product that this structured value is referring to.
 
-TypeOfGood:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Product')"}}
+TypeOfGood:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Product')"}} 
 
 
 ## Confidential Links & Embeds: 

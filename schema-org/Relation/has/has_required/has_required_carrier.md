@@ -79,17 +79,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_required_carrier|has_required_carrier]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_required/has_required_carrier|has_required_carrier]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_required_carrier.public|has_required_carrier.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_required/has_required_carrier.public|has_required_carrier.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_required_carrier.internal|has_required_carrier.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_required/has_required_carrier.internal|has_required_carrier.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_required_carrier.protect|has_required_carrier.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_required/has_required_carrier.protect|has_required_carrier.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_required_carrier.private|has_required_carrier.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_required/has_required_carrier.private|has_required_carrier.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_required_carrier.personal|has_required_carrier.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_required/has_required_carrier.personal|has_required_carrier.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_required_carrier.secret|has_required_carrier.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_required/has_required_carrier.secret|has_required_carrier.secret]] 
 

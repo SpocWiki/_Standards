@@ -83,7 +83,7 @@ PhysiologicalBenefits:: {"type":"Input","options":{}}
 ### Risks
 Specific physiologic risks associated to the diet plan.
 
-Risks:: {"type":"Input","options":{}}
+Risks:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

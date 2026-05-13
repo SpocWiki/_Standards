@@ -35,7 +35,8 @@ A specific branch of medical science that specializes in the care of women durin
 
 #has_/parent_class :: [[../MedicalBusiness, MedicalSpecialty|MedicalBusiness, MedicalSpecialty]]  
 
-#is_/enum_of :: [[../MedicalSpecialty|MedicalSpecialty]]  
+#is_/enum_of :: [[../MedicalSpecialty|MedicalSpecialty]] 
+
 
 ## Confidential Links & Embeds: 
 

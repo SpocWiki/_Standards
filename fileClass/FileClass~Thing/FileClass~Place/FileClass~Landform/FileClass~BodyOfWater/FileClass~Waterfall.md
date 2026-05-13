@@ -32,7 +32,7 @@ A waterfall, like Niagara.
 #class/Waterfall
 #class/Thing/Place/Landform/BodyOfWater/Waterfall
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

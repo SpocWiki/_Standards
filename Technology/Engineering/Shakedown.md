@@ -22,7 +22,7 @@ It originates from nautical and industrial testing practices but has evolved in 
 | Engineering     | A **test period** for new ships, systems, or machinery to identify faults before regular operation        | “The vessel completed its shakedown cruise successfully.” |
 | Crime           | The act of **extorting money** or valuables through intimidation or deception                             | “The gang conducted a shakedown of local businesses.”     |
 | Law Enforcement | A **surprise inspection**, often of possessions or facilities, to uncover contraband or ensure compliance | “The guards performed a prison shakedown.”                |
-| Business        | A **reorganization** or adjustment period aimed at efficiency improvement or adaptation to a new system   | “The company is going through a post-merger shakedown.”   |
+| Business        | A **reorganization** or adjustment period aimed at efficiency improvement or adaptation to a new system   | “The company is going through a post-merger shakedown.”   | 
 
 
 ## Confidential Links & Embeds: 

@@ -36,7 +36,7 @@ Related actions:
 #class/ReserveAction
 #class/Thing/Action/OrganizeAction/PlanAction/ReserveAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

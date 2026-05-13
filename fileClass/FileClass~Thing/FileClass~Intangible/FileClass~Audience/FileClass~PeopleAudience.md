@@ -120,7 +120,7 @@ SuggestedMeasurement:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages(
 ### SuggestedMinAge
 Minimum recommended age in years for the audience or user.
 
-SuggestedMinAge:: {"type":"Number","options":{}}
+SuggestedMinAge:: {"type":"Number","options":{}} 
 
 
 ## Confidential Links & Embeds: 

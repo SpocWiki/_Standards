@@ -110,7 +110,7 @@ StartTime:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAs
 ### UserInteractionCount
 The number of interactions for the CreativeWork using the WebSite or SoftwareApplication.
 
-UserInteractionCount:: {"type":"Number","options":{}}
+UserInteractionCount:: {"type":"Number","options":{}} 
 
 
 ## Confidential Links & Embeds: 

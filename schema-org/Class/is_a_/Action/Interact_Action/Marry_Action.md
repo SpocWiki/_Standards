@@ -112,6 +112,7 @@ has_parent_class = `=this.dv_has_parent_class`
 
 has_properties = `=this.dv_has_properties` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Interact_Action/Marry_Action|Marry_Action]] 

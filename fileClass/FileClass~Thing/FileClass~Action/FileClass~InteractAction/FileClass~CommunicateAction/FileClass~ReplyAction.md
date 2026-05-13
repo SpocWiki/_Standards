@@ -47,7 +47,7 @@ Related actions:
 ### ResultComment
 A sub property of result. The Comment created or sent as a result of this action.
 
-ResultComment:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Comment')"}}
+ResultComment:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Comment')"}} 
 
 
 ## Confidential Links & Embeds: 

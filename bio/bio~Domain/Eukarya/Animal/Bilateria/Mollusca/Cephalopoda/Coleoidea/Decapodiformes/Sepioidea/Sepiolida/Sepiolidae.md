@@ -177,7 +177,7 @@ Neptune City, NJ, 351pp.
   specimen_condition ::  Live Specimen
   copyright ::            © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
-  --------------------------------------------------------------------------------
+  -------------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

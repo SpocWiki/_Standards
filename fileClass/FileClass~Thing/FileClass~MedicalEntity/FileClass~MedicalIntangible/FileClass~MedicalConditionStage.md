@@ -52,7 +52,7 @@ StageAsNumber:: {"type":"Number","options":{}}
 ### SubStageSuffix
 The substage, e.g. 'a' for Stage IIIa.
 
-SubStageSuffix:: {"type":"Input","options":{}}
+SubStageSuffix:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

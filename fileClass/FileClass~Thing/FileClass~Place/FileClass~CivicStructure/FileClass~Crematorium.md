@@ -32,7 +32,7 @@ A crematorium.
 #class/Crematorium
 #class/Thing/Place/CivicStructure/Crematorium
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

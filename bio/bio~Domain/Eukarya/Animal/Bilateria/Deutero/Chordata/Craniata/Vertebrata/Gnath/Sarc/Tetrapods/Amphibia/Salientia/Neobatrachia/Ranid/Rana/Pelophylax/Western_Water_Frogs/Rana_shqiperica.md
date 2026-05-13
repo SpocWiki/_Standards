@@ -118,7 +118,7 @@ Photographs copyright © 1995, Hansjürg Hotz.
 
   ---------
   copyright ::   © 1995 Hansjürg Hotz
-  ---------
+  --------- 
 
 
 ## Confidential Links & Embeds: 

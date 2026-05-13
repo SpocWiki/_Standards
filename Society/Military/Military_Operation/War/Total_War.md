@@ -152,17 +152,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Total_War|Total_War]] 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/War/Total_War|Total_War]] 
 
-### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/War/Total_War.public|Total_War.public]] 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/War/Total_War.public|Total_War.public]] 
 
-### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/War/Total_War.internal|Total_War.internal]] 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/War/Total_War.internal|Total_War.internal]] 
 
-### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/War/Total_War.protect|Total_War.protect]] 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/War/Total_War.protect|Total_War.protect]] 
 
-### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/War/Total_War.private|Total_War.private]] 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/War/Total_War.private|Total_War.private]] 
 
-### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/War/Total_War.personal|Total_War.personal]] 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/War/Total_War.personal|Total_War.personal]] 
 
-### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/War/Total_War.secret|Total_War.secret]] 
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/War/Total_War.secret|Total_War.secret]] 
 

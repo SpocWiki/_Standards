@@ -37,7 +37,7 @@ geojsonFolder: ./USA~7-Mountain/
 markerFolder: ./USA~7-Mountain/
 coordinates: [[USA~7-Mountain]] 
 markerFile: [[USA~7-Mountain]] 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -74,8 +74,7 @@ markerFile: [[Spratly_Islands]]
 unit: px
 scale: 1
 darkMode: false
-```
-
+``` 
 
 
 ## Confidential Links & Embeds: 

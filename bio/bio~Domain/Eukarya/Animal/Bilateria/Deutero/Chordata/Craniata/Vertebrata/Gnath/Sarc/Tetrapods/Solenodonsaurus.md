@@ -169,7 +169,7 @@ scientific_name ::     Solenodonsaurus janenschi
 Reference            Reproduced from Laurin M. & R. R. Reisz. 1999. A new study of Solenodonsaurus janenschi, and a reconsideration of amniote origins and stegocephalian evolution. Canadian Journal of Earth Sciences 36:1239-1255.
 specimen_condition ::  Fossil
 Body Part            skeleton
-copyright ::            © 1999 Michel Laurin and Robert Reisz
+copyright ::            © 1999 Michel Laurin and Robert Reisz 
 
 
 ## Confidential Links & Embeds: 

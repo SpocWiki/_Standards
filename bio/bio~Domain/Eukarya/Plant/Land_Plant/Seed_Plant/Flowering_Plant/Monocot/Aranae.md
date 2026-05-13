@@ -128,7 +128,7 @@ The superorder contains 2 families, 110 genera, and approximately 2500 species.
 
 The aroids are distinguished by distichous leaves, paracytic stomata,
 carpels with multiple ovules, and albuminous seeds (Grayum, 1990). A
-close relationships to the alismatids is supported in most analyses.
+close relationships to the alismatids is supported in most analyses. 
 
 
 ## Confidential Links & Embeds: 

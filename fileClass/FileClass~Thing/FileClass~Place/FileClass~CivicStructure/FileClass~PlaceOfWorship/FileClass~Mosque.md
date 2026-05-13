@@ -32,7 +32,7 @@ A mosque.
 #class/Mosque
 #class/Thing/Place/CivicStructure/PlaceOfWorship/Mosque
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

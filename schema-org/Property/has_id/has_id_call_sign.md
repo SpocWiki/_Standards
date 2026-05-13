@@ -76,19 +76,20 @@ has_range = `=this.dv_has_range`
 
 has_parent_property = `=this.dv_has_parent_property` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_id_call_sign|has_id_call_sign]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_id/has_id_call_sign|has_id_call_sign]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_id_call_sign.public|has_id_call_sign.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_id/has_id_call_sign.public|has_id_call_sign.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_id_call_sign.internal|has_id_call_sign.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_id/has_id_call_sign.internal|has_id_call_sign.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_id_call_sign.protect|has_id_call_sign.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_id/has_id_call_sign.protect|has_id_call_sign.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_id_call_sign.private|has_id_call_sign.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_id/has_id_call_sign.private|has_id_call_sign.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_id_call_sign.personal|has_id_call_sign.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_id/has_id_call_sign.personal|has_id_call_sign.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_id_call_sign.secret|has_id_call_sign.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_id/has_id_call_sign.secret|has_id_call_sign.secret]] 
 

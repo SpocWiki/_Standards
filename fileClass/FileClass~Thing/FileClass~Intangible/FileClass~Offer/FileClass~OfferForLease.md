@@ -34,7 +34,7 @@ An [[OfferForLease]] in Schema.org represents an [[../../../../Society/Agent/Com
 #class/OfferForLease
 #class/Thing/Intangible/Offer/OfferForLease
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

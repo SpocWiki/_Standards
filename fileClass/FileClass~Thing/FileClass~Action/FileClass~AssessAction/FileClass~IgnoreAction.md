@@ -32,7 +32,7 @@ The act of intentionally disregarding the object. An agent ignores an object.
 #class/IgnoreAction
 #class/Thing/Action/AssessAction/IgnoreAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

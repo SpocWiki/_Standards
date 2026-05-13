@@ -131,7 +131,7 @@ RelatedTherapy:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#clas
 ### SubStructure
 Component (sub-)structure(s) that comprise this anatomical structure.
 
-SubStructure:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')"}}
+SubStructure:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')"}} 
 
 
 ## Confidential Links & Embeds: 

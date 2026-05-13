@@ -100,7 +100,7 @@ Acknowledgements                    The copyright owner has released this image 
 								  source:
 								  [flickr](http://flickr.com/photos/fustian/121975688/)
 specimen_condition ::                 Live Specimen
-copyright ::                           © 2006 [marissa b.](http://flickr.com/people/fustian/)
+copyright ::                           © 2006 [marissa b.](http://flickr.com/people/fustian/) 
 
 
 ## Confidential Links & Embeds: 

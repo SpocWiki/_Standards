@@ -32,7 +32,7 @@ A unique instance of a radio BroadcastService on a CableOrSatelliteService lineu
 #class/RadioChannel
 #class/Thing/Intangible/BroadcastChannel/RadioChannel
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

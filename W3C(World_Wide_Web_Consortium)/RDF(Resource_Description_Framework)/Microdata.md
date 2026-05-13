@@ -31,7 +31,7 @@ Attributes of Microdata are:
 - `itemref` – Properties that are **not** descendants of the element with the `itemscope` attribute 
   can be associated with the item using this attribute. 
   Provides a list of element ids (not `itemid`s) with additional properties elsewhere in the document.
-- `datetime` - Indicates date or duration
+- `datetime` - Indicates date or duration 
 
 
 ## Confidential Links & Embeds: 

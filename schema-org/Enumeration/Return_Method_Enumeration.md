@@ -61,6 +61,7 @@ Enumerates several types of product return methods.
 
 has_parent_class = `=this.dv_has_parent_class` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Return_Method_Enumeration|Return_Method_Enumeration]] 

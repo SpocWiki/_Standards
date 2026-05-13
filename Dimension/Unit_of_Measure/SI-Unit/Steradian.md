@@ -215,17 +215,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/Steradian|Steradian]] 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measure/SI-Unit/Steradian|Steradian]] 
 
-### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/Steradian.public|Steradian.public]] 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measure/SI-Unit/Steradian.public|Steradian.public]] 
 
-### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/Steradian.internal|Steradian.internal]] 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measure/SI-Unit/Steradian.internal|Steradian.internal]] 
 
-### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/Steradian.protect|Steradian.protect]] 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measure/SI-Unit/Steradian.protect|Steradian.protect]] 
 
-### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/Steradian.private|Steradian.private]] 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measure/SI-Unit/Steradian.private|Steradian.private]] 
 
-### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/Steradian.personal|Steradian.personal]] 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measure/SI-Unit/Steradian.personal|Steradian.personal]] 
 
-### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/Steradian.secret|Steradian.secret]] 
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measure/SI-Unit/Steradian.secret|Steradian.secret]] 
 

@@ -71,3 +71,21 @@ Instagram_username: stefansagmeister
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Stefan%20Sagmeister)  
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Technology/Design/Graphic_Design/Sagmeister,Stefan|Sagmeister,Stefan]] 
+
+### #is_/same_as :: [[/_public/Technology/Design/Graphic_Design/Sagmeister,Stefan.public|Sagmeister,Stefan.public]] 
+
+### #is_/same_as :: [[/_internal/Technology/Design/Graphic_Design/Sagmeister,Stefan.internal|Sagmeister,Stefan.internal]] 
+
+### #is_/same_as :: [[/_protect/Technology/Design/Graphic_Design/Sagmeister,Stefan.protect|Sagmeister,Stefan.protect]] 
+
+### #is_/same_as :: [[/_private/Technology/Design/Graphic_Design/Sagmeister,Stefan.private|Sagmeister,Stefan.private]] 
+
+### #is_/same_as :: [[/_personal/Technology/Design/Graphic_Design/Sagmeister,Stefan.personal|Sagmeister,Stefan.personal]] 
+
+### #is_/same_as :: [[/_secret/Technology/Design/Graphic_Design/Sagmeister,Stefan.secret|Sagmeister,Stefan.secret]] 

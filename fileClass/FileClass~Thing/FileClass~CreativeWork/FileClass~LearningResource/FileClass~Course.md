@@ -139,7 +139,7 @@ SyllabusSections:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cl
 ### TotalHistoricalEnrollment
 The total number of students that have enrolled in the history of the course.
 
-TotalHistoricalEnrollment:: {"type":"Number","options":{}}
+TotalHistoricalEnrollment:: {"type":"Number","options":{}} 
 
 
 ## Confidential Links & Embeds: 

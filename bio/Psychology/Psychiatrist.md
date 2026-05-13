@@ -267,5 +267,19 @@ Commons_category: Psychiatrists
 > [Wikipedia](https://en.wikipedia.org/wiki/Psychiatrist) 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Psychiatrist|Psychiatrist]] 
+
+### #is_/same_as :: [[/_public/bio/Psychology/Psychiatrist.public|Psychiatrist.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Psychology/Psychiatrist.internal|Psychiatrist.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Psychology/Psychiatrist.protect|Psychiatrist.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Psychology/Psychiatrist.private|Psychiatrist.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Psychology/Psychiatrist.personal|Psychiatrist.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Psychology/Psychiatrist.secret|Psychiatrist.secret]] 
 

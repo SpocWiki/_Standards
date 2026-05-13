@@ -43,7 +43,7 @@ The act of achieving victory in a competitive activity.
 ### Loser
 A sub property of participant. The loser of the action.
 
-Loser:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Person')"}}
+Loser:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Person')"}} 
 
 
 ## Confidential Links & Embeds: 

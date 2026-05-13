@@ -155,7 +155,7 @@ dv_has_:
 	-   *Microgale soricoides* [(shrew-toothed shrew tenrec)]
 	-   *Microgale taiva* [(Taiva shrew tenrec)]
 	-   *Microgale talazaci* [(Talazac\'s shrew tenrec)]
-	-   *Microgale thomasi* [(Thomas\'s shrew tenrec)]
+	-   *Microgale thomasi* [(Thomas\'s shrew tenrec)] 
 
 
 ## Confidential Links & Embeds: 

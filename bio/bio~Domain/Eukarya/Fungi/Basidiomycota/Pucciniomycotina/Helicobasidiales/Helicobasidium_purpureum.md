@@ -69,7 +69,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md)
   Collection           2001
   copyright ::            © 2001 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
  
-  -----------------------------------------------------------------------------
+  ----------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

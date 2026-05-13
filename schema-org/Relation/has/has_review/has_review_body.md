@@ -71,17 +71,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_review_body|has_review_body]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_review/has_review_body|has_review_body]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_review_body.public|has_review_body.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_review/has_review_body.public|has_review_body.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_review_body.internal|has_review_body.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_review/has_review_body.internal|has_review_body.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_review_body.protect|has_review_body.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_review/has_review_body.protect|has_review_body.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_review_body.private|has_review_body.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_review/has_review_body.private|has_review_body.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_review_body.personal|has_review_body.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_review/has_review_body.personal|has_review_body.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_review_body.secret|has_review_body.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_review/has_review_body.secret|has_review_body.secret]] 
 

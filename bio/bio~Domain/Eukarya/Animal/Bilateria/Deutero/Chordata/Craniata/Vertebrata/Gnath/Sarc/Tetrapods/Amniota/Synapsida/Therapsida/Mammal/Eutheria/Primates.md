@@ -601,7 +601,7 @@ of extant primates. Nature 416:726-729.
   Comments          Vervet monkey (Catarrhini)
   copyright ::         © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
  
-  ------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------ 
 
 
 ## Confidential Links & Embeds: 

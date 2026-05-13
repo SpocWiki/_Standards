@@ -32,7 +32,7 @@ A government building.
 #class/GovernmentBuilding
 #class/Thing/Place/CivicStructure/GovernmentBuilding
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

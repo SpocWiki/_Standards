@@ -110,7 +110,7 @@ aliases:
 | Java EE 5        | 2006-05-11 | [JSR 244](https://jcp.org/en/jsr/detail?id=244)                                          | Java SE 5                    | [Java annotations](https://en.wikipedia.org/wiki/Java_annotation "Java annotation")                                                                                                  |
 | J2EE 1.4         | 2003-11-11 | [JSR 151](https://jcp.org/en/jsr/detail?id=151)                                          | J2SE 1.4                     | [WS-I](https://en.wikipedia.org/wiki/Web_Services_Interoperability "Web Services Interoperability") interoperable web services                                                       |
 | J2EE 1.3         | 2001-09-24 | [JSR 58](https://jcp.org/en/jsr/detail?id=58)                                            | J2SE 1.3                     | Java connector architecture                                                                                                                                                          |
-| J2EE 1.2         | 1999-12-17 | [1.2](https://download.oracle.com/otndocs/jcp/7391-j2ee_platform-1.2-fr-spec-oth-JSpec/) | J2SE 1.2                     | Initial specification release                                                                                                                                                        |
+| J2EE 1.2         | 1999-12-17 | [1.2](https://download.oracle.com/otndocs/jcp/7391-j2ee_platform-1.2-fr-spec-oth-JSpec/) | J2SE 1.2                     | Initial specification release                                                                                                                                                        | 
 
 
 ## Confidential Links & Embeds: 

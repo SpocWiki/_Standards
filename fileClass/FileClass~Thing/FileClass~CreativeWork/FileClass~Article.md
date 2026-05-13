@@ -122,7 +122,7 @@ Speakable:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thi
 ### WordCount
 The number of words in the text of the Article.
 
-WordCount:: {"type":"Number","options":{}}
+WordCount:: {"type":"Number","options":{}} 
 
 
 ## Confidential Links & Embeds: 

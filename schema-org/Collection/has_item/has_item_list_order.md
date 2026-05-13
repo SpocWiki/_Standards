@@ -82,19 +82,20 @@ has_domain = `=this.dv_has_domain`
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_item_list_order|has_item_list_order]] 
+### #is_/same_as :: [[/_Standards/schema-org/Collection/has_item/has_item_list_order|has_item_list_order]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_item_list_order.public|has_item_list_order.public]] 
+### #is_/same_as :: [[/_public/schema-org/Collection/has_item/has_item_list_order.public|has_item_list_order.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_item_list_order.internal|has_item_list_order.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Collection/has_item/has_item_list_order.internal|has_item_list_order.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_item_list_order.protect|has_item_list_order.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Collection/has_item/has_item_list_order.protect|has_item_list_order.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_item_list_order.private|has_item_list_order.private]] 
+### #is_/same_as :: [[/_private/schema-org/Collection/has_item/has_item_list_order.private|has_item_list_order.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_item_list_order.personal|has_item_list_order.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Collection/has_item/has_item_list_order.personal|has_item_list_order.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_item_list_order.secret|has_item_list_order.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Collection/has_item/has_item_list_order.secret|has_item_list_order.secret]] 
 

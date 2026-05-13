@@ -163,17 +163,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Embraer|Embraer]] 
+### #is_/same_as :: [[/_Standards/Technology/Aviation/Aviation_Company/Embraer|Embraer]] 
 
-### #is_/same_as :: [[/_public/Technology/Aviation/Aircraft/Embraer.public|Embraer.public]] 
+### #is_/same_as :: [[/_public/Technology/Aviation/Aviation_Company/Embraer.public|Embraer.public]] 
 
-### #is_/same_as :: [[/_internal/Technology/Aviation/Aircraft/Embraer.internal|Embraer.internal]] 
+### #is_/same_as :: [[/_internal/Technology/Aviation/Aviation_Company/Embraer.internal|Embraer.internal]] 
 
-### #is_/same_as :: [[/_protect/Technology/Aviation/Aircraft/Embraer.protect|Embraer.protect]] 
+### #is_/same_as :: [[/_protect/Technology/Aviation/Aviation_Company/Embraer.protect|Embraer.protect]] 
 
-### #is_/same_as :: [[/_private/Technology/Aviation/Aircraft/Embraer.private|Embraer.private]] 
+### #is_/same_as :: [[/_private/Technology/Aviation/Aviation_Company/Embraer.private|Embraer.private]] 
 
-### #is_/same_as :: [[/_personal/Technology/Aviation/Aircraft/Embraer.personal|Embraer.personal]] 
+### #is_/same_as :: [[/_personal/Technology/Aviation/Aviation_Company/Embraer.personal|Embraer.personal]] 
 
-### #is_/same_as :: [[/_secret/Technology/Aviation/Aircraft/Embraer.secret|Embraer.secret]] 
+### #is_/same_as :: [[/_secret/Technology/Aviation/Aviation_Company/Embraer.secret|Embraer.secret]] 
 

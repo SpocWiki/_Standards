@@ -485,3 +485,21 @@ dv_has_:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Airplane)  
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Technology/Aviation/Aircraft/Airplane|Airplane]] 
+
+### #is_/same_as :: [[/_public/Technology/Aviation/Aircraft/Airplane.public|Airplane.public]] 
+
+### #is_/same_as :: [[/_internal/Technology/Aviation/Aircraft/Airplane.internal|Airplane.internal]] 
+
+### #is_/same_as :: [[/_protect/Technology/Aviation/Aircraft/Airplane.protect|Airplane.protect]] 
+
+### #is_/same_as :: [[/_private/Technology/Aviation/Aircraft/Airplane.private|Airplane.private]] 
+
+### #is_/same_as :: [[/_personal/Technology/Aviation/Aircraft/Airplane.personal|Airplane.personal]] 
+
+### #is_/same_as :: [[/_secret/Technology/Aviation/Aircraft/Airplane.secret|Airplane.secret]] 

@@ -173,7 +173,7 @@ traditional arrangement of the Discoglossidae.
 	-   *Latonia* †
 	-   *Baranophrys* †
 	-   *Alytes*
-	-   *Discoglossus*
+	-   *Discoglossus* 
 
 
 ## Confidential Links & Embeds: 

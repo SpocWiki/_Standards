@@ -54,7 +54,7 @@ EstimatesRiskOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cla
 ### IncludedRiskFactor
 A modifiable or non-modifiable risk factor included in the calculation, e.g. age, coexisting condition.
 
-IncludedRiskFactor:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalRiskFactor')"}}
+IncludedRiskFactor:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalRiskFactor')"}} 
 
 
 ## Confidential Links & Embeds: 

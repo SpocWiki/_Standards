@@ -37,7 +37,8 @@ Data derived from multiple randomized clinical trials or meta-analyses.
 
 #has_/parent_class :: [[../MedicalEvidenceLevel|MedicalEvidenceLevel]]  
 
-#is_/enum_of :: [[../MedicalEvidenceLevel|MedicalEvidenceLevel]]  
+#is_/enum_of :: [[../MedicalEvidenceLevel|MedicalEvidenceLevel]] 
+
 
 ## Confidential Links & Embeds: 
 

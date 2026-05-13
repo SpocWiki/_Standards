@@ -533,7 +533,7 @@ as seen in compounds such as PH₃ (phosphine) in [Ne] 3s² 3p³.
 But Phosphorus can use its empty 3d orbitals to accommodate extra bonding electrons, 
 allowing 5 or even 6 covalent bonds. 
 For example, in PO₄³⁻ (phosphate), phosphorus forms 5 bonds by utilizing 3s, 3p³, and 3d orbitals, 
-so-called sp³d hybridization with [[Trigonal_bipyramidal_Geometry]].
+so-called sp³d hybridization with [[Trigonal_bipyramidal_Geometry]]. 
 
 
 ## Confidential Links & Embeds: 

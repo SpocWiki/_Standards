@@ -32,7 +32,7 @@ Event type: Comedy event.
 #class/ComedyEvent
 #class/Thing/Event/ComedyEvent
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

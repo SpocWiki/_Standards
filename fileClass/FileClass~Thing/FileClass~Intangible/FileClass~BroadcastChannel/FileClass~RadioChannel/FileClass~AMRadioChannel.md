@@ -32,7 +32,7 @@ A radio channel that uses AM.
 #class/AMRadioChannel
 #class/Thing/Intangible/BroadcastChannel/RadioChannel/AMRadioChannel
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ A synagogue.
 #class/Synagogue
 #class/Thing/Place/CivicStructure/PlaceOfWorship/Synagogue
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

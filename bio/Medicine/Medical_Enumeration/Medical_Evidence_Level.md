@@ -34,7 +34,8 @@ Tag Instances like this:
 
 Level of evidence for a medical guideline. Enumerated type.
 
-#has_/parent_class :: [[../MedicalEnumeration|MedicalEnumeration]]  
+#has_/parent_class :: [[../MedicalEnumeration|MedicalEnumeration]] 
+
 
 ## Confidential Links & Embeds: 
 

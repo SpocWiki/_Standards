@@ -376,7 +376,7 @@ NRV = Nährstoffbezugswerte für die tägliche Zufuhr gemäß Lebensmittelinform
 - Trennmittel 
 - Füllstoff 
 - Farbstoffe 
-- Überzugsmittel
+- Überzugsmittel 
 
 
 ## Confidential Links & Embeds: 

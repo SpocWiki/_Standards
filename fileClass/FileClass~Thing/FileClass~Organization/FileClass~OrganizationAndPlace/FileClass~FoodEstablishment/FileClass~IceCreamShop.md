@@ -32,7 +32,7 @@ An ice cream shop.
 #class/IceCreamShop
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/IceCreamShop
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

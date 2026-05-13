@@ -337,7 +337,7 @@ Pseudohemisus pustulosa; photo © 1995 David Cannatella\
 1. Scaphiophryne cf. marmorata; photo © 1995 David Cannatella\![](Microhylidae/scaphiophryne.jpg))
 
 ------------------------------------------------------------------------
-1. Kaloula pulchra, Thailand; photo © 1995 David Cannatella\![Kaloula pulchra](Microhylidae/kaloula.jpg))
+1. Kaloula pulchra, Thailand; photo © 1995 David Cannatella\![Kaloula pulchra](Microhylidae/kaloula.jpg)) 
 
 
 ## Confidential Links & Embeds: 

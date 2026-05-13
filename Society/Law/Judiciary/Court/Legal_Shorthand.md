@@ -48,7 +48,7 @@ dv_has_:
 - [§§](https://en.wikipedia.org/wiki/%C2%A7%C2%A7 "§§") — Multiple Sections 
 - Π ([Greek letter](https://en.wikipedia.org/wiki/Greek_alphabet "Greek alphabet") [Pi](https://en.wikipedia.org/wiki/Pi_\(letter\) "Pi (letter)")) or [P](https://en.wikipedia.org/wiki/P "P") — [[Claimant|plaintiff]]  
 - Δ ([Greek letter](https://en.wikipedia.org/wiki/Greek_alphabet "Greek alphabet") [Delta](https://en.wikipedia.org/wiki/Delta_\(letter\) "Delta (letter)")) or [D](https://en.wikipedia.org/wiki/D "D") — [Defendant](https://en.wikipedia.org/wiki/Defendant "Defendant") 
-- [¢](https://en.wikipedia.org/wiki/%C2%A2 "¢") — Claim  
+- [¢](https://en.wikipedia.org/wiki/%C2%A2 "¢") — Claim 
 
 
 ## Confidential Links & Embeds: 

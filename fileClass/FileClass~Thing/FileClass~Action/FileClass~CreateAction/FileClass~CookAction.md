@@ -65,7 +65,7 @@ FoodEvent:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thi
 ### Recipe
 A sub property of instrument. The recipe/instructions used to perform the action.
 
-Recipe:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/HowTo/Recipe')"}}
+Recipe:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/HowTo/Recipe')"}} 
 
 
 ## Confidential Links & Embeds: 

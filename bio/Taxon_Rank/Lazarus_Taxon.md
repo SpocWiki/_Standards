@@ -34,3 +34,19 @@ The Wallace-Bee Megachile pluto was believed to be extinct until 1981,
 but due to collectors it was again driven to near-extinction. 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Taxon_Rank/Lazarus_Taxon|Lazarus_Taxon]] 
+
+### #is_/same_as :: [[/_public/bio/Taxon_Rank/Lazarus_Taxon.public|Lazarus_Taxon.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Taxon_Rank/Lazarus_Taxon.internal|Lazarus_Taxon.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Taxon_Rank/Lazarus_Taxon.protect|Lazarus_Taxon.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Taxon_Rank/Lazarus_Taxon.private|Lazarus_Taxon.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Taxon_Rank/Lazarus_Taxon.personal|Lazarus_Taxon.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Taxon_Rank/Lazarus_Taxon.secret|Lazarus_Taxon.secret]] 
+

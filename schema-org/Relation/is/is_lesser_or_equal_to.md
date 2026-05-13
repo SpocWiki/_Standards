@@ -87,6 +87,7 @@ has_range = `=this.dv_has_range`
 
 has_complement = `=this.dv_has_complement` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_lesser_or_equal_to|is_lesser_or_equal_to]] 

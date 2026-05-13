@@ -76,7 +76,7 @@ NoBylinesPolicy:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cla
 ### VerificationFactCheckingPolicy
 Disclosure about verification and fact-checking processes for a [[NewsMediaOrganization]] or other fact-checking [[../../../Society/Agent/Community/Organization|Organization]].
 
-VerificationFactCheckingPolicy:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}
+VerificationFactCheckingPolicy:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}} 
 
 
 ## Confidential Links & Embeds: 

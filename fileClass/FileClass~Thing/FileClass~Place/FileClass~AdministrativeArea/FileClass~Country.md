@@ -32,7 +32,7 @@ A country.
 #class/Country
 #class/Thing/Place/AdministrativeArea/Country
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

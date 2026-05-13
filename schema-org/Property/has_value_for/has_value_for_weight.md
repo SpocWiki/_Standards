@@ -73,19 +73,20 @@ has_domain = `=this.dv_has_domain`
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_weight_in_gram|has_value_for_weight_in_gram]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_weight|has_value_for_weight]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_weight_in_gram.public|has_value_for_weight_in_gram.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_weight.public|has_value_for_weight.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_weight_in_gram.internal|has_value_for_weight_in_gram.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_weight.internal|has_value_for_weight.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_weight_in_gram.protect|has_value_for_weight_in_gram.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_weight.protect|has_value_for_weight.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_weight_in_gram.private|has_value_for_weight_in_gram.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_weight.private|has_value_for_weight.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_weight_in_gram.personal|has_value_for_weight_in_gram.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_weight.personal|has_value_for_weight.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_weight_in_gram.secret|has_value_for_weight_in_gram.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_weight.secret|has_value_for_weight.secret]] 
 

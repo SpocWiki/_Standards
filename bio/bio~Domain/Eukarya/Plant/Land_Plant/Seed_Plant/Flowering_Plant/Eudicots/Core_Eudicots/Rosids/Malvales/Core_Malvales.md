@@ -116,7 +116,7 @@ location ::          Pine Hill (El Dorado County, California, USA)
 Comments            Pine Hill Fremontia (/Malvoideae)
 Creator             Photograph by G. F. Hrusa
 Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
-copyright ::           © 2001 [California Dept. of Food & Agriculture, Botany Laboratory](mailto:FHrusa@ca.gov)
+copyright ::           © 2001 [California Dept. of Food & Agriculture, Botany Laboratory](mailto:FHrusa@ca.gov) 
 
 
 ## Confidential Links & Embeds: 

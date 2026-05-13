@@ -156,7 +156,7 @@ Here’s a look at these additional encoding possibilities:
    - **Purpose:** These commands enhance compatibility with multilingual documents, supporting languages with specific directionality or font requirements.
 
 For most general cases, `\ansi` with Unicode escape sequences (`\uN`) 
-and code page settings (`\ansicpgN`) offers a comprehensive solution for multilingual support in RTF.
+and code page settings (`\ansicpgN`) offers a comprehensive solution for multilingual support in RTF. 
 
 
 ## Confidential Links & Embeds: 

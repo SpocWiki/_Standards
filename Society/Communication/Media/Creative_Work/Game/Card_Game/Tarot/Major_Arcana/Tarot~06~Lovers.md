@@ -38,3 +38,21 @@ Commons_category: Lovers (Major Arcana)
 - foolish designs. 
 - Another account speaks of marriage frustrated 
   and contrarieties of all kinds 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~06~Lovers|Tarot~06~Lovers]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~06~Lovers.public|Tarot~06~Lovers.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~06~Lovers.internal|Tarot~06~Lovers.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~06~Lovers.protect|Tarot~06~Lovers.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~06~Lovers.private|Tarot~06~Lovers.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~06~Lovers.personal|Tarot~06~Lovers.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~06~Lovers.secret|Tarot~06~Lovers.secret]] 

@@ -32,7 +32,7 @@ A reservoir of water, typically an artificially created lake, like the Lake Kari
 #class/Reservoir
 #class/Thing/Place/Landform/BodyOfWater/Reservoir
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

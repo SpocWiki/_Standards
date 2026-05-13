@@ -336,7 +336,7 @@ Vánky, K. 1987. Illustrated genera of smut fungi. Cryptogamic Studies
   Comments          Sporulation of Exobasidium vaccinii on Vaccinium vitis-idaea
   copyright ::         © 1997 [Robert Bauer](http://www.uni-tuebingen.de/uni/bbm/Privat/Robert.html) 
  
-  ---------------------------------------------------------------------------------
+  --------------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

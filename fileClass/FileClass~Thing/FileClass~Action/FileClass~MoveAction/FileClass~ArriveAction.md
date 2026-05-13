@@ -32,7 +32,7 @@ The act of arriving at a place. An agent arrives at a destination from a fromLoc
 #class/ArriveAction
 #class/Thing/Action/MoveAction/ArriveAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

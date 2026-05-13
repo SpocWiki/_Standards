@@ -31,7 +31,7 @@ A landform or physical feature.  Landform elements include mountains, plains, la
 #class/Landform
 #class/Thing/Place/Landform
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

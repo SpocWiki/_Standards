@@ -159,7 +159,7 @@ extensive comments under Myobatrachinae.
 ## Title Illustrations
 
 ------------------------------------------------------------------------
-Limnodynastes salminii; photo © 1995 David Cannatella![](Limnodynastinae/limnodynastes.jpg))
+Limnodynastes salminii; photo © 1995 David Cannatella![](Limnodynastinae/limnodynastes.jpg)) 
 
 
 ## Confidential Links & Embeds: 

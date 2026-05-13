@@ -41,3 +41,21 @@ Commons_category: Supervolcanoes
 > [Wikipedia](https://en.wikipedia.org/wiki/Supervolcano)  
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Disaster/Natural_Disaster/Volcano_Eruption/Supervolcano|Supervolcano]] 
+
+### #is_/same_as :: [[/_public/Society/Disaster/Natural_Disaster/Volcano_Eruption/Supervolcano.public|Supervolcano.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Disaster/Natural_Disaster/Volcano_Eruption/Supervolcano.internal|Supervolcano.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Disaster/Natural_Disaster/Volcano_Eruption/Supervolcano.protect|Supervolcano.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Disaster/Natural_Disaster/Volcano_Eruption/Supervolcano.private|Supervolcano.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Disaster/Natural_Disaster/Volcano_Eruption/Supervolcano.personal|Supervolcano.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Disaster/Natural_Disaster/Volcano_Eruption/Supervolcano.secret|Supervolcano.secret]] 

@@ -53,7 +53,7 @@ InDefinedTermSet:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cl
 ### TermCode
 A code that identifies this [[DefinedTerm]] within a [[DefinedTermSet]]
 
-TermCode:: {"type":"Input","options":{}}
+TermCode:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

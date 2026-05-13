@@ -32,7 +32,7 @@ An [[../../../../Society/Communication/Media/Creative_Work/Article|Article]] tha
 #class/AdvertiserContentArticle
 #class/Thing/CreativeWork/Article/AdvertiserContentArticle
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

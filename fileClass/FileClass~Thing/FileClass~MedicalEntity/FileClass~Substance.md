@@ -60,7 +60,7 @@ ActiveIngredient:: {"type":"Input","options":{}}
 ### MaximumIntake
 Recommended intake of this supplement for a given population as defined by a specific recommending authority.
 
-MaximumIntake:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/MaximumDoseSchedule')"}}
+MaximumIntake:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/MaximumDoseSchedule')"}} 
 
 
 ## Confidential Links & Embeds: 

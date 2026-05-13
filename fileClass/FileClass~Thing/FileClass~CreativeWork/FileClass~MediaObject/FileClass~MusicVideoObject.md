@@ -32,7 +32,7 @@ A music video file.
 #class/MusicVideoObject
 #class/Thing/CreativeWork/MediaObject/MusicVideoObject
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ A department store.
 #class/DepartmentStore
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/DepartmentStore
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

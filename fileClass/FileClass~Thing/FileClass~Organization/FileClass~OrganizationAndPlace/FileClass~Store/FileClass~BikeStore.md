@@ -31,7 +31,7 @@ A bike store.
 #class/BikeStore
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/BikeStore
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

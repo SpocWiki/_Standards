@@ -32,7 +32,7 @@ A hardware store.
 #class/HardwareStore
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/HardwareStore
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

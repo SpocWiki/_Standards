@@ -106,21 +106,22 @@ Predicate describes that:
 
 #has_/domain  = `=this.dv_has_domain`  
 has_name = `=this.dv_has_name` 
-(has_/range = `=this.dv_has_range`   )
+(has_/range = `=this.dv_has_range`   ) 
+
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_place_elevation|has_place_elevation_meters]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_place_elevation|has_place_elevation]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_place_elevation_meters.public|has_place_elevation_meters.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_place_elevation.public|has_place_elevation.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_place_elevation_meters.internal|has_place_elevation_meters.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_place_elevation.internal|has_place_elevation.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_place_elevation_meters.protect|has_place_elevation_meters.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_place_elevation.protect|has_place_elevation.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_place_elevation_meters.private|has_place_elevation_meters.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_place_elevation.private|has_place_elevation.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_place_elevation_meters.personal|has_place_elevation_meters.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_place_elevation.personal|has_place_elevation.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_place_elevation_meters.secret|has_place_elevation_meters.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_place_elevation.secret|has_place_elevation.secret]] 
 

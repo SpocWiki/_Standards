@@ -47,7 +47,8 @@ dv_has_:
     sr: ГНУ/Линукс
 ---
 
-# [[GNU+Linux]]  
+# [[GNU+Linux]] 
+
 
 ## Confidential Links & Embeds: 
 

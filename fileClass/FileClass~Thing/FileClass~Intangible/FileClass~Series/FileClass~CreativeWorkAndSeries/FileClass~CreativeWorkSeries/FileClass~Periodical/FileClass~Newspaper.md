@@ -32,7 +32,7 @@ A publication containing information about varied topics that are pertinent to g
 #class/Newspaper
 #class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/Periodical/Newspaper
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -107,7 +107,7 @@ Amer. Midland Nat. 85:85-96.
   Life Cycle Stage ::     adult
   copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
-  ---------------------------------------------------------------------------------
+  --------------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

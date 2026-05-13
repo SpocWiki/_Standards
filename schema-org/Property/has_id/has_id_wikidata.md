@@ -71,19 +71,20 @@ has_range = `=this.dv_has_range`
 
 has_parent_property = `=this.dv_has_parent_property` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_id_wikidata|has_id_wikidata]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_id/has_id_wikidata|has_id_wikidata]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_id_wikidata.public|has_id_wikidata.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_id/has_id_wikidata.public|has_id_wikidata.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_id_wikidata.internal|has_id_wikidata.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_id/has_id_wikidata.internal|has_id_wikidata.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_id_wikidata.protect|has_id_wikidata.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_id/has_id_wikidata.protect|has_id_wikidata.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_id_wikidata.private|has_id_wikidata.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_id/has_id_wikidata.private|has_id_wikidata.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_id_wikidata.personal|has_id_wikidata.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_id/has_id_wikidata.personal|has_id_wikidata.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_id_wikidata.secret|has_id_wikidata.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_id/has_id_wikidata.secret|has_id_wikidata.secret]] 
 

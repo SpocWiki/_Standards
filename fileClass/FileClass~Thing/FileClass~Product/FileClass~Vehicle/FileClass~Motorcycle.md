@@ -32,7 +32,7 @@ A motorcycle or motorbike is a single-track, two-wheeled motor vehicle.
 #class/Motorcycle
 #class/Thing/Product/Vehicle/Motorcycle
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

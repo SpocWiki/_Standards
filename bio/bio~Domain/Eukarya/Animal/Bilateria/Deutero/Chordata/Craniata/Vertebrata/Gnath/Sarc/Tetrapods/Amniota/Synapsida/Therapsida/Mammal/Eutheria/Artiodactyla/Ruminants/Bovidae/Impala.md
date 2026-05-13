@@ -308,7 +308,7 @@ Acknowledgements                    The copyright owner has released this image 
 								  source: [flickr:                                       Impala](http://flickr.com/photos/der_aufzynd/255914488/)
 specimen_condition ::                 Live Specimen
 Source Collection                   [Flickr](http://flickr.com/)
-copyright ::                           © 2006 [der_aufzynd](http://flickr.com/people/der_aufzynd/)
+copyright ::                           © 2006 [der_aufzynd](http://flickr.com/people/der_aufzynd/) 
 
 
 ## Confidential Links & Embeds: 

@@ -132,7 +132,7 @@ Body Part            flower
 Source               [Ocotillo, 2003-04-01B 132](http://flickr.com/photos/anitagould/9062136/)
 Source Collection    [Flickr](http://flickr.com/)
 Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
-copyright ::            © 2003 [Anita Gould](http://flickr.com/people/anitagould/)
+copyright ::            © 2003 [Anita Gould](http://flickr.com/people/anitagould/) 
 
 
 ## Confidential Links & Embeds: 

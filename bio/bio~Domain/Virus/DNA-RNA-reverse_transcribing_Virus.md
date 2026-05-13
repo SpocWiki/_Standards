@@ -35,7 +35,7 @@ Containing group: [Virus](../Virus.md)
   Comments             Scanning electron micrograph of human immunodeficiency virus (HIV), grown in cultured lymphocytes. Virions are seen as small spheres on the surface of the cells.
   Creator              CDC/C. Goldsmith, P. Feorino, E. L. Palmer, W. R. McManus
   specimen_condition ::  Dead Specimen
-  Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
+  Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp) 
 
 
 ## Confidential Links & Embeds: 

@@ -63,7 +63,7 @@ RatingCount:: {"type":"Number","options":{}}
 ### ReviewCount
 The count of total number of reviews.
 
-ReviewCount:: {"type":"Number","options":{}}
+ReviewCount:: {"type":"Number","options":{}} 
 
 
 ## Confidential Links & Embeds: 

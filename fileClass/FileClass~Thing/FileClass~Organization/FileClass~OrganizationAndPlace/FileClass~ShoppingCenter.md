@@ -32,7 +32,7 @@ A shopping center or mall.
 #class/ShoppingCenter
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ShoppingCenter
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

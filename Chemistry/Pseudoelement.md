@@ -99,7 +99,7 @@ to obtain chemoselectivity in a subsequent chemical reaction, facilitating multi
 - TMS, TBDMS, TES, TBDPS, TIPS, ... for various [silyl ether](https://en.wikipedia.org/wiki/Silyl_ether "Silyl ether") groups
 - PMB for the 4-methoxybenzyl group
 - MOM for the methoxymethyl group
-- THP for the 2-tetrahydropyranyl group
+- THP for the 2-tetrahydropyranyl group 
 
 
 ## Confidential Links & Embeds: 

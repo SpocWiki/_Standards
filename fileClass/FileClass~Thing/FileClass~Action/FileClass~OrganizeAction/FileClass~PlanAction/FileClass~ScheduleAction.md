@@ -36,7 +36,7 @@ Related actions:
 #class/ScheduleAction
 #class/Thing/Action/OrganizeAction/PlanAction/ScheduleAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

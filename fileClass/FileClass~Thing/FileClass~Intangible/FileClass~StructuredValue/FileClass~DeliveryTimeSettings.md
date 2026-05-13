@@ -74,7 +74,7 @@ ShippingDestination:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('
 ### TransitTimeLabel
 Label to match an [[OfferShippingDetails]] with a [[DeliveryTimeSettings]] (within the context of a [[shippingSettingsLink]] cross-reference).
 
-TransitTimeLabel:: {"type":"Input","options":{}}
+TransitTimeLabel:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

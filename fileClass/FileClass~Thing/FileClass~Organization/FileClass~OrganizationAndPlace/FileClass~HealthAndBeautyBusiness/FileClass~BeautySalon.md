@@ -32,7 +32,7 @@ Beauty salon.
 #class/BeautySalon
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/BeautySalon
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

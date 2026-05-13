@@ -42,7 +42,7 @@ The act of traveling from a fromLocation to a destination by a specified mode of
 ### Distance
 The distance travelled, e.g. exercising or travelling.
 
-Distance:: {"type":"Input","options":{}}
+Distance:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

@@ -81,19 +81,20 @@ has_range = `=this.dv_has_range`
 
 has_parent_property = `=this.dv_has_parent_property` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_sports_team|has_sports_team]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_participant/has_sports_team|has_sports_team]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_participants/has_sports_team.public|has_sports_team.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_participant/has_sports_team.public|has_sports_team.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_participants/has_sports_team.internal|has_sports_team.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_participant/has_sports_team.internal|has_sports_team.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_participants/has_sports_team.protect|has_sports_team.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_participant/has_sports_team.protect|has_sports_team.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_participants/has_sports_team.private|has_sports_team.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_participant/has_sports_team.private|has_sports_team.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_participants/has_sports_team.personal|has_sports_team.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_participant/has_sports_team.personal|has_sports_team.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_participants/has_sports_team.secret|has_sports_team.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_participant/has_sports_team.secret|has_sports_team.secret]] 
 

@@ -32,7 +32,7 @@ An adult entertainment establishment.
 #class/AdultEntertainment
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/AdultEntertainment
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

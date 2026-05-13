@@ -147,7 +147,7 @@ Sciences of Philadelphia 470:1-9.
   Type              Paratype
   copyright ::         © 1995 [Peter Beerli](http://www.csit.fsu.edu/%7Ebeerli) 
  
-  --------------------------------------------------------------------------
+  -------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

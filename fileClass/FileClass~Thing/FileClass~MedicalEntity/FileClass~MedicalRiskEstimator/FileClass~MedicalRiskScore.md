@@ -42,7 +42,7 @@ A simple system that adds up the number of risk factors to yield a score that is
 ### Algorithm
 The algorithm or rules to follow to compute the score.
 
-Algorithm:: {"type":"Input","options":{}}
+Algorithm:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

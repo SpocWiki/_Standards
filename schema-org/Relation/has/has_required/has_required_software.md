@@ -86,17 +86,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_required_software|has_required_software]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_required/has_required_software|has_required_software]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_required_software.public|has_required_software.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_required/has_required_software.public|has_required_software.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_required_software.internal|has_required_software.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_required/has_required_software.internal|has_required_software.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_required_software.protect|has_required_software.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_required/has_required_software.protect|has_required_software.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_required_software.private|has_required_software.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_required/has_required_software.private|has_required_software.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_required_software.personal|has_required_software.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_required/has_required_software.personal|has_required_software.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_required_software.secret|has_required_software.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_required/has_required_software.secret|has_required_software.secret]] 
 

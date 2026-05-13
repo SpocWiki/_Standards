@@ -75,7 +75,7 @@ ExpressedIn:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/T
 ### HasBioPolymerSequence
 A symbolic representation of a BioChemEntity. For example, a nucleotide sequence of a Gene or an amino acid sequence of a Protein.
 
-HasBioPolymerSequence:: {"type":"Input","options":{}}
+HasBioPolymerSequence:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

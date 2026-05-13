@@ -153,7 +153,7 @@ Comments             bay starvine
 Acknowledgements     Photograph courtesy [InsectImages.org](http://www.insectimages.org/) (#1241322)
 specimen_condition ::  Live Specimen
 Source Collection    [InsectImages.org](http://www.insectimages.org/)
-copyright ::            © James Henderson, Gulf South Research Corporation
+copyright ::            © James Henderson, Gulf South Research Corporation 
 
 
 ## Confidential Links & Embeds: 

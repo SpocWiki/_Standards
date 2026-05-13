@@ -54,7 +54,7 @@ ArrivalBoatTerminal:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('
 ### DepartureBoatTerminal
 The terminal or port from which the boat departs.
 
-DepartureBoatTerminal:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place/CivicStructure/BoatTerminal')"}}
+DepartureBoatTerminal:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place/CivicStructure/BoatTerminal')"}} 
 
 
 ## Confidential Links & Embeds: 

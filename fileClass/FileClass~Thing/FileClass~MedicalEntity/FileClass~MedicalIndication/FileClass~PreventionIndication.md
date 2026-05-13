@@ -32,7 +32,7 @@ An indication for preventing an underlying condition, symptom, etc.
 #class/PreventionIndication
 #class/Thing/MedicalEntity/MedicalIndication/PreventionIndication
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

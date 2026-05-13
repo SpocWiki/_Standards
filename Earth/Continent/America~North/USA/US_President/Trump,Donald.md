@@ -269,7 +269,7 @@ dv_is_same_as:
 -   [has_role :: [[../US_President|US_President]] ]is_member_of = `=this.dv_is_member_of`
 
 
-`$=JSON.stringify(dv.current(), null) + "-_-_-"`
+`$=JSON.stringify(dv.current(), null) + "-_-_-"` 
 
 
 ## Confidential Links & Embeds: 

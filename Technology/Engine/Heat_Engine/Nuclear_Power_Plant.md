@@ -107,3 +107,21 @@ IMDb_keyword: nuclear-power-plant
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nuclear%20power%20plant)  
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Technology/Engine/Heat_Engine/Nuclear_Power_Plant|Nuclear_Power_Plant]] 
+
+### #is_/same_as :: [[/_public/Technology/Engine/Heat_Engine/Nuclear_Power_Plant.public|Nuclear_Power_Plant.public]] 
+
+### #is_/same_as :: [[/_internal/Technology/Engine/Heat_Engine/Nuclear_Power_Plant.internal|Nuclear_Power_Plant.internal]] 
+
+### #is_/same_as :: [[/_protect/Technology/Engine/Heat_Engine/Nuclear_Power_Plant.protect|Nuclear_Power_Plant.protect]] 
+
+### #is_/same_as :: [[/_private/Technology/Engine/Heat_Engine/Nuclear_Power_Plant.private|Nuclear_Power_Plant.private]] 
+
+### #is_/same_as :: [[/_personal/Technology/Engine/Heat_Engine/Nuclear_Power_Plant.personal|Nuclear_Power_Plant.personal]] 
+
+### #is_/same_as :: [[/_secret/Technology/Engine/Heat_Engine/Nuclear_Power_Plant.secret|Nuclear_Power_Plant.secret]] 

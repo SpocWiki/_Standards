@@ -32,7 +32,7 @@ A plumbing service.
 #class/Plumber
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/Plumber
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

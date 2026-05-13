@@ -291,7 +291,7 @@ has_time_destroyed:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaul
 has_creator:: {"type":"Input","options":{}}
 has_destroyer:: {"type":"Input","options":{}}
 has_place_created:: {"type":"Input","options":{}}
-has_place_destroyed:: {"type":"Input","options":{}}
+has_place_destroyed:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

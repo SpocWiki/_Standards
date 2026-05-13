@@ -179,7 +179,7 @@ waters. Bull. Mar. Sci., 49: 162-185.
   Type                 holotype (2)
   copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
-  ------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------ 
 
 
 ## Confidential Links & Embeds: 

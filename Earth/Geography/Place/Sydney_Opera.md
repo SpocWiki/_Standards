@@ -308,17 +308,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Sydney_Opera|Sydney_Opera]] 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Sydney_Opera|Sydney_Opera]] 
 
-### #is_/same_as :: [[/_public/Earth/Geography/Place/Sydney Opera.public|Sydney Opera.public]] 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Sydney_Opera.public|Sydney_Opera.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Geography/Place/Sydney Opera.internal|Sydney Opera.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Sydney_Opera.internal|Sydney_Opera.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Geography/Place/Sydney Opera.protect|Sydney Opera.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Sydney_Opera.protect|Sydney_Opera.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Geography/Place/Sydney Opera.private|Sydney Opera.private]] 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Sydney_Opera.private|Sydney_Opera.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Geography/Place/Sydney Opera.personal|Sydney Opera.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Sydney_Opera.personal|Sydney_Opera.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Geography/Place/Sydney Opera.secret|Sydney Opera.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Sydney_Opera.secret|Sydney_Opera.secret]] 
 

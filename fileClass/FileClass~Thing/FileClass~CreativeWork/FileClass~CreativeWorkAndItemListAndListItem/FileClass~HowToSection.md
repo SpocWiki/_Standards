@@ -32,7 +32,7 @@ A sub-grouping of steps in the instructions for how to achieve a result (e.g. st
 #class/HowToSection
 #class/Thing/CreativeWork/CreativeWorkAndItemListAndListItem/HowToSection
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

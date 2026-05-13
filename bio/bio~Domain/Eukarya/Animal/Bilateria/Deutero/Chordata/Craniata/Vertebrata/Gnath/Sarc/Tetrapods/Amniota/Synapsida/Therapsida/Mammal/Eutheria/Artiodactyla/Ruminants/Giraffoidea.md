@@ -133,7 +133,7 @@ location ::           Samos, Greece
 Reference            Lankester, E. R. 1905. Extinct Animals. Archibald Constable & Co. Ltd., London
 specimen_condition ::  Fossil \-- Period: Miocene
 Body Part            skull
------------------------------
+----------------------------- 
 
 
 ## Confidential Links & Embeds: 

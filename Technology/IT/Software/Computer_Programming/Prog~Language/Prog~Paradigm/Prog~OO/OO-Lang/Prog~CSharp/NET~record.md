@@ -9,7 +9,7 @@ or `rec with { Xyz = newValue }`
 `{ get; init; }` => immutable
 
 C#11 introduced `record struct` 
-`public readonly record struct Point(double X, double Y, double Z);`  
+`public readonly record struct Point(double X, double Y, double Z);` 
 
 
 ## Confidential Links & Embeds: 

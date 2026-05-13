@@ -68,7 +68,7 @@ scientific_name ::     Anoplotherium commune
 location ::           France
 Reference            Nicholson, H. A. 1897. Ancient Life-History of the Earth. D. Appleton and Company, New York.
 Acknowledgements     after Cuvier
-specimen_condition ::  Fossil \-- Period: Eocene
+specimen_condition ::  Fossil \-- Period: Eocene 
 
 
 ## Confidential Links & Embeds: 

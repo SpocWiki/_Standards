@@ -32,7 +32,7 @@ The header section of the page.
 #class/WPHeader
 #class/Thing/CreativeWork/WebPageElement/WPHeader
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

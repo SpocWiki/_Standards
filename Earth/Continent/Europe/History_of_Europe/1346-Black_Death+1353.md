@@ -408,8 +408,6 @@ type: private_note
 ### #is_/same_as :: [[/_personal/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.personal|1346-Black_Death+1353.personal]] 
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.secret|1346-Black_Death+1353.secret]] 
-
-
 # [[1346-Black_Death+1353]] 
 
 #is_/part_of :: [[1346-Black_Death]] 

@@ -108,7 +108,7 @@ dv_has_:
 	-   *Nitospira*
 	-   *Leptospirillum*
 	-   *Magnetobacterium*
-	-   *Thermodesulfovibrio*
+	-   *Thermodesulfovibrio* 
 
 
 ## Confidential Links & Embeds: 

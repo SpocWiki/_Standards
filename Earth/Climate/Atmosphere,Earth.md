@@ -417,7 +417,7 @@ and need to spend fuel to actively change position, while also aligning with oth
 - Kármán line is internationally recognized as the boundary between Earth's atmosphere and space, 
   set at 100 km the Earth's atmosphere becomes too thin to support aerodynamic flight 
 - The **Exosphere** gradually transitions into space, so it has no clear boundary, 
-  but 10,000 km is often considered the upper limit of Earth's atmosphere.
+  but 10,000 km is often considered the upper limit of Earth's atmosphere. 
 
 
 ## Confidential Links & Embeds: 

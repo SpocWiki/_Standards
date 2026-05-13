@@ -64,7 +64,7 @@ is_part_of = `=this.dv_is_part_of`
 [[../../../../Earth/Continent/Europe/Europe~Central/Germany|German]] size system for [[../../../../Technology/Tool/Clothing|wearables]].
  
 Tag Instances like this: 
-#is_a_/wearable_size_system_/de
+#is_a_/wearable_size_system_/de 
 
 
 ## Confidential Links & Embeds: 

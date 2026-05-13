@@ -54,7 +54,7 @@ HasMenuItem:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/T
 ### HasMenuSection
 A subgrouping of the menu (by dishes, course, serving time period, etc.).
 
-HasMenuSection:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MenuSection')"}}
+HasMenuSection:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MenuSection')"}} 
 
 
 ## Confidential Links & Embeds: 

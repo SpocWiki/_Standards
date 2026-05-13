@@ -37,7 +37,7 @@ The act of playing a video game.
 ### GameAvailabilityType
 Indicates the availability type of the game content associated with this action, such as whether it is a full version or a demo.
 
-GameAvailabilityType:: {"type":"Select","options":{"valuesList":{"DemoGameAvailability","FullGameAvailability"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
+GameAvailabilityType:: {"type":"Select","options":{"valuesList":{"DemoGameAvailability","FullGameAvailability"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}} 
 
 
 ## Confidential Links & Embeds: 

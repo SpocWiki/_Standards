@@ -36,7 +36,8 @@ The causative agent(s) that are responsible for the pathophysiologic process tha
 
 #has_/parent_class :: [[../MedicalEntity|MedicalEntity]]  
 
-#has_/properties :: [ additionalType, alternateName, causeOf, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]  
+#has_/properties :: [ additionalType, alternateName, causeOf, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] 
+
 
 ## Confidential Links & Embeds: 
 

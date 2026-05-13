@@ -265,9 +265,6 @@ dv_has_:
 > [Wikipedia](https://en.wikipedia.org/wiki/Alkaline%20earth%20metal) 
 
 
- 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline|Group-02-Earth-Alkaline]] 

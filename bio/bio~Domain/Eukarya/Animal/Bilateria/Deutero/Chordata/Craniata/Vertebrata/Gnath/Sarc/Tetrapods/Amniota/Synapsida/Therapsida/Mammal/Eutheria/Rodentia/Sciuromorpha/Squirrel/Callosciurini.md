@@ -127,7 +127,7 @@ dv_has_:
   Source Collection    [Flickr](http://flickr.com/)
   Image Use ::    [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
   copyright ::            © 2007 [budak](http://flickr.com/people/77246694@N00)
-  ------------------------------------------------------------------
+  ------------------------------------------------------------------ 
 
 
 ## Confidential Links & Embeds: 

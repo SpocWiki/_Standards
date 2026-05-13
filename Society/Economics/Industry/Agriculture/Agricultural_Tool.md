@@ -99,7 +99,7 @@ dv_has_:
 
 #is_/same_as :: [[_Standards/WikiData/WD~agricultural_tool,3629395|WD~agricultural_tool,3629395]] 
 
-tool used for farming
+tool used for farming 
 
 
 ## Confidential Links & Embeds: 

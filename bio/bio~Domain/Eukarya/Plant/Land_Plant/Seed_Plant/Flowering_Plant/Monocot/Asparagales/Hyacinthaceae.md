@@ -275,7 +275,7 @@ copyright ::         © 2001 M. Pfosser and F. Speta
 ![Scilla bifolia](Hyacinthaceae/Scilla_bifolia.jpg)  
 scientific_name ::  Scilla bifolia L.
 location ::        Feldkirchen, Austria
-copyright ::         © 2001 M. Pfosser and F. Speta
+copyright ::         © 2001 M. Pfosser and F. Speta 
 
 
 ## Confidential Links & Embeds: 

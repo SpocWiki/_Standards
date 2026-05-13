@@ -116,7 +116,7 @@ VideoFrameSize:: {"type":"Input","options":{}}
 ### VideoQuality
 The quality of the video.
 
-VideoQuality:: {"type":"Input","options":{}}
+VideoQuality:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

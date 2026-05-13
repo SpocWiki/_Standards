@@ -32,7 +32,7 @@ A bakery.
 #class/Bakery
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Bakery
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

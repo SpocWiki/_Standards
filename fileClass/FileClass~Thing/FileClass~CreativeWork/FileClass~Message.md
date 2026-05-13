@@ -134,7 +134,7 @@ Sender:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/
 ### ToRecipient
 A sub property of recipient. The recipient who was directly sent the message.
 
-ToRecipient:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Audience')"}}
+ToRecipient:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Audience')"}} 
 
 
 ## Confidential Links & Embeds: 

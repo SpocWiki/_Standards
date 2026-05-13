@@ -93,5 +93,22 @@ and the research into future treatments for disease.
 [Drug design](https://en.wikipedia.org/wiki/Drug_design "Drug design") and drug development exploits NAD+ in three ways: 
 - as a direct target of drugs, 
 - by designing [enzyme inhibitors](https://en.wikipedia.org/wiki/Enzyme_inhibitor "Enzyme inhibitor") or activators based on its structure that change the activity of NAD-dependent enzymes, and 
-- by trying to inhibit NAD+ biosynthesis.
+- by trying to inhibit NAD+ biosynthesis. 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/NADH(Nicotinamide_Adenine_Dinucleotide)|NADH(Nicotinamide_Adenine_Dinucleotide)]] 
+
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/NADH(Nicotinamide_Adenine_Dinucleotide).public|NADH(Nicotinamide_Adenine_Dinucleotide).public]] 
+
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/NADH(Nicotinamide_Adenine_Dinucleotide).internal|NADH(Nicotinamide_Adenine_Dinucleotide).internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/NADH(Nicotinamide_Adenine_Dinucleotide).protect|NADH(Nicotinamide_Adenine_Dinucleotide).protect]] 
+
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/NADH(Nicotinamide_Adenine_Dinucleotide).private|NADH(Nicotinamide_Adenine_Dinucleotide).private]] 
+
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/NADH(Nicotinamide_Adenine_Dinucleotide).personal|NADH(Nicotinamide_Adenine_Dinucleotide).personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/NADH(Nicotinamide_Adenine_Dinucleotide).secret|NADH(Nicotinamide_Adenine_Dinucleotide).secret]] 
 

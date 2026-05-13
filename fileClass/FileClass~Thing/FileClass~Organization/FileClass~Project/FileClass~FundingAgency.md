@@ -35,7 +35,7 @@ A FundingAgency is an organization that implements one or more [[FundingScheme]]
 #class/FundingAgency
 #class/Thing/Organization/Project/FundingAgency
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

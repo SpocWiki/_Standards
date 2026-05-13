@@ -302,3 +302,20 @@ is_same_as = `=this.dv_is_same_as`
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hydrogen%20cyanide) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Functional_Group/Cyanide/Hydrogen_Cyanide|Hydrogen_Cyanide]] 
+
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Functional_Group/Cyanide/Hydrogen_Cyanide.public|Hydrogen_Cyanide.public]] 
+
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Functional_Group/Cyanide/Hydrogen_Cyanide.internal|Hydrogen_Cyanide.internal]] 
+
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Functional_Group/Cyanide/Hydrogen_Cyanide.protect|Hydrogen_Cyanide.protect]] 
+
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Functional_Group/Cyanide/Hydrogen_Cyanide.private|Hydrogen_Cyanide.private]] 
+
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Functional_Group/Cyanide/Hydrogen_Cyanide.personal|Hydrogen_Cyanide.personal]] 
+
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Functional_Group/Cyanide/Hydrogen_Cyanide.secret|Hydrogen_Cyanide.secret]] 
+

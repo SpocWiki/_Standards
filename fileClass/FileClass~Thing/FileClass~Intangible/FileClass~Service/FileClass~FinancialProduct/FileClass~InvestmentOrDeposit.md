@@ -42,7 +42,7 @@ A type of financial product that typically requires the client to transfer funds
 ### Amount
 The amount of money.
 
-Amount:: {"type":"Number","options":{}}
+Amount:: {"type":"Number","options":{}} 
 
 
 ## Confidential Links & Embeds: 

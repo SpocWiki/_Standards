@@ -32,7 +32,7 @@ A short TV program or a segment/part of a TV program.
 #class/TVClip
 #class/Thing/CreativeWork/Clip/TVClip
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -47,7 +47,7 @@ Related actions:
 ### Borrower
 A sub property of participant. The person that borrows the object being lent.
 
-Borrower:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Person')"}}
+Borrower:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Person')"}} 
 
 
 ## Confidential Links & Embeds: 

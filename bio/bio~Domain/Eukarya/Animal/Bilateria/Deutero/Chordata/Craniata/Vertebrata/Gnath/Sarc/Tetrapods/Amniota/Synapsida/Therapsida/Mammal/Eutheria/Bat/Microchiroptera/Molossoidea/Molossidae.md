@@ -158,7 +158,7 @@ cytochrome B sequence data. Journal of Mammalogy 75:365-377.
   ----------
   scientific_name ::  Molossus molossus
   copyright ::         © 1998 Nancy Simmons
-  ----------
+  ---------- 
 
 
 ## Confidential Links & Embeds: 

@@ -394,7 +394,7 @@ Please note that "Triticale" is a hybrid of wheat (_Triticum_) and rye (_Secale_
 
 #### [[Cereal/Rice|Rice]] (Oryza sativa)
 
-#### Maize (_Zea mays_)
+#### Maize (_Zea mays_) 
 
 
 ## Confidential Links & Embeds: 

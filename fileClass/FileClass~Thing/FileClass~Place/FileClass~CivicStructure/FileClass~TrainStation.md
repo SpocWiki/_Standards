@@ -32,7 +32,7 @@ A train station.
 #class/TrainStation
 #class/Thing/Place/CivicStructure/TrainStation
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -15,7 +15,7 @@ async fn sqlx() {
         .bind("test")
         .fetch_all(&pool);
 }
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

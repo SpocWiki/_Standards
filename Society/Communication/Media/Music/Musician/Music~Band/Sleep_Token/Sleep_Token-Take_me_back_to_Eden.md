@@ -84,7 +84,7 @@ Come now, bite through these wires
 I'm a waking hell and the gods grow tired
 
 Reset my patient violence along both lines of a pathway higher
-Grow back your sharpest teeth, you know my desire
+Grow back your sharpest teeth, you know my desire 
 
 
 ## Confidential Links & Embeds: 

@@ -88,3 +88,21 @@ und damit auch potenzielle landwirtschaftliche Erträge zu planen.
 
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Agricultural_Revolution/Bodenwertzahl|Bodenwertzahl]] 
+
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Agricultural_Revolution/Bodenwertzahl.public|Bodenwertzahl.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Agricultural_Revolution/Bodenwertzahl.internal|Bodenwertzahl.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Agricultural_Revolution/Bodenwertzahl.protect|Bodenwertzahl.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Agricultural_Revolution/Bodenwertzahl.private|Bodenwertzahl.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Agricultural_Revolution/Bodenwertzahl.personal|Bodenwertzahl.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Agricultural_Revolution/Bodenwertzahl.secret|Bodenwertzahl.secret]] 

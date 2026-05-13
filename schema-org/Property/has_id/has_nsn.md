@@ -76,19 +76,20 @@ has_range = `=this.dv_has_range`
 
 has_parent_property = `=this.dv_has_parent_property` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_nsn|has_nsn]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_id/has_nsn|has_nsn]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_nsn.public|has_nsn.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_id/has_nsn.public|has_nsn.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_nsn.internal|has_nsn.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_id/has_nsn.internal|has_nsn.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_nsn.protect|has_nsn.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_id/has_nsn.protect|has_nsn.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_nsn.private|has_nsn.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_id/has_nsn.private|has_nsn.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_nsn.personal|has_nsn.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_id/has_nsn.personal|has_nsn.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_nsn.secret|has_nsn.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_id/has_nsn.secret|has_nsn.secret]] 
 

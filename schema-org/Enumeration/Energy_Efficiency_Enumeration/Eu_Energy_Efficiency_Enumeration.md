@@ -61,6 +61,7 @@ Enumerates the EU energy efficiency classes A-G as well as A+, A++, and A+++ as 
 
 has_parent_class = `=this.dv_has_parent_class` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration|Eu_Energy_Efficiency_Enumeration]] 

@@ -367,17 +367,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Kilogram|Unit~Kilogram]] 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Kilogram|Unit~Kilogram]] 
 
-### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Kilogram.public|Unit~Kilogram.public]] 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Kilogram.public|Unit~Kilogram.public]] 
 
-### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Kilogram.internal|Unit~Kilogram.internal]] 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Kilogram.internal|Unit~Kilogram.internal]] 
 
-### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Kilogram.protect|Unit~Kilogram.protect]] 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Kilogram.protect|Unit~Kilogram.protect]] 
 
-### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Kilogram.private|Unit~Kilogram.private]] 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Kilogram.private|Unit~Kilogram.private]] 
 
-### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Kilogram.personal|Unit~Kilogram.personal]] 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Kilogram.personal|Unit~Kilogram.personal]] 
 
-### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Kilogram.secret|Unit~Kilogram.secret]] 
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Kilogram.secret|Unit~Kilogram.secret]] 
 

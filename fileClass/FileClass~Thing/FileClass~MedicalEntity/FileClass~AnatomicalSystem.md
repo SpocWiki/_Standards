@@ -86,7 +86,7 @@ RelatedStructure:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cl
 ### RelatedTherapy
 A medical therapy related to this anatomy.
 
-RelatedTherapy:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy')"}}
+RelatedTherapy:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy')"}} 
 
 
 ## Confidential Links & Embeds: 

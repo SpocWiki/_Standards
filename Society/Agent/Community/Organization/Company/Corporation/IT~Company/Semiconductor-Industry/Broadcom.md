@@ -69,4 +69,22 @@ aliases:
 > to acquire [[VMware]] in a cash-and-stock transaction valued at $69 billion. 
 > The acquisition was closed on November 22, 2023.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Broadcom)
+> [Wikipedia](https://en.wikipedia.org/wiki/Broadcom) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Broadcom|Broadcom]] 
+
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Broadcom.public|Broadcom.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Broadcom.internal|Broadcom.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Broadcom.protect|Broadcom.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Broadcom.private|Broadcom.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Broadcom.personal|Broadcom.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Broadcom.secret|Broadcom.secret]] 
+

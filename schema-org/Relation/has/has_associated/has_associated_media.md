@@ -89,17 +89,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_associated_media|has_associated_media]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_associated/has_associated_media|has_associated_media]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_associated_media.public|has_associated_media.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_associated/has_associated_media.public|has_associated_media.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_associated_media.internal|has_associated_media.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_associated/has_associated_media.internal|has_associated_media.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_associated_media.protect|has_associated_media.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_associated/has_associated_media.protect|has_associated_media.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_associated_media.private|has_associated_media.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_associated/has_associated_media.private|has_associated_media.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_associated_media.personal|has_associated_media.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_associated/has_associated_media.personal|has_associated_media.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_associated_media.secret|has_associated_media.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_associated/has_associated_media.secret|has_associated_media.secret]] 
 

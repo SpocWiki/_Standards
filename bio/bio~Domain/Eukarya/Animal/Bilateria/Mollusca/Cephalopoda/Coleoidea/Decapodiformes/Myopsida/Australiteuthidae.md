@@ -128,7 +128,7 @@ pp.
   Type                 Holotype
   copyright ::            © [Chung Cheng Lu](mailto:cclu@dragon.nchu.edu.tw) 
  
-  -------------------------------------------------------------------------
+  ------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

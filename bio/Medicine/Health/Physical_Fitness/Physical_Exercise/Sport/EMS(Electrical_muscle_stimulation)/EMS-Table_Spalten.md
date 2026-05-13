@@ -93,6 +93,21 @@ Bei manchen Programmen gibt es keinen Duty Cycle. Hier werden deine Muskeln durc
 ![[EMS-Table_Spalten.svg]] 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport/EMS(Electrical_muscle_stimulation)/EMS-Table_Spalten|EMS-Table_Spalten]] 
+
+### #is_/same_as :: [[/_public/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport/EMS(Electrical_muscle_stimulation)/EMS-Table_Spalten.public|EMS-Table_Spalten.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport/EMS(Electrical_muscle_stimulation)/EMS-Table_Spalten.internal|EMS-Table_Spalten.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport/EMS(Electrical_muscle_stimulation)/EMS-Table_Spalten.protect|EMS-Table_Spalten.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport/EMS(Electrical_muscle_stimulation)/EMS-Table_Spalten.private|EMS-Table_Spalten.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport/EMS(Electrical_muscle_stimulation)/EMS-Table_Spalten.personal|EMS-Table_Spalten.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport/EMS(Electrical_muscle_stimulation)/EMS-Table_Spalten.secret|EMS-Table_Spalten.secret]] 
 %%
 # Drawing
 ```compressed-json

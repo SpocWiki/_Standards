@@ -106,7 +106,7 @@ Vertebrate Paleontology 16 (4): 653-665.
   specimen_condition ::  Fossil
   copyright ::            © 1996 [Michel Laurin](http://tolweb.org/tree/laurin/Laurin_Home_page.html) 
  
-  ---------------------------------------------------------------------------------
+  --------------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

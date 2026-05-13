@@ -171,7 +171,7 @@ location ::           Gumboot Creek, headwaters of South Fork Sacramento River, 
 Comments             California bog asphodel (Nartheciaceae).
 specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-copyright ::            © 1991 [Julie Kierstead Nelson](mailto:jknelson@fs.fed.us)
+copyright ::            © 1991 [Julie Kierstead Nelson](mailto:jknelson@fs.fed.us) 
 
 
 ## Confidential Links & Embeds: 

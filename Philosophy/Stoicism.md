@@ -295,7 +295,7 @@ Modern Stoicism was captured by the [[../Society/Ideology/Political_Ideology/Fas
 | Marcus Aurelius    |  121 |  180 | Rome    | _Meditations_, practical Stoicism for leadership    |
 | Cleanthes          | -330 | -230 | Assos   | _Hymn to Zeus_, divine reason                       |
 | Musonius Rufus     |   20 |  100 | Etruria | Practical ethics, influence on Epictetus            |
-| Hierocles          |  200 |  250 | Unknown | Cosmopolitanism, circles of concern                 |
+| Hierocles          |  200 |  250 | Unknown | Cosmopolitanism, circles of concern                 | 
 
 
 ## Confidential Links & Embeds: 

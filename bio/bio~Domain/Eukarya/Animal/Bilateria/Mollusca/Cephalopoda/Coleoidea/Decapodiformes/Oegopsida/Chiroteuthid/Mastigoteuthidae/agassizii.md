@@ -150,7 +150,7 @@ Academy of Sciences, 5: 259-446.
   specimen_condition ::  Live Specimen
   Identified By        M. Vecchione
   copyright ::            © 2004 David Shale
-  -----------------------------------------------
+  ----------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

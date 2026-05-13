@@ -63,19 +63,20 @@ has_parent_class = `=this.dv_has_parent_class`
 
 is_enum_of = `=this.dv_is_enum_of` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Permission_to_write|Permission to Write]] 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Digital_Document_Permission_Type/Permission_to_write|Permission_to_write]] 
 
-### #is_/same_as :: [[/_public/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.public|Write_Permission.public]] 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Digital_Document_Permission_Type/Permission_to_write.public|Permission_to_write.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.internal|Write_Permission.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Digital_Document_Permission_Type/Permission_to_write.internal|Permission_to_write.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.protect|Write_Permission.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Digital_Document_Permission_Type/Permission_to_write.protect|Permission_to_write.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.private|Write_Permission.private]] 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Digital_Document_Permission_Type/Permission_to_write.private|Permission_to_write.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.personal|Write_Permission.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Digital_Document_Permission_Type/Permission_to_write.personal|Permission_to_write.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.secret|Write_Permission.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Digital_Document_Permission_Type/Permission_to_write.secret|Permission_to_write.secret]] 
 

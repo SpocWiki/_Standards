@@ -53,7 +53,7 @@ maxZoom: 18
 geojsonFolder: ./Guadalcanal//
 markerFolder: ./Guadalcanal//
 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

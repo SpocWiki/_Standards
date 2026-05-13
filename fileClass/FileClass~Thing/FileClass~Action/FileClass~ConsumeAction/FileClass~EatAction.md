@@ -32,7 +32,7 @@ The act of swallowing solid objects.
 #class/EatAction
 #class/Thing/Action/ConsumeAction/EatAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

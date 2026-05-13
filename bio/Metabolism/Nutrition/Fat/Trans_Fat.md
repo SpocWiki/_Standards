@@ -165,3 +165,20 @@ dv_has_:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Trans%20fat) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Fat/Trans_Fat|Trans_Fat]] 
+
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Fat/Trans_Fat.public|Trans_Fat.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Fat/Trans_Fat.internal|Trans_Fat.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Fat/Trans_Fat.protect|Trans_Fat.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Fat/Trans_Fat.private|Trans_Fat.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Fat/Trans_Fat.personal|Trans_Fat.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Fat/Trans_Fat.secret|Trans_Fat.secret]] 
+

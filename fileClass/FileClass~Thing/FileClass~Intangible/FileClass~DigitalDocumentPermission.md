@@ -48,7 +48,7 @@ Grantee:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing
 ### PermissionType
 The type of permission granted the person, organization, or audience.
 
-PermissionType:: {"type":"Select","options":{"valuesList":{"CommentPermission","ReadPermission","WritePermission"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
+PermissionType:: {"type":"Select","options":{"valuesList":{"CommentPermission","ReadPermission","WritePermission"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}} 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,8 @@ Unlike cross-sectional studies, longitudinal studies track the same people, and 
 
 #has_/parent_class :: [[../MedicalObservationalStudyDesign|MedicalObservationalStudyDesign]]  
 
-#is_/enum_of :: [[../MedicalObservationalStudyDesign|MedicalObservationalStudyDesign]]  
+#is_/enum_of :: [[../MedicalObservationalStudyDesign|MedicalObservationalStudyDesign]] 
+
 
 ## Confidential Links & Embeds: 
 

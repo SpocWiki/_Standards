@@ -79,17 +79,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_intake_maximum|has_intake_maximum]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_intake/has_intake_maximum|has_intake_maximum]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_intake_maximum.public|has_intake_maximum.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_intake/has_intake_maximum.public|has_intake_maximum.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_intake_maximum.internal|has_intake_maximum.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_intake/has_intake_maximum.internal|has_intake_maximum.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_intake_maximum.protect|has_intake_maximum.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_intake/has_intake_maximum.protect|has_intake_maximum.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_intake_maximum.private|has_intake_maximum.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_intake/has_intake_maximum.private|has_intake_maximum.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_intake_maximum.personal|has_intake_maximum.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_intake/has_intake_maximum.personal|has_intake_maximum.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_intake_maximum.secret|has_intake_maximum.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_intake/has_intake_maximum.secret|has_intake_maximum.secret]] 
 

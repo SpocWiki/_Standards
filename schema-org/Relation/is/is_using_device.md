@@ -63,7 +63,7 @@ has_name = `=this.dv_has_name`
 has_range = `=this.dv_has_range` 
 
 #is_a_/use_action 
-( [[has_parent_relation]] :: [use_action](../../../Class/is_a_/action/consume_action/use_action) )
+( [[has_parent_relation]] :: [use_action](../../../Class/is_a_/action/consume_action/use_action) ) 
 
 
 ## Confidential Links & Embeds: 

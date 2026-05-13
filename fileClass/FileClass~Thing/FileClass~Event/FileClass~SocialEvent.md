@@ -32,7 +32,7 @@ Event type: Social event.
 #class/SocialEvent
 #class/Thing/Event/SocialEvent
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

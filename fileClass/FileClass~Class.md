@@ -37,7 +37,7 @@ version: 2.0
 
 ### Subclass Relation: 
 ![[../schema-org/Class/is_sub-class_of|subclassOf]] 
-has_parent_class::  {"type":"File","options":{"dvQueryString":"dv.pages('#class/Class')"}}
+has_parent_class::  {"type":"File","options":{"dvQueryString":"dv.pages('#class/Class')"}} 
 
 
 ## Confidential Links & Embeds: 

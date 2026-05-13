@@ -211,17 +211,17 @@ has_formula_structural = `=this.dv_has_formula_structural`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Ketone|Ketone]] 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Functional_Group/Ketone|Ketone]] 
 
-### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Ketone.public|Ketone.public]] 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Functional_Group/Ketone.public|Ketone.public]] 
 
-### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Ketone.internal|Ketone.internal]] 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Functional_Group/Ketone.internal|Ketone.internal]] 
 
-### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Ketone.protect|Ketone.protect]] 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Functional_Group/Ketone.protect|Ketone.protect]] 
 
-### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Ketone.private|Ketone.private]] 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Functional_Group/Ketone.private|Ketone.private]] 
 
-### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Ketone.personal|Ketone.personal]] 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Functional_Group/Ketone.personal|Ketone.personal]] 
 
-### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Ketone.secret|Ketone.secret]] 
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Functional_Group/Ketone.secret|Ketone.secret]] 
 

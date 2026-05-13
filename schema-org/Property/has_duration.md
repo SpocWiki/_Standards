@@ -138,7 +138,7 @@ has_child_property = `=this.dv_has_child_property`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_duration|has_duration]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_duration|has_duration]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Property/has_duration.public|has_duration.public]] 
 
@@ -151,8 +151,6 @@ has_child_property = `=this.dv_has_child_property`
 ### #is_/same_as :: [[/_personal/schema-org/Property/has_duration.personal|has_duration.personal]] 
 
 ### #is_/same_as :: [[/_secret/schema-org/Property/has_duration.secret|has_duration.secret]] 
-
-
 ![[has_duration.svg]]
 
  

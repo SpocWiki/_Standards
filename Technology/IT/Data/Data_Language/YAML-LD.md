@@ -25,7 +25,7 @@ YAML is a very elaborate Standard and therefore harder to implement.
 | \#Comments    | ❌                                                                                                                                                          | [✅](https://yaml.org/spec/1.2.2/#3233-comments)                                                                                               |
 | \*Anchors     | ❌                                                                                                                                                          | [✅](https://yaml.org/spec/1.2.2/#3222-anchors-and-aliases)                                                                                    |
 | \&aliases     | ❌                                                                                                                                                          | [✅](https://yaml.org/spec/1.2.2/#3222-anchors-and-aliases)                                                                                    |
-| Map-keys      | `string`                                                                                                                                                   | [Any type representable in YAML](https://yaml.org/spec/1.2.2/#3211-nodes), from strings to mappings                                           |
+| Map-keys      | `string`                                                                                                                                                   | [Any type representable in YAML](https://yaml.org/spec/1.2.2/#3211-nodes), from strings to mappings                                           | 
 
 
 ## Confidential Links & Embeds: 

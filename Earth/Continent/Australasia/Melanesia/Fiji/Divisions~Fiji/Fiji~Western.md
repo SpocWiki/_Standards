@@ -52,7 +52,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Fiji~Western/
 markerFolder: ./Fiji~Western/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

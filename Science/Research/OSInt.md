@@ -112,3 +112,20 @@ aliases:
 
 [[2014-Shooting_of_Flight_MH17]] by [[Bellingcat]] 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Science/Research/OSInt|OSInt]] 
+
+### #is_/same_as :: [[/_public/Science/Research/OSInt.public|OSInt.public]] 
+
+### #is_/same_as :: [[/_internal/Science/Research/OSInt.internal|OSInt.internal]] 
+
+### #is_/same_as :: [[/_protect/Science/Research/OSInt.protect|OSInt.protect]] 
+
+### #is_/same_as :: [[/_private/Science/Research/OSInt.private|OSInt.private]] 
+
+### #is_/same_as :: [[/_personal/Science/Research/OSInt.personal|OSInt.personal]] 
+
+### #is_/same_as :: [[/_secret/Science/Research/OSInt.secret|OSInt.secret]] 
+

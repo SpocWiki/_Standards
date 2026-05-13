@@ -80,17 +80,17 @@ range = `=this.dv_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_duration_total|has_duration_total]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_duration/has_duration_total|has_duration_total]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_duration_of/has_duration_total.public|has_duration_total.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_duration/has_duration_total.public|has_duration_total.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_duration_of/has_duration_total.internal|has_duration_total.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_duration/has_duration_total.internal|has_duration_total.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_duration_of/has_duration_total.protect|has_duration_total.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_duration/has_duration_total.protect|has_duration_total.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_duration_of/has_duration_total.private|has_duration_total.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_duration/has_duration_total.private|has_duration_total.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_duration_of/has_duration_total.personal|has_duration_total.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_duration/has_duration_total.personal|has_duration_total.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_duration_of/has_duration_total.secret|has_duration_total.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_duration/has_duration_total.secret|has_duration_total.secret]] 
 

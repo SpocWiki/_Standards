@@ -87,17 +87,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/is_affiliated_with|is_affiliated_with]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_affiliation_with|has_affiliation_with]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/is_affiliated_with.public|is_affiliated_with.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_affiliation_with.public|has_affiliation_with.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/is_affiliated_with.internal|is_affiliated_with.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_affiliation_with.internal|has_affiliation_with.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/is_affiliated_with.protect|is_affiliated_with.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_affiliation_with.protect|has_affiliation_with.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/is_affiliated_with.private|is_affiliated_with.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_affiliation_with.private|has_affiliation_with.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/is_affiliated_with.personal|is_affiliated_with.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_affiliation_with.personal|has_affiliation_with.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/is_affiliated_with.secret|is_affiliated_with.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_affiliation_with.secret|has_affiliation_with.secret]] 
 

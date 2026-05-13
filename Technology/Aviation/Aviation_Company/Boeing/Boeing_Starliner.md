@@ -126,3 +126,21 @@ dv_has_:
 
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Technology/Aviation/Aviation_Company/Boeing/Boeing_Starliner|Boeing_Starliner]] 
+
+### #is_/same_as :: [[/_public/Technology/Aviation/Aviation_Company/Boeing/Boeing_Starliner.public|Boeing_Starliner.public]] 
+
+### #is_/same_as :: [[/_internal/Technology/Aviation/Aviation_Company/Boeing/Boeing_Starliner.internal|Boeing_Starliner.internal]] 
+
+### #is_/same_as :: [[/_protect/Technology/Aviation/Aviation_Company/Boeing/Boeing_Starliner.protect|Boeing_Starliner.protect]] 
+
+### #is_/same_as :: [[/_private/Technology/Aviation/Aviation_Company/Boeing/Boeing_Starliner.private|Boeing_Starliner.private]] 
+
+### #is_/same_as :: [[/_personal/Technology/Aviation/Aviation_Company/Boeing/Boeing_Starliner.personal|Boeing_Starliner.personal]] 
+
+### #is_/same_as :: [[/_secret/Technology/Aviation/Aviation_Company/Boeing/Boeing_Starliner.secret|Boeing_Starliner.secret]] 

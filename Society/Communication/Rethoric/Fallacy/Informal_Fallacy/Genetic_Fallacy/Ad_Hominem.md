@@ -132,3 +132,21 @@ except for maybe mocking or saying 'bla, bla, bla'.
 > [Wikipedia](https://en.wikipedia.org/wiki/Ad%20hominem) 
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Genetic_Fallacy/Ad_Hominem|Ad_Hominem]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Genetic_Fallacy/Ad_Hominem.public|Ad_Hominem.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Genetic_Fallacy/Ad_Hominem.internal|Ad_Hominem.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Genetic_Fallacy/Ad_Hominem.protect|Ad_Hominem.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Genetic_Fallacy/Ad_Hominem.private|Ad_Hominem.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Genetic_Fallacy/Ad_Hominem.personal|Ad_Hominem.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Genetic_Fallacy/Ad_Hominem.secret|Ad_Hominem.secret]] 

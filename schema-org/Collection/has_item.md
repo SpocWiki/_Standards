@@ -76,7 +76,7 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_item|has_item]] 
+### #is_/same_as :: [[/_Standards/schema-org/Collection/has_item|has_item]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Collection/has_item.public|has_item.public]] 
 

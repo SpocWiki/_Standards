@@ -54,7 +54,7 @@ Diagnosis:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thi
 ### DistinguishingSign
 One of a set of signs and symptoms that can be used to distinguish this diagnosis from others in the differential diagnosis.
 
-DistinguishingSign:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom')"}}
+DistinguishingSign:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom')"}} 
 
 
 ## Confidential Links & Embeds: 

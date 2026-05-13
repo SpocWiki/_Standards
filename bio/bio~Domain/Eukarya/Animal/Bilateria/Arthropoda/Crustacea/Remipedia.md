@@ -123,7 +123,7 @@ dv_has_:
 ## Title Illustrations
 
 Speleonectes ondinae (Speleonectidae).\
-Drawing by Josée Soucie. Copyright © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm).![Speleonectes_ondinae](Remipedia/Speleonectes_ondinae.gif))
+Drawing by Josée Soucie. Copyright © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm).![Speleonectes_ondinae](Remipedia/Speleonectes_ondinae.gif)) 
 
 
 ## Confidential Links & Embeds: 

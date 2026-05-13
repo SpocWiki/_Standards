@@ -32,7 +32,7 @@ A spreadsheet file.
 #class/SpreadsheetDigitalDocument
 #class/Thing/CreativeWork/DigitalDocument/SpreadsheetDigitalDocument
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

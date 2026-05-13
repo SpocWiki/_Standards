@@ -34,7 +34,7 @@ to be occupied for habitation by humans or other creatures
 #class/House
 #class/Thing/Place/Accommodation/House
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

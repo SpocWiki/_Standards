@@ -32,7 +32,7 @@ A unique instance of a television BroadcastService on a CableOrSatelliteService 
 #class/TelevisionChannel
 #class/Thing/Intangible/BroadcastChannel/TelevisionChannel
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -13,3 +13,21 @@ In simple syllogistic patterns, the fallacies of invalid patterns are:
 - [Exclusive premises](https://en.wikipedia.org/wiki/Fallacy_of_exclusive_premises "Fallacy of exclusive premises"): Both premises are negative, meaning no link is established between the major and minor terms.
 - [Affirmative conclusion from a negative premise](https://en.wikipedia.org/wiki/Affirmative_conclusion_from_a_negative_premise "Affirmative conclusion from a negative premise"): If either premise is negative, the conclusion must also be.
 - [Negative conclusion from affirmative premises](https://en.wikipedia.org/wiki/Negative_conclusion_from_affirmative_premises "Negative conclusion from affirmative premises"): If both premises are affirmative, the conclusion must also be.
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Rethoric/Fallacy/Formal_Fallacy/Syllogistic_Fallacy|Syllogistic_Fallacy]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Rethoric/Fallacy/Formal_Fallacy/Syllogistic_Fallacy.public|Syllogistic_Fallacy.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Rethoric/Fallacy/Formal_Fallacy/Syllogistic_Fallacy.internal|Syllogistic_Fallacy.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Rethoric/Fallacy/Formal_Fallacy/Syllogistic_Fallacy.protect|Syllogistic_Fallacy.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Rethoric/Fallacy/Formal_Fallacy/Syllogistic_Fallacy.private|Syllogistic_Fallacy.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy/Formal_Fallacy/Syllogistic_Fallacy.personal|Syllogistic_Fallacy.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy/Formal_Fallacy/Syllogistic_Fallacy.secret|Syllogistic_Fallacy.secret]] 

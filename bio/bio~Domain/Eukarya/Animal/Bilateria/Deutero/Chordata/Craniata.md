@@ -445,7 +445,7 @@ monophyly. Zoological Journal of the Linnean Society, 84, 291-300.
   Acknowledgements   The Digital Human Osteology Guide
   Body Part          skull
   copyright ::          © 1997 John Kappelman
-  ---------------
+  --------------- 
 
 
 ## Confidential Links & Embeds: 

@@ -37,7 +37,8 @@ A system of medicine based on common theoretical concepts that originated in Chi
 
 #has_/parent_class :: [[../MedicineSystem|MedicineSystem]]  
 
-#is_/enum_of :: [[../MedicineSystem|MedicineSystem]]  
+#is_/enum_of :: [[../MedicineSystem|MedicineSystem]] 
+
 
 ## Confidential Links & Embeds: 
 

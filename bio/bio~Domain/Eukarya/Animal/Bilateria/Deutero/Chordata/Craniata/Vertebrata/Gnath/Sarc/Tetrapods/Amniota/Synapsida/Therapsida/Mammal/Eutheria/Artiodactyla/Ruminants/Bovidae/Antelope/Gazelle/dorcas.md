@@ -156,7 +156,7 @@ dv_has_:
 ![](Lydekkers_Dorcas_Gazelle.jpg)
 scientific_name ::  Gazella dorcas
 Reference         Richard Lydekker. 1894. The Royal Natural History.
-Creator           W. Kuhnert
+Creator           W. Kuhnert 
 
 
 ## Confidential Links & Embeds: 

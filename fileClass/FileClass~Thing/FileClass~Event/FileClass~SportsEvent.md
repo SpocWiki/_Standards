@@ -75,7 +75,7 @@ HomeTeam:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thin
 ### Sport
 A type of sport (e.g. Baseball).
 
-Sport:: {"type":"Input","options":{}}
+Sport:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

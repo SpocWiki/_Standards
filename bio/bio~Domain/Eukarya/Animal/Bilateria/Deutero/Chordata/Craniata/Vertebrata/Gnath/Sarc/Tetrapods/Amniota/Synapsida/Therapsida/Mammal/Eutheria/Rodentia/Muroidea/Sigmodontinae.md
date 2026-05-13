@@ -261,7 +261,7 @@ restricted to South America or the southern portion of Central America.
 ----------
 ![](Sigmodontinae/Irenomys_tarsalis/Irenomys1.jpg)
 scientific_name ::  Irenomys tarsalis
-copyright ::         © 1997 P. L. Meserve
+copyright ::         © 1997 P. L. Meserve 
 
 
 ## Confidential Links & Embeds: 

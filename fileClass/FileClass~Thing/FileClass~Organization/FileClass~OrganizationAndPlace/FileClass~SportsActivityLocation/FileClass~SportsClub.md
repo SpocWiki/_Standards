@@ -32,7 +32,7 @@ A sports club.
 #class/SportsClub
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/SportsClub
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

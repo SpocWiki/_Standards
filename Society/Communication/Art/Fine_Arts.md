@@ -16,7 +16,7 @@ Fine Arts refers specifically to disciplines that are pursued primarily for thei
 - music, 
 - dance, 
 - theater, and 
-- poetry
+- poetry 
 
 
 ## Confidential Links & Embeds: 

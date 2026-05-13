@@ -78,6 +78,7 @@ has_range = `=this.dv_has_range`
 
 #has_/inverse  :: [[../has/is_offered_by|is_offered_by]] 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_making_offer|is_making_offer]] 

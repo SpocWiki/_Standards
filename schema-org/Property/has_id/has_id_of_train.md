@@ -74,17 +74,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_id_of_train|has_id_of_train]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_id/has_id_of_train|has_id_of_train]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_id_of_train.public|has_id_of_train.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_id/has_id_of_train.public|has_id_of_train.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_id_of_train.internal|has_id_of_train.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_id/has_id_of_train.internal|has_id_of_train.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_id_of_train.protect|has_id_of_train.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_id/has_id_of_train.protect|has_id_of_train.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_id_of_train.private|has_id_of_train.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_id/has_id_of_train.private|has_id_of_train.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_id_of_train.personal|has_id_of_train.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_id/has_id_of_train.personal|has_id_of_train.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_id_of_train.secret|has_id_of_train.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_id/has_id_of_train.secret|has_id_of_train.secret]] 
 

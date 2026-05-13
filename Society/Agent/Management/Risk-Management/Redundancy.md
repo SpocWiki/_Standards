@@ -36,3 +36,21 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Redundancy%20(engineering)) 
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Agent/Management/Risk-Management/Redundancy|Redundancy]] 
+
+### #is_/same_as :: [[/_public/Society/Agent/Management/Risk-Management/Redundancy.public|Redundancy.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Agent/Management/Risk-Management/Redundancy.internal|Redundancy.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Agent/Management/Risk-Management/Redundancy.protect|Redundancy.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Agent/Management/Risk-Management/Redundancy.private|Redundancy.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Agent/Management/Risk-Management/Redundancy.personal|Redundancy.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Agent/Management/Risk-Management/Redundancy.secret|Redundancy.secret]] 

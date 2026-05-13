@@ -235,7 +235,7 @@ The onset of the Anthropocene epoch is still debated. Proposed starting points i
 - Neolithic Revolution (12,000–15,000 years ago): 
 - the [[Epoch-000_012~Holocene|Holocene Calendar]] or  Human Era as proposed by Cesare Emiliani 
 - **[[Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution|Industrial Revolution]] (~1750 CE)**: Marking the significant rise in coal use and greenhouse gas emissions.
-- **The Great Acceleration (~1950 CE)**: Highlighting the exponential growth in population, industrialization, and environmental impacts.
+- **The Great Acceleration (~1950 CE)**: Highlighting the exponential growth in population, industrialization, and environmental impacts. 
 
 
 ## Confidential Links & Embeds: 

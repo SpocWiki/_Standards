@@ -49,7 +49,7 @@ Class of all TRUEs.
 Tag Instances like this: 
 #is_a_/TRUE
 
-The boolean value true.
+The boolean value true. 
 
 
 ## Confidential Links & Embeds: 

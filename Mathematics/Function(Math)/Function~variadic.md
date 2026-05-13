@@ -65,7 +65,7 @@ aliases:
 | fmt.Printf        | Go         |   1 | variadic slice          | formatted output     |
 | println!          | Rust       |   1 | macro token pack        | formatted output     |
 | print             | Swift      |   0 | variadic parameters     | output               |
-| println           | Kotlin     |   1 | vararg                  | output               |
+| println           | Kotlin     |   1 | vararg                  | output               | 
 
 
 ## Confidential Links & Embeds: 

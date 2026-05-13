@@ -92,7 +92,7 @@ PostalCode:: {"type":"Input","options":{}}
 ### StreetAddress
 The street address. For example, 1600 Amphitheatre Pkwy.
 
-StreetAddress:: {"type":"Input","options":{}}
+StreetAddress:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

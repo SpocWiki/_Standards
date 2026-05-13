@@ -36,7 +36,8 @@ A case series (also known as a clinical series) is a medical research study that
 
 #has_/parent_class :: [[../MedicalObservationalStudyDesign|MedicalObservationalStudyDesign]]  
 
-#is_/enum_of :: [[../MedicalObservationalStudyDesign|MedicalObservationalStudyDesign]]  
+#is_/enum_of :: [[../MedicalObservationalStudyDesign|MedicalObservationalStudyDesign]] 
+
 
 ## Confidential Links & Embeds: 
 

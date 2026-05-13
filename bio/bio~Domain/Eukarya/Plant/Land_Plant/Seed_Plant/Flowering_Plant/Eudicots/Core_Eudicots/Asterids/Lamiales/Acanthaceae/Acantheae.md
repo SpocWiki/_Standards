@@ -244,7 +244,7 @@ location ::           Greenhouses, Kew Botanical Garden, Richmond England
 specimen_condition ::  Live Specimen
 Identified By        K. Vollesen
 copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
----------------------------------------------------------------------------
+--------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

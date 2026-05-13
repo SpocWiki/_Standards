@@ -237,7 +237,7 @@ H-O-S-O-H
 > [Wikipedia](https://en.wikipedia.org/wiki/Ammonium%20sulfate) 
 
 
-Both the S and the N Atoms have sp³ hybrid Orbitals to share the Hydrogen Atoms.
+Both the S and the N Atoms have sp³ hybrid Orbitals to share the Hydrogen Atoms. 
 
 
 ## Confidential Links & Embeds: 

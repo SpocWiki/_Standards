@@ -68,7 +68,7 @@ Funder:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/
 ### Sponsor
 A person or organization that supports a thing through a pledge, promise, or financial contribution. E.g. a sponsor of a Medical Study or a corporate sponsor of an event.
 
-Sponsor:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
+Sponsor:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}} 
 
 
 ## Confidential Links & Embeds: 

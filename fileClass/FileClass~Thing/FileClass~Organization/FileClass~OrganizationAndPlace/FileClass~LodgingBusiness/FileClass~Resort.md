@@ -38,7 +38,7 @@ for marking up hotels and other forms of accommodations</a>.
 #class/Resort
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Resort
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -211,17 +211,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Guerrilla_Warfare|Guerrilla_Warfare]] 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/War/Guerrilla_Warfare|Guerrilla_Warfare]] 
 
-### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/War/Guerrilla_Warfare.public|Guerrilla_Warfare.public]] 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/War/Guerrilla_Warfare.public|Guerrilla_Warfare.public]] 
 
-### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/War/Guerrilla_Warfare.internal|Guerrilla_Warfare.internal]] 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/War/Guerrilla_Warfare.internal|Guerrilla_Warfare.internal]] 
 
-### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/War/Guerrilla_Warfare.protect|Guerrilla_Warfare.protect]] 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/War/Guerrilla_Warfare.protect|Guerrilla_Warfare.protect]] 
 
-### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/War/Guerrilla_Warfare.private|Guerrilla_Warfare.private]] 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/War/Guerrilla_Warfare.private|Guerrilla_Warfare.private]] 
 
-### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/War/Guerrilla_Warfare.personal|Guerrilla_Warfare.personal]] 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/War/Guerrilla_Warfare.personal|Guerrilla_Warfare.personal]] 
 
-### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/War/Guerrilla_Warfare.secret|Guerrilla_Warfare.secret]] 
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/War/Guerrilla_Warfare.secret|Guerrilla_Warfare.secret]] 
 

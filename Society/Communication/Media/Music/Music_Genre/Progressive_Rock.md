@@ -281,7 +281,7 @@ Ausprägung des [Rock](g:3) in Richtung [Avantgarde](g:115), zu dessen Pionieren
 | Heaven and Hell, Pt. I                                                                                                                               | Vangelis, Jon Anderson                                                | Heaven & Hell                                                       | 1975-01-01 | 22:05 |     |
 | Pariah (feat. Ninet Tayeb)                                                                                                                           |[[Progressive_Rock/Wilson,Steven|Wilson,Steven]]]                        | To the Bone                                                         | 2017-05-09 | 4:46  |     |
 | The Raven That Refused to Sing                                                                                                                       |[[Progressive_Rock/Wilson,Steven|Wilson,Steven]]]                        | The Raven That Refused to Sing (and Other Stories) [Deluxe Edition] | 2008-01-01 | 7:57  |     |
-| Yours Is No Disgrace                                                                                                                                 |[[Progressive_Rock/Yes(Band)\|Yes(Band)]]]                 | The Yes Album (Deluxe Edition)                                      | 1971-02-19 | 9:40  |     |
+| Yours Is No Disgrace                                                                                                                                 |[[Progressive_Rock/Yes(Band)\|Yes(Band)]]]                 | The Yes Album (Deluxe Edition)                                      | 1971-02-19 | 9:40  |     | 
 
 
 ## Confidential Links & Embeds: 

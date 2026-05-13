@@ -72,17 +72,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_code_access|has_code_access]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_id/has_code_access|has_code_access]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_code_access.public|has_code_access.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_id/has_code_access.public|has_code_access.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_code_access.internal|has_code_access.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_id/has_code_access.internal|has_code_access.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_code_access.protect|has_code_access.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_id/has_code_access.protect|has_code_access.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_code_access.private|has_code_access.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_id/has_code_access.private|has_code_access.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_code_access.personal|has_code_access.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_id/has_code_access.personal|has_code_access.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_code_access.secret|has_code_access.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_id/has_code_access.secret|has_code_access.secret]] 
 

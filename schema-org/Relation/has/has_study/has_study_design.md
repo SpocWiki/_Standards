@@ -78,17 +78,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_study_design|has_study_design]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_study/has_study_design|has_study_design]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_study_design.public|has_study_design.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_study/has_study_design.public|has_study_design.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_study_design.internal|has_study_design.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_study/has_study_design.internal|has_study_design.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_study_design.protect|has_study_design.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_study/has_study_design.protect|has_study_design.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_study_design.private|has_study_design.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_study/has_study_design.private|has_study_design.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_study_design.personal|has_study_design.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_study/has_study_design.personal|has_study_design.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_study_design.secret|has_study_design.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_study/has_study_design.secret|has_study_design.secret]] 
 

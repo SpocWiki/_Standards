@@ -32,7 +32,7 @@ A florist.
 #class/Florist
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/Florist
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

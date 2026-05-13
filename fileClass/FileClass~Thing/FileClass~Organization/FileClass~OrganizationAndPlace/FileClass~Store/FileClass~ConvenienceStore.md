@@ -32,7 +32,7 @@ A convenience store.
 #class/ConvenienceStore
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ConvenienceStore
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

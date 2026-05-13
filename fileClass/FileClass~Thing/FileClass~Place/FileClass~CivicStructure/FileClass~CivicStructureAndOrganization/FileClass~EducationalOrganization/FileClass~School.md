@@ -32,7 +32,7 @@ A school.
 #class/School
 #class/Thing/Place/CivicStructure/CivicStructureAndOrganization/EducationalOrganization/School
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

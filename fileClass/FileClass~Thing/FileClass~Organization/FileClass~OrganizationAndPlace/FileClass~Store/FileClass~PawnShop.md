@@ -32,7 +32,7 @@ A shop that will buy, or lend money against the security of, personal possession
 #class/PawnShop
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/PawnShop
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

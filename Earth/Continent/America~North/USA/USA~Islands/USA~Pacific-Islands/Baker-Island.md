@@ -58,7 +58,7 @@ geojsonFolder: ./Baker-Island/
 markerFolder: ./Baker-Island/
 coordinates: [[Baker-Island]] 
 markerFile: [[Baker-Island]] 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

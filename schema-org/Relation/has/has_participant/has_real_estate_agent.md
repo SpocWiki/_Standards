@@ -81,19 +81,20 @@ has_range = `=this.dv_has_range`
 
 has_parent_property = `=this.dv_has_parent_property` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_real_estate_agent|has_real_estate_agent]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_participant/has_real_estate_agent|has_real_estate_agent]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_participants/has_real_estate_agent.public|has_real_estate_agent.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_participant/has_real_estate_agent.public|has_real_estate_agent.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_participants/has_real_estate_agent.internal|has_real_estate_agent.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_participant/has_real_estate_agent.internal|has_real_estate_agent.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_participants/has_real_estate_agent.protect|has_real_estate_agent.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_participant/has_real_estate_agent.protect|has_real_estate_agent.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_participants/has_real_estate_agent.private|has_real_estate_agent.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_participant/has_real_estate_agent.private|has_real_estate_agent.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_participants/has_real_estate_agent.personal|has_real_estate_agent.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_participant/has_real_estate_agent.personal|has_real_estate_agent.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_participants/has_real_estate_agent.secret|has_real_estate_agent.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_participant/has_real_estate_agent.secret|has_real_estate_agent.secret]] 
 

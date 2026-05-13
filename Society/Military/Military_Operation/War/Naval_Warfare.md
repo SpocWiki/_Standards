@@ -142,17 +142,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Naval_Warfare|Naval_Warfare]] 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/War/Naval_Warfare|Naval_Warfare]] 
 
-### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/War/Naval_Warfare.public|Naval_Warfare.public]] 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/War/Naval_Warfare.public|Naval_Warfare.public]] 
 
-### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/War/Naval_Warfare.internal|Naval_Warfare.internal]] 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/War/Naval_Warfare.internal|Naval_Warfare.internal]] 
 
-### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/War/Naval_Warfare.protect|Naval_Warfare.protect]] 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/War/Naval_Warfare.protect|Naval_Warfare.protect]] 
 
-### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/War/Naval_Warfare.private|Naval_Warfare.private]] 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/War/Naval_Warfare.private|Naval_Warfare.private]] 
 
-### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/War/Naval_Warfare.personal|Naval_Warfare.personal]] 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/War/Naval_Warfare.personal|Naval_Warfare.personal]] 
 
-### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/War/Naval_Warfare.secret|Naval_Warfare.secret]] 
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/War/Naval_Warfare.secret|Naval_Warfare.secret]] 
 

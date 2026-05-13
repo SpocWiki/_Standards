@@ -205,7 +205,7 @@ scientific_name ::     Cryptobranchus alleghaniensis
 location ::           Missouri
 Comments             The hellbender
 specimen_condition ::  Live Specimen
-copyright ::            © 1996 Dr. Eric J. Routman
+copyright ::            © 1996 Dr. Eric J. Routman 
 
 
 ## Confidential Links & Embeds: 

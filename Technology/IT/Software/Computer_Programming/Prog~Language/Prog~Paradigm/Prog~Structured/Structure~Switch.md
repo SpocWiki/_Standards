@@ -39,7 +39,7 @@ Vice versa, also Switch Statements can be constructed by nesting [[IF-Statements
 
 ## [[Structogram#switch-case-Structure]]: 
 
-![[Structogram#switch-case-Structure]]
+![[Structogram#switch-case-Structure]] 
 
 
 ## Confidential Links & Embeds: 

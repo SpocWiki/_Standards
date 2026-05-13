@@ -369,8 +369,7 @@ So **if** the mass came purely from field energy, shrinking R would make U(R) ex
 The paradox vanishes once you adopt modern quantum field theory:
  
  The **electron mass** is not field energy, but set by its **Higgs Yukawa coupling**, 
- with QED renormalization handling divergent self-energies.
-    
+ with QED renormalization handling divergent self-energies. 
 
 
 ## Confidential Links & Embeds: 

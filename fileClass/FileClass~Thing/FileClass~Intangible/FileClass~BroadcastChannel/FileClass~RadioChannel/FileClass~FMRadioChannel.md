@@ -32,7 +32,7 @@ A radio channel that uses FM.
 #class/FMRadioChannel
 #class/Thing/Intangible/BroadcastChannel/RadioChannel/FMRadioChannel
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

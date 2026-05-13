@@ -103,19 +103,20 @@ Relation describes that:
 has_name = `=this.dv_has_name` 
 has_range :: [[../../../../Society/Communication/Media/Creative_Work/Web_Content/Web_Page/About_Page|About_Page]], [[../../../../Society/Communication/Media/Creative_Work|Creative_Work]], [[../../../Class/is_a_/Data_Type/Text|Text]], [[../../../Class/is_a_/Data_Type/Text/Url|Url]] 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_ownership_funding_info|has_ownership_funding_info]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_publishing_principle/has_ownership_funding_info|has_ownership_funding_info]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_ownership_funding_info.public|has_ownership_funding_info.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_publishing_principle/has_ownership_funding_info.public|has_ownership_funding_info.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_ownership_funding_info.internal|has_ownership_funding_info.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_publishing_principle/has_ownership_funding_info.internal|has_ownership_funding_info.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_ownership_funding_info.protect|has_ownership_funding_info.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_publishing_principle/has_ownership_funding_info.protect|has_ownership_funding_info.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_ownership_funding_info.private|has_ownership_funding_info.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_publishing_principle/has_ownership_funding_info.private|has_ownership_funding_info.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_ownership_funding_info.personal|has_ownership_funding_info.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_publishing_principle/has_ownership_funding_info.personal|has_ownership_funding_info.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_ownership_funding_info.secret|has_ownership_funding_info.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_publishing_principle/has_ownership_funding_info.secret|has_ownership_funding_info.secret]] 
 

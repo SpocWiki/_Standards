@@ -117,7 +117,7 @@ Vertebrate Paleontology 29 pages, 6 figures.
   View                 ventral
   copyright ::            © 1996 [Michel Laurin](http://tolweb.org/tree/laurin/Laurin_Home_page.html) 
  
-  ---------------------------------------------------------------------------------
+  --------------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

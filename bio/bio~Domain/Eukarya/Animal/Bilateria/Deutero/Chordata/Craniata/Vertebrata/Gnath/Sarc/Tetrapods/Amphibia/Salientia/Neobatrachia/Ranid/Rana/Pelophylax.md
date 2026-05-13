@@ -171,7 +171,7 @@ A group of water-bound frogs inhabiting Eurasia.
 ---------
 Group of calling males of *Rana lessonae* (Western Palearctic water frogs)\
 Photograph copyright © 1995, Thomas Uzzell.
-![](Pelophylax/Western_Water_Frogs/lessonae_group.jpg)
+![](Pelophylax/Western_Water_Frogs/lessonae_group.jpg) 
 
 
 ## Confidential Links & Embeds: 

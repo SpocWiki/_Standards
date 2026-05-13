@@ -31,7 +31,7 @@ Programming relies very much on proper Modelling and Typing of the Domain.
 
 ```ccard
 type: folder_brief_live
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

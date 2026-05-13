@@ -32,7 +32,7 @@ A syllabus that describes the material covered in a course, often with several s
 #class/Syllabus
 #class/Thing/CreativeWork/LearningResource/Syllabus
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

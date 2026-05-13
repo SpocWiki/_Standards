@@ -102,7 +102,7 @@ dv_has_:
 
 
 [[../../../../../assets/Newcomen_Steam_Engine.jpeg|Newcomen_Steam_Engine.jpeg]]
-![[../../../../../assets/Newcomen_Steam_Engine.jpeg|Newcomen_Steam_Engine.jpeg]]
+![[../../../../../assets/Newcomen_Steam_Engine.jpeg|Newcomen_Steam_Engine.jpeg]] 
 
 
 ## Confidential Links & Embeds: 

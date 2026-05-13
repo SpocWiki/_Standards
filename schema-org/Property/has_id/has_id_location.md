@@ -77,19 +77,20 @@ has_range = `=this.dv_has_range`
 
 has_parent_property = `=this.dv_has_parent_property` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_id_location|has_id_location]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_id/has_id_location|has_id_location]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_id_location.public|has_id_location.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_id/has_id_location.public|has_id_location.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_id_location.internal|has_id_location.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_id/has_id_location.internal|has_id_location.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_id_location.protect|has_id_location.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_id/has_id_location.protect|has_id_location.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_id_location.private|has_id_location.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_id/has_id_location.private|has_id_location.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_id_location.personal|has_id_location.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_id/has_id_location.personal|has_id_location.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_id_location.secret|has_id_location.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_id/has_id_location.secret|has_id_location.secret]] 
 

@@ -445,7 +445,7 @@ copyright ::            © 1992 Western Australia Museum
 ![Aglantha digitale](Cnidaria/Aglantha_digitale.gif) 
 scientific_name ::  Aglantha digitale
 Comments          A direct-developing holoplanktonic hydromedusa (Hydrozoa) that has no polyp. The gonads are visible through the transparent bell.
-copyright ::         © 1998 [Claudia E. Mills](http://faculty.washington.edu/cemills/)
+copyright ::         © 1998 [Claudia E. Mills](http://faculty.washington.edu/cemills/) 
 
 
 ## Confidential Links & Embeds: 

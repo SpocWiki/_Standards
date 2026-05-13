@@ -221,7 +221,7 @@ location ::           Near Selma (Alabama, USA)
 Comments             Pitcher plant (Sarraceniaceae)
 specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-copyright ::            © 2001 [Barry Meyers-Rice](mailto:bamrice@ucdavis.edu)
+copyright ::            © 2001 [Barry Meyers-Rice](mailto:bamrice@ucdavis.edu) 
 
 
 ## Confidential Links & Embeds: 

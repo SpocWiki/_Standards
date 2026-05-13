@@ -63,7 +63,7 @@ FunctionalClass:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cla
 ### StructuralClass
 The name given to how bone physically connects to each other.
 
-StructuralClass:: {"type":"Input","options":{}}
+StructuralClass:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

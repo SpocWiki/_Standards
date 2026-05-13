@@ -32,7 +32,7 @@ Quiz: A test of knowledge, skills and abilities.
 #class/Quiz
 #class/Thing/CreativeWork/LearningResource/Quiz
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

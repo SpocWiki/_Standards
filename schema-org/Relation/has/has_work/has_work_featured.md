@@ -80,19 +80,20 @@ has_range = `=this.dv_has_range`
 
 has_child_property = `=this.dv_has_child_property` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_work_featured|has_work_featured]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_work/has_work_featured|has_work_featured]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_work_featured.public|has_work_featured.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_work/has_work_featured.public|has_work_featured.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_work_featured.internal|has_work_featured.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_work/has_work_featured.internal|has_work_featured.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_work_featured.protect|has_work_featured.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_work/has_work_featured.protect|has_work_featured.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_work_featured.private|has_work_featured.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_work/has_work_featured.private|has_work_featured.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_work_featured.personal|has_work_featured.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_work/has_work_featured.personal|has_work_featured.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_work_featured.secret|has_work_featured.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_work/has_work_featured.secret|has_work_featured.secret]] 
 

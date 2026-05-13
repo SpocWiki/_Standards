@@ -1189,7 +1189,7 @@ Mitochondrial origins. Proceedings of the National Academy of Sciences
   specimen_condition ::  Live Specimen
   copyright ::            © 1996 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
  
-  ------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------ 
 
 
 ## Confidential Links & Embeds: 

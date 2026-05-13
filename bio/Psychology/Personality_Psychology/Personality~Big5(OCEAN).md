@@ -238,17 +238,17 @@ dv.view("_orga/JS/HeatMapTableMd", {keyed2D:dv.current().correlations, colors:["
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Personality~Big5(OCEAN)|Personality~Big5(OCEAN)]] 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Personality_Psychology/Personality~Big5(OCEAN)|Personality~Big5(OCEAN)]] 
 
-### #is_/same_as :: [[/_public/bio/Psychology/Personality_Psychology/Personality~Big5.public|Personality~Big5.public]] 
+### #is_/same_as :: [[/_public/bio/Psychology/Personality_Psychology/Personality~Big5(OCEAN).public|Personality~Big5(OCEAN).public]] 
 
-### #is_/same_as :: [[/_internal/bio/Psychology/Personality_Psychology/Personality~Big5.internal|Personality~Big5.internal]] 
+### #is_/same_as :: [[/_internal/bio/Psychology/Personality_Psychology/Personality~Big5(OCEAN).internal|Personality~Big5(OCEAN).internal]] 
 
-### #is_/same_as :: [[/_protect/bio/Psychology/Personality_Psychology/Personality~Big5.protect|Personality~Big5.protect]] 
+### #is_/same_as :: [[/_protect/bio/Psychology/Personality_Psychology/Personality~Big5(OCEAN).protect|Personality~Big5(OCEAN).protect]] 
 
-### #is_/same_as :: [[/_private/bio/Psychology/Personality_Psychology/Personality~Big5.private|Personality~Big5.private]] 
+### #is_/same_as :: [[/_private/bio/Psychology/Personality_Psychology/Personality~Big5(OCEAN).private|Personality~Big5(OCEAN).private]] 
 
-### #is_/same_as :: [[/_personal/bio/Psychology/Personality_Psychology/Personality~Big5.personal|Personality~Big5.personal]] 
+### #is_/same_as :: [[/_personal/bio/Psychology/Personality_Psychology/Personality~Big5(OCEAN).personal|Personality~Big5(OCEAN).personal]] 
 
-### #is_/same_as :: [[/_secret/bio/Psychology/Personality_Psychology/Personality~Big5.secret|Personality~Big5.secret]] 
+### #is_/same_as :: [[/_secret/bio/Psychology/Personality_Psychology/Personality~Big5(OCEAN).secret|Personality~Big5(OCEAN).secret]] 
 

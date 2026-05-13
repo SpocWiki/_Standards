@@ -153,7 +153,7 @@ Copyright © Nancy Simmons 1998
 
   ---------
   copyright ::   © 1998 Nancy Simmons
-  ---------
+  --------- 
 
 
 ## Confidential Links & Embeds: 

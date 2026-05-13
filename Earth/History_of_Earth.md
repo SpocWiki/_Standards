@@ -451,7 +451,8 @@ type: private_note
 ![[../../_public/xLarge.public/Earth/Geology/Earth-750_Ma_(Tonian_Period).png|Earth-750_Ma_(Tonian_Period).png]]  
 
  
----
+--- 
+
 
 ## Confidential Links & Embeds: 
 
@@ -468,9 +469,6 @@ type: private_note
 ### #is_/same_as :: [[/_personal/Earth/History_of_Earth.personal|History_of_Earth.personal]] 
 
 ### #is_/same_as :: [[/_secret/Earth/History_of_Earth.secret|History_of_Earth.secret]] 
-
-
-
 ## Embedded Graph 
 
 ![[History_of_Earth.svg]] 

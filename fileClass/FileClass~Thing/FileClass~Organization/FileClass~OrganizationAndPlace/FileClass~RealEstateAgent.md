@@ -32,7 +32,7 @@ A real-estate agent.
 #class/RealEstateAgent
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/RealEstateAgent
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

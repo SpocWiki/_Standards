@@ -732,7 +732,7 @@ copyright ::         © 1998 Nancy Simmons
 ---------- 
 ![](Bat/Microchiroptera/Phyllostomidae/phyllostomus1.gif) 
 scientific_name ::  Phylostomus hastatus
-copyright ::         © 1994 Nancy Simmons
+copyright ::         © 1994 Nancy Simmons 
 
 
 ## Confidential Links & Embeds: 

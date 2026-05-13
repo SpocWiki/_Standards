@@ -65,7 +65,7 @@ RegionDrained:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class
 ### Tributary
 The anatomical or organ system that the vein flows into; a larger structure that the vein connects to.
 
-Tributary:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')"}}
+Tributary:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')"}} 
 
 
 ## Confidential Links & Embeds: 

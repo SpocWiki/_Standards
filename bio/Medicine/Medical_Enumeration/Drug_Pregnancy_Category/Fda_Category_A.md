@@ -37,7 +37,8 @@ A designation by the US FDA signifying that adequate and well-controlled studies
 
 #has_/parent_class :: [[../DrugPregnancyCategory|DrugPregnancyCategory]]  
 
-#is_/enum_of :: [[../DrugPregnancyCategory|DrugPregnancyCategory]]  
+#is_/enum_of :: [[../DrugPregnancyCategory|DrugPregnancyCategory]] 
+
 
 ## Confidential Links & Embeds: 
 

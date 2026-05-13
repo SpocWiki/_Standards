@@ -328,7 +328,7 @@ location ::           Californian waters
 Comments             Photographed from submersible
 specimen_condition ::  Live Specimen
 View                 Side
-copyright ::            © 1999 Brad Seibel
+copyright ::            © 1999 Brad Seibel 
 
 
 ## Confidential Links & Embeds: 

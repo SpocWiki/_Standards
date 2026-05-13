@@ -203,7 +203,7 @@ copyright ::            © [Robin Foster](http://fm2.fieldmuseum.org/plantguides
 scientific_name ::     Petalostylis labicheoides R.Br.
 location ::           West Australia
 specimen_condition ::  Live Specimen
-copyright ::            © [Bernd Krüger](http://www.bkaussi.de/)
+copyright ::            © [Bernd Krüger](http://www.bkaussi.de/) 
 
 
 ## Confidential Links & Embeds: 

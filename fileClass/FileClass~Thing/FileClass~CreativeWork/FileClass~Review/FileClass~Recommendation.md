@@ -37,7 +37,7 @@ This is a kind of [[FileClass~Review]]
 ### Category
 A category for the item. Greater signs or slashes can be used to informally indicate a category hierarchy.
 
-Category:: {"type":"Select","options":{"valuesList":{"AerobicActivity","AnaerobicActivity","Balance","Flexibility","LeisureTimeActivity","OccupationalActivity","StrengthTraining"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
+Category:: {"type":"Select","options":{"valuesList":{"AerobicActivity","AnaerobicActivity","Balance","Flexibility","LeisureTimeActivity","OccupationalActivity","StrengthTraining"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}} 
 
 
 ## Confidential Links & Embeds: 

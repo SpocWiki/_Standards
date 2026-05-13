@@ -31,7 +31,7 @@ dv_is_same_as:
   - "[[/_private/Astronomy/Star/Star~Class/Star-Class~Y.private|Star-Class~Y.private]]"
   - "[[/_personal/Astronomy/Star/Star~Class/Star-Class~Y.personal|Star-Class~Y.personal]]"
   - "[[/_secret/Astronomy/Star/Star~Class/Star-Class~Y.secret|Star-Class~Y.secret]]"
----
+--- 
 
 
 ## Confidential Links & Embeds: 

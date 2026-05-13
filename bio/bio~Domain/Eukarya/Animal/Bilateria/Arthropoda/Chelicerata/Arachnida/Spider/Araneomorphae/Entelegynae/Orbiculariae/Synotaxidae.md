@@ -100,7 +100,7 @@ Microscop. Soc. 84:177-184.
   Size                 ca. 20-30 cm. high
   copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
-  ---------------------------------------------------------------------------------
+  --------------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

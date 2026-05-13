@@ -66,6 +66,7 @@ has_parent_class = `=this.dv_has_parent_class`
 
 is_enum_of = `=this.dv_is_enum_of` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Health_Aspect_Enumeration/Allergies_Health_Aspect|Allergies_Health_Aspect]] 

@@ -32,7 +32,7 @@ An internet cafe.
 #class/InternetCafe
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/InternetCafe
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

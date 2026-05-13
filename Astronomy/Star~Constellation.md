@@ -443,7 +443,7 @@ darkMode: false
 > [Wikipedia](https://en.wikipedia.org/wiki/Constellation) 
 
 
-![[Star~Constellation/Zodiac_DbFolder|Zodiac_DbFolder]]
+![[Star~Constellation/Zodiac_DbFolder|Zodiac_DbFolder]] 
 
 
 ## Confidential Links & Embeds: 

@@ -418,7 +418,7 @@ divergence between lepidosauromorphs and archosauromorphs (Laurin,
 scientific_name ::  Spinoaequalis schultzei, Haptodus garnettensis, Sigillaria
 Comments          The Pennsylvanian diapsid Spinoaequalis schultzei jumps into the water to escape a hungry Haptodus garnettensis (a synapsid). The base of a Sigillaria trunk is visible in the upper right corner.
 Creator           Michael deBraga
-copyright ::         © 2000 Michael deBraga
+copyright ::         © 2000 Michael deBraga 
 
 
 ## Confidential Links & Embeds: 

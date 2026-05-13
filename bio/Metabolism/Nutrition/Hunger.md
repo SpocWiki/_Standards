@@ -276,6 +276,7 @@ teils Hunger (Zerstörung, Flüchtlingsbewegungen, Produktions- und Transportaus
 
 Der Winter 1946/47 gilt in weiten Teilen Deutschlands als Höhepunkt des Hungers in Deutschland 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Hunger|Hunger]] 

@@ -234,17 +234,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Ether|Ether]] 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Functional_Group/Ether|Ether]] 
 
-### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Ether.public|Ether.public]] 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Functional_Group/Ether.public|Ether.public]] 
 
-### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Ether.internal|Ether.internal]] 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Functional_Group/Ether.internal|Ether.internal]] 
 
-### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Ether.protect|Ether.protect]] 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Functional_Group/Ether.protect|Ether.protect]] 
 
-### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Ether.private|Ether.private]] 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Functional_Group/Ether.private|Ether.private]] 
 
-### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Ether.personal|Ether.personal]] 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Functional_Group/Ether.personal|Ether.personal]] 
 
-### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Ether.secret|Ether.secret]] 
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Functional_Group/Ether.secret|Ether.secret]] 
 

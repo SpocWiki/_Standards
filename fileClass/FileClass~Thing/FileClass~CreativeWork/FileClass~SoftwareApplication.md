@@ -256,7 +256,7 @@ StorageRequirements:: {"type":"Input","options":{}}
 ### SupportingData
 Supporting data for a SoftwareApplication.
 
-SupportingData:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Dataset/DataFeed')"}}
+SupportingData:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Dataset/DataFeed')"}} 
 
 
 ## Confidential Links & Embeds: 

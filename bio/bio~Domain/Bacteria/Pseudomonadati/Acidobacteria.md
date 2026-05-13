@@ -97,7 +97,7 @@ dv_has_:
 -   » Sub-Groups 
 	-   *Acidobacterium capsulatum*
 	-   *Geothrix fermentans*
-	-   *Holophaga foetida*
+	-   *Holophaga foetida* 
 
 
 ## Confidential Links & Embeds: 

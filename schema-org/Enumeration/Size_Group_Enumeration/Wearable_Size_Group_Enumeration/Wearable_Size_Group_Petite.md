@@ -64,7 +64,8 @@ is_enum_of = `=this.dv_is_enum_of`
 Size group "Petite" for wearables.
 
 Tag Instances like this: 
-#is_a_/wearable_size_/group_/petite
+#is_a_/wearable_size_/group_/petite 
+
 
 ## Confidential Links & Embeds: 
 

@@ -128,7 +128,7 @@ dv_has_:
 > [Wikipedia](https://en.wikipedia.org/wiki/Cassiopeia%20(mother%20of%20Andromeda)) 
 
 
-#is_/same_as :: [[/_Standards/WikiData/WD~Cassiopeia,207681|WD~Cassiopeia,207681]]
+#is_/same_as :: [[/_Standards/WikiData/WD~Cassiopeia,207681|WD~Cassiopeia,207681]] 
 
 
 ## Confidential Links & Embeds: 

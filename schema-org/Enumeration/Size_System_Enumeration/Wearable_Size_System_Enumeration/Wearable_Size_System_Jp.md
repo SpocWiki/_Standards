@@ -64,7 +64,8 @@ is_enum_of = `=this.dv_is_enum_of`
 [[../../../../Earth/Continent/Asia/Asia~East/Japan|Japanese]] size system for [[../../../../Technology/Tool/Clothing|wearables]].
 
 Tag Instances like this: 
-#is_a_/wearable_size_system_jp
+#is_a_/wearable_size_system_jp 
+
 
 ## Confidential Links & Embeds: 
 

@@ -32,7 +32,7 @@ The act of allocating an action/event/task to some destination (someone or somet
 #class/AssignAction
 #class/Thing/Action/OrganizeAction/AllocateAction/AssignAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

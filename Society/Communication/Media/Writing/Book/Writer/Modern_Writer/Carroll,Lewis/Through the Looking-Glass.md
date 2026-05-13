@@ -110,4 +110,21 @@ first_line: "One thing was certain, that the white kitten had had nothing to do 
 > Critical opinion of the book has generally been favourable 
 > and either ranked it on a par with its predecessor or else only just short of it.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Through%20the%20Looking-Glass) 
+> [Wikipedia](https://en.wikipedia.org/wiki/Through%20the%20Looking-Glass)  
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carroll,Lewis/Through the Looking-Glass|Through the Looking-Glass]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carroll,Lewis/Through the Looking-Glass.public|Through the Looking-Glass.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carroll,Lewis/Through the Looking-Glass.internal|Through the Looking-Glass.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carroll,Lewis/Through the Looking-Glass.protect|Through the Looking-Glass.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carroll,Lewis/Through the Looking-Glass.private|Through the Looking-Glass.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carroll,Lewis/Through the Looking-Glass.personal|Through the Looking-Glass.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carroll,Lewis/Through the Looking-Glass.secret|Through the Looking-Glass.secret]] 

@@ -51,7 +51,7 @@ Related actions:
 ### Followee
 A sub property of object. The person or organization being followed.
 
-Followee:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
+Followee:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}} 
 
 
 ## Confidential Links & Embeds: 

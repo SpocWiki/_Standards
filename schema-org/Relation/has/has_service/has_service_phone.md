@@ -78,17 +78,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_service_phone|has_service_phone]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_service/has_service_phone|has_service_phone]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_service_phone.public|has_service_phone.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_service/has_service_phone.public|has_service_phone.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_service_phone.internal|has_service_phone.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_service/has_service_phone.internal|has_service_phone.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_service_phone.protect|has_service_phone.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_service/has_service_phone.protect|has_service_phone.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_service_phone.private|has_service_phone.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_service/has_service_phone.private|has_service_phone.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_service_phone.personal|has_service_phone.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_service/has_service_phone.personal|has_service_phone.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_service_phone.secret|has_service_phone.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_service/has_service_phone.secret|has_service_phone.secret]] 
 

@@ -141,7 +141,7 @@ could make **10 USD genomes** feasible in research settings.
 
 Genome sequencing has transitioned from a multi-billion-dollar scientific endeavor 
 to an affordable and scalable process, largely due to advancements in sequencing technologies, 
-increased automation, and economies of scale. This cost reduction is expected to continue, making genomics more accessible for personalized medicine, agriculture, and biotechnology.
+increased automation, and economies of scale. This cost reduction is expected to continue, making genomics more accessible for personalized medicine, agriculture, and biotechnology. 
 
 
 ## Confidential Links & Embeds: 

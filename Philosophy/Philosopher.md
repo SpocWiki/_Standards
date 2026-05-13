@@ -391,7 +391,7 @@ dv_has_:
 
 
 [[Philosopher/Modern_Philosopher/Fukuyama,Francis|Fukuyama,Francis]] 
-[[Philosopher/Modern_Philosopher/Sloterdijk,Peter|Sloterdijk,Peter]]   
+[[Philosopher/Modern_Philosopher/Sloterdijk,Peter|Sloterdijk,Peter]] 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ See AutomotiveBusiness, Store for more information.
 #class/AutomotiveBusinessAndStore
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/AutomotiveBusinessAndStore
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

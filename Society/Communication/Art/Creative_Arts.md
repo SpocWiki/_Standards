@@ -7,7 +7,7 @@ Creative Arts is a **broader, contemporary category** that overlaps with fine ar
 but also integrates **applied, digital, and interdisciplinary practices**. 
 
 It covers areas like **graphic design, film, fashion, digital media, creative writing, 
-and advertising**, blending artistry with **innovation and commercial applications**.
+and advertising**, blending artistry with **innovation and commercial applications**. 
 
 
 ## Confidential Links & Embeds: 

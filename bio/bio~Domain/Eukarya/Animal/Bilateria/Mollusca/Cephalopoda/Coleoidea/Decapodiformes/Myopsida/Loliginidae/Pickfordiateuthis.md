@@ -100,7 +100,7 @@ the Florida keys. Bull. Mar. Sci. Gulf Carib. 2: 602-609.
   specimen_condition ::  Live Specimen
   copyright ::            © 1996 [Clyde F. E. Roper](mailto:roper.clyde@nmnh.si.edu) 
  
-  ---------------------------------------------------------------------------
+  --------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

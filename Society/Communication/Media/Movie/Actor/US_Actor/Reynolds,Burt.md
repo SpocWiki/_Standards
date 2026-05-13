@@ -147,3 +147,21 @@ end_of_work_period: 2018-01-01T00:00:00Z
 He was the Role-Model for Brad Pitts Stuntman in [[../../Movie-Director/Tarantino,Quentin/Once_Upon_a_Time_in_Hollywood|Once_Upon_a_Time_in_Hollywood]]
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Reynolds,Burt|Reynolds,Burt]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Reynolds,Burt.public|Reynolds,Burt.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Reynolds,Burt.internal|Reynolds,Burt.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Reynolds,Burt.protect|Reynolds,Burt.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Reynolds,Burt.private|Reynolds,Burt.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Reynolds,Burt.personal|Reynolds,Burt.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Reynolds,Burt.secret|Reynolds,Burt.secret]] 

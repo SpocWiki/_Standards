@@ -32,7 +32,7 @@ A graveyard.
 #class/Cemetery
 #class/Thing/Place/CivicStructure/Cemetery
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -219,7 +219,7 @@ dv_has_:
 ![](Solifugae/Eremochelisbilobatus2.jpg) 
 scientific_name ::     Eremochelis bilobatus (Muma)
 specimen_condition ::  Live Specimen
-copyright ::            © 2003 Warren E. Savary
+copyright ::            © 2003 Warren E. Savary 
 
 
 ## Confidential Links & Embeds: 

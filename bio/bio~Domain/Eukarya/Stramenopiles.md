@@ -188,7 +188,7 @@ Acknowledgements                    This image is licensed under the [Attributio
 source: [flickr: kelp geometry](http://flickr.com/photos/51262603@N00/46490998/)
 specimen_condition ::                 Live Specimen
 Source Collection                   [Flickr](http://flickr.com/)
-copyright ::                           © [Tom Gruber](http://flickr.com/people/51262603@N00/)
+copyright ::                           © [Tom Gruber](http://flickr.com/people/51262603@N00/) 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ A park.
 #class/Park
 #class/Thing/Place/CivicStructure/Park
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

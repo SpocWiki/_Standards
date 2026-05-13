@@ -541,7 +541,7 @@ Mitochondrial control region sequence variation within argali wild sheep
   specimen_condition ::  Live Specimen
   Source Collection    [InsectImages.org](http://www.insectimages.org/)
   copyright ::            © Terry Spivey, USDA Forest Service
-  ------------------------------
+  ------------------------------ 
 
 
 ## Confidential Links & Embeds: 

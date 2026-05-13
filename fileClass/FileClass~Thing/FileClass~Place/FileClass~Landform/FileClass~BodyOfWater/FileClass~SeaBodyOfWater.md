@@ -32,7 +32,7 @@ A sea (for example, the Caspian sea).
 #class/SeaBodyOfWater
 #class/Thing/Place/Landform/BodyOfWater/SeaBodyOfWater
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

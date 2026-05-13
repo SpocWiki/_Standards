@@ -32,7 +32,7 @@ Short story or tale. A brief work of literature, usually written in narrative pr
 #class/ShortStory
 #class/Thing/CreativeWork/ShortStory
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

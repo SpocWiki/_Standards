@@ -77,17 +77,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Le_Guin~Ones_who_walk_away_from_Omelas|Le_Guin~Ones_who_walk_away_from_Omelas]] 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Science_Fiction/Le_Guin,Ursula_K/Le_Guin~Ones_who_walk_away_from_Omelas|Le_Guin~Ones_who_walk_away_from_Omelas]] 
 
-### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Science_Fiction/Ones_who_walk_away_from_Omelas.public|Ones_who_walk_away_from_Omelas.public]] 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Science_Fiction/Le_Guin,Ursula_K/Le_Guin~Ones_who_walk_away_from_Omelas.public|Le_Guin~Ones_who_walk_away_from_Omelas.public]] 
 
-### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Science_Fiction/Ones_who_walk_away_from_Omelas.internal|Ones_who_walk_away_from_Omelas.internal]] 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Science_Fiction/Le_Guin,Ursula_K/Le_Guin~Ones_who_walk_away_from_Omelas.internal|Le_Guin~Ones_who_walk_away_from_Omelas.internal]] 
 
-### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Science_Fiction/Ones_who_walk_away_from_Omelas.protect|Ones_who_walk_away_from_Omelas.protect]] 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Science_Fiction/Le_Guin,Ursula_K/Le_Guin~Ones_who_walk_away_from_Omelas.protect|Le_Guin~Ones_who_walk_away_from_Omelas.protect]] 
 
-### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Science_Fiction/Ones_who_walk_away_from_Omelas.private|Ones_who_walk_away_from_Omelas.private]] 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Science_Fiction/Le_Guin,Ursula_K/Le_Guin~Ones_who_walk_away_from_Omelas.private|Le_Guin~Ones_who_walk_away_from_Omelas.private]] 
 
-### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Science_Fiction/Ones_who_walk_away_from_Omelas.personal|Ones_who_walk_away_from_Omelas.personal]] 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Science_Fiction/Le_Guin,Ursula_K/Le_Guin~Ones_who_walk_away_from_Omelas.personal|Le_Guin~Ones_who_walk_away_from_Omelas.personal]] 
 
-### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Science_Fiction/Ones_who_walk_away_from_Omelas.secret|Ones_who_walk_away_from_Omelas.secret]] 
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Science_Fiction/Le_Guin,Ursula_K/Le_Guin~Ones_who_walk_away_from_Omelas.secret|Le_Guin~Ones_who_walk_away_from_Omelas.secret]] 
 

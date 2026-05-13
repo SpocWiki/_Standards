@@ -55,7 +55,7 @@ GeoMidpoint:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/T
 ### GeoRadius
 Indicates the approximate radius of a GeoCircle (metres unless indicated otherwise via Distance notation).
 
-GeoRadius:: {"type":"Number","options":{}}
+GeoRadius:: {"type":"Number","options":{}} 
 
 
 ## Confidential Links & Embeds: 

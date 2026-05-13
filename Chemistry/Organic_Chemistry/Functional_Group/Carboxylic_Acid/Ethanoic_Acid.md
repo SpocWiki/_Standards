@@ -280,17 +280,17 @@ H-C-C=O
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid|Ethanoic_Acid]] 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Functional_Group/Carboxylic_Acid/Ethanoic_Acid|Ethanoic_Acid]] 
 
-### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid.public|Ethanoic_Acid.public]] 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Functional_Group/Carboxylic_Acid/Ethanoic_Acid.public|Ethanoic_Acid.public]] 
 
-### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid.internal|Ethanoic_Acid.internal]] 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Functional_Group/Carboxylic_Acid/Ethanoic_Acid.internal|Ethanoic_Acid.internal]] 
 
-### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid.protect|Ethanoic_Acid.protect]] 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Functional_Group/Carboxylic_Acid/Ethanoic_Acid.protect|Ethanoic_Acid.protect]] 
 
-### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid.private|Ethanoic_Acid.private]] 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Functional_Group/Carboxylic_Acid/Ethanoic_Acid.private|Ethanoic_Acid.private]] 
 
-### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid.personal|Ethanoic_Acid.personal]] 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Functional_Group/Carboxylic_Acid/Ethanoic_Acid.personal|Ethanoic_Acid.personal]] 
 
-### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid.secret|Ethanoic_Acid.secret]] 
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Functional_Group/Carboxylic_Acid/Ethanoic_Acid.secret|Ethanoic_Acid.secret]] 
 

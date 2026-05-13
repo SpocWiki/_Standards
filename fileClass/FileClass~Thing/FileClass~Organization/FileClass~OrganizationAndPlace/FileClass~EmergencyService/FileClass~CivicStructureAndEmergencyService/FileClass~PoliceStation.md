@@ -32,7 +32,7 @@ A police station.
 #class/PoliceStation
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyService/PoliceStation
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

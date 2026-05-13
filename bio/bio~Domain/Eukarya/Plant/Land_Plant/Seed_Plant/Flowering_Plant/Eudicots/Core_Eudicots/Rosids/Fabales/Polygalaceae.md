@@ -187,7 +187,7 @@ the sister group of Fabaceae.
 scientific_name ::     Polygala dalmaisiana
 location ::           Sea World, San Diego, CA
 specimen_condition ::  Live Specimen
-copyright ::            © 2005 [Kevin C. Nixon](http://www.plantsystematics.org/)
+copyright ::            © 2005 [Kevin C. Nixon](http://www.plantsystematics.org/) 
 
 
 ## Confidential Links & Embeds: 

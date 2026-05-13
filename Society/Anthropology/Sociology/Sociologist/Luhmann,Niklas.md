@@ -225,8 +225,6 @@ type: private_note
 ### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Sociologist/Luhmann,Niklas.personal|Luhmann,Niklas.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Sociologist/Luhmann,Niklas.secret|Luhmann,Niklas.secret]] 
-
-
 # [[Luhmann,Niklas]] 
 
 #is_/part_of :: [[Luhmann,Niklas 1]] 

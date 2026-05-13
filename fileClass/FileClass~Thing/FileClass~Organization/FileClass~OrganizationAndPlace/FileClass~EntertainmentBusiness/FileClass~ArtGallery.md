@@ -32,7 +32,7 @@ An art gallery.
 #class/ArtGallery
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/ArtGallery
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

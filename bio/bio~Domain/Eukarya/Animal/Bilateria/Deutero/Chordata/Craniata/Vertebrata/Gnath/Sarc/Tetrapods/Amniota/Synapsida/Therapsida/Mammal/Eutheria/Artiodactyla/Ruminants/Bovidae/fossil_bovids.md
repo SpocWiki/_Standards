@@ -62,7 +62,7 @@ title: Miscellaneous fossil bovids
 	-   *Shaanxispira* †
 	-   *Torticornis* †
 	-   *Tyrrhenotragus* †
-	-   *Vishnumeryx* †
+	-   *Vishnumeryx* † 
 
 
 ## Confidential Links & Embeds: 

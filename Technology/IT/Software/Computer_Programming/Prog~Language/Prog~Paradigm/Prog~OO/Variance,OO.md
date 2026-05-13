@@ -132,7 +132,7 @@ and whose morphisms represent the subtype relationship ≤.
 Then for example the function type constructor takes two types _p_ and _r_ 
 and creates a new type _p_ → _r_; so it takes objects in 𝐶² to objects in 𝐶. 
 By the subtyping rule for function types this operation reverses ≤ for the first parameter and preserves it for the second, 
-so it is a contravariant functor in the first parameter and a covariant functor in the second.
+so it is a contravariant functor in the first parameter and a covariant functor in the second. 
 
 
 ## Confidential Links & Embeds: 

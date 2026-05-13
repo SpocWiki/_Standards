@@ -84,17 +84,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_payment_method|has_payment_method]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_payment/has_payment_method|has_payment_method]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_payment_method.public|has_payment_method.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_payment/has_payment_method.public|has_payment_method.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_payment_method.internal|has_payment_method.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_payment/has_payment_method.internal|has_payment_method.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_payment_method.protect|has_payment_method.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_payment/has_payment_method.protect|has_payment_method.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_payment_method.private|has_payment_method.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_payment/has_payment_method.private|has_payment_method.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_payment_method.personal|has_payment_method.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_payment/has_payment_method.personal|has_payment_method.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_payment_method.secret|has_payment_method.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_payment/has_payment_method.secret|has_payment_method.secret]] 
 

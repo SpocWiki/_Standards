@@ -190,7 +190,7 @@ Comments             pronghorn
 Creator              Photograph by James C. Leupold
 Acknowledgements     Photograph courtesy of the U.S. Fish and Wildlife Service
 specimen_condition ::  Live Specimen
-Sex ::                Male
+Sex ::                Male 
 
 
 ## Confidential Links & Embeds: 

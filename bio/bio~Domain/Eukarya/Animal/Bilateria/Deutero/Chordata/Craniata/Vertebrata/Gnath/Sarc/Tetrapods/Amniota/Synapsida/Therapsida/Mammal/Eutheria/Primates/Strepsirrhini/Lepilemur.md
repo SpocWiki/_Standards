@@ -156,7 +156,7 @@ dv_has_:
 ![drawing of a sportive lemur](Lepilemur/Lepilemur_mustelinus_dr.jpg) 
   scientific_name ::  Lepilemur mustelinus
   location ::        Madagascar
-  Reference         Pollen, F. P. L. and van Dam, D. C. 1868. Récherches sur la Faune de Madagascar et de ses Dépendances. 2me partie. J. K. Steenhoff ed. Leyden.
+  Reference         Pollen, F. P. L. and van Dam, D. C. 1868. Récherches sur la Faune de Madagascar et de ses Dépendances. 2me partie. J. K. Steenhoff ed. Leyden. 
 
 
 ## Confidential Links & Embeds: 

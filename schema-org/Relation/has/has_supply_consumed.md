@@ -104,19 +104,20 @@ Relation describes that:
 has_name = `=this.dv_has_name`  
 (has_/range :: "[[../../Collection/list_item/how_to_item/how_to_supply|how_to_supply]]", "[[../../Property/Texts/has_text|has_text]]" ) 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_supply_consumed|has_supply_consumed]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_supply_consumed|has_supply_consumed]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_supply.public|has_supply.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_supply_consumed.public|has_supply_consumed.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_supply.internal|has_supply.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_supply_consumed.internal|has_supply_consumed.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_supply.protect|has_supply.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_supply_consumed.protect|has_supply_consumed.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_supply.private|has_supply.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_supply_consumed.private|has_supply_consumed.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_supply.personal|has_supply.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_supply_consumed.personal|has_supply_consumed.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_supply.secret|has_supply.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_supply_consumed.secret|has_supply_consumed.secret]] 
 

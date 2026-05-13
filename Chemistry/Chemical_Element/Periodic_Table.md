@@ -571,7 +571,7 @@ is_similar_to = `=this.dv_is_similar_to`
 | 19[[Potassium]] | 20[[Calcium]]   | 31[[Gallium]]   | 32[[Group-14-Carbon/Germanium|Germanium]]  | 33[[Arsenic]]    | 34[[Selenium]]     | 35[[Bromine]]     | 36[[Krypton]]    |
 | 37[[Rubidium]]  | 38[[Strontium]] | 49[[Indium]]    | 50[[Tin]]        | 51[[Antimony]]   | 52[[Tellurium]]    | 53[[Iodine]]      | 54[[Xenon]]      |
 | 55[[Caesium]]   | 56[[Barium]]    | 81[[Thallium]]  | 82[[Lead]]       | 83[[Bismuth]]    | 84[[Polonium]]     | 85[[Astatine]]    | 86[[Radon]]      |
-| 87[[Francium]]  | 88[[Radium]]    | 113[[Nihonium]] | 114[[Flerovium]] | 115[[Moscovium]] | 116[[Group-16-Chalcogene/Livermorium|Livermorium]] | 117[[Group-17-Halogen/Tennessine|Tennessine]] | 118[[Oganesson]] |
+| 87[[Francium]]  | 88[[Radium]]    | 113[[Nihonium]] | 114[[Flerovium]] | 115[[Moscovium]] | 116[[Group-16-Chalcogene/Livermorium|Livermorium]] | 117[[Group-17-Halogen/Tennessine|Tennessine]] | 118[[Oganesson]] | 
 
 
 ## Confidential Links & Embeds: 

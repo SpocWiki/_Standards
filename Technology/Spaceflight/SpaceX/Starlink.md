@@ -144,3 +144,21 @@ aliases:
 
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Technology/Spaceflight/SpaceX/Starlink|Starlink]] 
+
+### #is_/same_as :: [[/_public/Technology/Spaceflight/SpaceX/Starlink.public|Starlink.public]] 
+
+### #is_/same_as :: [[/_internal/Technology/Spaceflight/SpaceX/Starlink.internal|Starlink.internal]] 
+
+### #is_/same_as :: [[/_protect/Technology/Spaceflight/SpaceX/Starlink.protect|Starlink.protect]] 
+
+### #is_/same_as :: [[/_private/Technology/Spaceflight/SpaceX/Starlink.private|Starlink.private]] 
+
+### #is_/same_as :: [[/_personal/Technology/Spaceflight/SpaceX/Starlink.personal|Starlink.personal]] 
+
+### #is_/same_as :: [[/_secret/Technology/Spaceflight/SpaceX/Starlink.secret|Starlink.secret]] 

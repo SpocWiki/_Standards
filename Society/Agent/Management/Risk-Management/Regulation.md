@@ -137,3 +137,21 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Regulation) 
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Agent/Management/Risk-Management/Regulation|Regulation]] 
+
+### #is_/same_as :: [[/_public/Society/Agent/Management/Risk-Management/Regulation.public|Regulation.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Agent/Management/Risk-Management/Regulation.internal|Regulation.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Agent/Management/Risk-Management/Regulation.protect|Regulation.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Agent/Management/Risk-Management/Regulation.private|Regulation.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Agent/Management/Risk-Management/Regulation.personal|Regulation.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Agent/Management/Risk-Management/Regulation.secret|Regulation.secret]] 

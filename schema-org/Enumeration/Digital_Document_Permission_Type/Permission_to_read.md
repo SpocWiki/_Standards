@@ -64,19 +64,20 @@ has_parent_class = `=this.dv_has_parent_class`
 
 is_enum_of = `=this.dv_is_enum_of` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Permission_to_read|Permission_to_Read]] 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Digital_Document_Permission_Type/Permission_to_read|Permission_to_read]] 
 
-### #is_/same_as :: [[/_public/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.public|Read_Permission.public]] 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Digital_Document_Permission_Type/Permission_to_read.public|Permission_to_read.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.internal|Read_Permission.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Digital_Document_Permission_Type/Permission_to_read.internal|Permission_to_read.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.protect|Read_Permission.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Digital_Document_Permission_Type/Permission_to_read.protect|Permission_to_read.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.private|Read_Permission.private]] 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Digital_Document_Permission_Type/Permission_to_read.private|Permission_to_read.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.personal|Read_Permission.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Digital_Document_Permission_Type/Permission_to_read.personal|Permission_to_read.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.secret|Read_Permission.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Digital_Document_Permission_Type/Permission_to_read.secret|Permission_to_read.secret]] 
 

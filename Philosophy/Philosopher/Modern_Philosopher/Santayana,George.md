@@ -201,7 +201,22 @@ There is a fatalistic addition to that by [[../../../Time-Ages/geo~Eons/Eon-0539
 > and permanently returned to Europe; 
 > his last will was to be buried in the Spanish Pantheon in the Campo di Verano, Rome.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/George%20Santayana)   
+> [Wikipedia](https://en.wikipedia.org/wiki/George%20Santayana) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Modern_Philosopher/Santayana,George|Santayana,George]] 
+
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Modern_Philosopher/Santayana,George.public|Santayana,George.public]] 
+
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Modern_Philosopher/Santayana,George.internal|Santayana,George.internal]] 
+
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Modern_Philosopher/Santayana,George.protect|Santayana,George.protect]] 
+
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Modern_Philosopher/Santayana,George.private|Santayana,George.private]] 
+
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Modern_Philosopher/Santayana,George.personal|Santayana,George.personal]] 
+
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Modern_Philosopher/Santayana,George.secret|Santayana,George.secret]] 
 

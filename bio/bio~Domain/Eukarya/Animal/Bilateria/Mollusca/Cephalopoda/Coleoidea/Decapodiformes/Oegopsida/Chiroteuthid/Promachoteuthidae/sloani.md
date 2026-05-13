@@ -139,7 +139,7 @@ Zool., No. 586: 55-68.
   Type                 Paratype
   copyright ::            © [Michael Vecchione](mailto:vecchiom@si.edu) 
  
-  -----------------------------------------------------------------------
+  ----------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

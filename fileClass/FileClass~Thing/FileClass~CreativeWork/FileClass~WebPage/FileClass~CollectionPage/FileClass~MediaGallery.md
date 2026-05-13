@@ -32,7 +32,7 @@ Web page type: Media gallery page. A mixed-media page that can contain media suc
 #class/MediaGallery
 #class/Thing/CreativeWork/WebPage/CollectionPage/MediaGallery
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

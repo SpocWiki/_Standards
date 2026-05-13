@@ -183,17 +183,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Campaign(Military)|Campaign(Military)]] 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/War/Campaign(Military)|Campaign(Military)]] 
 
-### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/War/Campaign(Military).public|Campaign(Military).public]] 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/War/Campaign(Military).public|Campaign(Military).public]] 
 
-### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/War/Campaign(Military).internal|Campaign(Military).internal]] 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/War/Campaign(Military).internal|Campaign(Military).internal]] 
 
-### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/War/Campaign(Military).protect|Campaign(Military).protect]] 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/War/Campaign(Military).protect|Campaign(Military).protect]] 
 
-### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/War/Campaign(Military).private|Campaign(Military).private]] 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/War/Campaign(Military).private|Campaign(Military).private]] 
 
-### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/War/Campaign(Military).personal|Campaign(Military).personal]] 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/War/Campaign(Military).personal|Campaign(Military).personal]] 
 
-### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/War/Campaign(Military).secret|Campaign(Military).secret]] 
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/War/Campaign(Military).secret|Campaign(Military).secret]] 
 

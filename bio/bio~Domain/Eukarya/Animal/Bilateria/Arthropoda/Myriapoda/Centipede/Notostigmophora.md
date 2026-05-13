@@ -65,7 +65,7 @@ Lower Cretaceous of Brazil. Palaeontology 44:489-495.
   Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
   copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebrizio/) 
  
-  ----------------------------------------------------------------------------
+  ---------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

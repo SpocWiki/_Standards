@@ -38,7 +38,7 @@ Related actions:
 #class/CheckOutAction
 #class/Thing/Action/InteractAction/CommunicateAction/CheckOutAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

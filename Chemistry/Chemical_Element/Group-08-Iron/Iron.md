@@ -713,7 +713,7 @@ As of January 2022, the average price of commonly used
 304 stainless steel was around $3.50 to $4.50 per pound, while the price of 
 carbon steel was approximately $0.55 to $0.65 per pound.
 the average price of iron ore was around $150 to $200 per metric ton.
-the average price of hot-rolled coil steel in the United States was approximately $1,400 to $1,600 per metric ton
+the average price of hot-rolled coil steel in the United States was approximately $1,400 to $1,600 per metric ton 
 
 
 ## Confidential Links & Embeds: 

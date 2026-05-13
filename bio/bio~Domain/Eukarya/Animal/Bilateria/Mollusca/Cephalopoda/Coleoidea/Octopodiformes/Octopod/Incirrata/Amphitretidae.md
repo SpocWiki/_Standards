@@ -168,7 +168,7 @@ African Jour. Mar. Sci. (in press).
   location ::           Central North Pacific
   specimen_condition ::  Live Specimen
   copyright ::            © 2001 [Monterey Bay Aquarium Research Institution](http://www.mbari.org/rd/midwater)
-  --------------------------------
+  -------------------------------- 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ An agent inspects, determines, investigates, inquires, or examines an object's a
 #class/CheckAction
 #class/Thing/Action/FindAction/CheckAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ A specific and exact (byte-for-byte) version of an [[AudioObject]]. Two byte-for
 #class/AudioObjectSnapshot
 #class/Thing/CreativeWork/MediaObject/AudioObject/AudioObjectSnapshot
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

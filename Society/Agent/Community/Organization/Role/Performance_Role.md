@@ -38,7 +38,8 @@ A PerformanceRole is a Role that some entity places with regard to a theatrical 
 
 #has_/parent_class :: [[../Role|Role]]  
 
-#has_/properties :: [ additionalType, alternateName, characterName, description, disambiguatingDescription, endDate, identifier, image, mainEntityOfPage, name, namedPosition, potentialAction, roleName, sameAs, startDate, subjectOf, url ]  
+#has_/properties :: [ additionalType, alternateName, characterName, description, disambiguatingDescription, endDate, identifier, image, mainEntityOfPage, name, namedPosition, potentialAction, roleName, sameAs, startDate, subjectOf, url ] 
+
 
 ## Confidential Links & Embeds: 
 

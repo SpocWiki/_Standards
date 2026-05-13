@@ -58,7 +58,7 @@ Comments             micrograph depicting a red blood cell containing four Plasm
 Creator              CDC/Dr. Mae Melvin
 specimen_condition ::  Dead Specimen
 Life Cycle Stage ::     trophozoite
-Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
+Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp) 
 
 
 ## Confidential Links & Embeds: 

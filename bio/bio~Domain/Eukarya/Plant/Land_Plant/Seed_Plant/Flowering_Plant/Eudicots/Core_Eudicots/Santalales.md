@@ -169,7 +169,7 @@ dv_has_:
   Comments           Mistletoe, Viscum album (Loranthaceae), growing on the trunk of a whitebeam, Sorbus aria (Rosaceae)
   Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
   copyright ::          © 2001 University of Basel, Basel, Switzerland 
-  ------------------------------------------------------------------------
+  ------------------------------------------------------------------------ 
 
 
 ## Confidential Links & Embeds: 

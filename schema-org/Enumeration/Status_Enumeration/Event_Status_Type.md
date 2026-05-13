@@ -58,6 +58,7 @@ EventStatusType is an enumeration type whose instances represent several states 
 
 has_parent_class = `=this.dv_has_parent_class` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Status_Enumeration/Event_Status_Type|Event_Status_Type]] 

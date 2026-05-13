@@ -32,7 +32,7 @@ The act of downloading an object.
 #class/DownloadAction
 #class/Thing/Action/TransferAction/DownloadAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

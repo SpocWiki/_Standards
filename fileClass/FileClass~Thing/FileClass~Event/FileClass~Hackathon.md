@@ -32,7 +32,7 @@ A [hackathon](https://en.wikipedia.org/wiki/Hackathon) event.
 #class/Hackathon
 #class/Thing/Event/Hackathon
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

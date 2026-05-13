@@ -36,7 +36,8 @@ A complex mathematical calculation requiring an online calculator, used to asses
 
 #has_/parent_class :: [[../MedicalRiskEstimator|MedicalRiskEstimator]]  
 
-#has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, estimatesRiskOf, funding, guideline, identifier, image, includedRiskFactor, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]  
+#has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, estimatesRiskOf, funding, guideline, identifier, image, includedRiskFactor, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] 
+
 
 ## Confidential Links & Embeds: 
 

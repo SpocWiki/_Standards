@@ -14,3 +14,21 @@ There are multiple Movies
 | Once Upon a Time (TV-series)       | 2010 |                           |                                          |            |
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Once_upon_a_Time-Movies|Once_upon_a_Time-Movies]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Once_upon_a_Time-Movies.public|Once_upon_a_Time-Movies.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Once_upon_a_Time-Movies.internal|Once_upon_a_Time-Movies.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Once_upon_a_Time-Movies.protect|Once_upon_a_Time-Movies.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Once_upon_a_Time-Movies.private|Once_upon_a_Time-Movies.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Once_upon_a_Time-Movies.personal|Once_upon_a_Time-Movies.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Once_upon_a_Time-Movies.secret|Once_upon_a_Time-Movies.secret]] 

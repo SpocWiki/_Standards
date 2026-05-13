@@ -234,7 +234,7 @@ Octopods, squids, nautiluses, etc.
 
 --------------------------------------------------------------------------- 
 ![Cephalopoda](Cephalopoda/Cephalopoda.jpg)) 
-copyright ::   © 1996, 1996 (2), 1996 (3), 1996 (4), 1998 (5), 1996 (6), 1996 (7), 1996 (8) R. E. Young, Hawaii Undersea Research Laboratory (2), Mark Norman (3), David Paul (4), Mark Norman (5), Thomas Burch (6), R. E. Young (7), R. E. Young (8)
+copyright ::   © 1996, 1996 (2), 1996 (3), 1996 (4), 1998 (5), 1996 (6), 1996 (7), 1996 (8) R. E. Young, Hawaii Undersea Research Laboratory (2), Mark Norman (3), David Paul (4), Mark Norman (5), Thomas Burch (6), R. E. Young (7), R. E. Young (8) 
 
 
 ## Confidential Links & Embeds: 

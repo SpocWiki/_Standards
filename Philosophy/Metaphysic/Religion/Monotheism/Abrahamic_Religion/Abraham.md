@@ -502,7 +502,7 @@ graph TD
 
 ## Ishmael 
 
-Ishmael is the **first son of Abraham**, born through Hagar. He lived **137 years** (Genesis 25:17) and, like Jacob, was said to have **12 sons**, each becoming a tribal chief in Arabia.
+Ishmael is the **first son of Abraham**, born through Hagar. He lived **137 years** (Genesis 25:17) and, like Jacob, was said to have **12 sons**, each becoming a tribal chief in Arabia. 
 
 
 ## Confidential Links & Embeds: 

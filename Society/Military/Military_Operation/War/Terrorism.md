@@ -324,17 +324,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Terrorism|Terrorism]] 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/War/Terrorism|Terrorism]] 
 
-### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/War/Terrorism.public|Terrorism.public]] 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/War/Terrorism.public|Terrorism.public]] 
 
-### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/War/Terrorism.internal|Terrorism.internal]] 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/War/Terrorism.internal|Terrorism.internal]] 
 
-### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/War/Terrorism.protect|Terrorism.protect]] 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/War/Terrorism.protect|Terrorism.protect]] 
 
-### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/War/Terrorism.private|Terrorism.private]] 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/War/Terrorism.private|Terrorism.private]] 
 
-### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/War/Terrorism.personal|Terrorism.personal]] 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/War/Terrorism.personal|Terrorism.personal]] 
 
-### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/War/Terrorism.secret|Terrorism.secret]] 
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/War/Terrorism.secret|Terrorism.secret]] 
 

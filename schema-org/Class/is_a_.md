@@ -38,8 +38,7 @@ This is also equivalent to the [[is_instance_of|typeof]] Relation.
 
 ```ccard
 type: folder_brief_live
-```
- 
+``` 
 
 
 ## Confidential Links & Embeds: 

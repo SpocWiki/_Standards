@@ -32,7 +32,7 @@ A music store.
 #class/MusicStore
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/MusicStore
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

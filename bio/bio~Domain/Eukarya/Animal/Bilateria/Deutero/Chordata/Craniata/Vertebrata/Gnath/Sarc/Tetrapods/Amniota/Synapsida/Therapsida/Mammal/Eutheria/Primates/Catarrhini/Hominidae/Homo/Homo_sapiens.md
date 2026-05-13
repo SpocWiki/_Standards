@@ -645,7 +645,7 @@ dv_has_:
   location ::        Botswana
   Comments          Woman of the !Kung bushmen
   copyright ::         © 1997 [Rodney Barnett](http://www.arts-net.com/barnett/)
-  ----------------------
+  ---------------------- 
 
 
 ## Confidential Links & Embeds: 

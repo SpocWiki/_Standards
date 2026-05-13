@@ -87,7 +87,7 @@ and what we now think of as classically Beatlesque pop (“Good Day Sunshine”)
 _Revolver_ cemented the idea of the pop album as an intricate, labored-over studio creation.
 
 “When I met Paul McCartney, I said to him, ‘You know what I really loved about The Beatles? You always had the f...g best melodies.’”
-Ozzy Osbourne
+Ozzy Osbourne 
 
 
 ## Confidential Links & Embeds: 

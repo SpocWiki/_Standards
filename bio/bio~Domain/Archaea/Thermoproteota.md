@@ -265,7 +265,7 @@ do reveal considerably greater phylogenetic breadth than was previously known fo
 ![](Thermoproteota/pyrobaculum.jpg)
   scientific_name ::  Pyrobaculum
   Comments          Pyrobaculum, a rod-shaped organism with flagella. Transmission electron micrograph of a cell, shodowed with platinum (Voelkl 1993).
-  copyright ::         © 1997 R. Rachel
+  copyright ::         © 1997 R. Rachel 
 
 
 ## Confidential Links & Embeds: 

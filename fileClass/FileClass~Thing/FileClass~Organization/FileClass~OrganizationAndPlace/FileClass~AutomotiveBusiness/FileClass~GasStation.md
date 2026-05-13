@@ -32,7 +32,7 @@ A gas station.
 #class/GasStation
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/GasStation
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

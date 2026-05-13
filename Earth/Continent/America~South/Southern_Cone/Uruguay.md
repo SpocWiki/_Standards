@@ -1114,7 +1114,7 @@ Uruguay has achieved an impressive **94–98 % renewable** electricity share:
 | Solar            |  3.7 |  3.7 | ~3 % range                                |
 | Fossil (thermal) |  7.8 |  7.8 | Limited to dry seasons/back‐up            |
 
-With such a diversified profile, Uruguay exports electricity to Brazil and Argentina, especially during surplus periods
+With such a diversified profile, Uruguay exports electricity to Brazil and Argentina, especially during surplus periods 
 
 
 ## Confidential Links & Embeds: 

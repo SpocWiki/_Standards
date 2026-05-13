@@ -32,7 +32,7 @@ Event type: Business event.
 #class/BusinessEvent
 #class/Thing/Event/BusinessEvent
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

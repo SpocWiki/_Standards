@@ -142,5 +142,22 @@ These are **derived analytical products**.
 | Analysis-ready data  | multiple derived rasters |
 | GIS compatibility    | GDAL/QGIS support layers |
 | uncertainty tracking | error models included    |
-| fast preview         | low-res quicklook files  |
+| fast preview         | low-res quicklook files  | 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Geography/GIS(Geographic_Information_System)/Copernicus_Programme|Copernicus_Programme]] 
+
+### #is_/same_as :: [[/_public/Earth/Geography/GIS(Geographic_Information_System)/Copernicus_Programme.public|Copernicus_Programme.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Geography/GIS(Geographic_Information_System)/Copernicus_Programme.internal|Copernicus_Programme.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Geography/GIS(Geographic_Information_System)/Copernicus_Programme.protect|Copernicus_Programme.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Geography/GIS(Geographic_Information_System)/Copernicus_Programme.private|Copernicus_Programme.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Geography/GIS(Geographic_Information_System)/Copernicus_Programme.personal|Copernicus_Programme.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Geography/GIS(Geographic_Information_System)/Copernicus_Programme.secret|Copernicus_Programme.secret]] 
 

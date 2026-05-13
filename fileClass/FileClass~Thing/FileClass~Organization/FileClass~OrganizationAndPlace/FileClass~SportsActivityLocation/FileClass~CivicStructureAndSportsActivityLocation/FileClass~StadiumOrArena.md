@@ -32,7 +32,7 @@ A stadium.
 #class/StadiumOrArena
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/CivicStructureAndSportsActivityLocation/StadiumOrArena
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

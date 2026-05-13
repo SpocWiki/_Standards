@@ -214,17 +214,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[1940-Green_Revolution+1960|Green_Revolution]] 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Agricultural_Revolution/1940-Green_Revolution+1960|1940-Green_Revolution+1960]] 
 
-### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Green_Revolution.public|Green_Revolution.public]] 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Agricultural_Revolution/1940-Green_Revolution+1960.public|1940-Green_Revolution+1960.public]] 
 
-### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Green_Revolution.internal|Green_Revolution.internal]] 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Agricultural_Revolution/1940-Green_Revolution+1960.internal|1940-Green_Revolution+1960.internal]] 
 
-### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Green_Revolution.protect|Green_Revolution.protect]] 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Agricultural_Revolution/1940-Green_Revolution+1960.protect|1940-Green_Revolution+1960.protect]] 
 
-### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Green_Revolution.private|Green_Revolution.private]] 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Agricultural_Revolution/1940-Green_Revolution+1960.private|1940-Green_Revolution+1960.private]] 
 
-### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Green_Revolution.personal|Green_Revolution.personal]] 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Agricultural_Revolution/1940-Green_Revolution+1960.personal|1940-Green_Revolution+1960.personal]] 
 
-### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Green_Revolution.secret|Green_Revolution.secret]] 
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Agricultural_Revolution/1940-Green_Revolution+1960.secret|1940-Green_Revolution+1960.secret]] 
 

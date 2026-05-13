@@ -32,7 +32,7 @@ A radio station.
 #class/RadioStation
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/RadioStation
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

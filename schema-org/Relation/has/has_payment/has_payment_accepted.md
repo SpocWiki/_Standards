@@ -76,17 +76,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_payment_accepted|has_payment_accepted]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_payment/has_payment_accepted|has_payment_accepted]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_payment_accepted.public|has_payment_accepted.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_payment/has_payment_accepted.public|has_payment_accepted.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_payment_accepted.internal|has_payment_accepted.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_payment/has_payment_accepted.internal|has_payment_accepted.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_payment_accepted.protect|has_payment_accepted.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_payment/has_payment_accepted.protect|has_payment_accepted.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_payment_accepted.private|has_payment_accepted.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_payment/has_payment_accepted.private|has_payment_accepted.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_payment_accepted.personal|has_payment_accepted.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_payment/has_payment_accepted.personal|has_payment_accepted.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_payment_accepted.secret|has_payment_accepted.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_payment/has_payment_accepted.secret|has_payment_accepted.secret]] 
 

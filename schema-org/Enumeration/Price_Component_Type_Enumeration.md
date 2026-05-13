@@ -61,6 +61,7 @@ Enumerates different price components that together make up the total price for 
 
 has_parent_class = `=this.dv_has_parent_class` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Price_Component_Type_Enumeration|Price_Component_Type_Enumeration]] 

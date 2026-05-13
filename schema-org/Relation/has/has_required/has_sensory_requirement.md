@@ -86,22 +86,22 @@ Relation describes that:
 
 has_domain = `=this.dv_has_domain` 
 has_name = `=this.dv_has_name` 
-(has_/range :: [[../../../Class/is_a_/Intangible/Defined_Term|Defined_Term]], [[../../../Class/is_a_/Data_Type/Text|Text]], [[../../../Class/is_a_/Data_Type/Text/Url|Url]] )
+(has_/range :: [[../../../Class/is_a_/Intangible/Defined_Term|Defined_Term]], [[../../../Class/is_a_/Data_Type/Text|Text]], [[../../../Class/is_a_/Data_Type/Text/Url|Url]] ) 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_sensory_requirement|has_sensory_requirement]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_required/has_sensory_requirement|has_sensory_requirement]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_sensory_requirement.public|has_sensory_requirement.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_required/has_sensory_requirement.public|has_sensory_requirement.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_sensory_requirement.internal|has_sensory_requirement.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_required/has_sensory_requirement.internal|has_sensory_requirement.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_sensory_requirement.protect|has_sensory_requirement.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_required/has_sensory_requirement.protect|has_sensory_requirement.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_sensory_requirement.private|has_sensory_requirement.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_required/has_sensory_requirement.private|has_sensory_requirement.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_sensory_requirement.personal|has_sensory_requirement.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_required/has_sensory_requirement.personal|has_sensory_requirement.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_sensory_requirement.secret|has_sensory_requirement.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_required/has_sensory_requirement.secret|has_sensory_requirement.secret]] 
 

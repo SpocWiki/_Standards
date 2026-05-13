@@ -158,7 +158,7 @@ IUCN, Switzerland and Cambridge, Gland, 390 p.
   Source Collection    [Flickr](http://flickr.com/)
   Image Use ::    [Attribution 2.0 Creative Commons License](http://creativecommons.org/licenses/by/2.0/).
   copyright ::            © 2006 [su neko](http://flickr.com/people/suneko/)
-  --------------------------------------------------------
+  -------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

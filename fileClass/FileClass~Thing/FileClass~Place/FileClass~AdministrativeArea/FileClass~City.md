@@ -31,7 +31,7 @@ A city or town.
 #class/City
 #class/Thing/Place/AdministrativeArea/City
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

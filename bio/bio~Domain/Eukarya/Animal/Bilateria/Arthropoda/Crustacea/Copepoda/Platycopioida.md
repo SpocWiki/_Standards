@@ -76,7 +76,7 @@ Platycopiidae
 	-   *Platycopia*
 	-   *Nanocopia*
 	-   *Sarsicopia*
-	-   *Antrisocopia*
+	-   *Antrisocopia* 
 
 
 ## Confidential Links & Embeds: 

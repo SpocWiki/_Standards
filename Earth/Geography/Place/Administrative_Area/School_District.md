@@ -62,7 +62,7 @@ A School District is an administrative area for the administration of schools.
 
 has_parent_class = `=this.dv_has_parent_class`] ]
 
-has_properties = `=this.dv_has_properties` ]
+has_properties = `=this.dv_has_properties` ] 
 
 
 ## Confidential Links & Embeds: 

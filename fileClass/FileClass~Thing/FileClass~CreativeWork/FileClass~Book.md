@@ -88,7 +88,7 @@ Isbn:: {"type":"Input","options":{}}
 ### NumberOfPages
 The number of pages in the book.
 
-NumberOfPages:: {"type":"Number","options":{}}
+NumberOfPages:: {"type":"Number","options":{}} 
 
 
 ## Confidential Links & Embeds: 

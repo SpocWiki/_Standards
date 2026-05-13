@@ -139,3 +139,21 @@ booru_tag: mel_gibson
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mel%20Gibson)  
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Gibson,Mel|Gibson,Mel]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Gibson,Mel.public|Gibson,Mel.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Gibson,Mel.internal|Gibson,Mel.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Gibson,Mel.protect|Gibson,Mel.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Gibson,Mel.private|Gibson,Mel.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Gibson,Mel.personal|Gibson,Mel.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Gibson,Mel.secret|Gibson,Mel.secret]] 

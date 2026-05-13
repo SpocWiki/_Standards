@@ -63,7 +63,7 @@ See also the dedicated <a href="https://schema.org/docs/hotels.html">document on
 
 has_parent_class = `=this.dv_has_parent_class`] ]
 
-has_properties = `=this.dv_has_properties` ]
+has_properties = `=this.dv_has_properties` ] 
 
 
 ## Confidential Links & Embeds: 

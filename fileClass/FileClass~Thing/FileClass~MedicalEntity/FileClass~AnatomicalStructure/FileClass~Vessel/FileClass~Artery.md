@@ -54,7 +54,7 @@ ArterialBranch:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#clas
 ### SupplyTo
 The area to which the artery supplies blood.
 
-SupplyTo:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')"}}
+SupplyTo:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')"}} 
 
 
 ## Confidential Links & Embeds: 

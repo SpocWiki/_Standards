@@ -10,6 +10,7 @@ type: LangFamily
 
 has_/name::isolated 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-isolated|LangFamily-isolated]] 

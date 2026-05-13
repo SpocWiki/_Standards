@@ -133,7 +133,7 @@ specimen_condition ::  Live Specimen
 Sex ::                Female
 Life Cycle Stage ::     adult
 View                 left side
-copyright ::            © 1998 David Wrobel
+copyright ::            © 1998 David Wrobel 
 
 
 ## Confidential Links & Embeds: 

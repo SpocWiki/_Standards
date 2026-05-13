@@ -285,17 +285,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Tropic_of_Cancer|Tropic_of_Cancer]] 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Cartography/Circle_of_Latitude/Tropic_of_Cancer|Tropic_of_Cancer]] 
 
-### #is_/same_as :: [[/_public/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.public|Tropic_of_Cancer.public]] 
+### #is_/same_as :: [[/_public/Earth/Geography/Cartography/Circle_of_Latitude/Tropic_of_Cancer.public|Tropic_of_Cancer.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.internal|Tropic_of_Cancer.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Geography/Cartography/Circle_of_Latitude/Tropic_of_Cancer.internal|Tropic_of_Cancer.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.protect|Tropic_of_Cancer.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Geography/Cartography/Circle_of_Latitude/Tropic_of_Cancer.protect|Tropic_of_Cancer.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.private|Tropic_of_Cancer.private]] 
+### #is_/same_as :: [[/_private/Earth/Geography/Cartography/Circle_of_Latitude/Tropic_of_Cancer.private|Tropic_of_Cancer.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.personal|Tropic_of_Cancer.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Geography/Cartography/Circle_of_Latitude/Tropic_of_Cancer.personal|Tropic_of_Cancer.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.secret|Tropic_of_Cancer.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Geography/Cartography/Circle_of_Latitude/Tropic_of_Cancer.secret|Tropic_of_Cancer.secret]] 
 

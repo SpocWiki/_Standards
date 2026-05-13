@@ -381,7 +381,7 @@ $$ \Large
 
 \int_{i=1}^{N}
 
-$$
+$$ 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ Vital signs are measures of various physiological functions in order to assess t
 #class/VitalSign
 #class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom/MedicalSign/VitalSign
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

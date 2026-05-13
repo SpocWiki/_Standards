@@ -44,7 +44,7 @@ The act of planning the execution of an event/task/action/reservation/plan to a 
 ### ScheduledTime
 The time the object is scheduled to.
 
-ScheduledTime:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
+ScheduledTime:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}} 
 
 
 ## Confidential Links & Embeds: 

@@ -62,3 +62,21 @@ The Film-Music features the Morse-Code Long-Long-Dot-Dot, "MI" in a 5/4 Time.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mission:%20Impossible)
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Mission_Impossible|Mission_Impossible]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Mission_Impossible.public|Mission_Impossible.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Mission_Impossible.internal|Mission_Impossible.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Mission_Impossible.protect|Mission_Impossible.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Mission_Impossible.private|Mission_Impossible.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Mission_Impossible.personal|Mission_Impossible.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Mission_Impossible.secret|Mission_Impossible.secret]] 

@@ -219,17 +219,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Utilitarianism|Utilitarianism]] 
+### #is_/same_as :: [[/_Standards/Philosophy/Ethics/Ethical_Aim/Utilitarianism|Utilitarianism]] 
 
-### #is_/same_as :: [[/_public/Philosophy/Ethics/Utilitarianism.public|Utilitarianism.public]] 
+### #is_/same_as :: [[/_public/Philosophy/Ethics/Ethical_Aim/Utilitarianism.public|Utilitarianism.public]] 
 
-### #is_/same_as :: [[/_internal/Philosophy/Ethics/Utilitarianism.internal|Utilitarianism.internal]] 
+### #is_/same_as :: [[/_internal/Philosophy/Ethics/Ethical_Aim/Utilitarianism.internal|Utilitarianism.internal]] 
 
-### #is_/same_as :: [[/_protect/Philosophy/Ethics/Utilitarianism.protect|Utilitarianism.protect]] 
+### #is_/same_as :: [[/_protect/Philosophy/Ethics/Ethical_Aim/Utilitarianism.protect|Utilitarianism.protect]] 
 
-### #is_/same_as :: [[/_private/Philosophy/Ethics/Utilitarianism.private|Utilitarianism.private]] 
+### #is_/same_as :: [[/_private/Philosophy/Ethics/Ethical_Aim/Utilitarianism.private|Utilitarianism.private]] 
 
-### #is_/same_as :: [[/_personal/Philosophy/Ethics/Utilitarianism.personal|Utilitarianism.personal]] 
+### #is_/same_as :: [[/_personal/Philosophy/Ethics/Ethical_Aim/Utilitarianism.personal|Utilitarianism.personal]] 
 
-### #is_/same_as :: [[/_secret/Philosophy/Ethics/Utilitarianism.secret|Utilitarianism.secret]] 
+### #is_/same_as :: [[/_secret/Philosophy/Ethics/Ethical_Aim/Utilitarianism.secret|Utilitarianism.secret]] 
 

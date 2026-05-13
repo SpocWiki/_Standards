@@ -32,7 +32,7 @@ A volcano, like Fujisan.
 #class/Volcano
 #class/Thing/Place/Landform/Volcano
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

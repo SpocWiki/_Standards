@@ -446,7 +446,7 @@ WorkFeatured:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/
 ### WorkPerformed
 A work performed in some event, for example a play performed in a TheaterEvent.
 
-WorkPerformed:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}
+WorkPerformed:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}} 
 
 
 ## Confidential Links & Embeds: 

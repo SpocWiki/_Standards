@@ -91,7 +91,7 @@ Letterer:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thin
 ### Penciler
 The individual who draws the primary narrative artwork.
 
-Penciler:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Person')"}}
+Penciler:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Person')"}} 
 
 
 ## Confidential Links & Embeds: 

@@ -276,7 +276,7 @@ dv_has_:
   Source               [Darkroom People: Vicuñas](http://www.darkroompeople.com/drp9/photos/lauca/imagepages/image003.php)
   Image Use ::    [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
   copyright ::            © [Bruno Furnari](http://www.darkroompeople.com/)
-  ------------------------------------------------------------------
+  ------------------------------------------------------------------ 
 
 
 ## Confidential Links & Embeds: 

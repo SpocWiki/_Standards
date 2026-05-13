@@ -118,7 +118,7 @@ RestPeriods:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/T
 ### Workload
 Quantitative measure of the physiologic output of the exercise; also referred to as energy expenditure.
 
-Workload:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
+Workload:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}} 
 
 
 ## Confidential Links & Embeds: 

@@ -171,7 +171,7 @@ copyright ::            © 2002 [Mac H. Alford](http://www.usm.edu/biology/)
 scientific_name ::  Lacistema aggregatum
 location ::        Panama: Barro Colorado Island
 Creator           Steven Paton
-copyright ::         © 2006 [Smithsonian Tropical Research Institute](mailto:patons@si.edu)
+copyright ::         © 2006 [Smithsonian Tropical Research Institute](mailto:patons@si.edu) 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ A shoe store.
 #class/ShoeStore
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ShoeStore
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

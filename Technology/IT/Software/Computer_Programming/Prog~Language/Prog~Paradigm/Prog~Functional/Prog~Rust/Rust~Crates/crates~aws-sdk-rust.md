@@ -12,7 +12,7 @@ async fn print_tables() -> Result<(), Error> {
     println!("Current DynamoDB tables: {:?}", names);
     Ok(())
 }
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

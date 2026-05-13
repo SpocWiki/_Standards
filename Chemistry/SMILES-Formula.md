@@ -162,7 +162,7 @@ or numbered e.g.
 
 ## Examples 
 
-SMILES `O=C=O` ([carbon dioxide](https://en.wikipedia.org/wiki/Carbon_dioxide "Carbon dioxide") CO2), `C#N` ([hydrogen cyanide](https://en.wikipedia.org/wiki/Hydrogen_cyanide "Hydrogen cyanide") HCN) and  ([gallium arsenide](https://en.wikipedia.org/wiki/Gallium_arsenide "Gallium arsenide")).
+SMILES `O=C=O` ([carbon dioxide](https://en.wikipedia.org/wiki/Carbon_dioxide "Carbon dioxide") CO2), `C#N` ([hydrogen cyanide](https://en.wikipedia.org/wiki/Hydrogen_cyanide "Hydrogen cyanide") HCN) and  ([gallium arsenide](https://en.wikipedia.org/wiki/Gallium_arsenide "Gallium arsenide")). 
 
 
 ## Confidential Links & Embeds: 

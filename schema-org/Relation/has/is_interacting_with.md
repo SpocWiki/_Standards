@@ -80,7 +80,7 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[is_interacting_with|is_interacting_with]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/is_interacting_with|is_interacting_with]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/is_interacting_with.public|is_interacting_with.public]] 
 

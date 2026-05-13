@@ -80,17 +80,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_size_group|has_size_group]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_size/has_size_group|has_size_group]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_size_group.public|has_size_group.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_size/has_size_group.public|has_size_group.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_size_group.internal|has_size_group.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_size/has_size_group.internal|has_size_group.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_size_group.protect|has_size_group.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_size/has_size_group.protect|has_size_group.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_size_group.private|has_size_group.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_size/has_size_group.private|has_size_group.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_size_group.personal|has_size_group.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_size/has_size_group.personal|has_size_group.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_size_group.secret|has_size_group.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_size/has_size_group.secret|has_size_group.secret]] 
 

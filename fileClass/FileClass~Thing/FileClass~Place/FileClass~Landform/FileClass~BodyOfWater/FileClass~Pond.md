@@ -32,7 +32,7 @@ A pond.
 #class/Pond
 #class/Thing/Place/Landform/BodyOfWater/Pond
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

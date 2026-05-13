@@ -32,7 +32,7 @@ Event type: Festival.
 #class/Festival
 #class/Thing/Event/Festival
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

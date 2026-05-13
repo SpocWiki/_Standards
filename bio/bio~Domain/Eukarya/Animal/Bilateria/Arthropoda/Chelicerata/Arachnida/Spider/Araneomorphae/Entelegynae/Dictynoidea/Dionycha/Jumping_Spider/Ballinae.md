@@ -79,7 +79,7 @@ This pattern, however, is also seen in Cheliferoides and Descanso, which
 I have interpreted to be
 [synagelines](tree?group=Synagelinae&contgroup=Salticidae).
 The distinction between synagelines and ballines is clouded by other
-characters as well.
+characters as well. 
 
 
 ## Confidential Links & Embeds: 

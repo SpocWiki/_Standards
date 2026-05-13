@@ -435,7 +435,7 @@ scientific_name ::     Tylototriton shanjing
 location ::           China
 Comments             A newt (Salamandridae)
 specimen_condition ::  Live Specimen
-copyright ::            © 1996 Dr. Tom A. Titus
+copyright ::            © 1996 Dr. Tom A. Titus 
 
 
 ## Confidential Links & Embeds: 

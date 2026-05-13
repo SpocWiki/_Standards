@@ -84,17 +84,17 @@ has_range :: [[../../../../Society/Communication/Media/Creative_Work/Comment/Cor
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_correction|has_correction]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_publishing_principle/has_correction|has_correction]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_correction.public|has_correction.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_publishing_principle/has_correction.public|has_correction.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_correction.internal|has_correction.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_publishing_principle/has_correction.internal|has_correction.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_correction.protect|has_correction.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_publishing_principle/has_correction.protect|has_correction.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_correction.private|has_correction.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_publishing_principle/has_correction.private|has_correction.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_correction.personal|has_correction.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_publishing_principle/has_correction.personal|has_correction.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_correction.secret|has_correction.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_publishing_principle/has_correction.secret|has_correction.secret]] 
 

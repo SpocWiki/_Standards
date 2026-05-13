@@ -78,17 +78,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_study_location|has_study_location]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_study/has_study_location|has_study_location]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_study_location.public|has_study_location.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_study/has_study_location.public|has_study_location.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_study_location.internal|has_study_location.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_study/has_study_location.internal|has_study_location.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_study_location.protect|has_study_location.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_study/has_study_location.protect|has_study_location.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_study_location.private|has_study_location.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_study/has_study_location.private|has_study_location.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_study_location.personal|has_study_location.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_study/has_study_location.personal|has_study_location.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_study_location.secret|has_study_location.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_study/has_study_location.secret|has_study_location.secret]] 
 

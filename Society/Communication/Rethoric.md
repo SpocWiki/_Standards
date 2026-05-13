@@ -226,3 +226,21 @@ dv_has_:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rhetoric)  
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Rethoric|Rethoric]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Rethoric.public|Rethoric.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Rethoric.internal|Rethoric.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Rethoric.protect|Rethoric.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Rethoric.private|Rethoric.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Rethoric.personal|Rethoric.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Rethoric.secret|Rethoric.secret]] 

@@ -245,17 +245,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Schwarzenegger,Arnold|Schwarzenegger,Arnold]] 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Schwarzenegger,Arnold|Schwarzenegger,Arnold]] 
 
-### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Schwarzenegger,Arnold.public|Schwarzenegger,Arnold.public]] 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Schwarzenegger,Arnold.public|Schwarzenegger,Arnold.public]] 
 
-### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Schwarzenegger,Arnold.internal|Schwarzenegger,Arnold.internal]] 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Schwarzenegger,Arnold.internal|Schwarzenegger,Arnold.internal]] 
 
-### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Schwarzenegger,Arnold.protect|Schwarzenegger,Arnold.protect]] 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Schwarzenegger,Arnold.protect|Schwarzenegger,Arnold.protect]] 
 
-### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Schwarzenegger,Arnold.private|Schwarzenegger,Arnold.private]] 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Schwarzenegger,Arnold.private|Schwarzenegger,Arnold.private]] 
 
-### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Schwarzenegger,Arnold.personal|Schwarzenegger,Arnold.personal]] 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Schwarzenegger,Arnold.personal|Schwarzenegger,Arnold.personal]] 
 
-### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Schwarzenegger,Arnold.secret|Schwarzenegger,Arnold.secret]] 
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Schwarzenegger,Arnold.secret|Schwarzenegger,Arnold.secret]] 
 

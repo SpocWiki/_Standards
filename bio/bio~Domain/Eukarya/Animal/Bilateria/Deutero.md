@@ -203,7 +203,7 @@ Biology and Evolution 19:762-776.
   specimen_condition ::  Dead Specimen
   copyright ::            © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
  
-  ---------------------------------------------------------------------------
+  --------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

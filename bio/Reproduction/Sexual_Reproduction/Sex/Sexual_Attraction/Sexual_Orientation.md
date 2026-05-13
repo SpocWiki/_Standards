@@ -272,7 +272,7 @@ dv_has_:
 >
 > Sexual orientation is studied primarily within biology, anthropology, and psychology (including sexology), but it is also a subject area in sociology, history (including social constructionist perspectives), and law.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sexual%20orientation)Sexual_orientation
+> [Wikipedia](https://en.wikipedia.org/wiki/Sexual%20orientation)Sexual_orientation 
 
 
 ## Confidential Links & Embeds: 

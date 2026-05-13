@@ -151,7 +151,7 @@ So Transatlantic Cables can be built only by international Consortiums.
 When a Cable is damaged, it needs to be retrieved and repaired on board of a ship. 
 
 There are ca. 12k Data_Centers world-wide, half of them in the US, more than 40 around Frankfurt. 
-Each costs ca. 300e6$  
+Each costs ca. 300e6$ 
 
 
 ## Confidential Links & Embeds: 

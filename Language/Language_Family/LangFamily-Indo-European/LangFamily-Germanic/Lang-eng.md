@@ -1032,7 +1032,7 @@ has_/name::English
 | "L-vocalisation" (milk → miwk) |              80 |
 | TH-fronting (think → fink)     |              50 |
 | Diphthong shifts (face, goat)  |              50 |
-| rhyming slang usage            |              10 |
+| rhyming slang usage            |              10 | 
 
 
 ## Confidential Links & Embeds: 

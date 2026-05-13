@@ -57,7 +57,7 @@ InfectiousAgentClass:: {"type":"Select","options":{"valuesList":{"Bacteria","Fun
 ### TransmissionMethod
 How the disease spreads, either as a route or vector, for example 'direct contact', 'Aedes aegypti', etc.
 
-TransmissionMethod:: {"type":"Input","options":{}}
+TransmissionMethod:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

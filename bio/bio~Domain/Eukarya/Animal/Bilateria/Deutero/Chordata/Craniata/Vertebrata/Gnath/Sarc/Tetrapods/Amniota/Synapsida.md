@@ -543,7 +543,7 @@ Zimmer C. Meet the relatives. Discover, 1991, 56-57.
   Creator              Drawing by Steve Kirk
   specimen_condition ::  Fossil \-- Period: Lower Permian
   copyright ::            © 1991 Discover Magazine
-  ---------------------------------------------------------------------
+  --------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

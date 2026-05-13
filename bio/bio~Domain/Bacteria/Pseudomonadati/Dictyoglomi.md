@@ -104,7 +104,7 @@ dv_has_:
 
 -   » Sub-Groups 
 	-   *Dictyoglomus thermophilum*
-	-   *Dictyoglomus turgidum*
+	-   *Dictyoglomus turgidum* 
 
 
 ## Confidential Links & Embeds: 

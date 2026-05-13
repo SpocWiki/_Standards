@@ -268,17 +268,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Tricarboxylic_Acid_Cycle|Tricarboxylic_Acid_Cycle]] 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/ATP(adenosine_triphosphate)/Tricarboxylic_Acid_Cycle|Tricarboxylic_Acid_Cycle]] 
 
-### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Tricarboxylic_Acid_Cycle.public|Tricarboxylic_Acid_Cycle.public]] 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/ATP(adenosine_triphosphate)/Tricarboxylic_Acid_Cycle.public|Tricarboxylic_Acid_Cycle.public]] 
 
-### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Tricarboxylic_Acid_Cycle.internal|Tricarboxylic_Acid_Cycle.internal]] 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/ATP(adenosine_triphosphate)/Tricarboxylic_Acid_Cycle.internal|Tricarboxylic_Acid_Cycle.internal]] 
 
-### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Tricarboxylic_Acid_Cycle.protect|Tricarboxylic_Acid_Cycle.protect]] 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/ATP(adenosine_triphosphate)/Tricarboxylic_Acid_Cycle.protect|Tricarboxylic_Acid_Cycle.protect]] 
 
-### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Tricarboxylic_Acid_Cycle.private|Tricarboxylic_Acid_Cycle.private]] 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/ATP(adenosine_triphosphate)/Tricarboxylic_Acid_Cycle.private|Tricarboxylic_Acid_Cycle.private]] 
 
-### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Tricarboxylic_Acid_Cycle.personal|Tricarboxylic_Acid_Cycle.personal]] 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/ATP(adenosine_triphosphate)/Tricarboxylic_Acid_Cycle.personal|Tricarboxylic_Acid_Cycle.personal]] 
 
-### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Tricarboxylic_Acid_Cycle.secret|Tricarboxylic_Acid_Cycle.secret]] 
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/ATP(adenosine_triphosphate)/Tricarboxylic_Acid_Cycle.secret|Tricarboxylic_Acid_Cycle.secret]] 
 

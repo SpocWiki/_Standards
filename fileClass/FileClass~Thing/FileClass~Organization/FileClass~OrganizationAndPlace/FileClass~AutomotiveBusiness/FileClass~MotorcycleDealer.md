@@ -32,7 +32,7 @@ A motorcycle dealer.
 #class/MotorcycleDealer
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/MotorcycleDealer
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

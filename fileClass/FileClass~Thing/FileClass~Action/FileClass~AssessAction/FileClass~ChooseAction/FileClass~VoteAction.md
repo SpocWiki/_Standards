@@ -43,7 +43,7 @@ The act of expressing a preference from a fixed/finite/structured set of choices
 ### Candidate
 A sub property of object. The candidate subject of this action.
 
-Candidate:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Person')"}}
+Candidate:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Person')"}} 
 
 
 ## Confidential Links & Embeds: 

@@ -157,17 +157,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Air_defense|Air_defense]] 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/War/Air_defense|Air_defense]] 
 
-### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/War/Air_defense.public|Air_defense.public]] 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/War/Air_defense.public|Air_defense.public]] 
 
-### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/War/Air_defense.internal|Air_defense.internal]] 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/War/Air_defense.internal|Air_defense.internal]] 
 
-### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/War/Air_defense.protect|Air_defense.protect]] 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/War/Air_defense.protect|Air_defense.protect]] 
 
-### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/War/Air_defense.private|Air_defense.private]] 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/War/Air_defense.private|Air_defense.private]] 
 
-### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/War/Air_defense.personal|Air_defense.personal]] 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/War/Air_defense.personal|Air_defense.personal]] 
 
-### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/War/Air_defense.secret|Air_defense.secret]] 
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/War/Air_defense.secret|Air_defense.secret]] 
 

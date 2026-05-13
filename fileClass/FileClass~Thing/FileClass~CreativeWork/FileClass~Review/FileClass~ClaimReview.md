@@ -42,7 +42,7 @@ A fact-checking review of claims made (or reported) in some creative work (refer
 ### ClaimReviewed
 A short summary of the specific claims reviewed in a ClaimReview.
 
-ClaimReviewed:: {"type":"Input","options":{}}
+ClaimReviewed:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

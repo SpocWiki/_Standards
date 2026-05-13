@@ -73,17 +73,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_diagnosis_differential|has_diagnosis_differential]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_diagnosis/has_diagnosis_differential|has_diagnosis_differential]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_diagnosis_differential.public|has_diagnosis_differential.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_diagnosis/has_diagnosis_differential.public|has_diagnosis_differential.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_diagnosis_differential.internal|has_diagnosis_differential.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_diagnosis/has_diagnosis_differential.internal|has_diagnosis_differential.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_diagnosis_differential.protect|has_diagnosis_differential.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_diagnosis/has_diagnosis_differential.protect|has_diagnosis_differential.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_diagnosis_differential.private|has_diagnosis_differential.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_diagnosis/has_diagnosis_differential.private|has_diagnosis_differential.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_diagnosis_differential.personal|has_diagnosis_differential.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_diagnosis/has_diagnosis_differential.personal|has_diagnosis_differential.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_diagnosis_differential.secret|has_diagnosis_differential.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_diagnosis/has_diagnosis_differential.secret|has_diagnosis_differential.secret]] 
 

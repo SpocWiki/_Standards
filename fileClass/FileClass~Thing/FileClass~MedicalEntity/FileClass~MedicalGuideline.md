@@ -70,7 +70,7 @@ GuidelineDate:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInse
 ### GuidelineSubject
 The medical conditions, treatments, etc. that are the subject of the guideline.
 
-GuidelineSubject:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity')"}}
+GuidelineSubject:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity')"}} 
 
 
 ## Confidential Links & Embeds: 

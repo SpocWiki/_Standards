@@ -147,7 +147,7 @@ TrackingNumber:: {"type":"Input","options":{}}
 ### TrackingUrl
 Tracking url for the parcel delivery.
 
-TrackingUrl:: {"type":"Input","options":{}}
+TrackingUrl:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

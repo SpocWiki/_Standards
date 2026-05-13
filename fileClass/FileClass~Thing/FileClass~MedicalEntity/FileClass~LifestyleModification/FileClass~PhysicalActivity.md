@@ -68,7 +68,7 @@ Epidemiology:: {"type":"Input","options":{}}
 ### Pathophysiology
 Changes in the normal mechanical, physical, and biochemical functions that are associated with this activity or condition.
 
-Pathophysiology:: {"type":"Input","options":{}}
+Pathophysiology:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

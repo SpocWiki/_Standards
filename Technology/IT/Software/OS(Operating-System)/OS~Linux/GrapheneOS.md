@@ -150,3 +150,21 @@ Facebook_username: GrapheneOS
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/GrapheneOS)  
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Linux/GrapheneOS|GrapheneOS]] 
+
+### #is_/same_as :: [[/_public/Technology/IT/Software/OS(Operating-System)/OS~Linux/GrapheneOS.public|GrapheneOS.public]] 
+
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OS(Operating-System)/OS~Linux/GrapheneOS.internal|GrapheneOS.internal]] 
+
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OS(Operating-System)/OS~Linux/GrapheneOS.protect|GrapheneOS.protect]] 
+
+### #is_/same_as :: [[/_private/Technology/IT/Software/OS(Operating-System)/OS~Linux/GrapheneOS.private|GrapheneOS.private]] 
+
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System)/OS~Linux/GrapheneOS.personal|GrapheneOS.personal]] 
+
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/OS~Linux/GrapheneOS.secret|GrapheneOS.secret]] 

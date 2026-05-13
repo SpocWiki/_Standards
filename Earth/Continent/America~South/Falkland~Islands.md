@@ -513,7 +513,7 @@ Capital :: [[Falkland~Islands/City/Stanley|Stanley]]
 [Alcohol-l::]
 [Language-Id::]
 has_place_longitude = `=this.dv_has_place_longitude`
-has_place_latitude = `=this.dv_has_place_latitude`
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ A zoo.
 #class/Zoo
 #class/Thing/Place/CivicStructure/Zoo
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

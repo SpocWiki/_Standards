@@ -190,7 +190,7 @@ Comments             Savanna warthog
 Acknowledgements     Photograph courtesy [InsectImages.org](http://www.insectimages.org/) (#0009146)
 specimen_condition ::  Live Specimen
 Source Collection    [InsectImages.org](http://www.insectimages.org/)
-copyright ::            © Chuck Bargeron, The University of Georgia
+copyright ::            © Chuck Bargeron, The University of Georgia 
 
 
 ## Confidential Links & Embeds: 

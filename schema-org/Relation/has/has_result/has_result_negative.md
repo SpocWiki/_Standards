@@ -94,23 +94,22 @@ has_domain = `=this.dv_has_domain`
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_result_negative|has_result_negative]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_result/has_result_negative|has_result_negative]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_result_negative.public|has_result_negative.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_result/has_result_negative.public|has_result_negative.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_result_negative.internal|has_result_negative.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_result/has_result_negative.internal|has_result_negative.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_result_negative.protect|has_result_negative.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_result/has_result_negative.protect|has_result_negative.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_result_negative.private|has_result_negative.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_result/has_result_negative.private|has_result_negative.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_result_negative.personal|has_result_negative.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_result/has_result_negative.personal|has_result_negative.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_result_negative.secret|has_result_negative.secret]] 
-
-
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_result/has_result_negative.secret|has_result_negative.secret]] 
 # [[has_result_negative]] 
 
 is_part_of = `=this.dv_is_part_of` 

@@ -32,7 +32,7 @@ A music venue.
 #class/MusicVenue
 #class/Thing/Place/CivicStructure/MusicVenue
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

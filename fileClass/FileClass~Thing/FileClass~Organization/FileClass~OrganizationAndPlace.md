@@ -658,7 +658,7 @@ VatID:: {"type":"Input","options":{}}
 ### Events
 Upcoming or past event associated with this place, organization, or action.
 
-Events:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Event')"}}
+Events:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Event')"}} 
 
 
 ## Confidential Links & Embeds: 

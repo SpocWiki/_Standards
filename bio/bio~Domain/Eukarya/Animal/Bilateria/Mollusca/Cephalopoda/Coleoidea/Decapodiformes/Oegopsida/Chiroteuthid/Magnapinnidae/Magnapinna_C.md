@@ -113,7 +113,7 @@ Magnapinna atlantica, n. sp. Proc. Biol. Soc. Wash. 119 (3): 365-372.
   Reference            Hardy, A. 1956. The Open Sea. Fisher, J., J. Gilmour, J. Huxley, M. Davies, and E. Hosking, Eds., Collins, London, 1956.
   specimen_condition ::  Dead Specimen
   View                 Dorsal
-  ------------------------------------------
+  ------------------------------------------ 
 
 
 ## Confidential Links & Embeds: 

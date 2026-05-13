@@ -167,7 +167,7 @@ copyright ::            © 2006 [Jardin Mundani](http://jardin-mundani.info/)
 ![Wisteria sinensis](Inverted_Repeat-lacking/Wisteria_sinensis.jpg) 
 scientific_name ::     Wisteria sinensis (Sims) Sweet
 specimen_condition ::  Live Specimen
-copyright ::            © 2006 [Annette Höggemeier](http://www.boga.ruhr-uni-bochum.de/)
+copyright ::            © 2006 [Annette Höggemeier](http://www.boga.ruhr-uni-bochum.de/) 
 
 
 ## Confidential Links & Embeds: 

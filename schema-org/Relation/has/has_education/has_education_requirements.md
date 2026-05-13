@@ -81,17 +81,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_education_requirements|has_education_requirements]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_education/has_education_requirements|has_education_requirements]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_education_requirements.public|has_education_requirements.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_education/has_education_requirements.public|has_education_requirements.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_education_requirements.internal|has_education_requirements.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_education/has_education_requirements.internal|has_education_requirements.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_education_requirements.protect|has_education_requirements.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_education/has_education_requirements.protect|has_education_requirements.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_education_requirements.private|has_education_requirements.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_education/has_education_requirements.private|has_education_requirements.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_education_requirements.personal|has_education_requirements.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_education/has_education_requirements.personal|has_education_requirements.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_education_requirements.secret|has_education_requirements.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_education/has_education_requirements.secret|has_education_requirements.secret]] 
 

@@ -32,7 +32,7 @@ A self-storage facility.
 #class/SelfStorage
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SelfStorage
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -69,19 +69,20 @@ has_parent_class = `=this.dv_has_parent_class`
 
 is_enum_of = `=this.dv_is_enum_of` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Permission_to_comment|Permission_to_Comment]] 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Digital_Document_Permission_Type/Permission_to_comment|Permission_to_comment]] 
 
-### #is_/same_as :: [[/_public/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.public|Comment_Permission.public]] 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Digital_Document_Permission_Type/Permission_to_comment.public|Permission_to_comment.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.internal|Comment_Permission.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Digital_Document_Permission_Type/Permission_to_comment.internal|Permission_to_comment.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.protect|Comment_Permission.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Digital_Document_Permission_Type/Permission_to_comment.protect|Permission_to_comment.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.private|Comment_Permission.private]] 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Digital_Document_Permission_Type/Permission_to_comment.private|Permission_to_comment.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.personal|Comment_Permission.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Digital_Document_Permission_Type/Permission_to_comment.personal|Permission_to_comment.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.secret|Comment_Permission.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Digital_Document_Permission_Type/Permission_to_comment.secret|Permission_to_comment.secret]] 
 

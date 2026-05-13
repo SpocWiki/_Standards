@@ -235,8 +235,7 @@ dv_has_:
 
 ### Linear:  a f + b g --> a F + b G 
 
-### Derivation becomes algebraic; f' --> s F - f(0)
-
+### Derivation becomes algebraic; f' --> s F - f(0) 
 
 
 ## Confidential Links & Embeds: 

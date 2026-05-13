@@ -198,17 +198,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Ångström|Ångström]] 
+### #is_/same_as :: [[/_Standards/Dimension/Linear_Dimension/Dim~Length/Ångström|Ångström]] 
 
-### #is_/same_as :: [[/_public/Dimension/Dim~Length/Ångström.public|Ångström.public]] 
+### #is_/same_as :: [[/_public/Dimension/Linear_Dimension/Dim~Length/Ångström.public|Ångström.public]] 
 
-### #is_/same_as :: [[/_internal/Dimension/Dim~Length/Ångström.internal|Ångström.internal]] 
+### #is_/same_as :: [[/_internal/Dimension/Linear_Dimension/Dim~Length/Ångström.internal|Ångström.internal]] 
 
-### #is_/same_as :: [[/_protect/Dimension/Dim~Length/Ångström.protect|Ångström.protect]] 
+### #is_/same_as :: [[/_protect/Dimension/Linear_Dimension/Dim~Length/Ångström.protect|Ångström.protect]] 
 
-### #is_/same_as :: [[/_private/Dimension/Dim~Length/Ångström.private|Ångström.private]] 
+### #is_/same_as :: [[/_private/Dimension/Linear_Dimension/Dim~Length/Ångström.private|Ångström.private]] 
 
-### #is_/same_as :: [[/_personal/Dimension/Dim~Length/Ångström.personal|Ångström.personal]] 
+### #is_/same_as :: [[/_personal/Dimension/Linear_Dimension/Dim~Length/Ångström.personal|Ångström.personal]] 
 
-### #is_/same_as :: [[/_secret/Dimension/Dim~Length/Ångström.secret|Ångström.secret]] 
+### #is_/same_as :: [[/_secret/Dimension/Linear_Dimension/Dim~Length/Ångström.secret|Ångström.secret]] 
 

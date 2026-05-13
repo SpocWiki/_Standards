@@ -137,7 +137,7 @@ green nonsulfur bacteria
 	-   *Oscillochloris*
 	-   *Herpetosiphon*
 	-   *Anaerolinea*
-	-   *Caldilinea*
+	-   *Caldilinea* 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ The act of momentarily pausing a device or application (e.g. pause music playbac
 #class/SuspendAction
 #class/Thing/Action/ControlAction/SuspendAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

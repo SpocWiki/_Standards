@@ -258,7 +258,7 @@ has_time_stopped = `=this.dv_has_time_stopped`
 [is_member_of :: [[Democratic-Republican Party]] ]  
 [is_member_of :: [[Whig Party]] ] 
    
--  [has_role :: [[../US_President|US_President]] ] [created:: 1841-04-04]cancelled = `=this.dv_cancelled`
+-  [has_role :: [[../US_President|US_President]] ] [created:: 1841-04-04]cancelled = `=this.dv_cancelled` 
 
 
 ## Confidential Links & Embeds: 

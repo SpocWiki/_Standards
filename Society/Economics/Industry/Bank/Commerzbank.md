@@ -251,3 +251,21 @@ motto_text: Die Bank an Ihrer Seite
 
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Bank/Commerzbank|Commerzbank]] 
+
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Bank/Commerzbank.public|Commerzbank.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Bank/Commerzbank.internal|Commerzbank.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Bank/Commerzbank.protect|Commerzbank.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Bank/Commerzbank.private|Commerzbank.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Bank/Commerzbank.personal|Commerzbank.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Bank/Commerzbank.secret|Commerzbank.secret]] 

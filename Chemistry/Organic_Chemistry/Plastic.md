@@ -376,7 +376,7 @@ dv_has_:
 | PP                |       5 | Food containers, automotive parts | 0.85–0.91       | Floats            | Blue        | Drips              | Candle-like            | Highly resistant      | 160–170            |
 | PS                |       6 | Foam cups, insulation             | 1.04–1.10       | Sinks             | Yellow      | Drips, sooty       | Sweet, styrene         | Dissolves in acetone  | ~240               |
 | PC, PLA, ABS, PA, |       7 | Mixed plastics, specialty uses    | 1.20            | Sinks             | Yellow      | Drips, sooty       | Phenolic               | Resists most solvents | ~267               |
-| PAP               |      21 | Paper-based  composites           | Variable        | Variable          | Varies      | Varies             | Neutral or burnt paper | Varies                | Varies             |
+| PAP               |      21 | Paper-based  composites           | Variable        | Variable          | Varies      | Varies             | Neutral or burnt paper | Varies                | Varies             | 
 
 
 ## Confidential Links & Embeds: 

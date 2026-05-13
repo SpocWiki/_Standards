@@ -154,7 +154,7 @@ copyright ::   © 1995 University of Kuopio and Ari Mannonen
 -   » Sub-Groups 
 	-   *Astacus astacus*
 	-   *Astacus leptodactylus*
-	-   *Astacus pachypus*
+	-   *Astacus pachypus* 
 
 
 ## Confidential Links & Embeds: 

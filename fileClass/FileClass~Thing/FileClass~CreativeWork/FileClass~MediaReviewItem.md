@@ -43,7 +43,7 @@ Represents an item or group of closely related items treated as a unit for the s
 ### MediaItemAppearance
 In the context of a [[MediaReview]], indicates specific media item(s) that are grouped using a [[MediaReviewItem]].
 
-MediaItemAppearance:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MediaObject')"}}
+MediaItemAppearance:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MediaObject')"}} 
 
 
 ## Confidential Links & Embeds: 

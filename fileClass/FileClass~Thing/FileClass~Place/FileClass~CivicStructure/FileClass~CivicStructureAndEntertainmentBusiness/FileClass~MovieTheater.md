@@ -41,7 +41,7 @@ A movie theater.
 ### ScreenCount
 The number of screens in the movie theater.
 
-ScreenCount:: {"type":"Number","options":{}}
+ScreenCount:: {"type":"Number","options":{}} 
 
 
 ## Confidential Links & Embeds: 

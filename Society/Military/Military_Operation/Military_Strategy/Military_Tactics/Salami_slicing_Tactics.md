@@ -89,3 +89,21 @@ dv_has_:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Salami%20slicing%20tactics)  
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/Military_Strategy/Military_Tactics/Salami_slicing_Tactics|Salami_slicing_Tactics]] 
+
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Military_Strategy/Military_Tactics/Salami_slicing_Tactics.public|Salami_slicing_Tactics.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Military_Strategy/Military_Tactics/Salami_slicing_Tactics.internal|Salami_slicing_Tactics.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Military_Strategy/Military_Tactics/Salami_slicing_Tactics.protect|Salami_slicing_Tactics.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Military_Strategy/Military_Tactics/Salami_slicing_Tactics.private|Salami_slicing_Tactics.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Military_Strategy/Military_Tactics/Salami_slicing_Tactics.personal|Salami_slicing_Tactics.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Military_Strategy/Military_Tactics/Salami_slicing_Tactics.secret|Salami_slicing_Tactics.secret]] 

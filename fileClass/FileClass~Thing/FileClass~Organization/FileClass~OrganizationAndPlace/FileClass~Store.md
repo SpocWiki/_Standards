@@ -32,7 +32,7 @@ A retail good store.
 #class/Store
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

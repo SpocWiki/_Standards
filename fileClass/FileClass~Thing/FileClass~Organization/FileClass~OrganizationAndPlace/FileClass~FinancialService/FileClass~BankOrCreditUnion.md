@@ -32,7 +32,7 @@ Bank or credit union.
 #class/BankOrCreditUnion
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService/BankOrCreditUnion
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

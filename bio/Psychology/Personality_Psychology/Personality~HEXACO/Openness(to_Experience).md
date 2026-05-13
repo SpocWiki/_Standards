@@ -99,3 +99,20 @@ instance_of: "[[_Standards/WikiData/WD~personality_trait,2393196|WD~personality_
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Openness%20to%20experience) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Psychology/Personality_Psychology/Personality~HEXACO/Openness(to_Experience)|Openness(to_Experience)]] 
+
+### #is_/same_as :: [[/_public/bio/Psychology/Personality_Psychology/Personality~HEXACO/Openness(to_Experience).public|Openness(to_Experience).public]] 
+
+### #is_/same_as :: [[/_internal/bio/Psychology/Personality_Psychology/Personality~HEXACO/Openness(to_Experience).internal|Openness(to_Experience).internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Psychology/Personality_Psychology/Personality~HEXACO/Openness(to_Experience).protect|Openness(to_Experience).protect]] 
+
+### #is_/same_as :: [[/_private/bio/Psychology/Personality_Psychology/Personality~HEXACO/Openness(to_Experience).private|Openness(to_Experience).private]] 
+
+### #is_/same_as :: [[/_personal/bio/Psychology/Personality_Psychology/Personality~HEXACO/Openness(to_Experience).personal|Openness(to_Experience).personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Psychology/Personality_Psychology/Personality~HEXACO/Openness(to_Experience).secret|Openness(to_Experience).secret]] 
+

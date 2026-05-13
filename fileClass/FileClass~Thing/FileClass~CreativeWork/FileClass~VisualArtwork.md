@@ -162,7 +162,7 @@ Penciler:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thin
 ### Width
 The width of the item.
 
-Width:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
+Width:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}} 
 
 
 ## Confidential Links & Embeds: 

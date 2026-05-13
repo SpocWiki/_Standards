@@ -85,17 +85,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_offer_accepted|has_offer_accepted]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_offer/has_offer_accepted|has_offer_accepted]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_offer_accepted.public|has_offer_accepted.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_offer/has_offer_accepted.public|has_offer_accepted.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_offer_accepted.internal|has_offer_accepted.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_offer/has_offer_accepted.internal|has_offer_accepted.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_offer_accepted.protect|has_offer_accepted.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_offer/has_offer_accepted.protect|has_offer_accepted.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_offer_accepted.private|has_offer_accepted.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_offer/has_offer_accepted.private|has_offer_accepted.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_offer_accepted.personal|has_offer_accepted.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_offer/has_offer_accepted.personal|has_offer_accepted.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_offer_accepted.secret|has_offer_accepted.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_offer/has_offer_accepted.secret|has_offer_accepted.secret]] 
 

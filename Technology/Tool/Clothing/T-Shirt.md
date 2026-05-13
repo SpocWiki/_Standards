@@ -39,3 +39,21 @@ booru_tag:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/T-shirt) 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Technology/Tool/Clothing/T-Shirt|T-Shirt]] 
+
+### #is_/same_as :: [[/_public/Technology/Tool/Clothing/T-Shirt.public|T-Shirt.public]] 
+
+### #is_/same_as :: [[/_internal/Technology/Tool/Clothing/T-Shirt.internal|T-Shirt.internal]] 
+
+### #is_/same_as :: [[/_protect/Technology/Tool/Clothing/T-Shirt.protect|T-Shirt.protect]] 
+
+### #is_/same_as :: [[/_private/Technology/Tool/Clothing/T-Shirt.private|T-Shirt.private]] 
+
+### #is_/same_as :: [[/_personal/Technology/Tool/Clothing/T-Shirt.personal|T-Shirt.personal]] 
+
+### #is_/same_as :: [[/_secret/Technology/Tool/Clothing/T-Shirt.secret|T-Shirt.secret]] 

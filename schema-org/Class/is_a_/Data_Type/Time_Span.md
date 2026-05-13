@@ -488,7 +488,7 @@ A point in time recurring on multiple days in the form hh:mm:ss(Z|(+|-)hh:mm)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Time_Span|Time_Span]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Data_Type/Time_Span|Time_Span]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Data_Type/Time_Span.public|Time_Span.public]] 
 

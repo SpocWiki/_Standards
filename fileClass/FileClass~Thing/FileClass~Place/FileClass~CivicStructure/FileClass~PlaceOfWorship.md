@@ -32,7 +32,7 @@ Place of worship, such as a church, synagogue, or mosque.
 #class/PlaceOfWorship
 #class/Thing/Place/CivicStructure/PlaceOfWorship
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

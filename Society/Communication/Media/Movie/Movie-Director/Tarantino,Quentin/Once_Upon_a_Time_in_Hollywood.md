@@ -62,3 +62,21 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Once%20Upon%20a%20Time%20in%20Hollywood)  
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Tarantino,Quentin/Once_Upon_a_Time_in_Hollywood|Once_Upon_a_Time_in_Hollywood]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Tarantino,Quentin/Once_Upon_a_Time_in_Hollywood.public|Once_Upon_a_Time_in_Hollywood.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Tarantino,Quentin/Once_Upon_a_Time_in_Hollywood.internal|Once_Upon_a_Time_in_Hollywood.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Tarantino,Quentin/Once_Upon_a_Time_in_Hollywood.protect|Once_Upon_a_Time_in_Hollywood.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Tarantino,Quentin/Once_Upon_a_Time_in_Hollywood.private|Once_Upon_a_Time_in_Hollywood.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Tarantino,Quentin/Once_Upon_a_Time_in_Hollywood.personal|Once_Upon_a_Time_in_Hollywood.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Tarantino,Quentin/Once_Upon_a_Time_in_Hollywood.secret|Once_Upon_a_Time_in_Hollywood.secret]] 

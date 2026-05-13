@@ -122,19 +122,20 @@ as using the original, specific property.
 
 - has_properties = `=this.dv_has_properties` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Property_Value_Pair|Property_Value_Pair]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value_Pair|Property_Value_Pair]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value.public|Property_Value.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value_Pair.public|Property_Value_Pair.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value.internal|Property_Value.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value_Pair.internal|Property_Value_Pair.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value.protect|Property_Value.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value_Pair.protect|Property_Value_Pair.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value.private|Property_Value.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value_Pair.private|Property_Value_Pair.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value.personal|Property_Value.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value_Pair.personal|Property_Value_Pair.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value.secret|Property_Value.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value_Pair.secret|Property_Value_Pair.secret]] 
 

@@ -93,3 +93,21 @@ Wolfram_Language_entity_code: Entity["Book", "AdventuresOfTomSawyer"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Adventures%20of%20Tom%20Sawyer) 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Twain,Mark/Adventures_of_Tom_Sawyer|Adventures_of_Tom_Sawyer]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Twain,Mark/Adventures_of_Tom_Sawyer.public|Adventures_of_Tom_Sawyer.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Twain,Mark/Adventures_of_Tom_Sawyer.internal|Adventures_of_Tom_Sawyer.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Twain,Mark/Adventures_of_Tom_Sawyer.protect|Adventures_of_Tom_Sawyer.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Twain,Mark/Adventures_of_Tom_Sawyer.private|Adventures_of_Tom_Sawyer.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Twain,Mark/Adventures_of_Tom_Sawyer.personal|Adventures_of_Tom_Sawyer.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Twain,Mark/Adventures_of_Tom_Sawyer.secret|Adventures_of_Tom_Sawyer.secret]] 

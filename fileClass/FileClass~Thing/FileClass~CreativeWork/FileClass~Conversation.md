@@ -32,7 +32,7 @@ One or more messages between organizations or people on a particular topic. Indi
 #class/Conversation
 #class/Thing/CreativeWork/Conversation
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

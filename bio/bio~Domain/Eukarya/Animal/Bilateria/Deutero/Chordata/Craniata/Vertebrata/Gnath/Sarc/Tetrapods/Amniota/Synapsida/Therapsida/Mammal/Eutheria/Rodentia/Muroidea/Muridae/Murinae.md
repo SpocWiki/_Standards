@@ -198,7 +198,7 @@ specimen_condition ::  Live Specimen
 Source               [DSC_8191-Mehrstreifen-Grasmaus](http://www.flickr.com/photos/64706470@N00/277642366/)
 Source Collection    [Flickr](http://flickr.com/)
 Image Use ::    [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/).
-copyright ::            © 2006 [Ulrike](http://flickr.com/people/64706470@N00)
+copyright ::            © 2006 [Ulrike](http://flickr.com/people/64706470@N00) 
 
 
 ## Confidential Links & Embeds: 

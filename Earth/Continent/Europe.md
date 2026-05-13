@@ -859,7 +859,7 @@ has_image_for_coat_of_arms = `=this.dv_has_image_for_coat_of_arms`
 
 ![[../../../_public/xLarge.public/National-Anthem/Anthem-Eu-long.mp3|Anthem-Eu-long.mp3]]
 
-![[Flag_of_Europe.svg|350]]
+![[Flag_of_Europe.svg|350]] 
 
 
 ## Confidential Links & Embeds: 

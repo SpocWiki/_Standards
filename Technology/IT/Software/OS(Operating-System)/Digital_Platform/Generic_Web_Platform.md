@@ -40,7 +40,8 @@ More specific codes include [[MobileWebPlatform]] and [[DesktopWebPlatform]], as
 
 #has_/parent_class :: [[../DigitalPlatformEnumeration|DigitalPlatformEnumeration]]  
 
-#is_/enum_of :: [[../DigitalPlatformEnumeration|DigitalPlatformEnumeration]]  
+#is_/enum_of :: [[../DigitalPlatformEnumeration|DigitalPlatformEnumeration]] 
+
 
 ## Confidential Links & Embeds: 
 

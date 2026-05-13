@@ -399,7 +399,7 @@ Rana Palustris; photo © David T. Roberts, Nature\'s Images, Inc.\
 
 ------------------------------------------------------------------------
 2. Rana erythrea; photo © 1995 David Cannatella\
-![Rana erythrea](Ranid/Rana_erythrea.jpg)
+![Rana erythrea](Ranid/Rana_erythrea.jpg) 
 
 
 ## Confidential Links & Embeds: 

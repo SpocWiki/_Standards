@@ -79,6 +79,21 @@ He was a keen poker player, was married three times, and died in 1970.
 ![[Berne,Eric.svg]] 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Psychology/Psychiatrist/Berne,Eric|Berne,Eric]] 
+
+### #is_/same_as :: [[/_public/bio/Psychology/Psychiatrist/Berne,Eric.public|Berne,Eric.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Psychology/Psychiatrist/Berne,Eric.internal|Berne,Eric.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Psychology/Psychiatrist/Berne,Eric.protect|Berne,Eric.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Psychology/Psychiatrist/Berne,Eric.private|Berne,Eric.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Psychology/Psychiatrist/Berne,Eric.personal|Berne,Eric.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Psychology/Psychiatrist/Berne,Eric.secret|Berne,Eric.secret]] 
 %%
 ## Drawing
 ```compressed-json

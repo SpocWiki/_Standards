@@ -148,3 +148,19 @@ is_same_as = `=this.dv_is_same_as`
 > [Wikipedia](https://en.wikipedia.org/wiki/Nitro%20compound) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Functional_Group/Nitro_Compound|Nitro_Compound]] 
+
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Functional_Group/Nitro_Compound.public|Nitro_Compound.public]] 
+
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Functional_Group/Nitro_Compound.internal|Nitro_Compound.internal]] 
+
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Functional_Group/Nitro_Compound.protect|Nitro_Compound.protect]] 
+
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Functional_Group/Nitro_Compound.private|Nitro_Compound.private]] 
+
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Functional_Group/Nitro_Compound.personal|Nitro_Compound.personal]] 
+
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Functional_Group/Nitro_Compound.secret|Nitro_Compound.secret]] 
+

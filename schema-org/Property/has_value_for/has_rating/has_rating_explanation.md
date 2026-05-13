@@ -84,17 +84,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_rating_explanation|has_rating_explanation]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_rating/has_rating_explanation|has_rating_explanation]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_rating_explanation.public|has_rating_explanation.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_rating/has_rating_explanation.public|has_rating_explanation.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_rating_explanation.internal|has_rating_explanation.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_rating/has_rating_explanation.internal|has_rating_explanation.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_rating_explanation.protect|has_rating_explanation.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_rating/has_rating_explanation.protect|has_rating_explanation.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_rating_explanation.private|has_rating_explanation.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_rating/has_rating_explanation.private|has_rating_explanation.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_rating_explanation.personal|has_rating_explanation.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_rating/has_rating_explanation.personal|has_rating_explanation.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_rating_explanation.secret|has_rating_explanation.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_rating/has_rating_explanation.secret|has_rating_explanation.secret]] 
 

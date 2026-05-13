@@ -35,7 +35,8 @@ A system of medicine focused on promoting the body's innate ability to heal itse
 
 #has_/parent_class :: [[../MedicineSystem|MedicineSystem]]  
 
-#is_/enum_of :: [[../MedicineSystem|MedicineSystem]]  
+#is_/enum_of :: [[../MedicineSystem|MedicineSystem]] 
+
 
 ## Confidential Links & Embeds: 
 

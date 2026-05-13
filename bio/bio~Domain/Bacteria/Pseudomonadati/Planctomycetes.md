@@ -103,7 +103,7 @@ dv_has_:
 	-   *Planctomyces*
 	-   *Gemmata*
 	-   *Isosphaera*
-	-   *Pirellula*
+	-   *Pirellula* 
 
 
 ## Confidential Links & Embeds: 

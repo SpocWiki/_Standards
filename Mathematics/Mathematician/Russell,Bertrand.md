@@ -408,7 +408,7 @@ dv_has_:
 
 #has_/created_/quote :: Righteousness cannot be born before until self-Righteousness is dead. 
 
-#has_/created_/quote :: The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts
+#has_/created_/quote :: The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts 
 
 
 ## Confidential Links & Embeds: 

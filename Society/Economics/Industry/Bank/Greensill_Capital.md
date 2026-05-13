@@ -23,3 +23,21 @@ dissolved_abolished_or_demolished_date: 2021-03-08
 
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Bank/Greensill_Capital|Greensill_Capital]] 
+
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Bank/Greensill_Capital.public|Greensill_Capital.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Bank/Greensill_Capital.internal|Greensill_Capital.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Bank/Greensill_Capital.protect|Greensill_Capital.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Bank/Greensill_Capital.private|Greensill_Capital.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Bank/Greensill_Capital.personal|Greensill_Capital.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Bank/Greensill_Capital.secret|Greensill_Capital.secret]] 

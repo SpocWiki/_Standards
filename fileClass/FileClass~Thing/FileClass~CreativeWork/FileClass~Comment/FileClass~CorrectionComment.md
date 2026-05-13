@@ -32,7 +32,7 @@ A [[../../../../Society/Communication/Media/Creative_Work/Comment|Comment]] that
 #class/CorrectionComment
 #class/Thing/CreativeWork/Comment/CorrectionComment
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ An auto parts store.
 #class/AutoPartsStore
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/AutomotiveBusinessAndStore/AutoPartsStore
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

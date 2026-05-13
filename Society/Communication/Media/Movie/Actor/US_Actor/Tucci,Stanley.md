@@ -204,17 +204,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Tucci,Stanley|Tucci,Stanley]] 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Tucci,Stanley|Tucci,Stanley]] 
 
-### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Tucci,Stanley.public|Tucci,Stanley.public]] 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Tucci,Stanley.public|Tucci,Stanley.public]] 
 
-### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Tucci,Stanley.internal|Tucci,Stanley.internal]] 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Tucci,Stanley.internal|Tucci,Stanley.internal]] 
 
-### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Tucci,Stanley.protect|Tucci,Stanley.protect]] 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Tucci,Stanley.protect|Tucci,Stanley.protect]] 
 
-### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Tucci,Stanley.private|Tucci,Stanley.private]] 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Tucci,Stanley.private|Tucci,Stanley.private]] 
 
-### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Tucci,Stanley.personal|Tucci,Stanley.personal]] 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Tucci,Stanley.personal|Tucci,Stanley.personal]] 
 
-### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Tucci,Stanley.secret|Tucci,Stanley.secret]] 
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Tucci,Stanley.secret|Tucci,Stanley.secret]] 
 

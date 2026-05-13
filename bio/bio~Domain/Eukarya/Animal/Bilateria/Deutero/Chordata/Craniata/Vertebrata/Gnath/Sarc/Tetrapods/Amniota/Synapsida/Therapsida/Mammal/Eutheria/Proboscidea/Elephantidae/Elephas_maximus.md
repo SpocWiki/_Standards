@@ -263,7 +263,7 @@ dv_has_:
   Source               [Asiatic Elephant](http://flickr.com/photos/jayanthsharma/122357538/)
   Source Collection    [Flickr](http://flickr.com/)
   Image Use ::    [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/).
-  copyright ::            © 2006 [Jayanth Sharma](http://flickr.com/people/jayanthsharma/)
+  copyright ::            © 2006 [Jayanth Sharma](http://flickr.com/people/jayanthsharma/) 
 
 
 ## Confidential Links & Embeds: 

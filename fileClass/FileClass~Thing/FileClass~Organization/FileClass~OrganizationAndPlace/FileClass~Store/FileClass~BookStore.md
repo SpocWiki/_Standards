@@ -32,7 +32,7 @@ A bookstore.
 #class/BookStore
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/BookStore
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

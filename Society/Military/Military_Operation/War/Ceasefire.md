@@ -202,17 +202,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Ceasefire|Ceasefire]] 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/War/Ceasefire|Ceasefire]] 
 
-### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/War/Ceasefire.public|Ceasefire.public]] 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/War/Ceasefire.public|Ceasefire.public]] 
 
-### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/War/Ceasefire.internal|Ceasefire.internal]] 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/War/Ceasefire.internal|Ceasefire.internal]] 
 
-### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/War/Ceasefire.protect|Ceasefire.protect]] 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/War/Ceasefire.protect|Ceasefire.protect]] 
 
-### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/War/Ceasefire.private|Ceasefire.private]] 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/War/Ceasefire.private|Ceasefire.private]] 
 
-### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/War/Ceasefire.personal|Ceasefire.personal]] 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/War/Ceasefire.personal|Ceasefire.personal]] 
 
-### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/War/Ceasefire.secret|Ceasefire.secret]] 
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/War/Ceasefire.secret|Ceasefire.secret]] 
 

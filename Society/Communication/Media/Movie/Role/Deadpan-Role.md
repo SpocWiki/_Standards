@@ -3,7 +3,7 @@ A deadpan role typically refers to a character portrayal that involves deliverin
 
 #has_/examples :: [[../Actor/US_Actor/Keaton,Buster|Keaton,Buster]], [[Zooey_Deschanel]], [[../Actor/British_Actor/Cleese,John|Cleese,John]] 
 
-Deadpan roles can vary in their subtlety and effectiveness depending on the actor's skill and the context of the performance. When done well, they can be highly effective in eliciting laughs from the audience through understatement and irony.
+Deadpan roles can vary in their subtlety and effectiveness depending on the actor's skill and the context of the performance. When done well, they can be highly effective in eliciting laughs from the audience through understatement and irony. 
 
 
 ## Confidential Links & Embeds: 

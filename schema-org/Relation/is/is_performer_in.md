@@ -78,7 +78,8 @@ has_domain = `=this.dv_has_domain`
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
-#has_/inverse  :: [[has_performer]]  
+#has_/inverse  :: [[has_performer]] 
+
 
 ## Confidential Links & Embeds: 
 

@@ -175,7 +175,7 @@ dv_has_:
 -   [Northern right whale on path to     extinction](http://www.enn.com/news/enn-stories/1999/03/031899/rightwhale_2200.asp).
     Environmental News Network Inc.
 -   [The Northern Right     Whale](http://cnie.org/NLE/CRSreports/Biodiversity/biodv-12.cfm).
-    Congressional Research Service Report by M. Lynne Corn.
+    Congressional Research Service Report by M. Lynne Corn. 
 
 
 ## Confidential Links & Embeds: 

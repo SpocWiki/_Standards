@@ -81,7 +81,7 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_return_policy_category|has_return_policy_category]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_return/has_return_policy_category|has_return_policy_category]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_return/has_return_policy_category.public|has_return_policy_category.public]] 
 

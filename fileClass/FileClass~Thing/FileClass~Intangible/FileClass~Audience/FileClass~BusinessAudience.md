@@ -65,7 +65,7 @@ YearlyRevenue:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class
 ### YearsInOperation
 The age of the business.
 
-YearsInOperation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
+YearsInOperation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}} 
 
 
 ## Confidential Links & Embeds: 

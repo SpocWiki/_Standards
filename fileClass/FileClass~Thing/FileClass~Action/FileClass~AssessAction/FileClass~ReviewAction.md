@@ -43,7 +43,7 @@ The act of producing a balanced opinion about the object for an audience. An age
 ### ResultReview
 A sub property of result. The review that resulted in the performing of the action.
 
-ResultReview:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Review')"}}
+ResultReview:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Review')"}} 
 
 
 ## Confidential Links & Embeds: 

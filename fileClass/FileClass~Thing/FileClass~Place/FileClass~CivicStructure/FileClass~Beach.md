@@ -32,7 +32,7 @@ Beach.
 #class/Beach
 #class/Thing/Place/CivicStructure/Beach
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -36,7 +36,7 @@ A hotel is an establishment that provides lodging paid on a short-term basis (so
 #class/Hotel
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Hotel
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ An electrician.
 #class/Electrician
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/Electrician
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

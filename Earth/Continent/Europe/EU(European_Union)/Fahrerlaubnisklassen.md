@@ -224,7 +224,7 @@ die jeweils nach ihrer Bauart zur Verwendung für land- oder forstwirtschaftlich
 - **Zugmaschinen**, die nach ihrer Bauart zur Verwendung für land- oder forstwirtschaftliche Zwecke bestimmt sind und für solche Zwecke eingesetzt werden, mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von nicht mehr als 40 km/h und
 - **Kombinationen** aus diesen Fahrzeugen und Anhängern, wenn sie mit einer Geschwindigkeit von nicht mehr als 25 km/h geführt werden, sowie
 - **selbstfahrende Arbeitsmaschinen**, **selbstfahrende Futtermischwagen, Stapler** und andere **Flurförderzeuge** jeweils mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von nicht mehr als 25 km/h und
-- **Kombinationen** aus diesen Fahrzeugen und Anhängern
+- **Kombinationen** aus diesen Fahrzeugen und Anhängern 
 
 
 ## Confidential Links & Embeds: 

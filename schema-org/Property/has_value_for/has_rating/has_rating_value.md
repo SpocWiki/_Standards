@@ -99,17 +99,17 @@ Usage guidelines:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_rating_value|has_rating_value]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_rating/has_rating_value|has_rating_value]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_rating.public|has_value_for_rating.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_rating/has_rating_value.public|has_rating_value.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_rating.internal|has_value_for_rating.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_rating/has_rating_value.internal|has_rating_value.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_rating.protect|has_value_for_rating.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_rating/has_rating_value.protect|has_rating_value.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_rating.private|has_value_for_rating.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_rating/has_rating_value.private|has_rating_value.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_rating.personal|has_value_for_rating.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_rating/has_rating_value.personal|has_rating_value.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_rating.secret|has_value_for_rating.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_rating/has_rating_value.secret|has_rating_value.secret]] 
 

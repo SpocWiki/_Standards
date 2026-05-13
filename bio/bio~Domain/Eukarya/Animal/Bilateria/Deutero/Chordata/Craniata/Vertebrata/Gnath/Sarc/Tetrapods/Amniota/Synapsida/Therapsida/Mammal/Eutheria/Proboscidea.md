@@ -299,7 +299,7 @@ scientific_name ::  Loxodonta africana
 location ::        Southern Serengeti
 Body Part         Face
 copyright ::         © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
-----------------------------------------------------------------------------
+---------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

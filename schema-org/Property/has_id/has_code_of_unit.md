@@ -77,19 +77,20 @@ has_range = `=this.dv_has_range`
 
 In JSON-LD this is the `unitCode` Node next to the `value`. 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_code_of_unit|has_code_of_unit]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_id/has_code_of_unit|has_code_of_unit]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_code_of_unit.public|has_code_of_unit.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_id/has_code_of_unit.public|has_code_of_unit.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_code_of_unit.internal|has_code_of_unit.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_id/has_code_of_unit.internal|has_code_of_unit.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_code_of_unit.protect|has_code_of_unit.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_id/has_code_of_unit.protect|has_code_of_unit.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_code_of_unit.private|has_code_of_unit.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_id/has_code_of_unit.private|has_code_of_unit.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_code_of_unit.personal|has_code_of_unit.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_id/has_code_of_unit.personal|has_code_of_unit.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_code_of_unit.secret|has_code_of_unit.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_id/has_code_of_unit.secret|has_code_of_unit.secret]] 
 

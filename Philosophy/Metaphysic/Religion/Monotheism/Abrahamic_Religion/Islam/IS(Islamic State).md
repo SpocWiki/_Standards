@@ -227,3 +227,19 @@ Know_Your_Meme_slug: isis-daesh
 > [Wikipedia](https://en.wikipedia.org/wiki/Islamic%20State) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/IS(Islamic State)|IS(Islamic State)]] 
+
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/IS(Islamic State).public|IS(Islamic State).public]] 
+
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/IS(Islamic State).internal|IS(Islamic State).internal]] 
+
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/IS(Islamic State).protect|IS(Islamic State).protect]] 
+
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/IS(Islamic State).private|IS(Islamic State).private]] 
+
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/IS(Islamic State).personal|IS(Islamic State).personal]] 
+
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/IS(Islamic State).secret|IS(Islamic State).secret]] 
+

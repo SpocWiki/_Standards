@@ -58,3 +58,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/HEXACO%20model%20of%20personality%20structure) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Psychology/Personality_Psychology/Personality~HEXACO|Personality~HEXACO]] 
+
+### #is_/same_as :: [[/_public/bio/Psychology/Personality_Psychology/Personality~HEXACO.public|Personality~HEXACO.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Psychology/Personality_Psychology/Personality~HEXACO.internal|Personality~HEXACO.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Psychology/Personality_Psychology/Personality~HEXACO.protect|Personality~HEXACO.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Psychology/Personality_Psychology/Personality~HEXACO.private|Personality~HEXACO.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Psychology/Personality_Psychology/Personality~HEXACO.personal|Personality~HEXACO.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Psychology/Personality_Psychology/Personality~HEXACO.secret|Personality~HEXACO.secret]] 
+

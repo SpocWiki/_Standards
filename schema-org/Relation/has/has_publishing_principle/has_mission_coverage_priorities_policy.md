@@ -88,19 +88,20 @@ has_domain = `=this.dv_has_domain`
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_mission_coverage_priorities_policy|has_mission_coverage_priorities_policy]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_publishing_principle/has_mission_coverage_priorities_policy|has_mission_coverage_priorities_policy]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_mission_coverage_priorities_policy.public|has_mission_coverage_priorities_policy.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_publishing_principle/has_mission_coverage_priorities_policy.public|has_mission_coverage_priorities_policy.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_mission_coverage_priorities_policy.internal|has_mission_coverage_priorities_policy.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_publishing_principle/has_mission_coverage_priorities_policy.internal|has_mission_coverage_priorities_policy.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_mission_coverage_priorities_policy.protect|has_mission_coverage_priorities_policy.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_publishing_principle/has_mission_coverage_priorities_policy.protect|has_mission_coverage_priorities_policy.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_mission_coverage_priorities_policy.private|has_mission_coverage_priorities_policy.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_publishing_principle/has_mission_coverage_priorities_policy.private|has_mission_coverage_priorities_policy.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_mission_coverage_priorities_policy.personal|has_mission_coverage_priorities_policy.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_publishing_principle/has_mission_coverage_priorities_policy.personal|has_mission_coverage_priorities_policy.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_mission_coverage_priorities_policy.secret|has_mission_coverage_priorities_policy.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_publishing_principle/has_mission_coverage_priorities_policy.secret|has_mission_coverage_priorities_policy.secret]] 
 

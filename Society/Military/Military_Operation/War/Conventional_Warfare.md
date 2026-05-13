@@ -103,17 +103,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Conventional_Warfare|Conventional_Warfare]] 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/War/Conventional_Warfare|Conventional_Warfare]] 
 
-### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/War/Conventional_Warfare.public|Conventional_Warfare.public]] 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/War/Conventional_Warfare.public|Conventional_Warfare.public]] 
 
-### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/War/Conventional_Warfare.internal|Conventional_Warfare.internal]] 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/War/Conventional_Warfare.internal|Conventional_Warfare.internal]] 
 
-### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/War/Conventional_Warfare.protect|Conventional_Warfare.protect]] 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/War/Conventional_Warfare.protect|Conventional_Warfare.protect]] 
 
-### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/War/Conventional_Warfare.private|Conventional_Warfare.private]] 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/War/Conventional_Warfare.private|Conventional_Warfare.private]] 
 
-### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/War/Conventional_Warfare.personal|Conventional_Warfare.personal]] 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/War/Conventional_Warfare.personal|Conventional_Warfare.personal]] 
 
-### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/War/Conventional_Warfare.secret|Conventional_Warfare.secret]] 
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/War/Conventional_Warfare.secret|Conventional_Warfare.secret]] 
 

@@ -7,7 +7,7 @@ has_id_wikidata: Q{{id}}
 # [[_Standards/WikiData/WD~{{FileName}},{{id}}|WD~{{FileName}},{{id}}]]
 
 
-{{description}}
+{{description}} 
 
 
 ## Confidential Links & Embeds: 

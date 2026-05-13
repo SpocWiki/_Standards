@@ -97,7 +97,7 @@ dv_has_:
 	-   *Geotoga*
 	-   *Marinitoga*
 	-   *Petrotoga*
-	-   *Thermosipho*
+	-   *Thermosipho* 
 
 
 ## Confidential Links & Embeds: 

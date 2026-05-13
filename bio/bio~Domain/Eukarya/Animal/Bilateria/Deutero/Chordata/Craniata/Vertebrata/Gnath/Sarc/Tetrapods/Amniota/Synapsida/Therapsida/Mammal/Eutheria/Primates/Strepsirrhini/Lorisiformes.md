@@ -69,7 +69,7 @@ Creator           H. Goodchile (1907)
 --------- 
 ![](Lorisiformes/ell_004.jpg) 
 scientific_name ::  Euoticus elegantulus
-Reference         Elliot, D. G. 1913. A Review of The Primates. American Museum of Natural History. New York.
+Reference         Elliot, D. G. 1913. A Review of The Primates. American Museum of Natural History. New York. 
 
 
 ## Confidential Links & Embeds: 

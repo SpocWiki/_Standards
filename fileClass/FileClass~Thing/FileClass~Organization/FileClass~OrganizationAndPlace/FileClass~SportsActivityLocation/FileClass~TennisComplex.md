@@ -32,7 +32,7 @@ A tennis complex.
 #class/TennisComplex
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/TennisComplex
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

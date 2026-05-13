@@ -32,7 +32,7 @@ A library.
 #class/Library
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Library
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

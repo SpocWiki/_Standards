@@ -32,7 +32,7 @@ A [[CriticReview]] is a more specialized form of Review written or published by 
 #class/CriticReview
 #class/Thing/CreativeWork/Review/CriticReview
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

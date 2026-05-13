@@ -32,7 +32,7 @@ A hair salon.
 #class/HairSalon
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/HairSalon
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

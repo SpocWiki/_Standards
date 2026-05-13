@@ -411,7 +411,7 @@ Capital = `=this.dv_Capital`
 
  is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude`
-has_place_latitude = `=this.dv_has_place_latitude`
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## Confidential Links & Embeds: 

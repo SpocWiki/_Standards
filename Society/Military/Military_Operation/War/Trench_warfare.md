@@ -170,17 +170,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Trench_warfare|Trench_warfare]] 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/War/Trench_warfare|Trench_warfare]] 
 
-### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/War/Trench_warfare.public|Trench_warfare.public]] 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/War/Trench_warfare.public|Trench_warfare.public]] 
 
-### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/War/Trench_warfare.internal|Trench_warfare.internal]] 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/War/Trench_warfare.internal|Trench_warfare.internal]] 
 
-### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/War/Trench_warfare.protect|Trench_warfare.protect]] 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/War/Trench_warfare.protect|Trench_warfare.protect]] 
 
-### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/War/Trench_warfare.private|Trench_warfare.private]] 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/War/Trench_warfare.private|Trench_warfare.private]] 
 
-### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/War/Trench_warfare.personal|Trench_warfare.personal]] 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/War/Trench_warfare.personal|Trench_warfare.personal]] 
 
-### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/War/Trench_warfare.secret|Trench_warfare.secret]] 
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/War/Trench_warfare.secret|Trench_warfare.secret]] 
 

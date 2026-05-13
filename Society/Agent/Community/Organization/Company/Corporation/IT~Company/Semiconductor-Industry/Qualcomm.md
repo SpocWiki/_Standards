@@ -117,3 +117,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Qualcomm) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Qualcomm|Qualcomm]] 
+
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Qualcomm.public|Qualcomm.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Qualcomm.internal|Qualcomm.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Qualcomm.protect|Qualcomm.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Qualcomm.private|Qualcomm.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Qualcomm.personal|Qualcomm.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Qualcomm.secret|Qualcomm.secret]] 
+

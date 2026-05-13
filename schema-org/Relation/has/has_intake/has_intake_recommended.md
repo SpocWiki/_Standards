@@ -77,17 +77,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_intake_recommended|has_intake_recommended]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_intake/has_intake_recommended|has_intake_recommended]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_intake_recommended.public|has_intake_recommended.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_intake/has_intake_recommended.public|has_intake_recommended.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_intake_recommended.internal|has_intake_recommended.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_intake/has_intake_recommended.internal|has_intake_recommended.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_intake_recommended.protect|has_intake_recommended.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_intake/has_intake_recommended.protect|has_intake_recommended.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_intake_recommended.private|has_intake_recommended.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_intake/has_intake_recommended.private|has_intake_recommended.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_intake_recommended.personal|has_intake_recommended.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_intake/has_intake_recommended.personal|has_intake_recommended.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_intake_recommended.secret|has_intake_recommended.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_intake/has_intake_recommended.secret|has_intake_recommended.secret]] 
 

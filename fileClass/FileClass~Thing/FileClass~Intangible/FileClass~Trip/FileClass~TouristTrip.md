@@ -44,7 +44,7 @@ A tourist trip. A created itinerary of visits to one or more places of interest 
 ### TouristType
 Attraction suitable for type(s) of tourist. E.g. children, visitors from a particular country, etc.
 
-TouristType:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Audience')"}}
+TouristType:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Audience')"}} 
 
 
 ## Confidential Links & Embeds: 

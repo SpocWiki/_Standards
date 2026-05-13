@@ -32,7 +32,7 @@ A pharmacy or drugstore.
 #class/Pharmacy
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization/Pharmacy
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

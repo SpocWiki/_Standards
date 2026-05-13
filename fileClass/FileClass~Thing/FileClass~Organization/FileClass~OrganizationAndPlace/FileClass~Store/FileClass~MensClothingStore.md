@@ -32,7 +32,7 @@ A men's clothing store.
 #class/MensClothingStore
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/MensClothingStore
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

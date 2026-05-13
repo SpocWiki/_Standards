@@ -54,7 +54,7 @@ aliases:
 [[Multics]] and [[DTSS]] were developed independently, 
 but they were part of a broader movement in the 1960s towards time-sharing systems 
 that enabled more efficient use of computing resources 
-and facilitated interactive computing for multiple users.
+and facilitated interactive computing for multiple users. 
 
 
 ## Confidential Links & Embeds: 

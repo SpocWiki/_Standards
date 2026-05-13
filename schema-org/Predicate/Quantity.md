@@ -318,7 +318,7 @@ for everything else
 ```
 
 Tag Instances like this: 
-#is_a_/quantity
+#is_a_/quantity 
 
 
 ## Confidential Links & Embeds: 

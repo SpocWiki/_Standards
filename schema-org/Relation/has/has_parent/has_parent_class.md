@@ -229,22 +229,22 @@ Differences among [has part(s) (P527)](https://www.wikidata.org/wiki/Property:P5
 |<[galaxy](https://www.wikidata.org/wiki/Q318 "Q318")> _**has part(s)**_ <[star](https://www.wikidata.org/wiki/Q523 "Q523")>|a <galaxy> has <stars> as one of its parts|- _**has part(s) of the class**_ not used because <galaxy> and <star> are both classes|
 |<X> [_**has part(s) of the class**_](https://www.wikidata.org/wiki/Property:P2670 "Property:P2670") <Y>|instance|class|the specific item X include some instance of class Y among its parts or components|<[University of Cambridge](https://www.wikidata.org/wiki/Q35794 "Q35794")> _**has part(s) of the class**_ <[college of the University of Cambridge](https://www.wikidata.org/wiki/Q1055028 "Q1055028")>|the <University of Cambridge> has colleges as parts|- _**has part(s)**_ not used because <University of Cambridge> does not have the class <college of the University of Cambridge> as a part, but instead has colleges as parts|
 |<[Solar System](https://www.wikidata.org/wiki/Q544 "Q544")> _**has part(s) of the class**_ <[inner planet of the Solar System](https://www.wikidata.org/wiki/Q3504248 "Q3504248")>|our <Solar System> has one or more <inner planets> in its parts|- _**has part(s)**_ not used because <Solar System> does not have the class of <inner planets> as a part, but instead has planets as parts|
-|<[Albert Einstein](https://www.wikidata.org/wiki/Q544 "Q544")> _**has part(s) of the class**_ <[human brain](https://www.wikidata.org/wiki/Q492038 "Q492038")>|<Albert Einstein> had a <human brain> as a part|- _**has part(s)**_ not used because <human brain> is a class, not an instance, even if he had just one.|
+|<[Albert Einstein](https://www.wikidata.org/wiki/Q544 "Q544")> _**has part(s) of the class**_ <[human brain](https://www.wikidata.org/wiki/Q492038 "Q492038")>|<Albert Einstein> had a <human brain> as a part|- _**has part(s)**_ not used because <human brain> is a class, not an instance, even if he had just one.| 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/has_parent_class|has_parent_class]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_parent/has_parent_class|has_parent_class]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/has_parent_class.public|has_parent_class.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_parent/has_parent_class.public|has_parent_class.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/has_parent_class.internal|has_parent_class.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_parent/has_parent_class.internal|has_parent_class.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/has_parent_class.protect|has_parent_class.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_parent/has_parent_class.protect|has_parent_class.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/has_parent_class.private|has_parent_class.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_parent/has_parent_class.private|has_parent_class.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/has_parent_class.personal|has_parent_class.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_parent/has_parent_class.personal|has_parent_class.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/has_parent_class.secret|has_parent_class.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_parent/has_parent_class.secret|has_parent_class.secret]] 
 

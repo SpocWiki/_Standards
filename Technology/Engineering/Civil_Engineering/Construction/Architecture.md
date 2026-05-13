@@ -485,7 +485,7 @@ This refers to physical Architecture.
 
 ```ccard
 type: folder_brief_live
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

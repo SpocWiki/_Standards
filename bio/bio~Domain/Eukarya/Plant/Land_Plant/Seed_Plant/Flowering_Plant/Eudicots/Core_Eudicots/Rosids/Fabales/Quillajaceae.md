@@ -113,7 +113,7 @@ should be removed (Lotova & Timonin, 1999; cf. Zhang 1992).
 scientific_name ::     Quillaja saponaria Molina
 location ::           Cerro Manquehue, Chile
 specimen_condition ::  Live Specimen
-copyright ::            © 2005 [John D. Mitchell](http://www.plantsystematics.org/)
+copyright ::            © 2005 [John D. Mitchell](http://www.plantsystematics.org/) 
 
 
 ## Confidential Links & Embeds: 

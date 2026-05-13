@@ -106,7 +106,7 @@ A description of the variant cover
 for the issue, if the issue is a variant printing. For example, "Bryan Hitch  
 Variant Cover" or "2nd Printing Variant".
 
-VariantCover:: {"type":"Input","options":{}}
+VariantCover:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

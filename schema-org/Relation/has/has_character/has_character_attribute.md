@@ -87,17 +87,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_character_attribute|has_character_attribute]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_character/has_character_attribute|has_character_attribute]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_character_attribute.public|has_character_attribute.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_character/has_character_attribute.public|has_character_attribute.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_character_attribute.internal|has_character_attribute.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_character/has_character_attribute.internal|has_character_attribute.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_character_attribute.protect|has_character_attribute.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_character/has_character_attribute.protect|has_character_attribute.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_character_attribute.private|has_character_attribute.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_character/has_character_attribute.private|has_character_attribute.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_character_attribute.personal|has_character_attribute.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_character/has_character_attribute.personal|has_character_attribute.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_character_attribute.secret|has_character_attribute.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_character/has_character_attribute.secret|has_character_attribute.secret]] 
 

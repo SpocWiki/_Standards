@@ -125,7 +125,7 @@ dv_has_:
   Acknowledgements     Photograph courtesy [InsectImages.org](http://www.insectimages.org/) (#1355024), Colorization by Christopher Pooley
   specimen_condition ::  Dead Specimen
   Source Collection    [InsectImages.org](http://www.insectimages.org/)
-  copyright ::            © 2005 Eric Erbe, USDA ARS
+  copyright ::            © 2005 Eric Erbe, USDA ARS 
 
 
 ## Confidential Links & Embeds: 

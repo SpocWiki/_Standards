@@ -261,7 +261,7 @@ location ::           Rancho La Brea, California, USA
 Reference            Merriam, J. C. and C. Stock. 1921. Notes on peccary remains from Rancho La Brea. University of California Publications. Bulletin of the Department of Geological Sciences 13(2):9-17.
 specimen_condition ::  Fossil
 Body Part            skull
---------------------------------------------------------------
+-------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

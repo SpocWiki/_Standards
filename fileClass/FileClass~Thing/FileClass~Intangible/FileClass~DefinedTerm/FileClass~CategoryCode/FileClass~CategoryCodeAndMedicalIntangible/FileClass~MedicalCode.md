@@ -42,7 +42,7 @@ A code for a medical entity.
 ### CodingSystem
 The coding system, e.g. 'ICD-10'.
 
-CodingSystem:: {"type":"Input","options":{}}
+CodingSystem:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

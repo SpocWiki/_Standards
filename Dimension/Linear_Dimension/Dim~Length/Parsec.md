@@ -217,17 +217,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Parsec|Parsec]] 
+### #is_/same_as :: [[/_Standards/Dimension/Linear_Dimension/Dim~Length/Parsec|Parsec]] 
 
-### #is_/same_as :: [[/_public/Dimension/Dim~Length/Parsec.public|Parsec.public]] 
+### #is_/same_as :: [[/_public/Dimension/Linear_Dimension/Dim~Length/Parsec.public|Parsec.public]] 
 
-### #is_/same_as :: [[/_internal/Dimension/Dim~Length/Parsec.internal|Parsec.internal]] 
+### #is_/same_as :: [[/_internal/Dimension/Linear_Dimension/Dim~Length/Parsec.internal|Parsec.internal]] 
 
-### #is_/same_as :: [[/_protect/Dimension/Dim~Length/Parsec.protect|Parsec.protect]] 
+### #is_/same_as :: [[/_protect/Dimension/Linear_Dimension/Dim~Length/Parsec.protect|Parsec.protect]] 
 
-### #is_/same_as :: [[/_private/Dimension/Dim~Length/Parsec.private|Parsec.private]] 
+### #is_/same_as :: [[/_private/Dimension/Linear_Dimension/Dim~Length/Parsec.private|Parsec.private]] 
 
-### #is_/same_as :: [[/_personal/Dimension/Dim~Length/Parsec.personal|Parsec.personal]] 
+### #is_/same_as :: [[/_personal/Dimension/Linear_Dimension/Dim~Length/Parsec.personal|Parsec.personal]] 
 
-### #is_/same_as :: [[/_secret/Dimension/Dim~Length/Parsec.secret|Parsec.secret]] 
+### #is_/same_as :: [[/_secret/Dimension/Linear_Dimension/Dim~Length/Parsec.secret|Parsec.secret]] 
 

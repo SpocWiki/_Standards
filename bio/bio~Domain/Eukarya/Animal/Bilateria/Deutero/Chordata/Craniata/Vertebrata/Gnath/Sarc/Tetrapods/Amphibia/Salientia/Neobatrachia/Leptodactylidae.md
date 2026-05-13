@@ -219,7 +219,7 @@ alternative taxonomy.
 2. Ceratophrys ornata, Argentina; Photo © 1995 David Cannatella\![](Leptodactylidae/ceratophrys.jpg))
 
 ------------------------------------------------------------------------
-3. Lithodytes lineatus, Ecuador; Photo © 1995 David Cannatella![](Leptodactylidae/lithodytes.jpg))
+3. Lithodytes lineatus, Ecuador; Photo © 1995 David Cannatella![](Leptodactylidae/lithodytes.jpg)) 
 
 
 ## Confidential Links & Embeds: 

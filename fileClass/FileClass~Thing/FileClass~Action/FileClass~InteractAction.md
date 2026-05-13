@@ -32,7 +32,7 @@ The act of interacting with another person or organization.
 #class/InteractAction
 #class/Thing/Action/InteractAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ A kind of lodging business that focuses on renting single properties for limited
 #class/VacationRental
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/VacationRental
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

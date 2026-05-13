@@ -36,3 +36,21 @@ Dewey_Decimal_Classification: "391.72"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ring%20(jewellery)) 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Technology/Tool/Clothing/Fashion/Jewelry/Ring|Ring]] 
+
+### #is_/same_as :: [[/_public/Technology/Tool/Clothing/Fashion/Jewelry/Ring.public|Ring.public]] 
+
+### #is_/same_as :: [[/_internal/Technology/Tool/Clothing/Fashion/Jewelry/Ring.internal|Ring.internal]] 
+
+### #is_/same_as :: [[/_protect/Technology/Tool/Clothing/Fashion/Jewelry/Ring.protect|Ring.protect]] 
+
+### #is_/same_as :: [[/_private/Technology/Tool/Clothing/Fashion/Jewelry/Ring.private|Ring.private]] 
+
+### #is_/same_as :: [[/_personal/Technology/Tool/Clothing/Fashion/Jewelry/Ring.personal|Ring.personal]] 
+
+### #is_/same_as :: [[/_secret/Technology/Tool/Clothing/Fashion/Jewelry/Ring.secret|Ring.secret]] 

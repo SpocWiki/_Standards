@@ -98,17 +98,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Nuremberg_Principles|Nuremberg_Principles]] 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/War/War_Crime/Nuremberg_Principles|Nuremberg_Principles]] 
 
-### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/War/War_Crime/Nuremberg_Principles.public|Nuremberg_Principles.public]] 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/War/War_Crime/Nuremberg_Principles.public|Nuremberg_Principles.public]] 
 
-### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/War/War_Crime/Nuremberg_Principles.internal|Nuremberg_Principles.internal]] 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/War/War_Crime/Nuremberg_Principles.internal|Nuremberg_Principles.internal]] 
 
-### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/War/War_Crime/Nuremberg_Principles.protect|Nuremberg_Principles.protect]] 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/War/War_Crime/Nuremberg_Principles.protect|Nuremberg_Principles.protect]] 
 
-### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/War/War_Crime/Nuremberg_Principles.private|Nuremberg_Principles.private]] 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/War/War_Crime/Nuremberg_Principles.private|Nuremberg_Principles.private]] 
 
-### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/War/War_Crime/Nuremberg_Principles.personal|Nuremberg_Principles.personal]] 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/War/War_Crime/Nuremberg_Principles.personal|Nuremberg_Principles.personal]] 
 
-### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/War/War_Crime/Nuremberg_Principles.secret|Nuremberg_Principles.secret]] 
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/War/War_Crime/Nuremberg_Principles.secret|Nuremberg_Principles.secret]] 
 

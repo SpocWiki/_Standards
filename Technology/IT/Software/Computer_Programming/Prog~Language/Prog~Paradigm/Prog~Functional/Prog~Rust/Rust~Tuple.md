@@ -17,7 +17,7 @@ enum Message {
 ### Instantiation
 ```rust
 Message::ChangeColor(200, 255, 255)
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

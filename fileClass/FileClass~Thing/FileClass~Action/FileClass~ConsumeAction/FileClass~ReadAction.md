@@ -32,7 +32,7 @@ The act of consuming written content.
 #class/ReadAction
 #class/Thing/Action/ConsumeAction/ReadAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ A CovidTestingFacility is a [[MedicalClinic]] where testing for the COVID-19 Cor
 #class/CovidTestingFacility
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization/MedicalClinic/CovidTestingFacility
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

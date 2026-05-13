@@ -566,7 +566,7 @@ either their native Script or a Latin Transcription:
 18. **Tibetan:**
     
     - Tibetan Script: bo-Tibt
-    - Latin Script (Transcription): bo-Latn
+    - Latin Script (Transcription): bo-Latn 
 
 
 ## Confidential Links & Embeds: 

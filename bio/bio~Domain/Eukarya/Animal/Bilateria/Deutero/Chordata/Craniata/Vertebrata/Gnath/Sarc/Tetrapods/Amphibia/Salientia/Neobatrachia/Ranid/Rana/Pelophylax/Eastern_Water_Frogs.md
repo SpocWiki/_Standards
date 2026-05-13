@@ -47,8 +47,7 @@ title: Eastern Palearctic water frogs
 	-   *Rana nigromaculata* [Hallowell 1861]
 	-   *Rana plancyi* [Lataste 1880]
 	-   *Rana porosa* [Cope 1868]
-	-   *Rana shuchinae* [Liu 1950]
-	
+	-   *Rana shuchinae* [Liu 1950] 
 
 
 ## Confidential Links & Embeds: 

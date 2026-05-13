@@ -504,7 +504,7 @@ location ::           Barstow, San Bernardino County, California, USA
 Reference            Davidson, P. 1923. Alticamelus alexandrae, a new camel from the Barstow Upper Miocene of the Mohave Desert. University of California Publications in Geological Science 14(12):397-408.
 specimen_condition ::  Fossil
 Body Part            skull
-View                 ventral, lateral
+View                 ventral, lateral 
 
 
 ## Confidential Links & Embeds: 

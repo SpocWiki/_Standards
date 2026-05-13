@@ -128,22 +128,22 @@ has_time = `=this.dv_has_time`
 has_location = `=this.dv_has_location` 
 **Details:** Diethylene glycol (DEG), a component typically used in antifreeze, 
 was illegally added to Austrian wines to enhance sweetness. 
-Several bulk-bottled German wines were contaminated
+Several bulk-bottled German wines were contaminated 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol|Diethylene_Glycol]] 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Functional_Group/Alcohol/Polyol/Diol/Diethylene_Glycol|Diethylene_Glycol]] 
 
-### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.public|Diethylene_Glycol.public]] 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Functional_Group/Alcohol/Polyol/Diol/Diethylene_Glycol.public|Diethylene_Glycol.public]] 
 
-### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.internal|Diethylene_Glycol.internal]] 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Functional_Group/Alcohol/Polyol/Diol/Diethylene_Glycol.internal|Diethylene_Glycol.internal]] 
 
-### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.protect|Diethylene_Glycol.protect]] 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Functional_Group/Alcohol/Polyol/Diol/Diethylene_Glycol.protect|Diethylene_Glycol.protect]] 
 
-### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.private|Diethylene_Glycol.private]] 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Functional_Group/Alcohol/Polyol/Diol/Diethylene_Glycol.private|Diethylene_Glycol.private]] 
 
-### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.personal|Diethylene_Glycol.personal]] 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Functional_Group/Alcohol/Polyol/Diol/Diethylene_Glycol.personal|Diethylene_Glycol.personal]] 
 
-### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.secret|Diethylene_Glycol.secret]] 
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Functional_Group/Alcohol/Polyol/Diol/Diethylene_Glycol.secret|Diethylene_Glycol.secret]] 
 

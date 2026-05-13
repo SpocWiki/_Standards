@@ -52,5 +52,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Daedalus%20and%20Icaru
 > and flew too close to the Sun; 
 > the wax holding his wings together melted and Icarus fell to his death.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Daedalus)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Daedalus) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Plato/Daedalus|Daedalus]] 
+
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Ancient_Philosopher/Plato/Daedalus.public|Daedalus.public]] 
+
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Ancient_Philosopher/Plato/Daedalus.internal|Daedalus.internal]] 
+
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Ancient_Philosopher/Plato/Daedalus.protect|Daedalus.protect]] 
+
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Ancient_Philosopher/Plato/Daedalus.private|Daedalus.private]] 
+
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Ancient_Philosopher/Plato/Daedalus.personal|Daedalus.personal]] 
+
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Ancient_Philosopher/Plato/Daedalus.secret|Daedalus.secret]] 
 

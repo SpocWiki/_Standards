@@ -32,7 +32,7 @@ A medical procedure involving an incision with instruments; performed for diagno
 #class/SurgicalProcedure
 #class/Thing/MedicalEntity/MedicalProcedure/SurgicalProcedure
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

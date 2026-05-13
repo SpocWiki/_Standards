@@ -75,19 +75,20 @@ has_range = `=this.dv_has_range`
 
 has_parent_property = `=this.dv_has_parent_property` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[is_legislation_passed_by|is_legislation_passed_by]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_legislation/is_legislation_passed_by|is_legislation_passed_by]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/is/is_legislation_passed_by.public|is_legislation_passed_by.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_legislation/is_legislation_passed_by.public|is_legislation_passed_by.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_legislation_passed_by.internal|is_legislation_passed_by.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_legislation/is_legislation_passed_by.internal|is_legislation_passed_by.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_legislation_passed_by.protect|is_legislation_passed_by.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_legislation/is_legislation_passed_by.protect|is_legislation_passed_by.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/is/is_legislation_passed_by.private|is_legislation_passed_by.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_legislation/is_legislation_passed_by.private|is_legislation_passed_by.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_legislation_passed_by.personal|is_legislation_passed_by.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_legislation/is_legislation_passed_by.personal|is_legislation_passed_by.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_legislation_passed_by.secret|is_legislation_passed_by.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_legislation/is_legislation_passed_by.secret|is_legislation_passed_by.secret]] 
 

@@ -37,7 +37,8 @@ Available by prescription only.
 
 #has_/parent_class :: [[../DrugPrescriptionStatus|DrugPrescriptionStatus]]  
 
-#is_/enum_of :: [[../DrugPrescriptionStatus|DrugPrescriptionStatus]]  
+#is_/enum_of :: [[../DrugPrescriptionStatus|DrugPrescriptionStatus]] 
+
 
 ## Confidential Links & Embeds: 
 

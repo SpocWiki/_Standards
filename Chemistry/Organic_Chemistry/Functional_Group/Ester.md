@@ -222,17 +222,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Ester|Ester]] 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Functional_Group/Ester|Ester]] 
 
-### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Ester.public|Ester.public]] 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Functional_Group/Ester.public|Ester.public]] 
 
-### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Ester.internal|Ester.internal]] 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Functional_Group/Ester.internal|Ester.internal]] 
 
-### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Ester.protect|Ester.protect]] 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Functional_Group/Ester.protect|Ester.protect]] 
 
-### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Ester.private|Ester.private]] 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Functional_Group/Ester.private|Ester.private]] 
 
-### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Ester.personal|Ester.personal]] 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Functional_Group/Ester.personal|Ester.personal]] 
 
-### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Ester.secret|Ester.secret]] 
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Functional_Group/Ester.secret|Ester.secret]] 
 

@@ -72,7 +72,7 @@ ProgrammingModel:: {"type":"Input","options":{}}
 ### TargetPlatform
 Type of app development: phone, Metro style, desktop, XBox, etc.
 
-TargetPlatform:: {"type":"Input","options":{}}
+TargetPlatform:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

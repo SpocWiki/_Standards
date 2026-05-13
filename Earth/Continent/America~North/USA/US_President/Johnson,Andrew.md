@@ -255,7 +255,7 @@ has_time_stopped = `=this.dv_has_time_stopped`
 [is_member_of :: [[National Union Party]] ] 
 [is_member_of ::[[../../../../../Knowledge/History.internal/History~USA/US~Democratic_Party|US~Democratic_Party]]] ] 
 
--   [has_role :: [[../US_President|US_President]] ] [created:: 1865-04-15]cancelled = `=this.dv_cancelled`
+-   [has_role :: [[../US_President|US_President]] ] [created:: 1865-04-15]cancelled = `=this.dv_cancelled` 
 
 
 ## Confidential Links & Embeds: 

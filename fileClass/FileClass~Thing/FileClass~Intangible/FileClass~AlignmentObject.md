@@ -83,7 +83,7 @@ TargetName:: {"type":"Input","options":{}}
 ### TargetUrl
 The URL of a node in an established educational framework.
 
-TargetUrl:: {"type":"Input","options":{}}
+TargetUrl:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

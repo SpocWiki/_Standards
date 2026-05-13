@@ -152,7 +152,7 @@ specimen_condition ::  Live Specimen
 Source               [Bontebok (Damaliscus pygargus)](http://www.flickr.com/photos/80532238@N00/243614700/)
 Source Collection    [Flickr](http://flickr.com/)
 Image Use ::    [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
-copyright ::            © 2004 [marsden.joseph](http://flickr.com/people/80532238@N00)
+copyright ::            © 2004 [marsden.joseph](http://flickr.com/people/80532238@N00) 
 
 
 ## Confidential Links & Embeds: 

@@ -134,3 +134,21 @@ dv_has_:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hybrid%20warfare)  
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/War/Hybrid_Warfare|Hybrid_Warfare]] 
+
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/War/Hybrid_Warfare.public|Hybrid_Warfare.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/War/Hybrid_Warfare.internal|Hybrid_Warfare.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/War/Hybrid_Warfare.protect|Hybrid_Warfare.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/War/Hybrid_Warfare.private|Hybrid_Warfare.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/War/Hybrid_Warfare.personal|Hybrid_Warfare.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/War/Hybrid_Warfare.secret|Hybrid_Warfare.secret]] 

@@ -9,7 +9,7 @@ Hanja Script is used less commonly in [[../Language_Family/LangFamily-Koreanic/L
 7. **Korean:**
     
     - Hangul Script: ko-Hang
-    - Hanja Script: ko-Hani (Hanja is less common and is used mainly in specific contexts.)
+    - Hanja Script: ko-Hani (Hanja is less common and is used mainly in specific contexts.) 
 
 
 ## Confidential Links & Embeds: 

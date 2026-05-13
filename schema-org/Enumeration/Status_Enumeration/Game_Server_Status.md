@@ -58,6 +58,7 @@ Status of a game server.
 
 has_parent_class = `=this.dv_has_parent_class` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Status_Enumeration/Game_Server_Status|Game_Server_Status]] 

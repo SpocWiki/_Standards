@@ -114,7 +114,7 @@ From left to right:
     Philippines (depth 494 m). Note the deep intercostal grooves. Width
     of corallum 23 mm. This species represents the family Turbinoliidae.
     copyright :: © S. D. Cairns 2002.
-![](Caryophyllioidea/Deltocyathus_calcar.jpg))![](Caryophyllioidea/Cyathotrochus_pileus.jpg)):::::::::::::::::::::
+![](Caryophyllioidea/Deltocyathus_calcar.jpg))![](Caryophyllioidea/Cyathotrochus_pileus.jpg))::::::::::::::::::::: 
 
 
 ## Confidential Links & Embeds: 

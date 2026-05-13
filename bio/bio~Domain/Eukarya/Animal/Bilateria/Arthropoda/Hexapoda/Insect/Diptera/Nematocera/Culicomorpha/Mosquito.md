@@ -510,7 +510,7 @@ Containing group: [Fly](Fly.md)
   Life Cycle Stage ::     adult
   Source Collection    [InsectImages.org](http://www.insectimages.org/)
   copyright ::            © Susan Ellis
-  --------------------------
+  -------------------------- 
 
 
 ## Confidential Links & Embeds: 

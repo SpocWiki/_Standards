@@ -291,17 +291,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Unit~Mile|Unit~Mile]] 
+### #is_/same_as :: [[/_Standards/Dimension/Linear_Dimension/Dim~Length/Unit~Mile|Unit~Mile]] 
 
-### #is_/same_as :: [[/_public/Dimension/Dim~Length/Unit~Mile.public|Unit~Mile.public]] 
+### #is_/same_as :: [[/_public/Dimension/Linear_Dimension/Dim~Length/Unit~Mile.public|Unit~Mile.public]] 
 
-### #is_/same_as :: [[/_internal/Dimension/Dim~Length/Unit~Mile.internal|Unit~Mile.internal]] 
+### #is_/same_as :: [[/_internal/Dimension/Linear_Dimension/Dim~Length/Unit~Mile.internal|Unit~Mile.internal]] 
 
-### #is_/same_as :: [[/_protect/Dimension/Dim~Length/Unit~Mile.protect|Unit~Mile.protect]] 
+### #is_/same_as :: [[/_protect/Dimension/Linear_Dimension/Dim~Length/Unit~Mile.protect|Unit~Mile.protect]] 
 
-### #is_/same_as :: [[/_private/Dimension/Dim~Length/Unit~Mile.private|Unit~Mile.private]] 
+### #is_/same_as :: [[/_private/Dimension/Linear_Dimension/Dim~Length/Unit~Mile.private|Unit~Mile.private]] 
 
-### #is_/same_as :: [[/_personal/Dimension/Dim~Length/Unit~Mile.personal|Unit~Mile.personal]] 
+### #is_/same_as :: [[/_personal/Dimension/Linear_Dimension/Dim~Length/Unit~Mile.personal|Unit~Mile.personal]] 
 
-### #is_/same_as :: [[/_secret/Dimension/Dim~Length/Unit~Mile.secret|Unit~Mile.secret]] 
+### #is_/same_as :: [[/_secret/Dimension/Linear_Dimension/Dim~Length/Unit~Mile.secret|Unit~Mile.secret]] 
 

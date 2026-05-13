@@ -15,7 +15,7 @@ struct Move { x: i32, y: i32 }
 ### Instantiation
 ```rust
 Move { x: 10, y: 30 },
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

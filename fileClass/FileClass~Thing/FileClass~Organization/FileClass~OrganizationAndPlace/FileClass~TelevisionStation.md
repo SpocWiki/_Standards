@@ -32,7 +32,7 @@ A television station.
 #class/TelevisionStation
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/TelevisionStation
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

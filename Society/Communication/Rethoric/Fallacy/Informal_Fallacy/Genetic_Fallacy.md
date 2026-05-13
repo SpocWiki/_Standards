@@ -96,3 +96,21 @@ dv_has_:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Genetic%20fallacy) 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Genetic_Fallacy|Genetic_Fallacy]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Genetic_Fallacy.public|Genetic_Fallacy.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Genetic_Fallacy.internal|Genetic_Fallacy.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Genetic_Fallacy.protect|Genetic_Fallacy.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Genetic_Fallacy.private|Genetic_Fallacy.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Genetic_Fallacy.personal|Genetic_Fallacy.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Genetic_Fallacy.secret|Genetic_Fallacy.secret]] 

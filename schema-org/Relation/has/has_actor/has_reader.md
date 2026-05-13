@@ -76,21 +76,22 @@ Relation describes that:
 
 has_domain = `=this.dv_has_domain` 
 has_name = `=this.dv_has_name`  
-has_range = `=this.dv_has_range`  
+has_range = `=this.dv_has_range` 
+
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_reader|has_reader]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_actor/has_reader|has_reader]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_reader.public|has_reader.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_actor/has_reader.public|has_reader.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_reader.internal|has_reader.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_actor/has_reader.internal|has_reader.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_reader.protect|has_reader.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_actor/has_reader.protect|has_reader.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_reader.private|has_reader.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_actor/has_reader.private|has_reader.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_reader.personal|has_reader.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_actor/has_reader.personal|has_reader.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_reader.secret|has_reader.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_actor/has_reader.secret|has_reader.secret]] 
 

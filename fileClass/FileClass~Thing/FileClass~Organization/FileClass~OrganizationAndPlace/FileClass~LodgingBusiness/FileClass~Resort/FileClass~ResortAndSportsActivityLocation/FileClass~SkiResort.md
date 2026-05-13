@@ -32,7 +32,7 @@ A ski resort.
 #class/SkiResort
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Resort/ResortAndSportsActivityLocation/SkiResort
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

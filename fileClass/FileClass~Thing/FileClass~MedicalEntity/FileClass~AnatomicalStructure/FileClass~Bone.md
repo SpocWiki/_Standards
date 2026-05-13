@@ -32,7 +32,7 @@ Rigid connective tissue that comprises up the skeletal structure of the human bo
 #class/Bone
 #class/Thing/MedicalEntity/AnatomicalStructure/Bone
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

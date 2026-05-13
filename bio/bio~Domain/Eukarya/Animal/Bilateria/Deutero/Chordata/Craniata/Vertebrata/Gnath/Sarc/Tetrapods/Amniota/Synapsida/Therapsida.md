@@ -325,7 +325,7 @@ Ecology and Biology of Mammal-like Reptiles (P. D. M. Nicholas Hotton
 III, J. J. Roth, and E. C. Roth, eds.) Smithsonian Institution Press,
 Washington.
 
-Sues, H. D. 1992. No paleocene mammal-like reptile. Nature 359:278-278.
+Sues, H. D. 1992. No paleocene mammal-like reptile. Nature 359:278-278. 
 
 
 ## Confidential Links & Embeds: 

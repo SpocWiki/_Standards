@@ -37,7 +37,8 @@ Cardiovascular system assessment with clinical examination.
 
 #has_/parent_class :: [[../PhysicalExam|PhysicalExam]]  
 
-#is_/enum_of :: [[../PhysicalExam|PhysicalExam]]  
+#is_/enum_of :: [[../PhysicalExam|PhysicalExam]] 
+
 
 ## Confidential Links & Embeds: 
 

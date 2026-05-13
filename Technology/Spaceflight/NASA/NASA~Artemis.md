@@ -171,3 +171,21 @@ dv_has_:
 
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Technology/Spaceflight/NASA/NASA~Artemis|NASA~Artemis]] 
+
+### #is_/same_as :: [[/_public/Technology/Spaceflight/NASA/NASA~Artemis.public|NASA~Artemis.public]] 
+
+### #is_/same_as :: [[/_internal/Technology/Spaceflight/NASA/NASA~Artemis.internal|NASA~Artemis.internal]] 
+
+### #is_/same_as :: [[/_protect/Technology/Spaceflight/NASA/NASA~Artemis.protect|NASA~Artemis.protect]] 
+
+### #is_/same_as :: [[/_private/Technology/Spaceflight/NASA/NASA~Artemis.private|NASA~Artemis.private]] 
+
+### #is_/same_as :: [[/_personal/Technology/Spaceflight/NASA/NASA~Artemis.personal|NASA~Artemis.personal]] 
+
+### #is_/same_as :: [[/_secret/Technology/Spaceflight/NASA/NASA~Artemis.secret|NASA~Artemis.secret]] 

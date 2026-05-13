@@ -198,7 +198,7 @@ copyright ::   © 1994 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 	-   *Phoronopsis harmeri*
 	-   *Phoronopsis californica*
 	-   *Phoronopsis viridis*
-	-   *Phoronopsis malakhovi*
+	-   *Phoronopsis malakhovi* 
 
 
 ## Confidential Links & Embeds: 

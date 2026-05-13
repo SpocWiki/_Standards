@@ -37,7 +37,8 @@ Radiography is an imaging technique that uses electromagnetic radiation other th
 
 #has_/parent_class :: [[../MedicalImagingTechnique|MedicalImagingTechnique]]  
 
-#is_/enum_of :: [[../MedicalImagingTechnique|MedicalImagingTechnique]]  
+#is_/enum_of :: [[../MedicalImagingTechnique|MedicalImagingTechnique]] 
+
 
 ## Confidential Links & Embeds: 
 

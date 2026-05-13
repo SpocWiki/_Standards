@@ -269,7 +269,7 @@ African Journal of Marine Science, 20: 429-437.
   Type              Holotype
   copyright ::         © 2004 [Michael Vecchione](mailto:vecchiom@si.edu) 
  
-  ------------------------------------------------------------------------
+  ------------------------------------------------------------------------ 
 
 
 ## Confidential Links & Embeds: 

@@ -265,17 +265,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Tropic_of_Capricorn|Tropic_of_Capricorn]] 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Cartography/Circle_of_Latitude/Tropic_of_Capricorn|Tropic_of_Capricorn]] 
 
-### #is_/same_as :: [[/_public/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.public|Tropic_of_Capricorn.public]] 
+### #is_/same_as :: [[/_public/Earth/Geography/Cartography/Circle_of_Latitude/Tropic_of_Capricorn.public|Tropic_of_Capricorn.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.internal|Tropic_of_Capricorn.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Geography/Cartography/Circle_of_Latitude/Tropic_of_Capricorn.internal|Tropic_of_Capricorn.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.protect|Tropic_of_Capricorn.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Geography/Cartography/Circle_of_Latitude/Tropic_of_Capricorn.protect|Tropic_of_Capricorn.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.private|Tropic_of_Capricorn.private]] 
+### #is_/same_as :: [[/_private/Earth/Geography/Cartography/Circle_of_Latitude/Tropic_of_Capricorn.private|Tropic_of_Capricorn.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.personal|Tropic_of_Capricorn.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Geography/Cartography/Circle_of_Latitude/Tropic_of_Capricorn.personal|Tropic_of_Capricorn.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.secret|Tropic_of_Capricorn.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Geography/Cartography/Circle_of_Latitude/Tropic_of_Capricorn.secret|Tropic_of_Capricorn.secret]] 
 

@@ -33,17 +33,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/Stoney-Unit|Stoney-Unit]] 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measure/Stoney-Unit|Stoney-Unit]] 
 
-### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/Stoney-Unit.public|Stoney-Unit.public]] 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measure/Stoney-Unit.public|Stoney-Unit.public]] 
 
-### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/Stoney-Unit.internal|Stoney-Unit.internal]] 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measure/Stoney-Unit.internal|Stoney-Unit.internal]] 
 
-### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/Stoney-Unit.protect|Stoney-Unit.protect]] 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measure/Stoney-Unit.protect|Stoney-Unit.protect]] 
 
-### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/Stoney-Unit.private|Stoney-Unit.private]] 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measure/Stoney-Unit.private|Stoney-Unit.private]] 
 
-### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/Stoney-Unit.personal|Stoney-Unit.personal]] 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measure/Stoney-Unit.personal|Stoney-Unit.personal]] 
 
-### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/Stoney-Unit.secret|Stoney-Unit.secret]] 
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measure/Stoney-Unit.secret|Stoney-Unit.secret]] 
 

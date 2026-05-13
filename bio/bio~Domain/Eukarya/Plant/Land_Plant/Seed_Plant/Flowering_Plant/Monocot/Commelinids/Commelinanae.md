@@ -175,7 +175,7 @@ This superorder includes approximately 25 families, 1075 genera, and 24000 speci
 The Commelinanae are characterized by scrobiculate pollen 
 with operculate apertures and orthotropous ovules, 
 girdle-like endothecial thickenings of the anthers, 
-annulate pollen apertures, and apical placentation (Linder and Kellogg, 1993).
+annulate pollen apertures, and apical placentation (Linder and Kellogg, 1993). 
 
 
 ## Confidential Links & Embeds: 

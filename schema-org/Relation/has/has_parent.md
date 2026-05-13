@@ -92,7 +92,8 @@ but here we use [[has_child/has_child_set|has_child_set]] and [[has_parent/has_p
 
 To improve discoverability, 
 - the Names of most transitive, anti-symmetric Relations should be named #has_/parent_ 
-- and their inverse Relations should be named #has_/child_ .
+- and their inverse Relations should be named #has_/child_ . 
+
 
 ## Confidential Links & Embeds: 
 

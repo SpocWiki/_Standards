@@ -32,7 +32,7 @@ A fire station. With firemen.
 #class/FireStation
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyService/FireStation
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

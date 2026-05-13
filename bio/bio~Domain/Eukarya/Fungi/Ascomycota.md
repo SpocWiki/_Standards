@@ -469,7 +469,7 @@ edit internet links
   Comments          Mitospores (conidia) of Penicillium, one of the asexual Ascomycota
   Body Part         Mitospores (conidia)
   copyright ::         © 1996 K. Wells
-  -------------------------
+  ------------------------- 
 
 
 ## Confidential Links & Embeds: 

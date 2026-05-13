@@ -43,7 +43,7 @@ Any collection of tests commonly ordered together.
 ### SubTest
 A component test of the panel.
 
-SubTest:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalTest')"}}
+SubTest:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalTest')"}} 
 
 
 ## Confidential Links & Embeds: 

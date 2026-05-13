@@ -58,6 +58,7 @@ A diet restricted to certain foods or preparations for cultural, religious, heal
 
 has_parent_class = `=this.dv_has_parent_class` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Restricted_Diet|Restricted_Diet]] 

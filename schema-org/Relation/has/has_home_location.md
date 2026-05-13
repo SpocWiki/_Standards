@@ -82,7 +82,7 @@ Relation describes that:
 
 has_domain = `=this.dv_has_domain` 
 has_name = `=this.dv_has_name` 
-(has_/range :: [[../../Class/is_a_/Intangible/Structured_Value/Contact_Point|Contact_Point]], [[../../../Earth/Geography/Place|Place]] )
+(has_/range :: [[../../Class/is_a_/Intangible/Structured_Value/Contact_Point|Contact_Point]], [[../../../Earth/Geography/Place|Place]] ) 
 
 
 ## Confidential Links & Embeds: 

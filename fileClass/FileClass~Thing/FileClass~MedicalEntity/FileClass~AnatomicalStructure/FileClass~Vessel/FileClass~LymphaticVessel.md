@@ -65,7 +65,7 @@ RegionDrained:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class
 ### RunsTo
 The vasculature the lymphatic structure runs, or efferents, to.
 
-RunsTo:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure/Vessel')"}}
+RunsTo:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure/Vessel')"}} 
 
 
 ## Confidential Links & Embeds: 

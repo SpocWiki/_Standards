@@ -110,7 +110,7 @@ scientific_name ::     Aphelandra rosulata (Lindau) Wassh.
 location ::           Ecuador
 specimen_condition ::  Live Specimen
 Collector            John L. Clark
-copyright ::            © 2005 John L. Clark
+copyright ::            © 2005 John L. Clark 
 
 
 ## Confidential Links & Embeds: 

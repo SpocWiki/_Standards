@@ -183,17 +183,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Aromatic_Compound|Aromatic_Compound]] 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Functional_Group/Aromatic_Compound|Aromatic_Compound]] 
 
-### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Aromatic_Compound.public|Aromatic_Compound.public]] 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Functional_Group/Aromatic_Compound.public|Aromatic_Compound.public]] 
 
-### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Aromatic_Compound.internal|Aromatic_Compound.internal]] 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Functional_Group/Aromatic_Compound.internal|Aromatic_Compound.internal]] 
 
-### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Aromatic_Compound.protect|Aromatic_Compound.protect]] 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Functional_Group/Aromatic_Compound.protect|Aromatic_Compound.protect]] 
 
-### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Aromatic_Compound.private|Aromatic_Compound.private]] 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Functional_Group/Aromatic_Compound.private|Aromatic_Compound.private]] 
 
-### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Aromatic_Compound.personal|Aromatic_Compound.personal]] 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Functional_Group/Aromatic_Compound.personal|Aromatic_Compound.personal]] 
 
-### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Aromatic_Compound.secret|Aromatic_Compound.secret]] 
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Functional_Group/Aromatic_Compound.secret|Aromatic_Compound.secret]] 
 

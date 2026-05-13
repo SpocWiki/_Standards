@@ -43,7 +43,7 @@ A risk factor is anything that increases a person's likelihood of developing or 
 ### IncreasesRiskOf
 The condition, complication, etc. influenced by this factor.
 
-IncreasesRiskOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity')"}}
+IncreasesRiskOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity')"}} 
 
 
 ## Confidential Links & Embeds: 

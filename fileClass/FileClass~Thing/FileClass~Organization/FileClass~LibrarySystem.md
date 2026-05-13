@@ -32,7 +32,7 @@ A [[LibrarySystem]] is a collaborative system amongst several libraries.
 #class/LibrarySystem
 #class/Thing/Organization/LibrarySystem
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

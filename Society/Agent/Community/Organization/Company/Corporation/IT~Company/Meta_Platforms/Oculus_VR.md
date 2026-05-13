@@ -82,7 +82,7 @@ and just before the 2012 [Electronic Entertainment Expo](https://en.wikipedia.or
 id Software announced that the _[BFG Edition](https://en.wikipedia.org/wiki/Doom_3_BFG_Edition "Doom 3 BFG Edition")_ of _[Doom 3](https://en.wikipedia.org/wiki/Doom_3 "Doom 3")_ 
 would be compatible with head-mounted display units.
 
-Carmack later left id Software as he was hired as Oculus VR's [chief technology officer](https://en.wikipedia.org/wiki/Chief_technology_officer "Chief technology officer")
+Carmack later left id Software as he was hired as Oculus VR's [chief technology officer](https://en.wikipedia.org/wiki/Chief_technology_officer "Chief technology officer") 
 
 
 ## Confidential Links & Embeds: 

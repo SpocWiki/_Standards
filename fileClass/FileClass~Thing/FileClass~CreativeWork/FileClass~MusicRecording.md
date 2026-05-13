@@ -98,7 +98,7 @@ IsrcCode:: {"type":"Input","options":{}}
 ### RecordingOf
 The composition this track is a recording of.
 
-RecordingOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MusicComposition')"}}
+RecordingOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MusicComposition')"}} 
 
 
 ## Confidential Links & Embeds: 

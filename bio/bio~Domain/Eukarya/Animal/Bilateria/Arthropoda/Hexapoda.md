@@ -363,7 +363,7 @@ copyright ::            © 2002 [California Academy of Sciences](http://www.cala
     -   [Springtail](Hexapoda/Springtail.md)
     -  [Protura](Hexapoda/Protura.md) 
     -  [Diplura](Hexapoda/Diplura.md) 
-    -   [Insecta](Insecta.md)
+    -   [Insecta](Insecta.md) 
 
 
 ## Confidential Links & Embeds: 

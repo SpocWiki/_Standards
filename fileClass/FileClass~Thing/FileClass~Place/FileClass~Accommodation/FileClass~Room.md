@@ -37,7 +37,7 @@ usually separated from other spaces by interior walls
 #class/Room
 #class/Thing/Place/Accommodation/Room
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ A particular physical or virtual business of an organization for medical purpose
 #class/MedicalBusiness
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

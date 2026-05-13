@@ -209,17 +209,17 @@ even if they are in the same [[../../State_of_Matter|State_of_Matter]] like e.g.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Phase(Matter)|Phase(Matter)]] 
+### #is_/same_as :: [[/_Standards/Science/Physics/State_of_Matter/Phase_Transition/Phase(Matter)|Phase(Matter)]] 
 
-### #is_/same_as :: [[/_public/Science/Physics/State_of_Matter/Phase_Transition/Phase.public|Phase.public]] 
+### #is_/same_as :: [[/_public/Science/Physics/State_of_Matter/Phase_Transition/Phase(Matter).public|Phase(Matter).public]] 
 
-### #is_/same_as :: [[/_internal/Science/Physics/State_of_Matter/Phase_Transition/Phase.internal|Phase.internal]] 
+### #is_/same_as :: [[/_internal/Science/Physics/State_of_Matter/Phase_Transition/Phase(Matter).internal|Phase(Matter).internal]] 
 
-### #is_/same_as :: [[/_protect/Science/Physics/State_of_Matter/Phase_Transition/Phase.protect|Phase.protect]] 
+### #is_/same_as :: [[/_protect/Science/Physics/State_of_Matter/Phase_Transition/Phase(Matter).protect|Phase(Matter).protect]] 
 
-### #is_/same_as :: [[/_private/Science/Physics/State_of_Matter/Phase_Transition/Phase.private|Phase.private]] 
+### #is_/same_as :: [[/_private/Science/Physics/State_of_Matter/Phase_Transition/Phase(Matter).private|Phase(Matter).private]] 
 
-### #is_/same_as :: [[/_personal/Science/Physics/State_of_Matter/Phase_Transition/Phase.personal|Phase.personal]] 
+### #is_/same_as :: [[/_personal/Science/Physics/State_of_Matter/Phase_Transition/Phase(Matter).personal|Phase(Matter).personal]] 
 
-### #is_/same_as :: [[/_secret/Science/Physics/State_of_Matter/Phase_Transition/Phase.secret|Phase.secret]] 
+### #is_/same_as :: [[/_secret/Science/Physics/State_of_Matter/Phase_Transition/Phase(Matter).secret|Phase(Matter).secret]] 
 

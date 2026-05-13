@@ -96,7 +96,7 @@ dv_has_:
 	-   *Cainotherium* †
 	-   *Oxacron* †
 	-   *Paroxacron* †
-	-   *Plesiomeryx* †
+	-   *Plesiomeryx* † 
 
 
 ## Confidential Links & Embeds: 

@@ -67,7 +67,7 @@ ValidFrom:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAs
 ### ValidThrough
 The date after when the item is not valid. For example the end of an offer, salary period, or a period of opening hours.
 
-ValidThrough:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
+ValidThrough:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}} 
 
 
 ## Confidential Links & Embeds: 

@@ -116,7 +116,7 @@ Photographs copyright © Jim Kalisch, [Department of Entomology,     University 
 
 -   Crab spider, Misumenoides formosipes (Thomisidae). ![](Dionycha/Misumenoides_formosipes.jpg))
 
--   Parson spider, Herpyllus ecclesiasticus (Gnaphosidae). ![](Dionycha/Herpyllus_ecclesiasticus.jpg))
+-   Parson spider, Herpyllus ecclesiasticus (Gnaphosidae). ![](Dionycha/Herpyllus_ecclesiasticus.jpg)) 
 
 
 ## Confidential Links & Embeds: 

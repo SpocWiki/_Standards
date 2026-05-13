@@ -168,3 +168,21 @@ Credit increases the Volume of [[Capital(Economics)|Capital]] available in the M
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Credit) 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Ideology/Economic_Ideology/Capitalism/Credit|Credit]] 
+
+### #is_/same_as :: [[/_public/Society/Ideology/Economic_Ideology/Capitalism/Credit.public|Credit.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Ideology/Economic_Ideology/Capitalism/Credit.internal|Credit.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Ideology/Economic_Ideology/Capitalism/Credit.protect|Credit.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Ideology/Economic_Ideology/Capitalism/Credit.private|Credit.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Ideology/Economic_Ideology/Capitalism/Credit.personal|Credit.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Ideology/Economic_Ideology/Capitalism/Credit.secret|Credit.secret]] 

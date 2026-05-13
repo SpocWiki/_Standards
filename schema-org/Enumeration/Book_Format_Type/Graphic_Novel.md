@@ -61,6 +61,7 @@ Book format: [[Graphic_Novel]]. May represent a bound collection of [[../../../.
 
 is_enum_of = `=this.dv_is_enum_of` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Book_Format_Type/Graphic_Novel|Graphic_Novel]] 

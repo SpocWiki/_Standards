@@ -209,7 +209,7 @@ dv_has_:
 
 -   [The Philippine Tarsier Foundation,     Inc.](http://www.bohol.net/PTFI/main.htm)
 -   [Tarsiidae](http://animaldiversity.ummz.umich.edu/chordata/mammalia/primates/tarsiidae.html).
-    University of Michigan Museum of Zoology Animal Diversity Web.
+    University of Michigan Museum of Zoology Animal Diversity Web. 
 
 
 ## Confidential Links & Embeds: 

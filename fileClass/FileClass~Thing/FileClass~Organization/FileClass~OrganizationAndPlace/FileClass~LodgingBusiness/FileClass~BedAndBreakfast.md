@@ -36,7 +36,7 @@ Bed and breakfast.
 #class/BedAndBreakfast
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/BedAndBreakfast
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

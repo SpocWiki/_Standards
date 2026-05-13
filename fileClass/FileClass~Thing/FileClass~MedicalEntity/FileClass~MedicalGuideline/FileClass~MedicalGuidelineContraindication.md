@@ -32,7 +32,7 @@ A guideline contraindication that designates a process as harmful and where qual
 #class/MedicalGuidelineContraindication
 #class/Thing/MedicalEntity/MedicalGuideline/MedicalGuidelineContraindication
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

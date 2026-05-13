@@ -32,7 +32,7 @@ A medical procedure intended primarily for palliative purposes, aimed at relievi
 #class/PalliativeProcedure
 #class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/PalliativeProcedure
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

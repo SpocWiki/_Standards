@@ -75,7 +75,7 @@ aliases:
 [[Weiße_Rose(1982)]]  
 [[schreckliche_Mädchen(1990)]] was nominated for an Academy Award. 
 [[o.k.(1970)]] about the [[Incident_on_Hill_192]] 
-which roused a scandal on the [[Berlin_International_Film_Festival]].  
+which roused a scandal on the [[Berlin_International_Film_Festival]]. 
 
 
 ## Confidential Links & Embeds: 

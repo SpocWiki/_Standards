@@ -152,7 +152,7 @@ waters. Bull. Mar. Sci., 49: 162-185.
   Creator           Octopoteuthis neilseni photograph by R. E. Young
   copyright ::         © 1999 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
-  ---------------------------------------------------------------------------------------------------------------------
+  --------------------------------------------------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

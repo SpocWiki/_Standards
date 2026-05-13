@@ -75,19 +75,20 @@ has_range = `=this.dv_has_range`
 
 has_parent_property = `=this.dv_has_parent_property` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_borrower|has_borrower]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_participant/has_borrower|has_borrower]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_participants/has_borrower.public|has_borrower.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_participant/has_borrower.public|has_borrower.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_participants/has_borrower.internal|has_borrower.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_participant/has_borrower.internal|has_borrower.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_participants/has_borrower.protect|has_borrower.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_participant/has_borrower.protect|has_borrower.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_participants/has_borrower.private|has_borrower.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_participant/has_borrower.private|has_borrower.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_participants/has_borrower.personal|has_borrower.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_participant/has_borrower.personal|has_borrower.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_participants/has_borrower.secret|has_borrower.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_participant/has_borrower.secret|has_borrower.secret]] 
 

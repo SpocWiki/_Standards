@@ -77,3 +77,20 @@ dv_has_:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Electrical%20muscle%20stimulation) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport/EMS(Electrical_muscle_stimulation)|EMS(Electrical_muscle_stimulation)]] 
+
+### #is_/same_as :: [[/_public/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport/EMS(Electrical_muscle_stimulation).public|EMS(Electrical_muscle_stimulation).public]] 
+
+### #is_/same_as :: [[/_internal/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport/EMS(Electrical_muscle_stimulation).internal|EMS(Electrical_muscle_stimulation).internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport/EMS(Electrical_muscle_stimulation).protect|EMS(Electrical_muscle_stimulation).protect]] 
+
+### #is_/same_as :: [[/_private/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport/EMS(Electrical_muscle_stimulation).private|EMS(Electrical_muscle_stimulation).private]] 
+
+### #is_/same_as :: [[/_personal/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport/EMS(Electrical_muscle_stimulation).personal|EMS(Electrical_muscle_stimulation).personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport/EMS(Electrical_muscle_stimulation).secret|EMS(Electrical_muscle_stimulation).secret]] 
+

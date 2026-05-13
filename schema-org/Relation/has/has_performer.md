@@ -80,7 +80,7 @@ has_inverse = `=this.dv_has_inverse`
 
 [[../has_inverse|has_inverse]]
 
-[[../has_inverse|has_inverse]]
+[[../has_inverse|has_inverse]] 
 
 
 ## Confidential Links & Embeds: 

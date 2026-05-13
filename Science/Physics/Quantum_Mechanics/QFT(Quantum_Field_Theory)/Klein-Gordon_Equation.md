@@ -155,7 +155,7 @@ j = \frac{i\hbar}{2m}\left(
   \psi   \nabla \psi^* 
 - \psi^* \nabla \psi
 \right)
-$$
+$$ 
 
 
 ## Confidential Links & Embeds: 

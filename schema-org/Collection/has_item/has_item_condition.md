@@ -93,17 +93,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_item_condition|has_item_condition]] 
+### #is_/same_as :: [[/_Standards/schema-org/Collection/has_item/has_item_condition|has_item_condition]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_item_condition.public|has_item_condition.public]] 
+### #is_/same_as :: [[/_public/schema-org/Collection/has_item/has_item_condition.public|has_item_condition.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_item_condition.internal|has_item_condition.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Collection/has_item/has_item_condition.internal|has_item_condition.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_item_condition.protect|has_item_condition.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Collection/has_item/has_item_condition.protect|has_item_condition.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_item_condition.private|has_item_condition.private]] 
+### #is_/same_as :: [[/_private/schema-org/Collection/has_item/has_item_condition.private|has_item_condition.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_item_condition.personal|has_item_condition.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Collection/has_item/has_item_condition.personal|has_item_condition.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_item_condition.secret|has_item_condition.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Collection/has_item/has_item_condition.secret|has_item_condition.secret]] 
 

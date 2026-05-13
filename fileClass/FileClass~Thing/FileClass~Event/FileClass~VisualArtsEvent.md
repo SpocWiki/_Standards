@@ -32,7 +32,7 @@ Event type: Visual arts event.
 #class/VisualArtsEvent
 #class/Thing/Event/VisualArtsEvent
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

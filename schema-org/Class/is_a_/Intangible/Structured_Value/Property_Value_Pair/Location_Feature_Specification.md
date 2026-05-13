@@ -110,19 +110,20 @@ has_parent_class = `=this.dv_has_parent_class`
 
 has_properties = `=this.dv_has_properties` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Location_Feature_Specification|Location_Feature_Specification]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value_Pair/Location_Feature_Specification|Location_Feature_Specification]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value/Location_Feature_Specification.public|Location_Feature_Specification.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value_Pair/Location_Feature_Specification.public|Location_Feature_Specification.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value/Location_Feature_Specification.internal|Location_Feature_Specification.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value_Pair/Location_Feature_Specification.internal|Location_Feature_Specification.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value/Location_Feature_Specification.protect|Location_Feature_Specification.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value_Pair/Location_Feature_Specification.protect|Location_Feature_Specification.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value/Location_Feature_Specification.private|Location_Feature_Specification.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value_Pair/Location_Feature_Specification.private|Location_Feature_Specification.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value/Location_Feature_Specification.personal|Location_Feature_Specification.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value_Pair/Location_Feature_Specification.personal|Location_Feature_Specification.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value/Location_Feature_Specification.secret|Location_Feature_Specification.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value_Pair/Location_Feature_Specification.secret|Location_Feature_Specification.secret]] 
 

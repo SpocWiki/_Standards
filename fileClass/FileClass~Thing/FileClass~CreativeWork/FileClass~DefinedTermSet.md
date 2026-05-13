@@ -43,7 +43,7 @@ A set of defined terms, for example a set of categories or a classification sche
 ### HasDefinedTerm
 A Defined Term contained in this term set.
 
-HasDefinedTerm:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm')"}}
+HasDefinedTerm:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm')"}} 
 
 
 ## Confidential Links & Embeds: 

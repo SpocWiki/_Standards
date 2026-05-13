@@ -56,5 +56,22 @@ name_in_native_language: Ἴκαρος
 > The myth gave rise to the idiom, "fly too close to the Sun". 
 > In some versions of the tale, Daedalus and Icarus escape by ship.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Icarus)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Icarus) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Plato/Icarus|Icarus]] 
+
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Ancient_Philosopher/Plato/Icarus.public|Icarus.public]] 
+
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Ancient_Philosopher/Plato/Icarus.internal|Icarus.internal]] 
+
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Ancient_Philosopher/Plato/Icarus.protect|Icarus.protect]] 
+
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Ancient_Philosopher/Plato/Icarus.private|Icarus.private]] 
+
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Ancient_Philosopher/Plato/Icarus.personal|Icarus.personal]] 
+
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Ancient_Philosopher/Plato/Icarus.secret|Icarus.secret]] 
 

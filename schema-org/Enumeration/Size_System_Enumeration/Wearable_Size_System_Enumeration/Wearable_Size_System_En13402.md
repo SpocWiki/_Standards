@@ -64,7 +64,8 @@ is_part_of = `=this.dv_is_part_of`
 EN 13402 (joint [[../../../../Earth/Continent/Europe|European]] standard for size labelling of clothes).
 
 Tag Instances like this: 
-#is_a_/wearable_size_system_/en13402
+#is_a_/wearable_size_system_/en13402 
+
 
 ## Confidential Links & Embeds: 
 

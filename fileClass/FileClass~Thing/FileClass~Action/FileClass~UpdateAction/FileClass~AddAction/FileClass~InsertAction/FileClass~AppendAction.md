@@ -32,7 +32,7 @@ The act of inserting at the end if an ordered collection.
 #class/AppendAction
 #class/Thing/Action/UpdateAction/AddAction/InsertAction/AppendAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

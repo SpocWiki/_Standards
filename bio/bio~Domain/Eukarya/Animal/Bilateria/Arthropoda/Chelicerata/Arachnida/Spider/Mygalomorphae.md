@@ -168,7 +168,7 @@ Antrodiaetidae). Journal of Arachnology 24:201-213.
   specimen_condition ::  Live Specimen
   copyright ::            © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
  
-  -----------------------------------------------------------------------------
+  ----------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

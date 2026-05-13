@@ -654,7 +654,7 @@ WorkLocation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/
 ### WorksFor
 Organizations that the person works for.
 
-WorksFor:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
+WorksFor:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}} 
 
 
 ## Confidential Links & Embeds: 

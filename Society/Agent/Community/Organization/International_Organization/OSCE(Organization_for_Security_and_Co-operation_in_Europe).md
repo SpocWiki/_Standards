@@ -332,7 +332,7 @@ dv_has_:
 
 ```dataviewjs
 dv.view("TableByName", ["OSZE.tsv"]);
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -84,19 +84,20 @@ has_domain = `=this.dv_has_domain`
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_legislation_responsible|has_legislation_responsible]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_legislation/has_legislation_responsible|has_legislation_responsible]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_legislation_responsible.public|has_legislation_responsible.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_legislation/has_legislation_responsible.public|has_legislation_responsible.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_legislation_responsible.internal|has_legislation_responsible.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_legislation/has_legislation_responsible.internal|has_legislation_responsible.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_legislation_responsible.protect|has_legislation_responsible.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_legislation/has_legislation_responsible.protect|has_legislation_responsible.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_legislation_responsible.private|has_legislation_responsible.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_legislation/has_legislation_responsible.private|has_legislation_responsible.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_legislation_responsible.personal|has_legislation_responsible.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_legislation/has_legislation_responsible.personal|has_legislation_responsible.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_legislation_responsible.secret|has_legislation_responsible.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_legislation/has_legislation_responsible.secret|has_legislation_responsible.secret]] 
 

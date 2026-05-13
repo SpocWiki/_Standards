@@ -7,7 +7,7 @@ This is a parody on multiple Films, especially [[Lethal_weapon]].
 He is especially funny in telling a blind man that "you saw nothing", giving him a dime. 
 
 [[Emilio_Estevez]] is plays the Role of [[Mel_Gibson]] in Lethal Weapon. 
-[[Samuel_Jackson]] plays the Role of [[Danny_Glover]]
+[[Samuel_Jackson]] plays the Role of [[Danny_Glover]] 
 
 
 ## Confidential Links & Embeds: 

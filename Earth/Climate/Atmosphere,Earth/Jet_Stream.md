@@ -176,9 +176,6 @@ dv_has_:
 > [Wikipedia](https://en.wikipedia.org/wiki/Jet%20stream) 
 
 
- 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Earth/Climate/Atmosphere,Earth/Jet_Stream|Jet_Stream]] 

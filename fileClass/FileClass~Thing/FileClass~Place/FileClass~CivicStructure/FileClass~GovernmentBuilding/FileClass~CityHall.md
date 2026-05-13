@@ -32,7 +32,7 @@ A city hall.
 #class/CityHall
 #class/Thing/Place/CivicStructure/GovernmentBuilding/CityHall
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

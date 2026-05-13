@@ -43,5 +43,22 @@ Optional Indentation increases Reading-Speed by 70%, but increases Space by 20%.
 >    <http://example.org/person/Mark_Twain> .
 > ```
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Turtle%20(syntax))  
+> [Wikipedia](https://en.wikipedia.org/wiki/Turtle%20(syntax)) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/schema-org/Class/TRTL|TRTL]] 
+
+### #is_/same_as :: [[/_public/schema-org/Class/TRTL.public|TRTL.public]] 
+
+### #is_/same_as :: [[/_internal/schema-org/Class/TRTL.internal|TRTL.internal]] 
+
+### #is_/same_as :: [[/_protect/schema-org/Class/TRTL.protect|TRTL.protect]] 
+
+### #is_/same_as :: [[/_private/schema-org/Class/TRTL.private|TRTL.private]] 
+
+### #is_/same_as :: [[/_personal/schema-org/Class/TRTL.personal|TRTL.personal]] 
+
+### #is_/same_as :: [[/_secret/schema-org/Class/TRTL.secret|TRTL.secret]] 
 

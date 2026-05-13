@@ -32,7 +32,7 @@ A shop that sells alcoholic drinks such as wine, beer, whisky and other spirits.
 #class/LiquorStore
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/LiquorStore
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

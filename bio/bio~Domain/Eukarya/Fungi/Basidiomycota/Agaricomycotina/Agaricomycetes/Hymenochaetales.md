@@ -386,7 +386,7 @@ Biotechnology Adv. 22(1-2):161-187.
   Body Part            basidiomata
   copyright ::            © [Aristóteles Góes-Neto](http://www.uefs.br/lapem) 
  
-  -------------------------------------------------------------------------
+  ------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

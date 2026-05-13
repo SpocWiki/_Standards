@@ -175,7 +175,7 @@ Ownership was already discussed controversially by [[../../../Philosophy/Philoso
 
 An [[../../../_Standards/schema-org/Class/is_a_/Agent|Agent]] ist the owner of [[../../../schema-org/Property|Property]]. 
 #is_an_/OwnershipInfo 
-#has_/owner [[Owner]]  
+#has_/owner [[Owner]] 
 
 
 ## Confidential Links & Embeds: 

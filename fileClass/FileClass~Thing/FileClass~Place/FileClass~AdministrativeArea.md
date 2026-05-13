@@ -31,7 +31,7 @@ A geographical region, typically under the jurisdiction of a particular governme
 #class/AdministrativeArea
 #class/Thing/Place/AdministrativeArea
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

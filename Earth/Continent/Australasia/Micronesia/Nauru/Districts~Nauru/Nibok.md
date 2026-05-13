@@ -52,7 +52,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Nibok/
 markerFolder: ./Nibok/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

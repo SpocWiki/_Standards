@@ -181,7 +181,7 @@ Taxa).
 Molecular studies of small-subunit rDNA have generally confirm the Mix
 classification (Surek et al., 1993; Bhattacharya et al., 1994), although
 these studies and that of McCourt et al. (1995) suggest that the two
-families with smooth, unsculptured walls may be polyphyletic.
+families with smooth, unsculptured walls may be polyphyletic. 
 
 
 ## Confidential Links & Embeds: 

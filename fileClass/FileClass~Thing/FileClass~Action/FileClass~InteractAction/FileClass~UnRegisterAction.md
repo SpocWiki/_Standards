@@ -37,7 +37,7 @@ Related actions:
 #class/UnRegisterAction
 #class/Thing/Action/InteractAction/UnRegisterAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

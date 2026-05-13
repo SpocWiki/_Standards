@@ -130,7 +130,7 @@ low G+C Gram positives
 -   » Sub-Groups
     -   [Clostridia](Clostridia)
     -   [Mollicutes](Mollicutes)
-    -   [Bacilli](Bacilli)
+    -   [Bacilli](Bacilli) 
 
 
 ## Confidential Links & Embeds: 

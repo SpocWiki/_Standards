@@ -127,7 +127,7 @@ Thyroptera tricolor (Thyropteridae) and Furipterus horrens
   ----------
   scientific_name ::  Furipterus horrens
   copyright ::         © 1998 Nancy Simmons
-  ----------
+  ---------- 
 
 
 ## Confidential Links & Embeds: 

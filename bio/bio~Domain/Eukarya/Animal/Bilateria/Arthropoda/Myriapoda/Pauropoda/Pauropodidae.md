@@ -100,7 +100,7 @@ dv_has_:
 	-   *Remypus*
 	-   *Scleropauropus*
 	-   *Stylopauropoides*
-	-   *Stylopauropus*
+	-   *Stylopauropus* 
 
 
 ## Confidential Links & Embeds: 

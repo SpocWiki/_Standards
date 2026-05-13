@@ -226,7 +226,7 @@ Birds, tyrannosaurs, velociraptors, etc.
   Source Collection    [Flickr](http://flickr.com/)
   Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
   copyright ::            © 2004 [Kevin Walsh](http://flickr.com/people/86624586@N00)
-  -------------------------------------------------------------
+  ------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

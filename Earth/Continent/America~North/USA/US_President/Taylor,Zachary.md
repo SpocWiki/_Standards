@@ -252,7 +252,7 @@ has_time_stopped = `=this.dv_has_time_stopped`
 is_member_of = `=this.dv_is_member_of`] ] 
 
 ## Offices 
--   [has_role :: [[../US_President|US_President]] ] [created:: 1849-03-04]cancelled = `=this.dv_cancelled`
+-   [has_role :: [[../US_President|US_President]] ] [created:: 1849-03-04]cancelled = `=this.dv_cancelled` 
 
 
 ## Confidential Links & Embeds: 

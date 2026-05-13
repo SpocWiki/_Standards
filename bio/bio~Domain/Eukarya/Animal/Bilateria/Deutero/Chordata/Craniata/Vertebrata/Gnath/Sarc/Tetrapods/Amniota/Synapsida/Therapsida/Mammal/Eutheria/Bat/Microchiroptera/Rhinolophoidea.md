@@ -139,7 +139,7 @@ of Natural History. 235:1-182.
 Smith, J. D. 1976. Chriopteran evolution. In Biology of bats of the New
 World family Phyllostomidae, part I. R. J. Baker, J. K. Jones and D. C.
 carter (eds.). Special Publication. The Museum , Texas-Tech University.
-vol. 10. Lubbock: Texas Tech Univeristy.
+vol. 10. Lubbock: Texas Tech Univeristy. 
 
 
 ## Confidential Links & Embeds: 

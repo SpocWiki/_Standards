@@ -71,17 +71,17 @@ has_parent_property = `=this.dv_has_parent_property`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_duration_of_cooking|has_duration_of_cooking]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_duration/has_duration_of_cooking|has_duration_of_cooking]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_duration_of/has_duration_of_cooking.public|has_duration_of_cooking.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_duration/has_duration_of_cooking.public|has_duration_of_cooking.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_duration_of/has_duration_of_cooking.internal|has_duration_of_cooking.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_duration/has_duration_of_cooking.internal|has_duration_of_cooking.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_duration_of/has_duration_of_cooking.protect|has_duration_of_cooking.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_duration/has_duration_of_cooking.protect|has_duration_of_cooking.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_duration_of/has_duration_of_cooking.private|has_duration_of_cooking.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_duration/has_duration_of_cooking.private|has_duration_of_cooking.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_duration_of/has_duration_of_cooking.personal|has_duration_of_cooking.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_duration/has_duration_of_cooking.personal|has_duration_of_cooking.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_duration_of/has_duration_of_cooking.secret|has_duration_of_cooking.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_duration/has_duration_of_cooking.secret|has_duration_of_cooking.secret]] 
 

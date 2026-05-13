@@ -54,7 +54,7 @@ PublishedBy:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/T
 ### PublishedOn
 A broadcast service associated with the publication event.
 
-PublishedOn:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Service/BroadcastService')"}}
+PublishedOn:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Service/BroadcastService')"}} 
 
 
 ## Confidential Links & Embeds: 

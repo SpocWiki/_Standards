@@ -120,7 +120,7 @@ scientific_name ::  Aegla leptochela
 Creator           Ana Rossi
 Sex ::             Male
 View              dorsal
-copyright ::         © 1994 Georgina Bond-Buckup, Ludwig Buckup
+copyright ::         © 1994 Georgina Bond-Buckup, Ludwig Buckup 
 
 
 ## Confidential Links & Embeds: 

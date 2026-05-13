@@ -71,19 +71,20 @@ has_range = `=this.dv_has_range`
 
 has_parent_property = `=this.dv_has_parent_property` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[is_part_of_episode|is_part_of_episode]] 
+### #is_/same_as :: [[/_Standards/schema-org/Composite/is_part_of/is_part_of_episode|is_part_of_episode]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/is/part_of/is_part_of_episode.public|is_part_of_episode.public]] 
+### #is_/same_as :: [[/_public/schema-org/Composite/is_part_of/is_part_of_episode.public|is_part_of_episode.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/is/part_of/is_part_of_episode.internal|is_part_of_episode.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Composite/is_part_of/is_part_of_episode.internal|is_part_of_episode.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/is/part_of/is_part_of_episode.protect|is_part_of_episode.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Composite/is_part_of/is_part_of_episode.protect|is_part_of_episode.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/is/part_of/is_part_of_episode.private|is_part_of_episode.private]] 
+### #is_/same_as :: [[/_private/schema-org/Composite/is_part_of/is_part_of_episode.private|is_part_of_episode.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/is/part_of/is_part_of_episode.personal|is_part_of_episode.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Composite/is_part_of/is_part_of_episode.personal|is_part_of_episode.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/is/part_of/is_part_of_episode.secret|is_part_of_episode.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Composite/is_part_of/is_part_of_episode.secret|is_part_of_episode.secret]] 
 

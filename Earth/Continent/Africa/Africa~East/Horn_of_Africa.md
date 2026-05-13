@@ -303,7 +303,7 @@ markerFolder: ./Horn_of_Africa//
 coordinates: [[Horn_of_Africa]] 
 markerFile: [[Horn_of_Africa]] 
 defaultZoom: 5 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

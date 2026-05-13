@@ -36,7 +36,8 @@ An alternative, closely-related condition typically considered later in the diff
 
 #has_/parent_class :: [[../MedicalIntangible|MedicalIntangible]]  
 
-#has_/properties :: [ additionalType, alternateName, code, description, diagnosis, disambiguatingDescription, distinguishingSign, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]  
+#has_/properties :: [ additionalType, alternateName, code, description, diagnosis, disambiguatingDescription, distinguishingSign, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] 
+
 
 ## Confidential Links & Embeds: 
 

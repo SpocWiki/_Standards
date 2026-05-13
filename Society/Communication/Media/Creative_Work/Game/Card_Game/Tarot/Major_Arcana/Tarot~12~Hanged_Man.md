@@ -41,3 +41,21 @@ Commons_category: Hanged Man (Major Arcana)
 - body politic 
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~12~Hanged_Man|Tarot~12~Hanged_Man]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~12~Hanged_Man.public|Tarot~12~Hanged_Man.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~12~Hanged_Man.internal|Tarot~12~Hanged_Man.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~12~Hanged_Man.protect|Tarot~12~Hanged_Man.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~12~Hanged_Man.private|Tarot~12~Hanged_Man.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~12~Hanged_Man.personal|Tarot~12~Hanged_Man.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~12~Hanged_Man.secret|Tarot~12~Hanged_Man.secret]] 

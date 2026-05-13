@@ -122,7 +122,7 @@ because the String is mutable.
     *z += 1000;
     // z releases x here
     assert_eq!(x, 1200);
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

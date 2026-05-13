@@ -241,7 +241,7 @@ PaymentUrl:: {"type":"Input","options":{}}
 ### Seller
 An entity which offers (sells / leases / lends / loans) the services / goods.  A seller may also be a provider.
 
-Seller:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
+Seller:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}} 
 
 
 ## Confidential Links & Embeds: 

@@ -461,8 +461,7 @@ markerFile: [[Asia~South~East]]
 
 ```ccard
 type: folder_brief_live
-```
- 
+``` 
 
 
 ## Confidential Links & Embeds: 

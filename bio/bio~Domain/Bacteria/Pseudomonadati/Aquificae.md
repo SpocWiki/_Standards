@@ -91,7 +91,7 @@ dv_has_:
 	-   *Sulfurihydrogenibium*
 	-   *Balnearium*[ (incertae sedis) ]
 	-   *Desulfurobacterium*[ (incertae sedis) ]
-	-   *Thermovibrio*[ (incertae sedis) ]
+	-   *Thermovibrio*[ (incertae sedis) ] 
 
 
 ## Confidential Links & Embeds: 

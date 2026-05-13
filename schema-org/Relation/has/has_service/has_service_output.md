@@ -81,17 +81,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_service_output|has_service_output]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_service/has_service_output|has_service_output]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_service_output.public|has_service_output.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_service/has_service_output.public|has_service_output.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_service_output.internal|has_service_output.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_service/has_service_output.internal|has_service_output.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_service_output.protect|has_service_output.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_service/has_service_output.protect|has_service_output.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_service_output.private|has_service_output.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_service/has_service_output.private|has_service_output.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_service_output.personal|has_service_output.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_service/has_service_output.personal|has_service_output.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_service_output.secret|has_service_output.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_service/has_service_output.secret|has_service_output.secret]] 
 

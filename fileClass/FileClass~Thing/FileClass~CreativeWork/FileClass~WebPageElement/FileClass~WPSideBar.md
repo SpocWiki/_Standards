@@ -32,7 +32,7 @@ A sidebar section of the page.
 #class/WPSideBar
 #class/Thing/CreativeWork/WebPageElement/WPSideBar
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

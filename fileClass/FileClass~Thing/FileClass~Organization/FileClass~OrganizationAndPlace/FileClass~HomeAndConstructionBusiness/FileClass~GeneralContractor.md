@@ -32,7 +32,7 @@ A general contractor.
 #class/GeneralContractor
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/GeneralContractor
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

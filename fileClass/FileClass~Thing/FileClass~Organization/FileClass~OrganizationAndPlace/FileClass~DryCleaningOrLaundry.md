@@ -32,7 +32,7 @@ A dry-cleaning business.
 #class/DryCleaningOrLaundry
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/DryCleaningOrLaundry
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

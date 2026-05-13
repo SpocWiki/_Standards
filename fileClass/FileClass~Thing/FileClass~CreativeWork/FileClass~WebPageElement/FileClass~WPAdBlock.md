@@ -32,7 +32,7 @@ An advertising section of the page.
 #class/WPAdBlock
 #class/Thing/CreativeWork/WebPageElement/WPAdBlock
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

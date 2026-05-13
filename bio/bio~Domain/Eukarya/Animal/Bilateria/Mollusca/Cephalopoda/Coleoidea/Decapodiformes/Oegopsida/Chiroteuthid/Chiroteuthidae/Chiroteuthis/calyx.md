@@ -154,7 +154,7 @@ Zool., 97: 1-159.
   scientific_name ::  Chiroteuthis calyx
   Reference         from Young, R. E. 1972. The systematics and areal distribution of pelagic cephalopods from the seas off Southern California. Smithson. Contr. Zool. 97:1-159.
   Size              54 mm ML
-  ------------------------------------------------------
+  ------------------------------------------------------ 
 
 
 ## Confidential Links & Embeds: 

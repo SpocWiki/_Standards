@@ -166,7 +166,7 @@ Modern Variants are  CLOS and [[Prog~LISP/Prog~Clojure|Prog~Clojure]]
 
 ```ccard
 type: folder_brief_live
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

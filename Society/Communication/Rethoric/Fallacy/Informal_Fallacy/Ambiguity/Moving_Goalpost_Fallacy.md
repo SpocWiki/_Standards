@@ -57,3 +57,21 @@ dv_has_:
 
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Ambiguity/Moving_Goalpost_Fallacy|Moving_Goalpost_Fallacy]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Ambiguity/Moving_Goalpost_Fallacy.public|Moving_Goalpost_Fallacy.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Ambiguity/Moving_Goalpost_Fallacy.internal|Moving_Goalpost_Fallacy.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Ambiguity/Moving_Goalpost_Fallacy.protect|Moving_Goalpost_Fallacy.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Ambiguity/Moving_Goalpost_Fallacy.private|Moving_Goalpost_Fallacy.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Ambiguity/Moving_Goalpost_Fallacy.personal|Moving_Goalpost_Fallacy.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Ambiguity/Moving_Goalpost_Fallacy.secret|Moving_Goalpost_Fallacy.secret]] 

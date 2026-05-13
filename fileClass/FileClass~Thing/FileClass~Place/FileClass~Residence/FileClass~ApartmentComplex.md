@@ -74,7 +74,7 @@ NumberOfBedrooms:: {"type":"Number","options":{}}
 ### PetsAllowed
 Indicates whether pets are allowed to enter the accommodation or lodging business. More detailed information can be put in a text value.
 
-PetsAllowed:: {"type":"Boolean","options":{}}
+PetsAllowed:: {"type":"Boolean","options":{}} 
 
 
 ## Confidential Links & Embeds: 

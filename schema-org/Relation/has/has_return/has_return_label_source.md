@@ -81,7 +81,7 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_return_label_source|has_return_label_source]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_return/has_return_label_source|has_return_label_source]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_return/has_return_label_source.public|has_return_label_source.public]] 
 

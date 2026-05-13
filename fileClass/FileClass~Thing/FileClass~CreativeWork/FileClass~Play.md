@@ -32,7 +32,7 @@ A play is a form of literature, usually consisting of dialogue between character
 #class/Play
 #class/Thing/CreativeWork/Play
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

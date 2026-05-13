@@ -42,7 +42,7 @@ A scholarly article in the medical domain.
 ### PublicationType
 The type of the medical article, taken from the US NLM MeSH publication type catalog. See also [MeSH documentation](http://www.nlm.nih.gov/mesh/pubtypes.html).
 
-PublicationType:: {"type":"Input","options":{}}
+PublicationType:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

@@ -84,7 +84,7 @@ Relation describes that:
 
 has_domain = `=this.dv_has_domain` 
 has_name = `=this.dv_has_name` 
-has_range = [[../../Class/is_a_/Action/Solve_Math_Action|Solve_Math_Action]], [[../../Class/is_a_/Data_Type/Text|Text]]  
+has_range = [[../../Class/is_a_/Action/Solve_Math_Action|Solve_Math_Action]], [[../../Class/is_a_/Data_Type/Text|Text]] 
 
 
 ## Confidential Links & Embeds: 

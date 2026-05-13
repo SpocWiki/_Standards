@@ -160,3 +160,21 @@ dv_has_:
 
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Financial_Economy|Financial_Economy]] 
+
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Financial_Economy.public|Financial_Economy.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Financial_Economy.internal|Financial_Economy.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Financial_Economy.protect|Financial_Economy.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Financial_Economy.private|Financial_Economy.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Financial_Economy.personal|Financial_Economy.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Financial_Economy.secret|Financial_Economy.secret]] 

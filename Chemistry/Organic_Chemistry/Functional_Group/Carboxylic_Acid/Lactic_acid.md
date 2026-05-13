@@ -301,17 +301,17 @@ H-O
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid|Lactic_acid]] 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Functional_Group/Carboxylic_Acid/Lactic_acid|Lactic_acid]] 
 
-### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.public|Lactic_acid.public]] 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Functional_Group/Carboxylic_Acid/Lactic_acid.public|Lactic_acid.public]] 
 
-### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.internal|Lactic_acid.internal]] 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Functional_Group/Carboxylic_Acid/Lactic_acid.internal|Lactic_acid.internal]] 
 
-### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.protect|Lactic_acid.protect]] 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Functional_Group/Carboxylic_Acid/Lactic_acid.protect|Lactic_acid.protect]] 
 
-### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.private|Lactic_acid.private]] 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Functional_Group/Carboxylic_Acid/Lactic_acid.private|Lactic_acid.private]] 
 
-### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.personal|Lactic_acid.personal]] 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Functional_Group/Carboxylic_Acid/Lactic_acid.personal|Lactic_acid.personal]] 
 
-### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.secret|Lactic_acid.secret]] 
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Functional_Group/Carboxylic_Acid/Lactic_acid.secret|Lactic_acid.secret]] 
 

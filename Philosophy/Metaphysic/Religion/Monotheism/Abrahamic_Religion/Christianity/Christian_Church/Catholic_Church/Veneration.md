@@ -112,7 +112,7 @@ dv_has_:
 >
 > In Judaism, there is no classical or formal recognition of saints, but there is a long history of reverence shown toward biblical heroes and martyrs. Jews in some regions, for example in Morocco, have a long and widespread tradition of saint veneration, as do Hasidic Jews.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Veneration  
+> [Wikipedia](https://en.wikipedia.org/wiki/Veneration 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ A blog post.
 #class/BlogPosting
 #class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

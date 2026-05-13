@@ -84,7 +84,7 @@ LoanPaymentFrequency:: {"type":"Number","options":{}}
 ### NumberOfLoanPayments
 The number of payments contractually required at origination to repay the loan. For monthly paying loans this is the number of months from the contractual first payment date to the maturity date.
 
-NumberOfLoanPayments:: {"type":"Number","options":{}}
+NumberOfLoanPayments:: {"type":"Number","options":{}} 
 
 
 ## Confidential Links & Embeds: 

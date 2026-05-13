@@ -250,7 +250,7 @@ scientific_name ::     Brachiopoda
 location ::           Upper Fullers Earth Clays, West Bay, Dorset UK
 Acknowledgements     The copyright owner has released this image under the [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/).
 specimen_condition ::  Fossil
-copyright ::            © 2006 [Steve Makin](http://flickr.com/people/stevemakin/)
+copyright ::            © 2006 [Steve Makin](http://flickr.com/people/stevemakin/) 
 
 
 ## Confidential Links & Embeds: 

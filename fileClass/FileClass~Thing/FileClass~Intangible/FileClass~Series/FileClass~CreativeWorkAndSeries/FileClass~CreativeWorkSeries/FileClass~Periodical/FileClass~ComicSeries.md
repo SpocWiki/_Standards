@@ -34,7 +34,7 @@ Wanderer".
 #class/ComicSeries
 #class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/Periodical/ComicSeries
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

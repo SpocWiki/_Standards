@@ -75,17 +75,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_energy_consumption_details|has_energy_consumption_details]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_energy/has_energy_consumption_details|has_energy_consumption_details]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_energy_consumption_details.public|has_energy_consumption_details.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_energy/has_energy_consumption_details.public|has_energy_consumption_details.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_energy_consumption_details.internal|has_energy_consumption_details.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_energy/has_energy_consumption_details.internal|has_energy_consumption_details.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_energy_consumption_details.protect|has_energy_consumption_details.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_energy/has_energy_consumption_details.protect|has_energy_consumption_details.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_energy_consumption_details.private|has_energy_consumption_details.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_energy/has_energy_consumption_details.private|has_energy_consumption_details.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_energy_consumption_details.personal|has_energy_consumption_details.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_energy/has_energy_consumption_details.personal|has_energy_consumption_details.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_energy_consumption_details.secret|has_energy_consumption_details.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_energy/has_energy_consumption_details.secret|has_energy_consumption_details.secret]] 
 

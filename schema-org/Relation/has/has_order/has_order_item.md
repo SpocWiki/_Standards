@@ -93,17 +93,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_order_item|has_order_item]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_order/has_order_item|has_order_item]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_order_item.public|has_order_item.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_order/has_order_item.public|has_order_item.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_order_item.internal|has_order_item.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_order/has_order_item.internal|has_order_item.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_order_item.protect|has_order_item.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_order/has_order_item.protect|has_order_item.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_order_item.private|has_order_item.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_order/has_order_item.private|has_order_item.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_order_item.personal|has_order_item.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_order/has_order_item.personal|has_order_item.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_order_item.secret|has_order_item.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_order/has_order_item.secret|has_order_item.secret]] 
 

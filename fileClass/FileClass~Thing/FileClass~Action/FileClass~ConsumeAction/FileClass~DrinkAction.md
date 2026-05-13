@@ -32,7 +32,7 @@ The act of swallowing liquids.
 #class/DrinkAction
 #class/Thing/Action/ConsumeAction/DrinkAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

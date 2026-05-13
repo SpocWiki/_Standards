@@ -99,7 +99,7 @@ Typical unit code(s): NU for newton metre (N m), F17 for pound-force per foot, o
 \* Note 1: You can link to information about how the given value has been determined (e.g. reference RPM) using the [[valueReference]] property.
 \* Note 2: You can use [[minValue]] and [[maxValue]] to indicate ranges.
 
-Torque:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
+Torque:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}} 
 
 
 ## Confidential Links & Embeds: 

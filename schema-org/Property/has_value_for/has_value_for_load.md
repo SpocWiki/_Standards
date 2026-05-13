@@ -95,9 +95,9 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_payload|has_value_for_payload]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_load|has_value_for_load]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_payload.public|has_value_for_load.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_load.public|has_value_for_load.public]] 
 
 ### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_load.internal|has_value_for_load.internal]] 
 

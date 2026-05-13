@@ -32,7 +32,7 @@ An explanation in the instructions for how to achieve a result. It provides supp
 #class/HowToTip
 #class/Thing/CreativeWork/CreativeWorkAndListItem/HowToTip
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

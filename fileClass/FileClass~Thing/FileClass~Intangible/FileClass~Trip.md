@@ -111,7 +111,7 @@ Provider:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thin
 ### SubTrip
 Identifies a [[Trip]] that is a subTrip of this Trip.  For example Day 1, Day 2, etc. of a multi-day trip.
 
-SubTrip:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Trip')"}}
+SubTrip:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Trip')"}} 
 
 
 ## Confidential Links & Embeds: 

@@ -21,17 +21,17 @@ add a `debugger;` Statement where you want to start debugging.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[npm(Node_Package_Manager)|npm(Node_Package_Manager)]] 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~JS/npm(Node_Package_Manager)|npm(Node_Package_Manager)]] 
 
-### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~JS/npm.public|npm.public]] 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~JS/npm(Node_Package_Manager).public|npm(Node_Package_Manager).public]] 
 
-### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~JS/npm.internal|npm.internal]] 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~JS/npm(Node_Package_Manager).internal|npm(Node_Package_Manager).internal]] 
 
-### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~JS/npm.protect|npm.protect]] 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~JS/npm(Node_Package_Manager).protect|npm(Node_Package_Manager).protect]] 
 
-### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~JS/npm.private|npm.private]] 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~JS/npm(Node_Package_Manager).private|npm(Node_Package_Manager).private]] 
 
-### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~JS/npm.personal|npm.personal]] 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~JS/npm(Node_Package_Manager).personal|npm(Node_Package_Manager).personal]] 
 
-### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~JS/npm.secret|npm.secret]] 
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~JS/npm(Node_Package_Manager).secret|npm(Node_Package_Manager).secret]] 
 

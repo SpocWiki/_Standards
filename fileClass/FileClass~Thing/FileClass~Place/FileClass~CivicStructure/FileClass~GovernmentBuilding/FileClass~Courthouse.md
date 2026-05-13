@@ -32,7 +32,7 @@ A courthouse.
 #class/Courthouse
 #class/Thing/Place/CivicStructure/GovernmentBuilding/Courthouse
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

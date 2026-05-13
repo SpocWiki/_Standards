@@ -32,7 +32,7 @@ An ocean (for example, the Pacific).
 #class/OceanBodyOfWater
 #class/Thing/Place/Landform/BodyOfWater/OceanBodyOfWater
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

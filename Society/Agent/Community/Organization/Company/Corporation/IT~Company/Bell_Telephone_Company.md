@@ -80,7 +80,7 @@ Within a few years [local exchange](https://en.wikipedia.org/wiki/Telephone_exch
 In 1899, American Telephone & Telegraph (AT&T) acquired the assets of its parent, the American Bell Telephone Company. 
 American Bell had created AT&T to provide long-distance calls between New York and Chicago and beyond. 
 AT&T became the parent of American Bell Telephone Company, and thus the head of the Bell System, 
-because regulatory and tax rules were leaner in New York than in Boston, where American Bell was headquartered.
+because regulatory and tax rules were leaner in New York than in Boston, where American Bell was headquartered. 
 
 
 ## Confidential Links & Embeds: 

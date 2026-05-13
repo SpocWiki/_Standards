@@ -32,7 +32,7 @@ A motorized bicycle is a bicycle with an attached motor used to power the vehicl
 #class/MotorizedBicycle
 #class/Thing/Product/Vehicle/MotorizedBicycle
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

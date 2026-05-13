@@ -233,17 +233,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Circle_of_Latitude|Circle_of_Latitude]] 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Cartography/Circle_of_Latitude|Circle_of_Latitude]] 
 
-### #is_/same_as :: [[/_public/Earth/Geography/Cartography/Circle_of_latitude.public|Circle_of_latitude.public]] 
+### #is_/same_as :: [[/_public/Earth/Geography/Cartography/Circle_of_Latitude.public|Circle_of_Latitude.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Geography/Cartography/Circle_of_latitude.internal|Circle_of_latitude.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Geography/Cartography/Circle_of_Latitude.internal|Circle_of_Latitude.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Geography/Cartography/Circle_of_latitude.protect|Circle_of_latitude.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Geography/Cartography/Circle_of_Latitude.protect|Circle_of_Latitude.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Geography/Cartography/Circle_of_latitude.private|Circle_of_latitude.private]] 
+### #is_/same_as :: [[/_private/Earth/Geography/Cartography/Circle_of_Latitude.private|Circle_of_Latitude.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Geography/Cartography/Circle_of_latitude.personal|Circle_of_latitude.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Geography/Cartography/Circle_of_Latitude.personal|Circle_of_Latitude.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Geography/Cartography/Circle_of_latitude.secret|Circle_of_latitude.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Geography/Cartography/Circle_of_Latitude.secret|Circle_of_Latitude.secret]] 
 

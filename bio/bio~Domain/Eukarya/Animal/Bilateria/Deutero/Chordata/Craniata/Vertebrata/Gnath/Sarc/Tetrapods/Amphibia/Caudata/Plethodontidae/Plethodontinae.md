@@ -462,7 +462,7 @@ of the Bolitoglossinae and another containing members of the Spelerpinae
 scientific_name ::     Plethodon websteri
 location ::           southeastern United States
 specimen_condition ::  Live Specimen
-copyright ::            © 1996 Dr. Robert S. Simmons
+copyright ::            © 1996 Dr. Robert S. Simmons 
 
 
 ## Confidential Links & Embeds: 

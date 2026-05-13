@@ -234,7 +234,7 @@ has_name_la = `=this.dv_has_name_la`
 has_name_la_genitive = `=this.dv_has_name_la_genitive` 
 has_name_de = `=this.dv_has_name_de` 
 
-#is_/same_as :: [[../../WikiData/WD~Andromeda,9256|WD~Andromeda,9256]]
+#is_/same_as :: [[../../WikiData/WD~Andromeda,9256|WD~Andromeda,9256]] 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ geojsonFolder: ./USA~Pacific-Islands//
 markerFolder: ./USA~Pacific-Islands/
 coordinates: [[USA~Pacific-Islands]] 
 markerFile: [[USA~Pacific-Islands]] 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

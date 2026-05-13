@@ -52,7 +52,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Tinian/
 markerFolder: ./Tinian/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

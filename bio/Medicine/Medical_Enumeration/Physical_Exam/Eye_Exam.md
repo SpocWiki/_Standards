@@ -132,7 +132,7 @@ Eye or ophthalmological function assessment with clinical examination.
 
 #is_/enum_of :: [[../PhysicalExam|PhysicalExam]]  
 
-#is_/same_as :: [[../../../../WikiData/WD~Eye_examination,796207|WD~Eye_examination,796207]]
+#is_/same_as :: [[../../../../WikiData/WD~Eye_examination,796207|WD~Eye_examination,796207]] 
 
 
 ## Confidential Links & Embeds: 

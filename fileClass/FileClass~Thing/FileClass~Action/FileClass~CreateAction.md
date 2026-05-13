@@ -32,7 +32,7 @@ The act of deliberately creating/producing/generating/building a result out of t
 #class/CreateAction
 #class/Thing/Action/CreateAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

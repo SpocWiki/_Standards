@@ -166,7 +166,7 @@ TotalPrice:: {"type":"Number","options":{}}
 ### UnderName
 The person or organization the reservation or ticket is for.
 
-UnderName:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
+UnderName:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}} 
 
 
 ## Confidential Links & Embeds: 

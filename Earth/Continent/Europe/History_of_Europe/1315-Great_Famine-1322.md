@@ -157,7 +157,7 @@ has_time_stopped = `=this.dv_has_time_stopped`
 > [Wikipedia](https://en.wikipedia.org/wiki/Great%20Famine) 
 
 
-Great Famine of 1315–1317
+Great Famine of 1315–1317 
 
 
 ## Confidential Links & Embeds: 

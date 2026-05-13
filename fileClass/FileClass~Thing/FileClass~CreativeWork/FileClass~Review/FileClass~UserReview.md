@@ -32,7 +32,7 @@ A review created by an end-user (e.g. consumer, purchaser, attendee etc.), in co
 #class/UserReview
 #class/Thing/CreativeWork/Review/UserReview
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

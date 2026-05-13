@@ -32,7 +32,7 @@ Web page type: Profile page.
 #class/ProfilePage
 #class/Thing/CreativeWork/WebPage/ProfilePage
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

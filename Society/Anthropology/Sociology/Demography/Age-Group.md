@@ -63,17 +63,17 @@ Highest Productivity
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Age-Group|Age-Groups]] 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Demography/Age-Group|Age-Group]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Population-Groups.public|Population-Groups.public]] 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Demography/Age-Group.public|Age-Group.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Population-Groups.internal|Population-Groups.internal]] 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Demography/Age-Group.internal|Age-Group.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Population-Groups.protect|Population-Groups.protect]] 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Demography/Age-Group.protect|Age-Group.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Population-Groups.private|Population-Groups.private]] 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Demography/Age-Group.private|Age-Group.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Population-Groups.personal|Population-Groups.personal]] 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Demography/Age-Group.personal|Age-Group.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Population-Groups.secret|Population-Groups.secret]] 
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Demography/Age-Group.secret|Age-Group.secret]] 
 

@@ -32,7 +32,7 @@ The act of consuming audio content.
 #class/ListenAction
 #class/Thing/Action/ConsumeAction/ListenAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

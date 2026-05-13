@@ -32,7 +32,7 @@ A day spa.
 #class/DaySpa
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/DaySpa
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

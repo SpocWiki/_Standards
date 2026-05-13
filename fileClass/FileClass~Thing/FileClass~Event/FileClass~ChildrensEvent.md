@@ -32,7 +32,7 @@ Event type: Children's event.
 #class/ChildrensEvent
 #class/Thing/Event/ChildrensEvent
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

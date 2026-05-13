@@ -387,17 +387,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Gender|Gender]] 
+### #is_/same_as :: [[/_Standards/Society/Social_Issues/Discrimination/Gender|Gender]] 
 
-### #is_/same_as :: [[/_public/bio/Reproduction/Sexual_Reproduction/Gender.public|Gender.public]] 
+### #is_/same_as :: [[/_public/Society/Social_Issues/Discrimination/Gender.public|Gender.public]] 
 
 ### #is_/same_as :: [[/_internal/Society/Social_Issues/Discrimination/Gender.internal|Gender.internal]] 
 
-### #is_/same_as :: [[/_protect/bio/Reproduction/Sexual_Reproduction/Gender.protect|Gender.protect]] 
+### #is_/same_as :: [[/_protect/Society/Social_Issues/Discrimination/Gender.protect|Gender.protect]] 
 
-### #is_/same_as :: [[/_private/bio/Reproduction/Sexual_Reproduction/Gender.private|Gender.private]] 
+### #is_/same_as :: [[/_private/Society/Social_Issues/Discrimination/Gender.private|Gender.private]] 
 
-### #is_/same_as :: [[/_personal/bio/Reproduction/Sexual_Reproduction/Gender.personal|Gender.personal]] 
+### #is_/same_as :: [[/_personal/Society/Social_Issues/Discrimination/Gender.personal|Gender.personal]] 
 
-### #is_/same_as :: [[/_secret/bio/Reproduction/Sexual_Reproduction/Gender.secret|Gender.secret]] 
+### #is_/same_as :: [[/_secret/Society/Social_Issues/Discrimination/Gender.secret|Gender.secret]] 
 

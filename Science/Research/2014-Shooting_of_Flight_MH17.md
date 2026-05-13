@@ -227,6 +227,21 @@ dv_has_:
 ![[2014-Shooting_of_Flight_MH17.svg]] 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Science/Research/2014-Shooting_of_Flight_MH17|2014-Shooting_of_Flight_MH17]] 
+
+### #is_/same_as :: [[/_public/Science/Research/2014-Shooting_of_Flight_MH17.public|2014-Shooting_of_Flight_MH17.public]] 
+
+### #is_/same_as :: [[/_internal/Science/Research/2014-Shooting_of_Flight_MH17.internal|2014-Shooting_of_Flight_MH17.internal]] 
+
+### #is_/same_as :: [[/_protect/Science/Research/2014-Shooting_of_Flight_MH17.protect|2014-Shooting_of_Flight_MH17.protect]] 
+
+### #is_/same_as :: [[/_private/Science/Research/2014-Shooting_of_Flight_MH17.private|2014-Shooting_of_Flight_MH17.private]] 
+
+### #is_/same_as :: [[/_personal/Science/Research/2014-Shooting_of_Flight_MH17.personal|2014-Shooting_of_Flight_MH17.personal]] 
+
+### #is_/same_as :: [[/_secret/Science/Research/2014-Shooting_of_Flight_MH17.secret|2014-Shooting_of_Flight_MH17.secret]] 
 %%
 ## Drawing
 ```compressed-json

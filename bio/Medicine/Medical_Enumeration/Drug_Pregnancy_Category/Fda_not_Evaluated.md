@@ -37,7 +37,8 @@ A designation that the drug in question has not been assigned a pregnancy catego
 
 #has_/parent_class :: [[../DrugPregnancyCategory|DrugPregnancyCategory]]  
 
-#is_/enum_of :: [[../DrugPregnancyCategory|DrugPregnancyCategory]]  
+#is_/enum_of :: [[../DrugPregnancyCategory|DrugPregnancyCategory]] 
+
 
 ## Confidential Links & Embeds: 
 

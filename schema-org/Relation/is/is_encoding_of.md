@@ -76,19 +76,20 @@ has_domain = `=this.dv_has_domain`
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[is_encoding_of|is_encoding_of]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_encoding_of|is_encoding_of]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/is/is_encoding_creative_work.public|is_encoding_creative_work.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_encoding_of.public|is_encoding_of.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_encoding_creative_work.internal|is_encoding_creative_work.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_encoding_of.internal|is_encoding_of.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_encoding_creative_work.protect|is_encoding_creative_work.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_encoding_of.protect|is_encoding_of.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/is/is_encoding_creative_work.private|is_encoding_creative_work.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_encoding_of.private|is_encoding_of.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_encoding_creative_work.personal|is_encoding_creative_work.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_encoding_of.personal|is_encoding_of.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_encoding_creative_work.secret|is_encoding_creative_work.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_encoding_of.secret|is_encoding_of.secret]] 
 

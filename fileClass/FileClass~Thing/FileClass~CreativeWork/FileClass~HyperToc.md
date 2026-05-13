@@ -43,7 +43,7 @@ A HyperToc represents a hypertext table of contents for complex media objects, s
 ### TocEntry
 Indicates a [[HyperTocEntry]] in a [[HyperToc]].
 
-TocEntry:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/HyperTocEntry')"}}
+TocEntry:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/HyperTocEntry')"}} 
 
 
 ## Confidential Links & Embeds: 

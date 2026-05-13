@@ -58,6 +58,7 @@ A list of possible conditions for the item.
 
 has_parent_class = `=this.dv_has_parent_class` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Offer_Item_Condition|Offer_Item_Condition]] 

@@ -80,7 +80,7 @@ Containing group:[Orbiculariae](../Orbiculariae.md)
   Sex ::                Female
   copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
-  ---------------------------------------------------------------------------------
+  --------------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

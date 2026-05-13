@@ -41,7 +41,7 @@ Press, Cambridge.
 Minelli, A. 1993. Chilopoda. Pages 57-114 in Microscopic Anatomy of
 Invertebrates. Volume 12. Onychophora, Chilopoda and lesser
 Protostomata. F. W. Harrison and M. E. Rice, eds. Wiley-Liss, New York,
-Chichester, Weinheim, Brisbane, Singapore, Toronto.
+Chichester, Weinheim, Brisbane, Singapore, Toronto. 
 
 
 ## Confidential Links & Embeds: 

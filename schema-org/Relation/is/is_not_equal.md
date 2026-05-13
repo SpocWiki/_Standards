@@ -87,17 +87,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as ::[[is_not_equal|is_not_equal]]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_not_equal|is_not_equal]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/is/is_non_equal.public|is_non_equal.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_not_equal.public|is_not_equal.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_non_equal.internal|is_non_equal.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_not_equal.internal|is_not_equal.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_non_equal.protect|is_non_equal.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_not_equal.protect|is_not_equal.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/is/is_non_equal.private|is_non_equal.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_not_equal.private|is_not_equal.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_non_equal.personal|is_non_equal.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_not_equal.personal|is_not_equal.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_non_equal.secret|is_non_equal.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_not_equal.secret|is_not_equal.secret]] 
 

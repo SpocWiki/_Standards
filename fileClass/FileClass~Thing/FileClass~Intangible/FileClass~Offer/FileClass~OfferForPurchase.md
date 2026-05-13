@@ -34,7 +34,7 @@ An [[OfferForPurchase]] in Schema.org represents an [[../../../../Society/Agent/
 #class/OfferForPurchase
 #class/Thing/Intangible/Offer/OfferForPurchase
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -175,7 +175,7 @@ Seller:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/
 ### WebCheckinTime
 The time when a passenger can check into the flight online.
 
-WebCheckinTime:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
+WebCheckinTime:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}} 
 
 
 ## Confidential Links & Embeds: 

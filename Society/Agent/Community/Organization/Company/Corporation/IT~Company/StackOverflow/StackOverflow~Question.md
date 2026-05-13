@@ -68,7 +68,7 @@ These are the Requirements from SO:
 ## Appreciation and Follow-Up:
 
 - Express gratitude for any assistance received.
-- Follow up with additional information or clarifications as needed.
+- Follow up with additional information or clarifications as needed. 
 
 
 ## Confidential Links & Embeds: 

@@ -18,3 +18,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Prometheus) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Plato/Prometheus|Prometheus]] 
+
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Ancient_Philosopher/Plato/Prometheus.public|Prometheus.public]] 
+
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Ancient_Philosopher/Plato/Prometheus.internal|Prometheus.internal]] 
+
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Ancient_Philosopher/Plato/Prometheus.protect|Prometheus.protect]] 
+
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Ancient_Philosopher/Plato/Prometheus.private|Prometheus.private]] 
+
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Ancient_Philosopher/Plato/Prometheus.personal|Prometheus.personal]] 
+
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Ancient_Philosopher/Plato/Prometheus.secret|Prometheus.secret]] 
+

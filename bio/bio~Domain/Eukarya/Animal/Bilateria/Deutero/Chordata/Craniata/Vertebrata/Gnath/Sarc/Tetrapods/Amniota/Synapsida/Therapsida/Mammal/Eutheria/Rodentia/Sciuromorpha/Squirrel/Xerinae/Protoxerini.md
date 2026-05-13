@@ -108,7 +108,7 @@ dv_has_:
 scientific_name ::     Paraxerus cepapi
 location ::           Kruger National Park, South Africa
 specimen_condition ::  Live Specimen
-copyright ::            © [Mark Levesley](http://www.naturalimagebank.com/index.html)
+copyright ::            © [Mark Levesley](http://www.naturalimagebank.com/index.html) 
 
 
 ## Confidential Links & Embeds: 

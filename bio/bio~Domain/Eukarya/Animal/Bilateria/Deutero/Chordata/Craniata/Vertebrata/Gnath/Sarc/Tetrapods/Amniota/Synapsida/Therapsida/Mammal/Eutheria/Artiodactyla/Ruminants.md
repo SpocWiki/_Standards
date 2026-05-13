@@ -282,7 +282,7 @@ scientific_name ::     Cervus elaphus
 Reference            Photograph courtesy [Yellowstone Digital Slide](http://www.nps.gov/yell/slidefile/index.htm)
 Creator              Ed Austin/Herb Jones
 specimen_condition ::  Live Specimen
-Sex ::                Male
+Sex ::                Male 
 
 
 ## Confidential Links & Embeds: 

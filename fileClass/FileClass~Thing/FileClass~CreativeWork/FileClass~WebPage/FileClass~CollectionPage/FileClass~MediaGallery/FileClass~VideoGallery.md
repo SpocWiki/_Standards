@@ -32,7 +32,7 @@ Web page type: Video gallery page.
 #class/VideoGallery
 #class/Thing/CreativeWork/WebPage/CollectionPage/MediaGallery/VideoGallery
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

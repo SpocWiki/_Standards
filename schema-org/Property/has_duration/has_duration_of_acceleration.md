@@ -83,17 +83,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_duration_of_acceleration|has_duration_of_acceleration]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_duration/has_duration_of_acceleration|has_duration_of_acceleration]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_duration_of_acceleration.public|has_duration_of_acceleration.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_duration/has_duration_of_acceleration.public|has_duration_of_acceleration.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_duration_of_acceleration.internal|has_duration_of_acceleration.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_duration/has_duration_of_acceleration.internal|has_duration_of_acceleration.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_duration_of_acceleration.protect|has_duration_of_acceleration.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_duration/has_duration_of_acceleration.protect|has_duration_of_acceleration.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_duration_of_acceleration.private|has_duration_of_acceleration.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_duration/has_duration_of_acceleration.private|has_duration_of_acceleration.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_duration_of_acceleration.personal|has_duration_of_acceleration.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_duration/has_duration_of_acceleration.personal|has_duration_of_acceleration.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_duration_of_acceleration.secret|has_duration_of_acceleration.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_duration/has_duration_of_acceleration.secret|has_duration_of_acceleration.secret]] 
 

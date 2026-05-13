@@ -83,17 +83,17 @@ Has sub_properties = `=this.dv_sub_properties`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[_Duration_Template|_Duration_Template]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_duration/_Duration_Template|_Duration_Template]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_duration_of/_Duration_Template.public|_Duration_Template.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_duration/_Duration_Template.public|_Duration_Template.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_duration_of/_Duration_Template.internal|_Duration_Template.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_duration/_Duration_Template.internal|_Duration_Template.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_duration_of/_Duration_Template.protect|_Duration_Template.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_duration/_Duration_Template.protect|_Duration_Template.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_duration_of/_Duration_Template.private|_Duration_Template.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_duration/_Duration_Template.private|_Duration_Template.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_duration_of/_Duration_Template.personal|_Duration_Template.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_duration/_Duration_Template.personal|_Duration_Template.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_duration_of/_Duration_Template.secret|_Duration_Template.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_duration/_Duration_Template.secret|_Duration_Template.secret]] 
 

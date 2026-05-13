@@ -32,7 +32,7 @@ A short segment/part of a video game.
 #class/VideoGameClip
 #class/Thing/CreativeWork/Clip/VideoGameClip
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ A recommended dosing schedule for a drug or supplement as prescribed or recommen
 #class/RecommendedDoseSchedule
 #class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/RecommendedDoseSchedule
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

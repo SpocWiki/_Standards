@@ -37,7 +37,8 @@ The drug's cost represents the maximum reimbursement paid by an insurer for the 
 
 #has_/parent_class :: [[../DrugCostCategory|DrugCostCategory]]  
 
-#is_/enum_of :: [[../DrugCostCategory|DrugCostCategory]]  
+#is_/enum_of :: [[../DrugCostCategory|DrugCostCategory]] 
+
 
 ## Confidential Links & Embeds: 
 

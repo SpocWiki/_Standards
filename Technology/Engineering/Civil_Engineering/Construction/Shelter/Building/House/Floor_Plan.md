@@ -47,7 +47,8 @@ can be indicated using [[image]].
 
 #has_/parent_class :: [[../../../../../../../schema-org/Class/is_a_/Intangible|Intangible]]  
 
-#has_/properties :: [ additionalType, alternateName, amenityFeature, description, disambiguatingDescription, floorSize, identifier, image, isPlanForApartment, layoutImage, mainEntityOfPage, name, numberOfAccommodationUnits, numberOfAvailableAccommodationUnits, numberOfBathroomsTotal, numberOfBedrooms, numberOfFullBathrooms, numberOfPartialBathrooms, numberOfRooms, petsAllowed, potentialAction, sameAs, subjectOf, url ]  
+#has_/properties :: [ additionalType, alternateName, amenityFeature, description, disambiguatingDescription, floorSize, identifier, image, isPlanForApartment, layoutImage, mainEntityOfPage, name, numberOfAccommodationUnits, numberOfAvailableAccommodationUnits, numberOfBathroomsTotal, numberOfBedrooms, numberOfFullBathrooms, numberOfPartialBathrooms, numberOfRooms, petsAllowed, potentialAction, sameAs, subjectOf, url ] 
+
 
 ## Confidential Links & Embeds: 
 

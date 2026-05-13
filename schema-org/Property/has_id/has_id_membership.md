@@ -73,17 +73,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_id_membership|has_id_membership]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_id/has_id_membership|has_id_membership]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_id_membership.public|has_id_membership.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_id/has_id_membership.public|has_id_membership.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_id_membership.internal|has_id_membership.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_id/has_id_membership.internal|has_id_membership.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_id_membership.protect|has_id_membership.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_id/has_id_membership.protect|has_id_membership.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_id_membership.private|has_id_membership.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_id/has_id_membership.private|has_id_membership.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_id_membership.personal|has_id_membership.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_id/has_id_membership.personal|has_id_membership.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_id_membership.secret|has_id_membership.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_id/has_id_membership.secret|has_id_membership.secret]] 
 

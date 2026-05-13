@@ -319,4 +319,22 @@ behalten wir uns vor.
 
 ## GARANTIE 
 
-Nähere Informationen zur Garantie und den Ga rantiebedingungen finden Sie im mitgelieferten Garantie-Faltblatt.
+Nähere Informationen zur Garantie und den Ga rantiebedingungen finden Sie im mitgelieferten Garantie-Faltblatt. 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport/EMS(Electrical_muscle_stimulation)/Antelope_Corefit_II|Antelope_Corefit_II]] 
+
+### #is_/same_as :: [[/_public/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport/EMS(Electrical_muscle_stimulation)/Antelope_Corefit_II.public|Antelope_Corefit_II.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport/EMS(Electrical_muscle_stimulation)/Antelope_Corefit_II.internal|Antelope_Corefit_II.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport/EMS(Electrical_muscle_stimulation)/Antelope_Corefit_II.protect|Antelope_Corefit_II.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport/EMS(Electrical_muscle_stimulation)/Antelope_Corefit_II.private|Antelope_Corefit_II.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport/EMS(Electrical_muscle_stimulation)/Antelope_Corefit_II.personal|Antelope_Corefit_II.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport/EMS(Electrical_muscle_stimulation)/Antelope_Corefit_II.secret|Antelope_Corefit_II.secret]] 
+

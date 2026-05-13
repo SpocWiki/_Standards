@@ -225,6 +225,24 @@ dv_has_:
 ![[Wealth_of_Nations.svg]] 
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Economics/Economy/Economy-Books/Wealth_of_Nations|Wealth_of_Nations]] 
+
+### #is_/same_as :: [[/_public/Society/Economics/Economy/Economy-Books/Wealth_of_Nations.public|Wealth_of_Nations.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Economics/Economy/Economy-Books/Wealth_of_Nations.internal|Wealth_of_Nations.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Economics/Economy/Economy-Books/Wealth_of_Nations.protect|Wealth_of_Nations.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Economics/Economy/Economy-Books/Wealth_of_Nations.private|Wealth_of_Nations.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Economics/Economy/Economy-Books/Wealth_of_Nations.personal|Wealth_of_Nations.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Economics/Economy/Economy-Books/Wealth_of_Nations.secret|Wealth_of_Nations.secret]] 
 %%
 ## Drawing
 ```compressed-json

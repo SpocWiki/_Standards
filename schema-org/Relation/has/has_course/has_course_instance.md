@@ -73,17 +73,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_course_instance|has_course_instance]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_course/has_course_instance|has_course_instance]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_course_instance.public|has_course_instance.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_course/has_course_instance.public|has_course_instance.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_course_instance.internal|has_course_instance.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_course/has_course_instance.internal|has_course_instance.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_course_instance.protect|has_course_instance.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_course/has_course_instance.protect|has_course_instance.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_course_instance.private|has_course_instance.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_course/has_course_instance.private|has_course_instance.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_course_instance.personal|has_course_instance.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_course/has_course_instance.personal|has_course_instance.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_course_instance.secret|has_course_instance.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_course/has_course_instance.secret|has_course_instance.secret]] 
 

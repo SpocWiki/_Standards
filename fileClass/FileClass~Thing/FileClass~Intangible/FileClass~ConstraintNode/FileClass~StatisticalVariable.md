@@ -66,7 +66,7 @@ MeasurementTechnique:: {"type":"Select","options":{"valuesList":{"ExampleMeasure
 ### StatType
 Indicates the kind of statistic represented by a [[StatisticalVariable]], e.g. mean, count etc. The value of statType is a property, either from within Schema.org (e.g. [[count]], [[../../../../Mathematics/Statistics/Probability/Median|Median]], [[marginOfError]], [[maxValue]], [[minValue]]) or from other compatible (e.g. RDF) systems such as DataCommons.org or Wikidata.org.
 
-StatType:: {"type":"Input","options":{}}
+StatType:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

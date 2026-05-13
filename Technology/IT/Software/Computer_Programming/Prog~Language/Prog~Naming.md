@@ -44,7 +44,7 @@ For readable Expressions it is desirable to use readable Variable Names.
 Operator Names are preferably brief and have all the same Length for a tabular Expression Style. 
 
 
-##
+## 
 
 
 ## Confidential Links & Embeds: 

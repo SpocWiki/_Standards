@@ -164,7 +164,7 @@ Reference         Elliot, D. G. 1913. A Review of The Primates. American Museum 
 scientific_name ::  Allocebus trichotis
 location ::        Madagascar
 Comments          hairy-eared dwarf lemur
-Reference         Günther, A. 1875. Notes on some Mammals from Madagascar. Proceedings of the Zoological Society London: 78-80, pl. 15-16.
+Reference         Günther, A. 1875. Notes on some Mammals from Madagascar. Proceedings of the Zoological Society London: 78-80, pl. 15-16. 
 
 
 ## Confidential Links & Embeds: 

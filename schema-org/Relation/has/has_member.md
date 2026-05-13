@@ -83,7 +83,8 @@ Relation describes that:
 
 #has_/domain  :: [[../../../Society/Agent/Community/Organization|Organization]], [[../../Class/is_a_/Intangible/Program_Membership|Program_Membership]]  
 has_name = `=this.dv_has_name` 
-has_range :: [[../../../Society/Agent/Community/Organization|Organization]], [[../../../Society/Agent/Person|Person]]  
+has_range :: [[../../../Society/Agent/Community/Organization|Organization]], [[../../../Society/Agent/Person|Person]] 
+
 
 ## Confidential Links & Embeds: 
 

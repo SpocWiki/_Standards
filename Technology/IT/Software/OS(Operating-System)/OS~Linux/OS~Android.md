@@ -237,3 +237,21 @@ Lemmy_instance_URL: https://lemdro.id
 Different than other Apps, Google's Services run in privileged Mode on Android. 
 They don't ask the User for Permissions for most Operations. 
 [[GrapheneOS]] exchanges the Kernel to restrict this. 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Linux/OS~Android|OS~Android]] 
+
+### #is_/same_as :: [[/_public/Technology/IT/Software/OS(Operating-System)/OS~Linux/OS~Android.public|OS~Android.public]] 
+
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OS(Operating-System)/OS~Linux/OS~Android.internal|OS~Android.internal]] 
+
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OS(Operating-System)/OS~Linux/OS~Android.protect|OS~Android.protect]] 
+
+### #is_/same_as :: [[/_private/Technology/IT/Software/OS(Operating-System)/OS~Linux/OS~Android.private|OS~Android.private]] 
+
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System)/OS~Linux/OS~Android.personal|OS~Android.personal]] 
+
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/OS~Linux/OS~Android.secret|OS~Android.secret]] 

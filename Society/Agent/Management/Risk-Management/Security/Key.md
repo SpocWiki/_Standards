@@ -268,7 +268,7 @@ dv_has_:
 > 
 > Common metals include brass, plated brass, nickel silver, and steel. 
 > 
-> The act of opening a lock without a key is called lock picking.
+> The act of opening a lock without a key is called lock picking. 
 
 
 ## Confidential Links & Embeds: 

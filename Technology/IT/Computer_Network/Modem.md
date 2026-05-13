@@ -204,7 +204,7 @@ dv_has_:
 | Bonding modem (two 56k modems) ([V.92](https://en.wikipedia.org/wiki/ITU-T_V.92 "ITU-T V.92"))                                                                         |                                                                                              |    112.0/96.0 |       |
 | Hardware compression (variable) ([V.90](https://en.wikipedia.org/wiki/ITU-T_V.90 "ITU-T V.90")/[V.42bis](https://en.wikipedia.org/wiki/ITU-T_V.42bis "ITU-T V.42bis")) |                                                                                              |    56.0–220.0 |       |
 | Hardware compression (variable) ([V.92](https://en.wikipedia.org/wiki/ITU-T_V.92 "ITU-T V.92")/[V.44](https://en.wikipedia.org/wiki/ITU-T_V.44 "ITU-T V.44"))          |                                                                                              |    56.0–320.0 |       |
-| Server-side web compression (variable) ([Netscape ISP](https://en.wikipedia.org/wiki/Netscape#Netscape_Internet_Service "Netscape"))                                   |                                                                                              | 100.0–1,000.0 |       |
+| Server-side web compression (variable) ([Netscape ISP](https://en.wikipedia.org/wiki/Netscape#Netscape_Internet_Service "Netscape"))                                   |                                                                                              | 100.0–1,000.0 |       | 
 
 
 ## Confidential Links & Embeds: 

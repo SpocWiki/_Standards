@@ -180,7 +180,7 @@ dv_has_:
 	-   *Thermonema*
 	-   *Toxothrix*
 	-   *Weeksella*
-	-   *Zobellia*
+	-   *Zobellia* 
 
 
 ## Confidential Links & Embeds: 

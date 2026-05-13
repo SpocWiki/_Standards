@@ -32,7 +32,7 @@ A bowling alley.
 #class/BowlingAlley
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/BowlingAlley
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

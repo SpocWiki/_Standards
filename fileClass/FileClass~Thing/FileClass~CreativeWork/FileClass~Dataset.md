@@ -88,7 +88,7 @@ MeasurementTechnique:: {"type":"Select","options":{"valuesList":{"ExampleMeasure
 ### VariableMeasured
 The variableMeasured property can indicate (repeated as necessary) the  variables that are measured in some dataset, either described as text or as pairs of identifier and description using PropertyValue, or more explicitly as a [[StatisticalVariable]].
 
-VariableMeasured:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')"}}
+VariableMeasured:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')"}} 
 
 
 ## Confidential Links & Embeds: 

@@ -67,7 +67,7 @@ Indicates that the item is available on back order.
 
 [[../ItemAvailability| #has_/parent_class :: [../ItemAvailability|ItemAvailability]] ]
 
-[[../ItemAvailability| #is_/enum_of :: [../ItemAvailability|ItemAvailability]] ]
+[[../ItemAvailability| #is_/enum_of :: [../ItemAvailability|ItemAvailability]] ] 
 
 
 ## Confidential Links & Embeds: 

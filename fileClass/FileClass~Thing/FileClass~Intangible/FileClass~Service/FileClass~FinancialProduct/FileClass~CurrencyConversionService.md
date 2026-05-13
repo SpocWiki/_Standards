@@ -32,7 +32,7 @@ A service to convert funds from one currency to another currency.
 #class/CurrencyConversionService
 #class/Thing/Intangible/Service/FinancialProduct/CurrencyConversionService
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

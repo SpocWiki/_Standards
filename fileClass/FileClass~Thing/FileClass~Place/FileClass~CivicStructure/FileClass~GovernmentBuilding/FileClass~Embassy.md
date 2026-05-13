@@ -32,7 +32,7 @@ An embassy.
 #class/Embassy
 #class/Thing/Place/CivicStructure/GovernmentBuilding/Embassy
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

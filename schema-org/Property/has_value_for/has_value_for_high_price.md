@@ -72,7 +72,7 @@ Predicate describes that:
 has_domain = `=this.dv_has_domain` 
 
 has_name = `=this.dv_has_name` 
-(has_/range :: [[../../Class/is_a_/data_type/number|Number]],  [[../../Class/is_a_/data_type/text|Text]] )
+(has_/range :: [[../../Class/is_a_/data_type/number|Number]],  [[../../Class/is_a_/data_type/text|Text]] ) 
 
 
 ## Confidential Links & Embeds: 

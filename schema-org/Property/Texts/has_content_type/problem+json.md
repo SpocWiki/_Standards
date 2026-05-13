@@ -44,7 +44,7 @@ The `problem+json` document type structures error details in a standardized JSON
   "instance": "/account/12345/msgs/abc",
   "status": 403
 }
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

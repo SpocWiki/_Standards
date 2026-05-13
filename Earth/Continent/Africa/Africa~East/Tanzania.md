@@ -1103,7 +1103,7 @@ has_place_latitude = `=this.dv_has_place_latitude`
 
 ## #has_/Etymology 
 
-The name "Tanzania" was created as a [clipped compound](https://en.wikipedia.org/wiki/Clipped_compound "Clipped compound") of the names of the two states that unified to create the country: [Tanganyika](https://en.wikipedia.org/wiki/Tanganyika_(1961%E2%80%931964) "Tanganyika (1961–1964)") and [Zanzibar](https://en.wikipedia.org/wiki/People%27s_Republic_of_Zanzibar).
+The name "Tanzania" was created as a [clipped compound](https://en.wikipedia.org/wiki/Clipped_compound "Clipped compound") of the names of the two states that unified to create the country: [Tanganyika](https://en.wikipedia.org/wiki/Tanganyika_(1961%E2%80%931964) "Tanganyika (1961–1964)") and [Zanzibar](https://en.wikipedia.org/wiki/People%27s_Republic_of_Zanzibar). 
 
 
 ## Confidential Links & Embeds: 

@@ -352,7 +352,7 @@ the astrophysical origin of most elements beyond iron.
 | Luminosity                     |                 1 L☉ |                10⁵ L☉ |
 | Radius (at giant phase)        |               200 R☉ |               1000 R☉ |
 | Core Temperature (end of life) |               0.1 GK |                 10 GK |
-| Final Object Mass              | 0.6 M☉ (white dwarf) | 2.0 M☉ (neutron star) |
+| Final Object Mass              | 0.6 M☉ (white dwarf) | 2.0 M☉ (neutron star) | 
 
 
 ## Confidential Links & Embeds: 

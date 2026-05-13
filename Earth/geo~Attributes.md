@@ -102,7 +102,7 @@ Here are some with their Type and Description:
 | TLD               |               | 1                            | Top-Level Internet Domain for Country             |     |            |     |     |                                           |
 | EDGAR             |               | 1                            | U.S. SEC Country Code                             |     |            |     |     |                                           |
 | CLDR              |               |                              | Unicode Common Locale Data Repository             |     |            |     |     |                                           |
-|                   |               |                              |                                                   |     |            |     |     |                                           |
+|                   |               |                              |                                                   |     |            |     |     |                                           | 
 
 
 ## Confidential Links & Embeds: 

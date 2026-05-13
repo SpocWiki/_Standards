@@ -176,7 +176,7 @@ has_place_continent = `=this.dv_has_place_continent`
 [Alcohol-l::]
 [Language-Id::]
 has_place_longitude = `=this.dv_has_place_longitude`
-has_place_latitude = `=this.dv_has_place_latitude`
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## Confidential Links & Embeds: 

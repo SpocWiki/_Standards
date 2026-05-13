@@ -99,7 +99,7 @@ rDNA ITS regions. Mycological Research 106: 156-163.
   Collection           1999
   copyright ::            © 1999 [Robert Bauer](http://www.uni-tuebingen.de/uni/bbm/Privat/Robert.html) 
  
-  ---------------------------------------------------------------------------------
+  --------------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

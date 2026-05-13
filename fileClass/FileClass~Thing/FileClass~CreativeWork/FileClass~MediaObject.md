@@ -231,7 +231,7 @@ UploadDate:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertA
 ### Width
 The width of the item.
 
-Width:: {"type":"Number","options":{}}
+Width:: {"type":"Number","options":{}} 
 
 
 ## Confidential Links & Embeds: 

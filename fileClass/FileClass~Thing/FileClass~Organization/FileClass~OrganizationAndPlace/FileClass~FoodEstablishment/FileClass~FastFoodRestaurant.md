@@ -32,7 +32,7 @@ A fast-food restaurant.
 #class/FastFoodRestaurant
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/FastFoodRestaurant
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

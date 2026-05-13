@@ -273,17 +273,17 @@ The kelvin is the primary unit of temperature for engineering and the physical s
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/Unit~Kelvin|Unit~Kelvin]] 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measure/SI-Unit/Unit~Kelvin|Unit~Kelvin]] 
 
-### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/Unit~Kelvin.public|Unit~Kelvin.public]] 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measure/SI-Unit/Unit~Kelvin.public|Unit~Kelvin.public]] 
 
-### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/Unit~Kelvin.internal|Unit~Kelvin.internal]] 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measure/SI-Unit/Unit~Kelvin.internal|Unit~Kelvin.internal]] 
 
-### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/Unit~Kelvin.protect|Unit~Kelvin.protect]] 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measure/SI-Unit/Unit~Kelvin.protect|Unit~Kelvin.protect]] 
 
-### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/Unit~Kelvin.private|Unit~Kelvin.private]] 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measure/SI-Unit/Unit~Kelvin.private|Unit~Kelvin.private]] 
 
-### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/Unit~Kelvin.personal|Unit~Kelvin.personal]] 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measure/SI-Unit/Unit~Kelvin.personal|Unit~Kelvin.personal]] 
 
-### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/Unit~Kelvin.secret|Unit~Kelvin.secret]] 
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measure/SI-Unit/Unit~Kelvin.secret|Unit~Kelvin.secret]] 
 

@@ -229,17 +229,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Antarctic_Circle|Antarctic_Circle]] 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Cartography/Circle_of_Latitude/Antarctic_Circle|Antarctic_Circle]] 
 
-### #is_/same_as :: [[/_public/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.public|Antarctic_Circle.public]] 
+### #is_/same_as :: [[/_public/Earth/Geography/Cartography/Circle_of_Latitude/Antarctic_Circle.public|Antarctic_Circle.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.internal|Antarctic_Circle.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Geography/Cartography/Circle_of_Latitude/Antarctic_Circle.internal|Antarctic_Circle.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.protect|Antarctic_Circle.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Geography/Cartography/Circle_of_Latitude/Antarctic_Circle.protect|Antarctic_Circle.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.private|Antarctic_Circle.private]] 
+### #is_/same_as :: [[/_private/Earth/Geography/Cartography/Circle_of_Latitude/Antarctic_Circle.private|Antarctic_Circle.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.personal|Antarctic_Circle.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Geography/Cartography/Circle_of_Latitude/Antarctic_Circle.personal|Antarctic_Circle.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Geography/Cartography/Circle_of_latitude/Antarctic_Circle.secret|Antarctic_Circle.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Geography/Cartography/Circle_of_Latitude/Antarctic_Circle.secret|Antarctic_Circle.secret]] 
 

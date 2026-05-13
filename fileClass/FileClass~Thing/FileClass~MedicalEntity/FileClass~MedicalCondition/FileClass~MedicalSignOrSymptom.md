@@ -32,7 +32,7 @@ Any feature associated or not with a medical condition. In medicine a symptom is
 #class/MedicalSignOrSymptom
 #class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -215,7 +215,7 @@ dv_has_:
 	-   *[[Homo/Homo_erectus|Homo_erectus]]* †
 	-   *[[Homo_ergaster]]* †
 	-   *[[Homo_rudolfensis]]* †
-	-   *[[Homo_habilis]]* †
+	-   *[[Homo_habilis]]* † 
 
 
 ## Confidential Links & Embeds: 

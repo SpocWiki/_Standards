@@ -253,7 +253,7 @@ In September 1983, the U.S. [Federal Communications Commission](https://en.wikip
 the [DynaTAC 8000X](https://en.wikipedia.org/wiki/DynaTAC_8000X "DynaTAC 8000X") telephone, the world's first commercial cellular device. 
 By 1998, cellphones accounted for two thirds of Motorola's gross revenue.
 
-In June 2000, Motorola and [Cisco](https://en.wikipedia.org/wiki/Cisco "Cisco") supplied the world's first commercial [GPRS](https://en.wikipedia.org/wiki/GPRS "GPRS") cellular network to [BT Cellnet](https://en.wikipedia.org/wiki/BT_Cellnet "BT Cellnet") in the United Kingdom. Motorola also developed the world's first GPRS cell phone.
+In June 2000, Motorola and [Cisco](https://en.wikipedia.org/wiki/Cisco "Cisco") supplied the world's first commercial [GPRS](https://en.wikipedia.org/wiki/GPRS "GPRS") cellular network to [BT Cellnet](https://en.wikipedia.org/wiki/BT_Cellnet "BT Cellnet") in the United Kingdom. Motorola also developed the world's first GPRS cell phone. 
 
 
 ## Confidential Links & Embeds: 

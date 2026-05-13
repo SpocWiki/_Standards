@@ -32,7 +32,7 @@ The artwork on the outer surface of a CreativeWork.
 #class/CoverArt
 #class/Thing/CreativeWork/VisualArtwork/CoverArt
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

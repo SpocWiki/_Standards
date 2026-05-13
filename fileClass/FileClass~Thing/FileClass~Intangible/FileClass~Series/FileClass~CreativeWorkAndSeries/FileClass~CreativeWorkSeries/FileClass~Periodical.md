@@ -34,7 +34,7 @@ See also [blog post](http://blog.schema.org/2014/09/schemaorg-support-for-biblio
 #class/Periodical
 #class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/Periodical
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

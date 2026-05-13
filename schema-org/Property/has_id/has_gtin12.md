@@ -72,19 +72,20 @@ has_range = `=this.dv_has_range`
 
 has_parent_property = `=this.dv_has_parent_property` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_gtin12|has_gtin12]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_id/has_gtin12|has_gtin12]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_gtin12.public|has_gtin12.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_id/has_gtin12.public|has_gtin12.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_gtin12.internal|has_gtin12.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_id/has_gtin12.internal|has_gtin12.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_gtin12.protect|has_gtin12.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_id/has_gtin12.protect|has_gtin12.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_gtin12.private|has_gtin12.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_id/has_gtin12.private|has_gtin12.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_gtin12.personal|has_gtin12.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_id/has_gtin12.personal|has_gtin12.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_gtin12.secret|has_gtin12.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_id/has_gtin12.secret|has_gtin12.secret]] 
 

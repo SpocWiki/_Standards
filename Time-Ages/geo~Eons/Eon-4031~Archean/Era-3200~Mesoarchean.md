@@ -229,7 +229,7 @@ noteOnly: true
 ```
 
 
-`$=dv.current().has_labelsv`
+`$=dv.current().has_labelsv` 
 
 
 ## Confidential Links & Embeds: 

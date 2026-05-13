@@ -50,7 +50,7 @@ IataCode:: {"type":"Input","options":{}}
 ### IcaoCode
 ICAO identifier for an airport.
 
-IcaoCode:: {"type":"Input","options":{}}
+IcaoCode:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

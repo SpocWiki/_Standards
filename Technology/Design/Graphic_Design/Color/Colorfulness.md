@@ -124,7 +124,7 @@ Colorfulness is the "attribute of a visual perception according to which the per
 
 Chroma is the "colorfulness of an area judged as a proportion of the brightness of a similarly illuminated area that appears white or highly transmitting". As a result, chroma is mostly only dependent on the spectral properties, and as such is seen to describe the object color. It is how different from a grey of the same lightness such an object color appears to be.
 
-Saturation is the "colorfulness of an area judged in proportion to its brightness", which in effect is the perceived freedom from whitishness of the light coming from the area. An object with a given spectral reflectance exhibits approximately constant saturation for all levels of illumination, unless the brightness is very high.
+Saturation is the "colorfulness of an area judged in proportion to its brightness", which in effect is the perceived freedom from whitishness of the light coming from the area. An object with a given spectral reflectance exhibits approximately constant saturation for all levels of illumination, unless the brightness is very high. 
 
 
 ## Confidential Links & Embeds: 

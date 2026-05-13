@@ -94,22 +94,22 @@ Relation describes that:
 
 #has_/domain = `=this.dv_has_domain`
 has_name = `=this.dv_has_name` 
-(has_/range :: [[../../../../Society/Communication/Media/Creative_Work|CreativeWork]], [[../../../Class/is_a_/Data_Type/Text/Url|Url]] )
+(has_/range :: [[../../../../Society/Communication/Media/Creative_Work|CreativeWork]], [[../../../Class/is_a_/Data_Type/Text/Url|Url]] ) 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_actionable_feedback_policy|has_actionable_feedback_policy]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_publishing_principle/has_actionable_feedback_policy|has_actionable_feedback_policy]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_actionable_feedback_policy.public|has_actionable_feedback_policy.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_publishing_principle/has_actionable_feedback_policy.public|has_actionable_feedback_policy.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_actionable_feedback_policy.internal|has_actionable_feedback_policy.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_publishing_principle/has_actionable_feedback_policy.internal|has_actionable_feedback_policy.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_actionable_feedback_policy.protect|has_actionable_feedback_policy.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_publishing_principle/has_actionable_feedback_policy.protect|has_actionable_feedback_policy.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_actionable_feedback_policy.private|has_actionable_feedback_policy.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_publishing_principle/has_actionable_feedback_policy.private|has_actionable_feedback_policy.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_actionable_feedback_policy.personal|has_actionable_feedback_policy.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_publishing_principle/has_actionable_feedback_policy.personal|has_actionable_feedback_policy.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_actionable_feedback_policy.secret|has_actionable_feedback_policy.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_publishing_principle/has_actionable_feedback_policy.secret|has_actionable_feedback_policy.secret]] 
 

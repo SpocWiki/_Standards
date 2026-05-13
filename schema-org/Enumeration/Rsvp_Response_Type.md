@@ -58,6 +58,7 @@ RsvpResponseType is an enumeration type whose instances represent responding to 
 
 has_parent_class = `=this.dv_has_parent_class` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Rsvp_Response_Type|Rsvp_Response_Type]] 

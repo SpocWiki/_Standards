@@ -477,7 +477,7 @@ scientific_name ::     Cyclophthalmus senior
 location ::           Bohemia
 Reference            Nicholson, H. A. 1897. Ancient Life-History of the Earth. D. Appleton and Company, New York.
 Creator              E. Salle
-specimen_condition ::  Fossil \-- Period: Carboniferous
+specimen_condition ::  Fossil \-- Period: Carboniferous 
 
 
 ## Confidential Links & Embeds: 

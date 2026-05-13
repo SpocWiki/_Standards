@@ -190,7 +190,7 @@ This is a new, 5th [[../../../../State_of_Matter|State_of_Matter]] at the sub-at
 | **Degrees of Freedom**        | ~40 × higher                                   | Limited to hadrons (π, p, n, etc.)  |
 | **Dominant Interaction**      | QCD at high temperature                        | QCD at low energy (confining)       |
 | **Temperature (critical)**    | > T_c ≈ 1.6e12 K ≈ 155 MeV/kB                  | Below ( T_c )                       |
-| **Energy Density (critical)** | ε_c ≈ 1 GeV/fm³                                | < 0.2 GeV/fm³                       |
+| **Energy Density (critical)** | ε_c ≈ 1 GeV/fm³                                | < 0.2 GeV/fm³                       | 
 
 
 ## Confidential Links & Embeds: 

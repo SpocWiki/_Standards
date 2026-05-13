@@ -152,7 +152,7 @@ Voss N. A. 1992. Family Promachoteuthidae. Smithson. Contr. Zool., 513:
   Size              17 mm ML
   copyright ::         © 1968 [Clyde F. E. Roper](mailto:roper.clyde@nmnh.si.edu) 
  
-  -----------------------------------------------------------------------------
+  ----------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

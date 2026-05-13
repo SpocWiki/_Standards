@@ -697,7 +697,7 @@ the Transition to Land (1): 291-326. London: Academic Press.
   Creator              Painting by Frank Ippolito
   specimen_condition ::  Fossil \-- Period: Late Triassic
   copyright ::            © 1987 [American Museum of Natural History](http://amnh.org/)
-  ------------------------------------------------------
+  ------------------------------------------------------ 
 
 
 ## Confidential Links & Embeds: 

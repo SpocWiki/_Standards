@@ -102,7 +102,7 @@ Contributions to Zoology, No. 97: 1-159
 
   ---------
   copyright ::   © 1998 C. F. E. Roper
-  ---------
+  --------- 
 
 
 ## Confidential Links & Embeds: 

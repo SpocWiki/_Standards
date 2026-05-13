@@ -119,7 +119,7 @@ copyright ::            © 2002-2006 [TopTropicals.com](http://toptropicals.com/
 ![](Suessenguthia/5591.jpg) 
 scientific_name ::     Suessenguthia multisetosa (Rusby) Wassh. & J.R.I.Wood
 specimen_condition ::  Live Specimen
-copyright ::            © 2002-2006 [TopTropicals.com](http://toptropicals.com/)
+copyright ::            © 2002-2006 [TopTropicals.com](http://toptropicals.com/) 
 
 
 ## Confidential Links & Embeds: 

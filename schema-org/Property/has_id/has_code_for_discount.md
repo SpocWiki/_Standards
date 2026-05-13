@@ -73,17 +73,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_code_for_discount|has_code_for_discount]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_id/has_code_for_discount|has_code_for_discount]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_code_for_discount.public|has_code_for_discount.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_id/has_code_for_discount.public|has_code_for_discount.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_code_for_discount.internal|has_code_for_discount.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_id/has_code_for_discount.internal|has_code_for_discount.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_code_for_discount.protect|has_code_for_discount.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_id/has_code_for_discount.protect|has_code_for_discount.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_code_for_discount.private|has_code_for_discount.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_id/has_code_for_discount.private|has_code_for_discount.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_code_for_discount.personal|has_code_for_discount.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_id/has_code_for_discount.personal|has_code_for_discount.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_code_for_discount.secret|has_code_for_discount.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_id/has_code_for_discount.secret|has_code_for_discount.secret]] 
 

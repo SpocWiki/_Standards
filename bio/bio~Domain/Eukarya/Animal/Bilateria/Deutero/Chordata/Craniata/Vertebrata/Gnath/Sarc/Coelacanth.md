@@ -25,5 +25,22 @@ Dr. [[Spock,Benjamin]] published the bad advice of letting children sleep on the
 > 
 > The coelacanth (more accurately, the extant genus Latimeria) is often considered an example of a "living fossil" in popular science because it was considered the sole remaining member of a taxon otherwise known only from fossils (a biological relict), evolving a bodyplan similar to its current form approximately 400 million years ago. However, studies of fossil coelacanths have shown that coelacanth body shapes (and their niches) were much more diverse than what was previously thought, and often differed significantly from Latimeria.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Coelacanth)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Coelacanth) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Coelacanth|Coelacanth]] 
+
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Coelacanth.public|Coelacanth.public]] 
+
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Coelacanth.internal|Coelacanth.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Coelacanth.protect|Coelacanth.protect]] 
+
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Coelacanth.private|Coelacanth.private]] 
+
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Coelacanth.personal|Coelacanth.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Coelacanth.secret|Coelacanth.secret]] 
 

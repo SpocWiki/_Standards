@@ -85,7 +85,7 @@ RelatedTherapy:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#clas
 ### Significance
 The significance associated with the superficial anatomy; as an example, how characteristics of the superficial anatomy can suggest underlying medical conditions or courses of treatment.
 
-Significance:: {"type":"Input","options":{}}
+Significance:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

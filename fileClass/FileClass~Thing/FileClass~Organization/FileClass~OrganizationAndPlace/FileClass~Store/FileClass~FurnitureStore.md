@@ -32,7 +32,7 @@ A furniture store.
 #class/FurnitureStore
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/FurnitureStore
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

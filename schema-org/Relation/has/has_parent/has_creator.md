@@ -83,21 +83,22 @@ but as with its Sub-Relation [[has_parent]] which is N : 2,
 it can actually describe any Cardinality e.g. for scientific Papers. 
 
 is_definin
-[[has_delivery/has_defined_term|defined_term]]  
+[[has_delivery/has_defined_term|defined_term]] 
+
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_creator|has_creator]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_parent/has_creator|has_creator]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_creator.public|has_creator.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_parent/has_creator.public|has_creator.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_creator.internal|has_creator.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_parent/has_creator.internal|has_creator.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_creator.protect|has_creator.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_parent/has_creator.protect|has_creator.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_creator.private|has_creator.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_parent/has_creator.private|has_creator.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_creator.personal|has_creator.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_parent/has_creator.personal|has_creator.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_creator.secret|has_creator.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_parent/has_creator.secret|has_creator.secret]] 
 

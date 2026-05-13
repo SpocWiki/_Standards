@@ -194,7 +194,7 @@ copyright ::            © [L. Ramsden](http://web.hku.hk/%7Elramsden/)
 ![Tylosema fassoglensis](Cercideae/Tylosema_fassoglensis.jpg) 
 scientific_name ::  Tylosema fassoglensis (Kotschy) Torre & Hillc.
 location ::        Vumba rd near Altar Site, Mutare, Zimbabwe
-copyright ::         © 06/2006 [Mark Hyde and Bart Wursten](http://www.zimbabweflora.co.zw/)
+copyright ::         © 06/2006 [Mark Hyde and Bart Wursten](http://www.zimbabweflora.co.zw/) 
 
 
 ## Confidential Links & Embeds: 

@@ -84,7 +84,7 @@ Oxyopidae). Journal of Zoology 253:309-332.
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
   copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
  
-  ------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------ 
 
 
 ## Confidential Links & Embeds: 

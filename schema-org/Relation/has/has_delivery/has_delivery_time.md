@@ -80,17 +80,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_delivery_time|has_delivery_time]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_delivery/has_delivery_time|has_delivery_time]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_delivery_time.public|has_delivery_time.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_delivery/has_delivery_time.public|has_delivery_time.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_delivery_time.internal|has_delivery_time.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_delivery/has_delivery_time.internal|has_delivery_time.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_delivery_time.protect|has_delivery_time.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_delivery/has_delivery_time.protect|has_delivery_time.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_delivery_time.private|has_delivery_time.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_delivery/has_delivery_time.private|has_delivery_time.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_delivery_time.personal|has_delivery_time.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_delivery/has_delivery_time.personal|has_delivery_time.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_delivery_time.secret|has_delivery_time.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_delivery/has_delivery_time.secret|has_delivery_time.secret]] 
 

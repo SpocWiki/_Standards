@@ -32,7 +32,7 @@ A legislative building—for example, the state capitol.
 #class/LegislativeBuilding
 #class/Thing/Place/CivicStructure/GovernmentBuilding/LegislativeBuilding
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ A car wash business.
 #class/AutoWash
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/AutoWash
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

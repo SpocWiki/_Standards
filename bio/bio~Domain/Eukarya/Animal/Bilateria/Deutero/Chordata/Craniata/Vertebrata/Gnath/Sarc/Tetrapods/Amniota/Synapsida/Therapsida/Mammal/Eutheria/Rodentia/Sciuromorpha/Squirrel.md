@@ -559,7 +559,7 @@ copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com)
 scientific_name ::     Marmota
 Creator              Bill Hickey
 Acknowledgements     Photo courtesy U.S. Fish and Wildlife Service
-specimen_condition ::  Live Specimen
+specimen_condition ::  Live Specimen 
 
 
 ## Confidential Links & Embeds: 

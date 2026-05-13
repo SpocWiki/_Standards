@@ -32,7 +32,7 @@ A painting.
 #class/Painting
 #class/Thing/CreativeWork/Painting
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -38,7 +38,8 @@ The most generic type of entity related to health and the practice of medicine.
 
 #has_/child_/class :: [ AnatomicalStructure, AnatomicalSystem, DrugClass, DrugCost, LifestyleModification, MedicalCause, MedicalCondition, MedicalContraindication, MedicalDevice, MedicalGuideline, MedicalIndication, MedicalIntangible, MedicalProcedure, MedicalRiskEstimator, MedicalRiskFactor, MedicalStudy, MedicalTest, Substance, SuperficialAnatomy ]  
 
-#has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]  
+#has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] 
+
 
 ## Confidential Links & Embeds: 
 

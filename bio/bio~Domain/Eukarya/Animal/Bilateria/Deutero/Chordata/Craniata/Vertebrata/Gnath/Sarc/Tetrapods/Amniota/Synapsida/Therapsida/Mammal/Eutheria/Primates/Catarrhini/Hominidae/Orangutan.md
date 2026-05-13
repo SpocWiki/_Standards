@@ -307,7 +307,7 @@ Unicode_character: 🦧
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
   copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
  
-  ------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------ 
 
 
 ## Confidential Links & Embeds: 

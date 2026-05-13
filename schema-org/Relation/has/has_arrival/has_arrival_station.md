@@ -76,17 +76,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_arrival_station|has_arrival_station]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_arrival/has_arrival_station|has_arrival_station]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_arrival_station.public|has_arrival_station.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_arrival/has_arrival_station.public|has_arrival_station.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_arrival_station.internal|has_arrival_station.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_arrival/has_arrival_station.internal|has_arrival_station.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_arrival_station.protect|has_arrival_station.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_arrival/has_arrival_station.protect|has_arrival_station.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_arrival_station.private|has_arrival_station.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_arrival/has_arrival_station.private|has_arrival_station.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_arrival_station.personal|has_arrival_station.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_arrival/has_arrival_station.personal|has_arrival_station.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_arrival_station.secret|has_arrival_station.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_arrival/has_arrival_station.secret|has_arrival_station.secret]] 
 

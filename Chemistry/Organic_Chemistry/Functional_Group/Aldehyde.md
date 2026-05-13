@@ -246,17 +246,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Aldehyde|Aldehyde]] 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Functional_Group/Aldehyde|Aldehyde]] 
 
-### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Aldehyde.public|Aldehyde.public]] 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Functional_Group/Aldehyde.public|Aldehyde.public]] 
 
-### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Aldehyde.internal|Aldehyde.internal]] 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Functional_Group/Aldehyde.internal|Aldehyde.internal]] 
 
-### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Aldehyde.protect|Aldehyde.protect]] 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Functional_Group/Aldehyde.protect|Aldehyde.protect]] 
 
-### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Aldehyde.private|Aldehyde.private]] 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Functional_Group/Aldehyde.private|Aldehyde.private]] 
 
-### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Aldehyde.personal|Aldehyde.personal]] 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Functional_Group/Aldehyde.personal|Aldehyde.personal]] 
 
-### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Aldehyde.secret|Aldehyde.secret]] 
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Functional_Group/Aldehyde.secret|Aldehyde.secret]] 
 

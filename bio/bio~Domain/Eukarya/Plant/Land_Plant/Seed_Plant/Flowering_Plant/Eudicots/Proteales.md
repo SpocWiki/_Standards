@@ -205,7 +205,7 @@ Creator              Photograph by Charles Webber
 specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 copyright ::            © 1998 [California Academy of Sciences](http://www.calacademy.org/) 
-------------------------------------------------------------------------------
+------------------------------------------------------------------------------ 
 
 
 ## Confidential Links & Embeds: 

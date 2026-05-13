@@ -73,17 +73,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_child_test|has_child_test]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_child/has_child_test|has_child_test]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_child_test.public|has_child_test.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_child/has_child_test.public|has_child_test.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_child_test.internal|has_child_test.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_child/has_child_test.internal|has_child_test.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_child_test.protect|has_child_test.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_child/has_child_test.protect|has_child_test.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_child_test.private|has_child_test.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_child/has_child_test.private|has_child_test.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_child_test.personal|has_child_test.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_child/has_child_test.personal|has_child_test.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_child_test.secret|has_child_test.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_child/has_child_test.secret|has_child_test.secret]] 
 

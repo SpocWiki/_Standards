@@ -297,7 +297,7 @@ dv_is_same_as:
 
 #has_/time_/started :: 
 #has_/time_/stopped  :: 
--   [has_role :: [[../US_President|US_President]] ]is_member_of = `=this.dv_is_member_of`
+-   [has_role :: [[../US_President|US_President]] ]is_member_of = `=this.dv_is_member_of` 
 
 
 ## Confidential Links & Embeds: 

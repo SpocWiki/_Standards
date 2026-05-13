@@ -220,8 +220,7 @@ These steps will help you automate the
 
 ```ccard
 type: folder_brief_live
-```
- 
+``` 
 
 
 ## Confidential Links & Embeds: 

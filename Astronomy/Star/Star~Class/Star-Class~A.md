@@ -27,6 +27,7 @@ has_/value_for_/radius_/sol::2
 
 has_/value_for_/weight_/sol::3.2 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Astronomy/Star/Star~Class/Star-Class~A|Star-Class~A]] 

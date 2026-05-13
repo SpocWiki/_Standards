@@ -102,7 +102,7 @@ NAICS aggregation levels
 | 72                                           | Accommodation and Food Services                                                                                                                                                                                               |
 | 81                                           | Other Services (except Public Administration)                                                                                                                                                                                 |
 | 91–92                                        | [Public Administration](https://en.wikipedia.org/wiki/Public_Administration) Canada                                                                                                                                           |
-| 91–92                                        | [Public Administration](https://en.wikipedia.org/wiki/Public_Administration) USA                                                                                                                                              |
+| 91–92                                        | [Public Administration](https://en.wikipedia.org/wiki/Public_Administration) USA                                                                                                                                              | 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ A gym.
 #class/ExerciseGym
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/ExerciseGym
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

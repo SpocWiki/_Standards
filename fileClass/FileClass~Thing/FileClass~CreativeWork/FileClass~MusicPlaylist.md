@@ -53,7 +53,7 @@ NumTracks:: {"type":"Number","options":{}}
 ### Track
 A music recording (track)&#x2014;usually a single song. If an ItemList is given, the list should contain items of type MusicRecording.
 
-Track:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/ItemList')"}}
+Track:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/ItemList')"}} 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ A river (for example, the broad majestic Shannon).
 #class/RiverBodyOfWater
 #class/Thing/Place/Landform/BodyOfWater/RiverBodyOfWater
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

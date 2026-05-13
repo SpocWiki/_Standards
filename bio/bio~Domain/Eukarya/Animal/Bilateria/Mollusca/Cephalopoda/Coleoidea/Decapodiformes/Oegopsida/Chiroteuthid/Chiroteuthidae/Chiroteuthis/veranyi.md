@@ -218,7 +218,7 @@ Zool., 97: 1-159.
   ----------
   scientific_name ::  Chiroteuthis veranyi
   Creator           A. D. Hart
-  ----------
+  ---------- 
 
 
 ## Confidential Links & Embeds: 

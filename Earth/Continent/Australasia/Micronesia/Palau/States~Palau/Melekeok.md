@@ -82,7 +82,7 @@ defaultZoom: 11
 maxZoom: 18
 geojsonFolder: ./Melekeok/
 markerFolder: ./Melekeok/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

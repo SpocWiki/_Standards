@@ -578,7 +578,7 @@ has_number_of_electrons = `=this.dv_has_number_of_electrons`
 
 ## Lithium Batteries 
 
-require Graphite instead of amorphous Carbon which can be used with [[Natrium]]
+require Graphite instead of amorphous Carbon which can be used with [[Natrium]] 
 
 
 ## Confidential Links & Embeds: 

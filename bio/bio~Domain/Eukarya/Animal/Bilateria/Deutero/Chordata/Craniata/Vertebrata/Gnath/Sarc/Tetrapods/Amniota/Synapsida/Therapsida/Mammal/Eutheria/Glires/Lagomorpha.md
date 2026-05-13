@@ -291,7 +291,7 @@ dv_has_:
 ## Title Illustrations
 ![](Lagomorpha/snowshoe.jpg) 
 **Snowshoe hare** (Lepus americanus, Leporidae). 
-Photograph by Dick Hensel. Courtesy of the [U.S. Fish and Wildlife Service](http://www.fws.gov/).
+Photograph by Dick Hensel. Courtesy of the [U.S. Fish and Wildlife Service](http://www.fws.gov/). 
 
 
 ## Confidential Links & Embeds: 

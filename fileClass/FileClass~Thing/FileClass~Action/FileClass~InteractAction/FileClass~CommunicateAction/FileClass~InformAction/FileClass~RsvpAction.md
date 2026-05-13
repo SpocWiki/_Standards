@@ -58,7 +58,7 @@ Comment:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing
 ### RsvpResponse
 The response (yes, no, maybe) to the RSVP.
 
-RsvpResponse:: {"type":"Select","options":{"valuesList":{"RsvpResponseMaybe","RsvpResponseNo","RsvpResponseYes"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
+RsvpResponse:: {"type":"Select","options":{"valuesList":{"RsvpResponseMaybe","RsvpResponseNo","RsvpResponseYes"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}} 
 
 
 ## Confidential Links & Embeds: 

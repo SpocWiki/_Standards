@@ -79,7 +79,7 @@ DateModified:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInser
 ### Item
 An entity represented by an entry in a list or data feed (e.g. an 'artist' in a list of 'artists').
 
-Item:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing')"}}
+Item:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing')"}} 
 
 
 ## Confidential Links & Embeds: 

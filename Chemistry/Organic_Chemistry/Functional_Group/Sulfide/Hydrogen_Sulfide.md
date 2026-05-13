@@ -284,4 +284,19 @@ has_formula_structural = `=this.dv_has_formula_structural`
 > [Wikipedia](https://en.wikipedia.org/wiki/Hydrogen%20sulfide) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Functional_Group/Sulfide/Hydrogen_Sulfide|Hydrogen_Sulfide]] 
+
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Functional_Group/Sulfide/Hydrogen_Sulfide.public|Hydrogen_Sulfide.public]] 
+
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Functional_Group/Sulfide/Hydrogen_Sulfide.internal|Hydrogen_Sulfide.internal]] 
+
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Functional_Group/Sulfide/Hydrogen_Sulfide.protect|Hydrogen_Sulfide.protect]] 
+
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Functional_Group/Sulfide/Hydrogen_Sulfide.private|Hydrogen_Sulfide.private]] 
+
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Functional_Group/Sulfide/Hydrogen_Sulfide.personal|Hydrogen_Sulfide.personal]] 
+
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Functional_Group/Sulfide/Hydrogen_Sulfide.secret|Hydrogen_Sulfide.secret]] 
 

@@ -43,7 +43,7 @@ An application programming interface accessible over Web/Internet technologies.
 ### Documentation
 Further documentation describing the Web API in more detail.
 
-Documentation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}
+Documentation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}} 
 
 
 ## Confidential Links & Embeds: 

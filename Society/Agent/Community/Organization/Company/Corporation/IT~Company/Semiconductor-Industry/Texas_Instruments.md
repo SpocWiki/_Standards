@@ -165,7 +165,7 @@ Noyce's chip, made at Fairchild, was made of silicon, while Kilby's chip was mad
 
 The [7400 series](https://en.wikipedia.org/wiki/7400_series "7400 series") of [[TTL(Transistor-Transistor_Logic)]] chips, 
 developed by Texas Instruments in the 1960s, 
-popularized the use of integrated circuits in computer logic.
+popularized the use of integrated circuits in computer logic. 
 
 
 ## Confidential Links & Embeds: 

@@ -53,7 +53,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Capital_Territory_(Honiara)/
 markerFolder: ./Capital_Territory_(Honiara)/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

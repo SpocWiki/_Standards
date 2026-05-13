@@ -47,7 +47,7 @@ aliases:
 | [Planktonic](https://en.wikipedia.org/wiki/Planktonic "Planktonic") [Foraminifera](https://en.wikipedia.org/wiki/Foraminifera "Foraminifera") | Van Valen (1973)        |     7 |
 | Cenozoic [Bivalves](https://en.wikipedia.org/wiki/Bivalves "Bivalves")                                                                        | Raup and Stanley (1978) |    10 |
 | [Echinoderms](https://en.wikipedia.org/wiki/Echinoderms "Echinoderms")                                                                        | Durham (1970)           |     6 |
-| [Silurian](https://en.wikipedia.org/wiki/Silurian "Silurian") [Graptolites](https://en.wikipedia.org/wiki/Graptolites "Graptolites")          | Rickards (1977)         |     2 |
+| [Silurian](https://en.wikipedia.org/wiki/Silurian "Silurian") [Graptolites](https://en.wikipedia.org/wiki/Graptolites "Graptolites")          | Rickards (1977)         |     2 | 
 
 
 ## Confidential Links & Embeds: 

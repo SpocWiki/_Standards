@@ -153,7 +153,7 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/European%20Communities) 
 
 
-1 January 1973
+1 January 1973 
 
 
 ## Confidential Links & Embeds: 

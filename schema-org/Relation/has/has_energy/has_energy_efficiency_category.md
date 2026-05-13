@@ -79,17 +79,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_energy_efficiency_category|has_energy_efficiency_category]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_energy/has_energy_efficiency_category|has_energy_efficiency_category]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_energy_efficiency_category.public|has_energy_efficiency_category.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_energy/has_energy_efficiency_category.public|has_energy_efficiency_category.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_energy_efficiency_category.internal|has_energy_efficiency_category.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_energy/has_energy_efficiency_category.internal|has_energy_efficiency_category.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_energy_efficiency_category.protect|has_energy_efficiency_category.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_energy/has_energy_efficiency_category.protect|has_energy_efficiency_category.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_energy_efficiency_category.private|has_energy_efficiency_category.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_energy/has_energy_efficiency_category.private|has_energy_efficiency_category.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_energy_efficiency_category.personal|has_energy_efficiency_category.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_energy/has_energy_efficiency_category.personal|has_energy_efficiency_category.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_energy_efficiency_category.secret|has_energy_efficiency_category.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_energy/has_energy_efficiency_category.secret|has_energy_efficiency_category.secret]] 
 

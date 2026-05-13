@@ -112,7 +112,7 @@ dv_has_:
 	-   *Sebaldella*
 	-   *Streptobacillus*
 	-   *Sneathia*
-	-   *Cetobacterium ceti*[ (incertae sedis) ]
+	-   *Cetobacterium ceti*[ (incertae sedis) ] 
 
 
 ## Confidential Links & Embeds: 

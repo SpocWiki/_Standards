@@ -1705,7 +1705,7 @@ List of Constituent States with Data of 2024
 
 *Note: Population and GDP figures are based on the most recent data available as of 2024. 
 Sources:
-- [U.S. Bureau of Economic Analysis (BEA)](https://apps.bea.gov/scb/issues/2024/12-december)
+- [U.S. Bureau of Economic Analysis (BEA)](https://apps.bea.gov/scb/issues/2024/12-december) 
 
 
 ## Confidential Links & Embeds: 

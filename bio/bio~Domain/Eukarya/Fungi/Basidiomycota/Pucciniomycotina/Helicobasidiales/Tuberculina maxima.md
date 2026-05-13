@@ -68,7 +68,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md)
   Collector            H. P. Koot
   copyright ::            © 2001 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
  
-  -----------------------------------------------------------------------------
+  ----------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

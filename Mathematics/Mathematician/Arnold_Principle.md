@@ -22,7 +22,7 @@ Discoveries are rarely attributed to the correct person
 > Prof. [M. Berry](https://en.wikipedia.org/wiki/Michael_Berry_\(physicist\) "Michael Berry (physicist)") once formulated the following two principles:
 > 
 > - _The Arnold principle_. If a notion bears a personal name, then this name is not the name of the discoverer.
-> - _The Berry principle_. The Arnold Principle is applicable to itself.
+> - _The Berry principle_. The Arnold Principle is applicable to itself. 
 
 
 ## Confidential Links & Embeds: 

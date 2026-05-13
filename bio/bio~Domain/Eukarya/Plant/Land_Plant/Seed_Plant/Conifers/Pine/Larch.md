@@ -50,7 +50,7 @@ Comments             tamarack
 Acknowledgements     Photograph courtesy InsectImages.org (#1218018)
 specimen_condition ::  Live Specimen
 Source Collection    [InsectImages.org](http://www.insectimages.org/)
-copyright ::            © Bill Cook, Michigan State University
+copyright ::            © Bill Cook, Michigan State University 
 
 
 ## Confidential Links & Embeds: 

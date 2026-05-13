@@ -55,7 +55,7 @@ A peculiar group of salticids currently most commonly collected in
 Madagascar, though known from other areas of Africa and Asia. They have
 distinctive constrictions near the small eyes. Along with the
 spartaeine-like salticids, the hisponines are commonly represented in
-fossils from the Baltic amber.
+fossils from the Baltic amber. 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ The act of editing by adding an object to a collection.
 #class/AddAction
 #class/Thing/Action/UpdateAction/AddAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

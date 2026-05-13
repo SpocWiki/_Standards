@@ -34,7 +34,7 @@ that occupies only part of a building
 #class/Apartment
 #class/Thing/Place/Accommodation/Apartment
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -42,7 +42,7 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md)
   Collection           2002
   copyright ::            © 2002 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
  
-  -----------------------------------------------------------------------------
+  ----------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ A Research project.
 #class/ResearchProject
 #class/Thing/Organization/Project/ResearchProject
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

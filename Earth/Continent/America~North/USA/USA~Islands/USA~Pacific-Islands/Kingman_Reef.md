@@ -57,7 +57,7 @@ geojsonFolder: ./Kingman_Reef/
 markerFolder: ./Kingman_Reef/
 coordinates: [[Kingman_Reef]] 
 markerFile: [[Kingman_Reef]] 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

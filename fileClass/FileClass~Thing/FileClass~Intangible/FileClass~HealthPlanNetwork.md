@@ -62,7 +62,7 @@ HealthPlanNetworkId:: {"type":"Input","options":{}}
 ### HealthPlanNetworkTier
 The tier(s) for this network.
 
-HealthPlanNetworkTier:: {"type":"Input","options":{}}
+HealthPlanNetworkTier:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

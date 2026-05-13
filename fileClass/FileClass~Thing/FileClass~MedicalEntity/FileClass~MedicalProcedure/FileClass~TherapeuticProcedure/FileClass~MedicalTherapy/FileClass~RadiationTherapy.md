@@ -32,7 +32,7 @@ A process of care using radiation aimed at improving a health condition.
 #class/RadiationTherapy
 #class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/RadiationTherapy
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

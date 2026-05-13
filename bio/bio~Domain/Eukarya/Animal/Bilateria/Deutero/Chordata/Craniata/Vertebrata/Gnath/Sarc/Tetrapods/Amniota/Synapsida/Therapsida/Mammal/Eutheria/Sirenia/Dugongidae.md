@@ -197,7 +197,7 @@ scientific_name ::  Hydrodamalis gigas
 location ::        Specimen at the Natural History Museum, London
 Reference         Lankester, E. R. 1905. Extinct Animals. Archibald Constable & Co. Ltd., London
 Body Part         skull
-View              lateral
+View              lateral 
 
 
 ## Confidential Links & Embeds: 

@@ -206,7 +206,7 @@ China and adjacent areas.
 ![](Moschidae/Moschus.jpg) 
 scientific_name ::  Moschidae
 Comments          The Thibetian Musk
-Reference         Sir William Jardine\'s Naturalist\'s Library, Mammalia, 1835
+Reference         Sir William Jardine\'s Naturalist\'s Library, Mammalia, 1835 
 
 
 ## Confidential Links & Embeds: 

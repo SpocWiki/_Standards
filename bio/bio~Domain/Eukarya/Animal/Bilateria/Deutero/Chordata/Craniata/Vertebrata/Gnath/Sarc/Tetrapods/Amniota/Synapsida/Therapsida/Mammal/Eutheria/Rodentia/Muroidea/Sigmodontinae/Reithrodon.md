@@ -231,7 +231,7 @@ unpublished).\
 --------- 
 ![Reithrodon auritus](Reithrodon/reithro.jpg) 
 scientific_name ::  Reithrodon auritus
-copyright ::         © 1997 O. Pearson
+copyright ::         © 1997 O. Pearson 
 
 
 ## Confidential Links & Embeds: 

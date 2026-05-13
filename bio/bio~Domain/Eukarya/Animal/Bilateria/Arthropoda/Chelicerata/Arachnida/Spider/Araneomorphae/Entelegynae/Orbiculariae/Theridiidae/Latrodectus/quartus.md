@@ -76,7 +76,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
   Life Cycle Stage ::     Egg case
   copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
-  ---------------------------------------------------------------------------------------
+  --------------------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

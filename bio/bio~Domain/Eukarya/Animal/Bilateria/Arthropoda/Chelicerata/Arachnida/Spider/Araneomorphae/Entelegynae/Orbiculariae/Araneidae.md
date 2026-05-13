@@ -74,7 +74,7 @@ Containing group:[Orbiculariae](../Orbiculariae.md)
   Life Cycle Stage ::     adult
   copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
-  ---------------------------------------------------------------------------------
+  --------------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

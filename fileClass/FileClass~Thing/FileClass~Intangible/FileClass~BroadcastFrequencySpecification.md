@@ -62,7 +62,7 @@ BroadcastSignalModulation:: {"type":"Input","options":{}}
 ### BroadcastSubChannel
 The subchannel used for the broadcast.
 
-BroadcastSubChannel:: {"type":"Input","options":{}}
+BroadcastSubChannel:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

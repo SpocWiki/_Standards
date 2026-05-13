@@ -118,7 +118,7 @@ Philadelphia 127(2): 13-24.
   ----------
   scientific_name ::  Rana ridibunda
   copyright ::         © 1995 Hansjürg Hotz
-  ----------
+  ---------- 
 
 
 ## Confidential Links & Embeds: 

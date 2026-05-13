@@ -37,7 +37,7 @@ dv_is_same_as:
 | Maastricht Treaty[iv][v]                                                                             | 1992-02-07 | 1993-11-01 |            |
 | [Amsterdam Treaty](https://en.wikipedia.org/wiki/Treaty_of_Amsterdam "Treaty of Amsterdam")          | 1997-10-02 | 1999-05-01 |            |
 | [Nice Treaty](https://en.wikipedia.org/wiki/Treaty_of_Nice "Treaty of Nice")                         | 2001-02-26 | 2003-02-01 |            |
-| Lisbon Treaty[vi]                                                                                    | 2007-12-13 | 2009-12-01 |            |
+| Lisbon Treaty[vi]                                                                                    | 2007-12-13 | 2009-12-01 |            | 
 
 
 ## Confidential Links & Embeds: 

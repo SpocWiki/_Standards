@@ -32,7 +32,7 @@ See LocalBusiness, Organization for more information.
 #class/LocalBusinessAndOrganization
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LocalBusinessAndOrganization
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

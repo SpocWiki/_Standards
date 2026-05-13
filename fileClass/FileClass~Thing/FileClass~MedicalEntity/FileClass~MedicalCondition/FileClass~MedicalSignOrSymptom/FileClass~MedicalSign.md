@@ -48,7 +48,7 @@ IdentifyingExam:: {"type":"Select","options":{"valuesList":{"Abdomen","Appearanc
 ### IdentifyingTest
 A diagnostic test that can identify this sign.
 
-IdentifyingTest:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalTest')"}}
+IdentifyingTest:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalTest')"}} 
 
 
 ## Confidential Links & Embeds: 

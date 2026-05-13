@@ -32,7 +32,7 @@ Printed music, as opposed to performed or recorded music.
 #class/SheetMusic
 #class/Thing/CreativeWork/SheetMusic
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -144,7 +144,7 @@ copyright ::            © [Missouri Botanical Garden (MO)](http://www.mobot.org
 ![Hemigraphis_repanda](Hemigraphis/Hemigraphis_repanda.jpg) 
 scientific_name ::     Hemigraphis repanda Lindau
 specimen_condition ::  Live Specimen
-copyright ::            © 2005 [www.akva.sk](http://www.shop.akva.sk/index.php?cPath=32)
+copyright ::            © 2005 [www.akva.sk](http://www.shop.akva.sk/index.php?cPath=32) 
 
 
 ## Confidential Links & Embeds: 

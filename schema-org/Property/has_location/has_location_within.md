@@ -96,7 +96,7 @@ has_range = `=this.dv_has_range`
 but all these are too granular and create unnecessary Redundancy. 
 
 We are using this Relation exclusively, because there is typically only one (smallest) Geometry covering/containing another, so that it lies within it, especially politically. 
-The Reverse Relation typically has multiple Values.
+The Reverse Relation typically has multiple Values. 
 
 
 ## Confidential Links & Embeds: 

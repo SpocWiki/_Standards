@@ -47,7 +47,7 @@ Related actions:
 ### Question
 A sub property of object. A question.
 
-Question:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Comment/Question')"}}
+Question:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Comment/Question')"}} 
 
 
 ## Confidential Links & Embeds: 

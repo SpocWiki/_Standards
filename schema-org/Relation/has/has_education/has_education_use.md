@@ -93,17 +93,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_education_use|has_education_use]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_education/has_education_use|has_education_use]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_education_use.public|has_education_use.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_education/has_education_use.public|has_education_use.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_education_use.internal|has_education_use.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_education/has_education_use.internal|has_education_use.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_education_use.protect|has_education_use.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_education/has_education_use.protect|has_education_use.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_education_use.private|has_education_use.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_education/has_education_use.private|has_education_use.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_education_use.personal|has_education_use.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_education/has_education_use.personal|has_education_use.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_education_use.secret|has_education_use.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_education/has_education_use.secret|has_education_use.secret]] 
 

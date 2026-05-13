@@ -320,7 +320,7 @@ type: private_note
 
 ### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Bhagavad_Gita.public|Bhagavad_Gita.public]] 
 
-### #is_/same_as :: [[../../../../../../../assets/Books/Philosophy/SelfDevelopment/Butler-Bowdon,Tom/Butler-Bowdon~Self-Help/Butler-Bowdon~Transforming_yourself/Bhagavad_Gita.internal|Bhagavad_Gita.internal]]  
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Bhagavad_Gita.internal|Bhagavad_Gita.internal]] 
 
 ### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Bhagavad_Gita.protect|Bhagavad_Gita.protect]] 
 

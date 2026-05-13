@@ -158,7 +158,7 @@ dv_has_:
 ----------
 Diplocentrus whitei.
 Photograph copyright © 1985, Scott A. Stockwell.![Diplocentrus whitei](Diplocentridae/diplocentridae.jpg))
-copyright ::   © 1985 Scott A. Stockwell
+copyright ::   © 1985 Scott A. Stockwell 
 
 
 ## Confidential Links & Embeds: 

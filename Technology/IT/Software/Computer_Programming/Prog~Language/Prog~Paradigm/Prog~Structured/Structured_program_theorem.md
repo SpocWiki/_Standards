@@ -32,7 +32,7 @@ The construction was based on Böhm's programming language P′′.
 
 The theorem forms the basis of structured programming, 
 a programming paradigm which eschew[[../Prog~Imperative/GOTO-Statement|GOTO-Statement]]]]s  
-and exclusively uses subroutines, sequences, selection and iteration.
+and exclusively uses subroutines, sequences, selection and iteration. 
 
 
 ## Confidential Links & Embeds: 

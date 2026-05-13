@@ -277,7 +277,7 @@ scientific_name ::  Galago senegalensis
 location ::        Okavango Delta (Machaba), Botswana
 Comments          Lesser bushbaby
 copyright ::         © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
-------------------------------------------------------------------------------
+------------------------------------------------------------------------------ 
 
 
 ## Confidential Links & Embeds: 

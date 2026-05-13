@@ -72,7 +72,7 @@ dv_has_:
 ----------
 Superstitionia donensis.
 Photograph copyright © 1988, Scott A. Stockwell.![Superstitionia donensis](Superstitionidae/superstitionidae.jpg))
-copyright ::   © 1988 Scott A. Stockwell
+copyright ::   © 1988 Scott A. Stockwell 
 
 
 ## Confidential Links & Embeds: 

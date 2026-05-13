@@ -155,17 +155,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/CGPM(General_Conference_on_Weights_and_Measures)|CGPM(General_Conference_on_Weights_and_Measures)]] 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measure/SI-Unit/CGPM(General_Conference_on_Weights_and_Measures)|CGPM(General_Conference_on_Weights_and_Measures)]] 
 
-### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/CGPM(General_Conference_on_Weights_and_Measures).public|CGPM(General_Conference_on_Weights_and_Measures).public]] 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measure/SI-Unit/CGPM(General_Conference_on_Weights_and_Measures).public|CGPM(General_Conference_on_Weights_and_Measures).public]] 
 
-### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/CGPM(General_Conference_on_Weights_and_Measures).internal|CGPM(General_Conference_on_Weights_and_Measures).internal]] 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measure/SI-Unit/CGPM(General_Conference_on_Weights_and_Measures).internal|CGPM(General_Conference_on_Weights_and_Measures).internal]] 
 
-### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/CGPM(General_Conference_on_Weights_and_Measures).protect|CGPM(General_Conference_on_Weights_and_Measures).protect]] 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measure/SI-Unit/CGPM(General_Conference_on_Weights_and_Measures).protect|CGPM(General_Conference_on_Weights_and_Measures).protect]] 
 
-### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/CGPM(General_Conference_on_Weights_and_Measures).private|CGPM(General_Conference_on_Weights_and_Measures).private]] 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measure/SI-Unit/CGPM(General_Conference_on_Weights_and_Measures).private|CGPM(General_Conference_on_Weights_and_Measures).private]] 
 
-### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/CGPM(General_Conference_on_Weights_and_Measures).personal|CGPM(General_Conference_on_Weights_and_Measures).personal]] 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measure/SI-Unit/CGPM(General_Conference_on_Weights_and_Measures).personal|CGPM(General_Conference_on_Weights_and_Measures).personal]] 
 
-### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/CGPM(General_Conference_on_Weights_and_Measures).secret|CGPM(General_Conference_on_Weights_and_Measures).secret]] 
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measure/SI-Unit/CGPM(General_Conference_on_Weights_and_Measures).secret|CGPM(General_Conference_on_Weights_and_Measures).secret]] 
 

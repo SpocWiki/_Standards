@@ -47,3 +47,21 @@ aliases:
 
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Florence+the_Machine|Florence+the_Machine]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Florence+the_Machine.public|Florence+the_Machine.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Florence+the_Machine.internal|Florence+the_Machine.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Florence+the_Machine.protect|Florence+the_Machine.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Florence+the_Machine.private|Florence+the_Machine.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Florence+the_Machine.personal|Florence+the_Machine.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Florence+the_Machine.secret|Florence+the_Machine.secret]] 

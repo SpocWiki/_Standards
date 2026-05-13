@@ -12,7 +12,7 @@ Katakana Script is used in [[../../Earth/Continent/Asia/Asia~East/Japan|Japan]].
     - Kanji Script: ja-Jpan
     - Hiragana Script: ja-Hira
     - Katakana Script: ja-Kana
-    - Latin Script (Transcription): ja-Latn
+    - Latin Script (Transcription): ja-Latn 
 
 
 ## Confidential Links & Embeds: 

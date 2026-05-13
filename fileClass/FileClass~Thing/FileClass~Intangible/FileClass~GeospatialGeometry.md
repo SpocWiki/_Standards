@@ -142,7 +142,7 @@ GeoTouches:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Th
 ### GeoWithin
 Represents a relationship between two geometries (or the places they represent), relating a geometry to one that contains it, i.e. it is inside (i.e. within) its interior. As defined in [DE-9IM](https://en.wikipedia.org/wiki/DE-9IM).
 
-GeoWithin:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/GeospatialGeometry')"}}
+GeoWithin:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/GeospatialGeometry')"}} 
 
 
 ## Confidential Links & Embeds: 

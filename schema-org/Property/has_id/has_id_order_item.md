@@ -74,17 +74,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_id_order_item|has_id_order_item]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_id/has_id_order_item|has_id_order_item]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_id_order_item.public|has_id_order_item.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_id/has_id_order_item.public|has_id_order_item.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_id_order_item.internal|has_id_order_item.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_id/has_id_order_item.internal|has_id_order_item.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_id_order_item.protect|has_id_order_item.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_id/has_id_order_item.protect|has_id_order_item.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_id_order_item.private|has_id_order_item.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_id/has_id_order_item.private|has_id_order_item.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_id_order_item.personal|has_id_order_item.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_id/has_id_order_item.personal|has_id_order_item.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_id_order_item.secret|has_id_order_item.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_id/has_id_order_item.secret|has_id_order_item.secret]] 
 

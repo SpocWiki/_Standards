@@ -79,19 +79,20 @@ has_range = `=this.dv_has_range`
 
 has_parent_property = `=this.dv_has_parent_property` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_recipe_instructions|has_recipe_instructions]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_recipe/has_recipe_instructions|has_recipe_instructions]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_recipe_instructions.public|has_recipe_instructions.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_recipe/has_recipe_instructions.public|has_recipe_instructions.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_recipe_instructions.internal|has_recipe_instructions.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_recipe/has_recipe_instructions.internal|has_recipe_instructions.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_recipe_instructions.protect|has_recipe_instructions.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_recipe/has_recipe_instructions.protect|has_recipe_instructions.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_recipe_instructions.private|has_recipe_instructions.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_recipe/has_recipe_instructions.private|has_recipe_instructions.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_recipe_instructions.personal|has_recipe_instructions.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_recipe/has_recipe_instructions.personal|has_recipe_instructions.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_recipe_instructions.secret|has_recipe_instructions.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_recipe/has_recipe_instructions.secret|has_recipe_instructions.secret]] 
 

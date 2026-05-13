@@ -78,17 +78,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_associated_article|has_associated_article]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_associated/has_associated_article|has_associated_article]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_associated_article.public|has_associated_article.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_associated/has_associated_article.public|has_associated_article.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_associated_article.internal|has_associated_article.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_associated/has_associated_article.internal|has_associated_article.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_associated_article.protect|has_associated_article.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_associated/has_associated_article.protect|has_associated_article.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_associated_article.private|has_associated_article.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_associated/has_associated_article.private|has_associated_article.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_associated_article.personal|has_associated_article.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_associated/has_associated_article.personal|has_associated_article.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_associated_article.secret|has_associated_article.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_associated/has_associated_article.secret|has_associated_article.secret]] 
 

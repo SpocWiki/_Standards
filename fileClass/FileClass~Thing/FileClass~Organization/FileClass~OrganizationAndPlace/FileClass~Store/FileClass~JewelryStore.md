@@ -32,7 +32,7 @@ A jewelry store.
 #class/JewelryStore
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/JewelryStore
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

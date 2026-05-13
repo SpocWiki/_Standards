@@ -98,7 +98,7 @@ European Journal of Protistology 32:423-448.
   scientific_name ::  Ancyromonas sigmoides
   Comments          Scanning electron micrograph
   copyright ::         © 2000 Michael S. Atkins and O. Roger Anderson
-  ------------------
+  ------------------ 
 
 
 ## Confidential Links & Embeds: 

@@ -75,17 +75,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_child_stage_suffix|has_child_stage_suffix]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_sub_stage_suffix|has_sub_stage_suffix]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_child_stage_suffix.public|has_child_stage_suffix.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_sub_stage_suffix.public|has_sub_stage_suffix.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_child_stage_suffix.internal|has_child_stage_suffix.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_sub_stage_suffix.internal|has_sub_stage_suffix.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_child_stage_suffix.protect|has_child_stage_suffix.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_sub_stage_suffix.protect|has_sub_stage_suffix.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_child_stage_suffix.private|has_child_stage_suffix.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_sub_stage_suffix.private|has_sub_stage_suffix.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_child_stage_suffix.personal|has_child_stage_suffix.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_sub_stage_suffix.personal|has_sub_stage_suffix.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_child_stage_suffix.secret|has_child_stage_suffix.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_sub_stage_suffix.secret|has_sub_stage_suffix.secret]] 
 

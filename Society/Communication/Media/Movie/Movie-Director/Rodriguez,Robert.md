@@ -157,3 +157,21 @@ name_in_native_language: Robert Rodriguez
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Rodriguez)  
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Rodriguez,Robert|Rodriguez,Robert]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Rodriguez,Robert.public|Rodriguez,Robert.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Rodriguez,Robert.internal|Rodriguez,Robert.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Rodriguez,Robert.protect|Rodriguez,Robert.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Rodriguez,Robert.private|Rodriguez,Robert.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Rodriguez,Robert.personal|Rodriguez,Robert.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Rodriguez,Robert.secret|Rodriguez,Robert.secret]] 

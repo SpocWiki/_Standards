@@ -43,7 +43,7 @@ A 3D model represents some kind of 3D content, which may have [[../../../../Tech
 ### IsResizable
 Whether the 3DModel allows resizing. For example, room layout applications often do not allow 3DModel elements to be resized to reflect reality.
 
-IsResizable:: {"type":"Boolean","options":{}}
+IsResizable:: {"type":"Boolean","options":{}} 
 
 
 ## Confidential Links & Embeds: 

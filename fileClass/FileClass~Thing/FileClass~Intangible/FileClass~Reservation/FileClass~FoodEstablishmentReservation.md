@@ -72,7 +72,7 @@ The startTime of something. For a reserved event or service (e.g. FoodEstablishm
 
 Note that Event uses startDate/endDate instead of startTime/endTime, even when describing dates with times. This situation may be clarified in future revisions.
 
-StartTime:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
+StartTime:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}} 
 
 
 ## Confidential Links & Embeds: 

@@ -54,7 +54,7 @@ aliases:
 
 [Masatoshi Shima](https://en.wikipedia.org/wiki/Masatoshi_Shima "Masatoshi Shima"), who also worked with Faggin on the 4004 and 8080 at [[Intel]], 
 joined Zilog in 1975. 
-Ungermann had a falling-out with [[Exxon]] and left Zilog in 1978.
+Ungermann had a falling-out with [[Exxon]] and left Zilog in 1978. 
 
 
 ## Confidential Links & Embeds: 

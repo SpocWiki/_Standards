@@ -172,17 +172,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Quinn,Anthony|Quinn,Anthony]] 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Quinn,Anthony|Quinn,Anthony]] 
 
-### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Quinn,Anthony.public|Quinn,Anthony.public]] 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Quinn,Anthony.public|Quinn,Anthony.public]] 
 
-### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Quinn,Anthony.internal|Quinn,Anthony.internal]] 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Quinn,Anthony.internal|Quinn,Anthony.internal]] 
 
-### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Quinn,Anthony.protect|Quinn,Anthony.protect]] 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Quinn,Anthony.protect|Quinn,Anthony.protect]] 
 
-### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Quinn,Anthony.private|Quinn,Anthony.private]] 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Quinn,Anthony.private|Quinn,Anthony.private]] 
 
-### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Quinn,Anthony.personal|Quinn,Anthony.personal]] 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Quinn,Anthony.personal|Quinn,Anthony.personal]] 
 
-### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Quinn,Anthony.secret|Quinn,Anthony.secret]] 
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Quinn,Anthony.secret|Quinn,Anthony.secret]] 
 

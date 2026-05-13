@@ -134,9 +134,7 @@ Containing group: [Virus](../Virus.md)
   Comments             Electron micrograph of a Vaccinia Virus. Vaccinia virus is normally confined to cattle, but is conveyed to humans through vaccination, thereby, imparting immunity to the smallpox virus.
   Creator              CDC/Dr. Fred Murphy/Sylvia Whitfield
   specimen_condition ::  Dead Specimen
-  Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
-
-  
+  Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp) 
 
 
 ## Confidential Links & Embeds: 

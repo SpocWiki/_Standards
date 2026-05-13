@@ -230,7 +230,7 @@ has_name_la = `=this.dv_has_name_la`
 has_name_la_genitive = `=this.dv_has_name_la_genitive` 
 has_name_de = `=this.dv_has_name_de` 
 
-#is_/same_as :: [[../../WikiData/WD~Centaurus,8844|WD~Centaurus,8844]]  
+#is_/same_as :: [[../../WikiData/WD~Centaurus,8844|WD~Centaurus,8844]] 
 
 
 ## Confidential Links & Embeds: 

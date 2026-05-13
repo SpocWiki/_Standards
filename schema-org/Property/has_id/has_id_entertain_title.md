@@ -87,19 +87,20 @@ has_range = `=this.dv_has_range`
 
 has_parent_property = `=this.dv_has_parent_property` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_id_entertain_title|has_id_entertain_title]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_id/has_id_entertain_title|has_id_entertain_title]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_id_entertain_title.public|has_id_entertain_title.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_id/has_id_entertain_title.public|has_id_entertain_title.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_id_entertain_title.internal|has_id_entertain_title.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_id/has_id_entertain_title.internal|has_id_entertain_title.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_id_entertain_title.protect|has_id_entertain_title.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_id/has_id_entertain_title.protect|has_id_entertain_title.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_id_entertain_title.private|has_id_entertain_title.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_id/has_id_entertain_title.private|has_id_entertain_title.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_id_entertain_title.personal|has_id_entertain_title.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_id/has_id_entertain_title.personal|has_id_entertain_title.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_id_entertain_title.secret|has_id_entertain_title.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_id/has_id_entertain_title.secret|has_id_entertain_title.secret]] 
 

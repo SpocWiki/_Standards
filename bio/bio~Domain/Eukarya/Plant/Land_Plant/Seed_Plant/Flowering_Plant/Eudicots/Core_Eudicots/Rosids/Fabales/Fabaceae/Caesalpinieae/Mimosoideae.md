@@ -239,7 +239,7 @@ copyright ::            © [Greg and Marybeth Dimijian](http://www.dimijianimage
 ![](Mimosoideae/67.jpg) 
 scientific_name ::     Mimosa pudica Mill.
 specimen_condition ::  Live Specimen
-copyright ::            © [Loison Bernard](http://www.mytho-fleurs.com/images/jardins_botaniques/serre%20mabundu/mimosa%20pudica-sensitive.jpg)
+copyright ::            © [Loison Bernard](http://www.mytho-fleurs.com/images/jardins_botaniques/serre%20mabundu/mimosa%20pudica-sensitive.jpg) 
 
 
 ## Confidential Links & Embeds: 

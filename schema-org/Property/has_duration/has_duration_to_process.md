@@ -68,17 +68,17 @@ range = `=this.dv_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_duration_to_process|has_duration_to_process]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_duration/has_duration_to_process|has_duration_to_process]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_duration_of/has_duration_to_process.public|has_duration_to_process.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_duration/has_duration_to_process.public|has_duration_to_process.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_duration_of/has_duration_to_process.internal|has_duration_to_process.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_duration/has_duration_to_process.internal|has_duration_to_process.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_duration_of/has_duration_to_process.protect|has_duration_to_process.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_duration/has_duration_to_process.protect|has_duration_to_process.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_duration_of/has_duration_to_process.private|has_duration_to_process.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_duration/has_duration_to_process.private|has_duration_to_process.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_duration_of/has_duration_to_process.personal|has_duration_to_process.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_duration/has_duration_to_process.personal|has_duration_to_process.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_duration_of/has_duration_to_process.secret|has_duration_to_process.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_duration/has_duration_to_process.secret|has_duration_to_process.secret]] 
 

@@ -371,7 +371,7 @@ type: private_note
   Body Part            whole
   copyright ::            © 2006 [David Bygott](mailto:davidbygott@yahoo.com) 
  
-  -------------------------------------------------------------------------
+  ------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 
@@ -389,8 +389,6 @@ type: private_note
 ### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Gorilla.personal|Gorilla.personal]] 
 
 ### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Gorilla.secret|Gorilla.secret]] 
-
-
 # [[Gorilla]] 
 
 #is_/part_of :: [[Gorilla]] 

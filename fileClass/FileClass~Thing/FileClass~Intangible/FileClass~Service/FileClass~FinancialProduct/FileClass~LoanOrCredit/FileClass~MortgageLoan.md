@@ -53,7 +53,7 @@ DomiciledMortgage:: {"type":"Boolean","options":{}}
 ### LoanMortgageMandateAmount
 Amount of mortgage mandate that can be converted into a proper mortgage at a later stage.
 
-LoanMortgageMandateAmount:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')"}}
+LoanMortgageMandateAmount:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')"}} 
 
 
 ## Confidential Links & Embeds: 

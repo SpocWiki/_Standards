@@ -91,7 +91,7 @@ Rc::strong_count(&rc);
 Rc::weak_count(&rc);  
 *(rc.borrow_mut()) += 9; //can be shared e.g. with a structure AND can be modified.  
 Rc::downgrade(&rc);
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

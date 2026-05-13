@@ -32,7 +32,7 @@ Any complaint sensed and expressed by the patient (therefore defined as subjecti
 #class/MedicalSymptom
 #class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom/MedicalSymptom
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

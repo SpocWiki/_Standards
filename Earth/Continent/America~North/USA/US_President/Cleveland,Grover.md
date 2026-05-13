@@ -256,7 +256,7 @@ has_time_stopped = `=this.dv_has_time_stopped`
 is_member_of = `=this.dv_is_member_of`]] ] 
 
 -   [has_role :: [[../US_President|US_President]] ] [created:: 1885-03-04]  [cancelled:: 1889-03-04]  
--   [has_role :: [[../US_President|US_President]] ] [created:: 1893-03-04]  [cancelled:: 1897-03-04]  
+-   [has_role :: [[../US_President|US_President]] ] [created:: 1893-03-04]  [cancelled:: 1897-03-04] 
 
 
 ## Confidential Links & Embeds: 

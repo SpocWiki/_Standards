@@ -308,9 +308,7 @@ ancestor and the earliest events in metazoan evolution.
   scientific_name ::     Proterospongia sp.
   specimen_condition ::  Live Specimen
   Life Cycle Stage ::     Colony
-  copyright ::            © 2006 [King Lab](mailto:srfairclough@berkeley.edu)
-
-  
+  copyright ::            © 2006 [King Lab](mailto:srfairclough@berkeley.edu) 
 
 
 ## Confidential Links & Embeds: 

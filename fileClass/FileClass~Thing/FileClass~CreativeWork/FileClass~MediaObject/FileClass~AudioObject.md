@@ -63,7 +63,7 @@ EmbeddedTextCaption:: {"type":"Input","options":{}}
 ### Transcript
 If this MediaObject is an AudioObject or VideoObject, the transcript of that object.
 
-Transcript:: {"type":"Input","options":{}}
+Transcript:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

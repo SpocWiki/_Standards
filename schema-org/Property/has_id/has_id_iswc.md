@@ -73,17 +73,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_id_iswc|has_id_iswc]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_id/has_id_iswc|has_id_iswc]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_id_iswc.public|has_id_iswc.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_id/has_id_iswc.public|has_id_iswc.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_id_iswc.internal|has_id_iswc.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_id/has_id_iswc.internal|has_id_iswc.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_id_iswc.protect|has_id_iswc.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_id/has_id_iswc.protect|has_id_iswc.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_id_iswc.private|has_id_iswc.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_id/has_id_iswc.private|has_id_iswc.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_id_iswc.personal|has_id_iswc.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_id/has_id_iswc.personal|has_id_iswc.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_id_iswc.secret|has_id_iswc.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_id/has_id_iswc.secret|has_id_iswc.secret]] 
 

@@ -85,21 +85,22 @@ Relation describes that:
 
 has_domain = `=this.dv_has_domain` 
 has_name = `=this.dv_has_name`  
-has_range = `=this.dv_has_range`  
+has_range = `=this.dv_has_range` 
+
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_associated_review|has_associated_review]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_associated/has_associated_review|has_associated_review]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_associated_review.public|has_associated_review.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_associated/has_associated_review.public|has_associated_review.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_associated_review.internal|has_associated_review.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_associated/has_associated_review.internal|has_associated_review.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_associated_review.protect|has_associated_review.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_associated/has_associated_review.protect|has_associated_review.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_associated_review.private|has_associated_review.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_associated/has_associated_review.private|has_associated_review.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_associated_review.personal|has_associated_review.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_associated/has_associated_review.personal|has_associated_review.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_associated_review.secret|has_associated_review.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_associated/has_associated_review.secret|has_associated_review.secret]] 
 

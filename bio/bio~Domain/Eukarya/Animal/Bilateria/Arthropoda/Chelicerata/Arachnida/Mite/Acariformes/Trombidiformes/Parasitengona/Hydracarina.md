@@ -245,7 +245,7 @@ been published, although several are in progress.
 Australia. Photograph copyright © H. Proctor, 1998
 
 ![hydrodroma](Hydracarina/hydrodroma.jpg)
-copyright ::   © 1998 H. Proctor
+copyright ::   © 1998 H. Proctor 
 
 
 ## Confidential Links & Embeds: 

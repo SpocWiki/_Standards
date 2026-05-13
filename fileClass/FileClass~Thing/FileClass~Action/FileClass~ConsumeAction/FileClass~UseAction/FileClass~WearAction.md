@@ -32,7 +32,7 @@ The act of dressing oneself in clothing.
 #class/WearAction
 #class/Thing/Action/ConsumeAction/UseAction/WearAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

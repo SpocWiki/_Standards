@@ -81,17 +81,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_payload_kg|has_value_for_payload_kg]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_weight_of_payload|has_value_for_weight_of_payload]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_payload_kg.public|has_value_for_payload_kg.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_weight_of_payload.public|has_value_for_weight_of_payload.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_payload_kg.internal|has_value_for_payload_kg.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_weight_of_payload.internal|has_value_for_weight_of_payload.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_payload_kg.protect|has_value_for_payload_kg.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_weight_of_payload.protect|has_value_for_weight_of_payload.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_payload_kg.private|has_value_for_payload_kg.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_weight_of_payload.private|has_value_for_weight_of_payload.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_payload_kg.personal|has_value_for_payload_kg.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_weight_of_payload.personal|has_value_for_weight_of_payload.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_payload_kg.secret|has_value_for_payload_kg.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_weight_of_payload.secret|has_value_for_weight_of_payload.secret]] 
 

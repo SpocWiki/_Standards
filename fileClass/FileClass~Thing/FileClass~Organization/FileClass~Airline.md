@@ -47,7 +47,7 @@ BoardingPolicy:: {"type":"Select","options":{"valuesList":{"GroupBoardingPolicy"
 ### IataCode
 IATA identifier for an airline or airport.
 
-IataCode:: {"type":"Input","options":{}}
+IataCode:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

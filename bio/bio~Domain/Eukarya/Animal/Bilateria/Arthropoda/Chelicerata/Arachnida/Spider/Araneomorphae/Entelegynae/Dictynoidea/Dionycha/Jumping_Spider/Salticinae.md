@@ -219,7 +219,7 @@ scientific_name ::     Salticus palpalis
 specimen_condition ::  Live Specimen
 Sex ::                Female
 copyright ::            © 1994-1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 
-------------------------------------------------------------------------------
+------------------------------------------------------------------------------ 
 
 
 ## Confidential Links & Embeds: 

@@ -80,17 +80,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_energy_efficiency_scale_max|has_energy_efficiency_scale_max]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_energy/has_energy_efficiency_scale_max|has_energy_efficiency_scale_max]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_energy_efficiency_scale_max.public|has_energy_efficiency_scale_max.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_energy/has_energy_efficiency_scale_max.public|has_energy_efficiency_scale_max.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_energy_efficiency_scale_max.internal|has_energy_efficiency_scale_max.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_energy/has_energy_efficiency_scale_max.internal|has_energy_efficiency_scale_max.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_energy_efficiency_scale_max.protect|has_energy_efficiency_scale_max.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_energy/has_energy_efficiency_scale_max.protect|has_energy_efficiency_scale_max.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_energy_efficiency_scale_max.private|has_energy_efficiency_scale_max.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_energy/has_energy_efficiency_scale_max.private|has_energy_efficiency_scale_max.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_energy_efficiency_scale_max.personal|has_energy_efficiency_scale_max.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_energy/has_energy_efficiency_scale_max.personal|has_energy_efficiency_scale_max.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_energy_efficiency_scale_max.secret|has_energy_efficiency_scale_max.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_energy/has_energy_efficiency_scale_max.secret|has_energy_efficiency_scale_max.secret]] 
 

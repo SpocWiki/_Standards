@@ -32,7 +32,7 @@ A statement about something, for example a fun or interesting fact. If known, th
 #class/Statement
 #class/Thing/CreativeWork/Statement
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

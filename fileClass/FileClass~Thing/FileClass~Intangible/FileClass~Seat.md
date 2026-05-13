@@ -72,7 +72,7 @@ SeatSection:: {"type":"Input","options":{}}
 ### SeatingType
 The type/class of the seat.
 
-SeatingType:: {"type":"Input","options":{}}
+SeatingType:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

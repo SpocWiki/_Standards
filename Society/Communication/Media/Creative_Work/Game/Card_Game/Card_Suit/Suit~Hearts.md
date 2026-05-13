@@ -45,3 +45,21 @@ Unicode_character: ♥
 > [Wikipedia](https://en.wikipedia.org/wiki/Hearts%20(suit))  
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit/Suit~Hearts|Suit~Hearts]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit/Suit~Hearts.public|Suit~Hearts.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit/Suit~Hearts.internal|Suit~Hearts.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit/Suit~Hearts.protect|Suit~Hearts.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit/Suit~Hearts.private|Suit~Hearts.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit/Suit~Hearts.personal|Suit~Hearts.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit/Suit~Hearts.secret|Suit~Hearts.secret]] 

@@ -97,7 +97,7 @@ Vecchione, M. and R. E. Young. 2006. The squid family Magnapinnidae
   Size                 95 mm ML
   copyright ::            © [Michael Vecchione](mailto:vecchiom@si.edu) 
  
-  -----------------------------------------------------------------------
+  ----------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

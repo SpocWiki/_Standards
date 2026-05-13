@@ -32,7 +32,7 @@ A canal, like the Panama Canal.
 #class/Canal
 #class/Thing/Place/Landform/BodyOfWater/Canal
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

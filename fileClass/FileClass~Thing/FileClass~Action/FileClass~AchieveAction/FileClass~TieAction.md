@@ -32,7 +32,7 @@ The act of reaching a draw in a competitive activity.
 #class/TieAction
 #class/Thing/Action/AchieveAction/TieAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

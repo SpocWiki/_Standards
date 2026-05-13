@@ -131,7 +131,7 @@ copyright ::            © 2006 [Erin Tripp](mailto:erin.tripp@duke.edu)
 ![](Brillantaisia/Brillantasiaowariensis.jpg) 
 scientific_name ::     Brillantaisia owariensis P. Beauv.
 specimen_condition ::  Live Specimen
-copyright ::            © 2003 [J. B. Carroll, M. Gage, L. Hurst & N. Maddison](http://www.rbgkew.org.uk/scihort/wta/mefou.html)
+copyright ::            © 2003 [J. B. Carroll, M. Gage, L. Hurst & N. Maddison](http://www.rbgkew.org.uk/scihort/wta/mefou.html) 
 
 
 ## Confidential Links & Embeds: 

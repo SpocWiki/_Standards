@@ -37,7 +37,8 @@ A type of medical procedure that involves percutaneous techniques, where access 
 
 #has_/parent_class :: [[../MedicalProcedureType|MedicalProcedureType]]  
 
-#is_/enum_of :: [[../MedicalProcedureType|MedicalProcedureType]]  
+#is_/enum_of :: [[../MedicalProcedureType|MedicalProcedureType]] 
+
 
 ## Confidential Links & Embeds: 
 

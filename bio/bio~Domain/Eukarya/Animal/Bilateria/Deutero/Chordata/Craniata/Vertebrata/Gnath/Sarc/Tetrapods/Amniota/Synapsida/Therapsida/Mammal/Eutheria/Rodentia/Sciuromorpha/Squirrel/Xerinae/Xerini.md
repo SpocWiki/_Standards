@@ -191,7 +191,7 @@ scientific_name ::     Xerus
 Comments             African ground squirrel
 Creator              Photograph by Gary M. Stolz
 Acknowledgements     Photograph courtesy of the U.S. Fish and Wildlife Service
-specimen_condition ::  Live Specimen
+specimen_condition ::  Live Specimen 
 
 
 ## Confidential Links & Embeds: 

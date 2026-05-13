@@ -268,7 +268,7 @@ For more information, you can refer to reliable sources such as:
 
 1. "Equidae" - Encyclopædia Britannica: [https://www.britannica.com/animal/Equidae](https://www.britannica.com/animal/Equidae)
 2. "Horses, Zebras, and Asses" - National Geographic: [https://www.nationalgeographic.com/Animal/mammals/facts/horses-zebras-and-donkeys](https://www.nationalgeographic.com/Animal/mammals/facts/horses-zebras-and-donkeys)
-3. "Evolutionary History of the Equidae" - ScienceDirect: [https://www.sciencedirect.com/science/article/pii/B9780124095489092648](https://www.sciencedirect.com/science/article/pii/B9780124095489092648)
+3. "Evolutionary History of the Equidae" - ScienceDirect: [https://www.sciencedirect.com/science/article/pii/B9780124095489092648](https://www.sciencedirect.com/science/article/pii/B9780124095489092648) 
 
 
 ## Confidential Links & Embeds: 

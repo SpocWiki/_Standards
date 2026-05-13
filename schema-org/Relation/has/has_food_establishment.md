@@ -80,6 +80,7 @@ has_domain = `=this.dv_has_domain`
 has_name = `=this.dv_has_name` 
 (has_/range :: `=this.dv_has_range` ) 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_food_establishment|has_food_establishment]] 

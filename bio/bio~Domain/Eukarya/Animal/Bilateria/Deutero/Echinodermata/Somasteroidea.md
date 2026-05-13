@@ -287,7 +287,7 @@ location ::           from south France
 Reference            After Spencer, W.K. 1951. Early Paleozoic starfish. Phil. Trans. R. Soc. Lond., ser. B 235:87-129.
 specimen_condition ::  Fossil \-- Period: Lower Ordovician, Tremadoc-Early Arenig
 Body Part            ventral side showing schematic of oral test
-copyright ::            © 1951 Royal Society of London
+copyright ::            © 1951 Royal Society of London 
 
 
 ## Confidential Links & Embeds: 

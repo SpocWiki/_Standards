@@ -32,7 +32,7 @@ The act of manipulating/administering/supervising/controlling one or more object
 #class/OrganizeAction
 #class/Thing/Action/OrganizeAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

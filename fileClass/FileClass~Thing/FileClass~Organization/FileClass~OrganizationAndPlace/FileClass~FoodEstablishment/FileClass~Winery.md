@@ -32,7 +32,7 @@ A winery.
 #class/Winery
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Winery
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -197,7 +197,7 @@ der Plankton-Expedition der Humboldt-Stiftung. 2: 1-815.
   View                 Ventral/dorsal
   Size                 16 mm ML
   Type                 Syntype
-  ------------
+  ------------ 
 
 
 ## Confidential Links & Embeds: 

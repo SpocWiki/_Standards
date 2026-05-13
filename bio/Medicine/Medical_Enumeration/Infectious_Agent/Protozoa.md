@@ -38,7 +38,8 @@ Single-celled organism that causes an infection.
 
 #has_/parent_class :: [[../InfectiousAgentClass|InfectiousAgentClass]]  
 
-#is_/enum_of :: [[../InfectiousAgentClass|InfectiousAgentClass]]  
+#is_/enum_of :: [[../InfectiousAgentClass|InfectiousAgentClass]] 
+
 
 ## Confidential Links & Embeds: 
 

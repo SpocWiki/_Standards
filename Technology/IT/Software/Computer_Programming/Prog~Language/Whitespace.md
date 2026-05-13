@@ -136,7 +136,7 @@ XML has the broadest Definition of Unicode Whitespace Characters:
 | [zero width non-joiner](https://en.wikipedia.org/wiki/Zero_width_non-joiner "Zero width non-joiner") |     |
 | [zero width joiner](https://en.wikipedia.org/wiki/Zero_width_joiner "Zero width joiner")             |     |
 | [word joiner](https://en.wikipedia.org/wiki/Word_joiner "Word joiner")                               |     |
-| [zero width non-breaking space](https://en.wikipedia.org/wiki/Word_joiner "Word joiner")             |     |
+| [zero width non-breaking space](https://en.wikipedia.org/wiki/Word_joiner "Word joiner")             |     | 
 
 
 ## Confidential Links & Embeds: 

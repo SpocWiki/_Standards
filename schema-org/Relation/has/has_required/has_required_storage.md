@@ -82,17 +82,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_required_storage|has_storage_requirements]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_required/has_required_storage|has_required_storage]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_storage_requirements.public|has_storage_requirements.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_required/has_required_storage.public|has_required_storage.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_storage_requirements.internal|has_storage_requirements.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_required/has_required_storage.internal|has_required_storage.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_storage_requirements.protect|has_storage_requirements.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_required/has_required_storage.protect|has_required_storage.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_storage_requirements.private|has_storage_requirements.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_required/has_required_storage.private|has_required_storage.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_storage_requirements.personal|has_storage_requirements.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_required/has_required_storage.personal|has_required_storage.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_storage_requirements.secret|has_storage_requirements.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_required/has_required_storage.secret|has_required_storage.secret]] 
 

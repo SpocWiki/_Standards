@@ -32,7 +32,7 @@ An email message.
 #class/EmailMessage
 #class/Thing/CreativeWork/Message/EmailMessage
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

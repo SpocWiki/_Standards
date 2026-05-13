@@ -68,7 +68,7 @@ ClaimInterpreter:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cl
 ### FirstAppearance
 Indicates the first known occurrence of a [[../../../Society/Communication/Media/Creative_Work/Statement/Claim|Claim]] in some [[CreativeWork]].
 
-FirstAppearance:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}
+FirstAppearance:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}} 
 
 
 ## Confidential Links & Embeds: 

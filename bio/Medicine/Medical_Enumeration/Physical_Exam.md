@@ -36,7 +36,8 @@ A type of physical examination of a patient performed by a physician.
 
 #has_/parent_class :: [[../MedicalEnumeration, MedicalProcedure|MedicalEnumeration, MedicalProcedure]]  
 
-#has_/properties :: [ additionalType, alternateName, bodyLocation, code, description, disambiguatingDescription, followup, funding, guideline, howPerformed, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, preparation, procedureType, recognizingAuthority, relevantSpecialty, sameAs, status, study, subjectOf, url ]  
+#has_/properties :: [ additionalType, alternateName, bodyLocation, code, description, disambiguatingDescription, followup, funding, guideline, howPerformed, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, preparation, procedureType, recognizingAuthority, relevantSpecialty, sameAs, status, study, subjectOf, url ] 
+
 
 ## Confidential Links & Embeds: 
 

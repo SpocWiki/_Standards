@@ -32,7 +32,7 @@ A process of care involving exercise, changes to diet, fitness routines, and oth
 #class/LifestyleModification
 #class/Thing/MedicalEntity/LifestyleModification
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

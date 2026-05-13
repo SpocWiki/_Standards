@@ -145,7 +145,7 @@ dv_has_:
 scientific_name ::     Xerus inauris
 location ::           Kgalagadi Transfrontier Park, Kalahari, South Africa
 specimen_condition ::  Live Specimen
-copyright ::            © 2006 [Nigel Dennis](http://www.nigeldennis.com/)
+copyright ::            © 2006 [Nigel Dennis](http://www.nigeldennis.com/) 
 
 
 ## Confidential Links & Embeds: 

@@ -133,3 +133,20 @@ has_formula_structural = `=this.dv_has_formula_structural`
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sulfide) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Functional_Group/Sulfide|Sulfide]] 
+
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Functional_Group/Sulfide.public|Sulfide.public]] 
+
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Functional_Group/Sulfide.internal|Sulfide.internal]] 
+
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Functional_Group/Sulfide.protect|Sulfide.protect]] 
+
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Functional_Group/Sulfide.private|Sulfide.private]] 
+
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Functional_Group/Sulfide.personal|Sulfide.personal]] 
+
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Functional_Group/Sulfide.secret|Sulfide.secret]] 
+

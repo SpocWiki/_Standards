@@ -315,7 +315,7 @@ into its subsidiary American Telephone and Telegraph Company (formerly _AT&T Lon
 this was because [Massachusetts](https://en.wikipedia.org/wiki/Massachusetts "Massachusetts") corporate laws were very restrictive, and limited capitalization to ten million dollars, 
 forestalling American Bell's further growth. 
 With this assets transfer at the very end of the 19th century, 
-AT&T became the parent of both American Bell and the [Bell System](https://en.wikipedia.org/wiki/Bell_System "Bell System").
+AT&T became the parent of both American Bell and the [Bell System](https://en.wikipedia.org/wiki/Bell_System "Bell System"). 
 
 
 ## Confidential Links & Embeds: 

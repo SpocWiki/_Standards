@@ -292,7 +292,7 @@ location ::           2560ft depth in Oceanographer canyon, off Gulf of Maine US
 Comments             Collected by the manned submersible \"Johnson-Sea-Link-II and photographed in a shipboard aquarium.
 specimen_condition ::  Live Specimen
 View                 Side
-copyright ::            © 2005 [Per R. Flood](mailto:per.r.flood@bathybiologica.no)
+copyright ::            © 2005 [Per R. Flood](mailto:per.r.flood@bathybiologica.no) 
 
 
 ## Confidential Links & Embeds: 

@@ -15,7 +15,7 @@ type: LangFamily
 
 SpocWebEntityId: {{Id}}
 
-[Name::{{Name}}]
+[Name::{{Name}}] 
 
 
 ## Confidential Links & Embeds: 

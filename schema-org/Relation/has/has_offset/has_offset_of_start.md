@@ -77,17 +77,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_offset_of_start|has_offset_of_start]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_offset/has_offset_of_start|has_offset_of_start]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_offset_of_start.public|has_offset_of_start.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_offset/has_offset_of_start.public|has_offset_of_start.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_offset_of_start.internal|has_offset_of_start.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_offset/has_offset_of_start.internal|has_offset_of_start.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_offset_of_start.protect|has_offset_of_start.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_offset/has_offset_of_start.protect|has_offset_of_start.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_offset_of_start.private|has_offset_of_start.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_offset/has_offset_of_start.private|has_offset_of_start.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_offset_of_start.personal|has_offset_of_start.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_offset/has_offset_of_start.personal|has_offset_of_start.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_offset_of_start.secret|has_offset_of_start.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_offset/has_offset_of_start.secret|has_offset_of_start.secret]] 
 

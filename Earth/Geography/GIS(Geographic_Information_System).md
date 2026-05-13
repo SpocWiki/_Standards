@@ -41,7 +41,22 @@ aliases:
 > and ultimately, to a "real" physical location or extent. 
 > This key characteristic of GIS has begun to open new avenues of scientific inquiry and studies.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Geographic%20information%20system)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Geographic%20information%20system) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Geography/GIS(Geographic_Information_System)|GIS(Geographic_Information_System)]] 
+
+### #is_/same_as :: [[/_public/Earth/Geography/GIS(Geographic_Information_System).public|GIS(Geographic_Information_System).public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Geography/GIS(Geographic_Information_System).internal|GIS(Geographic_Information_System).internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Geography/GIS(Geographic_Information_System).protect|GIS(Geographic_Information_System).protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Geography/GIS(Geographic_Information_System).private|GIS(Geographic_Information_System).private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Geography/GIS(Geographic_Information_System).personal|GIS(Geographic_Information_System).personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Geography/GIS(Geographic_Information_System).secret|GIS(Geographic_Information_System).secret]] 
 

@@ -43,7 +43,7 @@ The act of being defeated in a competitive activity.
 ### Winner
 A sub property of participant. The winner of the action.
 
-Winner:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Person')"}}
+Winner:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Person')"}} 
 
 
 ## Confidential Links & Embeds: 

@@ -126,7 +126,7 @@ PotentialUse:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/
 ### Smiles
 A specification in form of a line notation for describing the structure of chemical species using short ASCII strings.  Double bond stereochemistry \ indicators may need to be escaped in the string in formats where the backslash is an escape character.
 
-Smiles:: {"type":"Input","options":{}}
+Smiles:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

@@ -79,7 +79,7 @@ OrderQuantity:: {"type":"Number","options":{}}
 ### OrderedItem
 The item ordered.
 
-OrderedItem:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/OrderItem')"}}
+OrderedItem:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/OrderItem')"}} 
 
 
 ## Confidential Links & Embeds: 

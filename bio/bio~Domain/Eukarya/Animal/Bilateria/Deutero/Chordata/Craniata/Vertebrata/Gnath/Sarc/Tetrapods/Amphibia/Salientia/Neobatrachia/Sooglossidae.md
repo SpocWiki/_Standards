@@ -192,7 +192,7 @@ inguinal amplexus and limnodynastines have axillary amplexus.
 -   » Sub-Groups 
 	-   *Sooglossus gardineri*
 	-   *Sooglossus sechellensis*
-	-   *Nesomantis thomasseti*
+	-   *Nesomantis thomasseti* 
 
 
 ## Confidential Links & Embeds: 

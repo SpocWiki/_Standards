@@ -32,7 +32,7 @@ The act of responding instinctively and emotionally to an object, expressing a s
 #class/ReactAction
 #class/Thing/Action/AssessAction/ReactAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ Season dedicated to radio broadcast and associated online delivery.
 #class/RadioSeason
 #class/Thing/CreativeWork/CreativeWorkSeason/RadioSeason
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

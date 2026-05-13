@@ -78,7 +78,7 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_child|has_child]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_child|has_child]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_child.public|has_child.public]] 
 

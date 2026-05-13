@@ -262,22 +262,22 @@ Originally, URLs from <a href="http://purl.org/goodrelations/v1">GoodRelations</
 
 #has_/parent_class :: [[../../../../../schema-org/Enumeration|Enumeration]]  
 
-#is_/same_as :: [[../../../../../WikiData/WD~Day_of_the_week,41825|WD~Day_of_the_week,41825]]
+#is_/same_as :: [[../../../../../WikiData/WD~Day_of_the_week,41825|WD~Day_of_the_week,41825]] 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week|Day_of_Week]] 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Time/Day_of_Week|Day_of_Week]] 
 
-### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week.public|Day_of_Week.public]] 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Time/Day_of_Week.public|Day_of_Week.public]] 
 
-### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week.internal|Day_of_Week.internal]] 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Time/Day_of_Week.internal|Day_of_Week.internal]] 
 
-### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week.protect|Day_of_Week.protect]] 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Time/Day_of_Week.protect|Day_of_Week.protect]] 
 
-### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week.private|Day_of_Week.private]] 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Time/Day_of_Week.private|Day_of_Week.private]] 
 
-### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week.personal|Day_of_Week.personal]] 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Time/Day_of_Week.personal|Day_of_Week.personal]] 
 
-### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week.secret|Day_of_Week.secret]] 
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Time/Day_of_Week.secret|Day_of_Week.secret]] 
 

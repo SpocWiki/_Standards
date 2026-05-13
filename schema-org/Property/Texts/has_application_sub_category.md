@@ -75,17 +75,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_application_child_category|has_application_child_category]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_application_sub_category|has_application_sub_category]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_application_child_category.public|has_application_child_category.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_application_sub_category.public|has_application_sub_category.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_application_child_category.internal|has_application_child_category.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_application_sub_category.internal|has_application_sub_category.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_application_child_category.protect|has_application_child_category.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_application_sub_category.protect|has_application_sub_category.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_application_child_category.private|has_application_child_category.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_application_sub_category.private|has_application_sub_category.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_application_child_category.personal|has_application_child_category.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_application_sub_category.personal|has_application_sub_category.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_application_child_category.secret|has_application_child_category.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_application_sub_category.secret|has_application_sub_category.secret]] 
 

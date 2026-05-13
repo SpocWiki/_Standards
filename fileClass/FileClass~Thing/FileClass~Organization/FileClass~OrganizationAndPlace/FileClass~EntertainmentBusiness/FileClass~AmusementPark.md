@@ -32,7 +32,7 @@ An amusement park.
 #class/AmusementPark
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/AmusementPark
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

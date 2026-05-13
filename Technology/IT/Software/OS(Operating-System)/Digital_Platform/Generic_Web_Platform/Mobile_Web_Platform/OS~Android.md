@@ -297,7 +297,8 @@ Represents the broad notion of Android-based operating systems.
 
 #has_/parent_class :: [[../DigitalPlatformEnumeration|DigitalPlatformEnumeration]]  
 
-#is_/enum_of :: [[../DigitalPlatformEnumeration|DigitalPlatformEnumeration]]  
+#is_/enum_of :: [[../DigitalPlatformEnumeration|DigitalPlatformEnumeration]] 
+
 
 ## Confidential Links & Embeds: 
 

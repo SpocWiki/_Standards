@@ -32,7 +32,7 @@ An aggregate rating of an Organization related to its role as an employer.
 #class/EmployerAggregateRating
 #class/Thing/Intangible/Rating/AggregateRating/EmployerAggregateRating
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -87,3 +87,21 @@ date_of_birth: 1929-01-03T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sergio%20Leone)  
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Leone,Sergio|Leone,Sergio]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Leone,Sergio.public|Leone,Sergio.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Leone,Sergio.internal|Leone,Sergio.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Leone,Sergio.protect|Leone,Sergio.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Leone,Sergio.private|Leone,Sergio.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Leone,Sergio.personal|Leone,Sergio.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Leone,Sergio.secret|Leone,Sergio.secret]] 

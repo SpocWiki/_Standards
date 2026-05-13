@@ -39,3 +39,21 @@ Unicode_character: ♣
 > [Wikipedia](https://en.wikipedia.org/wiki/Clubs%20(suit))  
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit/Suit~Clubs|Suit~Clubs]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit/Suit~Clubs.public|Suit~Clubs.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit/Suit~Clubs.internal|Suit~Clubs.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit/Suit~Clubs.protect|Suit~Clubs.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit/Suit~Clubs.private|Suit~Clubs.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit/Suit~Clubs.personal|Suit~Clubs.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit/Suit~Clubs.secret|Suit~Clubs.secret]] 

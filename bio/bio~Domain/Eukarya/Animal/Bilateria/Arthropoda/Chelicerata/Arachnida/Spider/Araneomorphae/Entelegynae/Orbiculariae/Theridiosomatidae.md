@@ -131,7 +131,7 @@ World. Musée Royal de l\'Afrique Centrale, Tevuren. 336pp.
   Size                 ca. 20 cm high
   copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
-  ---------------------------------------------------------------------------------
+  --------------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

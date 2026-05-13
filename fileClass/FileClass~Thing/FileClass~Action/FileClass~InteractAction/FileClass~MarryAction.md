@@ -32,7 +32,7 @@ The act of marrying a person.
 #class/MarryAction
 #class/Thing/Action/InteractAction/MarryAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

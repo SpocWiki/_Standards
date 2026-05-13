@@ -13,7 +13,7 @@ And in Quantum-Mechanics Phase-Space is reduced to Energy, Wavelength and ???
 
 ```ccard
 type: folder_brief_live
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

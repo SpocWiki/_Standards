@@ -559,7 +559,7 @@ to methods and applications,. Academic Press, San Diego, pp. 315-322.
   Comments          Earthstar (Gomphoid-Phalloid clade)
   copyright ::         © 2003 [David S. Hibbett](http://www.clarku.edu/faculty/dhibbett/) 
  
-  -----------------------------------------------------------------------------
+  ----------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

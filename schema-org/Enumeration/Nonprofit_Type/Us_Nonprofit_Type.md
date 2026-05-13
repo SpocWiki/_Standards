@@ -61,6 +61,7 @@ USNonprofitType: Non-profit organization type originating from the United States
 
 has_parent_class = `=this.dv_has_parent_class` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type|Us_Nonprofit_Type]] 

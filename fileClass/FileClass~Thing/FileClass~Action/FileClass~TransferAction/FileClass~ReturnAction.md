@@ -43,7 +43,7 @@ The act of returning to the origin that which was previously received (concrete 
 ### Recipient
 A sub property of participant. The participant who is at the receiving end of the action.
 
-Recipient:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Audience')"}}
+Recipient:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Audience')"}} 
 
 
 ## Confidential Links & Embeds: 

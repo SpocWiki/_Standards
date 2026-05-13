@@ -54,7 +54,7 @@ geojsonFolder: ./Howland-Island/
 markerFolder: ./Howland-Island/
 coordinates: [[Howland-Island]] 
 markerFile: [[Howland-Island]] 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

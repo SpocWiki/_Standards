@@ -32,7 +32,7 @@ Web page type: Contact page.
 #class/ContactPage
 #class/Thing/CreativeWork/WebPage/ContactPage
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

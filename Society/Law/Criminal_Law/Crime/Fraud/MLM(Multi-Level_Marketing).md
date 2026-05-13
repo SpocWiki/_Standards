@@ -35,3 +35,21 @@ subreddit: antiMLM
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Multi-level%20marketing)  
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Law/Criminal_Law/Crime/Fraud/MLM(Multi-Level_Marketing)|MLM(Multi-Level_Marketing)]] 
+
+### #is_/same_as :: [[/_public/Society/Law/Criminal_Law/Crime/Fraud/MLM(Multi-Level_Marketing).public|MLM(Multi-Level_Marketing).public]] 
+
+### #is_/same_as :: [[/_internal/Society/Law/Criminal_Law/Crime/Fraud/MLM(Multi-Level_Marketing).internal|MLM(Multi-Level_Marketing).internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Law/Criminal_Law/Crime/Fraud/MLM(Multi-Level_Marketing).protect|MLM(Multi-Level_Marketing).protect]] 
+
+### #is_/same_as :: [[/_private/Society/Law/Criminal_Law/Crime/Fraud/MLM(Multi-Level_Marketing).private|MLM(Multi-Level_Marketing).private]] 
+
+### #is_/same_as :: [[/_personal/Society/Law/Criminal_Law/Crime/Fraud/MLM(Multi-Level_Marketing).personal|MLM(Multi-Level_Marketing).personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Law/Criminal_Law/Crime/Fraud/MLM(Multi-Level_Marketing).secret|MLM(Multi-Level_Marketing).secret]] 

@@ -65,19 +65,20 @@ has_parent_class = `=this.dv_has_parent_class`
 
 has_properties = `=this.dv_has_properties` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Demand|Demand]] 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Demand|Demand]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Demand.public|Demand.public]] 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Demand.public|Demand.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Demand.internal|Demand.internal]] 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Demand.internal|Demand.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Demand.protect|Demand.protect]] 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Demand.protect|Demand.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Demand.private|Demand.private]] 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Demand.private|Demand.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Demand.personal|Demand.personal]] 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Demand.personal|Demand.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Demand.secret|Demand.secret]] 
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Demand.secret|Demand.secret]] 
 

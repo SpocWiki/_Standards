@@ -74,7 +74,7 @@ ExifData:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thin
 ### RepresentativeOfPage
 Indicates whether this image is representative of the content of the page.
 
-RepresentativeOfPage:: {"type":"Boolean","options":{}}
+RepresentativeOfPage:: {"type":"Boolean","options":{}} 
 
 
 ## Confidential Links & Embeds: 

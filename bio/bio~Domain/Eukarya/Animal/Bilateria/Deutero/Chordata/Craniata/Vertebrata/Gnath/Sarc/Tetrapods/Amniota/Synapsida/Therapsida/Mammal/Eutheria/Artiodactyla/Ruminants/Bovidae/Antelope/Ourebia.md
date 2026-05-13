@@ -166,7 +166,7 @@ specimen_condition ::  Live Specimen
 Sex ::                male and female
 Source               [Pair of Oribi](http://flickr.com/photos/ogcodes/95205255/)
 Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
-copyright ::            © 2006 [Michael Jefferies](http://flickr.com/people/ogcodes/)
+copyright ::            © 2006 [Michael Jefferies](http://flickr.com/people/ogcodes/) 
 
 
 ## Confidential Links & Embeds: 

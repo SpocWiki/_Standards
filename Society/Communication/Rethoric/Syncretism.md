@@ -173,7 +173,7 @@ dv_has_:
 
 The merging of beliefs into a unified system, distinct from eclecticism, 
 which implies a selective adoption of elements from different traditions 
-without necessarily blending them into a new, cohesive belief system
+without necessarily blending them into a new, cohesive belief system 
 
 
 ## Confidential Links & Embeds: 

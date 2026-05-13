@@ -32,7 +32,7 @@ The artwork on the cover of a comic.
 #class/ComicCoverArt
 #class/Thing/CreativeWork/ComicStory/ComicStoryAndCoverArt/ComicCoverArt
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

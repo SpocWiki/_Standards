@@ -32,7 +32,7 @@ The act of installing an application.
 #class/InstallAction
 #class/Thing/Action/ConsumeAction/InstallAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ The act of inserting at the beginning if an ordered collection.
 #class/PrependAction
 #class/Thing/Action/UpdateAction/AddAction/InsertAction/PrependAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

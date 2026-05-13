@@ -148,17 +148,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Aerial_warfare|Aerial_warfare]] 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/War/Aerial_warfare|Aerial_warfare]] 
 
-### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/War/Aerial_warfare.public|Aerial_warfare.public]] 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/War/Aerial_warfare.public|Aerial_warfare.public]] 
 
-### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/War/Aerial_warfare.internal|Aerial_warfare.internal]] 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/War/Aerial_warfare.internal|Aerial_warfare.internal]] 
 
-### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/War/Aerial_warfare.protect|Aerial_warfare.protect]] 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/War/Aerial_warfare.protect|Aerial_warfare.protect]] 
 
-### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/War/Aerial_warfare.private|Aerial_warfare.private]] 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/War/Aerial_warfare.private|Aerial_warfare.private]] 
 
-### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/War/Aerial_warfare.personal|Aerial_warfare.personal]] 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/War/Aerial_warfare.personal|Aerial_warfare.personal]] 
 
-### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/War/Aerial_warfare.secret|Aerial_warfare.secret]] 
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/War/Aerial_warfare.secret|Aerial_warfare.secret]] 
 

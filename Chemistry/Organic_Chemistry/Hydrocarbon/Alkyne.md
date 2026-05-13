@@ -136,7 +136,6 @@ dv_is_same_as:
 ### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkyne.personal|Alkyne.personal]] 
 
 ### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Hydrocarbon/Alkyne.secret|Alkyne.secret]] 
-
 R;;;_R$|'
 described_by_source: '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Alkyne-group.svg

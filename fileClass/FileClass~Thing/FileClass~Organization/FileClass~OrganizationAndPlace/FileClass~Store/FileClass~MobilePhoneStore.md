@@ -32,7 +32,7 @@ A store that sells mobile phones and related accessories.
 #class/MobilePhoneStore
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/MobilePhoneStore
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

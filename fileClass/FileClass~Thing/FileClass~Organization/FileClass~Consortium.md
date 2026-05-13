@@ -32,7 +32,7 @@ A Consortium is a membership [[../../../Society/Agent/Community/Organization|Org
 #class/Consortium
 #class/Thing/Organization/Consortium
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

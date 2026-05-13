@@ -32,7 +32,7 @@ A movie rental store.
 #class/MovieRentalStore
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/MovieRentalStore
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

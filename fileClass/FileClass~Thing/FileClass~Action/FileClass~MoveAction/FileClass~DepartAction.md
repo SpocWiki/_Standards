@@ -32,7 +32,7 @@ The act of  departing from a place. An agent departs from a fromLocation for a d
 #class/DepartAction
 #class/Thing/Action/MoveAction/DepartAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

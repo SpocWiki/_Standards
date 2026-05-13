@@ -76,7 +76,7 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_value_for_cholesterol|has_value_for_cholesterol]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_cholesterol|has_value_for_cholesterol]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_cholesterol.public|has_value_for_cholesterol.public]] 
 

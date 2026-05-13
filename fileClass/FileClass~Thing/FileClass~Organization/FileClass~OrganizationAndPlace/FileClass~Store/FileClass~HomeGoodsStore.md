@@ -32,7 +32,7 @@ A home goods store.
 #class/HomeGoodsStore
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/HomeGoodsStore
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

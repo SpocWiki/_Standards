@@ -53,7 +53,7 @@ DeliveryMethod:: {"type":"Select","options":{"valuesList":{"LockerDelivery","OnS
 ### Sender
 A sub property of participant. The participant who is at the sending end of the action.
 
-Sender:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Audience')"}}
+Sender:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Audience')"}} 
 
 
 ## Confidential Links & Embeds: 

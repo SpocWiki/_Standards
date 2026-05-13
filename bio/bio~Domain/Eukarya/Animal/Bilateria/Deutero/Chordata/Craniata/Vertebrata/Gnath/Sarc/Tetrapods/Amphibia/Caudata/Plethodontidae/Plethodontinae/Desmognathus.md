@@ -266,7 +266,7 @@ copyright ::            © 1996 [Greg Sievert](http://academic.emporia.edu/sieve
 ![](Desmognathus/Phaeognathus_hubrichti.jpg)
 scientific_name ::  Phaeognathus hubrichti
 location ::        Alabama
-copyright ::         © 1996 [Greg Sievert](http://academic.emporia.edu/sievertg/)
+copyright ::         © 1996 [Greg Sievert](http://academic.emporia.edu/sievertg/) 
 
 
 ## Confidential Links & Embeds: 

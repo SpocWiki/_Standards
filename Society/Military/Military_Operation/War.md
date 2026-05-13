@@ -543,22 +543,22 @@ graph TD
     S -- "pq:P582" --> P582
     S -- "prov:wasDerivedFrom" --> REF
 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[War|War]] 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/War|War]] 
 
-### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/War.public|War.public]] 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/War.public|War.public]] 
 
-### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/War.internal|War.internal]] 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/War.internal|War.internal]] 
 
-### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/War.protect|War.protect]] 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/War.protect|War.protect]] 
 
-### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/War.private|War.private]] 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/War.private|War.private]] 
 
-### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/War.personal|War.personal]] 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/War.personal|War.personal]] 
 
-### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/War.secret|War.secret]] 
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/War.secret|War.secret]] 
 

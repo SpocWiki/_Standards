@@ -67,7 +67,7 @@ CoverageStartTime:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","default
 ### LiveBlogUpdate
 An update to the LiveBlog.
 
-LiveBlogUpdate:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting')"}}
+LiveBlogUpdate:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting')"}} 
 
 
 ## Confidential Links & Embeds: 

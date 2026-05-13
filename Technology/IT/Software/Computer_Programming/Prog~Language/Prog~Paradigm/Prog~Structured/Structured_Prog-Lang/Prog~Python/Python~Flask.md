@@ -24,7 +24,7 @@ making it a popular choice for building web applications, especially for beginne
 - **Web Applications:** You can create simple web applications like blogs, portfolio websites, and more.
 - **Microservices:** Flask can be used to build microservices, which are small, independent services that work together to form a larger application.
 
-If you're looking for a Python web framework that's easy to learn, flexible, and has a large community, Flask is a great option.
+If you're looking for a Python web framework that's easy to learn, flexible, and has a large community, Flask is a great option. 
 
 
 ## Confidential Links & Embeds: 

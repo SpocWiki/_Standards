@@ -80,7 +80,7 @@ cultivated garden soil in Australia. Archiv für Protistenkunde
   Comments             phase contrast micrograph of living cell
   specimen_condition ::  Live Specimen
   copyright ::            © 2000 Flemming Ekelund
-  -----------------
+  ----------------- 
 
 
 ## Confidential Links & Embeds: 

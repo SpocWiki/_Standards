@@ -43,7 +43,7 @@ Renamed to distinguish it from the general [[../../FileClass~Collection|FileClas
 ### CollectionSize
 The number of items in the [[Collection]].
 
-CollectionSize:: {"type":"Number","options":{}}
+CollectionSize:: {"type":"Number","options":{}} 
 
 
 ## Confidential Links & Embeds: 

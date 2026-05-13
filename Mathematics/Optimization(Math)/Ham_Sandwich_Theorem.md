@@ -88,3 +88,20 @@ the black line denoting the common bisector of both regions.
 
 ## Extension to N Dimensions 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Mathematics/Optimization(Math)/Ham_Sandwich_Theorem|Ham_Sandwich_Theorem]] 
+
+### #is_/same_as :: [[/_public/Mathematics/Optimization(Math)/Ham_Sandwich_Theorem.public|Ham_Sandwich_Theorem.public]] 
+
+### #is_/same_as :: [[/_internal/Mathematics/Optimization(Math)/Ham_Sandwich_Theorem.internal|Ham_Sandwich_Theorem.internal]] 
+
+### #is_/same_as :: [[/_protect/Mathematics/Optimization(Math)/Ham_Sandwich_Theorem.protect|Ham_Sandwich_Theorem.protect]] 
+
+### #is_/same_as :: [[/_private/Mathematics/Optimization(Math)/Ham_Sandwich_Theorem.private|Ham_Sandwich_Theorem.private]] 
+
+### #is_/same_as :: [[/_personal/Mathematics/Optimization(Math)/Ham_Sandwich_Theorem.personal|Ham_Sandwich_Theorem.personal]] 
+
+### #is_/same_as :: [[/_secret/Mathematics/Optimization(Math)/Ham_Sandwich_Theorem.secret|Ham_Sandwich_Theorem.secret]] 
+

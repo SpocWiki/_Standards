@@ -62,7 +62,7 @@ FeesAndCommissionsSpecification:: {"type":"Input","options":{}}
 ### InterestRate
 The interest rate, charged or paid, applicable to the financial product. Note: This is different from the calculated annualPercentageRate.
 
-InterestRate:: {"type":"Number","options":{}}
+InterestRate:: {"type":"Number","options":{}} 
 
 
 ## Confidential Links & Embeds: 

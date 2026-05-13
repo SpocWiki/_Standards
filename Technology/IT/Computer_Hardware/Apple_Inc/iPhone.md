@@ -183,7 +183,7 @@ In the Edit Contact Dialog you can edit Phone Numbers and eMail Addresses and ad
 To remove them, go into this List and delete them in there. 
 
 ### iPhone-Contacts 
-When you link contacts on an iPhone, they are not permanently merged. Instead, they are simply displayed as a single unified contact. The linked contacts still exist as separate entities in the background, and you can unlink them at any time.
+When you link contacts on an iPhone, they are not permanently merged. Instead, they are simply displayed as a single unified contact. The linked contacts still exist as separate entities in the background, and you can unlink them at any time. 
 
 
 ## Confidential Links & Embeds: 

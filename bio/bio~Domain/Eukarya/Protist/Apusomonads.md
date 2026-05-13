@@ -113,7 +113,7 @@ Patterson, D. J. 1999. The diversity of eukaryotes. American Naturalist
   ------------
   scientific_name ::  Apusomonas proboscidea
   copyright ::         © 2000 Flemming Ekelund
-  ------------
+  ------------ 
 
 
 ## Confidential Links & Embeds: 

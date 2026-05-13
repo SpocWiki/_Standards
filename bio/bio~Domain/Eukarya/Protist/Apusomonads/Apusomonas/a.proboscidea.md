@@ -82,7 +82,7 @@ soil. Archiv für Protistenkunde 116:254-269.
   Comments             Line drawing of living cell
   specimen_condition ::  Live Specimen
   copyright ::            © 2000 Flemming Ekelund
-  -------------
+  ------------- 
 
 
 ## Confidential Links & Embeds: 

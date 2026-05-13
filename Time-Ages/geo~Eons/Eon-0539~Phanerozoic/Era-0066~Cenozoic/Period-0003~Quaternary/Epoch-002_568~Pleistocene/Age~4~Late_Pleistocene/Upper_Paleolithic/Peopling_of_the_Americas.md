@@ -150,7 +150,7 @@ dv_has_:
 > [Wikipedia](https://en.wikipedia.org/wiki/Peopling%20of%20the%20Americas) 
 
 
-<a title="User:Dbachmann, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Early_migrations_mercator.svg"><img width="512" alt="World map of the peopling of the world through migration during the Upper Paleolithic." src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Early_migrations_mercator.svg/512px-Early_migrations_mercator.svg.png?20231005061128"></a>
+<a title="User:Dbachmann, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Early_migrations_mercator.svg"><img width="512" alt="World map of the peopling of the world through migration during the Upper Paleolithic." src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Early_migrations_mercator.svg/512px-Early_migrations_mercator.svg.png?20231005061128"></a> 
 
 
 ## Confidential Links & Embeds: 

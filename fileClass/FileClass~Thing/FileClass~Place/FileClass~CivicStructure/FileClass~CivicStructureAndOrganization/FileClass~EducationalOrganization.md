@@ -32,7 +32,7 @@ An educational organization.
 #class/EducationalOrganization
 #class/Thing/Place/CivicStructure/CivicStructureAndOrganization/EducationalOrganization
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

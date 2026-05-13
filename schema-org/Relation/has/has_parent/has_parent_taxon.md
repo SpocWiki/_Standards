@@ -82,19 +82,20 @@ has_domain = `=this.dv_has_domain`
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_parent_taxon|has_parent_taxon]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_parent/has_parent_taxon|has_parent_taxon]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_parent_taxon.public|has_parent_taxon.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_parent/has_parent_taxon.public|has_parent_taxon.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_parent_taxon.internal|has_parent_taxon.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_parent/has_parent_taxon.internal|has_parent_taxon.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_parent_taxon.protect|has_parent_taxon.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_parent/has_parent_taxon.protect|has_parent_taxon.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_parent_taxon.private|has_parent_taxon.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_parent/has_parent_taxon.private|has_parent_taxon.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_parent_taxon.personal|has_parent_taxon.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_parent/has_parent_taxon.personal|has_parent_taxon.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_parent_taxon.secret|has_parent_taxon.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_parent/has_parent_taxon.secret|has_parent_taxon.secret]] 
 

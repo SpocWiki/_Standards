@@ -63,9 +63,10 @@ has_domain = `=this.dv_has_domain`
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_examples|has_example]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_examples|has_examples]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_examples.public|has_examples.public]] 
 

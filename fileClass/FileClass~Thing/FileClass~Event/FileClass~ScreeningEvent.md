@@ -64,7 +64,7 @@ VideoFormat:: {"type":"Input","options":{}}
 ### WorkPresented
 The movie presented during this event.
 
-WorkPresented:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Movie')"}}
+WorkPresented:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Movie')"}} 
 
 
 ## Confidential Links & Embeds: 

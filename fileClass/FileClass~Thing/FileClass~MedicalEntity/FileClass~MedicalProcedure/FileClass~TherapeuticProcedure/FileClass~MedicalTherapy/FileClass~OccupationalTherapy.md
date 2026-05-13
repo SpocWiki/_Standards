@@ -32,7 +32,7 @@ A treatment of people with physical, emotional, or social problems, using purpos
 #class/OccupationalTherapy
 #class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/OccupationalTherapy
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

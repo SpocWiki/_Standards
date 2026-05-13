@@ -79,17 +79,17 @@ has_parent_property = `=this.dv_has_parent_property`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_sender|has_sender]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_participant/has_sender|has_sender]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_participants/has_sender.public|has_sender.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_participant/has_sender.public|has_sender.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_participants/has_sender.internal|has_sender.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_participant/has_sender.internal|has_sender.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_participants/has_sender.protect|has_sender.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_participant/has_sender.protect|has_sender.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_participants/has_sender.private|has_sender.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_participant/has_sender.private|has_sender.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_participants/has_sender.personal|has_sender.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_participant/has_sender.personal|has_sender.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_participants/has_sender.secret|has_sender.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_participant/has_sender.secret|has_sender.secret]] 
 

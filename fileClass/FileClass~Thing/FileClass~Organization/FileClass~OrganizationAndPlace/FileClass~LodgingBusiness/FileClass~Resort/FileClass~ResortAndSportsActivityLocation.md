@@ -32,7 +32,7 @@ See Resort, SportsActivityLocation for more information.
 #class/ResortAndSportsActivityLocation
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Resort/ResortAndSportsActivityLocation
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

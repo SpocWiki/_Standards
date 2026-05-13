@@ -42,7 +42,7 @@ An EducationalAudience.
 ### EducationalRole
 An educationalRole of an EducationalAudience.
 
-EducationalRole:: {"type":"Input","options":{}}
+EducationalRole:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

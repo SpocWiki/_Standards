@@ -85,17 +85,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_review_item|has_review_item]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_review/has_review_item|has_review_item]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_review_item.public|has_review_item.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_review/has_review_item.public|has_review_item.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_review_item.internal|has_review_item.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_review/has_review_item.internal|has_review_item.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_review_item.protect|has_review_item.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_review/has_review_item.protect|has_review_item.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_review_item.private|has_review_item.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_review/has_review_item.private|has_review_item.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_review_item.personal|has_review_item.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_review/has_review_item.personal|has_review_item.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_review_item.secret|has_review_item.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_review/has_review_item.secret|has_review_item.secret]] 
 

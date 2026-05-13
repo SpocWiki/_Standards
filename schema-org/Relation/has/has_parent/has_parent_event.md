@@ -76,19 +76,20 @@ has_domain = `=this.dv_has_domain`
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_parent_event|has_parent_event]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_parent/has_parent_event|has_parent_event]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_parent_event.public|has_parent_event.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_parent/has_parent_event.public|has_parent_event.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_parent_event.internal|has_parent_event.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_parent/has_parent_event.internal|has_parent_event.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_parent_event.protect|has_parent_event.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_parent/has_parent_event.protect|has_parent_event.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_parent_event.private|has_parent_event.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_parent/has_parent_event.private|has_parent_event.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_parent_event.personal|has_parent_event.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_parent/has_parent_event.personal|has_parent_event.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_parent_event.secret|has_parent_event.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_parent/has_parent_event.secret|has_parent_event.secret]] 
 

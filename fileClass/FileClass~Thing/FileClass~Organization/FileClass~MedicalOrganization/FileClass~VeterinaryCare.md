@@ -32,7 +32,7 @@ A vet's office.
 #class/VeterinaryCare
 #class/Thing/Organization/MedicalOrganization/VeterinaryCare
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

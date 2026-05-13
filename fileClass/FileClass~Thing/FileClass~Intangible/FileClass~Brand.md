@@ -75,7 +75,7 @@ Review:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/
 ### Slogan
 A slogan or motto associated with the item.
 
-Slogan:: {"type":"Input","options":{}}
+Slogan:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

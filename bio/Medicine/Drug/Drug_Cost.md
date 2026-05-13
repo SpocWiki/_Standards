@@ -36,7 +36,8 @@ The cost per unit of a medical drug. Note that this type is not meant to represe
 
 #has_/parent_class :: [[../MedicalEntity|MedicalEntity]]  
 
-#has_/properties :: [ additionalType, alternateName, applicableLocation, code, costCategory, costCurrency, costOrigin, costPerUnit, description, disambiguatingDescription, drugUnit, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]  
+#has_/properties :: [ additionalType, alternateName, applicableLocation, code, costCategory, costCurrency, costOrigin, costPerUnit, description, disambiguatingDescription, drugUnit, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] 
+
 
 ## Confidential Links & Embeds: 
 

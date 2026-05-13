@@ -288,7 +288,7 @@ location ::           at Mount Kenya, Kenya
 Acknowledgements     Photograph courtesy [InsectImages.org](http://www.insectimages.org/) (#4320041)
 specimen_condition ::  Live Specimen
 Source Collection    [InsectImages.org](http://www.insectimages.org/)
-copyright ::            © Kenneth M. Gale
+copyright ::            © Kenneth M. Gale 
 
 
 ## Confidential Links & Embeds: 

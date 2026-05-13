@@ -181,7 +181,7 @@ The embers of pop music’s most dynamic collaborative force were dying out,
 but not before yielding one final and definitive document 
 of unmatched creativity and camaraderie.
 
-![A photograph of The Beatles.](https://is1-ssl.mzstatic.com/image/thumb/Features112/v4/6b/7a/76/6b7a76fe-885f-835d-e902-510baaa2c4f9/8f6a3b19-8162-4b90-93e1-098706978124.png/2681x1800sr.png)
+![A photograph of The Beatles.](https://is1-ssl.mzstatic.com/image/thumb/Features112/v4/6b/7a/76/6b7a76fe-885f-835d-e902-510baaa2c4f9/8f6a3b19-8162-4b90-93e1-098706978124.png/2681x1800sr.png) 
 
 
 ## Confidential Links & Embeds: 

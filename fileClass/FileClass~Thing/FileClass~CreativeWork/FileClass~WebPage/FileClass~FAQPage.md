@@ -32,7 +32,7 @@ A [[FAQPage]] is a [[WebPage]] presenting one or more "[Frequently asked questio
 #class/FAQPage
 #class/Thing/CreativeWork/WebPage/FAQPage
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

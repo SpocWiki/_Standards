@@ -95,7 +95,7 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_usage_of_vehicle|has_vehicle_special_usage]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_usage_of_vehicle|has_usage_of_vehicle]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_usage_of_vehicle.public|has_usage_of_vehicle.public]] 
 

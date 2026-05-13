@@ -103,17 +103,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_keyword|has_keyword]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_keywords|has_keywords]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_keyword.public|has_keyword.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_keywords.public|has_keywords.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_keyword.internal|has_keyword.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_keywords.internal|has_keywords.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_keyword.protect|has_keyword.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_keywords.protect|has_keywords.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_keyword.private|has_keyword.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_keywords.private|has_keywords.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_keyword.personal|has_keyword.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_keywords.personal|has_keywords.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_keyword.secret|has_keyword.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_keywords.secret|has_keywords.secret]] 
 

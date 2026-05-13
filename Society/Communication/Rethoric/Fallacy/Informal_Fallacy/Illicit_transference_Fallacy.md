@@ -49,3 +49,21 @@ dv_has_:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fallacies%20of%20illicit%20transference)  
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Illicit_transference_Fallacy|Illicit_transference_Fallacy]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Illicit_transference_Fallacy.public|Illicit_transference_Fallacy.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Illicit_transference_Fallacy.internal|Illicit_transference_Fallacy.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Illicit_transference_Fallacy.protect|Illicit_transference_Fallacy.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Illicit_transference_Fallacy.private|Illicit_transference_Fallacy.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Illicit_transference_Fallacy.personal|Illicit_transference_Fallacy.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Illicit_transference_Fallacy.secret|Illicit_transference_Fallacy.secret]] 

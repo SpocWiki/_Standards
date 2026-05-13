@@ -32,7 +32,7 @@ A particular online business, either standalone or the online part of a broader 
 #class/OnlineBusiness
 #class/Thing/Organization/OnlineBusiness
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

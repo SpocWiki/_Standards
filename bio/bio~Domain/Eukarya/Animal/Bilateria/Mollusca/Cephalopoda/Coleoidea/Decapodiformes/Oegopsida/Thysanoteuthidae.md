@@ -165,7 +165,7 @@ Zool., No. 586: 55-68.
   location ::        Mediterranean
   Reference         from Naef, A. 1921-23. Cephalopoda. Fauna e Flora de Golfo di Napoli. Monograph, no. 35, 863 pp.
   View              dorsal
-  ----------------------------------
+  ---------------------------------- 
 
 
 ## Confidential Links & Embeds: 

@@ -76,7 +76,7 @@ scientific_name ::     Ruellia inflata
 location ::           Bolivia
 specimen_condition ::  Live Specimen
 Collector            John L. Clark
-copyright ::            © 2002 John L. Clark
+copyright ::            © 2002 John L. Clark 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ A church.
 #class/Church
 #class/Thing/Place/CivicStructure/PlaceOfWorship/Church
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

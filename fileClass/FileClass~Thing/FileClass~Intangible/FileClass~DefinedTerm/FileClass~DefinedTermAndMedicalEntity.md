@@ -110,7 +110,7 @@ RelevantSpecialty:: {"type":"Select","options":{"valuesList":{"Anesthesia","Card
 ### Study
 A medical study or trial related to this entity.
 
-Study:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalStudy')"}}
+Study:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalStudy')"}} 
 
 
 ## Confidential Links & Embeds: 

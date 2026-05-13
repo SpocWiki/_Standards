@@ -52,7 +52,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Solomon~Islands~Central/
 markerFolder: ./Solomon~Islands~Central/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

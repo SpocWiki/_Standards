@@ -196,7 +196,7 @@ Platnick, N.I. 2006. The World Spider Catalog, Version 7.0.
   Source Collection                   [Flickr](http://flickr.com/)
 
   copyright ::                           © 2006 [Don Van Dyke](http://flickr.com/people/dvd5/)
-  -----------------------------
+  ----------------------------- 
 
 
 ## Confidential Links & Embeds: 

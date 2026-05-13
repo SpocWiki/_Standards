@@ -82,7 +82,7 @@ Tarsem began his career by directing music videos, including those of
 the latter of which won [Best Music Video, Short Form](https://en.wikipedia.org/wiki/Grammy_Award_for_Best_Short_Form_Music_Video "Grammy Award for Best Short Form Music Video") at the [1992 Grammy Awards](https://en.wikipedia.org/wiki/1992_Grammy "1992 Grammy"). 
 
 He has directed commercials for brands such as [Nike](https://en.wikipedia.org/wiki/Nike_Inc. "Nike Inc.") and [Coca-Cola](https://en.wikipedia.org/wiki/Coca-Cola "Coca-Cola").
-Tarsem's feature film directorial debut was _[The Cell](https://en.wikipedia.org/wiki/The_Cell_(film) "The Cell (film)")_ (2000), starring [Jennifer Lopez](https://en.wikipedia.org/wiki/Jennifer_Lopez "Jennifer Lopez").
+Tarsem's feature film directorial debut was _[The Cell](https://en.wikipedia.org/wiki/The_Cell_(film) "The Cell (film)")_ (2000), starring [Jennifer Lopez](https://en.wikipedia.org/wiki/Jennifer_Lopez "Jennifer Lopez"). 
 
 
 ## Confidential Links & Embeds: 

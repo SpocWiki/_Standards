@@ -32,7 +32,7 @@ Web page type: Collection page.
 #class/CollectionPage
 #class/Thing/CreativeWork/WebPage/CollectionPage
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

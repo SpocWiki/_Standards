@@ -32,7 +32,7 @@ A nightclub or discotheque.
 #class/NightClub
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/NightClub
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

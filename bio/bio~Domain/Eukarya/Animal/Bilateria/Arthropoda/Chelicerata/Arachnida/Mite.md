@@ -420,7 +420,7 @@ copyright ::                           © 1996 [David Evans Walter](http://www.u
 scientific_name ::  Limnesia
 location ::        Canada
 Comments          Photograph of a predatory water mite
-copyright ::         © 1996 C. Podemski
+copyright ::         © 1996 C. Podemski 
 
 
 ## Confidential Links & Embeds: 

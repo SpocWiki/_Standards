@@ -70,17 +70,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_action_status|has_action_status]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_action/has_action_status|has_action_status]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_action_status.public|has_action_status.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_action/has_action_status.public|has_action_status.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_action_status.internal|has_action_status.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_action/has_action_status.internal|has_action_status.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_action_status.protect|has_action_status.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_action/has_action_status.protect|has_action_status.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_action_status.private|has_action_status.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_action/has_action_status.private|has_action_status.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_action_status.personal|has_action_status.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_action/has_action_status.personal|has_action_status.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_action_status.secret|has_action_status.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_action/has_action_status.secret|has_action_status.secret]] 
 

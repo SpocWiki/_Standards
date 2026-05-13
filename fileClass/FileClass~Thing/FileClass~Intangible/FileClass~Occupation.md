@@ -120,7 +120,7 @@ Responsibilities:: {"type":"Input","options":{}}
 ### Skills
 A statement of knowledge, skill, ability, task or any other assertion expressing a competency that is desired or required to fulfill this role or to work in this occupation.
 
-Skills:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm')"}}
+Skills:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm')"}} 
 
 
 ## Confidential Links & Embeds: 

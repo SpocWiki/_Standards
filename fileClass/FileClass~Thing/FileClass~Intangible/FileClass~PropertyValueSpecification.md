@@ -143,7 +143,7 @@ ValuePattern:: {"type":"Input","options":{}}
 ### ValueRequired
 Whether the property must be filled in to complete the action.  Default is false.
 
-ValueRequired:: {"type":"Boolean","options":{}}
+ValueRequired:: {"type":"Boolean","options":{}} 
 
 
 ## Confidential Links & Embeds: 

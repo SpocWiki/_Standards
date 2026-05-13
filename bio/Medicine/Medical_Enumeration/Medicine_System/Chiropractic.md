@@ -35,7 +35,8 @@ A system of medicine focused on the relationship between the body's structure, m
 
 #has_/parent_class :: [[../MedicineSystem|MedicineSystem]]  
 
-#is_/enum_of :: [[../MedicineSystem|MedicineSystem]]  
+#is_/enum_of :: [[../MedicineSystem|MedicineSystem]] 
+
 
 ## Confidential Links & Embeds: 
 

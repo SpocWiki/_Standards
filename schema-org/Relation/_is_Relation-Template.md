@@ -87,6 +87,7 @@ has_parent_property = `=this.dv_has_parent_property`
 
 has_child_property = `=this.dv_has_child_property` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Relation/_is_Relation-Template|_is_Relation-Template]] 

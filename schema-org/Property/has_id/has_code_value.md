@@ -81,19 +81,20 @@ has_range = `=this.dv_has_range`
 
 has_parent_property = `=this.dv_has_parent_property` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_code_value|has_code_value]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_id/has_code_value|has_code_value]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_code_value.public|has_code_value.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_id/has_code_value.public|has_code_value.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_code_value.internal|has_code_value.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_id/has_code_value.internal|has_code_value.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_code_value.protect|has_code_value.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_id/has_code_value.protect|has_code_value.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_code_value.private|has_code_value.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_id/has_code_value.private|has_code_value.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_code_value.personal|has_code_value.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_id/has_code_value.personal|has_code_value.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_code_value.secret|has_code_value.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_id/has_code_value.secret|has_code_value.secret]] 
 

@@ -184,7 +184,7 @@ Bipedal predatory dinosaurs
     -   [Fish-eating Dinosaur         Found](http://news.bbc.co.uk/hi/english/sci/tech/newsid_213000/213073.stm).
         BBC News.
 -   [Big Al, the     Allosaurus](http://w3.uwyo.edu/%7Ertravsky/big_al.html). Geological
-    Museum of the University of Wyoming.
+    Museum of the University of Wyoming. 
 
 
 ## Confidential Links & Embeds: 

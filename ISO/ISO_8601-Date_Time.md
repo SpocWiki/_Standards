@@ -101,7 +101,7 @@ Durations can be specified as alphanumeric Strings using this Format:
 # Dates and Times: 
 Points in Time can be specified as alphanumeric Strings using this Format: 
 `YYYY-MM-ddTHH:mm:ss.fff+hh:mm` 
-Separating date and time parts with other characters such as space is not allowed in ISO 8601, but allowed in its profile RFC 3339.
+Separating date and time parts with other characters such as space is not allowed in ISO 8601, but allowed in its profile RFC 3339. 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ The act of applying an object to its intended purpose.
 #class/UseAction
 #class/Thing/Action/ConsumeAction/UseAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

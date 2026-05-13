@@ -32,7 +32,7 @@ Health and beauty.
 #class/HealthAndBeautyBusiness
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

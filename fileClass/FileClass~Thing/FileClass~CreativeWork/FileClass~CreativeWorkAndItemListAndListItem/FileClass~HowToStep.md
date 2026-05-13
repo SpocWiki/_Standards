@@ -32,7 +32,7 @@ A step in the instructions for how to achieve a result. It is an ordered list wi
 #class/HowToStep
 #class/Thing/CreativeWork/CreativeWorkAndItemListAndListItem/HowToStep
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

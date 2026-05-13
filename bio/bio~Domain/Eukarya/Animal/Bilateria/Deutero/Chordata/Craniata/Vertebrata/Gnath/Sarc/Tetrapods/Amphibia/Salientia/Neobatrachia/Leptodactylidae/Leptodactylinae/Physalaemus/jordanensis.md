@@ -64,7 +64,7 @@ Containing group: [Physalaemus](../Physalaemus.md)
 
   --------
   copyright ::   © 1996 Adao Cardoso
-  --------
+  -------- 
 
 
 ## Confidential Links & Embeds: 

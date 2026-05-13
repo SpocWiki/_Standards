@@ -243,7 +243,7 @@ taxon sampling is needed (Carroll and Bradley, 2005).
 scientific_name ::  Sigmodon hispidus
 Comments          The hispid cotton rat
 copyright ::         © 1996 R. H. Baker
------------
+----------- 
 
 
 ## Confidential Links & Embeds: 

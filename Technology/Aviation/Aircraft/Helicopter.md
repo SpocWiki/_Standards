@@ -302,17 +302,17 @@ Unicode_character: 🚁
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Helicopter|Helicopter]] 
+### #is_/same_as :: [[/_Standards/Technology/Aviation/Aircraft/Helicopter|Helicopter]] 
 
-### #is_/same_as :: [[/_public/Technology/Aviation/Helicopter.public|Helicopter.public]] 
+### #is_/same_as :: [[/_public/Technology/Aviation/Aircraft/Helicopter.public|Helicopter.public]] 
 
-### #is_/same_as :: [[/_internal/Technology/Aviation/Helicopter.internal|Helicopter.internal]] 
+### #is_/same_as :: [[/_internal/Technology/Aviation/Aircraft/Helicopter.internal|Helicopter.internal]] 
 
-### #is_/same_as :: [[/_protect/Technology/Aviation/Helicopter.protect|Helicopter.protect]] 
+### #is_/same_as :: [[/_protect/Technology/Aviation/Aircraft/Helicopter.protect|Helicopter.protect]] 
 
-### #is_/same_as :: [[/_private/Technology/Aviation/Helicopter.private|Helicopter.private]] 
+### #is_/same_as :: [[/_private/Technology/Aviation/Aircraft/Helicopter.private|Helicopter.private]] 
 
-### #is_/same_as :: [[/_personal/Technology/Aviation/Helicopter.personal|Helicopter.personal]] 
+### #is_/same_as :: [[/_personal/Technology/Aviation/Aircraft/Helicopter.personal|Helicopter.personal]] 
 
-### #is_/same_as :: [[/_secret/Technology/Aviation/Helicopter.secret|Helicopter.secret]] 
+### #is_/same_as :: [[/_secret/Technology/Aviation/Aircraft/Helicopter.secret|Helicopter.secret]] 
 

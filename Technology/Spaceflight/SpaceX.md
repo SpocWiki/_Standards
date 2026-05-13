@@ -268,3 +268,21 @@ dv_has_:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/SpaceX)
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Technology/Spaceflight/SpaceX|SpaceX]] 
+
+### #is_/same_as :: [[/_public/Technology/Spaceflight/SpaceX.public|SpaceX.public]] 
+
+### #is_/same_as :: [[/_internal/Technology/Spaceflight/SpaceX.internal|SpaceX.internal]] 
+
+### #is_/same_as :: [[/_protect/Technology/Spaceflight/SpaceX.protect|SpaceX.protect]] 
+
+### #is_/same_as :: [[/_private/Technology/Spaceflight/SpaceX.private|SpaceX.private]] 
+
+### #is_/same_as :: [[/_personal/Technology/Spaceflight/SpaceX.personal|SpaceX.personal]] 
+
+### #is_/same_as :: [[/_secret/Technology/Spaceflight/SpaceX.secret|SpaceX.secret]] 

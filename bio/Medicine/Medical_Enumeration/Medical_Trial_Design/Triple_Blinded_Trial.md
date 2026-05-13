@@ -37,7 +37,8 @@ A trial design in which neither the researcher, the person administering the the
 
 #has_/parent_class :: [[../MedicalTrialDesign|MedicalTrialDesign]]  
 
-#is_/enum_of :: [[../MedicalTrialDesign|MedicalTrialDesign]]  
+#is_/enum_of :: [[../MedicalTrialDesign|MedicalTrialDesign]] 
+
 
 ## Confidential Links & Embeds: 
 

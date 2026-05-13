@@ -193,3 +193,20 @@ dv_has_:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/2016%20United%20Kingdom%20European%20Union%20membership%20referendum) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/EU(European_Union)/Brexit/Brexit_Referendum|Brexit_Referendum]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/EU(European_Union)/Brexit/Brexit_Referendum.public|Brexit_Referendum.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/EU(European_Union)/Brexit/Brexit_Referendum.internal|Brexit_Referendum.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/EU(European_Union)/Brexit/Brexit_Referendum.protect|Brexit_Referendum.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/EU(European_Union)/Brexit/Brexit_Referendum.private|Brexit_Referendum.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/EU(European_Union)/Brexit/Brexit_Referendum.personal|Brexit_Referendum.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/EU(European_Union)/Brexit/Brexit_Referendum.secret|Brexit_Referendum.secret]] 
+

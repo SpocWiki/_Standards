@@ -97,8 +97,7 @@ supply chain management, e-business, and more.
 
 ```ccard
 type: folder_brief_live
-```
- 
+``` 
 
 
 ## Confidential Links & Embeds: 

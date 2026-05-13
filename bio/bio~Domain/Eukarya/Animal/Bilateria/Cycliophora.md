@@ -124,7 +124,7 @@ The three known hosts are
 
 -   » Sub-Groups 
 	-   *Symbion pandora*
-	-   *Symbion americanus*
+	-   *Symbion americanus* 
 
 
 ## Confidential Links & Embeds: 

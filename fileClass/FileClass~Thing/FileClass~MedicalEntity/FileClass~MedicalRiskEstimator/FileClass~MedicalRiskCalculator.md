@@ -32,7 +32,7 @@ A complex mathematical calculation requiring an online calculator, used to asses
 #class/MedicalRiskCalculator
 #class/Thing/MedicalEntity/MedicalRiskEstimator/MedicalRiskCalculator
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

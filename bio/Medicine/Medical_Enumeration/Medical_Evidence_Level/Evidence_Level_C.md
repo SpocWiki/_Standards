@@ -37,7 +37,8 @@ Only consensus opinion of experts, case studies, or standard-of-care.
 
 #has_/parent_class :: [[../MedicalEvidenceLevel|MedicalEvidenceLevel]]  
 
-#is_/enum_of :: [[../MedicalEvidenceLevel|MedicalEvidenceLevel]]  
+#is_/enum_of :: [[../MedicalEvidenceLevel|MedicalEvidenceLevel]] 
+
 
 ## Confidential Links & Embeds: 
 

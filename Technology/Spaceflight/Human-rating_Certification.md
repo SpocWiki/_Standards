@@ -76,3 +76,21 @@ In short, **human-rated** signifies that a system is built to protect and suppor
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Human-rating%20certification)   
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Technology/Spaceflight/Human-rating_Certification|Human-rating_Certification]] 
+
+### #is_/same_as :: [[/_public/Technology/Spaceflight/Human-rating_Certification.public|Human-rating_Certification.public]] 
+
+### #is_/same_as :: [[/_internal/Technology/Spaceflight/Human-rating_Certification.internal|Human-rating_Certification.internal]] 
+
+### #is_/same_as :: [[/_protect/Technology/Spaceflight/Human-rating_Certification.protect|Human-rating_Certification.protect]] 
+
+### #is_/same_as :: [[/_private/Technology/Spaceflight/Human-rating_Certification.private|Human-rating_Certification.private]] 
+
+### #is_/same_as :: [[/_personal/Technology/Spaceflight/Human-rating_Certification.personal|Human-rating_Certification.personal]] 
+
+### #is_/same_as :: [[/_secret/Technology/Spaceflight/Human-rating_Certification.secret|Human-rating_Certification.secret]] 

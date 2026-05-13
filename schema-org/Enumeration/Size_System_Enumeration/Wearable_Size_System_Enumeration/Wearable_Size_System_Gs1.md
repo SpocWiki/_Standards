@@ -64,7 +64,8 @@ is_part_of = `=this.dv_is_part_of`
 [[../../../../Dimension/Unit_of_Measure/gs1|GS1]] (formerly NRF) size system for [[../../../../Technology/Tool/Clothing|wearables]].
 
 Tag Instances like this: 
-#is_a_/wearable_size_system_/gs1
+#is_a_/wearable_size_system_/gs1 
+
 
 ## Confidential Links & Embeds: 
 

@@ -78,19 +78,20 @@ has_domain = `=this.dv_has_domain`
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[is_legislation_transpose_of|is_legislation_transpose_of]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_legislation/is_legislation_transpose_of|is_legislation_transpose_of]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/is/is_legislation_transpose_of.public|is_legislation_transpose_of.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_legislation/is_legislation_transpose_of.public|is_legislation_transpose_of.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_legislation_transpose_of.internal|is_legislation_transpose_of.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_legislation/is_legislation_transpose_of.internal|is_legislation_transpose_of.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_legislation_transpose_of.protect|is_legislation_transpose_of.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_legislation/is_legislation_transpose_of.protect|is_legislation_transpose_of.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/is/is_legislation_transpose_of.private|is_legislation_transpose_of.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_legislation/is_legislation_transpose_of.private|is_legislation_transpose_of.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_legislation_transpose_of.personal|is_legislation_transpose_of.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_legislation/is_legislation_transpose_of.personal|is_legislation_transpose_of.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_legislation_transpose_of.secret|is_legislation_transpose_of.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_legislation/is_legislation_transpose_of.secret|is_legislation_transpose_of.secret]] 
 

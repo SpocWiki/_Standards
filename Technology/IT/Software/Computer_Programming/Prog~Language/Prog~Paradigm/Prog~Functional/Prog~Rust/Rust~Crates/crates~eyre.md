@@ -7,7 +7,7 @@ fn get_cluster_info() -> Result<String> {
     let config = std::fs::read_to_string("cluster.json")?;
     Ok(config)
 }
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

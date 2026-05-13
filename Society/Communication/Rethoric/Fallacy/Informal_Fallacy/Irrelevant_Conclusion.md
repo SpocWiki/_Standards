@@ -98,3 +98,21 @@ dv_has_:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Irrelevant%20conclusion)  
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Irrelevant_Conclusion|Irrelevant_Conclusion]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Irrelevant_Conclusion.public|Irrelevant_Conclusion.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Irrelevant_Conclusion.internal|Irrelevant_Conclusion.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Irrelevant_Conclusion.protect|Irrelevant_Conclusion.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Irrelevant_Conclusion.private|Irrelevant_Conclusion.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Irrelevant_Conclusion.personal|Irrelevant_Conclusion.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Irrelevant_Conclusion.secret|Irrelevant_Conclusion.secret]] 

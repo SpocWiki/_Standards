@@ -184,7 +184,7 @@ ScheduledPaymentDate:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defa
 ### TotalPaymentDue
 The total amount due.
 
-TotalPaymentDue:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')"}}
+TotalPaymentDue:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')"}} 
 
 
 ## Confidential Links & Embeds: 

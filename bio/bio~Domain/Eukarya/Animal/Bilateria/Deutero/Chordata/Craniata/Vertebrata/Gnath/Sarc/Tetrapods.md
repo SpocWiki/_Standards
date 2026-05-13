@@ -675,7 +675,7 @@ Comments             The Devonian terrestrial choanates Acanthostega (bottom) an
 Reference            first published in Discover Magazine
 Creator              Illustration by Alfred Kamajian
 specimen_condition ::  Fossil \-- Period: Devonian
-copyright ::            © 1995 Alfred Kamajian
+copyright ::            © 1995 Alfred Kamajian 
 
 
 ## Confidential Links & Embeds: 

@@ -76,17 +76,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_postal_code_prefix|has_postal_code_prefix]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_location/has_postal_code_prefix|has_postal_code_prefix]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_postal_code_prefix.public|has_postal_code_prefix.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_location/has_postal_code_prefix.public|has_postal_code_prefix.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_postal_code_prefix.internal|has_postal_code_prefix.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_location/has_postal_code_prefix.internal|has_postal_code_prefix.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_postal_code_prefix.protect|has_postal_code_prefix.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_location/has_postal_code_prefix.protect|has_postal_code_prefix.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_postal_code_prefix.private|has_postal_code_prefix.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_location/has_postal_code_prefix.private|has_postal_code_prefix.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_postal_code_prefix.personal|has_postal_code_prefix.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_location/has_postal_code_prefix.personal|has_postal_code_prefix.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_postal_code_prefix.secret|has_postal_code_prefix.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_location/has_postal_code_prefix.secret|has_postal_code_prefix.secret]] 
 

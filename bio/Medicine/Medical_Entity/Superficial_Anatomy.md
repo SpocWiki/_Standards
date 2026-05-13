@@ -36,7 +36,8 @@ Anatomical features that can be observed by sight (without dissection), includin
 
 #has_/parent_class :: [[../MedicalEntity|MedicalEntity]]  
 
-#has_/properties :: [ additionalType, alternateName, associatedPathophysiology, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relatedAnatomy, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, significance, study, subjectOf, url ]  
+#has_/properties :: [ additionalType, alternateName, associatedPathophysiology, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relatedAnatomy, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, significance, study, subjectOf, url ] 
+
 
 ## Confidential Links & Embeds: 
 

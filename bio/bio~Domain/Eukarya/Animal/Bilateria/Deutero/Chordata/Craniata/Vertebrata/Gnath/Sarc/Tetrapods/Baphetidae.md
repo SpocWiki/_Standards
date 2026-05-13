@@ -188,7 +188,7 @@ scientific_name ::   Megalocephalus
 Comments           skull reconstruction
 Reference          Beaumont, E. I. (1977) Cranial morphology of the Loxommatidae (Amphibia: Labyrinthodontia). Philosophical Transactions of the Royal Society, London, B, 280: 29-101.
 Acknowledgements   reproduced with permission
-copyright ::          © 1977 Royal Society, London
+copyright ::          © 1977 Royal Society, London 
 
 
 ## Confidential Links & Embeds: 

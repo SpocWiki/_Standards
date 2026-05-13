@@ -57,7 +57,7 @@ geojsonFolder: ./Midway-Islands/
 markerFolder: ./Midway-Islands/
 coordinates: [[Midway-Islands]] 
 markerFile: [[Midway-Islands]] 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

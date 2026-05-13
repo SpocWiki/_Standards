@@ -156,8 +156,7 @@
 | Media Ontology    | 25     | 400      | Audio‑visual metadata       |
 | BIBO              | 30     | 500      | Publications and citations  |
 | Creative Commons  | 15     | 250      | Licensing data              |
-| SIOC              | 10     | 150      | Forum / social interaction  |
-
+| SIOC              | 10     | 150      | Forum / social interaction  | 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ A [[NewsArticle]] expressing an open call by a [[NewsMediaOrganization]] asking 
 #class/AskPublicNewsArticle
 #class/Thing/CreativeWork/Article/NewsArticle/AskPublicNewsArticle
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

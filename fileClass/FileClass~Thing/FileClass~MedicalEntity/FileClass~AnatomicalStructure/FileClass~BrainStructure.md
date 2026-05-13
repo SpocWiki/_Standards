@@ -32,7 +32,7 @@ Any anatomical structure which pertains to the soft nervous tissue functioning a
 #class/BrainStructure
 #class/Thing/MedicalEntity/AnatomicalStructure/BrainStructure
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -140,7 +140,7 @@ Comments             West Indian manatee
 Creator              Galen Rathbun
 Acknowledgements     Courtesy of the U.S. Fish and Wildlife Service
 specimen_condition ::  Live Specimen
-Life Cycle Stage ::     cow and calf
+Life Cycle Stage ::     cow and calf 
 
 
 ## Confidential Links & Embeds: 

@@ -74,22 +74,22 @@ Predicated describes that:
 
 has_domain = `=this.dv_has_domain` 
 has_name = `=this.dv_has_name`  
-has_range = `=this.dv_has_range`  
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_iso6523code|has_iso6523code]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_id/has_iso6523code|has_iso6523code]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_iso6523code.public|has_iso6523code.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_id/has_iso6523code.public|has_iso6523code.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_iso6523code.internal|has_iso6523code.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_id/has_iso6523code.internal|has_iso6523code.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_iso6523code.protect|has_iso6523code.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_id/has_iso6523code.protect|has_iso6523code.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_iso6523code.private|has_iso6523code.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_id/has_iso6523code.private|has_iso6523code.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_iso6523code.personal|has_iso6523code.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_id/has_iso6523code.personal|has_iso6523code.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_iso6523code.secret|has_iso6523code.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_id/has_iso6523code.secret|has_iso6523code.secret]] 
 

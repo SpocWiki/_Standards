@@ -52,7 +52,7 @@ title: Miscellaneous fossil pecorans
 	-   *Palaeohypsodontus* †
 	-   *Palaeomerycidae* †
 	-   *Rutitherium* †
-	-   *Walangania* †
+	-   *Walangania* † 
 
 
 ## Confidential Links & Embeds: 

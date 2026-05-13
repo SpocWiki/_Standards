@@ -28,7 +28,7 @@ title: Protoscorpiones
 
 -   » Sub-Groups 
 	-   *Allopalaeophonidae* †
-	-   *Palaeoscorpiidae* †
+	-   *Palaeoscorpiidae* † 
 
 
 ## Confidential Links & Embeds: 

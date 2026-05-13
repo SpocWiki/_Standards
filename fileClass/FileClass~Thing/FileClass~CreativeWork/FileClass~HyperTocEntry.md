@@ -53,7 +53,7 @@ TocContinuation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cla
 ### Utterances
 Text of an utterances (spoken words, lyrics etc.) that occurs at a certain section of a media object, represented as a [[HyperTocEntry]].
 
-Utterances:: {"type":"Input","options":{}}
+Utterances:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

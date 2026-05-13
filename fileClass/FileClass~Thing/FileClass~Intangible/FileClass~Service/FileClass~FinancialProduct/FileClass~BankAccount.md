@@ -64,7 +64,7 @@ AccountOverdraftLimit:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages
 ### BankAccountType
 The type of a bank account.
 
-BankAccountType:: {"type":"Input","options":{}}
+BankAccountType:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

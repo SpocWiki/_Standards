@@ -130,7 +130,7 @@ Containing group: [Squirrel](../Squirrel.md)
   specimen_condition ::  Live Specimen
   Source Collection    [InsectImages.org](http://www.insectimages.org/)
   copyright ::            © Gil Wojciech, Polish Forest Research Institute
-  ------------------------------
+  ------------------------------ 
 
 
 ## Confidential Links & Embeds: 

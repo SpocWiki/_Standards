@@ -595,8 +595,7 @@ value: dv.current().hist_area_km2
 , maxRow: 60
 , widthFrom : "all"
 });
-```
-
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -150,8 +150,6 @@ type: private_note
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Bakshi,Ralph.personal|Bakshi,Ralph.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Bakshi,Ralph.secret|Bakshi,Ralph.secret]] 
-
-
 # [[Bakshi,Ralph]] 
 
 #is_/part_of :: [[Ralph_Bakshi]] 

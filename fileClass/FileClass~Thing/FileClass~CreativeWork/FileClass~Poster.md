@@ -32,7 +32,7 @@ A large, usually printed placard, bill, or announcement, often illustrated, that
 #class/Poster
 #class/Thing/CreativeWork/Poster
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

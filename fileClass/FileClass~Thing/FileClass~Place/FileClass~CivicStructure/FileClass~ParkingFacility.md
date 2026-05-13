@@ -32,7 +32,7 @@ A parking lot or other parking facility.
 #class/ParkingFacility
 #class/Thing/Place/CivicStructure/ParkingFacility
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -36,7 +36,7 @@ An EndorsementRating is a rating that expresses some level of endorsement, for e
 #class/EndorsementRating
 #class/Thing/Intangible/Rating/EndorsementRating
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

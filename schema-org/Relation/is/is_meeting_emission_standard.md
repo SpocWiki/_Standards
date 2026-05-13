@@ -74,17 +74,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_meeting_standard_for_emission|is_meeting_standard_for_emission]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_meeting_emission_standard|is_meeting_emission_standard]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/is/is_meeting_standard_for_emission.public|is_meeting_standard_for_emission.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_meeting_emission_standard.public|is_meeting_emission_standard.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_meeting_standard_for_emission.internal|is_meeting_standard_for_emission.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_meeting_emission_standard.internal|is_meeting_emission_standard.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_meeting_standard_for_emission.protect|is_meeting_standard_for_emission.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_meeting_emission_standard.protect|is_meeting_emission_standard.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/is/is_meeting_standard_for_emission.private|is_meeting_standard_for_emission.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_meeting_emission_standard.private|is_meeting_emission_standard.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_meeting_standard_for_emission.personal|is_meeting_standard_for_emission.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_meeting_emission_standard.personal|is_meeting_emission_standard.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_meeting_standard_for_emission.secret|is_meeting_standard_for_emission.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_meeting_emission_standard.secret|is_meeting_emission_standard.secret]] 
 

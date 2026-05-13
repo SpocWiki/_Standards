@@ -671,7 +671,7 @@ copyright ::            © 2005 [Dennis Stevenson](http://www.plantsystematics.o
 -------------------------- 
 ![Prosopis pallida](Fabaceae/Prosopis_pallida.jpg) 
 scientific_name ::  Prosopis pallida (Humb. & Bonpl. ex Willd.) Kunth
-copyright ::         © [G. D. Carr](http://www.botany.hawaii.edu/faculty/carr)
+copyright ::         © [G. D. Carr](http://www.botany.hawaii.edu/faculty/carr) 
 
 
 ## Confidential Links & Embeds: 

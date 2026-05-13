@@ -244,7 +244,7 @@ dv_has_:
   Comments           Papaya tree (Caricaceae).
   Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
   copyright ::          © 2001 University of Basel, Basel, Switzerland 
-  ------------------------------------------------------------------------
+  ------------------------------------------------------------------------ 
 
 
 ## Confidential Links & Embeds: 

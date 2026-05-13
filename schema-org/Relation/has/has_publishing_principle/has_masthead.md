@@ -89,17 +89,17 @@ has_range =  `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_masthead|has_masthead]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_publishing_principle/has_masthead|has_masthead]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_masthead.public|has_masthead.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_publishing_principle/has_masthead.public|has_masthead.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_masthead.internal|has_masthead.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_publishing_principle/has_masthead.internal|has_masthead.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_masthead.protect|has_masthead.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_publishing_principle/has_masthead.protect|has_masthead.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_masthead.private|has_masthead.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_publishing_principle/has_masthead.private|has_masthead.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_masthead.personal|has_masthead.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_publishing_principle/has_masthead.personal|has_masthead.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_masthead.secret|has_masthead.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_publishing_principle/has_masthead.secret|has_masthead.secret]] 
 

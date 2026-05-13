@@ -32,7 +32,7 @@ A defence establishment, such as an army or navy base.
 #class/DefenceEstablishment
 #class/Thing/Place/CivicStructure/GovernmentBuilding/DefenceEstablishment
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

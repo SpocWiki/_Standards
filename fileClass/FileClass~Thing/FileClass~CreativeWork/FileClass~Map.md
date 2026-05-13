@@ -37,7 +37,7 @@ A map.
 ### MapType
 Indicates the kind of Map, from the MapCategoryType Enumeration.
 
-MapType:: {"type":"Select","options":{"valuesList":{"ParkingMap","SeatingMap","TransitMap","VenueMap"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
+MapType:: {"type":"Select","options":{"valuesList":{"ParkingMap","SeatingMap","TransitMap","VenueMap"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}} 
 
 
 ## Confidential Links & Embeds: 

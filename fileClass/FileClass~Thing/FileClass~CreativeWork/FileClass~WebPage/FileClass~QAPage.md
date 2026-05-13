@@ -32,7 +32,7 @@ A QAPage is a WebPage focussed on a specific Question and its Answer(s), e.g. in
 #class/QAPage
 #class/Thing/CreativeWork/WebPage/QAPage
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

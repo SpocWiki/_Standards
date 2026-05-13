@@ -32,7 +32,7 @@ An [[OpinionNewsArticle]] is a [[NewsArticle]] that primarily expresses opinions
 #class/OpinionNewsArticle
 #class/Thing/CreativeWork/Article/NewsArticle/OpinionNewsArticle
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

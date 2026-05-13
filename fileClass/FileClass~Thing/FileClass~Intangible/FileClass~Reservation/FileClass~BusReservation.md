@@ -34,7 +34,7 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 #class/BusReservation
 #class/Thing/Intangible/Reservation/BusReservation
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

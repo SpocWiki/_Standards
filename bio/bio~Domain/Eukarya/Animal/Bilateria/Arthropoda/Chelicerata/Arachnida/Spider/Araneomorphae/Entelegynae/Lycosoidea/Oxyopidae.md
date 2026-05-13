@@ -50,7 +50,7 @@ Containing group:[Lycosoidea](../Lycosoidea.md)
   Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
   copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebrizio/) 
  
-  ----------------------------------------------------------------------------
+  ---------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

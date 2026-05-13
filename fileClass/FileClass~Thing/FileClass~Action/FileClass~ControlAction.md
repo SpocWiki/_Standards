@@ -31,7 +31,7 @@ An agent controls a device or application.
 #class/ControlAction
 #class/Thing/Action/ControlAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

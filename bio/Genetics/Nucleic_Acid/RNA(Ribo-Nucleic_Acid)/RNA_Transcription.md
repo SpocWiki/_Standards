@@ -38,7 +38,7 @@
    - **Termination Signals**: DNA sequences signaling the end of transcription.
 
 3. **Transcription Factor**  
-   A protein that assists in the binding of RNA polymerase to the promoter and the subsequent initiation of transcription.
+   A protein that assists in the binding of RNA polymerase to the promoter and the subsequent initiation of transcription. 
 
 
 ## Confidential Links & Embeds: 

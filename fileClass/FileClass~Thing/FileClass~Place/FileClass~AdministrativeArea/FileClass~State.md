@@ -32,7 +32,7 @@ A state or province of a country.
 #class/State
 #class/Thing/Place/AdministrativeArea/State
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

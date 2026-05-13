@@ -44,7 +44,7 @@ markerFolder: ./{{EnglishName}}/
 ```
 
 has_name_en = `=this.dv_has_name_en`
-has_name_de = `=this.dv_has_name_de`
+has_name_de = `=this.dv_has_name_de` 
 
 
 ## Confidential Links & Embeds: 

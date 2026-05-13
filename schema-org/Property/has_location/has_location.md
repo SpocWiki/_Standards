@@ -134,9 +134,10 @@ has_name = `=this.dv_has_name`
 
 has_child_property = `=this.dv_has_child_property` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_location|has_location]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_location/has_location|has_location]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Property/has_location/has_location.public|has_location.public]] 
 

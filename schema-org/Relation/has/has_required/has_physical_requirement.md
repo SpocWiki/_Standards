@@ -83,22 +83,22 @@ Relation describes that:
 
 has_domain = `=this.dv_has_domain` 
 has_name = `=this.dv_has_name` 
-has_range :: `=this.dv_has_range`
+has_range :: `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_physical_requirement|has_physical_requirement]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_required/has_physical_requirement|has_physical_requirement]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_physical_requirement.public|has_physical_requirement.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_required/has_physical_requirement.public|has_physical_requirement.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_physical_requirement.internal|has_physical_requirement.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_required/has_physical_requirement.internal|has_physical_requirement.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_physical_requirement.protect|has_physical_requirement.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_required/has_physical_requirement.protect|has_physical_requirement.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_physical_requirement.private|has_physical_requirement.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_required/has_physical_requirement.private|has_physical_requirement.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_physical_requirement.personal|has_physical_requirement.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_required/has_physical_requirement.personal|has_physical_requirement.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_physical_requirement.secret|has_physical_requirement.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_required/has_physical_requirement.secret|has_physical_requirement.secret]] 
 

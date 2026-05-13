@@ -64,7 +64,7 @@ is_part_of = `=this.dv_is_part_of`
 Size group "Big" for wearables.
 
 Tag Instances like this: 
-#is_a_/wearable_size_/group_/big
+#is_a_/wearable_size_/group_/big 
 
 
 ## Confidential Links & Embeds: 

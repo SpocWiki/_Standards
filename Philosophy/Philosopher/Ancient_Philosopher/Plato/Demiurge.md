@@ -21,7 +21,22 @@
 > 
 > Within the vast spectrum of Gnostic traditions, views of the Demiurge range dramatically. It is generally understood and agreed upon to be a lesser divinity who governs the material universe. However, the nature of its rule over the material realm differs from school to school. Sethian Gnostics portrays the Demiurge as an oppressive, ignorant ruler, intentionally binding spirits in an inherently corrupt material realm. In contrast, Valentinian Gnostics see the Demiurge as a well-meaning but limited figure whose rule reflects ignorance rather than malice.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Demiurge)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Demiurge) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Plato/Demiurge|Demiurge]] 
+
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Ancient_Philosopher/Plato/Demiurge.public|Demiurge.public]] 
+
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Ancient_Philosopher/Plato/Demiurge.internal|Demiurge.internal]] 
+
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Ancient_Philosopher/Plato/Demiurge.protect|Demiurge.protect]] 
+
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Ancient_Philosopher/Plato/Demiurge.private|Demiurge.private]] 
+
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Ancient_Philosopher/Plato/Demiurge.personal|Demiurge.personal]] 
+
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Ancient_Philosopher/Plato/Demiurge.secret|Demiurge.secret]] 
 

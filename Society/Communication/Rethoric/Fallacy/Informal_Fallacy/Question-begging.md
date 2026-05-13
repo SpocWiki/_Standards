@@ -38,3 +38,21 @@ instance_of: "[[_Standards/WikiData/WD~type_of_fallacy,130993199]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Begging%20the%20question)  
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Question-begging|Question-begging]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Question-begging.public|Question-begging.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Question-begging.internal|Question-begging.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Question-begging.protect|Question-begging.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Question-begging.private|Question-begging.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Question-begging.personal|Question-begging.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Question-begging.secret|Question-begging.secret]] 

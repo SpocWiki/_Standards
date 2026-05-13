@@ -265,7 +265,7 @@ African Jour. Mar. Sci., 20: 393-420.
   scientific_name ::  Chiroteuthis veranyi
   location ::        Antarctic waters
   copyright ::         © 1996 E. McSweeny
-  ----------
+  ---------- 
 
 
 ## Confidential Links & Embeds: 

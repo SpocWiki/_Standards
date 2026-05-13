@@ -32,7 +32,7 @@ A place offering space for "Recreational Vehicles", Caravans, mobile homes and t
 #class/RVPark
 #class/Thing/Place/CivicStructure/RVPark
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

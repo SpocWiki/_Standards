@@ -85,3 +85,21 @@ dv_has_:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Appeal%20to%20emotion)  
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Appeal_Fallacy/Appeal_to_Emotion|Appeal_to_Emotion]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Appeal_Fallacy/Appeal_to_Emotion.public|Appeal_to_Emotion.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Appeal_Fallacy/Appeal_to_Emotion.internal|Appeal_to_Emotion.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Appeal_Fallacy/Appeal_to_Emotion.protect|Appeal_to_Emotion.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Appeal_Fallacy/Appeal_to_Emotion.private|Appeal_to_Emotion.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Appeal_Fallacy/Appeal_to_Emotion.personal|Appeal_to_Emotion.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Appeal_Fallacy/Appeal_to_Emotion.secret|Appeal_to_Emotion.secret]] 

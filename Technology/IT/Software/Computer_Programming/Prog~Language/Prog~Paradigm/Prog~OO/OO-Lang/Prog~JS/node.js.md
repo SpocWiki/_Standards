@@ -34,7 +34,7 @@ Here are a few steps you can take to troubleshoot the issue:
 5. **Check GitHub Issues:**
    Check the GitHub repository for `nodist` to see if there are any reported issues related to version resolution problems. The repository is usually found at [https://github.com/nullivex/nodist](https://github.com/nullivex/nodist).
 
-Always make sure to double-check the Node.js version availability and consult the `nodist` documentation or community for the latest information and potential bug fixes. If the issue persists, it may be worthwhile to open a GitHub issue for further assistance.
+Always make sure to double-check the Node.js version availability and consult the `nodist` documentation or community for the latest information and potential bug fixes. If the issue persists, it may be worthwhile to open a GitHub issue for further assistance. 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ A restaurant.
 #class/Restaurant
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Restaurant
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

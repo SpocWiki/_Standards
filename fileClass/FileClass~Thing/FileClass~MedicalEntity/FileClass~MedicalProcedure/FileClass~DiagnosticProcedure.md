@@ -32,7 +32,7 @@ A medical procedure intended primarily for diagnostic, as opposed to therapeutic
 #class/DiagnosticProcedure
 #class/Thing/MedicalEntity/MedicalProcedure/DiagnosticProcedure
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

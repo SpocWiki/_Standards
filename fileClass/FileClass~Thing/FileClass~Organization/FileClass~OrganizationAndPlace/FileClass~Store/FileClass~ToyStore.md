@@ -32,7 +32,7 @@ A toy store.
 #class/ToyStore
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ToyStore
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

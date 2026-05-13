@@ -98,7 +98,7 @@ NumAdults:: {"type":"Number","options":{}}
 ### NumChildren
 The number of children staying in the unit.
 
-NumChildren:: {"type":"Number","options":{}}
+NumChildren:: {"type":"Number","options":{}} 
 
 
 ## Confidential Links & Embeds: 

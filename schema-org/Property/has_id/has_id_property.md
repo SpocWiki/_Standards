@@ -76,17 +76,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_id_property|has_id_property]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_id/has_id_property|has_id_property]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_id_property.public|has_id_property.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_id/has_id_property.public|has_id_property.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_id_property.internal|has_id_property.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_id/has_id_property.internal|has_id_property.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_id_property.protect|has_id_property.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_id/has_id_property.protect|has_id_property.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_id_property.private|has_id_property.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_id/has_id_property.private|has_id_property.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_id_property.personal|has_id_property.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_id/has_id_property.personal|has_id_property.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_id_property.secret|has_id_property.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_id/has_id_property.secret|has_id_property.secret]] 
 

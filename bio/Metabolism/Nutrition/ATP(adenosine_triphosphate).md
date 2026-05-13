@@ -184,6 +184,22 @@ dv_has_:
 > - the sugar ribose, and 
 > - the triphosphate.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Adenosine%20triphosphate)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Adenosine%20triphosphate) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/ATP(adenosine_triphosphate)|ATP(adenosine_triphosphate)]] 
+
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/ATP(adenosine_triphosphate).public|ATP(adenosine_triphosphate).public]] 
+
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/ATP(adenosine_triphosphate).internal|ATP(adenosine_triphosphate).internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/ATP(adenosine_triphosphate).protect|ATP(adenosine_triphosphate).protect]] 
+
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/ATP(adenosine_triphosphate).private|ATP(adenosine_triphosphate).private]] 
+
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/ATP(adenosine_triphosphate).personal|ATP(adenosine_triphosphate).personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/ATP(adenosine_triphosphate).secret|ATP(adenosine_triphosphate).secret]] 
 

@@ -53,7 +53,7 @@ CodeValue:: {"type":"Input","options":{}}
 ### InCodeSet
 A [[CategoryCodeSet]] that contains this category code.
 
-InCodeSet:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/DefinedTermSet/CategoryCodeSet')"}}
+InCodeSet:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/DefinedTermSet/CategoryCodeSet')"}} 
 
 
 ## Confidential Links & Embeds: 

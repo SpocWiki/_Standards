@@ -32,7 +32,7 @@ See HealthAndBeautyBusiness, SportsActivityLocation for more information.
 #class/HealthAndBeautyBusinessAndSportsActivityLocation
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/HealthAndBeautyBusinessAndSportsActivityLocation
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

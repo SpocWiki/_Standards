@@ -107,6 +107,7 @@ has_child_class = `=this.dv_has_child_class`
 
 has_properties = `=this.dv_has_properties` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Audience|Audience]] 

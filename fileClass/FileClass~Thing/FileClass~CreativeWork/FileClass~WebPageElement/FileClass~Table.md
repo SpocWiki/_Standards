@@ -32,7 +32,7 @@ A table on a Web page.
 #class/Table
 #class/Thing/CreativeWork/WebPageElement/Table
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ A dentist.
 #class/Dentist
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization/Dentist
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

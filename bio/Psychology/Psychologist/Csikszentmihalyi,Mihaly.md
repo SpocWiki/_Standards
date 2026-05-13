@@ -141,6 +141,21 @@ Other books include
 ![[Csikszentmihalyi,Mihaly.svg]] 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Psychology/Psychologist/Csikszentmihalyi,Mihaly|Csikszentmihalyi,Mihaly]] 
+
+### #is_/same_as :: [[/_public/bio/Psychology/Psychologist/Csikszentmihalyi,Mihaly.public|Csikszentmihalyi,Mihaly.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Psychology/Psychologist/Csikszentmihalyi,Mihaly.internal|Csikszentmihalyi,Mihaly.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Psychology/Psychologist/Csikszentmihalyi,Mihaly.protect|Csikszentmihalyi,Mihaly.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Psychology/Psychologist/Csikszentmihalyi,Mihaly.private|Csikszentmihalyi,Mihaly.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Psychology/Psychologist/Csikszentmihalyi,Mihaly.personal|Csikszentmihalyi,Mihaly.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Psychology/Psychologist/Csikszentmihalyi,Mihaly.secret|Csikszentmihalyi,Mihaly.secret]] 
 %%
 ## Drawing
 ```compressed-json

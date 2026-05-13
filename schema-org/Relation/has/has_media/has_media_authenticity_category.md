@@ -82,17 +82,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_media_authenticity_category|has_media_authenticity_category]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_media/has_media_authenticity_category|has_media_authenticity_category]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_media_authenticity_category.public|has_media_authenticity_category.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_media/has_media_authenticity_category.public|has_media_authenticity_category.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_media_authenticity_category.internal|has_media_authenticity_category.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_media/has_media_authenticity_category.internal|has_media_authenticity_category.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_media_authenticity_category.protect|has_media_authenticity_category.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_media/has_media_authenticity_category.protect|has_media_authenticity_category.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_media_authenticity_category.private|has_media_authenticity_category.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_media/has_media_authenticity_category.private|has_media_authenticity_category.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_media_authenticity_category.personal|has_media_authenticity_category.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_media/has_media_authenticity_category.personal|has_media_authenticity_category.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_media_authenticity_category.secret|has_media_authenticity_category.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_media/has_media_authenticity_category.secret|has_media_authenticity_category.secret]] 
 

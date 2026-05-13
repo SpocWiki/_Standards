@@ -513,7 +513,7 @@ extinct relatives, goes by two formal names: Lissamphibia or Amphibia.
 ---------
 ![](Amphibia/Frog.gif)
 scientific_name ::     Hyla arenicolor
-specimen_condition ::  Live Specimen
+specimen_condition ::  Live Specimen 
 
 
 ## Confidential Links & Embeds: 

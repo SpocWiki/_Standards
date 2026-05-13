@@ -86,21 +86,22 @@ has_domain = `=this.dv_has_domain`
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
-#has_/inverse  :: partOfTrip  
+#has_/inverse  :: partOfTrip 
+
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_child_trip|has_child_trip]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_child/has_child_trip|has_child_trip]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_child_trip.public|has_child_trip.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_child/has_child_trip.public|has_child_trip.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_child_trip.internal|has_child_trip.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_child/has_child_trip.internal|has_child_trip.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_child_trip.protect|has_child_trip.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_child/has_child_trip.protect|has_child_trip.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_child_trip.private|has_child_trip.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_child/has_child_trip.private|has_child_trip.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_child_trip.personal|has_child_trip.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_child/has_child_trip.personal|has_child_trip.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_child_trip.secret|has_child_trip.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_child/has_child_trip.secret|has_child_trip.secret]] 
 

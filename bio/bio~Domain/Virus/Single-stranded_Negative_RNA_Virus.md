@@ -46,7 +46,7 @@ Containing group: [Virus](../Virus.md)
   Comments             Electron micrograph. Arenaviridae are RNA viruses whose particles are spherical and have an average diameter of 110-130 nanometers. Arenaviridae members are zoonotic, which means that in nature they are found in reservoir animal hosts.
   Creator              Center for Disease Control
   specimen_condition ::  Dead Specimen
-  Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
+  Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp) 
 
 
 ## Confidential Links & Embeds: 

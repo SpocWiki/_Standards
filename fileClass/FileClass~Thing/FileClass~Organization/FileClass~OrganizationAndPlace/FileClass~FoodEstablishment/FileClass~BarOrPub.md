@@ -32,7 +32,7 @@ A bar or pub.
 #class/BarOrPub
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/BarOrPub
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

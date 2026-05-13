@@ -106,3 +106,21 @@ aliases:
 
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Economics/Economy/Economy-Books/Capital_in_the_Twenty-First_Century|Capital_in_the_Twenty-First_Century]] 
+
+### #is_/same_as :: [[/_public/Society/Economics/Economy/Economy-Books/Capital_in_the_Twenty-First_Century.public|Capital_in_the_Twenty-First_Century.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Economics/Economy/Economy-Books/Capital_in_the_Twenty-First_Century.internal|Capital_in_the_Twenty-First_Century.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Economics/Economy/Economy-Books/Capital_in_the_Twenty-First_Century.protect|Capital_in_the_Twenty-First_Century.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Economics/Economy/Economy-Books/Capital_in_the_Twenty-First_Century.private|Capital_in_the_Twenty-First_Century.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Economics/Economy/Economy-Books/Capital_in_the_Twenty-First_Century.personal|Capital_in_the_Twenty-First_Century.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Economics/Economy/Economy-Books/Capital_in_the_Twenty-First_Century.secret|Capital_in_the_Twenty-First_Century.secret]] 

@@ -123,7 +123,7 @@ Tool:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/In
 ### TotalTime
 The total time required to perform instructions or a direction (including time to prepare the supplies), in [ISO 8601 duration format](http://en.wikipedia.org/wiki/ISO\_8601).
 
-TotalTime:: {"type":"Number","options":{"min":"0","max":"2359"}}
+TotalTime:: {"type":"Number","options":{"min":"0","max":"2359"}} 
 
 
 ## Confidential Links & Embeds: 

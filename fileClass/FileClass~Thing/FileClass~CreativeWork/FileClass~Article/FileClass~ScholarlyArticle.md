@@ -32,7 +32,7 @@ A scholarly article.
 #class/ScholarlyArticle
 #class/Thing/CreativeWork/Article/ScholarlyArticle
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

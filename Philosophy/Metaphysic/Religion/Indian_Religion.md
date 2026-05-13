@@ -32,7 +32,7 @@ In contrast, Jain thought denies the Hindu metaphysical concept of Brahman,
 and Jain philosophy considers the soul to be ever changing and bound to the body or matter for each lifetime, 
 thereby having a finite size that infuses the entire body of a living being.
 
-Jainism is similar to Buddhism in not recognizing the primacy of the Vedas and the Hindu Brahman. Jainism and Hinduism, however, both believe "soul exists" as a self-evident truth. Jains and Hindus have frequently intermarried, particularly in northern, central and western regions of India. Some early colonial scholars stated that Jainism like Buddhism was, in part, a rejection of the Hindu caste system, but later scholars consider this a Western error. A caste system not based on birth has been a historic part of Jain society, and Jainism focused on transforming the individual, not society.[[h]](https://en.wikipedia.org/wiki/Jainism#cite_note-258)
+Jainism is similar to Buddhism in not recognizing the primacy of the Vedas and the Hindu Brahman. Jainism and Hinduism, however, both believe "soul exists" as a self-evident truth. Jains and Hindus have frequently intermarried, particularly in northern, central and western regions of India. Some early colonial scholars stated that Jainism like Buddhism was, in part, a rejection of the Hindu caste system, but later scholars consider this a Western error. A caste system not based on birth has been a historic part of Jain society, and Jainism focused on transforming the individual, not society.[[h]](https://en.wikipedia.org/wiki/Jainism#cite_note-258) 
 
 
 ## Confidential Links & Embeds: 

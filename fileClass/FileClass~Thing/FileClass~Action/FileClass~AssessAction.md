@@ -32,7 +32,7 @@ The act of forming one's opinion, reaction or sentiment.
 #class/AssessAction
 #class/Thing/Action/AssessAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

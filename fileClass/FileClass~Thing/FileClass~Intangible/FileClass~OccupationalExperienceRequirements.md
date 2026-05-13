@@ -42,7 +42,7 @@ Indicates employment-related experience requirements, e.g. [[monthsOfExperience]
 ### MonthsOfExperience
 Indicates the minimal number of months of experience required for a position.
 
-MonthsOfExperience:: {"type":"Number","options":{}}
+MonthsOfExperience:: {"type":"Number","options":{}} 
 
 
 ## Confidential Links & Embeds: 

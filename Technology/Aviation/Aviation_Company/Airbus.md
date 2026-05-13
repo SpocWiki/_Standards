@@ -281,3 +281,21 @@ is_same_as = `=this.dv_is_same_as`
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Airbus)  
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Technology/Aviation/Aviation_Company/Airbus|Airbus]] 
+
+### #is_/same_as :: [[/_public/Technology/Aviation/Aviation_Company/Airbus.public|Airbus.public]] 
+
+### #is_/same_as :: [[/_internal/Technology/Aviation/Aviation_Company/Airbus.internal|Airbus.internal]] 
+
+### #is_/same_as :: [[/_protect/Technology/Aviation/Aviation_Company/Airbus.protect|Airbus.protect]] 
+
+### #is_/same_as :: [[/_private/Technology/Aviation/Aviation_Company/Airbus.private|Airbus.private]] 
+
+### #is_/same_as :: [[/_personal/Technology/Aviation/Aviation_Company/Airbus.personal|Airbus.personal]] 
+
+### #is_/same_as :: [[/_secret/Technology/Aviation/Aviation_Company/Airbus.secret|Airbus.secret]] 

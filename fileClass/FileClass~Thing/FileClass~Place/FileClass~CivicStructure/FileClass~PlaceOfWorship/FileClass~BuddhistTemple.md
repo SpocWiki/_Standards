@@ -32,7 +32,7 @@ A Buddhist temple.
 #class/BuddhistTemple
 #class/Thing/Place/CivicStructure/PlaceOfWorship/BuddhistTemple
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

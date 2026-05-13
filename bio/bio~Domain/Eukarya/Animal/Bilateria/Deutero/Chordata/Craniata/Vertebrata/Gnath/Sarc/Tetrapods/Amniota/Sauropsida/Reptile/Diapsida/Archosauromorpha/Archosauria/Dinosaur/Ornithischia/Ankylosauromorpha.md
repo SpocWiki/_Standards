@@ -296,7 +296,7 @@ relationship, the *Ankylosauromorpha* consists of *Scelidosaurus* +
   Comments             Skeletal reconstruction. The most characteristic feature of all ankylosauromorphs is extensive development of bone armor (tinted grey).
   specimen_condition ::  Fossil \-- Period: Early Jurassic
   Body Part            skeleton
-  copyright ::            © 1987 Gregory Paul
+  copyright ::            © 1987 Gregory Paul 
 
 
 ## Confidential Links & Embeds: 

@@ -44,17 +44,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Eating_your_own_dog_food|Eating_your_own_dog_food]] 
+### #is_/same_as :: [[/_Standards/Society/Communication/Skin_in_the_Game/Eating_your_own_dog_food|Eating_your_own_dog_food]] 
 
-### #is_/same_as :: [[/_public/Society/Communication/Eating_your_own_dog_food.public|Eating_your_own_dog_food.public]] 
+### #is_/same_as :: [[/_public/Society/Communication/Skin_in_the_Game/Eating_your_own_dog_food.public|Eating_your_own_dog_food.public]] 
 
-### #is_/same_as :: [[/_internal/Society/Communication/Eating_your_own_dog_food.internal|Eating_your_own_dog_food.internal]] 
+### #is_/same_as :: [[/_internal/Society/Communication/Skin_in_the_Game/Eating_your_own_dog_food.internal|Eating_your_own_dog_food.internal]] 
 
-### #is_/same_as :: [[/_protect/Society/Communication/Eating_your_own_dog_food.protect|Eating_your_own_dog_food.protect]] 
+### #is_/same_as :: [[/_protect/Society/Communication/Skin_in_the_Game/Eating_your_own_dog_food.protect|Eating_your_own_dog_food.protect]] 
 
-### #is_/same_as :: [[/_private/Society/Communication/Eating_your_own_dog_food.private|Eating_your_own_dog_food.private]] 
+### #is_/same_as :: [[/_private/Society/Communication/Skin_in_the_Game/Eating_your_own_dog_food.private|Eating_your_own_dog_food.private]] 
 
-### #is_/same_as :: [[/_personal/Society/Communication/Eating_your_own_dog_food.personal|Eating_your_own_dog_food.personal]] 
+### #is_/same_as :: [[/_personal/Society/Communication/Skin_in_the_Game/Eating_your_own_dog_food.personal|Eating_your_own_dog_food.personal]] 
 
-### #is_/same_as :: [[/_secret/Society/Communication/Eating_your_own_dog_food.secret|Eating_your_own_dog_food.secret]] 
+### #is_/same_as :: [[/_secret/Society/Communication/Skin_in_the_Game/Eating_your_own_dog_food.secret|Eating_your_own_dog_food.secret]] 
 

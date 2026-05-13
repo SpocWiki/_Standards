@@ -1,4 +1,4 @@
-﻿
+
 # [[Minor_Arcana]] 
 
 (10 + 4) * 4 = 56 unnamed cards of the tarot deck, 
@@ -133,3 +133,21 @@ which correspond to the contemporary standard
 
 ## 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Minor_Arcana|Minor_Arcana]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Minor_Arcana.public|Minor_Arcana.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Minor_Arcana.internal|Minor_Arcana.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Minor_Arcana.protect|Minor_Arcana.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Minor_Arcana.private|Minor_Arcana.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Minor_Arcana.personal|Minor_Arcana.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Minor_Arcana.secret|Minor_Arcana.secret]] 

@@ -481,7 +481,7 @@ of tetrapods and lungfish. Nature 418:767-770.
   Source Collection    [Flickr](http://flickr.com/)
   Image Use ::    [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/).
   copyright ::            © 2005 [Matana_and_Jes](http://flickr.com/people/matana/)
-  ----------------------------------------------------------------
+  ---------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

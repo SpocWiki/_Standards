@@ -220,7 +220,7 @@ copyright ::         © 2000 [D. Wilson Freshwater](mailto:freshwaterw@uncw.edu)
 scientific_name ::  Gracilaria
 location ::        Grown in the tank culture facility at Harbor Branch Oceanographic Institute, Florida, USA.
 Comments          Red and green color morphs of Gracilaria sp. (Gracilariales)
-copyright ::         © 2000 K. T. Bird
+copyright ::         © 2000 K. T. Bird 
 
 
 ## Confidential Links & Embeds: 

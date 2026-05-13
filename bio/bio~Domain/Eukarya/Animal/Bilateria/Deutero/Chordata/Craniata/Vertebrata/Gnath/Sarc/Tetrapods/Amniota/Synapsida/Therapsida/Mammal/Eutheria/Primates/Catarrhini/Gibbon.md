@@ -285,7 +285,7 @@ dv_has_:
 
 -   [International Center for Gibbon     Studies](http://www.gibboncenter.org/)
 -   [Hylobatidae](http://animaldiversity.ummz.umich.edu/chordata/mammalia/primates/hylobatidae.html).
-    University of Michigan Museum of Zoology Animal Diversity Web.
+    University of Michigan Museum of Zoology Animal Diversity Web. 
 
 
 ## Confidential Links & Embeds: 

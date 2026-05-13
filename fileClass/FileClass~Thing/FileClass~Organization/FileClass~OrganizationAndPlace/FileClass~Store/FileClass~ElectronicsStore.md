@@ -32,7 +32,7 @@ An electronics store.
 #class/ElectronicsStore
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ElectronicsStore
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

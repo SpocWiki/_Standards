@@ -39,7 +39,7 @@ A [[CampingPitch]] is an individual place for overnight stay in the outdoors, ty
 #class/CampingPitch
 #class/Thing/Place/Accommodation/CampingPitch
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

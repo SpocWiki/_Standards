@@ -226,7 +226,7 @@ copyright ::            © [Chris Martin](http://www.public.asu.edu/%7Ecamartin/
 ![Ceratonia siliqua](Caesalpinieae/Ceratonia_siliqua.jpg) 
 scientific_name ::     Ceratonia siliqua L.
 specimen_condition ::  Live Specimen
-copyright ::            © [Annette Hoggemeier](http://www.boga.ruhr-uni-bochum.de/index.html)
+copyright ::            © [Annette Hoggemeier](http://www.boga.ruhr-uni-bochum.de/index.html) 
 
 
 ## Confidential Links & Embeds: 

@@ -101,7 +101,7 @@ dv_has_:
 -   » Sub-Groups 
 
 	-   *Geogale aurita* [(large-eared tenrec)]
-	-   *Parageogale* †
+	-   *Parageogale* † 
 
 
 ## Confidential Links & Embeds: 

@@ -381,17 +381,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Ketone/Acetone|Acetone]] 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Functional_Group/Ketone/Acetone|Acetone]] 
 
-### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Ketone/Acetone.public|Acetone.public]] 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Functional_Group/Ketone/Acetone.public|Acetone.public]] 
 
-### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Ketone/Acetone.internal|Acetone.internal]] 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Functional_Group/Ketone/Acetone.internal|Acetone.internal]] 
 
-### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Ketone/Acetone.protect|Acetone.protect]] 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Functional_Group/Ketone/Acetone.protect|Acetone.protect]] 
 
-### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Ketone/Acetone.private|Acetone.private]] 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Functional_Group/Ketone/Acetone.private|Acetone.private]] 
 
-### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Ketone/Acetone.personal|Acetone.personal]] 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Functional_Group/Ketone/Acetone.personal|Acetone.personal]] 
 
-### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Ketone/Acetone.secret|Acetone.secret]] 
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Functional_Group/Ketone/Acetone.secret|Acetone.secret]] 
 

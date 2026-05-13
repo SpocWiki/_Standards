@@ -554,8 +554,7 @@ has_properties = `=this.dv_has_properties` ]
 
 ```ccard
 type: folder_brief_live
-```
- 
+``` 
 
 
 ## Confidential Links & Embeds: 

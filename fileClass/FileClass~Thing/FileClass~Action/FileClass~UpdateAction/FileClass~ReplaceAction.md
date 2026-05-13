@@ -54,7 +54,7 @@ Replacee:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thin
 ### Replacer
 A sub property of object. The object that replaces.
 
-Replacer:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing')"}}
+Replacer:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing')"}} 
 
 
 ## Confidential Links & Embeds: 

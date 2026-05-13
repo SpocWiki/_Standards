@@ -8,7 +8,7 @@ fn sum_of_squares(input: &[i32]) -> i32 {
          .map(|&i| i * i)
          .sum()
 }
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

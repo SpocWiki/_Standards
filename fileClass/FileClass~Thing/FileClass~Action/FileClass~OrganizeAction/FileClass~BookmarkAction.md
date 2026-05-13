@@ -32,7 +32,7 @@ An agent bookmarks/flags/labels/tags/marks an object.
 #class/BookmarkAction
 #class/Thing/Action/OrganizeAction/BookmarkAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

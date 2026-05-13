@@ -32,7 +32,7 @@ Aquarium.
 #class/Aquarium
 #class/Thing/Place/CivicStructure/Aquarium
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -281,17 +281,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Arctic_Circle|Arctic_Circle]] 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Cartography/Circle_of_Latitude/Arctic_Circle|Arctic_Circle]] 
 
-### #is_/same_as :: [[/_public/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.public|Arctic_Circle.public]] 
+### #is_/same_as :: [[/_public/Earth/Geography/Cartography/Circle_of_Latitude/Arctic_Circle.public|Arctic_Circle.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.internal|Arctic_Circle.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Geography/Cartography/Circle_of_Latitude/Arctic_Circle.internal|Arctic_Circle.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.protect|Arctic_Circle.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Geography/Cartography/Circle_of_Latitude/Arctic_Circle.protect|Arctic_Circle.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.private|Arctic_Circle.private]] 
+### #is_/same_as :: [[/_private/Earth/Geography/Cartography/Circle_of_Latitude/Arctic_Circle.private|Arctic_Circle.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.personal|Arctic_Circle.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Geography/Cartography/Circle_of_Latitude/Arctic_Circle.personal|Arctic_Circle.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.secret|Arctic_Circle.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Geography/Cartography/Circle_of_Latitude/Arctic_Circle.secret|Arctic_Circle.secret]] 
 

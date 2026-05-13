@@ -32,7 +32,7 @@ A preschool.
 #class/Preschool
 #class/Thing/Place/CivicStructure/CivicStructureAndOrganization/EducationalOrganization/Preschool
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

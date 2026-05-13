@@ -77,7 +77,7 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[is_archived_by|is_archived_by]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_archived_by|is_archived_by]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/is/is_archived_by.public|is_archived_by.public]] 
 

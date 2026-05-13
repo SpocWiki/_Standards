@@ -114,3 +114,21 @@ dv_has_:
 
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Ambiguity/Moving_Goalpost_Fallacy/Overton_Window|Overton_Window]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Ambiguity/Moving_Goalpost_Fallacy/Overton_Window.public|Overton_Window.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Ambiguity/Moving_Goalpost_Fallacy/Overton_Window.internal|Overton_Window.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Ambiguity/Moving_Goalpost_Fallacy/Overton_Window.protect|Overton_Window.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Ambiguity/Moving_Goalpost_Fallacy/Overton_Window.private|Overton_Window.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Ambiguity/Moving_Goalpost_Fallacy/Overton_Window.personal|Overton_Window.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Ambiguity/Moving_Goalpost_Fallacy/Overton_Window.secret|Overton_Window.secret]] 

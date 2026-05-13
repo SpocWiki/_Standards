@@ -161,7 +161,7 @@ copyright ::         © 2003 [Lawrence M. Kelly](mailto:lkelly@nybg.org)
 scientific_name ::  Casearia corymbosa
 location ::        Costa Rica: Guanacaste: Palo Verde
 Body Part         Fruit with arillate seed
-copyright ::         © 2003 [Fabián Michelangeli](mailto:fabian@nybg.org)
+copyright ::         © 2003 [Fabián Michelangeli](mailto:fabian@nybg.org) 
 
 
 ## Confidential Links & Embeds: 

@@ -112,7 +112,7 @@ ValidIn:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing
 ### ValidUntil
 The date when the item is no longer valid.
 
-ValidUntil:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
+ValidUntil:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}} 
 
 
 ## Confidential Links & Embeds: 

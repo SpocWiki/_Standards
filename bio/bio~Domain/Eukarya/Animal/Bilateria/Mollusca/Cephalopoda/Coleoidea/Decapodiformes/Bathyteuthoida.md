@@ -152,7 +152,7 @@ the United States National Museum, 291:1-210.
   View              ventral
   copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
-  -------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

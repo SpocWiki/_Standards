@@ -32,7 +32,7 @@ A public toilet is a room or small building containing one or more toilets (and 
 #class/PublicToilet
 #class/Thing/Place/CivicStructure/PublicToilet
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

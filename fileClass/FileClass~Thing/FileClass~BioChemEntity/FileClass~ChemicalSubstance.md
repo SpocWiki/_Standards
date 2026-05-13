@@ -64,7 +64,7 @@ ChemicalRole:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/
 ### PotentialUse
 Intended use of the BioChemEntity by humans.
 
-PotentialUse:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm')"}}
+PotentialUse:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm')"}} 
 
 
 ## Confidential Links & Embeds: 

@@ -107,7 +107,7 @@ Monographie 35, Vol I, Parts I and II, Systematik, pp 1-863.
   Size                 105 mm ML
   copyright ::            © [Michael Vecchione](mailto:vecchiom@si.edu) 
  
-  -----------------------------------------------------------------------
+  ----------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

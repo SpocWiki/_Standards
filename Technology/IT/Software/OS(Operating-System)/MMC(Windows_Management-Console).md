@@ -91,7 +91,7 @@ The exact availability of each `.msc` depends on the Windows edition (Home, Pro,
 
 This table is based on official Microsoft documentation and verified sources:  
 - https://learn.microsoft.com/en-us/windows-server/  
-- https://learn.microsoft.com/en-us/windows/client-management/  
+- https://learn.microsoft.com/en-us/windows/client-management/ 
 
 
 ## Confidential Links & Embeds: 

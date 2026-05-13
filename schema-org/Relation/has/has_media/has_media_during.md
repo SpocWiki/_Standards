@@ -87,22 +87,22 @@ Relation describes that:
 
 has_domain = `=this.dv_has_domain` 
 has_name = `=this.dv_has_name` 
-(has_/range :: [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]],  [[../../../Class/is_a_/Data_Type/Text/Url|Url]]  )
+(has_/range :: [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]],  [[../../../Class/is_a_/Data_Type/Text/Url|Url]]  ) 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_media_during|has_media_during]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_media/has_media_during|has_media_during]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_media_during.public|has_media_during.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_media/has_media_during.public|has_media_during.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_media_during.internal|has_media_during.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_media/has_media_during.internal|has_media_during.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_media_during.protect|has_media_during.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_media/has_media_during.protect|has_media_during.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_media_during.private|has_media_during.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_media/has_media_during.private|has_media_during.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_media_during.personal|has_media_during.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_media/has_media_during.personal|has_media_during.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_media_during.secret|has_media_during.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_media/has_media_during.secret|has_media_during.secret]] 
 

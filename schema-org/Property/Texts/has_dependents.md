@@ -33,3 +33,19 @@ has_name = `=this.dv_has_name`
 has_range = `=this.dv_has_range` 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_dependents|has_dependents]] 
+
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_dependents.public|has_dependents.public]] 
+
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_dependents.internal|has_dependents.internal]] 
+
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_dependents.protect|has_dependents.protect]] 
+
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_dependents.private|has_dependents.private]] 
+
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_dependents.personal|has_dependents.personal]] 
+
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_dependents.secret|has_dependents.secret]] 
+

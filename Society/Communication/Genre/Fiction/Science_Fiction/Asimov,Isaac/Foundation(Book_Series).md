@@ -50,22 +50,22 @@ Actors:
 | 1986             | _[Foundation and Earth](https://en.wikipedia.org/wiki/Foundation_and_Earth "Foundation and Earth")_       | —                                   |                          |                                                    |
 | Prequels         |                                                                                                           |                                     |                          |                                                    |
 | 1988             | _[Prelude to Foundation](https://en.wikipedia.org/wiki/Prelude_to_Foundation "Prelude to Foundation")_    | —                                   |                          |                                                    |
-| 1993             | _[Forward the Foundation](https://en.wikipedia.org/wiki/Forward_the_Foundation "Forward the Foundation")_ | —                                   |                          |                                                    |
+| 1993             | _[Forward the Foundation](https://en.wikipedia.org/wiki/Forward_the_Foundation "Forward the Foundation")_ | —                                   |                          |                                                    | 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Foundation(Book_Series)|Foundation(Book_Series)]] 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Science_Fiction/Asimov,Isaac/Foundation(Book_Series)|Foundation(Book_Series)]] 
 
-### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Foundation(Book_Series).public|Foundation(Book_Series).public]] 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Science_Fiction/Asimov,Isaac/Foundation(Book_Series).public|Foundation(Book_Series).public]] 
 
-### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Foundation(Book_Series).internal|Foundation(Book_Series).internal]] 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Science_Fiction/Asimov,Isaac/Foundation(Book_Series).internal|Foundation(Book_Series).internal]] 
 
-### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Foundation(Book_Series).protect|Foundation(Book_Series).protect]] 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Science_Fiction/Asimov,Isaac/Foundation(Book_Series).protect|Foundation(Book_Series).protect]] 
 
-### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Foundation(Book_Series).private|Foundation(Book_Series).private]] 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Science_Fiction/Asimov,Isaac/Foundation(Book_Series).private|Foundation(Book_Series).private]] 
 
-### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Foundation(Book_Series).personal|Foundation(Book_Series).personal]] 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Science_Fiction/Asimov,Isaac/Foundation(Book_Series).personal|Foundation(Book_Series).personal]] 
 
-### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Foundation(Book_Series).secret|Foundation(Book_Series).secret]] 
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Science_Fiction/Asimov,Isaac/Foundation(Book_Series).secret|Foundation(Book_Series).secret]] 
 

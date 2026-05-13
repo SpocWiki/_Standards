@@ -32,7 +32,7 @@ The act of resuming a device or application which was formerly paused (e.g. resu
 #class/ResumeAction
 #class/Thing/Action/ControlAction/ResumeAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

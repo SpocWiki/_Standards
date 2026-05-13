@@ -32,7 +32,7 @@ A terminal for boats, ships, and other water vessels.
 #class/BoatTerminal
 #class/Thing/Place/CivicStructure/BoatTerminal
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

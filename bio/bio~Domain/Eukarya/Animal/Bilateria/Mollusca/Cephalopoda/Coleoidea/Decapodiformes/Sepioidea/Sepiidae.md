@@ -274,7 +274,7 @@ areas). Chart modified from Young et al. (1998).\
 ![](Sepiidae/Sepiidae.jpg)
 scientific_name ::  Sepia officinalis
 location ::        Banyuls-sur-Mer, France
-copyright ::         © 1996 M. Vecchione
+copyright ::         © 1996 M. Vecchione 
 
 
 ## Confidential Links & Embeds: 

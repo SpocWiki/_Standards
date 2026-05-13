@@ -57,7 +57,7 @@ geojsonFolder: ./Palmyra-Atoll/
 markerFolder: ./Palmyra-Atoll/
 coordinates: [[Palmyra-Atoll]] 
 markerFile: [[Palmyra-Atoll]] 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

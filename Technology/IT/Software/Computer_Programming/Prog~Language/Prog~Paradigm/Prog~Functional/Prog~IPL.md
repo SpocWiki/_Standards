@@ -49,7 +49,7 @@ IPL was used to implement several early [artificial intelligence](https://en.wik
 
 Several versions of IPL were created: IPL-I (never implemented), IPL-II (1957 for [JOHNNIAC](https://en.wikipedia.org/wiki/JOHNNIAC "JOHNNIAC")), IPL-III (existed briefly), IPL-IV, IPL-V (1958, widely used on [[IBM~Mainframe]]s 
 
-IPL was soon displaced by [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language) "Lisp (programming language)"), which had much more powerful features, a simpler syntax, and the benefit of automatic [garbage collection](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science) "Garbage collection (computer science)").
+IPL was soon displaced by [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language) "Lisp (programming language)"), which had much more powerful features, a simpler syntax, and the benefit of automatic [garbage collection](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science) "Garbage collection (computer science)"). 
 
 
 ## Confidential Links & Embeds: 

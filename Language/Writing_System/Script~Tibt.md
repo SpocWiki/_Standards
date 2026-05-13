@@ -3,7 +3,7 @@ Tibetan Script is used in [[../../Earth/Continent/Asia/Asia~East/China/provinces
 9. **Tibetan:**
     
     - Tibetan Script: bo-Tibt
-    - Latin Script (Transcription): bo-Latn
+    - Latin Script (Transcription): bo-Latn 
 
 
 ## Confidential Links & Embeds: 

@@ -37,7 +37,7 @@ A web page that provides medical information.
 ### MedicalAudience
 Medical audience for page.
 
-MedicalAudience:: {"type":"Select","options":{"valuesList":{"Clinician","MedicalResearcher"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
+MedicalAudience:: {"type":"Select","options":{"valuesList":{"Clinician","MedicalResearcher"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}} 
 
 
 ## Confidential Links & Embeds: 

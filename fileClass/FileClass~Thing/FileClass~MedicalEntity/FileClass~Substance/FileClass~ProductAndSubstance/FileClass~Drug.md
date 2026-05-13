@@ -288,7 +288,7 @@ Rxcui:: {"type":"Input","options":{}}
 ### Warning
 Any FDA or other warnings about the drug (text or URL).
 
-Warning:: {"type":"Input","options":{}}
+Warning:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

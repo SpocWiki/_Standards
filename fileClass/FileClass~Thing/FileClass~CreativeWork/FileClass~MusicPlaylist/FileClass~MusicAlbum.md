@@ -64,7 +64,7 @@ AlbumReleaseType:: {"type":"Select","options":{"valuesList":{"AlbumRelease","Bro
 ### ByArtist
 The artist that performed this album or recording.
 
-ByArtist:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')"}}
+ByArtist:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')"}} 
 
 
 ## Confidential Links & Embeds: 

@@ -114,7 +114,7 @@ Polygon:: {"type":"Input","options":{}}
 ### PostalCode
 The postal code. For example, 94043.
 
-PostalCode:: {"type":"Input","options":{}}
+PostalCode:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

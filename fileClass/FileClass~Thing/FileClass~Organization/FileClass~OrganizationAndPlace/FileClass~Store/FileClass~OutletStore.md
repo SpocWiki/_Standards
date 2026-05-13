@@ -32,7 +32,7 @@ An outlet store.
 #class/OutletStore
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/OutletStore
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

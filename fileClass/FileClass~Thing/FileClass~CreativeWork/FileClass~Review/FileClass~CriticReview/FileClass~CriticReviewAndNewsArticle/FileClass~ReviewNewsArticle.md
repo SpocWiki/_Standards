@@ -32,7 +32,7 @@ A [[NewsArticle]] and [[CriticReview]] providing a professional critic's assessm
 #class/ReviewNewsArticle
 #class/Thing/CreativeWork/Review/CriticReview/CriticReviewAndNewsArticle/ReviewNewsArticle
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

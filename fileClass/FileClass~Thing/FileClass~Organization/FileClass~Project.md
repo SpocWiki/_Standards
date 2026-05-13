@@ -33,7 +33,7 @@ An enterprise (potentially individual but typically collaborative), planned to a
 #class/Project
 #class/Thing/Organization/Project
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

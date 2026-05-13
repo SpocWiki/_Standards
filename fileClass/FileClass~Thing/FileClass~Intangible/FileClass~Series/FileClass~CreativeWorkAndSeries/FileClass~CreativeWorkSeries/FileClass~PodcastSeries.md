@@ -54,7 +54,7 @@ Actor:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/P
 ### WebFeed
 The URL for a feed, e.g. associated with a podcast series, blog, or series of date-stamped updates. This is usually RSS or Atom.
 
-WebFeed:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Dataset/DataFeed')"}}
+WebFeed:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Dataset/DataFeed')"}} 
 
 
 ## Confidential Links & Embeds: 

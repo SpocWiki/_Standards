@@ -54,7 +54,7 @@ Landlord:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thin
 ### RealEstateAgent
 A sub property of participant. The real estate agent involved in the action.
 
-RealEstateAgent:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization/OrganizationAndPlace/LocalBusiness/RealEstateAgent')"}}
+RealEstateAgent:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization/OrganizationAndPlace/LocalBusiness/RealEstateAgent')"}} 
 
 
 ## Confidential Links & Embeds: 

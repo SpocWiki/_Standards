@@ -133,5 +133,22 @@ dv_has_:
 > 
 > have attracted international attention.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Bellingcat)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Bellingcat) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Science/Research/Bellingcat|Bellingcat]] 
+
+### #is_/same_as :: [[/_public/Science/Research/Bellingcat.public|Bellingcat.public]] 
+
+### #is_/same_as :: [[/_internal/Science/Research/Bellingcat.internal|Bellingcat.internal]] 
+
+### #is_/same_as :: [[/_protect/Science/Research/Bellingcat.protect|Bellingcat.protect]] 
+
+### #is_/same_as :: [[/_private/Science/Research/Bellingcat.private|Bellingcat.private]] 
+
+### #is_/same_as :: [[/_personal/Science/Research/Bellingcat.personal|Bellingcat.personal]] 
+
+### #is_/same_as :: [[/_secret/Science/Research/Bellingcat.secret|Bellingcat.secret]] 
 

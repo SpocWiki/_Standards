@@ -255,7 +255,7 @@ Source Collection                   [Flickr](http://flickr.com/)
 Image Use ::                   ![creative commons](CCsomerights.gif) This image is licensed under the
 								  [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons                                       License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
 
-copyright ::                           © 2006 [Joachim S. Müller](http://flickr.com/people/joachim_s_mueller/)
+copyright ::                           © 2006 [Joachim S. Müller](http://flickr.com/people/joachim_s_mueller/) 
 
 
 ## Confidential Links & Embeds: 

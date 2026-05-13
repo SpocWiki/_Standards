@@ -81,6 +81,7 @@ This type covers computer programming languages such as Scheme and Lisp, as well
 
 has_properties = `=this.dv_has_properties` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Computer_Language|Computer_Language]] 

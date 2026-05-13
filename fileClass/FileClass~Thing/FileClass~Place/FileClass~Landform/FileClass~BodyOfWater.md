@@ -32,7 +32,7 @@ A body of water, such as a sea, ocean, or lake.
 #class/BodyOfWater
 #class/Thing/Place/Landform/BodyOfWater
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

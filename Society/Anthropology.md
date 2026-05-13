@@ -432,7 +432,7 @@ greek from Andos "Man" and "Logos"
 
 ```ccard
 type: folder_brief_live
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

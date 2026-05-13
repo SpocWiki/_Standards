@@ -53,7 +53,7 @@ InLanguage:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Th
 ### LinkRelationship
 Indicates the relationship type of a Web link.
 
-LinkRelationship:: {"type":"Input","options":{}}
+LinkRelationship:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

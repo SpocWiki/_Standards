@@ -81,17 +81,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Last_Question(Asimov)|Last_Question(Asimov)]] 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Science_Fiction/Asimov,Isaac/Last_Question(Asimov)|Last_Question(Asimov)]] 
 
-### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Last_Question(Asimov).public|Last_Question(Asimov).public]] 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Science_Fiction/Asimov,Isaac/Last_Question(Asimov).public|Last_Question(Asimov).public]] 
 
-### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Last_Question(Asimov).internal|Last_Question(Asimov).internal]] 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Science_Fiction/Asimov,Isaac/Last_Question(Asimov).internal|Last_Question(Asimov).internal]] 
 
-### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Last_Question(Asimov).protect|Last_Question(Asimov).protect]] 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Science_Fiction/Asimov,Isaac/Last_Question(Asimov).protect|Last_Question(Asimov).protect]] 
 
-### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Last_Question(Asimov).private|Last_Question(Asimov).private]] 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Science_Fiction/Asimov,Isaac/Last_Question(Asimov).private|Last_Question(Asimov).private]] 
 
-### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Last_Question(Asimov).personal|Last_Question(Asimov).personal]] 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Science_Fiction/Asimov,Isaac/Last_Question(Asimov).personal|Last_Question(Asimov).personal]] 
 
-### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Last_Question(Asimov).secret|Last_Question(Asimov).secret]] 
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Science_Fiction/Asimov,Isaac/Last_Question(Asimov).secret|Last_Question(Asimov).secret]] 
 

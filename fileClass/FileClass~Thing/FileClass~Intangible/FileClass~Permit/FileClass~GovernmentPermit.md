@@ -32,7 +32,7 @@ A permit issued by a government agency.
 #class/GovernmentPermit
 #class/Thing/Intangible/Permit/GovernmentPermit
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

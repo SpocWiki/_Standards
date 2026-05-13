@@ -76,3 +76,21 @@ official_website: https://sheckley.com
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Sheckley)  
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Science_Fiction/Sheckley,Robert|Sheckley,Robert]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Science_Fiction/Sheckley,Robert.public|Sheckley,Robert.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Science_Fiction/Sheckley,Robert.internal|Sheckley,Robert.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Science_Fiction/Sheckley,Robert.protect|Sheckley,Robert.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Science_Fiction/Sheckley,Robert.private|Sheckley,Robert.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Science_Fiction/Sheckley,Robert.personal|Sheckley,Robert.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Science_Fiction/Sheckley,Robert.secret|Sheckley,Robert.secret]] 

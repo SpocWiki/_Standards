@@ -157,7 +157,7 @@ scientific_name ::     Babyrousa babyrussa
 location ::           captive
 Acknowledgements     The copyright owner has released this image under the [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/).
 specimen_condition ::  Live Specimen
-copyright ::            © 2006 [Sazali M](http://flickr.com/people/inque666/)
+copyright ::            © 2006 [Sazali M](http://flickr.com/people/inque666/) 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ A wholesale store.
 #class/WholesaleStore
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/WholesaleStore
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

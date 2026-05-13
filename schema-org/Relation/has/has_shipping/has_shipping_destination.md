@@ -80,17 +80,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_shipping_destination|has_shipping_destination]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_shipping/has_shipping_destination|has_shipping_destination]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_shipping_destination.public|has_shipping_destination.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_shipping/has_shipping_destination.public|has_shipping_destination.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_shipping_destination.internal|has_shipping_destination.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_shipping/has_shipping_destination.internal|has_shipping_destination.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_shipping_destination.protect|has_shipping_destination.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_shipping/has_shipping_destination.protect|has_shipping_destination.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_shipping_destination.private|has_shipping_destination.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_shipping/has_shipping_destination.private|has_shipping_destination.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_shipping_destination.personal|has_shipping_destination.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_shipping/has_shipping_destination.personal|has_shipping_destination.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_shipping_destination.secret|has_shipping_destination.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_shipping/has_shipping_destination.secret|has_shipping_destination.secret]] 
 

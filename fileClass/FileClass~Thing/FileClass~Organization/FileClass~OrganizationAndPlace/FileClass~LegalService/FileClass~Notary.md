@@ -32,7 +32,7 @@ A notary.
 #class/Notary
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LegalService/Notary
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ A piece of sculpture.
 #class/Sculpture
 #class/Thing/CreativeWork/Sculpture
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

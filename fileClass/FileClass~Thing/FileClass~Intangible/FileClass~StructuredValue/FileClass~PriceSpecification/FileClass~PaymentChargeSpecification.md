@@ -47,7 +47,7 @@ AppliesToDeliveryMethod:: {"type":"Select","options":{"valuesList":{"LockerDeliv
 ### AppliesToPaymentMethod
 The payment method(s) to which the payment charge specification applies.
 
-AppliesToPaymentMethod:: {"type":"Input","options":{}}
+AppliesToPaymentMethod:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

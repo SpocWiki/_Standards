@@ -217,7 +217,7 @@ style : card
 col: 2
 briefMax: 128
 noteOnly: true
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

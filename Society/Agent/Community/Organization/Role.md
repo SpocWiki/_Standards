@@ -38,7 +38,8 @@ See also <a href="http://blog.schema.org/2014/06/introducing-role.html">blog pos
 
 #has_/child_/class :: [ LinkRole, OrganizationRole, PerformanceRole ]  
 
-#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, endDate, identifier, image, mainEntityOfPage, name, namedPosition, potentialAction, roleName, sameAs, startDate, subjectOf, url ]  
+#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, endDate, identifier, image, mainEntityOfPage, name, namedPosition, potentialAction, roleName, sameAs, startDate, subjectOf, url ] 
+
 
 ## Confidential Links & Embeds: 
 

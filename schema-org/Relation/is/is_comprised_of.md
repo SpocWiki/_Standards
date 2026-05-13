@@ -73,6 +73,7 @@ has_range = `=this.dv_has_range`
 
 has_inverse = `=this.dv_has_inverse` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_comprised_of|is_comprised_of]] 

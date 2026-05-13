@@ -69,17 +69,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[is_part_of_order|is_part_of_order]] 
+### #is_/same_as :: [[/_Standards/schema-org/Composite/is_part_of/is_part_of_order|is_part_of_order]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/is/part_of/is_part_of_order.public|is_part_of_order.public]] 
+### #is_/same_as :: [[/_public/schema-org/Composite/is_part_of/is_part_of_order.public|is_part_of_order.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/is/part_of/is_part_of_order.internal|is_part_of_order.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Composite/is_part_of/is_part_of_order.internal|is_part_of_order.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/is/part_of/is_part_of_order.protect|is_part_of_order.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Composite/is_part_of/is_part_of_order.protect|is_part_of_order.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/is/part_of/is_part_of_order.private|is_part_of_order.private]] 
+### #is_/same_as :: [[/_private/schema-org/Composite/is_part_of/is_part_of_order.private|is_part_of_order.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/is/part_of/is_part_of_order.personal|is_part_of_order.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Composite/is_part_of/is_part_of_order.personal|is_part_of_order.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/is/part_of/is_part_of_order.secret|is_part_of_order.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Composite/is_part_of/is_part_of_order.secret|is_part_of_order.secret]] 
 

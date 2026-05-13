@@ -26,7 +26,7 @@ To minimize the jerk, curves along roads are designed to be [clothoids](https://
 as are railroad curves and [roller coaster loops](https://en.wikipedia.org/wiki/Vertical_loop "Vertical loop").
 
 Jump-discontinuity in acceleration can be modeled 
-using a [Dirac delta function](https://en.wikipedia.org/wiki/Dirac_delta "Dirac delta") in jerk, scaled to the height of the jump.
+using a [Dirac delta function](https://en.wikipedia.org/wiki/Dirac_delta "Dirac delta") in jerk, scaled to the height of the jump. 
 
 
 ## Confidential Links & Embeds: 

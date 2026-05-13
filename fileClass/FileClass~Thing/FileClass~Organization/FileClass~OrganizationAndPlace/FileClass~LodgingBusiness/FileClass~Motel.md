@@ -36,7 +36,7 @@ A motel.
 #class/Motel
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Motel
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

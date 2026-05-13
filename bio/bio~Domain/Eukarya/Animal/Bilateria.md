@@ -378,7 +378,7 @@ evidence is championed by Nielsen (2001):
   Comments          Flamingo tongue snail (Mollusca) with mantle extended over shell, foraging on branched coral
   copyright ::         © 1981 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
  
-  ------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------ 
 
 
 ## Confidential Links & Embeds: 

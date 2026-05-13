@@ -83,17 +83,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_required_memory|has_required_memory]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_required/has_required_memory|has_required_memory]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_required_memory.public|has_required_memory.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_required/has_required_memory.public|has_required_memory.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_required_memory.internal|has_required_memory.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_required/has_required_memory.internal|has_required_memory.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_required_memory.protect|has_required_memory.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_required/has_required_memory.protect|has_required_memory.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_required_memory.private|has_required_memory.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_required/has_required_memory.private|has_required_memory.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_required_memory.personal|has_required_memory.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_required/has_required_memory.personal|has_required_memory.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_required_memory.secret|has_required_memory.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_required/has_required_memory.secret|has_required_memory.secret]] 
 

@@ -161,7 +161,7 @@ relationship to Ranidae.
 ## Title Illustrations
 
 ------------------------------------------------------------------------
-Hemisus marmoratum; photo copyright © 1995 David Cannatella![](Hemisus/hemisus.jpg))
+Hemisus marmoratum; photo copyright © 1995 David Cannatella![](Hemisus/hemisus.jpg)) 
 
 
 ## Confidential Links & Embeds: 

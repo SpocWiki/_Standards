@@ -513,7 +513,7 @@ Acknowledgements     Photograph courtesy [InsectImages.org](http://www.insectima
 specimen_condition ::  Live Specimen
 Source Collection    [InsectImages.org](http://www.insectimages.org/)
 copyright ::            © Scott Bauer, USDA ARS
-------------------------------
+------------------------------ 
 
 
 ## Confidential Links & Embeds: 

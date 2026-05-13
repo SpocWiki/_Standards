@@ -32,7 +32,7 @@ A delivery service through which radio content is provided via broadcast over th
 #class/RadioBroadcastService
 #class/Thing/Intangible/Service/BroadcastService/RadioBroadcastService
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

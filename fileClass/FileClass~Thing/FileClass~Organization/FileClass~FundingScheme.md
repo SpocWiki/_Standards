@@ -34,7 +34,7 @@ A FundingScheme combines organizational, project and policy aspects of grant-bas
 #class/FundingScheme
 #class/Thing/Organization/FundingScheme
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

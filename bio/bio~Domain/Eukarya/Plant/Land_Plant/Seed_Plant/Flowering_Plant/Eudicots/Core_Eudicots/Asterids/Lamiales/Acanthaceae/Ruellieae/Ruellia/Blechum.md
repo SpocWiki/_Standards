@@ -211,7 +211,7 @@ Ruellia (Acanthaceae). Systematic Botany, in press.
   Collection           donated as living material to DUKE greenhouses
   copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
  
-  -----------------------------------------------------------------------
+  ----------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

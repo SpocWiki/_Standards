@@ -34,7 +34,8 @@ X-ray computed tomography imaging.
 
 #has_/parent_class :: [[../MedicalImagingTechnique|MedicalImagingTechnique]]  
 
-#is_/enum_of :: [[../MedicalImagingTechnique|MedicalImagingTechnique]]  
+#is_/enum_of :: [[../MedicalImagingTechnique|MedicalImagingTechnique]] 
+
 
 ## Confidential Links & Embeds: 
 

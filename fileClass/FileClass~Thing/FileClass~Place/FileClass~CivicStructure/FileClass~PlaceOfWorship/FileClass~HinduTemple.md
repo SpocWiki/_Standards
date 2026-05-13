@@ -32,7 +32,7 @@ A Hindu temple.
 #class/HinduTemple
 #class/Thing/Place/CivicStructure/PlaceOfWorship/HinduTemple
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

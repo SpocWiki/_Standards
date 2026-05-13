@@ -297,7 +297,7 @@ lineage that has no close phylogenetic relatives among extant organisms.
 ![](Sirenidae/sirenintermediac.jpg) 
 scientific_name ::  Siren intermedia
 location ::        Berkeley Co., South Carolina
-copyright ::         © 1996 [Greg Sievert](http://academic.emporia.edu/sievertg/)
+copyright ::         © 1996 [Greg Sievert](http://academic.emporia.edu/sievertg/) 
 
 
 ## Confidential Links & Embeds: 

@@ -287,7 +287,7 @@ specimen_condition ::  Live Specimen
 Source               [manao](http://www.flickr.com/photos/colloidfarl/47048529/)
 Source Collection    [Flickr](http://flickr.com/)
 Image Use ::    [Attribution-NoDerivs 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nd/2.0/).
-copyright ::            © 2005 [Farl](http://flickr.com/people/89972557@N00)
+copyright ::            © 2005 [Farl](http://flickr.com/people/89972557@N00) 
 
 
 ## Confidential Links & Embeds: 

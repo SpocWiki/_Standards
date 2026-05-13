@@ -139,7 +139,7 @@ Contr. Zool., 586
   specimen_condition ::  Live Specimen
   View                 Anterodorsal
   copyright ::            © Roger Hanlon
-  ------------
+  ------------ 
 
 
 ## Confidential Links & Embeds: 

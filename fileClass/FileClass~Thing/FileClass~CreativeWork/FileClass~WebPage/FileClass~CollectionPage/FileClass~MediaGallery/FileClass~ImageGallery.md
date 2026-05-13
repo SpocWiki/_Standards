@@ -32,7 +32,7 @@ Web page type: Image gallery page.
 #class/ImageGallery
 #class/Thing/CreativeWork/WebPage/CollectionPage/MediaGallery/ImageGallery
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

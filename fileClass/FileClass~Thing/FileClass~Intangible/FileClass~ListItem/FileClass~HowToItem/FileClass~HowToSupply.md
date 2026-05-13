@@ -43,7 +43,7 @@ A supply consumed when performing the instructions for how to achieve a result.
 ### EstimatedCost
 The estimated cost of the supply or supplies consumed when performing instructions.
 
-EstimatedCost:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')"}}
+EstimatedCost:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')"}} 
 
 
 ## Confidential Links & Embeds: 

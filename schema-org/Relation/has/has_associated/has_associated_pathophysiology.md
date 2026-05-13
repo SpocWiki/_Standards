@@ -88,17 +88,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_associated_pathophysiology|has_associated_pathophysiology]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_associated/has_associated_pathophysiology|has_associated_pathophysiology]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_associated_pathophysiology.public|has_associated_pathophysiology.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_associated/has_associated_pathophysiology.public|has_associated_pathophysiology.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_associated_pathophysiology.internal|has_associated_pathophysiology.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_associated/has_associated_pathophysiology.internal|has_associated_pathophysiology.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_associated_pathophysiology.protect|has_associated_pathophysiology.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_associated/has_associated_pathophysiology.protect|has_associated_pathophysiology.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_associated_pathophysiology.private|has_associated_pathophysiology.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_associated/has_associated_pathophysiology.private|has_associated_pathophysiology.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_associated_pathophysiology.personal|has_associated_pathophysiology.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_associated/has_associated_pathophysiology.personal|has_associated_pathophysiology.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_associated_pathophysiology.secret|has_associated_pathophysiology.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_associated/has_associated_pathophysiology.secret|has_associated_pathophysiology.secret]] 
 

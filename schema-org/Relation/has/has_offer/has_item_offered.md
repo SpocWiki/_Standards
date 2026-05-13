@@ -115,21 +115,22 @@ Relation describes that:
 
 has_domain  = `=this.dv_has_domain`  
 has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range`  
+has_range = `=this.dv_has_range` 
+
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_item_offered|has_item_offered]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_offer/has_item_offered|has_item_offered]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_item_offered.public|has_item_offered.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_offer/has_item_offered.public|has_item_offered.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_item_offered.internal|has_item_offered.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_offer/has_item_offered.internal|has_item_offered.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_item_offered.protect|has_item_offered.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_offer/has_item_offered.protect|has_item_offered.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_item_offered.private|has_item_offered.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_offer/has_item_offered.private|has_item_offered.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_item_offered.personal|has_item_offered.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_offer/has_item_offered.personal|has_item_offered.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_item_offered.secret|has_item_offered.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_offer/has_item_offered.secret|has_item_offered.secret]] 
 

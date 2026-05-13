@@ -32,7 +32,7 @@ A short band of tough, flexible, fibrous connective tissue that functions to con
 #class/Ligament
 #class/Thing/MedicalEntity/AnatomicalStructure/Ligament
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

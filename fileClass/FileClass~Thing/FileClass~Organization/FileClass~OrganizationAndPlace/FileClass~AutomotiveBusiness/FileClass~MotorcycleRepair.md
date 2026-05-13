@@ -32,7 +32,7 @@ A motorcycle repair shop.
 #class/MotorcycleRepair
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/MotorcycleRepair
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

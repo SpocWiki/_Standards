@@ -82,7 +82,7 @@ Texel, Netherlands) is gratefully acknowledged.
 
   -------
   copyright ::   © 2000 Ron Ates
-  -------
+  ------- 
 
 
 ## Confidential Links & Embeds: 

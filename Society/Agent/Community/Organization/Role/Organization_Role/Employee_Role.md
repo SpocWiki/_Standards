@@ -36,7 +36,8 @@ A subclass of OrganizationRole used to describe employee relationships.
 
 #has_/parent_class :: [[../OrganizationRole|OrganizationRole]]  
 
-#has_/properties :: [ additionalType, alternateName, baseSalary, description, disambiguatingDescription, endDate, identifier, image, mainEntityOfPage, name, namedPosition, numberedPosition, potentialAction, roleName, salaryCurrency, sameAs, startDate, subjectOf, url ]  
+#has_/properties :: [ additionalType, alternateName, baseSalary, description, disambiguatingDescription, endDate, identifier, image, mainEntityOfPage, name, namedPosition, numberedPosition, potentialAction, roleName, salaryCurrency, sameAs, startDate, subjectOf, url ] 
+
 
 ## Confidential Links & Embeds: 
 

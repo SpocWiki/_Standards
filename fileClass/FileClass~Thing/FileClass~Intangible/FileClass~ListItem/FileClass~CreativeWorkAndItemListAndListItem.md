@@ -1255,7 +1255,7 @@ ItemListOrder:: {"type":"Select","options":{"valuesList":{"ItemListOrderAscendin
 ### NumberOfItems
 The number of items in an ItemList. Note that some descriptions might not fully describe all items in a list (e.g., multi-page pagination); in such cases, the numberOfItems would be for the entire list.
 
-NumberOfItems:: {"type":"Number","options":{}}
+NumberOfItems:: {"type":"Number","options":{}} 
 
 
 ## Confidential Links & Embeds: 

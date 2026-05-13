@@ -106,17 +106,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_vertical_weight_kg|has_value_for_vertical_weight_kg]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_load_vertical|has_value_for_load_vertical]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_vertical_weight_kg.public|has_value_for_vertical_weight_kg.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_load_vertical.public|has_value_for_load_vertical.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_vertical_weight_kg.internal|has_value_for_vertical_weight_kg.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_load_vertical.internal|has_value_for_load_vertical.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_vertical_weight_kg.protect|has_value_for_vertical_weight_kg.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_load_vertical.protect|has_value_for_load_vertical.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_vertical_weight_kg.private|has_value_for_vertical_weight_kg.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_load_vertical.private|has_value_for_load_vertical.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_vertical_weight_kg.personal|has_value_for_vertical_weight_kg.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_load_vertical.personal|has_value_for_load_vertical.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_vertical_weight_kg.secret|has_value_for_vertical_weight_kg.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_load_vertical.secret|has_value_for_load_vertical.secret]] 
 

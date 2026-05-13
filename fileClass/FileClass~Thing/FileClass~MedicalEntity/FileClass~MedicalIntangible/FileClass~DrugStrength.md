@@ -84,7 +84,7 @@ StrengthUnit:: {"type":"Input","options":{}}
 ### StrengthValue
 The value of an active ingredient's strength, e.g. 325.
 
-StrengthValue:: {"type":"Number","options":{}}
+StrengthValue:: {"type":"Number","options":{}} 
 
 
 ## Confidential Links & Embeds: 

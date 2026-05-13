@@ -81,17 +81,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_code_sample_type|has_code_sample_type]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_id/has_code_sample_type|has_code_sample_type]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_code_sample_type.public|has_code_sample_type.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_id/has_code_sample_type.public|has_code_sample_type.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_code_sample_type.internal|has_code_sample_type.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_id/has_code_sample_type.internal|has_code_sample_type.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_code_sample_type.protect|has_code_sample_type.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_id/has_code_sample_type.protect|has_code_sample_type.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_code_sample_type.private|has_code_sample_type.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_id/has_code_sample_type.private|has_code_sample_type.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_code_sample_type.personal|has_code_sample_type.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_id/has_code_sample_type.personal|has_code_sample_type.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_code_sample_type.secret|has_code_sample_type.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_id/has_code_sample_type.secret|has_code_sample_type.secret]] 
 

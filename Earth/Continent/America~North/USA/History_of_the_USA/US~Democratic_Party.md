@@ -123,7 +123,7 @@ is_different_from = `=this.dv_is_different_from`
 
 ### #is_/same_as :: [US~Democratic_Party.personal](/_personal/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.personal) 
 
-### #is_/same_as :: [US~Democratic_Party.secret](/_secret/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.secret)
+### #is_/same_as :: [US~Democratic_Party.secret](/_secret/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.secret) 
 
 
 ## Confidential Links & Embeds: 

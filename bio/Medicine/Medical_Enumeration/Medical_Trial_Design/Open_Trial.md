@@ -37,7 +37,8 @@ A trial design in which the researcher knows the full details of the treatment, 
 
 #has_/parent_class :: [[../MedicalTrialDesign|MedicalTrialDesign]]  
 
-#is_/enum_of :: [[../MedicalTrialDesign|MedicalTrialDesign]]  
+#is_/enum_of :: [[../MedicalTrialDesign|MedicalTrialDesign]] 
+
 
 ## Confidential Links & Embeds: 
 

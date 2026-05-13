@@ -373,7 +373,7 @@ Unicode_character: 🦂
 -   » Sub-Groups
     -   [Chactidae](Chactoidea/Chactidae.md)
     -   [Euscorpiidae](Chactoidea/Euscorpiidae.md)
-    -   [Scorpiopsidae](Chactoidea/Scorpiopsidae.md)
+    -   [Scorpiopsidae](Chactoidea/Scorpiopsidae.md) 
 
 
 ## Confidential Links & Embeds: 

@@ -38,7 +38,8 @@ Any bodily activity that enhances or maintains physical fitness and overall heal
 
 #has_/child_/class :: [ ExercisePlan ]  
 
-#has_/properties :: [ additionalType, alternateName, associatedAnatomy, category, code, description, disambiguatingDescription, epidemiology, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, pathophysiology, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]  
+#has_/properties :: [ additionalType, alternateName, associatedAnatomy, category, code, description, disambiguatingDescription, epidemiology, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, pathophysiology, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] 
+
 
 ## Confidential Links & Embeds: 
 

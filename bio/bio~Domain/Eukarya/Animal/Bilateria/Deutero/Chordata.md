@@ -634,7 +634,7 @@ copyright ::          © 1995 [Marine Biological Laboratory, Woods Hole](http://
 ![](Chordata/dein.gif)
 scientific_name ::     Deinonychus
 specimen_condition ::  Fossil
-copyright ::            © 1995 Chris Brochu
+copyright ::            © 1995 Chris Brochu 
 
 
 ## Confidential Links & Embeds: 

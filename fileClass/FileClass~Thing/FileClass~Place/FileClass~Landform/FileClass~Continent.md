@@ -32,7 +32,7 @@ One of the continents (for example, Europe or Africa).
 #class/Continent
 #class/Thing/Place/Landform/Continent
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

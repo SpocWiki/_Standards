@@ -88,17 +88,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_associated_anatomy|has_associated_anatomy]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_associated/has_associated_anatomy|has_associated_anatomy]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_associated_anatomy.public|has_associated_anatomy.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_associated/has_associated_anatomy.public|has_associated_anatomy.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_associated_anatomy.internal|has_associated_anatomy.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_associated/has_associated_anatomy.internal|has_associated_anatomy.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_associated_anatomy.protect|has_associated_anatomy.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_associated/has_associated_anatomy.protect|has_associated_anatomy.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_associated_anatomy.private|has_associated_anatomy.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_associated/has_associated_anatomy.private|has_associated_anatomy.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_associated_anatomy.personal|has_associated_anatomy.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_associated/has_associated_anatomy.personal|has_associated_anatomy.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_associated_anatomy.secret|has_associated_anatomy.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_associated/has_associated_anatomy.secret|has_associated_anatomy.secret]] 
 

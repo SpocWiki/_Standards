@@ -32,7 +32,7 @@ A mountain, like Mount Whitney or Mount Everest.
 #class/Mountain
 #class/Thing/Place/Landform/Mountain
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

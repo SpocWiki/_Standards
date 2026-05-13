@@ -105,12 +105,12 @@ Use it like this:
 - #has_/related = `=this.dv_has_range`  
 - has_related = `=this.dv_has_range`  
 - is_related_of : : `=this.dv_has_domain` 
-- #is_/related_of : : `=this.dv_has_domain`
+- #is_/related_of : : `=this.dv_has_domain` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_related|has_related]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_related|has_related]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_related.public|has_related.public]] 
 

@@ -32,7 +32,7 @@ An event venue.
 #class/EventVenue
 #class/Thing/Place/CivicStructure/EventVenue
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

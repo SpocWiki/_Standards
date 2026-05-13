@@ -81,17 +81,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_departure_boat_terminal|has_departure_boat_terminal]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_departure/has_departure_boat_terminal|has_departure_boat_terminal]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_departure_boat_terminal.public|has_departure_boat_terminal.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_departure/has_departure_boat_terminal.public|has_departure_boat_terminal.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_departure_boat_terminal.internal|has_departure_boat_terminal.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_departure/has_departure_boat_terminal.internal|has_departure_boat_terminal.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_departure_boat_terminal.protect|has_departure_boat_terminal.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_departure/has_departure_boat_terminal.protect|has_departure_boat_terminal.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_departure_boat_terminal.private|has_departure_boat_terminal.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_departure/has_departure_boat_terminal.private|has_departure_boat_terminal.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_departure_boat_terminal.personal|has_departure_boat_terminal.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_departure/has_departure_boat_terminal.personal|has_departure_boat_terminal.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_departure_boat_terminal.secret|has_departure_boat_terminal.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_departure/has_departure_boat_terminal.secret|has_departure_boat_terminal.secret]] 
 

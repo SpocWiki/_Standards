@@ -32,7 +32,7 @@ A condition or factor that serves as a reason to withhold a certain medical ther
 #class/MedicalContraindication
 #class/Thing/MedicalEntity/MedicalContraindication
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

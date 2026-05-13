@@ -85,7 +85,7 @@ has_inverse = `=this.dv_has_inverse`
 #has_/child_/property :: [ [[has_contained_season|containsSeason]],  [[has_episode|episode]],  [[has_toc_entry|tocEntry]] ]  
 
 `$=dv.current().has_child_property`
-`$=dv.current().has_child_property`
+`$=dv.current().has_child_property` 
 
 
 ## Confidential Links & Embeds: 

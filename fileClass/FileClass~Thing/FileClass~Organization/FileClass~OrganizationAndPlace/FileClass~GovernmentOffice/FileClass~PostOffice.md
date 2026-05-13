@@ -32,7 +32,7 @@ A post office.
 #class/PostOffice
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/GovernmentOffice/PostOffice
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

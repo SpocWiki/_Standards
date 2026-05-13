@@ -257,7 +257,7 @@ dv_has_:
 
 Voltage is the Energy per [[../../Science/Physics/Electricity/Charge,electric|Charge,electric]]. 
 
-It's SI Unit is the [[../Unit_of_Measure/SI-Unit/derived_Unit/Unit~Volt|Unit~Volt]].  
+It's SI Unit is the [[../Unit_of_Measure/SI-Unit/derived_Unit/Unit~Volt|Unit~Volt]]. 
 
 
 ## Confidential Links & Embeds: 

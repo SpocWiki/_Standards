@@ -148,3 +148,21 @@ dv_has_:
 
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Agent/Management/Risk-Management/Emergency_Management|Emergency_Management]] 
+
+### #is_/same_as :: [[/_public/Society/Agent/Management/Risk-Management/Emergency_Management.public|Emergency_Management.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Agent/Management/Risk-Management/Emergency_Management.internal|Emergency_Management.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Agent/Management/Risk-Management/Emergency_Management.protect|Emergency_Management.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Agent/Management/Risk-Management/Emergency_Management.private|Emergency_Management.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Agent/Management/Risk-Management/Emergency_Management.personal|Emergency_Management.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Agent/Management/Risk-Management/Emergency_Management.secret|Emergency_Management.secret]] 

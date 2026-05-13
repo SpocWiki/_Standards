@@ -37,7 +37,8 @@ The conventional Western system of medicine, that aims to apply the best availab
 
 #has_/parent_class :: [[../MedicineSystem|MedicineSystem]]  
 
-#is_/enum_of :: [[../MedicineSystem|MedicineSystem]]  
+#is_/enum_of :: [[../MedicineSystem|MedicineSystem]] 
+
 
 ## Confidential Links & Embeds: 
 

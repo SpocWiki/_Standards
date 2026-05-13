@@ -32,7 +32,7 @@ A lake (for example, Lake Pontrachain).
 #class/LakeBodyOfWater
 #class/Thing/Place/Landform/BodyOfWater/LakeBodyOfWater
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

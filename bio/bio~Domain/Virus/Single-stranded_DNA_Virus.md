@@ -120,7 +120,7 @@ dv_has_:
   scientific_name ::     Parvovirus
   Comments             This electron micrograph depicts a number of parvovirus H-1 virions of the Parvoviridae family of DNA viruses.
   specimen_condition ::  Dead Specimen
-  Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
+  Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp) 
 
 
 ## Confidential Links & Embeds: 

@@ -54,7 +54,7 @@ HoldingArchive:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#clas
 ### ItemLocation
 Current location of the item.
 
-ItemLocation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place')"}}
+ItemLocation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place')"}} 
 
 
 ## Confidential Links & Embeds: 

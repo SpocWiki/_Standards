@@ -102,7 +102,7 @@ Examples are:
 |               |              |                     |                    |                 | manager         |                                                                  |
 |               |              |                     |                    |                 | employeeNumber  |                                                                  |
 |               |              |                     |                    |                 | carLicense      |                                                                  |
-|               |              |                     |                    |                 |                 |                                                                  |
+|               |              |                     |                    |                 |                 |                                                                  | 
 
 
 ## Confidential Links & Embeds: 

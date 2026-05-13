@@ -34,7 +34,7 @@ The [[position]] property is used to reconstruct the order of the items in a Bre
 #class/BreadcrumbList
 #class/Thing/Intangible/ItemList/BreadcrumbList
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

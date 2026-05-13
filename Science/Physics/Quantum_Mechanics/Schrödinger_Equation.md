@@ -277,7 +277,7 @@ Some theories beyond the Standard Model propose more scalar (spin-0) particles:
 | **Inflaton**                                        | Cosmology (inflation theory)        | Drives cosmic inflation in early universe              |
 | **Axion**                                           | Proposed to solve strong CP problem | Possible dark matter candidate                         |
 | **Supersymmetric partners of fermions (sfermions)** | Supersymmetry (SUSY)                | Scalar superpartners of quarks & leptons               |
-| **Moduli fields**                                   | String theory                       | Scalar fields determining geometry of extra dimensions |
+| **Moduli fields**                                   | String theory                       | Scalar fields determining geometry of extra dimensions | 
 
 
 ## Confidential Links & Embeds: 

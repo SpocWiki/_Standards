@@ -32,7 +32,7 @@ A food service, like breakfast, lunch, or dinner.
 #class/FoodService
 #class/Thing/Intangible/Service/FoodService
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

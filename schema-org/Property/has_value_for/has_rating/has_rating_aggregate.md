@@ -97,17 +97,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_rating_aggregate|has_rating_aggregate]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_rating/has_rating_aggregate|has_rating_aggregate]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_rating_aggregate.public|has_rating_aggregate.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_rating/has_rating_aggregate.public|has_rating_aggregate.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_rating_aggregate.internal|has_rating_aggregate.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_rating/has_rating_aggregate.internal|has_rating_aggregate.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_rating_aggregate.protect|has_rating_aggregate.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_rating/has_rating_aggregate.protect|has_rating_aggregate.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_rating_aggregate.private|has_rating_aggregate.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_rating/has_rating_aggregate.private|has_rating_aggregate.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_rating_aggregate.personal|has_rating_aggregate.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_rating/has_rating_aggregate.personal|has_rating_aggregate.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_rating_aggregate.secret|has_rating_aggregate.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_rating/has_rating_aggregate.secret|has_rating_aggregate.secret]] 
 

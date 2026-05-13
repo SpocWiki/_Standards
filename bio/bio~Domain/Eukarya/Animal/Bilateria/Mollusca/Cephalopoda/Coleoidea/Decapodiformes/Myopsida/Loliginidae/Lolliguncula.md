@@ -173,7 +173,7 @@ PILLSBURY in the Gulf of Panama in 1967. Bull. Mar. Sci. 21:1-34.
   View              Ventral, dorsal
   copyright ::         © [Michael Vecchione](mailto:vecchiom@si.edu) 
  
-  ----------------------------------------------------------------------
+  ---------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

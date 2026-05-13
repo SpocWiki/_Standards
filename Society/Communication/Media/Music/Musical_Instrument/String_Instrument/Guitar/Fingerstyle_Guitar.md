@@ -99,3 +99,21 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Fingerstyle%20guitar) 
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar/Fingerstyle_Guitar|Fingerstyle_Guitar]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar/Fingerstyle_Guitar.public|Fingerstyle_Guitar.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar/Fingerstyle_Guitar.internal|Fingerstyle_Guitar.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar/Fingerstyle_Guitar.protect|Fingerstyle_Guitar.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar/Fingerstyle_Guitar.private|Fingerstyle_Guitar.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar/Fingerstyle_Guitar.personal|Fingerstyle_Guitar.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar/Fingerstyle_Guitar.secret|Fingerstyle_Guitar.secret]] 

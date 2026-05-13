@@ -76,7 +76,7 @@ ParentTaxon:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/T
 ### TaxonRank
 The taxonomic rank of this taxon given preferably as a URI from a controlled vocabulary – typically the ranks from TDWG TaxonRank ontology or equivalent Wikidata URIs.
 
-TaxonRank:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')"}}
+TaxonRank:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')"}} 
 
 
 ## Confidential Links & Embeds: 

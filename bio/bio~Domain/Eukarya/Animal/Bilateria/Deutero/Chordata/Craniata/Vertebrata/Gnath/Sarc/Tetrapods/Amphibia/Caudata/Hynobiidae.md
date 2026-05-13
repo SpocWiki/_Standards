@@ -315,7 +315,7 @@ scientific_name ::     Batrachuperus yenyuanensis
 location ::           China
 Comments             The specimen was photographed on land although the species is aquatic.
 specimen_condition ::  Live Specimen
-copyright ::            © 1996 J. Robert Macey
+copyright ::            © 1996 J. Robert Macey 
 
 
 ## Confidential Links & Embeds: 

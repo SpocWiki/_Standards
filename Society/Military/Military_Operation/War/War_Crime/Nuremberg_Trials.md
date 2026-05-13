@@ -259,17 +259,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Nuremberg_Trials|Nuremberg_Trials]] 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/War/War_Crime/Nuremberg_Trials|Nuremberg_Trials]] 
 
-### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/War/War_Crime/Nuremberg_Trials.public|Nuremberg_Trials.public]] 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/War/War_Crime/Nuremberg_Trials.public|Nuremberg_Trials.public]] 
 
-### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/War/War_Crime/Nuremberg_Trials.internal|Nuremberg_Trials.internal]] 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/War/War_Crime/Nuremberg_Trials.internal|Nuremberg_Trials.internal]] 
 
-### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/War/War_Crime/Nuremberg_Trials.protect|Nuremberg_Trials.protect]] 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/War/War_Crime/Nuremberg_Trials.protect|Nuremberg_Trials.protect]] 
 
-### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/War/War_Crime/Nuremberg_Trials.private|Nuremberg_Trials.private]] 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/War/War_Crime/Nuremberg_Trials.private|Nuremberg_Trials.private]] 
 
-### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/War/War_Crime/Nuremberg_Trials.personal|Nuremberg_Trials.personal]] 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/War/War_Crime/Nuremberg_Trials.personal|Nuremberg_Trials.personal]] 
 
-### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/War/War_Crime/Nuremberg_Trials.secret|Nuremberg_Trials.secret]] 
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/War/War_Crime/Nuremberg_Trials.secret|Nuremberg_Trials.secret]] 
 

@@ -99,7 +99,7 @@ dv_has_:
 |  56 | Gas            |     15% | rising due to moving to [[Heating/Heat_Pump|Heat_Pump]] |
 |  20 | Oil            |         |                                       |
 |  15 | remote Heating |         |                                       |
-|   4 | Heat Pump      |         |                                       |
+|   4 | Heat Pump      |         |                                       | 
 
 
 ## Confidential Links & Embeds: 

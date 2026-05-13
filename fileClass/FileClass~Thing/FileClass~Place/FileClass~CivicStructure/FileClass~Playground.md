@@ -32,7 +32,7 @@ A playground.
 #class/Playground
 #class/Thing/Place/CivicStructure/Playground
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

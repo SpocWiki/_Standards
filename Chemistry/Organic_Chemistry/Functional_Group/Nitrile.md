@@ -125,3 +125,20 @@ is_same_as = `=this.dv_is_same_as`
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nitrile) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Functional_Group/Nitrile|Nitrile]] 
+
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Functional_Group/Nitrile.public|Nitrile.public]] 
+
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Functional_Group/Nitrile.internal|Nitrile.internal]] 
+
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Functional_Group/Nitrile.protect|Nitrile.protect]] 
+
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Functional_Group/Nitrile.private|Nitrile.private]] 
+
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Functional_Group/Nitrile.personal|Nitrile.personal]] 
+
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Functional_Group/Nitrile.secret|Nitrile.secret]] 
+

@@ -208,7 +208,7 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Virtual%20private%20network) 
 
 
-Similar to the [[Tor-Network]], VPNs operate Servers on most Continents and many Jurisdictions, allowing to access e.g. contents blocked by [[Geofence]].  
+Similar to the [[Tor-Network]], VPNs operate Servers on most Continents and many Jurisdictions, allowing to access e.g. contents blocked by [[Geofence]]. 
 
 
 ## Confidential Links & Embeds: 

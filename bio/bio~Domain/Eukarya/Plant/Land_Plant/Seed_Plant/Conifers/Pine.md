@@ -253,7 +253,7 @@ Comments             white fir, old tree showing characteristic mature-tree form
 Acknowledgements     Photograph courtesy InsectImages.org (#1210012)
 specimen_condition ::  Live Specimen
 Source Collection    [InsectImages.org](http://www.insectimages.org/)
-copyright ::            © Dave Powell, USDA Forest Service
+copyright ::            © Dave Powell, USDA Forest Service 
 
 
 ## Confidential Links & Embeds: 

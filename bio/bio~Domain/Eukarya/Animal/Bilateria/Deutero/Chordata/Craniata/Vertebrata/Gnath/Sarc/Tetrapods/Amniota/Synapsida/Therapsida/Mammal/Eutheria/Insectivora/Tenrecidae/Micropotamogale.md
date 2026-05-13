@@ -108,7 +108,7 @@ dv_has_:
 -   » Sub-Groups 
 
 	-   *Micropotamogale lamottei* [(Nimba otter shrew)]
-	-   *Micropotamogale ruwenzorii* [(Ruwenzori otter shrew)]
+	-   *Micropotamogale ruwenzorii* [(Ruwenzori otter shrew)] 
 
 
 ## Confidential Links & Embeds: 

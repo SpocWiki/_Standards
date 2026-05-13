@@ -32,7 +32,7 @@ A School District is an administrative area for the administration of schools.
 #class/SchoolDistrict
 #class/Thing/Place/AdministrativeArea/SchoolDistrict
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

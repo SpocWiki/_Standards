@@ -23,3 +23,21 @@ has_id_wikidata: Q297538
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dan%20Simmons) 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Science_Fiction/Simmons,Dan|Simmons,Dan]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Science_Fiction/Simmons,Dan.public|Simmons,Dan.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Science_Fiction/Simmons,Dan.internal|Simmons,Dan.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Science_Fiction/Simmons,Dan.protect|Simmons,Dan.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Science_Fiction/Simmons,Dan.private|Simmons,Dan.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Science_Fiction/Simmons,Dan.personal|Simmons,Dan.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Science_Fiction/Simmons,Dan.secret|Simmons,Dan.secret]] 

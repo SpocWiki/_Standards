@@ -7,5 +7,22 @@
 > 
 > Some argue that consequentialist theories (such as utilitarianism) and deontological theories (such as Kantian ethics) are not necessarily mutually exclusive. For example, T. M. Scanlon advances the idea that human rights, which are commonly considered to be deontological in nature, can only be justified with reference to the consequences of having those rights. Similarly, Robert Nozick argued for a theory that is mostly consequentialist, but incorporates inviolable "side-constraints" which restrict the sort of actions agents are permitted to do. Derek Parfit argued that, in practice, when understood properly, rule consequentialism, Kantian deontology, and contractualism would all end up prescribing the same behavior.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Consequentialism)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Consequentialism) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Philosophy/Ethics/Ethical_Aim/Ethical_Outcome/Consequentialism|Consequentialism]] 
+
+### #is_/same_as :: [[/_public/Philosophy/Ethics/Ethical_Aim/Ethical_Outcome/Consequentialism.public|Consequentialism.public]] 
+
+### #is_/same_as :: [[/_internal/Philosophy/Ethics/Ethical_Aim/Ethical_Outcome/Consequentialism.internal|Consequentialism.internal]] 
+
+### #is_/same_as :: [[/_protect/Philosophy/Ethics/Ethical_Aim/Ethical_Outcome/Consequentialism.protect|Consequentialism.protect]] 
+
+### #is_/same_as :: [[/_private/Philosophy/Ethics/Ethical_Aim/Ethical_Outcome/Consequentialism.private|Consequentialism.private]] 
+
+### #is_/same_as :: [[/_personal/Philosophy/Ethics/Ethical_Aim/Ethical_Outcome/Consequentialism.personal|Consequentialism.personal]] 
+
+### #is_/same_as :: [[/_secret/Philosophy/Ethics/Ethical_Aim/Ethical_Outcome/Consequentialism.secret|Consequentialism.secret]] 
 

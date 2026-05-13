@@ -404,7 +404,7 @@ ValidThrough:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInser
 ### WorkHours
 The typical working hours for this job (e.g. 1st shift, night shift, 8am-5pm).
 
-WorkHours:: {"type":"Input","options":{}}
+WorkHours:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

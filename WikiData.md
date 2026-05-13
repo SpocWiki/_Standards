@@ -877,7 +877,7 @@ There are ca. 13e3 Properties defined; these are the 100 [most frequent Properti
 | significant event                                |                                   | P793  | WikibaseItem    | sem |  4.3 |
 | mountain range                                   |                                   | P4552 | WikibaseItem    | sem |  4.2 |
 | river                                            |                                   | P403  | WikibaseItem    | sem |  4.1 |
-| basin country                                    |                                   | P205  | WikibaseItem    | sem |  4.0 |
+| basin country                                    |                                   | P205  | WikibaseItem    | sem |  4.0 | 
 
 
 ## Confidential Links & Embeds: 

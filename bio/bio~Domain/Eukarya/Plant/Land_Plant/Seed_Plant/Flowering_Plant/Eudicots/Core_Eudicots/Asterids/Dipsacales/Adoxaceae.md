@@ -190,7 +190,7 @@ Comments             blue elderberry, one shrub in typical habitat
 Acknowledgements     Photograph courtesy InsectImages.org (#1208060)
 specimen_condition ::  Live Specimen
 Source Collection    [InsectImages.org](http://www.insectimages.org/)
-copyright ::            © Dave Powell, USDA Forest Service
+copyright ::            © Dave Powell, USDA Forest Service 
 
 
 ## Confidential Links & Embeds: 

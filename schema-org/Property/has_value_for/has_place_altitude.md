@@ -105,12 +105,12 @@ Predicate describes that:
 
 #has_/domain  = `=this.dv_has_domain` 
 has_name = `=this.dv_has_name` 
-(has_/range :: [[../../Class/is_a_/data_type/number|Number]],  [[../../Class/is_a_/data_type/text|Text]] )
+(has_/range :: [[../../Class/is_a_/data_type/number|Number]],  [[../../Class/is_a_/data_type/text|Text]] ) 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_place_altitude|has_place_altitude]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_place_altitude|has_place_altitude]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_place_altitude.public|has_place_altitude.public]] 
 
@@ -123,3 +123,4 @@ has_name = `=this.dv_has_name`
 ### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_place_altitude.personal|has_place_altitude.personal]] 
 
 ### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_place_altitude.secret|has_place_altitude.secret]] 
+

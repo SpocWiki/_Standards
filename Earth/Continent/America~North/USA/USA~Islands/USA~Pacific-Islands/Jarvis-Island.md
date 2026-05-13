@@ -57,7 +57,7 @@ geojsonFolder: ./Jarvis-Island/
 markerFolder: ./Jarvis-Island/
 coordinates: [[Jarvis-Island]] 
 markerFile: [[Jarvis-Island]] 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

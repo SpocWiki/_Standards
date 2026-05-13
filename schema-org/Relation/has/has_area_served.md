@@ -98,7 +98,6 @@ Use it like this:
 - #is_/area_/served_by : : `=this.dv_has_domain` 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_area_served|has_area_served]] 

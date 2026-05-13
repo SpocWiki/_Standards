@@ -40,7 +40,8 @@ A Role that represents a Web link, e.g. as expressed via the 'url' property. Its
 
 #has_/parent_class :: [[../Role|Role]]  
 
-#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, endDate, identifier, image, inLanguage, linkRelationship, mainEntityOfPage, name, namedPosition, potentialAction, roleName, sameAs, startDate, subjectOf, url ]  
+#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, endDate, identifier, image, inLanguage, linkRelationship, mainEntityOfPage, name, namedPosition, potentialAction, roleName, sameAs, startDate, subjectOf, url ] 
+
 
 ## Confidential Links & Embeds: 
 

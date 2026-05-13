@@ -80,7 +80,7 @@ Most spectacular Range Failures included
 Sometimes Operations may not be supported by certain Subclasses. 
 Due to the Liskov-Principle, Compilers can not enforce this. 
 The only way to encode this is to throw a Runtime Exception like the NotSupportedException. 
-Example: `Penguins` are `Birds`, but they can not `Fly()`.  
+Example: `Penguins` are `Birds`, but they can not `Fly()`. 
 
 
 ## Confidential Links & Embeds: 

@@ -19,7 +19,7 @@ aliases:
 
 
 #is_/similar_to :: [[101_Dalmatians(1996)]] 
-#is_/similar_to :: [[Cruella(film)]]
+#is_/similar_to :: [[Cruella(film)]] 
 
 
 ## Confidential Links & Embeds: 

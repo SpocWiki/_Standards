@@ -335,7 +335,7 @@ scientific_name ::  Bufo valliceps
 -------------------------------------------------------------------------
 3. Leptophryne sp; photo © 1995 David Cannatella![Leptophryne](Bufonidae/leptophryne.jpg))
 scientific_name ::     Leptophryne
-specimen_condition ::  Live Specimen
+specimen_condition ::  Live Specimen 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ A tattoo parlor.
 #class/TattooParlor
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/TattooParlor
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

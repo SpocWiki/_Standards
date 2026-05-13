@@ -359,9 +359,6 @@ dv_has_:
 > [Wikipedia](https://en.wikipedia.org/wiki/Noble%20gas) 
 
 
- 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases|Group-18-Nobel-Gases]] 

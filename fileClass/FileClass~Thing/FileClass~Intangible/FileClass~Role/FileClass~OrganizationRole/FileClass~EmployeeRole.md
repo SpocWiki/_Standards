@@ -52,7 +52,7 @@ BaseSalary:: {"type":"Number","options":{}}
 ### SalaryCurrency
 The currency (coded using [ISO 4217](http://en.wikipedia.org/wiki/ISO\_4217)) used for the main salary information in this job posting or for this employee.
 
-SalaryCurrency:: {"type":"Input","options":{}}
+SalaryCurrency:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

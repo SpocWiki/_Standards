@@ -419,7 +419,7 @@ variation in 18S rRNA. J. Mol. Evol. 45:619-630.
   Comments          Fluorescent micrograph of a cell stained with DAPI, showing chloroplasts (red autofluorescences), a nuclear DNA (a big blue-white sphare) and probable nucleomorph DNAs (small blue-white dots).
   copyright ::         © 2001 [Ken-ichiro Ishida](mailto:ishdak@kenroku.kanazawa-u.ac.jp) 
  
-  -----------------------------------------------------------------------------
+  ----------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

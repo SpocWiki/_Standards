@@ -32,7 +32,7 @@ A service which provides access to media programming like TV or radio. Access ma
 #class/CableOrSatelliteService
 #class/Thing/Intangible/Service/CableOrSatelliteService
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

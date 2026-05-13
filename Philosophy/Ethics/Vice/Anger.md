@@ -259,7 +259,7 @@ Unicode_character: 💢
 > 
 > Modern psychologists view anger as a normal and natural emotion experienced by virtually all humans at times, and as an emotion that has functional value for individual survival and mutual cooperation.  However, uncontrolled anger can negatively affect personal or social well-being and may produce deleterious health effects and negatively impact those around them. While many philosophers and writers have warned against the spontaneous and uncontrolled fits of anger, there has been disagreement over the intrinsic value of anger. The issue of dealing with anger has been written about since the times of the earliest philosophers, but modern psychologists, in contrast to earlier writers, have also pointed out the possible ill effects of suppressing anger on one's well-being and interpersonal relationships.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Anger)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Anger) 
 
 
 ## Confidential Links & Embeds: 

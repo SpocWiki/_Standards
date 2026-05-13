@@ -32,7 +32,7 @@ Event type: Literary event.
 #class/LiteraryEvent
 #class/Thing/Event/LiteraryEvent
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

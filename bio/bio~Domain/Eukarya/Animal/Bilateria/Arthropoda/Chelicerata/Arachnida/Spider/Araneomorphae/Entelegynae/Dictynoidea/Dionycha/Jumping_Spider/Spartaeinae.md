@@ -65,7 +65,7 @@ Division). The group was reviewed by Wanless (1984).
 	-   *Taraxella*
 	-   *Veissella*
 	-   *Yaginumanis*
-	-   *Spartaeus*
+	-   *Spartaeus* 
 
 
 ## Confidential Links & Embeds: 

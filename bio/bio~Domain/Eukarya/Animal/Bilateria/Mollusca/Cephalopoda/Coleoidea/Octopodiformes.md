@@ -252,7 +252,7 @@ copyright ::         © 1999 Brad Seibel
 ![](Octopodiformes/Ocyanea.jpg) 
 scientific_name ::  Octopus cyanea
 location ::        Great Barrier Reef, Australia
-copyright ::         © 1999 Mark Norman
+copyright ::         © 1999 Mark Norman 
 
 
 ## Confidential Links & Embeds: 

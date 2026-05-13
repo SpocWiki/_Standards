@@ -32,7 +32,7 @@ A house painting service.
 #class/HousePainter
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/HousePainter
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -88,21 +88,22 @@ Relation describes that:
 
 has_domain = `=this.dv_has_domain`    
 has_name = `=this.dv_has_name` 
-has_range =  `=this.dv_has_range`    
+has_range =  `=this.dv_has_range` 
+
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_diversity_staffing_report|has_diversity_staffing_report]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_publishing_principle/has_diversity_staffing_report|has_diversity_staffing_report]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_diversity_staffing_report.public|has_diversity_staffing_report.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_publishing_principle/has_diversity_staffing_report.public|has_diversity_staffing_report.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_diversity_staffing_report.internal|has_diversity_staffing_report.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_publishing_principle/has_diversity_staffing_report.internal|has_diversity_staffing_report.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_diversity_staffing_report.protect|has_diversity_staffing_report.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_publishing_principle/has_diversity_staffing_report.protect|has_diversity_staffing_report.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_diversity_staffing_report.private|has_diversity_staffing_report.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_publishing_principle/has_diversity_staffing_report.private|has_diversity_staffing_report.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_diversity_staffing_report.personal|has_diversity_staffing_report.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_publishing_principle/has_diversity_staffing_report.personal|has_diversity_staffing_report.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_diversity_staffing_report.secret|has_diversity_staffing_report.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_publishing_principle/has_diversity_staffing_report.secret|has_diversity_staffing_report.secret]] 
 

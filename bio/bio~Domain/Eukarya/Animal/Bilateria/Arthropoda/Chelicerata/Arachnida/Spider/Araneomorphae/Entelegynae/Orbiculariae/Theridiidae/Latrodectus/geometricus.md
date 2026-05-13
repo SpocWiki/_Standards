@@ -73,7 +73,7 @@ Containing group: [Latrodectus](../Latrodectus.md))*
   Identified By        Jeremy Miller
   copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
-  ---------------------------------------------------------------------------------------
+  --------------------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

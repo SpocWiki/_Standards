@@ -216,7 +216,7 @@ location ::           captive at Berlin Zoo, Germany
 Acknowledgements     This image is licensed under the [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
 specimen_condition ::  Live Specimen
 Image Use ::    [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
-copyright ::            © 2004 [Phil](http://flickr.com/people/philbull11/)
+copyright ::            © 2004 [Phil](http://flickr.com/people/philbull11/) 
 
 
 ## Confidential Links & Embeds: 

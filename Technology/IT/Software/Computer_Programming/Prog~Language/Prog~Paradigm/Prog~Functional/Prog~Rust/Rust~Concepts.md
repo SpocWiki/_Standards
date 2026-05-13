@@ -354,7 +354,7 @@ The Result is at least valid while both x and y are valid, but can be extended b
 
 
 `$=dv.current().has_time_started`
-`$=dv.current()["has_/time_/started"]`
+`$=dv.current()["has_/time_/started"]` 
 
 
 ## Confidential Links & Embeds: 

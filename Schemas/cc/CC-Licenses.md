@@ -49,7 +49,7 @@ Examples:
 [[../../_Standards/cc/CC-Licenses/License~CC0|License~CC0]]
 
 
-Creative Commons is a global nonprofit organization dedicated to expanding the range of creative works available for others to build upon and share legally. It was founded in 2001 by Lawrence Lessig, Hal Abelson, and Eric Eldred, with the goal of providing a legal framework for creators to share their works while retaining some rights.
+Creative Commons is a global nonprofit organization dedicated to expanding the range of creative works available for others to build upon and share legally. It was founded in 2001 by Lawrence Lessig, Hal Abelson, and Eric Eldred, with the goal of providing a legal framework for creators to share their works while retaining some rights. 
 
 
 ## Confidential Links & Embeds: 

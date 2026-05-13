@@ -25,7 +25,7 @@ aliases:
 > - mit der Goldenen Kamera 
 > - und dem Adolf-Grimme-Preis (2008).
 >
-> [Wikipedia](https://de.wikipedia.org/wiki/Bastian%20Pastewka)
+> [Wikipedia](https://de.wikipedia.org/wiki/Bastian%20Pastewka) 
 
 
 ## Confidential Links & Embeds: 

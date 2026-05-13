@@ -398,7 +398,7 @@ scientific_name ::     Ambystomatidae
 location ::           Eastern United States
 Comments             The marbled salamander with eggs
 specimen_condition ::  Live Specimen
-copyright ::            © 1996 Sorin Damian
+copyright ::            © 1996 Sorin Damian 
 
 
 ## Confidential Links & Embeds: 

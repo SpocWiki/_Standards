@@ -163,22 +163,22 @@ dv.view("TableByName","British_Agricultural_Revolution.tsv");
 | 1700 | 13.79 | 14.82 | 15.08  | 12.27 |      10.23      |               0.70               |
 | 1750 | 17.26 | 17.87 | 21.88  | 20.90 |      14.19      |               0.37               |
 | 1800 | 23.16 | 19.52 | 25.90  | 28.37 |      17.85      |               0.63               |
-| 1850 | 26.69 | 26.18 | 23.82  | 31.36 |      16.30      |                —                 |
+| 1850 | 26.69 | 26.18 | 23.82  | 31.36 |      16.30      |                —                 | 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[1670-Second_Agricultural_Revolution+1850|Second_Agricultural_Revolution]] 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Agricultural_Revolution/1670-Second_Agricultural_Revolution+1850|1670-Second_Agricultural_Revolution+1850]] 
 
-### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Second_Agricultural_Revolution.public|Second_Agricultural_Revolution.public]] 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Agricultural_Revolution/1670-Second_Agricultural_Revolution+1850.public|1670-Second_Agricultural_Revolution+1850.public]] 
 
-### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Second_Agricultural_Revolution.internal|Second_Agricultural_Revolution.internal]] 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Agricultural_Revolution/1670-Second_Agricultural_Revolution+1850.internal|1670-Second_Agricultural_Revolution+1850.internal]] 
 
-### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Second_Agricultural_Revolution.protect|Second_Agricultural_Revolution.protect]] 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Agricultural_Revolution/1670-Second_Agricultural_Revolution+1850.protect|1670-Second_Agricultural_Revolution+1850.protect]] 
 
-### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Second_Agricultural_Revolution.private|Second_Agricultural_Revolution.private]] 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Agricultural_Revolution/1670-Second_Agricultural_Revolution+1850.private|1670-Second_Agricultural_Revolution+1850.private]] 
 
-### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Second_Agricultural_Revolution.personal|Second_Agricultural_Revolution.personal]] 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Agricultural_Revolution/1670-Second_Agricultural_Revolution+1850.personal|1670-Second_Agricultural_Revolution+1850.personal]] 
 
-### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Second_Agricultural_Revolution.secret|Second_Agricultural_Revolution.secret]] 
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Agricultural_Revolution/1670-Second_Agricultural_Revolution+1850.secret|1670-Second_Agricultural_Revolution+1850.secret]] 
 

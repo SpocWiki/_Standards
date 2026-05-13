@@ -37,7 +37,7 @@ A medical trial is a type of medical study that uses a scientific process to com
 ### TrialDesign
 Specifics about the trial design (enumerated).
 
-TrialDesign:: {"type":"Select","options":{"valuesList":{"DoubleBlindedTrial","InternationalTrial","MultiCenterTrial","OpenTrial","PlaceboControlledTrial","RandomizedTrial","SingleBlindedTrial","SingleCenterTrial","TripleBlindedTrial"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
+TrialDesign:: {"type":"Select","options":{"valuesList":{"DoubleBlindedTrial","InternationalTrial","MultiCenterTrial","OpenTrial","PlaceboControlledTrial","RandomizedTrial","SingleBlindedTrial","SingleCenterTrial","TripleBlindedTrial"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}} 
 
 
 ## Confidential Links & Embeds: 

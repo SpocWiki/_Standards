@@ -655,9 +655,7 @@ Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/defa
 scientific_name ::     Bacillus anthracis
 Comments             A photomicrograph of the Anthrax bacterium, Bacillus anthracis, using Gram stain technique
 specimen_condition ::  Dead Specimen
-Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
-  
-  
+Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp) 
 
 
 ## Confidential Links & Embeds: 

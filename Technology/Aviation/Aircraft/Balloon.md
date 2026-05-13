@@ -207,17 +207,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Balloon|Balloon]] 
+### #is_/same_as :: [[/_Standards/Technology/Aviation/Aircraft/Balloon|Balloon]] 
 
-### #is_/same_as :: [[/_public/Technology/Aviation/Balloon.public|Balloon.public]] 
+### #is_/same_as :: [[/_public/Technology/Aviation/Aircraft/Balloon.public|Balloon.public]] 
 
-### #is_/same_as :: [[/_internal/Technology/Aviation/Balloon.internal|Balloon.internal]] 
+### #is_/same_as :: [[/_internal/Technology/Aviation/Aircraft/Balloon.internal|Balloon.internal]] 
 
-### #is_/same_as :: [[/_protect/Technology/Aviation/Balloon.protect|Balloon.protect]] 
+### #is_/same_as :: [[/_protect/Technology/Aviation/Aircraft/Balloon.protect|Balloon.protect]] 
 
-### #is_/same_as :: [[/_private/Technology/Aviation/Balloon.private|Balloon.private]] 
+### #is_/same_as :: [[/_private/Technology/Aviation/Aircraft/Balloon.private|Balloon.private]] 
 
-### #is_/same_as :: [[/_personal/Technology/Aviation/Balloon.personal|Balloon.personal]] 
+### #is_/same_as :: [[/_personal/Technology/Aviation/Aircraft/Balloon.personal|Balloon.personal]] 
 
-### #is_/same_as :: [[/_secret/Technology/Aviation/Balloon.secret|Balloon.secret]] 
+### #is_/same_as :: [[/_secret/Technology/Aviation/Aircraft/Balloon.secret|Balloon.secret]] 
 

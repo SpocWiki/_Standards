@@ -70,6 +70,21 @@ and hormonal influences on the brain.
 ![[Brizendine,Louann.svg]] 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Psychology/Psychiatrist/Brizendine,Louann|Brizendine,Louann]] 
+
+### #is_/same_as :: [[/_public/bio/Psychology/Psychiatrist/Brizendine,Louann.public|Brizendine,Louann.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Psychology/Psychiatrist/Brizendine,Louann.internal|Brizendine,Louann.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Psychology/Psychiatrist/Brizendine,Louann.protect|Brizendine,Louann.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Psychology/Psychiatrist/Brizendine,Louann.private|Brizendine,Louann.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Psychology/Psychiatrist/Brizendine,Louann.personal|Brizendine,Louann.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Psychology/Psychiatrist/Brizendine,Louann.secret|Brizendine,Louann.secret]] 
 %%
 ## Drawing
 ```compressed-json

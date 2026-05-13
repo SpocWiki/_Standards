@@ -32,7 +32,7 @@ A specific and exact (byte-for-byte) version of an [[ImageObject]]. Two byte-for
 #class/ImageObjectSnapshot
 #class/Thing/CreativeWork/MediaObject/ImageObject/ImageObjectSnapshot
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -674,7 +674,8 @@ darkMode: false
 | Carbon burning   |    ≥8 |  360e3 |     600–800 | Neon-20, Sodium-23, Magnesium-24 |
 | Neon burning     |    ≥9 |    360 |      ~1,200 | Oxygen-16, Magnesium-24          |
 | Oxygen burning   |   ≥10 |    180 | 1,500–2,200 | Silicon-28, Sulfur-32, others    |
-| Silicon burning  |   ≥11 |      2 | 2,700–3,500 | Iron-group nuclei => Supernova   |
+| Silicon burning  |   ≥11 |      2 | 2,700–3,500 | Iron-group nuclei => Supernova   | 
+
 
 ## Confidential Links & Embeds: 
 

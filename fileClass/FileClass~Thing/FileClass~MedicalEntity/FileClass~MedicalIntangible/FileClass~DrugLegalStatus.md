@@ -43,7 +43,7 @@ The legal availability status of a medical drug.
 ### ApplicableLocation
 The location in which the status applies.
 
-ApplicableLocation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place/AdministrativeArea')"}}
+ApplicableLocation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place/AdministrativeArea')"}} 
 
 
 ## Confidential Links & Embeds: 

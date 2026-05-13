@@ -32,7 +32,7 @@ A picture or diagram made with a pencil, pen, or crayon rather than paint.
 #class/Drawing
 #class/Thing/CreativeWork/Drawing
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

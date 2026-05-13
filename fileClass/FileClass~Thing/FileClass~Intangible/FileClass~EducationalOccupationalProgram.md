@@ -292,7 +292,7 @@ TrainingSalary:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#clas
 ### TypicalCreditsPerTerm
 The number of credits or units a full-time student would be expected to take in 1 term however 'term' is defined by the institution.
 
-TypicalCreditsPerTerm:: {"type":"Number","options":{}}
+TypicalCreditsPerTerm:: {"type":"Number","options":{}} 
 
 
 ## Confidential Links & Embeds: 

@@ -42,7 +42,7 @@ A PerformanceRole is a Role that some entity places with regard to a theatrical 
 ### CharacterName
 The name of a character played in some acting or performing role, i.e. in a PerformanceRole.
 
-CharacterName:: {"type":"Input","options":{}}
+CharacterName:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

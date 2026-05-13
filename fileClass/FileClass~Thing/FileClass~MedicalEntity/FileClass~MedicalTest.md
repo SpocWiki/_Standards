@@ -86,7 +86,7 @@ UsedToDiagnose:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#clas
 ### UsesDevice
 Device used to perform the test.
 
-UsesDevice:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalDevice')"}}
+UsesDevice:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalDevice')"}} 
 
 
 ## Confidential Links & Embeds: 

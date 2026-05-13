@@ -109,7 +109,7 @@ dv_has_:
 > [Wikipedia](https://en.wikipedia.org/wiki/500%20Days%20of%20Summer) 
 
 
-It has strong autobiographical streaks of Scott Neustadter
+It has strong autobiographical streaks of Scott Neustadter 
 
 
 ## Confidential Links & Embeds: 

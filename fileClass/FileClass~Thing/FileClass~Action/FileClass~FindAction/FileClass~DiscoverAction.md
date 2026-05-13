@@ -32,7 +32,7 @@ The act of discovering/finding an object.
 #class/DiscoverAction
 #class/Thing/Action/FindAction/DiscoverAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

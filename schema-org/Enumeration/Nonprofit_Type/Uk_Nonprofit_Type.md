@@ -61,6 +61,7 @@ UKNonprofitType: Non-profit organization type originating from the United Kingdo
 
 has_parent_class = `=this.dv_has_parent_class` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type|Uk_Nonprofit_Type]] 

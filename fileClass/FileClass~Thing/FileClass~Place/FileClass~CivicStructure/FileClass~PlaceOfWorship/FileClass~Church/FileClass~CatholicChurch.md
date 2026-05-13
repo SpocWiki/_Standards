@@ -33,7 +33,7 @@ A Catholic church.
 #class/CatholicChurch
 #class/Thing/Place/CivicStructure/PlaceOfWorship/Church/CatholicChurch
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

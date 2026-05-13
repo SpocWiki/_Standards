@@ -79,11 +79,12 @@ Relation describes that:
 
 #has_/domain  :: [[../../Class/is_a_/Action/Interact_Action/Communicate_Action|Communicate_Action]],  [[../../../Society/Communication/Media/Creative_Work|Creative_Work|]],  [[../../Class/is_a_/Event|Event]]  
 has_name = `=this.dv_has_name`  
-has_range = `=this.dv_has_range`  
+has_range = `=this.dv_has_range` 
+
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_subject|has_subject]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/has_subject|has_subject]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/is/has_subject.public|has_subject.public]] 
 

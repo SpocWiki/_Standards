@@ -32,7 +32,7 @@ A roofing contractor.
 #class/RoofingContractor
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/RoofingContractor
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

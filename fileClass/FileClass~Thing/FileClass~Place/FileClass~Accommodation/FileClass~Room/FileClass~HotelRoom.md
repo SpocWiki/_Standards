@@ -34,7 +34,7 @@ See also the <a href="https://schema.org/docs/hotels.html">dedicated document on
 #class/HotelRoom
 #class/Thing/Place/Accommodation/Room/HotelRoom
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

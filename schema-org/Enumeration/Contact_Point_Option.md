@@ -58,6 +58,7 @@ Enumerated options related to a ContactPoint.
 
 has_parent_class = `=this.dv_has_parent_class` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Contact_Point_Option|Contact_Point_Option]] 

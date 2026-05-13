@@ -32,7 +32,7 @@ A high school.
 #class/HighSchool
 #class/Thing/Place/CivicStructure/CivicStructureAndOrganization/EducationalOrganization/HighSchool
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

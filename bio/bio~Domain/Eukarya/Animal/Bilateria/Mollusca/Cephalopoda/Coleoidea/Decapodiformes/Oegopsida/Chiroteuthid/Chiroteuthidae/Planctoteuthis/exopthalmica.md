@@ -102,7 +102,7 @@ Reference          Chun, C. 1910. Die Cephalopoden. Oegopsida. Wissenschaftliche
 Life Cycle Stage ::   Paralarva
 View               Dorsal
 Size               9.5 mm ML
-Type               Lectotype
+Type               Lectotype 
 
 
 ## Confidential Links & Embeds: 

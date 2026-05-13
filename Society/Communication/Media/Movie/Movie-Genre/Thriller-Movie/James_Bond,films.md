@@ -233,7 +233,7 @@ aliases:
 | 2008 | [[James_Bond,films/Quantum_of_Solace,2008|Quantum_of_Solace,2008]]               | Ein Quantum Trost              | 2                                               | Camille Montes   | Olga Kurylenko                             | Dominic Greene       | Mathieu Amalric       |
 | 2012 | [[James_Bond,films/Skyfall,2012|Skyfall,2012]]                         | Skyfall                        | 3                                               | Sévérine         | Bérénice Marlohe                           | Raoul Silva          | Javier Bardem         |
 | 2015 | [[James_Bond,films/Spectre,2015|Spectre,2015]]                         | Spectre                        | 4                                               | Madeleine Swann  | Léa Seydoux                                | Ernst Stavro Blofeld | Christoph Waltz       |
-| 2021 | [[James_Bond,films/No_Time_to_Die,2021|No_Time_to_Die,2021]]                  | Keine Zeit zu sterben          | 5                                               | Madeleine Swann  | Léa Seydoux                                | Lyutsifer Safin      | Lyutsifer Safin       |
+| 2021 | [[James_Bond,films/No_Time_to_Die,2021|No_Time_to_Die,2021]]                  | Keine Zeit zu sterben          | 5                                               | Madeleine Swann  | Léa Seydoux                                | Lyutsifer Safin      | Lyutsifer Safin       | 
 
 
 ## Confidential Links & Embeds: 

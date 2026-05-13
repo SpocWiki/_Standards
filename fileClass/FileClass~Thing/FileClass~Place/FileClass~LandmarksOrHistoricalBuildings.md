@@ -31,7 +31,7 @@ An historical landmark or building.
 #class/LandmarksOrHistoricalBuildings
 #class/Thing/Place/LandmarksOrHistoricalBuildings
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

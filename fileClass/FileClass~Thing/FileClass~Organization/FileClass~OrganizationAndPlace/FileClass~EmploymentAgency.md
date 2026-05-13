@@ -32,7 +32,7 @@ An employment agency.
 #class/EmploymentAgency
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmploymentAgency
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

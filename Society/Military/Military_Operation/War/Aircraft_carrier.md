@@ -240,17 +240,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Aircraft_carrier|Aircraft_carrier]] 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/War/Aircraft_carrier|Aircraft_carrier]] 
 
-### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/War/Aircraft_carrier.public|Aircraft_carrier.public]] 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/War/Aircraft_carrier.public|Aircraft_carrier.public]] 
 
-### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/War/Aircraft_carrier.internal|Aircraft_carrier.internal]] 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/War/Aircraft_carrier.internal|Aircraft_carrier.internal]] 
 
-### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/War/Aircraft_carrier.protect|Aircraft_carrier.protect]] 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/War/Aircraft_carrier.protect|Aircraft_carrier.protect]] 
 
-### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/War/Aircraft_carrier.private|Aircraft_carrier.private]] 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/War/Aircraft_carrier.private|Aircraft_carrier.private]] 
 
-### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/War/Aircraft_carrier.personal|Aircraft_carrier.personal]] 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/War/Aircraft_carrier.personal|Aircraft_carrier.personal]] 
 
-### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/War/Aircraft_carrier.secret|Aircraft_carrier.secret]] 
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/War/Aircraft_carrier.secret|Aircraft_carrier.secret]] 
 

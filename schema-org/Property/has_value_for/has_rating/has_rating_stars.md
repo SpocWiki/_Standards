@@ -98,17 +98,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_rating_stars|has_rating_stars]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_rating/has_rating_stars|has_rating_stars]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_rating_stars.public|has_rating_stars.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_rating/has_rating_stars.public|has_rating_stars.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_rating_stars.internal|has_rating_stars.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_rating/has_rating_stars.internal|has_rating_stars.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_rating_stars.protect|has_rating_stars.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_rating/has_rating_stars.protect|has_rating_stars.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_rating_stars.private|has_rating_stars.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_rating/has_rating_stars.private|has_rating_stars.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_rating_stars.personal|has_rating_stars.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_rating/has_rating_stars.personal|has_rating_stars.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_rating_stars.secret|has_rating_stars.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_rating/has_rating_stars.secret|has_rating_stars.secret]] 
 

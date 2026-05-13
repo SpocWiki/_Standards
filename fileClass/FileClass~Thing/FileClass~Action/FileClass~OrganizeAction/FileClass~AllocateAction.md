@@ -32,7 +32,7 @@ The act of organizing tasks/objects/events by associating resources to it.
 #class/AllocateAction
 #class/Thing/Action/OrganizeAction/AllocateAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

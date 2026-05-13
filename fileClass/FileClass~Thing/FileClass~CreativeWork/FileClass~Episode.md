@@ -131,7 +131,7 @@ ProductionCompany:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#c
 ### Trailer
 The trailer of a movie or TV/radio series, season, episode, etc.
 
-Trailer:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MediaObject/VideoObject')"}}
+Trailer:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MediaObject/VideoObject')"}} 
 
 
 ## Confidential Links & Embeds: 

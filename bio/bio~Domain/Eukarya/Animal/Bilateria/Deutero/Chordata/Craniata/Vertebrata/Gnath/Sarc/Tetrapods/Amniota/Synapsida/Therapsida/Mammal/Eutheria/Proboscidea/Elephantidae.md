@@ -288,7 +288,7 @@ copyright ::         © [Greg and Marybeth Dimijian](http://www.dimijianimages.c
 ![](Elephantidae/Elephas_maximus.jpg) 
 scientific_name ::  Elephas maximus
 Reference         The Natural History of Mammals 1827
-Creator           Carl Brodtmann
+Creator           Carl Brodtmann 
 
 
 ## Confidential Links & Embeds: 

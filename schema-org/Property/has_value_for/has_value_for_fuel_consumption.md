@@ -77,7 +77,7 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_value_for_fuel_consumption|has_value_for_fuel_consumption]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_fuel_consumption|has_value_for_fuel_consumption]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_fuel_consumption.public|has_value_for_fuel_consumption.public]] 
 

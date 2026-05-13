@@ -32,7 +32,7 @@ Organization: Non-governmental Organization.
 #class/NGO
 #class/Thing/Organization/NGO
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -71,17 +71,17 @@ range = `=this.dv_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_duration_to_complete|has_duration_to_complete]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_duration/has_duration_to_complete|has_duration_to_complete]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_duration_of/has_duration_to_complete.public|has_duration_to_complete.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_duration/has_duration_to_complete.public|has_duration_to_complete.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_duration_of/has_duration_to_complete.internal|has_duration_to_complete.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_duration/has_duration_to_complete.internal|has_duration_to_complete.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_duration_of/has_duration_to_complete.protect|has_duration_to_complete.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_duration/has_duration_to_complete.protect|has_duration_to_complete.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_duration_of/has_duration_to_complete.private|has_duration_to_complete.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_duration/has_duration_to_complete.private|has_duration_to_complete.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_duration_of/has_duration_to_complete.personal|has_duration_to_complete.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_duration/has_duration_to_complete.personal|has_duration_to_complete.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_duration_of/has_duration_to_complete.secret|has_duration_to_complete.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_duration/has_duration_to_complete.secret|has_duration_to_complete.secret]] 
 

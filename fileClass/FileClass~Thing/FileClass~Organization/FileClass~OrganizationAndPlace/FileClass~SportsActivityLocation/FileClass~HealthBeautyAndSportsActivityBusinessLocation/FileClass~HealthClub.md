@@ -32,7 +32,7 @@ A health club.
 #class/HealthClub
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/HealthAndBeautyBusinessAndSportsActivityLocation/HealthClub
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

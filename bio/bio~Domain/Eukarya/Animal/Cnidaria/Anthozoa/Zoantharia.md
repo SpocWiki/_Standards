@@ -850,7 +850,7 @@ pages.
   -------------
   scientific_name ::  Pseudocorynactis caribbeorum
   copyright ::         © 1999 George Miller
-  -------------
+  ------------- 
 
 
 ## Confidential Links & Embeds: 

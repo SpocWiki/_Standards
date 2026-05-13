@@ -295,7 +295,7 @@ scientific_name ::     Eurycea cirrigera
 Acknowledgements     This image is licensed under the [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
 specimen_condition ::  Live Specimen
 Image Use ::    [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
-copyright ::            © 2004 [Jack Goldfarb](http://flickr.com/people/the_horned_jew_lizard/)
+copyright ::            © 2004 [Jack Goldfarb](http://flickr.com/people/the_horned_jew_lizard/) 
 
 
 ## Confidential Links & Embeds: 

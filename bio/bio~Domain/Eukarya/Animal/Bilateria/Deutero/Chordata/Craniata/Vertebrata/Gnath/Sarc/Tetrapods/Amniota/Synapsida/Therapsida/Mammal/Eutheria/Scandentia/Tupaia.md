@@ -65,7 +65,7 @@ title: Tupaia
 ----------------
 ![Tupaia splendidula](Tupaia/Tupaia_splendidula.jpg) 
 scientific_name ::  Tupaia splendidula
-Creator           Chromolithograph by Joseph Wolf (1865)
+Creator           Chromolithograph by Joseph Wolf (1865) 
 
 
 ## Confidential Links & Embeds: 

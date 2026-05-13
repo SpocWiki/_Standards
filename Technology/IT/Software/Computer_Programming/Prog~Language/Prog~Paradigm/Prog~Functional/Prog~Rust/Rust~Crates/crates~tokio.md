@@ -13,7 +13,7 @@ async fn main() -> redis_Result<()> {
     println!("got value result={:?}", result);
     Ok(())
 }
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

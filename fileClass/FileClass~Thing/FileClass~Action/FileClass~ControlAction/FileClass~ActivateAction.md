@@ -32,7 +32,7 @@ The act of starting or activating a device or application (e.g. starting a timer
 #class/ActivateAction
 #class/Thing/Action/ControlAction/ActivateAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

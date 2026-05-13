@@ -90,7 +90,7 @@ NumberOfPlayers:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cla
 ### Quest
 The task that a player-controlled character, or group of characters may complete in order to gain a reward.
 
-Quest:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing')"}}
+Quest:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing')"}} 
 
 
 ## Confidential Links & Embeds: 

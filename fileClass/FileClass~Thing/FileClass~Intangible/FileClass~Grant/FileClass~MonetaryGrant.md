@@ -42,7 +42,7 @@ A monetary grant.
 ### Amount
 The amount of money.
 
-Amount:: {"type":"Number","options":{}}
+Amount:: {"type":"Number","options":{}} 
 
 
 ## Confidential Links & Embeds: 

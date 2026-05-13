@@ -43,7 +43,7 @@ A set of products (either [[ProductGroup]]s or specific variants) that are liste
 ### IncludesObject
 This links to a node or nodes indicating the exact quantity of the products included in  an [[../../../../../Society/Agent/Community/Organization/Business/Offer|Offer]] or [[ProductCollection]].
 
-IncludesObject:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/TypeAndQuantityNode')"}}
+IncludesObject:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/TypeAndQuantityNode')"}} 
 
 
 ## Confidential Links & Embeds: 

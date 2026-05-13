@@ -137,7 +137,7 @@ ValidThrough:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInser
 ### ValueAddedTaxIncluded
 Specifies whether the applicable value-added tax (VAT) is included in the price specification or not.
 
-ValueAddedTaxIncluded:: {"type":"Boolean","options":{}}
+ValueAddedTaxIncluded:: {"type":"Boolean","options":{}} 
 
 
 ## Confidential Links & Embeds: 

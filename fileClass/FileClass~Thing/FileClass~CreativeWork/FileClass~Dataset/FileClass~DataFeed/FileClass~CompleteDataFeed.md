@@ -33,7 +33,7 @@ A [[CompleteDataFeed]] is a [[DataFeed]] whose standard representation includes 
 #class/CompleteDataFeed
 #class/Thing/CreativeWork/Dataset/DataFeed/CompleteDataFeed
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

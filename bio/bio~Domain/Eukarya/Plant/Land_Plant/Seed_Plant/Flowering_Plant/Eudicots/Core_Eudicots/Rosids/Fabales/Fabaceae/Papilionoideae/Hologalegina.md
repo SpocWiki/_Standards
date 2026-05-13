@@ -99,7 +99,7 @@ copyright ::         © [Martin F. Wojciechowski](http://www.public.asu.edu/%7Em
 ----------------------------------------- 
 ![lotus_corniculatus](Hologalegina/lotus_corniculatus.jpg) 
 scientific_name ::  Lotus corniculatus L.
-copyright ::         © [Franco Tobias](http://serc.fiu.edu/periphyton/periphyton/factwebpage/Franco%27s%20photo%20webpage/Main%20page.htm)
+copyright ::         © [Franco Tobias](http://serc.fiu.edu/periphyton/periphyton/factwebpage/Franco%27s%20photo%20webpage/Main%20page.htm) 
 
 
 ## Confidential Links & Embeds: 

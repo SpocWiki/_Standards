@@ -38,7 +38,7 @@ luxury accommodations, the key feature of which is multiple rooms
 #class/Suite
 #class/Thing/Place/Accommodation/Suite
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -296,7 +296,7 @@ scientific_name ::     Amphiumidae
 location ::           Florida
 Comments             The one-toed amphiuma
 specimen_condition ::  Live Specimen
-copyright ::            © 1996 J. Robert Macey
+copyright ::            © 1996 J. Robert Macey 
 
 
 ## Confidential Links & Embeds: 

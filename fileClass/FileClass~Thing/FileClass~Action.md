@@ -170,7 +170,7 @@ StartTime:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAs
 ### Target
 Indicates a target EntryPoint, or url, for an Action.
 
-Target:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/EntryPoint')"}}
+Target:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/EntryPoint')"}} 
 
 
 ## Confidential Links & Embeds: 

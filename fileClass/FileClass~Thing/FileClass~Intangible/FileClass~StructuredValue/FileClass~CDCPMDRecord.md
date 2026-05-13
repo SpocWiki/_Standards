@@ -208,7 +208,7 @@ CvdNumVentUse:: {"type":"Number","options":{}}
 ### DatePosted
 Publication date of an online listing.
 
-DatePosted:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
+DatePosted:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}} 
 
 
 ## Confidential Links & Embeds: 

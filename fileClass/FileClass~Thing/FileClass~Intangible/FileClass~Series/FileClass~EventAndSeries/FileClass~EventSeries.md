@@ -41,7 +41,7 @@ A series of [[Event]]s. Included events can relate with the series using the [[s
 #class/EventSeries
 #class/Thing/Intangible/Series/EventAndSeries/EventSeries
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -43,7 +43,7 @@ A single feed providing structured information about one or more entities or top
 ### DataFeedElement
 An item within a data feed. Data feeds may have many elements.
 
-DataFeedElement:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DataFeedItem')"}}
+DataFeedElement:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DataFeedItem')"}} 
 
 
 ## Confidential Links & Embeds: 

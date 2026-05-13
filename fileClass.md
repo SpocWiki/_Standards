@@ -13,7 +13,7 @@ The Icons for several Classes have been selected from https://lucide.dev
 
 ```ccard
 type: folder_brief_live
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

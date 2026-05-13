@@ -36,7 +36,8 @@ A type of Bank Account with a main purpose of depositing funds to gain interest 
 
 #has_/parent_class :: [[../BankAccount, InvestmentOrDeposit|BankAccount, InvestmentOrDeposit]]  
 
-#has_/properties :: [ accountMinimumInflow, accountOverdraftLimit, additionalType, aggregateRating, alternateName, amount, annualPercentageRate, areaServed, audience, availableChannel, award, bankAccountType, brand, broker, category, description, disambiguatingDescription, feesAndCommissionsSpecification, hasOfferCatalog, hoursAvailable, identifier, image, interestRate, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ]  
+#has_/properties :: [ accountMinimumInflow, accountOverdraftLimit, additionalType, aggregateRating, alternateName, amount, annualPercentageRate, areaServed, audience, availableChannel, award, bankAccountType, brand, broker, category, description, disambiguatingDescription, feesAndCommissionsSpecification, hasOfferCatalog, hoursAvailable, identifier, image, interestRate, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] 
+
 
 ## Confidential Links & Embeds: 
 

@@ -365,7 +365,7 @@ copyright © 2002 [Arie van der Meijden](mailto:Mail@arievandermeijden.nl).
 -   Spider, Argiope bruennichi (Araneae). Coastal grassland, Viareggio
 (Italy) 
 Photograph courtesy [CalPhotos](http://elib.cs.berkeley.edu/photos/), 
-copyright © 2002 [Arie van der Meijden](mailto:Mail@arievandermeijden.nl).
+copyright © 2002 [Arie van der Meijden](mailto:Mail@arievandermeijden.nl). 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ Car repair, sales, or parts.
 #class/AutomotiveBusiness
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

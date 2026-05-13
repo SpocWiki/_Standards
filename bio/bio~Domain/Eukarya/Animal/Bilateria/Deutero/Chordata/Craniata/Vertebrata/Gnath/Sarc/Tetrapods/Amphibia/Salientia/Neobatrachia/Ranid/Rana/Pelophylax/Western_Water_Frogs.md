@@ -95,7 +95,7 @@ scientific_name ::     Rana lessonae
 Comments             Group of calling males
 specimen_condition ::  Live Specimen
 Sex ::                Male
-copyright ::            © 1995 Thomas Uzzell
+copyright ::            © 1995 Thomas Uzzell 
 
 
 ## Confidential Links & Embeds: 

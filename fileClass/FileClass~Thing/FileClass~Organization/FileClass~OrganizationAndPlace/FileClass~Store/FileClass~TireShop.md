@@ -32,7 +32,7 @@ A tire shop.
 #class/TireShop
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/TireShop
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

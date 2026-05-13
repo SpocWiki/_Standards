@@ -283,7 +283,7 @@ The generation concept explains why:
     
 - Higher generations are produced in **high-energy environments** such as particle accelerators or cosmic rays
     
-- Quark mass hierarchy affects **particle decay rates** and **CP violation**
+- Quark mass hierarchy affects **particle decay rates** and **CP violation** 
 
 
 ## Confidential Links & Embeds: 

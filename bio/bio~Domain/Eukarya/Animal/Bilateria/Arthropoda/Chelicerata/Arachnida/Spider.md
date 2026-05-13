@@ -649,7 +649,7 @@ scientific_name ::     Theraphosa blondi
 Comments             Goliath birdeating tarantula
 specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-copyright ::            © 2000 [John White](mailto:reptiles@erols.com)
+copyright ::            © 2000 [John White](mailto:reptiles@erols.com) 
 
 
 ## Confidential Links & Embeds: 

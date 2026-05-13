@@ -109,6 +109,7 @@ dv_has_:
 
 Bluma Zeigarnik observed that waiters keep unpaid orders in mind better than paid. 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/bio/Psychology/Attention/Zeigarnik_Effect|Zeigarnik_Effect]] 

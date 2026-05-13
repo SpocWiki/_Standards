@@ -337,7 +337,7 @@ Amer. Malac. Union., 12: 91-112.
   Comments             photographed from submersible
   specimen_condition ::  Live Specimen
   copyright ::            © A. Malahoff, Hawaii Undersea Research Laboratory
-  ---------------------
+  --------------------- 
 
 
 ## Confidential Links & Embeds: 

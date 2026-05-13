@@ -479,7 +479,7 @@ al. 1995. Plagiogyriaceae has been placed previously with Osmundaceae.
 
 Although the tree ferns, the heterosporous ferns, and the schizaeoid
 ferns are each well supported clades, their interrelationships (and
-those of all basal families) remain unresolved.
+those of all basal families) remain unresolved. 
 
 
 ## Confidential Links & Embeds: 

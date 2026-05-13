@@ -83,3 +83,20 @@ To maximize creatine phosphate “resorption” — more accurately, intracellul
 
 When these approaches are implemented, phosphocreatine levels can increase by **up to 40 %**, thereby enhancing muscular energy buffering and overall performance. 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/ATP(adenosine_triphosphate)/Creatine_Phosphate|Creatine_Phosphate]] 
+
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/ATP(adenosine_triphosphate)/Creatine_Phosphate.public|Creatine_Phosphate.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/ATP(adenosine_triphosphate)/Creatine_Phosphate.internal|Creatine_Phosphate.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/ATP(adenosine_triphosphate)/Creatine_Phosphate.protect|Creatine_Phosphate.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/ATP(adenosine_triphosphate)/Creatine_Phosphate.private|Creatine_Phosphate.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/ATP(adenosine_triphosphate)/Creatine_Phosphate.personal|Creatine_Phosphate.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/ATP(adenosine_triphosphate)/Creatine_Phosphate.secret|Creatine_Phosphate.secret]] 
+

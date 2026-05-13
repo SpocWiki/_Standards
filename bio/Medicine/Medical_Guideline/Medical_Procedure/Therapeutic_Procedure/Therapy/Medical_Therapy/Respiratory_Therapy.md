@@ -37,7 +37,8 @@ The therapy that is concerned with the maintenance or improvement of respiratory
 
 #has_/parent_class :: [[../MedicalTherapy, MedicalSpecialty|MedicalTherapy, MedicalSpecialty]]  
 
-#is_/enum_of :: [[../MedicalSpecialty|MedicalSpecialty]]  
+#is_/enum_of :: [[../MedicalSpecialty|MedicalSpecialty]] 
+
 
 ## Confidential Links & Embeds: 
 

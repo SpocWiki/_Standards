@@ -78,6 +78,7 @@ has_range = `=this.dv_has_range`
 
 #has_/inverse  :: hasVariant 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_variant_of|is_variant_of]] 

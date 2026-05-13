@@ -421,7 +421,7 @@ has_name_ar_arab = `=this.dv_has_name_ar_arab`
 
 - [Southern Governorate](https://en.wikipedia.org/wiki/Southern_Governorate "Southern Governorate"), Bahrain, or Al Janubiyah
 - [South Governorate](https://en.wikipedia.org/wiki/South_Governorate "South Governorate"), Lebanon (Al Janūb Governorate)
-- [Southern Provinces](https://en.wikipedia.org/wiki/Southern_Provinces "Southern Provinces") (Al-Aqalim al-Janubiyah) or "Moroccan Sahara", term used by Morocco for Western Sahara
+- [Southern Provinces](https://en.wikipedia.org/wiki/Southern_Provinces "Southern Provinces") (Al-Aqalim al-Janubiyah) or "Moroccan Sahara", term used by Morocco for Western Sahara 
 
 
 ## Confidential Links & Embeds: 

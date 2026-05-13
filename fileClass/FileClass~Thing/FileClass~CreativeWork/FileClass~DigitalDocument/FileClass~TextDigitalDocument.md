@@ -32,7 +32,7 @@ A file composed primarily of text.
 #class/TextDigitalDocument
 #class/Thing/CreativeWork/DigitalDocument/TextDigitalDocument
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

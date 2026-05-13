@@ -65,7 +65,7 @@ DoseSchedule:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/
 ### Drug
 Specifying a drug or medicine used in a medication procedure.
 
-Drug:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/Substance/ProductAndSubstance/Drug')"}}
+Drug:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/Substance/ProductAndSubstance/Drug')"}} 
 
 
 ## Confidential Links & Embeds: 

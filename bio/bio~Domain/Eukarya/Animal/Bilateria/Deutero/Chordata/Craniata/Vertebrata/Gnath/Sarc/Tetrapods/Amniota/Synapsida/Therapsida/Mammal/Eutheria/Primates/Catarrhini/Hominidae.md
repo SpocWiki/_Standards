@@ -373,7 +373,7 @@ Studying Hominidae species provides insights into human evolution, behavior, and
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
   copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
  
-  ------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------ 
 
 
 ## Confidential Links & Embeds: 

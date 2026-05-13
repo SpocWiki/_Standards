@@ -90,7 +90,7 @@ But typically it is a typed [[../Collection/item_list|Item_list]] with Instances
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_instance|has_instance]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/has_instance|has_instance]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Class/has_instance.public|has_instance.public]] 
 

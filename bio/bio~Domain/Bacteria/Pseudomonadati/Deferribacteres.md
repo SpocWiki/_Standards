@@ -110,7 +110,7 @@ dv_has_:
 	-   *Flexistipes*
 	-   *Geovibrio*
 	-   *Synergistes*[ (incertae sedis) ]
-	-   *Caldithrix*[ (incertae sedis) ]
+	-   *Caldithrix*[ (incertae sedis) ] 
 
 
 ## Confidential Links & Embeds: 

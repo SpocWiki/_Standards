@@ -159,7 +159,7 @@ of whole mitochondrial genomic DNA sequences.
 scientific_name ::     Hemidactylium scutatum
 location ::           St. Genevieve Co., Missouri
 specimen_condition ::  Live Specimen
-copyright ::            © 2005 [Michael Cravens](http://michaelcravens.com/)
+copyright ::            © 2005 [Michael Cravens](http://michaelcravens.com/) 
 
 
 ## Confidential Links & Embeds: 

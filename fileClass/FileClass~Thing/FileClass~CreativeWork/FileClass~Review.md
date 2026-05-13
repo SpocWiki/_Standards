@@ -134,7 +134,7 @@ ReviewBody:: {"type":"Input","options":{}}
 ### ReviewRating
 The rating given in this review. Note that reviews can themselves be rated. The ```reviewRating``` applies to rating given by the review. The [[aggregateRating]] property applies to the review itself, as a creative work.
 
-ReviewRating:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Rating')"}}
+ReviewRating:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Rating')"}} 
 
 
 ## Confidential Links & Embeds: 

@@ -74,3 +74,21 @@ ISNI: "0000000108996189"
 
 Similar to [[../Canadian_Actor/Carrey,Jim|Carrey,Jim]], his Mother was depressive and he was, from an early age on, trying to cheer her up. 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/German_Actor/Kerkeling,Hape|Kerkeling,Hape]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/German_Actor/Kerkeling,Hape.public|Kerkeling,Hape.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/German_Actor/Kerkeling,Hape.internal|Kerkeling,Hape.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/German_Actor/Kerkeling,Hape.protect|Kerkeling,Hape.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/German_Actor/Kerkeling,Hape.private|Kerkeling,Hape.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/German_Actor/Kerkeling,Hape.personal|Kerkeling,Hape.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/German_Actor/Kerkeling,Hape.secret|Kerkeling,Hape.secret]] 

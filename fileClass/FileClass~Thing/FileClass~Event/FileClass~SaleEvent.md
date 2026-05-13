@@ -32,7 +32,7 @@ Event type: Sales event.
 #class/SaleEvent
 #class/Thing/Event/SaleEvent
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

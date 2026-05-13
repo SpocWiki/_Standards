@@ -219,7 +219,7 @@ This series was broadcast
 
 #### China,1983 
 
-**Chinese Mainland production** _Outlaws of the Marsh_ (_水滸_, 1983 – 1986) with **~40 episodes**, first broadcast in China;
+**Chinese Mainland production** _Outlaws of the Marsh_ (_水滸_, 1983 – 1986) with **~40 episodes**, first broadcast in China; 
 
 
 ## Confidential Links & Embeds: 

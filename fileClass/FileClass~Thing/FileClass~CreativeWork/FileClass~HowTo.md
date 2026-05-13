@@ -123,7 +123,7 @@ TotalTime:: {"type":"Number","options":{"min":"0","max":"2359"}}
 ### Yield
 The quantity that results by performing instructions. For example, a paper airplane, 10 personalized candles.
 
-Yield:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
+Yield:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}} 
 
 
 ## Confidential Links & Embeds: 

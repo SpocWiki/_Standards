@@ -418,7 +418,7 @@ has_name_ar_arab = `=this.dv_has_name_ar_arab`
 - [Al Shamal](https://en.wikipedia.org/wiki/Al_Shamal "Al Shamal"), a municipality in Qatar
     - [Madinat ash Shamal](https://en.wikipedia.org/wiki/Madinat_ash_Shamal "Madinat ash Shamal")
 - [Shamal District](https://en.wikipedia.org/wiki/Shamal_District "Shamal District"), Afghanistan
-    - [Shamal, Khost Province](https://en.wikipedia.org/wiki/Shamal,_Khost_Province "Shamal, Khost Province")
+    - [Shamal, Khost Province](https://en.wikipedia.org/wiki/Shamal,_Khost_Province "Shamal, Khost Province") 
 
 
 ## Confidential Links & Embeds: 

@@ -42,7 +42,7 @@ This is the [[Action]] of navigating to a specific [[startOffset]] timestamp wit
 ### StartOffset
 The start time of the clip expressed as the number of seconds from the beginning of the work.
 
-StartOffset:: {"type":"Number","options":{}}
+StartOffset:: {"type":"Number","options":{}} 
 
 
 ## Confidential Links & Embeds: 

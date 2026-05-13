@@ -75,17 +75,17 @@ has_name = `=this.dv_has_name`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_answer_explanation|has_answer_explanation]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_answer/has_answer_explanation|has_answer_explanation]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_answer_explanation.public|has_answer_explanation.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_answer/has_answer_explanation.public|has_answer_explanation.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_answer_explanation.internal|has_answer_explanation.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_answer/has_answer_explanation.internal|has_answer_explanation.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_answer_explanation.protect|has_answer_explanation.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_answer/has_answer_explanation.protect|has_answer_explanation.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_answer_explanation.private|has_answer_explanation.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_answer/has_answer_explanation.private|has_answer_explanation.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_answer_explanation.personal|has_answer_explanation.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_answer/has_answer_explanation.personal|has_answer_explanation.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_answer_explanation.secret|has_answer_explanation.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_answer/has_answer_explanation.secret|has_answer_explanation.secret]] 
 

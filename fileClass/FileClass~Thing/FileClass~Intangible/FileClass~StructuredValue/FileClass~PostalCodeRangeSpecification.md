@@ -52,7 +52,7 @@ PostalCodeBegin:: {"type":"Input","options":{}}
 ### PostalCodeEnd
 Last postal code in the range (included). Needs to be after [[postalCodeBegin]].
 
-PostalCodeEnd:: {"type":"Input","options":{}}
+PostalCodeEnd:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

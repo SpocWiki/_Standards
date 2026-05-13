@@ -267,7 +267,7 @@ $\ln\left(\frac{P_2}{P_1}\right) = -\frac{\Delta H_{vap}}{R} \left(\frac{1}{T_2}
 **Vacuum boiling** is used in:
 - Vacuum distillation (pharmaceuticals, chemicals)
 - Freeze drying (lyophilization)
-- Reduced-temperature cooking (sous-vide in controlled vacuums)
+- Reduced-temperature cooking (sous-vide in controlled vacuums) 
 
 
 ## Confidential Links & Embeds: 

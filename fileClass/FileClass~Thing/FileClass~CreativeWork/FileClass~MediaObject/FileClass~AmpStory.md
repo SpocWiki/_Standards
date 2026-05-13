@@ -32,7 +32,7 @@ A creative work with a visual storytelling format intended to be viewed online, 
 #class/AmpStory
 #class/Thing/CreativeWork/MediaObject/AmpStory
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -3,7 +3,7 @@ aliases:
   - business leader
   - Business-People
   - Business-Person
----
+--- 
 
 
 ## Confidential Links & Embeds: 

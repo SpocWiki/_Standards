@@ -100,11 +100,12 @@ Relation describes that:
 
 #has_/domain  :: [[../../../Society/Agent/Community/Organization/Business/Offer/Aggregate_Offer|Aggregate_Offer]], [[../../../Society/Communication/Media/Creative_Work|Creative_Work]], [[../../Class/is_a_/Intangible/Educational_Occupational_Program|Educational_Occupational_Program]], [[../../Class/is_a_/Event|Event]], [[../../Class/is_a_/Intangible/Menu_Item|Menu_Item]], [[../../../Society/Agent/Community/Organization/Business/Product|Product]], [[../../../Society/Agent/Community/Organization/Business/Service|Service]], [[../../Class/is_a_/Intangible/Trip|Trip]]  
 has_name = `=this.dv_has_name` 
-has_range :: [[../../../Society/Agent/Community/Organization/Business/Demand|Demand]], [[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]  
+has_range :: [[../../../Society/Agent/Community/Organization/Business/Demand|Demand]], [[../../../Society/Agent/Community/Organization/Business/Offer|Offer]] 
+
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[is_item_offered_as|is_item_offered_as]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_item_offered_as|is_item_offered_as]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/is/is_item_offered_as.public|is_item_offered_as.public]] 
 

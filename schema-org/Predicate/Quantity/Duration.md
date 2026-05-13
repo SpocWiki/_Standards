@@ -79,9 +79,10 @@ has_parent_class = `=this.dv_has_parent_class`
 
 has_properties = `=this.dv_has_properties` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Duration|Duration]] 
+### #is_/same_as :: [[/_Standards/schema-org/Predicate/Quantity/Duration|Duration]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Predicate/Quantity/Duration.public|Duration.public]] 
 

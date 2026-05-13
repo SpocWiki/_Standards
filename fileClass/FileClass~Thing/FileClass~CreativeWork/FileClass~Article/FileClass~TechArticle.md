@@ -52,7 +52,7 @@ Dependencies:: {"type":"Input","options":{}}
 ### ProficiencyLevel
 Proficiency needed for this content; expected values: 'Beginner', 'Expert'.
 
-ProficiencyLevel:: {"type":"Input","options":{}}
+ProficiencyLevel:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

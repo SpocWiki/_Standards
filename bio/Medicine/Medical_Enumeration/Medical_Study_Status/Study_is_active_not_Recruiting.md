@@ -37,7 +37,8 @@ Active, but not recruiting new participants.
 
 #has_/parent_class :: [[../MedicalStudyStatus|MedicalStudyStatus]]  
 
-#is_/enum_of :: [[../MedicalStudyStatus|MedicalStudyStatus]]  
+#is_/enum_of :: [[../MedicalStudyStatus|MedicalStudyStatus]] 
+
 
 ## Confidential Links & Embeds: 
 

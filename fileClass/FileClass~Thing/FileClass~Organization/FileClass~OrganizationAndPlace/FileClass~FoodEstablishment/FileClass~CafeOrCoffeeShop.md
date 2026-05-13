@@ -32,7 +32,7 @@ A cafe or coffee shop.
 #class/CafeOrCoffeeShop
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/CafeOrCoffeeShop
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

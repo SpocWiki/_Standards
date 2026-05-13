@@ -183,7 +183,7 @@ waters. Bull. Mar. Sci., 49: 162-185.
   scientific_name ::  Chiroteuthis picteti
   location ::        Eltanin???
   Creator           J. Schroeder
-  ----------
+  ---------- 
 
 
 ## Confidential Links & Embeds: 

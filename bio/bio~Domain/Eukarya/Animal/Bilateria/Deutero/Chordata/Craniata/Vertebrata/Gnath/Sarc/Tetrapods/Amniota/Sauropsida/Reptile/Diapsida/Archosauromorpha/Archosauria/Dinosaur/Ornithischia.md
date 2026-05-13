@@ -222,7 +222,7 @@ Bird-hipped plant-eating dinosaurs
     -   [Dino-Roar: A computer simulation gives voice to a long-extinct         dinosaur](http://www.sciam.com/explorations/121597dinosaur/).
         Scientific American.
     -   [Scientists Bring Dinosaur\'s Roar to         Life](http://www.enn.com/enn-news-archive/1997/12/120897/dino_20106.asp).
-        Environmental News Network.
+        Environmental News Network. 
 
 
 ## Confidential Links & Embeds: 

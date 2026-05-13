@@ -298,7 +298,7 @@ copyright ::            © 2003-2006 [David L. Magney](http://www.magney.org)
 ![Suriana_maritima](Fabales/Suriana_maritima.jpg)
 scientific_name ::     Suriana maritima L.
 specimen_condition ::  Live Specimen
-copyright ::            © Shirley Denton
+copyright ::            © Shirley Denton 
 
 
 ## Confidential Links & Embeds: 

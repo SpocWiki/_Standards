@@ -178,17 +178,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/Planck_Units|Planck_Units]] 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measure/Planck_Units|Planck_Units]] 
 
-### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/Planck_Units.public|Planck_Units.public]] 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measure/Planck_Units.public|Planck_Units.public]] 
 
-### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/Planck_Units.internal|Planck_Units.internal]] 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measure/Planck_Units.internal|Planck_Units.internal]] 
 
-### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/Planck_Units.protect|Planck_Units.protect]] 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measure/Planck_Units.protect|Planck_Units.protect]] 
 
-### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/Planck_Units.private|Planck_Units.private]] 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measure/Planck_Units.private|Planck_Units.private]] 
 
-### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/Planck_Units.personal|Planck_Units.personal]] 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measure/Planck_Units.personal|Planck_Units.personal]] 
 
-### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/Planck_Units.secret|Planck_Units.secret]] 
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measure/Planck_Units.secret|Planck_Units.secret]] 
 

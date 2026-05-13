@@ -236,17 +236,17 @@ but also R²-NH and R³-N
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Amine|Amine]] 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Functional_Group/Amine|Amine]] 
 
-### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Amine.public|Amine.public]] 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Functional_Group/Amine.public|Amine.public]] 
 
-### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Amine.internal|Amine.internal]] 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Functional_Group/Amine.internal|Amine.internal]] 
 
-### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Amine.protect|Amine.protect]] 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Functional_Group/Amine.protect|Amine.protect]] 
 
-### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Amine.private|Amine.private]] 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Functional_Group/Amine.private|Amine.private]] 
 
-### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Amine.personal|Amine.personal]] 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Functional_Group/Amine.personal|Amine.personal]] 
 
-### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Amine.secret|Amine.secret]] 
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Functional_Group/Amine.secret|Amine.secret]] 
 

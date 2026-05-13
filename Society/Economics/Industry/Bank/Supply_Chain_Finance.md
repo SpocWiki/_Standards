@@ -34,3 +34,21 @@ instance_of: "[[_Standards/WikiData/WD~Wikimedia_disambiguation_page,4167410|WD~
 
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Bank/Supply_Chain_Finance|Supply_Chain_Finance]] 
+
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Bank/Supply_Chain_Finance.public|Supply_Chain_Finance.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Bank/Supply_Chain_Finance.internal|Supply_Chain_Finance.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Bank/Supply_Chain_Finance.protect|Supply_Chain_Finance.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Bank/Supply_Chain_Finance.private|Supply_Chain_Finance.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Bank/Supply_Chain_Finance.personal|Supply_Chain_Finance.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Bank/Supply_Chain_Finance.secret|Supply_Chain_Finance.secret]] 

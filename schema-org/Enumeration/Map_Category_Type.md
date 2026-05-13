@@ -58,6 +58,7 @@ An enumeration of several kinds of Map.
 
 has_parent_class = `=this.dv_has_parent_class` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Map_Category_Type|Map_Category_Type]] 

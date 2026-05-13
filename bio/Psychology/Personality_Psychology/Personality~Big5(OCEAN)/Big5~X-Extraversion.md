@@ -222,22 +222,22 @@ Extroverts are on average happier, especially in company, but in isolation they 
 ## Drawing
 ```compressed-json
 N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Big5~X-Extraversion|Big5~X-Extraversion]] 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Personality_Psychology/Personality~Big5(OCEAN)/Big5~X-Extraversion|Big5~X-Extraversion]] 
 
-### #is_/same_as :: [[/_public/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~X-Extraversion.public|Big5~X-Extraversion.public]] 
+### #is_/same_as :: [[/_public/bio/Psychology/Personality_Psychology/Personality~Big5(OCEAN)/Big5~X-Extraversion.public|Big5~X-Extraversion.public]] 
 
-### #is_/same_as :: [[/_internal/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~X-Extraversion.internal|Big5~X-Extraversion.internal]] 
+### #is_/same_as :: [[/_internal/bio/Psychology/Personality_Psychology/Personality~Big5(OCEAN)/Big5~X-Extraversion.internal|Big5~X-Extraversion.internal]] 
 
-### #is_/same_as :: [[/_protect/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~X-Extraversion.protect|Big5~X-Extraversion.protect]] 
+### #is_/same_as :: [[/_protect/bio/Psychology/Personality_Psychology/Personality~Big5(OCEAN)/Big5~X-Extraversion.protect|Big5~X-Extraversion.protect]] 
 
-### #is_/same_as :: [[/_private/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~X-Extraversion.private|Big5~X-Extraversion.private]] 
+### #is_/same_as :: [[/_private/bio/Psychology/Personality_Psychology/Personality~Big5(OCEAN)/Big5~X-Extraversion.private|Big5~X-Extraversion.private]] 
 
-### #is_/same_as :: [[/_personal/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~X-Extraversion.personal|Big5~X-Extraversion.personal]] 
+### #is_/same_as :: [[/_personal/bio/Psychology/Personality_Psychology/Personality~Big5(OCEAN)/Big5~X-Extraversion.personal|Big5~X-Extraversion.personal]] 
 
-### #is_/same_as :: [[/_secret/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~X-Extraversion.secret|Big5~X-Extraversion.secret]] 
+### #is_/same_as :: [[/_secret/bio/Psychology/Personality_Psychology/Personality~Big5(OCEAN)/Big5~X-Extraversion.secret|Big5~X-Extraversion.secret]] 
 

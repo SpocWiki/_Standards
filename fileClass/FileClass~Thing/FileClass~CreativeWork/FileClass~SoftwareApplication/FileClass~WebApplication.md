@@ -42,7 +42,7 @@ Web applications.
 ### BrowserRequirements
 Specifies browser requirements in human-readable text. For example, 'requires HTML5 support'.
 
-BrowserRequirements:: {"type":"Input","options":{}}
+BrowserRequirements:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

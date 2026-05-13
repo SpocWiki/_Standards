@@ -134,7 +134,7 @@ Decapodiforms \...
   Acknowledgements   J. portieri photograph by Frank Parish; Magnapinna (?) photograph from N.U.R.C., others photographed by R. Young.
   copyright ::          © 2004 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
-  --------------------------------------------------------------------------------
+  -------------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

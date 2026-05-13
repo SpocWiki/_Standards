@@ -145,7 +145,7 @@ dv_has_:
 > [Wikipedia](https://en.wikipedia.org/wiki/SQL) 
 
 
-#see  ![[../../../../../IT/Data/DataBase/Sql|Sql]]
+#see  ![[../../../../../IT/Data/DataBase/Sql|Sql]] 
 
 
 ## Confidential Links & Embeds: 

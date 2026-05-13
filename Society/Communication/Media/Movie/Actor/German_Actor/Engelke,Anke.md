@@ -152,7 +152,7 @@ Von 1978 bis 1980 moderierte sie bei [Radio Luxemburg](https://de.wikipedia.org/
 und trat damit auch in der _[ZDF-Hitparade](https://de.wikipedia.org/wiki/ZDF-Hitparade "ZDF-Hitparade")_ auf. 
 
 Von 1979 bis 1986 war sie [Moderatorin](https://de.wikipedia.org/wiki/Moderator#Moderator_(Journalismus) "Moderator") der täglichen Kindersendungen auf der Funkausstellung fürs ZDF; 
-zusammen mit [Benny Schnier](https://de.wikipedia.org/wiki/Benny_Schnier "Benny Schnier") moderierte sie das [ZDF-Ferienprogramm](https://de.wikipedia.org/wiki/ZDF-Ferienprogramm "ZDF-Ferienprogramm").
+zusammen mit [Benny Schnier](https://de.wikipedia.org/wiki/Benny_Schnier "Benny Schnier") moderierte sie das [ZDF-Ferienprogramm](https://de.wikipedia.org/wiki/ZDF-Ferienprogramm "ZDF-Ferienprogramm"). 
 
 
 ## Confidential Links & Embeds: 

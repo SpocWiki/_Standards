@@ -121,7 +121,7 @@ ProductSupported:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cl
 ### Telephone
 The telephone number.
 
-Telephone:: {"type":"Input","options":{}}
+Telephone:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

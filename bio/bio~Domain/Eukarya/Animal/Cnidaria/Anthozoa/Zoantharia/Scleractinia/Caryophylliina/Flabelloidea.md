@@ -118,7 +118,7 @@ of Kansas Press, Lawrence.
   Size                 Greater calicular diameter 30 mm
   copyright ::            © 2002 [Stephen D. Cairns](mailto:cairns.stephen@nmnh.si.edu) 
  
-  ----------------------------------------------------------------------------
+  ---------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

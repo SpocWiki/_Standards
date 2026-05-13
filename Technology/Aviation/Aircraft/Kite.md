@@ -306,17 +306,17 @@ Unicode_character: 🪁
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Kite|Kite]] 
+### #is_/same_as :: [[/_Standards/Technology/Aviation/Aircraft/Kite|Kite]] 
 
-### #is_/same_as :: [[/_public/Technology/Aviation/Kite.public|Kite.public]] 
+### #is_/same_as :: [[/_public/Technology/Aviation/Aircraft/Kite.public|Kite.public]] 
 
-### #is_/same_as :: [[/_internal/Technology/Aviation/Kite.internal|Kite.internal]] 
+### #is_/same_as :: [[/_internal/Technology/Aviation/Aircraft/Kite.internal|Kite.internal]] 
 
-### #is_/same_as :: [[/_protect/Technology/Aviation/Kite.protect|Kite.protect]] 
+### #is_/same_as :: [[/_protect/Technology/Aviation/Aircraft/Kite.protect|Kite.protect]] 
 
-### #is_/same_as :: [[/_private/Technology/Aviation/Kite.private|Kite.private]] 
+### #is_/same_as :: [[/_private/Technology/Aviation/Aircraft/Kite.private|Kite.private]] 
 
-### #is_/same_as :: [[/_personal/Technology/Aviation/Kite.personal|Kite.personal]] 
+### #is_/same_as :: [[/_personal/Technology/Aviation/Aircraft/Kite.personal|Kite.personal]] 
 
-### #is_/same_as :: [[/_secret/Technology/Aviation/Kite.secret|Kite.secret]] 
+### #is_/same_as :: [[/_secret/Technology/Aviation/Aircraft/Kite.secret|Kite.secret]] 
 

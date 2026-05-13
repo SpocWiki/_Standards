@@ -67,7 +67,7 @@ and Biogeography of Pinus. Cambridge Univ. Press, Cambridge.
   Body Part         ovulate cone
   copyright ::         © 2004 [David S. Gernandt](http://www.reduaeh.mx/investigacion/biologia/investigadores/gernandt_latteri.htm) 
  
-  ------------------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------------------ 
 
 
 ## Confidential Links & Embeds: 

@@ -36,7 +36,7 @@ Related actions:
 #class/CancelAction
 #class/Thing/Action/OrganizeAction/PlanAction/CancelAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

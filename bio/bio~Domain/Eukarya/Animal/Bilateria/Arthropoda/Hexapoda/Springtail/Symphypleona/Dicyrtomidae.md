@@ -59,7 +59,7 @@ Hawaii. Zoologica Scripta 19(1):73-99.
   specimen_condition ::  Live Specimen
   copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
  
-  ------------------------------------------------------------------------
+  ------------------------------------------------------------------------ 
 
 
 ## Confidential Links & Embeds: 

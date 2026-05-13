@@ -62,7 +62,7 @@ resource "azurerm_storage_account" "example" {
 - **Use Bicep** if you are focused solely on Azure and want a simplified, Azure-native IaC tool with deep integration into the Azure ecosystem.
 - **Use Terraform** if you need a multi-cloud solution, want to manage infrastructure across different platforms, or if you need the flexibility and ecosystem support that comes with a more mature, widely adopted tool. 
 
-Both tools are powerful and capable, and the choice between them often comes down to your specific needs and the complexity of your environment.
+Both tools are powerful and capable, and the choice between them often comes down to your specific needs and the complexity of your environment. 
 
 
 ## Confidential Links & Embeds: 

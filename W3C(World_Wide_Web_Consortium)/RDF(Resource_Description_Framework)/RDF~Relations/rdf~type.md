@@ -6,7 +6,7 @@ ex:Person rdf:type rdfs:Class .
 ex:StudentA rdf:type ex:Person .
 ```
 
-Type of all Types.
+Type of all Types. 
 
 
 ## Confidential Links & Embeds: 

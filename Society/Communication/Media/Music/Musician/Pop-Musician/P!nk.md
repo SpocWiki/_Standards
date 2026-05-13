@@ -36,7 +36,7 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pink%20(singer))
 > 
-P!nk
+P!nk 
 
 
 ## Confidential Links & Embeds: 

@@ -37,7 +37,7 @@ These countries do not offer direct citizenship but grant it faster than usual i
 
 - **EU Regulations:** The European Union has pressured Malta and Cyprus (which suspended its CBI program in 2020) to phase out citizenship-for-investment programs.
 - **U.S. Sanctions:** The U.S. has raised concerns about Caribbean CBI programs being used for money laundering and imposed stricter visa policies.
-- **Russia & China Restrictions:** Many CBI programs exclude applicants from sanctioned countries, including Russia and Iran.
+- **Russia & China Restrictions:** Many CBI programs exclude applicants from sanctioned countries, including Russia and Iran. 
 
 
 ## Confidential Links & Embeds: 

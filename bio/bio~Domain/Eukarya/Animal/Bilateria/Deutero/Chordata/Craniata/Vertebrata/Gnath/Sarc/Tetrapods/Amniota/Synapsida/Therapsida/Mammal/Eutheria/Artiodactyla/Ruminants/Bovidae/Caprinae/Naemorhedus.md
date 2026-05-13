@@ -68,7 +68,7 @@ Containing group: [Caprinae](../Caprinae.md)
   Source Collection    [Flickr](http://flickr.com/)
   Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
   copyright ::            © 2006 [Kevin Schofield](http://flickr.com/people/kevinsji/)
-  -------------------------------------------------------------
+  ------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

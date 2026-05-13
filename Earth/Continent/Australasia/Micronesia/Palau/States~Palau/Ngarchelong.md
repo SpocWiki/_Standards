@@ -52,7 +52,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Ngarchelong/
 markerFolder: ./Ngarchelong/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

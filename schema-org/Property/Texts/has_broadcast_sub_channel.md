@@ -76,17 +76,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_broadcast_child_channel|has_broadcast_child_channel]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_broadcast_sub_channel|has_broadcast_sub_channel]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_broadcast_child_channel.public|has_broadcast_child_channel.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_broadcast_sub_channel.public|has_broadcast_sub_channel.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_broadcast_child_channel.internal|has_broadcast_child_channel.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_broadcast_sub_channel.internal|has_broadcast_sub_channel.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_broadcast_child_channel.protect|has_broadcast_child_channel.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_broadcast_sub_channel.protect|has_broadcast_sub_channel.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_broadcast_child_channel.private|has_broadcast_child_channel.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_broadcast_sub_channel.private|has_broadcast_sub_channel.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_broadcast_child_channel.personal|has_broadcast_child_channel.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_broadcast_sub_channel.personal|has_broadcast_sub_channel.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_broadcast_child_channel.secret|has_broadcast_child_channel.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_broadcast_sub_channel.secret|has_broadcast_sub_channel.secret]] 
 

@@ -82,17 +82,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_item_defect_return_label_source|has_item_defect_return_label_source]] 
+### #is_/same_as :: [[/_Standards/schema-org/Collection/has_item/has_item_defect_return_label_source|has_item_defect_return_label_source]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_item_defect_return_label_source.public|has_item_defect_return_label_source.public]] 
+### #is_/same_as :: [[/_public/schema-org/Collection/has_item/has_item_defect_return_label_source.public|has_item_defect_return_label_source.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_item_defect_return_label_source.internal|has_item_defect_return_label_source.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Collection/has_item/has_item_defect_return_label_source.internal|has_item_defect_return_label_source.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_item_defect_return_label_source.protect|has_item_defect_return_label_source.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Collection/has_item/has_item_defect_return_label_source.protect|has_item_defect_return_label_source.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_item_defect_return_label_source.private|has_item_defect_return_label_source.private]] 
+### #is_/same_as :: [[/_private/schema-org/Collection/has_item/has_item_defect_return_label_source.private|has_item_defect_return_label_source.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_item_defect_return_label_source.personal|has_item_defect_return_label_source.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Collection/has_item/has_item_defect_return_label_source.personal|has_item_defect_return_label_source.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_item_defect_return_label_source.secret|has_item_defect_return_label_source.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Collection/has_item/has_item_defect_return_label_source.secret|has_item_defect_return_label_source.secret]] 
 

@@ -32,7 +32,7 @@ A nail salon.
 #class/NailSalon
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/NailSalon
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

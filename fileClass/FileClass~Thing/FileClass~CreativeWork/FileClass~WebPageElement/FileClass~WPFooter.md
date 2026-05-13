@@ -32,7 +32,7 @@ The footer section of the page.
 #class/WPFooter
 #class/Thing/CreativeWork/WebPageElement/WPFooter
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

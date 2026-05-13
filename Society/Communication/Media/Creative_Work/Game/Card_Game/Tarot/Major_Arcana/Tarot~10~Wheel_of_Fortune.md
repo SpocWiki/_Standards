@@ -39,3 +39,21 @@ Commons_category: Wheel of Fortune (Major Arcana)
 - abundance, 
 - superfluity 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~10~Wheel_of_Fortune|Tarot~10~Wheel_of_Fortune]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~10~Wheel_of_Fortune.public|Tarot~10~Wheel_of_Fortune.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~10~Wheel_of_Fortune.internal|Tarot~10~Wheel_of_Fortune.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~10~Wheel_of_Fortune.protect|Tarot~10~Wheel_of_Fortune.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~10~Wheel_of_Fortune.private|Tarot~10~Wheel_of_Fortune.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~10~Wheel_of_Fortune.personal|Tarot~10~Wheel_of_Fortune.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~10~Wheel_of_Fortune.secret|Tarot~10~Wheel_of_Fortune.secret]] 

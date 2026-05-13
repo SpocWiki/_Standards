@@ -52,7 +52,7 @@ NumberOfBeds:: {"type":"Number","options":{}}
 ### TypeOfBed
 The type of bed to which the BedDetail refers, i.e. the type of bed available in the quantity indicated by quantity.
 
-TypeOfBed:: {"type":"Input","options":{}}
+TypeOfBed:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

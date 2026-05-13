@@ -244,7 +244,7 @@ coordinates: [[Funafuti]]
 markerFile: [[Funafuti]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

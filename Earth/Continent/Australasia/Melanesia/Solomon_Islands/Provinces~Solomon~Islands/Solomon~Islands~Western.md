@@ -52,7 +52,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Solomon~Islands~Western/
 markerFolder: ./Solomon~Islands~Western/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

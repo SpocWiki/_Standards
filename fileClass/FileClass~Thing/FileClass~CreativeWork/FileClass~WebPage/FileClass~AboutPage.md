@@ -32,7 +32,7 @@ Web page type: About page.
 #class/AboutPage
 #class/Thing/CreativeWork/WebPage/AboutPage
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

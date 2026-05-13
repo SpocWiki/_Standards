@@ -32,7 +32,7 @@ A store that sells reading glasses and similar devices for improving vision.
 #class/Optician
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/Optician
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -120,7 +120,7 @@ tropics. The first legs are waved like antennae and have the embolus
 fixed to the tegulum (in comparison with the synagelines, which use the
 second legs and have a free embolus). In many cases where the embolus is
 long, it curls around the top of the cymbium (like the hyetussines).
-Tentatively included are Myrmarachne and Bocus.
+Tentatively included are Myrmarachne and Bocus. 
 
 
 ## Confidential Links & Embeds: 

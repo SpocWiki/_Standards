@@ -22,7 +22,7 @@ tags:
 version: 2.0
 ---
 
-Components:: {"type":"MultiFile","options":{}}
+Components:: {"type":"MultiFile","options":{}} 
 
 
 ## Confidential Links & Embeds: 

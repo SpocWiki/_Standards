@@ -197,7 +197,7 @@ Status:: {"type":"Select","options":{"valuesList":{"EventCancelled","EventMovedO
 ### TypicalTest
 A medical test typically performed given this condition.
 
-TypicalTest:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalTest')"}}
+TypicalTest:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalTest')"}} 
 
 
 ## Confidential Links & Embeds: 

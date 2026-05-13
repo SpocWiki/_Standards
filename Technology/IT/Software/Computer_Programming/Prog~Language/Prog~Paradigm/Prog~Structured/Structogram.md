@@ -206,7 +206,7 @@ This is __not__ [[../Prog~Imperative/GOTO-Statement|GOTO-Statement]]]], but a Lo
 	<tr><td > </td><td >Method-Call</td><td > </td></tr>
 	<tr><td colspan="3" >&nbsp;</td>	</tr>
 </table>
-![[../../../../../IT/Data/Data~Graphics/Text-Diagrams/Diagram~Mermaid/MMD~Flowchart-Diagram#Function-Call|MMD~Function-Call]]]
+![[../../../../../IT/Data/Data~Graphics/Text-Diagrams/Diagram~Mermaid/MMD~Flowchart-Diagram#Function-Call|MMD~Function-Call]]] 
 
 
 ## Confidential Links & Embeds: 

@@ -42,7 +42,7 @@ Protein is here used in its widest possible definition, as classes of amino acid
 ### HasBioPolymerSequence
 A symbolic representation of a BioChemEntity. For example, a nucleotide sequence of a Gene or an amino acid sequence of a Protein.
 
-HasBioPolymerSequence:: {"type":"Input","options":{}}
+HasBioPolymerSequence:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

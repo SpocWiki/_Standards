@@ -52,7 +52,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Saltvik/
 markerFolder: ./Saltvik/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

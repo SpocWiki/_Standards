@@ -115,7 +115,7 @@ Cephalopoda: Cirroctopoda) from the South China Sea. Zoological Studies,
   View              Side
   Type              Holotype
   copyright ::         © 2002 S. O\'Shea and C.C. Lu
-  -----------------------------------------------------
+  ----------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

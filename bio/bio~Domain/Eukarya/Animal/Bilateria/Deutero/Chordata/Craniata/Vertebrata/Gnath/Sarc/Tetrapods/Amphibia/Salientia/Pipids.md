@@ -61,7 +61,7 @@ Pipimorpha. (See Estes, 1977; Estes et al., 1978; Nevo, 1968)
 	-   *Eoxenopoides* †
 	-   *Saltenia* †
 	-   *Shomronella* †
-	-   *Thoraciliacus* †
+	-   *Thoraciliacus* † 
 
 
 ## Confidential Links & Embeds: 

@@ -74,7 +74,7 @@ BusNumber:: {"type":"Input","options":{}}
 ### DepartureBusStop
 The stop or station from which the bus departs.
 
-DepartureBusStop:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place/CivicStructure/BusStation')"}}
+DepartureBusStop:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place/CivicStructure/BusStation')"}} 
 
 
 ## Confidential Links & Embeds: 

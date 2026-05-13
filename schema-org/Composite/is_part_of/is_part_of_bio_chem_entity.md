@@ -71,19 +71,20 @@ has_range = `=this.dv_has_range`
 
 has_inverse = `=this.dv_has_inverse` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[is_part_of_bio_chem_entity|is_part_of_bio_chem_entity]] 
+### #is_/same_as :: [[/_Standards/schema-org/Composite/is_part_of/is_part_of_bio_chem_entity|is_part_of_bio_chem_entity]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/is/part_of/is_part_of_bio_chem_entity.public|is_part_of_bio_chem_entity.public]] 
+### #is_/same_as :: [[/_public/schema-org/Composite/is_part_of/is_part_of_bio_chem_entity.public|is_part_of_bio_chem_entity.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/is/part_of/is_part_of_bio_chem_entity.internal|is_part_of_bio_chem_entity.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Composite/is_part_of/is_part_of_bio_chem_entity.internal|is_part_of_bio_chem_entity.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/is/part_of/is_part_of_bio_chem_entity.protect|is_part_of_bio_chem_entity.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Composite/is_part_of/is_part_of_bio_chem_entity.protect|is_part_of_bio_chem_entity.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/is/part_of/is_part_of_bio_chem_entity.private|is_part_of_bio_chem_entity.private]] 
+### #is_/same_as :: [[/_private/schema-org/Composite/is_part_of/is_part_of_bio_chem_entity.private|is_part_of_bio_chem_entity.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/is/part_of/is_part_of_bio_chem_entity.personal|is_part_of_bio_chem_entity.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Composite/is_part_of/is_part_of_bio_chem_entity.personal|is_part_of_bio_chem_entity.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/is/part_of/is_part_of_bio_chem_entity.secret|is_part_of_bio_chem_entity.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Composite/is_part_of/is_part_of_bio_chem_entity.secret|is_part_of_bio_chem_entity.secret]] 
 

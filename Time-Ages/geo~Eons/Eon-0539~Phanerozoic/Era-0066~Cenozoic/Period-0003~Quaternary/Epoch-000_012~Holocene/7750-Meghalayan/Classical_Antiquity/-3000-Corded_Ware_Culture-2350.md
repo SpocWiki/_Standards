@@ -130,3 +130,21 @@ is_same_as = `=this.dv_is_same_as`
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Corded%20Ware%20culture)  
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-3000-Corded_Ware_Culture-2350|-3000-Corded_Ware_Culture-2350]] 
+
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-3000-Corded_Ware_Culture-2350.public|-3000-Corded_Ware_Culture-2350.public]] 
+
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-3000-Corded_Ware_Culture-2350.internal|-3000-Corded_Ware_Culture-2350.internal]] 
+
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-3000-Corded_Ware_Culture-2350.protect|-3000-Corded_Ware_Culture-2350.protect]] 
+
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-3000-Corded_Ware_Culture-2350.private|-3000-Corded_Ware_Culture-2350.private]] 
+
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-3000-Corded_Ware_Culture-2350.personal|-3000-Corded_Ware_Culture-2350.personal]] 
+
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-3000-Corded_Ware_Culture-2350.secret|-3000-Corded_Ware_Culture-2350.secret]] 

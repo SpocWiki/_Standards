@@ -65,6 +65,7 @@ has_child_class = `=this.dv_has_child_class`
 
 has_properties = `=this.dv_has_properties` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Collection/list_item/how_to_item|how_to_item]] 

@@ -57,7 +57,7 @@ Typical unit code(s): KGM for kilogram, LBR for pound
 \* Note 2: You may also link to a [[QualitativeValue]] node that provides additional information using [[valueReference]]
 \* Note 3: Note that you can use [[minValue]] and [[maxValue]] to indicate ranges.
 
-RoofLoad:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
+RoofLoad:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}} 
 
 
 ## Confidential Links & Embeds: 

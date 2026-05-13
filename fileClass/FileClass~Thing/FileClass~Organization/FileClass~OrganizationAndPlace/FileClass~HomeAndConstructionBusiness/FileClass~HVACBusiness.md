@@ -32,7 +32,7 @@ A business that provides Heating, Ventilation and Air Conditioning services.
 #class/HVACBusiness
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/HVACBusiness
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -224,17 +224,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/Metric_System|Metric_System]] 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measure/Metric_System|Metric_System]] 
 
-### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/Metric_System.public|Metric_System.public]] 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measure/Metric_System.public|Metric_System.public]] 
 
-### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/Metric_System.internal|Metric_System.internal]] 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measure/Metric_System.internal|Metric_System.internal]] 
 
-### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/Metric_System.protect|Metric_System.protect]] 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measure/Metric_System.protect|Metric_System.protect]] 
 
-### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/Metric_System.private|Metric_System.private]] 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measure/Metric_System.private|Metric_System.private]] 
 
-### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/Metric_System.personal|Metric_System.personal]] 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measure/Metric_System.personal|Metric_System.personal]] 
 
-### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/Metric_System.secret|Metric_System.secret]] 
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measure/Metric_System.secret|Metric_System.secret]] 
 

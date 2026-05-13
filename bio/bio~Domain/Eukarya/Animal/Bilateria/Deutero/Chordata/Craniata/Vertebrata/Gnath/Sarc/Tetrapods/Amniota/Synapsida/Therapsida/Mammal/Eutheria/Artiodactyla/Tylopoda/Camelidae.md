@@ -261,7 +261,7 @@ Unicode_character: 🐪
 scientific_name ::     Camelus bactrianus
 Creator              Photograph by Gary M. Stolz
 Acknowledgements     Photograph courtesy of the U.S. Fish and Wildlife Service
-specimen_condition ::  Live Specimen
+specimen_condition ::  Live Specimen 
 
 
 ## Confidential Links & Embeds: 

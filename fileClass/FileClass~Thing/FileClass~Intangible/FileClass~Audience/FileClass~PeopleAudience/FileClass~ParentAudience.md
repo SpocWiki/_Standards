@@ -52,7 +52,7 @@ ChildMaxAge:: {"type":"Number","options":{}}
 ### ChildMinAge
 Minimal age of the child.
 
-ChildMinAge:: {"type":"Number","options":{}}
+ChildMinAge:: {"type":"Number","options":{}} 
 
 
 ## Confidential Links & Embeds: 

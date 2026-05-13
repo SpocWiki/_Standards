@@ -92,7 +92,7 @@ RecordLabel:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/T
 ### ReleaseOf
 The album this is a release of.
 
-ReleaseOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MusicPlaylist/MusicAlbum')"}}
+ReleaseOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MusicPlaylist/MusicAlbum')"}} 
 
 
 ## Confidential Links & Embeds: 

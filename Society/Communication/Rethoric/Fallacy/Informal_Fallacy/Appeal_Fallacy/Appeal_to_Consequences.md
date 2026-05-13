@@ -81,3 +81,21 @@ dv_has_:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Appeal%20to%20consequences)  
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Appeal_Fallacy/Appeal_to_Consequences|Appeal_to_Consequences]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Appeal_Fallacy/Appeal_to_Consequences.public|Appeal_to_Consequences.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Appeal_Fallacy/Appeal_to_Consequences.internal|Appeal_to_Consequences.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Appeal_Fallacy/Appeal_to_Consequences.protect|Appeal_to_Consequences.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Appeal_Fallacy/Appeal_to_Consequences.private|Appeal_to_Consequences.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Appeal_Fallacy/Appeal_to_Consequences.personal|Appeal_to_Consequences.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Appeal_Fallacy/Appeal_to_Consequences.secret|Appeal_to_Consequences.secret]] 

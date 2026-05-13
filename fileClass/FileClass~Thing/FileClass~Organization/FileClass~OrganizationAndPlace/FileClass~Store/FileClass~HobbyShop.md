@@ -32,7 +32,7 @@ A store that sells materials useful or necessary for various hobbies.
 #class/HobbyShop
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/HobbyShop
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

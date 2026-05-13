@@ -43,7 +43,7 @@ An audiobook.
 ### ReadBy
 A person who reads (performs) the audiobook.
 
-ReadBy:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Person')"}}
+ReadBy:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Person')"}} 
 
 
 ## Confidential Links & Embeds: 

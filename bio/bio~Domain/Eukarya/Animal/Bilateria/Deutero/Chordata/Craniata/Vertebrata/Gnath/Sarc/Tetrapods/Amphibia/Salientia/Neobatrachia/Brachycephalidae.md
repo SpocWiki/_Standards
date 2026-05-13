@@ -158,7 +158,7 @@ in inguinal amplexus, a behavior that is rare in Neobatrachia (Nussbaum,
 
 -   » Sub-Groups 
 	-   *Brachycephalus ephippium*
-	-   *Psyllophryne didactyla*
+	-   *Psyllophryne didactyla* 
 
 
 ## Confidential Links & Embeds: 

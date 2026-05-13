@@ -214,7 +214,7 @@ Creator              Photograph by Glenn and Martha Vargas
 specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
 copyright ::            © 2002 [California Academy of Sciences](http://www.calacademy.org/) 
-------------------------------------------------------------------------------
+------------------------------------------------------------------------------ 
 
 
 ## Confidential Links & Embeds: 

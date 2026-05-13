@@ -1,5 +1,4 @@
  https://thrivecart.com is a Billing Solution for Downloads 
-  
 
 
 ## Confidential Links & Embeds: 

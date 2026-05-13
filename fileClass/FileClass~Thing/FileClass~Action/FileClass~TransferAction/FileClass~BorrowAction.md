@@ -47,7 +47,7 @@ Related actions:
 ### Lender
 A sub property of participant. The person that lends the object being borrowed.
 
-Lender:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
+Lender:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}} 
 
 
 ## Confidential Links & Embeds: 

@@ -74,19 +74,20 @@ has_range = `=this.dv_has_range`
 
 has_inverse = `=this.dv_has_inverse` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[is_part_of_trip|is_part_of_trip]] 
+### #is_/same_as :: [[/_Standards/schema-org/Composite/is_part_of/is_part_of_trip|is_part_of_trip]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/is/part_of/is_part_of_trip.public|is_part_of_trip.public]] 
+### #is_/same_as :: [[/_public/schema-org/Composite/is_part_of/is_part_of_trip.public|is_part_of_trip.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/is/part_of/is_part_of_trip.internal|is_part_of_trip.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Composite/is_part_of/is_part_of_trip.internal|is_part_of_trip.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/is/part_of/is_part_of_trip.protect|is_part_of_trip.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Composite/is_part_of/is_part_of_trip.protect|is_part_of_trip.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/is/part_of/is_part_of_trip.private|is_part_of_trip.private]] 
+### #is_/same_as :: [[/_private/schema-org/Composite/is_part_of/is_part_of_trip.private|is_part_of_trip.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/is/part_of/is_part_of_trip.personal|is_part_of_trip.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Composite/is_part_of/is_part_of_trip.personal|is_part_of_trip.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/is/part_of/is_part_of_trip.secret|is_part_of_trip.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Composite/is_part_of/is_part_of_trip.secret|is_part_of_trip.secret]] 
 

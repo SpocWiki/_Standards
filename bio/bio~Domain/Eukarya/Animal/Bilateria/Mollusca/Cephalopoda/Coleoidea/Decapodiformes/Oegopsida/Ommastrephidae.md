@@ -167,7 +167,7 @@ Contr. Zool., No. 586:373-384..
   location ::        off Hawaii
   copyright ::         © 1996 [Michael Vecchione](mailto:vecchiom@si.edu) 
  
-  ------------------------------------------------------------------------
+  ------------------------------------------------------------------------ 
 
 
 ## Confidential Links & Embeds: 

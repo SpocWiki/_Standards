@@ -83,19 +83,20 @@ has_domain = `=this.dv_has_domain`
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_ingredient_for_recipe|has_ingredient_for_recipe]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_ingredient/has_ingredient_for_recipe|has_ingredient_for_recipe]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_recipe_ingredient.public|has_recipe_ingredient.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_ingredient/has_ingredient_for_recipe.public|has_ingredient_for_recipe.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_recipe_ingredient.internal|has_recipe_ingredient.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_ingredient/has_ingredient_for_recipe.internal|has_ingredient_for_recipe.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_recipe_ingredient.protect|has_recipe_ingredient.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_ingredient/has_ingredient_for_recipe.protect|has_ingredient_for_recipe.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_recipe_ingredient.private|has_recipe_ingredient.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_ingredient/has_ingredient_for_recipe.private|has_ingredient_for_recipe.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_recipe_ingredient.personal|has_recipe_ingredient.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_ingredient/has_ingredient_for_recipe.personal|has_ingredient_for_recipe.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_recipe_ingredient.secret|has_recipe_ingredient.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_ingredient/has_ingredient_for_recipe.secret|has_ingredient_for_recipe.secret]] 
 

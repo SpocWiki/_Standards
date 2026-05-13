@@ -135,7 +135,7 @@ copyright ::            © [Peter G. May](http://www.stetson.edu/%7Epmay/stock%2
 ![](Dyschoriste/Dyschoriste_linearis-B.jpg) 
 scientific_name ::     Dyschoriste linearis (Torr. & A.Gray) Kuntze
 specimen_condition ::  Live Specimen
-copyright ::            © 2003 [Texas Tech University](http://www.depts.ttu.edu/hillcountry/research/wildflowers.htm)
+copyright ::            © 2003 [Texas Tech University](http://www.depts.ttu.edu/hillcountry/research/wildflowers.htm) 
 
 
 ## Confidential Links & Embeds: 

@@ -230,7 +230,7 @@ The \"eocyte tree\":
   scientific_name ::  Fischerella (Eubacteria, Cyanobacteria)
   copyright ::         © 1995 [Sue Barns](mailto:sbarns@lanl.gov) 
  
-  ----------------------------------------------------------------------
+  ---------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

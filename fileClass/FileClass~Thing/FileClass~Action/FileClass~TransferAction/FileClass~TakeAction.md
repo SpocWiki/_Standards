@@ -37,7 +37,7 @@ Related actions:
 #class/TakeAction
 #class/Thing/Action/TransferAction/TakeAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

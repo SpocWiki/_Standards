@@ -79,17 +79,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_required_browser|has_required_browser]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_required/has_required_browser|has_required_browser]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_required_browser.public|has_required_browser.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_required/has_required_browser.public|has_required_browser.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_required_browser.internal|has_required_browser.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_required/has_required_browser.internal|has_required_browser.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_required_browser.protect|has_required_browser.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_required/has_required_browser.protect|has_required_browser.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_required_browser.private|has_required_browser.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_required/has_required_browser.private|has_required_browser.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_required_browser.personal|has_required_browser.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_required/has_required_browser.personal|has_required_browser.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_required_browser.secret|has_required_browser.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_required/has_required_browser.secret|has_required_browser.secret]] 
 

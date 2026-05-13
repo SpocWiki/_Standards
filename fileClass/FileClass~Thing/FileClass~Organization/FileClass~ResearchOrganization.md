@@ -32,7 +32,7 @@ A Research Organization (e.g. scientific institute, research company).
 #class/ResearchOrganization
 #class/Thing/Organization/ResearchOrganization
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

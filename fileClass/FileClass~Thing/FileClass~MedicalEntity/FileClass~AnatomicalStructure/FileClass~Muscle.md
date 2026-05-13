@@ -86,7 +86,7 @@ MuscleAction:: {"type":"Input","options":{}}
 ### Nerve
 The underlying innervation associated with the muscle.
 
-Nerve:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure/Nerve')"}}
+Nerve:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure/Nerve')"}} 
 
 
 ## Confidential Links & Embeds: 

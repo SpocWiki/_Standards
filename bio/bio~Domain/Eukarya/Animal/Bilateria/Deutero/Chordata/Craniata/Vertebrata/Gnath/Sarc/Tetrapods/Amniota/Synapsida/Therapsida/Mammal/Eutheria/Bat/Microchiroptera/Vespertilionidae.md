@@ -182,7 +182,7 @@ Evolutionsforschung, 32:11-34.
   ----------
   scientific_name ::  Eptesicus furnalis
   copyright ::         © 1998 Nancy Simmons
-  ----------
+  ---------- 
 
 
 ## Confidential Links & Embeds: 

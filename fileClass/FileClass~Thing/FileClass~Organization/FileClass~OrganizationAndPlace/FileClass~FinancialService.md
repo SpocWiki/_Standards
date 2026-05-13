@@ -42,7 +42,7 @@ Financial services business.
 ### FeesAndCommissionsSpecification
 Description of fees, commissions, and other terms applied either to a class of financial product, or by a financial service organization.
 
-FeesAndCommissionsSpecification:: {"type":"Input","options":{}}
+FeesAndCommissionsSpecification:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

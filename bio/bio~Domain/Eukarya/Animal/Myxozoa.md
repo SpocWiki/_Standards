@@ -146,7 +146,7 @@ dv_has_:
 	    -   *Bivalvulida*
 	        -   *Platysporina*
 	        -   *Variisporina*
-	        -   *Sphaeromyxina*
+	        -   *Sphaeromyxina* 
 
 
 ## Confidential Links & Embeds: 

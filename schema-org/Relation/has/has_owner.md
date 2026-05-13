@@ -42,9 +42,10 @@ Use it like this:
 
 Relation describes [[../../../Society/Law/Civil_Law/Ownership|Ownership]] from the Side of the [[../../Property|Property]]: 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_owner|has_owner]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_owner|has_owner]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_owner.public|has_owner.public]] 
 

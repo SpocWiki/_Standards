@@ -24,7 +24,7 @@ tags:
 version: 2.0
 ---
 
-has_range:: {"type":"File","options":{"dvQueryString":"dv.pages('#class/data_type')"},"style":{"code":false}}
+has_range:: {"type":"File","options":{"dvQueryString":"dv.pages('#class/data_type')"},"style":{"code":false}} 
 
 
 ## Confidential Links & Embeds: 

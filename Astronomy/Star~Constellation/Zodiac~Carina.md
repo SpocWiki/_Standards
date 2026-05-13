@@ -238,7 +238,7 @@ has_name_de = `=this.dv_has_name_de`
 > [Wikipedia](https://en.wikipedia.org/wiki/Carina%20(constellation)) 
 
 
-## [[Zodiac~Carina/Eta_Carinae|Eta_Carinae]]
+## [[Zodiac~Carina/Eta_Carinae|Eta_Carinae]] 
 
 
 ## Confidential Links & Embeds: 

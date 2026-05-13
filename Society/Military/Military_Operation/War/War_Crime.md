@@ -258,17 +258,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[War_Crime|War_Crime]] 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/War/War_Crime|War_Crime]] 
 
-### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/War/War_Crime.public|War_Crime.public]] 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/War/War_Crime.public|War_Crime.public]] 
 
-### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/War/War_Crime.internal|War_Crime.internal]] 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/War/War_Crime.internal|War_Crime.internal]] 
 
-### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/War/War_Crime.protect|War_Crime.protect]] 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/War/War_Crime.protect|War_Crime.protect]] 
 
-### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/War/War_Crime.private|War_Crime.private]] 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/War/War_Crime.private|War_Crime.private]] 
 
-### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/War/War_Crime.personal|War_Crime.personal]] 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/War/War_Crime.personal|War_Crime.personal]] 
 
-### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/War/War_Crime.secret|War_Crime.secret]] 
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/War/War_Crime.secret|War_Crime.secret]] 
 

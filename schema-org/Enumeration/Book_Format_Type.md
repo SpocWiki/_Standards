@@ -58,6 +58,7 @@ The publication format of the book.
 
 has_parent_class = `=this.dv_has_parent_class` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Book_Format_Type|Book_Format_Type]] 

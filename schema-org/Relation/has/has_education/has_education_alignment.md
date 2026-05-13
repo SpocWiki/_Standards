@@ -86,17 +86,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_education_alignment|has_education_alignment]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_education/has_education_alignment|has_education_alignment]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_education_alignment.public|has_education_alignment.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_education/has_education_alignment.public|has_education_alignment.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_education_alignment.internal|has_education_alignment.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_education/has_education_alignment.internal|has_education_alignment.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_education_alignment.protect|has_education_alignment.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_education/has_education_alignment.protect|has_education_alignment.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_education_alignment.private|has_education_alignment.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_education/has_education_alignment.private|has_education_alignment.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_education_alignment.personal|has_education_alignment.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_education/has_education_alignment.personal|has_education_alignment.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_education_alignment.secret|has_education_alignment.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_education/has_education_alignment.secret|has_education_alignment.secret]] 
 

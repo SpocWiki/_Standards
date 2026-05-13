@@ -43,7 +43,7 @@ A facility, often associated with a hospital or medical school, that is devoted 
 ### AvailableService
 A medical service available from this provider.
 
-AvailableService:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalProcedure')"}}
+AvailableService:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalProcedure')"}} 
 
 
 ## Confidential Links & Embeds: 

@@ -80,7 +80,7 @@ dv_has_:
 
 -   » Sub-Groups 
 	-   *Thermodesulfobacterium*
-	-   *Thermodesulfatator*
+	-   *Thermodesulfatator* 
 
 
 ## Confidential Links & Embeds: 

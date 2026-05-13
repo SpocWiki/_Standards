@@ -73,17 +73,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_id_reservation|has_id_reservation]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_id/has_id_reservation|has_id_reservation]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_id_reservation.public|has_id_reservation.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_id/has_id_reservation.public|has_id_reservation.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_id_reservation.internal|has_id_reservation.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_id/has_id_reservation.internal|has_id_reservation.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_id_reservation.protect|has_id_reservation.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_id/has_id_reservation.protect|has_id_reservation.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_id_reservation.private|has_id_reservation.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_id/has_id_reservation.private|has_id_reservation.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_id_reservation.personal|has_id_reservation.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_id/has_id_reservation.personal|has_id_reservation.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_id_reservation.secret|has_id_reservation.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_id/has_id_reservation.secret|has_id_reservation.secret]] 
 

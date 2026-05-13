@@ -87,7 +87,7 @@ Predicate describes that:
 #has_/domain  :: [[../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|MediaObject]],  [[../../Class/is_a_/Intangible/structured_value/offer_shipping_details|OfferShippingDetails]],  [[../../../Society/Agent/Person|Person]],  [[../../../Society/Agent/Community/Organization/Business/Product|Product]],  [[../../../Society/Communication/Media/Creative_Work/Visual_Artwork|VisualArtwork]]  
 
 has_name = `=this.dv_has_name` 
-(has_/range :: [[../../Predicate/Quantity/has_value_for_distance|Distance]],  [[../../Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]] )
+(has_/range :: [[../../Predicate/Quantity/has_value_for_distance|Distance]],  [[../../Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]] ) 
 
 
 ## Confidential Links & Embeds: 

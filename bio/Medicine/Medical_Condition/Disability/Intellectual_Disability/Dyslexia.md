@@ -286,3 +286,19 @@ dv_has_:
 > [Wikipedia](https://en.wikipedia.org/wiki/Dyslexia) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disability/Intellectual_Disability/Dyslexia|Dyslexia]] 
+
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disability/Intellectual_Disability/Dyslexia.public|Dyslexia.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disability/Intellectual_Disability/Dyslexia.internal|Dyslexia.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disability/Intellectual_Disability/Dyslexia.protect|Dyslexia.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disability/Intellectual_Disability/Dyslexia.private|Dyslexia.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disability/Intellectual_Disability/Dyslexia.personal|Dyslexia.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disability/Intellectual_Disability/Dyslexia.secret|Dyslexia.secret]] 
+

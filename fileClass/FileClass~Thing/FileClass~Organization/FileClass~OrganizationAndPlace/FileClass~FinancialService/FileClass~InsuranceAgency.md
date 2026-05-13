@@ -32,7 +32,7 @@ An Insurance agency.
 #class/InsuranceAgency
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService/InsuranceAgency
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

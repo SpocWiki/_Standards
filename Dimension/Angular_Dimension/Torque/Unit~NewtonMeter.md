@@ -141,17 +141,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Unit~NewtonMeter|Unit~NewtonMeter]] 
+### #is_/same_as :: [[/_Standards/Dimension/Angular_Dimension/Torque/Unit~NewtonMeter|Unit~NewtonMeter]] 
 
-### #is_/same_as :: [[/_public/Dimension/Linear_Dimension/Torque/Unit~NewtonMeter.public|Unit~NewtonMeter.public]] 
+### #is_/same_as :: [[/_public/Dimension/Angular_Dimension/Torque/Unit~NewtonMeter.public|Unit~NewtonMeter.public]] 
 
-### #is_/same_as :: [[/_internal/Dimension/Linear_Dimension/Torque/Unit~NewtonMeter.internal|Unit~NewtonMeter.internal]] 
+### #is_/same_as :: [[/_internal/Dimension/Angular_Dimension/Torque/Unit~NewtonMeter.internal|Unit~NewtonMeter.internal]] 
 
-### #is_/same_as :: [[/_protect/Dimension/Linear_Dimension/Torque/Unit~NewtonMeter.protect|Unit~NewtonMeter.protect]] 
+### #is_/same_as :: [[/_protect/Dimension/Angular_Dimension/Torque/Unit~NewtonMeter.protect|Unit~NewtonMeter.protect]] 
 
-### #is_/same_as :: [[/_private/Dimension/Linear_Dimension/Torque/Unit~NewtonMeter.private|Unit~NewtonMeter.private]] 
+### #is_/same_as :: [[/_private/Dimension/Angular_Dimension/Torque/Unit~NewtonMeter.private|Unit~NewtonMeter.private]] 
 
-### #is_/same_as :: [[/_personal/Dimension/Linear_Dimension/Torque/Unit~NewtonMeter.personal|Unit~NewtonMeter.personal]] 
+### #is_/same_as :: [[/_personal/Dimension/Angular_Dimension/Torque/Unit~NewtonMeter.personal|Unit~NewtonMeter.personal]] 
 
-### #is_/same_as :: [[/_secret/Dimension/Linear_Dimension/Torque/Unit~NewtonMeter.secret|Unit~NewtonMeter.secret]] 
+### #is_/same_as :: [[/_secret/Dimension/Angular_Dimension/Torque/Unit~NewtonMeter.secret|Unit~NewtonMeter.secret]] 
 

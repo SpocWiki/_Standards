@@ -50,7 +50,7 @@ The general opening hours for a business. Opening hours can be specified as a we
 \* Here is an example: <code><time itemprop="openingHours" datetime="Tu,Th 16:00-20:00">Tuesdays and Thursdays 4-8pm</time></code>.
 \* If a business is open 7 days a week, then it can be specified as <code><time itemprop="openingHours" datetime="Mo-Su">Monday through Sunday, all day</time></code>.
 
-OpeningHours:: {"type":"Input","options":{}}
+OpeningHours:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

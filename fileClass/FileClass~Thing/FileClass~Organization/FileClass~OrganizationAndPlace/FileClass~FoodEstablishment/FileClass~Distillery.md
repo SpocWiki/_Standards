@@ -32,7 +32,7 @@ A distillery.
 #class/Distillery
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Distillery
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

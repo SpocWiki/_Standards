@@ -151,6 +151,22 @@ E-I means Extraversion minus Intraversion etc.
 > and that 10,000 businesses, 2,500 colleges and universities, 
 > and 200 government agencies in the United States use it.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs%20Type%20Indicator)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs%20Type%20Indicator) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Psychology/Personality_Psychology/MBTI(Myers-Briggs Type Indicator)|MBTI(Myers-Briggs Type Indicator)]] 
+
+### #is_/same_as :: [[/_public/bio/Psychology/Personality_Psychology/MBTI(Myers-Briggs Type Indicator).public|MBTI(Myers-Briggs Type Indicator).public]] 
+
+### #is_/same_as :: [[/_internal/bio/Psychology/Personality_Psychology/MBTI(Myers-Briggs Type Indicator).internal|MBTI(Myers-Briggs Type Indicator).internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Psychology/Personality_Psychology/MBTI(Myers-Briggs Type Indicator).protect|MBTI(Myers-Briggs Type Indicator).protect]] 
+
+### #is_/same_as :: [[/_private/bio/Psychology/Personality_Psychology/MBTI(Myers-Briggs Type Indicator).private|MBTI(Myers-Briggs Type Indicator).private]] 
+
+### #is_/same_as :: [[/_personal/bio/Psychology/Personality_Psychology/MBTI(Myers-Briggs Type Indicator).personal|MBTI(Myers-Briggs Type Indicator).personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Psychology/Personality_Psychology/MBTI(Myers-Briggs Type Indicator).secret|MBTI(Myers-Briggs Type Indicator).secret]] 
 

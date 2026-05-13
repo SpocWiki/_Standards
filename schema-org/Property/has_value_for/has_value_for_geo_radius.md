@@ -83,6 +83,7 @@ Predicate describes that:
 #has_/name = `=this.dv_has_name` 
 #has_/range = `=this.dv_has_range` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_geo_radius|has_value_for_geo_radius]] 

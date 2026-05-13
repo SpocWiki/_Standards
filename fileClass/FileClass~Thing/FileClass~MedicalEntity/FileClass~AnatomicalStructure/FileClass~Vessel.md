@@ -32,7 +32,7 @@ A component of the human body circulatory system comprised of an intricate netwo
 #class/Vessel
 #class/Thing/MedicalEntity/AnatomicalStructure/Vessel
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

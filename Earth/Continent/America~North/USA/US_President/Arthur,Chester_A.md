@@ -63,7 +63,7 @@ has_id_wikidata: Q35498
 [is_member_of ::[[../../../../../Knowledge/History.internal/History~USA/US~Republican_Party|US~Republican_Party]]] ] 
 
 ## Offices 
--   [has_role :: [[../US_President|US_President]] ] [created:: 1881-09-19]cancelled = `=this.dv_cancelled`
+-   [has_role :: [[../US_President|US_President]] ] [created:: 1881-09-19]cancelled = `=this.dv_cancelled` 
 
 
 ## Confidential Links & Embeds: 

@@ -36,7 +36,7 @@ Related actions:
 #class/FindAction
 #class/Thing/Action/FindAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

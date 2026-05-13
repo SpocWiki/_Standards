@@ -88,7 +88,7 @@ dv_has_:
 -   » Sub-Groups
     -  [Amphilinidea](Cestodaria/Amphilinidea.md) 
 	-   *Gyrocotylidea*
-	-   [Amphilinidea](Cestodaria/Amphilinidea.md "go to ToL page"))*
+	-   [Amphilinidea](Cestodaria/Amphilinidea.md "go to ToL page"))* 
 
 
 ## Confidential Links & Embeds: 

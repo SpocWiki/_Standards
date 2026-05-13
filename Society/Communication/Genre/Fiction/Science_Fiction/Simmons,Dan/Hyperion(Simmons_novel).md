@@ -71,17 +71,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Shrike%20time%20tombs.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Hyperion(Simmons_novel)|Hyperion(Simmons_novel)]] 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Science_Fiction/Simmons,Dan/Hyperion(Simmons_novel)|Hyperion(Simmons_novel)]] 
 
-### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Science_Fiction/Hyperion(Simmons_novel).public|Hyperion(Simmons_novel).public]] 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Science_Fiction/Simmons,Dan/Hyperion(Simmons_novel).public|Hyperion(Simmons_novel).public]] 
 
-### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Science_Fiction/Hyperion(Simmons_novel).internal|Hyperion(Simmons_novel).internal]] 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Science_Fiction/Simmons,Dan/Hyperion(Simmons_novel).internal|Hyperion(Simmons_novel).internal]] 
 
-### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Science_Fiction/Hyperion(Simmons_novel).protect|Hyperion(Simmons_novel).protect]] 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Science_Fiction/Simmons,Dan/Hyperion(Simmons_novel).protect|Hyperion(Simmons_novel).protect]] 
 
-### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Science_Fiction/Hyperion(Simmons_novel).private|Hyperion(Simmons_novel).private]] 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Science_Fiction/Simmons,Dan/Hyperion(Simmons_novel).private|Hyperion(Simmons_novel).private]] 
 
-### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Science_Fiction/Hyperion(Simmons_novel).personal|Hyperion(Simmons_novel).personal]] 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Science_Fiction/Simmons,Dan/Hyperion(Simmons_novel).personal|Hyperion(Simmons_novel).personal]] 
 
-### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Science_Fiction/Hyperion(Simmons_novel).secret|Hyperion(Simmons_novel).secret]] 
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Science_Fiction/Simmons,Dan/Hyperion(Simmons_novel).secret|Hyperion(Simmons_novel).secret]] 
 

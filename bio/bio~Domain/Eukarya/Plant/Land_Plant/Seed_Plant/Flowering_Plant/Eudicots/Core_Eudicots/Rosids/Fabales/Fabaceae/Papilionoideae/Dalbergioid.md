@@ -118,7 +118,7 @@ copyright ::            © [Mike Haddock](http://www.lib.ksu.edu/wildflower/)
 ![Inocarpus edulis](Dalbergioid/Inocarpus_edulis.jpg) 
 scientific_name ::     Inocarpus edulis Forst.
 specimen_condition ::  Live Specimen
-copyright ::            © G. D. Carr
+copyright ::            © G. D. Carr 
 
 
 ## Confidential Links & Embeds: 

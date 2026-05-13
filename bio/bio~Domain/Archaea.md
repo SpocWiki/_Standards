@@ -641,7 +641,7 @@ dv_has_:
 -   » Sub-Groups 
 	-   *Korarchaeota*
     -   [Thermoproteota](Archaea/Thermoproteota.md)
-    -   [Methanobacteriota](Archaea/Methanobacteriota.md)
+    -   [Methanobacteriota](Archaea/Methanobacteriota.md) 
 
 
 ## Confidential Links & Embeds: 

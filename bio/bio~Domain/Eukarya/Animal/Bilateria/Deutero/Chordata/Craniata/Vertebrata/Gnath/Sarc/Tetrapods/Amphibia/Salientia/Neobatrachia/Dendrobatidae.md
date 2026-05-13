@@ -296,7 +296,7 @@ Ranoidea, close to arthroleptid and petropedetine ranoids.
 
 ------------------------------------------------------------------------
 2. Dendrobates reticulatus; photo copyright © 1995 David Cannatella
-![](Dendrobatidae/dendrobates_reticulatus.jpg)
+![](Dendrobatidae/dendrobates_reticulatus.jpg) 
 
 
 ## Confidential Links & Embeds: 

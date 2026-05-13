@@ -224,7 +224,7 @@ metacarpal is a well-corroborated synapomorphy.
 
 ------------------------------------------------------------------------
 3. Hyalinobatrachium oyampiensis; photo © 1995 David Cannatella
-![Hyalinobatrachium oyampiensis](centrolenella.jpg)
+![Hyalinobatrachium oyampiensis](centrolenella.jpg) 
 
 
 ## Confidential Links & Embeds: 

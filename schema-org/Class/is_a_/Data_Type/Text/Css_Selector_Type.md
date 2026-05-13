@@ -65,6 +65,7 @@ Text representing a CSS selector.
 
 has_parent_class = `=this.dv_has_parent_class` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type|Css_Selector_Type]] 

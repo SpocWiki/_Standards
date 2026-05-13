@@ -142,7 +142,7 @@ Ser. 2: 185-202.
   Size                 350 mm ML (to tip of tail)
   copyright ::            © [Clyde F. E. Roper](mailto:roper.clyde@nmnh.si.edu) 
  
-  --------------------------------------------------------------------------
+  -------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

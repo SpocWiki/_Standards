@@ -283,17 +283,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/Imperial_Unit/Inch|Inch]] 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measure/Imperial_Unit/Inch|Inch]] 
 
-### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/Imperial_Unit/Inch.public|Inch.public]] 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measure/Imperial_Unit/Inch.public|Inch.public]] 
 
-### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/Imperial_Unit/Inch.internal|Inch.internal]] 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measure/Imperial_Unit/Inch.internal|Inch.internal]] 
 
-### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/Imperial_Unit/Inch.protect|Inch.protect]] 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measure/Imperial_Unit/Inch.protect|Inch.protect]] 
 
-### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/Imperial_Unit/Inch.private|Inch.private]] 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measure/Imperial_Unit/Inch.private|Inch.private]] 
 
-### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/Imperial_Unit/Inch.personal|Inch.personal]] 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measure/Imperial_Unit/Inch.personal|Inch.personal]] 
 
-### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/Imperial_Unit/Inch.secret|Inch.secret]] 
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measure/Imperial_Unit/Inch.secret|Inch.secret]] 
 

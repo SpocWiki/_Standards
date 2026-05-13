@@ -688,7 +688,7 @@ has_image_for_coat_of_arms = `=this.dv_has_image_for_coat_of_arms`
 
 ```dataviewjs
 dv.view("TableByName", ["EU(European_Union).tsv"]);
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

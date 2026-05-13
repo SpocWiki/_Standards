@@ -26,7 +26,7 @@ dv_is_same_as:
 ---
 
 has_time_started = `=this.dv_has_time_started`
-has_time_stopped = `=this.dv_has_time_stopped`
+has_time_stopped = `=this.dv_has_time_stopped` 
 
 
 ## Confidential Links & Embeds: 

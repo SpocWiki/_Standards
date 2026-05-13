@@ -98,7 +98,7 @@ ReviewAspect:: {"type":"Input","options":{}}
 ### WorstRating
 The lowest value allowed in this rating system. If worstRating is omitted, 1 is assumed.
 
-WorstRating:: {"type":"Number","options":{}}
+WorstRating:: {"type":"Number","options":{}} 
 
 
 ## Confidential Links & Embeds: 

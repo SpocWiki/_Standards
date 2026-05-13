@@ -360,3 +360,21 @@ Without frequency agreement, sender and receiver timing drift apart over time.
 
 Unsynchronised or badly phased switching causes unnecessary transients and interference.  
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Science/Physical_Synchronisation|Physical_Synchronisation]] 
+
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Science/Physical_Synchronisation.public|Physical_Synchronisation.public]] 
+
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Science/Physical_Synchronisation.internal|Physical_Synchronisation.internal]] 
+
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Science/Physical_Synchronisation.protect|Physical_Synchronisation.protect]] 
+
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Science/Physical_Synchronisation.private|Physical_Synchronisation.private]] 
+
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Science/Physical_Synchronisation.personal|Physical_Synchronisation.personal]] 
+
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Science/Physical_Synchronisation.secret|Physical_Synchronisation.secret]] 

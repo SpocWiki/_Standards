@@ -365,17 +365,17 @@ H-C()C-OH
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Aromatic_Compound/Phenol|Phenol]] 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Functional_Group/Aromatic_Compound/Phenol|Phenol]] 
 
-### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Aromatic_Compound/Phenol.public|Phenol.public]] 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Functional_Group/Aromatic_Compound/Phenol.public|Phenol.public]] 
 
-### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Aromatic_Compound/Phenol.internal|Phenol.internal]] 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Functional_Group/Aromatic_Compound/Phenol.internal|Phenol.internal]] 
 
-### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Aromatic_Compound/Phenol.protect|Phenol.protect]] 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Functional_Group/Aromatic_Compound/Phenol.protect|Phenol.protect]] 
 
-### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Aromatic_Compound/Phenol.private|Phenol.private]] 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Functional_Group/Aromatic_Compound/Phenol.private|Phenol.private]] 
 
-### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Aromatic_Compound/Phenol.personal|Phenol.personal]] 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Functional_Group/Aromatic_Compound/Phenol.personal|Phenol.personal]] 
 
-### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Aromatic_Compound/Phenol.secret|Phenol.secret]] 
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Functional_Group/Aromatic_Compound/Phenol.secret|Phenol.secret]] 
 

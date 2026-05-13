@@ -264,7 +264,7 @@ Acknowledgements     This image is licensed under the [Attribution-NonCommercial
 specimen_condition ::  Live Specimen
 Image Use ::    [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
 copyright ::            © 2006 [Jack Goldfarb](http://flickr.com/people/the_horned_jew_lizard/)
->>>>>>> 3e86c9139ca52bccc61f0fc9e1d5cb2c79ce56c4
+>>>>>>> 3e86c9139ca52bccc61f0fc9e1d5cb2c79ce56c4 
 
 
 ## Confidential Links & Embeds: 

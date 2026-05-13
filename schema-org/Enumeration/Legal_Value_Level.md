@@ -61,6 +61,7 @@ A list of possible levels for the legal validity of a legislation.
 
 has_parent_class = `=this.dv_has_parent_class` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Legal_Value_Level|Legal_Value_Level]] 

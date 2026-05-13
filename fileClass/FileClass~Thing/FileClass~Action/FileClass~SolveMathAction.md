@@ -42,7 +42,7 @@ The action that takes in a math expression and directs users to a page potential
 ### EduQuestionType
 For questions that are part of learning resources (e.g. Quiz), eduQuestionType indicates the format of question being given. Example: "Multiple choice", "Open ended", "Flashcard".
 
-EduQuestionType:: {"type":"Input","options":{}}
+EduQuestionType:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

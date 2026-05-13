@@ -42,7 +42,7 @@ Represents the collection of all sports organizations, including sports teams, g
 ### Sport
 A type of sport (e.g. Baseball).
 
-Sport:: {"type":"Input","options":{}}
+Sport:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

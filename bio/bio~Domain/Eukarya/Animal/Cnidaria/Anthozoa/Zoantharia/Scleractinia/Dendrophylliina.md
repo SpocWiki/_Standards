@@ -259,7 +259,7 @@ Annals de l\'Institut Océanographique, Paris, 61(2): 115-138.
     azooxanthellate, this species often attains a colony size of up to a
     meter and thus contributes to reef structure. (Photograph copyright
     © D. Faulkner).
-![](Dendrophylliina/Turbinaria.jpg))![](Dendrophylliina/Tubastraea_micrantha_w.jpg))::::::::::::::::::::::::::::::
+![](Dendrophylliina/Turbinaria.jpg))![](Dendrophylliina/Tubastraea_micrantha_w.jpg)):::::::::::::::::::::::::::::: 
 
 
 ## Confidential Links & Embeds: 

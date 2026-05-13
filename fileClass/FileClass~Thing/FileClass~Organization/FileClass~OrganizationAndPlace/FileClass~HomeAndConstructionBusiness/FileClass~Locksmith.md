@@ -32,7 +32,7 @@ A locksmith.
 #class/Locksmith
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/Locksmith
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

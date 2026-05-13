@@ -244,7 +244,7 @@ Morphological synapomorphies for the clade include
   scientific_name ::  Zingiberaceae
   Comments          ginger
   copyright ::         © 1997 W. John Kress and William J. Hahn
-  ----------------
+  ---------------- 
 
 
 ## Confidential Links & Embeds: 

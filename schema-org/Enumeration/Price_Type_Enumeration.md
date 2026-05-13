@@ -61,6 +61,7 @@ Enumerates different price types, for example list price, invoice price, and sal
 
 has_parent_class = `=this.dv_has_parent_class` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Price_Type_Enumeration|Price_Type_Enumeration]] 

@@ -43,7 +43,7 @@ Any part of the human body, typically a component of an anatomical system. Organ
 
 #has_/properties :: [ additionalType, alternateName, associatedPathophysiology, bodyLocation, code, connectedTo, description, diagram, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, partOfSystem, potentialAction, recognizingAuthority, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, study, subStructure, subjectOf, url ]  
 
-#is_/same_as :: [[_Standards/WikiData/WD~anatomical_structure,4936952|WD~anatomical_structure,4936952]]
+#is_/same_as :: [[_Standards/WikiData/WD~anatomical_structure,4936952|WD~anatomical_structure,4936952]] 
 
 
 ## Confidential Links & Embeds: 

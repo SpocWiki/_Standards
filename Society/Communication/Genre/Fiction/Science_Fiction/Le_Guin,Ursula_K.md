@@ -417,17 +417,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Le_Guin,Ursula_K|Le_Guin,Ursula_K]] 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Science_Fiction/Le_Guin,Ursula_K|Le_Guin,Ursula_K]] 
 
-### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Science_Fiction/Le_Guin,Ursula_K..public|Le_Guin,Ursula_K..public]] 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Science_Fiction/Le_Guin,Ursula_K.public|Le_Guin,Ursula_K.public]] 
 
-### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Science_Fiction/Le_Guin,Ursula_K..internal|Le_Guin,Ursula_K..internal]] 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Science_Fiction/Le_Guin,Ursula_K.internal|Le_Guin,Ursula_K.internal]] 
 
-### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Science_Fiction/Le_Guin,Ursula_K..protect|Le_Guin,Ursula_K..protect]] 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Science_Fiction/Le_Guin,Ursula_K.protect|Le_Guin,Ursula_K.protect]] 
 
-### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Science_Fiction/Le_Guin,Ursula_K..private|Le_Guin,Ursula_K..private]] 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Science_Fiction/Le_Guin,Ursula_K.private|Le_Guin,Ursula_K.private]] 
 
-### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Science_Fiction/Le_Guin,Ursula_K..personal|Le_Guin,Ursula_K..personal]] 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Science_Fiction/Le_Guin,Ursula_K.personal|Le_Guin,Ursula_K.personal]] 
 
-### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Science_Fiction/Le_Guin,Ursula_K..secret|Le_Guin,Ursula_K..secret]] 
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Science_Fiction/Le_Guin,Ursula_K.secret|Le_Guin,Ursula_K.secret]] 
 

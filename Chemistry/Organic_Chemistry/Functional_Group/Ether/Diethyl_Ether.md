@@ -252,17 +252,17 @@ has_formula_structural = `=this.dv_has_formula_structural`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether|Diethyl_Ether]] 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Functional_Group/Ether/Diethyl_Ether|Diethyl_Ether]] 
 
-### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether.public|Diethyl_Ether.public]] 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Functional_Group/Ether/Diethyl_Ether.public|Diethyl_Ether.public]] 
 
-### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether.internal|Diethyl_Ether.internal]] 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Functional_Group/Ether/Diethyl_Ether.internal|Diethyl_Ether.internal]] 
 
-### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether.protect|Diethyl_Ether.protect]] 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Functional_Group/Ether/Diethyl_Ether.protect|Diethyl_Ether.protect]] 
 
-### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether.private|Diethyl_Ether.private]] 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Functional_Group/Ether/Diethyl_Ether.private|Diethyl_Ether.private]] 
 
-### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether.personal|Diethyl_Ether.personal]] 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Functional_Group/Ether/Diethyl_Ether.personal|Diethyl_Ether.personal]] 
 
-### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether.secret|Diethyl_Ether.secret]] 
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Functional_Group/Ether/Diethyl_Ether.secret|Diethyl_Ether.secret]] 
 

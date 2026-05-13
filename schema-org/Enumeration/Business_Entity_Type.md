@@ -73,6 +73,7 @@ Businesses are also distinguished by Ownership::
 
 has_parent_class = `=this.dv_has_parent_class` 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Business_Entity_Type|Business_Entity_Type]] 

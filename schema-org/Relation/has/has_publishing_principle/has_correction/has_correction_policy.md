@@ -96,21 +96,22 @@ Relation describes that:
 
 #has_/domain  :: [[../../../../../Society/Agent/Community/Organization/News_Media_Organization|News_Media_Organization]], [[../../../../../Society/Agent/Community/Organization|Organization]]  
 has_name = `=this.dv_has_name` 
-(has_/range :: [[../../../../../Society/Communication/Media/Creative_Work|Creative_Work]], [[../../../../Class/is_a_/Data_Type/Text/Url|Url]] )
+(has_/range :: [[../../../../../Society/Communication/Media/Creative_Work|Creative_Work]], [[../../../../Class/is_a_/Data_Type/Text/Url|Url]] ) 
+
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_correction_policy|has_correction_policy]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_publishing_principle/has_correction/has_correction_policy|has_correction_policy]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_correction_policy.public|has_correction_policy.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_publishing_principle/has_correction/has_correction_policy.public|has_correction_policy.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_correction_policy.internal|has_correction_policy.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_publishing_principle/has_correction/has_correction_policy.internal|has_correction_policy.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_correction_policy.protect|has_correction_policy.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_publishing_principle/has_correction/has_correction_policy.protect|has_correction_policy.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_correction_policy.private|has_correction_policy.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_publishing_principle/has_correction/has_correction_policy.private|has_correction_policy.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_correction_policy.personal|has_correction_policy.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_publishing_principle/has_correction/has_correction_policy.personal|has_correction_policy.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_correction_policy.secret|has_correction_policy.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_publishing_principle/has_correction/has_correction_policy.secret|has_correction_policy.secret]] 
 

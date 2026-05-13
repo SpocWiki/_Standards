@@ -32,7 +32,7 @@ A collection or bound volume of maps, charts, plates or tables, physical or in m
 #class/Atlas
 #class/Thing/CreativeWork/Atlas
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

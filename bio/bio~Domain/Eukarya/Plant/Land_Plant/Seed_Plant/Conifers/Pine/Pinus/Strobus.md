@@ -38,7 +38,7 @@ title: subgenus Strobus
   Body Part         ovulate cone
   copyright ::         © [Aaron Liston](http://www.bcc.orst.edu/bpp/faculty/liston/) 
  
-  ---------------------------------------------------------------------------
+  --------------------------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

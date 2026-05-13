@@ -198,7 +198,7 @@ Current. *Veliger* **36**: 389-398.
   View                 right side
   Size                 maximal shell diameter about 1.3 mm
   copyright ::            © 1998 [David Wrobel](mailto:wrobel2@verizon.et)
-  --------------------
+  -------------------- 
 
 
 ## Confidential Links & Embeds: 

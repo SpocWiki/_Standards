@@ -222,5 +222,22 @@ But different from [[has_name|Name]]s, IDs are usually
 >
 > The concepts of name and identifier are denotatively equal, and the terms are thus denotatively synonymous; but they are not always connotatively synonymous, because code names and ID numbers are often connotatively distinguished from names in the sense of traditional natural language naming. For example, both "Jamie Zawinski" and "Netscape employee number 20" are identifiers for the same specific human being; but normal English-language connotation may consider "Jamie Zawinski" a "name" and not an "identifier", whereas it considers "Netscape employee number 20" an "identifier" but not a "name." This is an emic indistinction rather than an etic one.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Identifier)
+> [Wikipedia](https://en.wikipedia.org/wiki/Identifier) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_id|has_id]] 
+
+### #is_/same_as :: [[/_public/schema-org/Property/has_id.public|has_id.public]] 
+
+### #is_/same_as :: [[/_internal/schema-org/Property/has_id.internal|has_id.internal]] 
+
+### #is_/same_as :: [[/_protect/schema-org/Property/has_id.protect|has_id.protect]] 
+
+### #is_/same_as :: [[/_private/schema-org/Property/has_id.private|has_id.private]] 
+
+### #is_/same_as :: [[/_personal/schema-org/Property/has_id.personal|has_id.personal]] 
+
+### #is_/same_as :: [[/_secret/schema-org/Property/has_id.secret|has_id.secret]] 
 

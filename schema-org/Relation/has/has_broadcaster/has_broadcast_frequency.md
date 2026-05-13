@@ -77,17 +77,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_broadcast_frequency|has_broadcast_frequency]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_broadcaster/has_broadcast_frequency|has_broadcast_frequency]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_broadcast_frequency.public|has_broadcast_frequency.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_broadcaster/has_broadcast_frequency.public|has_broadcast_frequency.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_broadcast_frequency.internal|has_broadcast_frequency.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_broadcaster/has_broadcast_frequency.internal|has_broadcast_frequency.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_broadcast_frequency.protect|has_broadcast_frequency.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_broadcaster/has_broadcast_frequency.protect|has_broadcast_frequency.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_broadcast_frequency.private|has_broadcast_frequency.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_broadcaster/has_broadcast_frequency.private|has_broadcast_frequency.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_broadcast_frequency.personal|has_broadcast_frequency.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_broadcaster/has_broadcast_frequency.personal|has_broadcast_frequency.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_broadcast_frequency.secret|has_broadcast_frequency.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_broadcaster/has_broadcast_frequency.secret|has_broadcast_frequency.secret]] 
 

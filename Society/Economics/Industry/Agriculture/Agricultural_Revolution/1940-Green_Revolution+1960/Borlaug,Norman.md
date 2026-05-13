@@ -258,3 +258,21 @@ dv_has_:
 
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Agricultural_Revolution/1940-Green_Revolution+1960/Borlaug,Norman|Borlaug,Norman]] 
+
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Agricultural_Revolution/1940-Green_Revolution+1960/Borlaug,Norman.public|Borlaug,Norman.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Agricultural_Revolution/1940-Green_Revolution+1960/Borlaug,Norman.internal|Borlaug,Norman.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Agricultural_Revolution/1940-Green_Revolution+1960/Borlaug,Norman.protect|Borlaug,Norman.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Agricultural_Revolution/1940-Green_Revolution+1960/Borlaug,Norman.private|Borlaug,Norman.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Agricultural_Revolution/1940-Green_Revolution+1960/Borlaug,Norman.personal|Borlaug,Norman.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Agricultural_Revolution/1940-Green_Revolution+1960/Borlaug,Norman.secret|Borlaug,Norman.secret]] 

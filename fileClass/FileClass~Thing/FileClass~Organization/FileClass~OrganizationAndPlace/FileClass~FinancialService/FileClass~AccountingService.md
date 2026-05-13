@@ -34,7 +34,7 @@ As a [[LocalBusiness]] it can be described as a [[provider]] of one or more [[..
 #class/AccountingService
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService/AccountingService
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

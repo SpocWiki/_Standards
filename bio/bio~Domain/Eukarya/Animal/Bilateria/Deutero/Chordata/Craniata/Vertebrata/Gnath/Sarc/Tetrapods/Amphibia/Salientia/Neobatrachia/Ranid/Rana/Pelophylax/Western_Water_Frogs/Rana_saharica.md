@@ -94,7 +94,7 @@ scientific names, with comments on the name-bearing types, complete
 synonymies. proposed common names, and maps showing all type localities.
 In: M. Ogielska (Ed.): II International Symposium on Ecology and
 Genetics of European water frogs, 18-25 September 1994, Wroclaw, Poland.
-Zoologica Poloniae 39(3-4).
+Zoologica Poloniae 39(3-4). 
 
 
 ## Confidential Links & Embeds: 

@@ -78,17 +78,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_related_therapy|has_related_therapy]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_related/has_related_therapy|has_related_therapy]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_related_therapy.public|has_related_therapy.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_related/has_related_therapy.public|has_related_therapy.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_related_therapy.internal|has_related_therapy.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_related/has_related_therapy.internal|has_related_therapy.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_related_therapy.protect|has_related_therapy.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_related/has_related_therapy.protect|has_related_therapy.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_related_therapy.private|has_related_therapy.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_related/has_related_therapy.private|has_related_therapy.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_related_therapy.personal|has_related_therapy.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_related/has_related_therapy.personal|has_related_therapy.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_related_therapy.secret|has_related_therapy.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_related/has_related_therapy.secret|has_related_therapy.secret]] 
 

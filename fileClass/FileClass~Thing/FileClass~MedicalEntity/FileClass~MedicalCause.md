@@ -43,7 +43,7 @@ The causative agent(s) that are responsible for the pathophysiologic process tha
 ### CauseOf
 The condition, complication, symptom, sign, etc. caused.
 
-CauseOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity')"}}
+CauseOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity')"}} 
 
 
 ## Confidential Links & Embeds: 

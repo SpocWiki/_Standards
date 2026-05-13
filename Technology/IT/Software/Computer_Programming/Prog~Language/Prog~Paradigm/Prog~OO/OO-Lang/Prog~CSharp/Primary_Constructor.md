@@ -25,7 +25,7 @@ Also, as of early 2024 SonarQube cannot deal with primary Constructors,
 neither can Class Diagrams. 
 Syntax-Extensions to primary Constructors proposed by ChatGPT are not available, neither in C#12 or C#13. 
 
-https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/tutorials/primary-constructors
+https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/tutorials/primary-constructors 
 
 
 ## Confidential Links & Embeds: 

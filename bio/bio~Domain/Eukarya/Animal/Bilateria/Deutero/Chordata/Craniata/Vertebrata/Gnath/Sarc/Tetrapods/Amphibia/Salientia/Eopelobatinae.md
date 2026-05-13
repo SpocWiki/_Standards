@@ -66,7 +66,7 @@ within Pelobatoidea, or the sister taxon of Pelobatoidea.
 -   » Sub-Groups 
 	-   *Aralobatrachus* †
 	-   *Eopelobates* †
-	-   *Kizylkuma* †
+	-   *Kizylkuma* † 
 
 
 ## Confidential Links & Embeds: 

@@ -78,7 +78,7 @@ Phylogenetics and Evolution 25(3):524-534.
   Acknowledgements     The copyright owner has released this image under the [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/).
   specimen_condition ::  Live Specimen
   copyright ::            © 2005 [Damien](http://flickr.com/people/astazou/)
-  -----------------------------------------------------------
+  ----------------------------------------------------------- 
 
 
 ## Confidential Links & Embeds: 

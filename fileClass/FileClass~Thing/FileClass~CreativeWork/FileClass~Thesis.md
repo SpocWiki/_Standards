@@ -42,7 +42,7 @@ A thesis or dissertation document submitted in support of candidature for an aca
 ### InSupportOf
 Qualification, candidature, degree, application that Thesis supports.
 
-InSupportOf:: {"type":"Input","options":{}}
+InSupportOf:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

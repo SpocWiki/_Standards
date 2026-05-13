@@ -32,7 +32,7 @@ A middle school (typically for children aged around 11-14, although this varies 
 #class/MiddleSchool
 #class/Thing/Place/CivicStructure/CivicStructureAndOrganization/EducationalOrganization/MiddleSchool
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

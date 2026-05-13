@@ -153,3 +153,21 @@ dv_has_:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rick%20Rubin) 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Rock-Musician/Rubin,Rick|Rubin,Rick]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Rock-Musician/Rubin,Rick.public|Rubin,Rick.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Rock-Musician/Rubin,Rick.internal|Rubin,Rick.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Rock-Musician/Rubin,Rick.protect|Rubin,Rick.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Rock-Musician/Rubin,Rick.private|Rubin,Rick.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Rock-Musician/Rubin,Rick.personal|Rubin,Rick.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Rock-Musician/Rubin,Rick.secret|Rubin,Rick.secret]] 

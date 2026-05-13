@@ -44,3 +44,21 @@ OpenStreetMap_tag:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gas-fired%20power%20plant)  
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Technology/Engine/Heat_Engine/Gas-fired_Power_Plant|Gas-fired_Power_Plant]] 
+
+### #is_/same_as :: [[/_public/Technology/Engine/Heat_Engine/Gas-fired_Power_Plant.public|Gas-fired_Power_Plant.public]] 
+
+### #is_/same_as :: [[/_internal/Technology/Engine/Heat_Engine/Gas-fired_Power_Plant.internal|Gas-fired_Power_Plant.internal]] 
+
+### #is_/same_as :: [[/_protect/Technology/Engine/Heat_Engine/Gas-fired_Power_Plant.protect|Gas-fired_Power_Plant.protect]] 
+
+### #is_/same_as :: [[/_private/Technology/Engine/Heat_Engine/Gas-fired_Power_Plant.private|Gas-fired_Power_Plant.private]] 
+
+### #is_/same_as :: [[/_personal/Technology/Engine/Heat_Engine/Gas-fired_Power_Plant.personal|Gas-fired_Power_Plant.personal]] 
+
+### #is_/same_as :: [[/_secret/Technology/Engine/Heat_Engine/Gas-fired_Power_Plant.secret|Gas-fired_Power_Plant.secret]] 

@@ -52,7 +52,7 @@ EnergyEfficiencyScaleMin:: {"type":"Select","options":{"valuesList":{"EUEnergyEf
 ### HasEnergyEfficiencyCategory
 Defines the energy efficiency Category (which could be either a rating out of range of values or a yes/no certification) for a product according to an international energy efficiency standard.
 
-HasEnergyEfficiencyCategory:: {"type":"Input","options":{}}
+HasEnergyEfficiencyCategory:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

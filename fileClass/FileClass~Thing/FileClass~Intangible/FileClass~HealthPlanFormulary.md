@@ -62,7 +62,7 @@ HealthPlanDrugTier:: {"type":"Input","options":{}}
 ### OffersPrescriptionByMail
 Whether prescriptions can be delivered by mail.
 
-OffersPrescriptionByMail:: {"type":"Boolean","options":{}}
+OffersPrescriptionByMail:: {"type":"Boolean","options":{}} 
 
 
 ## Confidential Links & Embeds: 

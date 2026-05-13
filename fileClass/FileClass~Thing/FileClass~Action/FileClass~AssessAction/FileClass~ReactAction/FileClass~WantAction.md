@@ -32,7 +32,7 @@ The act of expressing a desire about the object. An agent wants an object.
 #class/WantAction
 #class/Thing/Action/AssessAction/ReactAction/WantAction
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

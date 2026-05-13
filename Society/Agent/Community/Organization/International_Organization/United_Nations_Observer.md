@@ -132,7 +132,7 @@ dv_has_:
 | **Other Observers**                 | International Committee of the Red Cross (ICRC)                         |
 |                                     | International Federation of Red Cross and Red Crescent Societies (IFRC) |
 |                                     | WHO(World Health Organization)                                          |
-|                                     | WTO(World Trade Organization)                                           |
+|                                     | WTO(World Trade Organization)                                           | 
 
 
 ## Confidential Links & Embeds: 

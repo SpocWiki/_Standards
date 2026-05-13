@@ -83,17 +83,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_flight_distance|has_value_for_flight_distance]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_distance_of_flight|has_value_for_distance_of_flight]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_flight_distance.public|has_value_for_flight_distance.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_distance_of_flight.public|has_value_for_distance_of_flight.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_flight_distance.internal|has_value_for_flight_distance.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_distance_of_flight.internal|has_value_for_distance_of_flight.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_flight_distance.protect|has_value_for_flight_distance.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_distance_of_flight.protect|has_value_for_distance_of_flight.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_flight_distance.private|has_value_for_flight_distance.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_distance_of_flight.private|has_value_for_distance_of_flight.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_flight_distance.personal|has_value_for_flight_distance.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_distance_of_flight.personal|has_value_for_distance_of_flight.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_flight_distance.secret|has_value_for_flight_distance.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_distance_of_flight.secret|has_value_for_distance_of_flight.secret]] 
 

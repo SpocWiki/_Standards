@@ -79,7 +79,7 @@ the appropriate view below.
 
 ---------
 ![Irenomys tarsalis](Irenomys1.jpg)
-copyright ::   © 1997 P. L. Meserve
+copyright ::   © 1997 P. L. Meserve 
 
 
 ## Confidential Links & Embeds: 

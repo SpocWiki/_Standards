@@ -32,7 +32,7 @@ Brewery.
 #class/Brewery
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Brewery
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

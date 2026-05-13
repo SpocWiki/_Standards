@@ -364,7 +364,7 @@ Unicode_character: 🦂
 
 ### Information on the Internet
 
--   The [Scorpion     Emporium](http://wrbu.si.edu/www/stockwell/emporium/emporium.html)
+-   The [Scorpion     Emporium](http://wrbu.si.edu/www/stockwell/emporium/emporium.html) 
 
 
 ## Confidential Links & Embeds: 

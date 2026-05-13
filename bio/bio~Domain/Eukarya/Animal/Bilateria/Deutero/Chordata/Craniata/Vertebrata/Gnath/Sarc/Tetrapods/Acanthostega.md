@@ -320,7 +320,7 @@ Comments             Reconstruction of Acanthostega.
 Creator              Richard Hammond
 Acknowledgements     Reproduced with permission
 specimen_condition ::  Model
-copyright ::            © 1997 Richard Hammond
+copyright ::            © 1997 Richard Hammond 
 
 
 ## Confidential Links & Embeds: 

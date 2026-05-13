@@ -84,19 +84,20 @@ has_domain = `=this.dv_has_domain`
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[is_jurisdiction_of|is_jurisdiction_of]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_jurisdiction_of|is_jurisdiction_of]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/is_jurisdiction_of.public|is_jurisdiction_of.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_jurisdiction_of.public|is_jurisdiction_of.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/is_jurisdiction_of.internal|is_jurisdiction_of.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_jurisdiction_of.internal|is_jurisdiction_of.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/is_jurisdiction_of.protect|is_jurisdiction_of.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_jurisdiction_of.protect|is_jurisdiction_of.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/is_jurisdiction_of.private|is_jurisdiction_of.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_jurisdiction_of.private|is_jurisdiction_of.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/is_jurisdiction_of.personal|is_jurisdiction_of.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_jurisdiction_of.personal|is_jurisdiction_of.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/is_jurisdiction_of.secret|is_jurisdiction_of.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_jurisdiction_of.secret|is_jurisdiction_of.secret]] 
 

@@ -92,5 +92,22 @@ U_S_National_Archives_Identifier: "138923399"
 > His books were criticized by conservatives for propagating permissiveness 
 > and an expectation of instant gratification, a charge that Spock denied.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Benjamin%20Spock)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Benjamin%20Spock) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Taxon_Rank/Spock,Benjamin|Spock,Benjamin]] 
+
+### #is_/same_as :: [[/_public/bio/Taxon_Rank/Spock,Benjamin.public|Spock,Benjamin.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Taxon_Rank/Spock,Benjamin.internal|Spock,Benjamin.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Taxon_Rank/Spock,Benjamin.protect|Spock,Benjamin.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Taxon_Rank/Spock,Benjamin.private|Spock,Benjamin.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Taxon_Rank/Spock,Benjamin.personal|Spock,Benjamin.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Taxon_Rank/Spock,Benjamin.secret|Spock,Benjamin.secret]] 
 

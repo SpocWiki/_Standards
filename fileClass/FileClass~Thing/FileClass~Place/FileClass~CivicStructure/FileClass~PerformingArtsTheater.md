@@ -32,7 +32,7 @@ A theater or other performing art center.
 #class/PerformingArtsTheater
 #class/Thing/Place/CivicStructure/PerformingArtsTheater
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ A recycling center.
 #class/RecyclingCenter
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/RecyclingCenter
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

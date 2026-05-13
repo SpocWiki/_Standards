@@ -62,7 +62,7 @@ Containing group: [Jumping_Spider](../Jumping_Spider.md)
 A subfamily of primarily ground-dwelling salticids with a holarctic
 genus Pellenes, an Old World genus Neaetha, and a New World genus
 Habronattus. Habronattus in particular is remarkable for the elaborate
-and diverse ornaments and behaviors used in courtship by males.
+and diverse ornaments and behaviors used in courtship by males. 
 
 
 ## Confidential Links & Embeds: 

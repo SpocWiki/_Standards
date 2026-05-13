@@ -820,5 +820,22 @@ Das ist gar kein Problem – gerne beraten wir dich,
 wie dein Anzug für dich maßgeschneidert oder weiter angepasst wird. 
 
 Bei Fragen bezüglich möglicher Individualisierungsoptionen, Mängelansprüchen, 
-Gewährleistung und Service-Preisen kontaktiere bitte den Antelope Kundenservice.
+Gewährleistung und Service-Preisen kontaktiere bitte den Antelope Kundenservice. 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport/EMS(Electrical_muscle_stimulation)/Antelope_Evolution|Antelope_Evolution]] 
+
+### #is_/same_as :: [[/_public/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport/EMS(Electrical_muscle_stimulation)/Antelope_Evolution.public|Antelope_Evolution.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport/EMS(Electrical_muscle_stimulation)/Antelope_Evolution.internal|Antelope_Evolution.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport/EMS(Electrical_muscle_stimulation)/Antelope_Evolution.protect|Antelope_Evolution.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport/EMS(Electrical_muscle_stimulation)/Antelope_Evolution.private|Antelope_Evolution.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport/EMS(Electrical_muscle_stimulation)/Antelope_Evolution.personal|Antelope_Evolution.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport/EMS(Electrical_muscle_stimulation)/Antelope_Evolution.secret|Antelope_Evolution.secret]] 
 

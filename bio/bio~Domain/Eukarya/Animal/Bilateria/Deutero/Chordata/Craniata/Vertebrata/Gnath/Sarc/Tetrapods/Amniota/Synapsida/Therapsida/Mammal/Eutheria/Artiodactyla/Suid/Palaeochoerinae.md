@@ -42,7 +42,7 @@ title: Palaeochoerinae
 
 	-   *Aureliachoerus* †
 	-   *Palaeochoerus* †
-	-   *Yunnanochoerus* †
+	-   *Yunnanochoerus* † 
 
 
 ## Confidential Links & Embeds: 

@@ -52,7 +52,7 @@ CssSelector:: {"type":"Input","options":{}}
 ### Xpath
 An XPath, e.g. of a [[SpeakableSpecification]] or [[WebPageElement]]. In the latter case, multiple matches within a page can constitute a single conceptual "Web page element".
 
-Xpath:: {"type":"Input","options":{}}
+Xpath:: {"type":"Input","options":{}} 
 
 
 ## Confidential Links & Embeds: 

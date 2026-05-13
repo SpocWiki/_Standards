@@ -30,3 +30,21 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kurt%20Russell)  
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Kurt Russell|Kurt Russell]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Kurt Russell.public|Kurt Russell.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Kurt Russell.internal|Kurt Russell.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Kurt Russell.protect|Kurt Russell.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Kurt Russell.private|Kurt Russell.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Kurt Russell.personal|Kurt Russell.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Kurt Russell.secret|Kurt Russell.secret]] 

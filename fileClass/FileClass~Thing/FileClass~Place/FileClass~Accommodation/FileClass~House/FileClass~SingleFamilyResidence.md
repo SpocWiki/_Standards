@@ -32,7 +32,7 @@ Residence type: Single-family home.
 #class/SingleFamilyResidence
 #class/Thing/Place/Accommodation/House/SingleFamilyResidence
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

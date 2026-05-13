@@ -32,7 +32,7 @@ A photograph.
 #class/Photograph
 #class/Thing/CreativeWork/Photograph
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

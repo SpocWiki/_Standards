@@ -78,5 +78,22 @@ Functions allow **term construction and chaining**
 > 
 > The foundations of first-order logic were developed independently by Gottlob Frege and Charles Sanders Peirce. For a history of first-order logic and how it came to dominate formal logic, see José Ferreirós (2001).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/First-order%20logic)  
+> [Wikipedia](https://en.wikipedia.org/wiki/First-order%20logic) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Philosophy/Logic/Logic(Math)/1_FOL(First_Order_Logic)|1_FOL(First_Order_Logic)]] 
+
+### #is_/same_as :: [[/_public/Philosophy/Logic/Logic(Math)/1_FOL(First_Order_Logic).public|1_FOL(First_Order_Logic).public]] 
+
+### #is_/same_as :: [[/_internal/Philosophy/Logic/Logic(Math)/1_FOL(First_Order_Logic).internal|1_FOL(First_Order_Logic).internal]] 
+
+### #is_/same_as :: [[/_protect/Philosophy/Logic/Logic(Math)/1_FOL(First_Order_Logic).protect|1_FOL(First_Order_Logic).protect]] 
+
+### #is_/same_as :: [[/_private/Philosophy/Logic/Logic(Math)/1_FOL(First_Order_Logic).private|1_FOL(First_Order_Logic).private]] 
+
+### #is_/same_as :: [[/_personal/Philosophy/Logic/Logic(Math)/1_FOL(First_Order_Logic).personal|1_FOL(First_Order_Logic).personal]] 
+
+### #is_/same_as :: [[/_secret/Philosophy/Logic/Logic(Math)/1_FOL(First_Order_Logic).secret|1_FOL(First_Order_Logic).secret]] 
 

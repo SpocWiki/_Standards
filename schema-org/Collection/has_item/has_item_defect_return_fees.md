@@ -81,17 +81,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_item_defect_return_fees|has_item_defect_return_fees]] 
+### #is_/same_as :: [[/_Standards/schema-org/Collection/has_item/has_item_defect_return_fees|has_item_defect_return_fees]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_item_defect_return_fees.public|has_item_defect_return_fees.public]] 
+### #is_/same_as :: [[/_public/schema-org/Collection/has_item/has_item_defect_return_fees.public|has_item_defect_return_fees.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_item_defect_return_fees.internal|has_item_defect_return_fees.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Collection/has_item/has_item_defect_return_fees.internal|has_item_defect_return_fees.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_item_defect_return_fees.protect|has_item_defect_return_fees.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Collection/has_item/has_item_defect_return_fees.protect|has_item_defect_return_fees.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_item_defect_return_fees.private|has_item_defect_return_fees.private]] 
+### #is_/same_as :: [[/_private/schema-org/Collection/has_item/has_item_defect_return_fees.private|has_item_defect_return_fees.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_item_defect_return_fees.personal|has_item_defect_return_fees.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Collection/has_item/has_item_defect_return_fees.personal|has_item_defect_return_fees.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_item_defect_return_fees.secret|has_item_defect_return_fees.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Collection/has_item/has_item_defect_return_fees.secret|has_item_defect_return_fees.secret]] 
 

@@ -253,7 +253,7 @@ Below is a detailed explanation:
 ### Muscle Glycogen
 
 - Muscle glycogen is primarily used for energy during physical activity.
-- A single glycogen particle in muscle typically contains **30,000 to 40,000 glucose units**.
+- A single glycogen particle in muscle typically contains **30,000 to 40,000 glucose units**. 
 
 
 ## Confidential Links & Embeds: 

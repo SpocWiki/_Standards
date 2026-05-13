@@ -18,3 +18,21 @@ the last one 25_000 years ago in New-Zealand
 
 
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Disaster/Natural_Disaster/Volcano_Eruption|Volcano_Eruption]] 
+
+### #is_/same_as :: [[/_public/Society/Disaster/Natural_Disaster/Volcano_Eruption.public|Volcano_Eruption.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Disaster/Natural_Disaster/Volcano_Eruption.internal|Volcano_Eruption.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Disaster/Natural_Disaster/Volcano_Eruption.protect|Volcano_Eruption.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Disaster/Natural_Disaster/Volcano_Eruption.private|Volcano_Eruption.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Disaster/Natural_Disaster/Volcano_Eruption.personal|Volcano_Eruption.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Disaster/Natural_Disaster/Volcano_Eruption.secret|Volcano_Eruption.secret]] 

@@ -29,3 +29,21 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Johann%20Strauss%20I)  
 
+ 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Strauss,Johann_I|Strauss,Johann_I]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Strauss,Johann_I.public|Strauss,Johann_I.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Strauss,Johann_I.internal|Strauss,Johann_I.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Strauss,Johann_I.protect|Strauss,Johann_I.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Strauss,Johann_I.private|Strauss,Johann_I.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Strauss,Johann_I.personal|Strauss,Johann_I.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Strauss,Johann_I.secret|Strauss,Johann_I.secret]] 

@@ -106,7 +106,7 @@ dv_has_:
   Comments             Transmission electron micrograph of intact rotavirus particles, double-shelled. Distinctive rim of radiating capsomeres.
   Creator              Dr. Erskine Palmer (Center for Disease Control)
   specimen_condition ::  Dead Specimen
-  Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
+  Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp) 
 
 
 ## Confidential Links & Embeds: 

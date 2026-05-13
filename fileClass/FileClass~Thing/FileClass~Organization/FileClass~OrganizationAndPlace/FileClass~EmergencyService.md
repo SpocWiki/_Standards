@@ -32,7 +32,7 @@ An emergency service, such as a fire station or ER.
 #class/EmergencyService
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService
 
-## Properties:
+## Properties: 
 
 
 ## Confidential Links & Embeds: 

@@ -196,7 +196,7 @@ PetsAllowed:: {"type":"Boolean","options":{}}
 ### YearBuilt
 The year an [[../../../Earth/Geography/Place/Accommodation|Accommodation]] was constructed. This corresponds to the [YearBuilt field in RESO](https://ddwiki.reso.org/display/DDW17/YearBuilt+Field).
 
-YearBuilt:: {"type":"Number","options":{}}
+YearBuilt:: {"type":"Number","options":{}} 
 
 
 ## Confidential Links & Embeds: 
