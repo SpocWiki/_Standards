@@ -67,7 +67,7 @@ and hormonal influences on the brain.
 
 ## Embedded Graph 
 
-![[Brizendine,Louann.svg]] 
+![[Brizendine,Louann.md]] 
 
 
 ## Confidential Links & Embeds: 

@@ -547,13 +547,10 @@ dv_has_:
 
 #is_/part_of :: [[Human_Rights]] 
 
-![[Human_Rights.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[Human_Rights.svg]] 
+![[Human_Rights.md]] 
 
 
 %%

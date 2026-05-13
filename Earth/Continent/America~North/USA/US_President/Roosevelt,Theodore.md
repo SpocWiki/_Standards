@@ -564,13 +564,10 @@ after the publicity of him not shooting a captive bear.
 
 is_part_of = `=this.dv_is_part_of`
 
-![[Roosevelt,Theodore.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[Roosevelt,Theodore.svg]] 
+![[Roosevelt,Theodore.md]] 
 
 
 %%

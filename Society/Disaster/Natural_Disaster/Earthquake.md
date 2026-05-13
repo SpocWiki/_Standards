@@ -541,13 +541,10 @@ dv_has_:
 
 #is_/part_of :: [[Earthquake]] 
 
-![[Earthquake.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[Earthquake.svg]] 
+![[Earthquake.md]] 
 
 
 %%

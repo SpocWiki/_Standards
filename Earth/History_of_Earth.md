@@ -471,7 +471,7 @@ type: private_note
 ### #is_/same_as :: [[/_secret/Earth/History_of_Earth.secret|History_of_Earth.secret]] 
 ## Embedded Graph 
 
-![[History_of_Earth.svg]] 
+![[History_of_Earth.md]] 
 
 
 %%

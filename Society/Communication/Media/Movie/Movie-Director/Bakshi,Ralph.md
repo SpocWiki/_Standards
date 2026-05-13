@@ -154,13 +154,10 @@ type: private_note
 
 #is_/part_of :: [[Ralph_Bakshi]] 
 
-![[Bakshi,Ralph.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[Bakshi,Ralph.svg]] 
+![[Bakshi,Ralph.md]] 
 
 
 %%

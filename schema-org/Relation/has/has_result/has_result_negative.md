@@ -114,13 +114,10 @@ has_range = `=this.dv_has_range`
 
 is_part_of = `=this.dv_is_part_of` 
 
-![[has_result_negative.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[has_result_negative.svg]] 
+![[has_result_negative.md]] 
 
 
 %%

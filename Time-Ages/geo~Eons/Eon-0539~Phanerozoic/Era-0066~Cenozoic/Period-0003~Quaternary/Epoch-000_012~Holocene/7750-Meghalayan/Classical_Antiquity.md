@@ -334,13 +334,10 @@ dv.view("TableByName",["Classical_Antiquity.tsv"])
 
 is_part_of = `=this.dv_is_part_of` 
 
-![[Classical_Antiquity.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[Classical_Antiquity.svg]] 
+![[Classical_Antiquity.md]] 
 
 
 %%

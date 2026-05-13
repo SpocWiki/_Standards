@@ -395,13 +395,10 @@ type: private_note
 
 #is_/part_of :: [[Shia-Islam]] 
 
-![[Shia_Islam.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[Shia_Islam.svg]] 
+![[Shia_Islam.md]] 
 
 
 %%

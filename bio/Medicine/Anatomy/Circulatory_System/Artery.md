@@ -290,13 +290,10 @@ A type of blood vessel that specifically carries blood away from the heart.
 
 #is_/part_of :: [[Artery]] 
 
-![[Artery.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[Artery.svg]] 
+![[Artery.md]] 
 
 
 %%

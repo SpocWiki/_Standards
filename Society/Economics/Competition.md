@@ -293,13 +293,10 @@ dv_has_:
 
 #is_/part_of :: [[Competition]] 
 
-![[Competition.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[Competition.svg]] 
+![[Competition.md]] 
 
 
 %%

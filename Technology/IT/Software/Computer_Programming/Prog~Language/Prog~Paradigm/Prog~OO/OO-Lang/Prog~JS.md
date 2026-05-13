@@ -355,13 +355,10 @@ noteOnly: true
 
 #is_/part_of :: [[JavaScript]] 
 
-![[Prog~JS.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[Prog~JS.svg]] 
+![[Prog~JS.md]] 
 
 
 %%

@@ -200,13 +200,10 @@ dv_has_:
 
 #is_/part_of :: [[Semmelweis]] 
 
-![[Semmelweis,Ignaz.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[Semmelweis,Ignaz.svg]] 
+![[Semmelweis,Ignaz.md]] 
 
 
 %%

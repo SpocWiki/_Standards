@@ -229,13 +229,10 @@ type: private_note
 
 #is_/part_of :: [[Luhmann,Niklas 1]] 
 
-![[Luhmann,Niklas.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[Luhmann,Niklas.svg]] 
+![[Luhmann,Niklas.md]] 
 
 
 %%

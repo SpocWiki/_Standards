@@ -531,13 +531,10 @@ dv_has_:
 
 #is_/part_of :: [[Formicidae]] 
 
-![[Ant.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[Ant.svg]] 
+![[Ant.md]] 
 
 
 %%

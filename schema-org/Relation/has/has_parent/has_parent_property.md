@@ -122,13 +122,10 @@ has_range = `=this.dv_has_range`
 
 is_part_of = `=this.dv_is_part_of` 
 
-![[has_parent_property.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[has_parent_property.svg]] 
+![[has_parent_property.md]] 
 
 
 %%

@@ -216,13 +216,10 @@ dv_has_:
 
 #is_/part_of :: [[Wealth of Nations]] 
 
-![[Wealth_of_Nations.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[Wealth_of_Nations.svg]] 
+![[Wealth_of_Nations.md]] 
 
 
 ## Confidential Links & Embeds: 

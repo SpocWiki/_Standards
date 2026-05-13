@@ -281,13 +281,10 @@ type: private_note
 
 #is_/part_of :: [[Chondrichthyes]] 
 
-![[Cartilaginous_Fish.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[Cartilaginous_Fish.svg]] 
+![[Cartilaginous_Fish.md]] 
 
 
 %%

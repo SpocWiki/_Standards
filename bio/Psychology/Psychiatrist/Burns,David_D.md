@@ -103,7 +103,7 @@ Burns has published
 
 ## Embedded Graph 
 
-![[Burns,David_D.svg]] 
+![[Burns,David_D.md]] 
 
 
 ## Confidential Links & Embeds: 

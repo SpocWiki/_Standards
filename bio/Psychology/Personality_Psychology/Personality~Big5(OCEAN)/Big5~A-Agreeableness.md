@@ -125,7 +125,7 @@ Amicability or agreeableness (A) measures kindness, helpfulness, and willingness
 
 ## Embedded Graph 
 
-![[Big5~Verträglichkeit.svg]] 
+![[Big5~Verträglichkeit.md]] 
 
 
 %%

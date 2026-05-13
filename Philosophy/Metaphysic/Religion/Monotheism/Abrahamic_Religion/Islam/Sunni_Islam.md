@@ -430,13 +430,10 @@ Pigs and Blood are considered unclean, which results in the tradition of Halal.
 
 #is_/part_of :: [[Sunni-Islam]] 
 
-![[Sunni_Islam.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[Sunni_Islam.svg]] 
+![[Sunni_Islam.md]] 
 
 
 %%

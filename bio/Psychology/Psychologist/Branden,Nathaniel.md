@@ -131,7 +131,7 @@ and runs self-esteem seminars.
 
 ## Embedded Graph 
 
-![[Branden,Nathaniel.svg]] 
+![[Branden,Nathaniel.md]] 
 
 
 ## Confidential Links & Embeds: 

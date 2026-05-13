@@ -193,7 +193,7 @@ is_part_of = `=this.dv_is_part_of`
 
 ## Embedded Graph 
 
-![[Eta_Carinae.svg]] 
+![[Eta_Carinae.md]] 
 
 
 %%

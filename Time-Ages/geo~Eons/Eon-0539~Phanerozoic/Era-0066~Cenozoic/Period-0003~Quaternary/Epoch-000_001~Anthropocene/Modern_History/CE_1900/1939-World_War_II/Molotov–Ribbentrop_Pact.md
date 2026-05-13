@@ -376,13 +376,10 @@ dv_has_:
 
 is_part_of = `=this.dv_is_part_of` 
 
-![[Molotov–Ribbentrop_Pact.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[Molotov–Ribbentrop_Pact.svg]] 
+![[Molotov–Ribbentrop_Pact.md]] 
 
 
 %%

@@ -393,13 +393,10 @@ type: private_note
 
 #is_/part_of :: [[Gorilla]] 
 
-![[Gorilla.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[Gorilla.svg]] 
+![[Gorilla.md]] 
 
 
 %%

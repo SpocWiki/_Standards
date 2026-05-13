@@ -372,13 +372,10 @@ dv_has_:
 
 #is_/part_of :: [[Academy_Awards]] 
 
-![[Academy_Award.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[Academy_Award.svg]] 
+![[Academy_Award.md]] 
 
 
 %%

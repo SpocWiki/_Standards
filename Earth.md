@@ -1275,13 +1275,10 @@ noteOnly: true
 
 #is_/part_of :: [[geo]] 
 
-![[Earth.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[Earth.svg]] 
+![[Earth.md]] 
 
 
 %%

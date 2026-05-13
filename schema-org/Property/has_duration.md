@@ -157,7 +157,7 @@ has_child_property = `=this.dv_has_child_property`
 
 ## Embedded Graph 
 
-![[has_duration.svg]] 
+![[has_duration.md]] 
 
 
 %%

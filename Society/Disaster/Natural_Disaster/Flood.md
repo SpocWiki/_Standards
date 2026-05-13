@@ -438,13 +438,10 @@ dv_has_:
 
 #is_/part_of :: [[Flood]] 
 
-![[Flood.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[Flood.svg]] 
+![[Flood.md]] 
 
 
 %%

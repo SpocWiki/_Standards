@@ -215,7 +215,7 @@ Extroverts are on average happier, especially in company, but in isolation they 
 
 ## Embedded Graph 
 
-![[Big5~Extraversion.svg]] 
+![[Big5~Extraversion.md]] 
 
 
 %%

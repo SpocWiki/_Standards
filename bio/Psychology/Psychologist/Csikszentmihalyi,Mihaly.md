@@ -138,7 +138,7 @@ Other books include
 
 ## Embedded Graph 
 
-![[Csikszentmihalyi,Mihaly.svg]] 
+![[Csikszentmihalyi,Mihaly.md]] 
 
 
 ## Confidential Links & Embeds: 

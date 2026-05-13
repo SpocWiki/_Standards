@@ -130,7 +130,7 @@ The Set-Point Theory documents the fact that People return to their specific emo
 
 ## Embedded Graph 
 
-![[Big5~Emotional_Stability.svg]] 
+![[Big5~Emotional_Stability.md]] 
 
 
 %%

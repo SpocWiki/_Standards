@@ -71,7 +71,7 @@ sind Sie selbst für deren Löschung verantwortlich, bevor Sie es zurückgeben.
 
 ## Embedded Graph 
 
-![[EMS~ENTSORGUNG.svg]] 
+![[EMS~ENTSORGUNG.md]] 
 
 
 ## Confidential Links & Embeds: 

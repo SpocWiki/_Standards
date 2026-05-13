@@ -283,13 +283,10 @@ By integrating these principles, pragmatism became a distinctive and influential
 
 
 
-![[Pragmatism.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[Pragmatism.svg]] 
+![[Pragmatism.md]] 
 
 
 %%

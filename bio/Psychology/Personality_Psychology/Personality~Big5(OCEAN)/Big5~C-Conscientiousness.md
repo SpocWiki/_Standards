@@ -115,7 +115,7 @@ conscientiousness (C) measures self-control, diligence, and attention to detail.
 
 ## Embedded Graph 
 
-![[Big5~Gewissenhaftigkeit.svg]] 
+![[Big5~Gewissenhaftigkeit.md]] 
 
 
 %%

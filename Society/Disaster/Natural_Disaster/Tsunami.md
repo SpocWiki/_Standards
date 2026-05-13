@@ -384,13 +384,10 @@ Unicode_character: 🌊
 
 #is_/part_of :: [[Tsunami]] 
 
-![[Tsunami.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[Tsunami.svg]] 
+![[Tsunami.md]] 
 
 
 %%

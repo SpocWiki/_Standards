@@ -558,13 +558,10 @@ is_member_of = `=this.dv_is_member_of`
 
 is_part_of = `=this.dv_is_part_of`
 
-![[Roosevelt,Franklin_Delano.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[Roosevelt,Franklin_Delano.svg]] 
+![[Roosevelt,Franklin_Delano.md]] 
 
 
 %%

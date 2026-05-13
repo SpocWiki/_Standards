@@ -194,13 +194,10 @@ dv_has_:
 
 #is_/part_of :: [[Extinction_Event]] 
 
-![[Extinction_Event.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[Extinction_Event.svg]] 
+![[Extinction_Event.md]] 
 
 
 %%

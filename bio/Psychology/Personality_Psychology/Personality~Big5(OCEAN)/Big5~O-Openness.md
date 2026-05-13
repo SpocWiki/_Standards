@@ -136,7 +136,7 @@ openness (O) measures creativity, curiosity, and willingness to entertain new id
 
 ## Embedded Graph 
 
-![[Big5~Offenheit.svg]] 
+![[Big5~Offenheit.md]] 
 
 
 # Excalidraw Data

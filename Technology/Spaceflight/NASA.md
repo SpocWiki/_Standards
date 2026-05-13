@@ -489,13 +489,10 @@ dv_has_:
 
 #is_/part_of :: [[NASA]] 
 
-![[NASA.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[NASA.svg]] 
+![[NASA.md]] 
 
 
 %%

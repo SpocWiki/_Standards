@@ -224,7 +224,7 @@ dv_has_:
 
 ## Embedded Graph 
 
-![[2014-Shooting_of_Flight_MH17.svg]] 
+![[2014-Shooting_of_Flight_MH17.md]] 
 
 
 ## Confidential Links & Embeds: 

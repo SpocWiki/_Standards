@@ -457,13 +457,10 @@ dv_has_:
 
 #is_/part_of :: [[le corbusier]] 
 
-![[Le_Corbusier.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[Le_Corbusier.svg]] 
+![[Le_Corbusier.md]] 
 
 
 %%

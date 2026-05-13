@@ -346,13 +346,10 @@ dv_has_:
 
 #is_/part_of :: [[Avalanche]] 
 
-![[Avalanche.svg]]
-
- 
 
 ## Embedded Graph 
 
-![[Avalanche.svg]] 
+![[Avalanche.md]] 
 
 
 %%

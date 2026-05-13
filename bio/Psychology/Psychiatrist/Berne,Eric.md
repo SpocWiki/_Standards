@@ -76,7 +76,7 @@ He was a keen poker player, was married three times, and died in 1970.
 
 ## Embedded Graph 
 
-![[Berne,Eric.svg]] 
+![[Berne,Eric.md]] 
 
 
 ## Confidential Links & Embeds: 
