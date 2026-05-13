@@ -104,8 +104,8 @@ described_by_source:
 Dewey_Decimal_Classification: 110
 draft: true
 excalidraw-autoexport: none
-excalidraw_open_md: true
-excalidraw_plugin: parsed
+excalidraw-open-md: true
+excalidraw-plugin: parsed
 expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 has_time_started: 2025-07-22

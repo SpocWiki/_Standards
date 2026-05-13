@@ -117,8 +117,8 @@ P8189: 987007295068605200
 UMLS_CUI: C0004171
 entry_in_abbreviations_table: атл.
 excalidraw-autoexport: none
-excalidraw_open_md: true
-excalidraw_plugin: parsed
+excalidraw-open-md: true
+excalidraw-plugin: parsed
 has_Template: '[[Extract~Note~Template]]'
 has_time_started:
   '{ "date:YYYY-MM-DD": null }': ''

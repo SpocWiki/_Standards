@@ -200,8 +200,8 @@ title:
   School: ''
 type: private_note
 excalidraw-autoexport: none
-excalidraw_open_md: true
-excalidraw_plugin: parsed
+excalidraw-open-md: true
+excalidraw-plugin: parsed
 has_Template: '[[Extract~Note~Template]]'
 has_time_started:
   '{ "date:YYYY-MM-DD": null }': ''

@@ -116,8 +116,8 @@ described_by_source:
 - '[[_Standards/WikiData/WD~The_Art_of_The_Countries_and_Peoples_of_The_World._Tome_5,127157391|WD~The_Art_of_The_Countries_and_Peoples_of_The_World._Tome_5,127157391]]'
 draft: true
 excalidraw-autoexport: none
-excalidraw_open_md: true
-excalidraw_plugin: parsed
+excalidraw-open-md: true
+excalidraw-plugin: parsed
 expiryDate: ''
 external_data_available_at_URL: http://www.fondationlecorbusier.asso.fr/
 family_name:

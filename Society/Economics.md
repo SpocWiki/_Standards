@@ -183,8 +183,8 @@ different_from:
 - '[[../WikiData/WD~economic_activity,8187769|WD~economic_activity,8187769]]'
 draft: true
 excalidraw-autoexport: none
-excalidraw_open_md: true
-excalidraw_plugin: parsed
+excalidraw-open-md: true
+excalidraw-plugin: parsed
 expiryDate: 
 hashtag: Economics
 has_characteristic:

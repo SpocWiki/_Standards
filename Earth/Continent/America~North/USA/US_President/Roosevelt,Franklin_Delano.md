@@ -117,8 +117,8 @@ educated_at:
 - '[[_Standards/WikiData/WD~Groton_School,872541|WD~Groton_School,872541]]'
 - '[[_Standards/WikiData/WD~Columbia_Law_School,1149089|WD~Columbia_Law_School,1149089]]'
 excalidraw-autoexport: none
-excalidraw_open_md: true
-excalidraw_plugin: parsed
+excalidraw-open-md: true
+excalidraw-plugin: parsed
 expiryDate: ''
 family: '[[_Standards/WikiData/WD~Roosevelt_family,129462|WD~Roosevelt_family,129462]]'
 family_name: '[[_Standards/WikiData/WD~Roosevelt,7366409|WD~Roosevelt,7366409]]'

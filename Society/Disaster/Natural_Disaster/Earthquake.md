@@ -220,8 +220,8 @@ different_from:
 - '[[_Standards/WikiData/WD~Earthquake,500280|WD~Earthquake,500280]]'
 draft: true
 excalidraw-autoexport: none
-excalidraw_open_md: true
-excalidraw_plugin: parsed
+excalidraw-open-md: true
+excalidraw-plugin: parsed
 expiryDate: ''
 handled_mitigated_or_managed_by:
 - '[[_Standards/WikiData/WD~earthquake_prediction,606654|WD~earthquake_prediction,606654]]'

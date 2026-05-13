@@ -122,8 +122,8 @@ Douban_site_name: oscar
 draft: true
 exact_match: http://wordnet-rdf.princeton.edu/pwn30/07268967-n
 excalidraw-autoexport: none
-excalidraw_open_md: true
-excalidraw_plugin: parsed
+excalidraw-open-md: true
+excalidraw-plugin: parsed
 expiryDate: ''
 Facebook_username: TheAcademy
 Giphy_username: oscars

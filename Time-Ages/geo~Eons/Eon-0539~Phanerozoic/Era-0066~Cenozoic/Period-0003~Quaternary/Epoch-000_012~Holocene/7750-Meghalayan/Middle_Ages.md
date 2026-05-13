@@ -178,8 +178,8 @@ described_by_source:
 draft: true
 end_time: 1500-06
 excalidraw-autoexport: none
-excalidraw_open_md: true
-excalidraw_plugin: parsed
+excalidraw-open-md: true
+excalidraw-plugin: parsed
 expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
 has_time_started: 2025-03-30

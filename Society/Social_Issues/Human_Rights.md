@@ -193,8 +193,8 @@ described_by_source:
 - '[[_Standards/WikiData/WD~Der_Volks-Brockhaus,107433072|WD~Der_Volks-Brockhaus,107433072]]'
 draft: true
 excalidraw-autoexport: none
-excalidraw_open_md: true
-excalidraw_plugin: parsed
+excalidraw-open-md: true
+excalidraw-plugin: parsed
 expiryDate: ''
 foundational_text: '[[_Standards/WikiData/WD~Universal_Declaration_of_Human_Rights,7813|WD~Universal_Declaration_of_Human_Rights,7813]]'
 hashtag: StandUp4HumanRights

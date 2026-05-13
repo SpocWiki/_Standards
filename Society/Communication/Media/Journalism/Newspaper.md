@@ -193,8 +193,8 @@ equivalent_class:
 - https://schema.org/Newspaper
 exact_match: http://purl.org/coar/resource_type/c_2fe3
 excalidraw-autoexport: none
-excalidraw_open_md: true
-excalidraw_plugin: parsed
+excalidraw-open-md: true
+excalidraw-plugin: parsed
 expiryDate: ''
 Gujarati_Vishwakosh_entry: અખબાર
 has_characteristic: '[[_Standards/WikiData/WD~newspaper_genre,106632462|WD~newspaper_genre,106632462]]'

@@ -57,8 +57,8 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Property/has_duration.personal|has_duration.personal]]"
   - "[[/_secret/schema-org/Property/has_duration.secret|has_duration.secret]]"
 excalidraw-autoexport: none
-excalidraw_open_md: true
-excalidraw_plugin: parsed
+excalidraw-open-md: true
+excalidraw-plugin: parsed
 has_Template: "[[Extract~Note~Template]]"
 lang: en
 dv_has_:

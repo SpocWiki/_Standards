@@ -255,8 +255,8 @@ described_by_source:
 different_from: '[[_Standards/WikiData/WD~Pseudo-Alexander_the_Great,115561503|WD~Pseudo-Alexander_the_Great,115561503]]'
 draft: true
 excalidraw-autoexport: none
-excalidraw_open_md: true
-excalidraw_plugin: parsed
+excalidraw-open-md: true
+excalidraw-plugin: parsed
 expiryDate: ''
 eye_color:
 - '[[_Standards/WikiData/WD~blue,17122834|WD~blue,17122834]]'

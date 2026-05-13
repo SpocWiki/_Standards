@@ -334,8 +334,8 @@ used_by: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
 uses: '[[_Standards/WikiData/WD~capacity_for_language,4536530|WD~capacity_for_language,4536530]]'
 Wolfram_Language_entity_type: Language
 excalidraw-autoexport: none
-excalidraw_open_md: true
-excalidraw_plugin: parsed
+excalidraw-open-md: true
+excalidraw-plugin: parsed
 has_Template: '[[Extract~Note~Template]]'
 has_time_started:
   '{ "date:YYYY-MM-DD": }': ''

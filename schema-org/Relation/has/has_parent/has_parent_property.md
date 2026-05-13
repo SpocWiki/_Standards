@@ -72,8 +72,8 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Property/has_parent_property.personal|has_parent_property.personal]]"
   - "[[/_secret/schema-org/Property/has_parent_property.secret|has_parent_property.secret]]"
 excalidraw-autoexport: none
-excalidraw_open_md: true
-excalidraw_plugin: parsed
+excalidraw-open-md: true
+excalidraw-plugin: parsed
 has_Template: "[[Extract~Note~Template]]"
 has_time_started:
   '{ "date:YYYY-MM-DD": }':

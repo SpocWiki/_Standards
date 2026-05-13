@@ -191,8 +191,8 @@ depicts:
 different_from: '[[_Standards/WikiData/WD~Statue_of_Liberty,408577|WD~Statue_of_Liberty,408577]]'
 draft: true
 excalidraw-autoexport: none
-excalidraw_open_md: true
-excalidraw_plugin: parsed
+excalidraw-open-md: true
+excalidraw-plugin: parsed
 expiryDate: ''
 fabrication_method: '[[_Standards/WikiData/WD~repoussé,656884|WD~repoussé,656884]]'
 genre:

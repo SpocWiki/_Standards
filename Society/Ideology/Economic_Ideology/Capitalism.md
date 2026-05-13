@@ -106,8 +106,8 @@ described_by_source:
 - '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072|WD~Red_Blue_Translator,131935072]]'
 draft: true
 excalidraw-autoexport: none
-excalidraw_open_md: true
-excalidraw_plugin: parsed
+excalidraw-open-md: true
+excalidraw-plugin: parsed
 expiryDate: ''
 has_characteristic:
 - '[[_Standards/WikiData/WD~economic_growth,189833|WD~economic_growth,189833]]'

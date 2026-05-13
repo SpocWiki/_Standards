@@ -12,8 +12,8 @@ cssclasses:
   - note
 draft: true
 excalidraw-autoexport: none
-excalidraw_open_md: true
-excalidraw_plugin: parsed
+excalidraw-open-md: true
+excalidraw-plugin: parsed
 expiryDate:
 has_Template: "[[Extract~Note~Template]]"
 has_time_started: 2026-03-05

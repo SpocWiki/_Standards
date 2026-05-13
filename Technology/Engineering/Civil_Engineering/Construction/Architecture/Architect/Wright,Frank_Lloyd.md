@@ -97,8 +97,8 @@ educated_at:
 employer: '[[_Standards/WikiData/WD~The_New_School,599316|WD~The_New_School,599316]]'
 Europeana_entity: agent/base/146814
 excalidraw-autoexport: none
-excalidraw_open_md: true
-excalidraw_plugin: parsed
+excalidraw-open-md: true
+excalidraw-plugin: parsed
 expiryDate: ''
 Facebook_username: FrankLloydWrightFanPage
 family_name: '[[_Standards/WikiData/WD~Wright,2594455|WD~Wright,2594455]]'

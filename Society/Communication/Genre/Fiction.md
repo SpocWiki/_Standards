@@ -125,8 +125,8 @@ different_from:
 draft: true
 exact_match: http://cv.iptc.org/newscodes/subjectcode/01010001
 excalidraw-autoexport: none
-excalidraw_open_md: true
-excalidraw_plugin: parsed
+excalidraw-open-md: true
+excalidraw-plugin: parsed
 expiryDate: ''
 hashtag:
 - fiction

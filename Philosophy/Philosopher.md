@@ -117,8 +117,8 @@ Dewey_Decimal_Classification: 109.2
 draft: true
 equivalent_class: http://dbpedia.org/ontology/Philosopher
 excalidraw-autoexport: none
-excalidraw_open_md: true
-excalidraw_plugin: parsed
+excalidraw-open-md: true
+excalidraw-plugin: parsed
 expiryDate: ''
 female_form_of_label:
 - filósofa

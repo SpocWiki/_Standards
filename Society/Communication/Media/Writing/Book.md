@@ -340,8 +340,8 @@ U_S_National_Archives_Identifier: 10639916
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_books,7112569|WD~outline_of_books,7112569]]"
 Wolfram_Language_entity_type: Book
 excalidraw-autoexport: none
-excalidraw_open_md: true
-excalidraw_plugin: parsed
+excalidraw-open-md: true
+excalidraw-plugin: parsed
 has_Template: "[[Extract~Note~Template]]"
 has_time_started:
   '{ "date:YYYY-MM-DD": null }': ""

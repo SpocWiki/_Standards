@@ -660,8 +660,8 @@ emergency_phone_number:
 - '[[_Standards/WikiData/WD~140,25648888|WD~140,25648888]]'
 - '[[_Standards/WikiData/WD~175,25648889|WD~175,25648889]]'
 excalidraw-autoexport: none
-excalidraw_open_md: true
-excalidraw_plugin: parsed
+excalidraw-open-md: true
+excalidraw-plugin: parsed
 expiryDate: ''
 female_population:
 - 2879140

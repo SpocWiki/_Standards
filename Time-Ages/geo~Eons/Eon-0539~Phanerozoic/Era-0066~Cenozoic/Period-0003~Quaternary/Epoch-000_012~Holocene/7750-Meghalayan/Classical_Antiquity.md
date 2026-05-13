@@ -93,8 +93,8 @@ described_by_source:
 draft: true
 end_time: 0500-06
 excalidraw-autoexport: none
-excalidraw_open_md: true
-excalidraw_plugin: parsed
+excalidraw-open-md: true
+excalidraw-plugin: parsed
 expiryDate: ''
 facet_of:
 - '[[_Standards/WikiData/WD~Greco-Roman_world,937284|WD~Greco-Roman_world,937284]]'
