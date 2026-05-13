@@ -38,11 +38,7 @@ Commons_category: Great Plague of London
 > It became known afterwards as the "great" plague mainly because 
 > it was the last widespread outbreak of bubonic plague in England during the 400-year Second Pandemic.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Great%20Plague%20of%20London)  
-
-
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Great%20Plague%20of%20London) 
 
 
 ## Confidential Links & Embeds: 
@@ -60,3 +56,4 @@ Commons_category: Great Plague of London
 ### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Great_Plague_of_London.personal|Great_Plague_of_London.personal]] 
 
 ### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Great_Plague_of_London.secret|Great_Plague_of_London.secret]] 
+

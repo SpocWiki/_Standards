@@ -43,8 +43,7 @@ Things connected with churches, religions, sects, the priesthood,
 sometimes even the priest who will marry the Querent; also 
 - disunion, 
 - unfortunate combinations, 
-- competing interests
- 
+- competing interests 
 
 
 ## Confidential Links & Embeds: 
@@ -62,3 +61,4 @@ sometimes even the priest who will marry the Querent; also
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~14~Temperance.personal|Tarot~14~Temperance.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~14~Temperance.secret|Tarot~14~Temperance.secret]] 
+

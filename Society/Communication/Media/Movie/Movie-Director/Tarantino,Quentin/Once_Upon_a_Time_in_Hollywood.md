@@ -60,9 +60,7 @@
 > written by Tarantino and directed by David Fincher, with Pitt in the lead role, 
 > is currently in production, and is scheduled to be released in 2026.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Once%20Upon%20a%20Time%20in%20Hollywood)  
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Once%20Upon%20a%20Time%20in%20Hollywood) 
 
 
 ## Confidential Links & Embeds: 
@@ -80,3 +78,4 @@
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Tarantino,Quentin/Once_Upon_a_Time_in_Hollywood.personal|Once_Upon_a_Time_in_Hollywood.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Tarantino,Quentin/Once_Upon_a_Time_in_Hollywood.secret|Once_Upon_a_Time_in_Hollywood.secret]] 
+

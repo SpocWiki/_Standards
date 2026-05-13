@@ -174,8 +174,6 @@ dv_has_:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Glyphosate) 
 
- 
-
 
 ## Confidential Links & Embeds: 
 
@@ -192,3 +190,4 @@ dv_has_:
 ### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Agricultural_Revolution/Glyphosate.personal|Glyphosate.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Agricultural_Revolution/Glyphosate.secret|Glyphosate.secret]] 
+

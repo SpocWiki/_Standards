@@ -36,8 +36,6 @@ Dewey_Decimal_Classification: "391.72"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ring%20(jewellery)) 
 
- 
-
 
 ## Confidential Links & Embeds: 
 
@@ -54,3 +52,4 @@ Dewey_Decimal_Classification: "391.72"
 ### #is_/same_as :: [[/_personal/Technology/Tool/Clothing/Fashion/Jewelry/Ring.personal|Ring.personal]] 
 
 ### #is_/same_as :: [[/_secret/Technology/Tool/Clothing/Fashion/Jewelry/Ring.secret|Ring.secret]] 
+

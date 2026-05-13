@@ -148,8 +148,7 @@ and support timely decision-making and corrective actions.
 ## See also
 
 - [Monitor (disambiguation)](https://en.wikipedia.org/wiki/Monitor_\(disambiguation\) "Monitor (disambiguation)")
-- [Surveillance](https://en.wikipedia.org/wiki/Surveillance "Surveillance"), the monitoring or observation of the behaviour or communications of individuals or groups
- 
+- [Surveillance](https://en.wikipedia.org/wiki/Surveillance "Surveillance"), the monitoring or observation of the behaviour or communications of individuals or groups 
 
 
 ## Confidential Links & Embeds: 
@@ -167,3 +166,4 @@ and support timely decision-making and corrective actions.
 ### #is_/same_as :: [[/_personal/Society/Agent/Management/Risk-Management/Monitoring.personal|Monitoring.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Agent/Management/Risk-Management/Monitoring.secret|Monitoring.secret]] 
+

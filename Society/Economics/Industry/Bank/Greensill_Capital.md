@@ -19,11 +19,7 @@ dissolved_abolished_or_demolished_date: 2021-03-08
 > The company was founded in 2011 by Lex Greensill. 
 > It filed for insolvency protection on 8 March 2021, 5 days after initial doubts became public. 
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Greensill%20Capital)  
-
-
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Greensill%20Capital) 
 
 
 ## Confidential Links & Embeds: 
@@ -41,3 +37,4 @@ dissolved_abolished_or_demolished_date: 2021-03-08
 ### #is_/same_as :: [[/_personal/Society/Economics/Industry/Bank/Greensill_Capital.personal|Greensill_Capital.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Economics/Industry/Bank/Greensill_Capital.secret|Greensill_Capital.secret]] 
+

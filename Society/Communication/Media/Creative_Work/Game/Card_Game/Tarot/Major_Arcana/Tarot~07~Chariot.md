@@ -43,8 +43,6 @@ Commons_category: Chariot (Major Arcana)
 - litigation, 
 - defeat 
 
- 
-
 
 ## Confidential Links & Embeds: 
 
@@ -61,3 +59,4 @@ Commons_category: Chariot (Major Arcana)
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~07~Chariot.personal|Tarot~07~Chariot.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~07~Chariot.secret|Tarot~07~Chariot.secret]] 
+

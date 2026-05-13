@@ -47,9 +47,7 @@ dv_has_:
 > 
 > While fallacious, arguments that make these assumptions may be persuasive because of the representativeness heuristic.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Fallacies%20of%20illicit%20transference)  
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Fallacies%20of%20illicit%20transference) 
 
 
 ## Confidential Links & Embeds: 
@@ -67,3 +65,4 @@ dv_has_:
 ### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Illicit_transference_Fallacy.personal|Illicit_transference_Fallacy.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Illicit_transference_Fallacy.secret|Illicit_transference_Fallacy.secret]] 
+

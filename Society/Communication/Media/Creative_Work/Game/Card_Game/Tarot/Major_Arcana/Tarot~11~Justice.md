@@ -48,8 +48,6 @@ Commons_category: Justice (Major Arcana)
 - bias, 
 - excessive severity 
 
- 
-
 
 ## Confidential Links & Embeds: 
 
@@ -66,3 +64,4 @@ Commons_category: Justice (Major Arcana)
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~11~Justice.personal|Tarot~11~Justice.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~11~Justice.secret|Tarot~11~Justice.secret]] 
+

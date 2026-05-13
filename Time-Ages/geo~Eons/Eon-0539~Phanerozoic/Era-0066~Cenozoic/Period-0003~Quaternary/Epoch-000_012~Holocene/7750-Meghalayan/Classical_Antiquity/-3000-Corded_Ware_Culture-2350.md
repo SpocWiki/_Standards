@@ -128,9 +128,7 @@ is_same_as = `=this.dv_is_same_as`
 > 
 > The Corded Ware culture is considered to be a likely vector for the spread of many of the Indo-European languages in Europe and Asia.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Corded%20Ware%20culture)  
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Corded%20Ware%20culture) 
 
 
 ## Confidential Links & Embeds: 
@@ -148,3 +146,4 @@ is_same_as = `=this.dv_is_same_as`
 ### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-3000-Corded_Ware_Culture-2350.personal|-3000-Corded_Ware_Culture-2350.personal]] 
 
 ### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-3000-Corded_Ware_Culture-2350.secret|-3000-Corded_Ware_Culture-2350.secret]] 
+

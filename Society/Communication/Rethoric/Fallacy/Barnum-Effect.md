@@ -17,7 +17,7 @@ Ausgangspunkt:
 - 20_000 Worte die Menschen charakterisieren 
 - Faktoren-Analyse reduziert diese auf 5 
 
-Placebo/Nocebo  
+Placebo/Nocebo 
 
 
 ## Confidential Links & Embeds: 
@@ -35,3 +35,4 @@ Placebo/Nocebo
 ### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy/Barnum-Effect.personal|Barnum-Effect.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy/Barnum-Effect.secret|Barnum-Effect.secret]] 
+

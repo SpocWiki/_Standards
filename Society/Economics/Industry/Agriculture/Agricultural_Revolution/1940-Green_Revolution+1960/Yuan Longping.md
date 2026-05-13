@@ -92,10 +92,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Yuan%20Longping) 
 
 
-
- 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Agricultural_Revolution/1940-Green_Revolution+1960/Yuan Longping|Yuan Longping]] 
@@ -111,3 +107,4 @@ aliases:
 ### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Agricultural_Revolution/1940-Green_Revolution+1960/Yuan Longping.personal|Yuan Longping.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Agricultural_Revolution/1940-Green_Revolution+1960/Yuan Longping.secret|Yuan Longping.secret]] 
+

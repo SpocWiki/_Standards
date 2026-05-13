@@ -55,11 +55,6 @@ dv_has_:
 > [Wikipedia](https://en.wikipedia.org/wiki/Moving%20the%20goalposts) 
 
 
-
-
- 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Ambiguity/Moving_Goalpost_Fallacy|Moving_Goalpost_Fallacy]] 
@@ -75,3 +70,4 @@ dv_has_:
 ### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Ambiguity/Moving_Goalpost_Fallacy.personal|Moving_Goalpost_Fallacy.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Ambiguity/Moving_Goalpost_Fallacy.secret|Moving_Goalpost_Fallacy.secret]] 
+

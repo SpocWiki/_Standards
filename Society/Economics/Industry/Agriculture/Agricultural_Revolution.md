@@ -14,9 +14,7 @@ The spread of new crops and advanced techniques of Water-Management in the Musli
 ## [[Agricultural_Revolution/1940-Green_Revolution+1960|Third Agricultural Revolution]]
 (1930s–1960s), 
 an increase in agricultural production, especially in the developing world 
-(also known as the Green Revolution)
-
- 
+(also known as the Green Revolution) 
 
 
 ## Confidential Links & Embeds: 
@@ -34,3 +32,4 @@ an increase in agricultural production, especially in the developing world
 ### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Agricultural_Revolution.personal|Agricultural_Revolution.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Agricultural_Revolution.secret|Agricultural_Revolution.secret]] 
+

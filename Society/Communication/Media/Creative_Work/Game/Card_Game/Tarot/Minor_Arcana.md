@@ -133,8 +133,6 @@ which correspond to the contemporary standard
 
 ## 
 
- 
-
 
 ## Confidential Links & Embeds: 
 
@@ -151,3 +149,4 @@ which correspond to the contemporary standard
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Minor_Arcana.personal|Minor_Arcana.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Minor_Arcana.secret|Minor_Arcana.secret]] 
+

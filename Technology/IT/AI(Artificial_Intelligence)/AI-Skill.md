@@ -17,3 +17,4 @@
 ### #is_/same_as :: [[/_personal/Technology/IT/AI(Artificial_Intelligence)/AI-Skill.personal|AI-Skill.personal]] 
 
 ### #is_/same_as :: [[/_secret/Technology/IT/AI(Artificial_Intelligence)/AI-Skill.secret|AI-Skill.secret]] 
+

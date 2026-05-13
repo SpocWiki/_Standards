@@ -60,9 +60,7 @@ The Film-Music features the Morse-Code Long-Long-Dot-Dot, "MI" in a 5/4 Time.
 > At the Cannes premiere, he said, “It’s the final … it’s not called final for nothing,” 
 > while in other interviews he expressed interest in continuing the role into his eighties.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mission:%20Impossible)
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Mission:%20Impossible) 
 
 
 ## Confidential Links & Embeds: 
@@ -80,3 +78,4 @@ The Film-Music features the Morse-Code Long-Long-Dot-Dot, "MI" in a 5/4 Time.
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Mission_Impossible.personal|Mission_Impossible.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Mission_Impossible.secret|Mission_Impossible.secret]] 
+

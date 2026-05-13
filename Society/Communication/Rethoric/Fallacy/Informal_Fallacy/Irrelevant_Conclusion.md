@@ -96,9 +96,7 @@ dv_has_:
 > an argument whose conclusion does not follow from its premises; instead, it is that 
 > **despite its formal consistency it is not relevant to the subject** being talked about.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Irrelevant%20conclusion)  
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Irrelevant%20conclusion) 
 
 
 ## Confidential Links & Embeds: 
@@ -116,3 +114,4 @@ dv_has_:
 ### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Irrelevant_Conclusion.personal|Irrelevant_Conclusion.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Irrelevant_Conclusion.secret|Irrelevant_Conclusion.secret]] 
+

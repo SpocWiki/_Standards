@@ -140,8 +140,6 @@ dv_has_:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Surveillance) 
 
- 
-
 
 ## Confidential Links & Embeds: 
 
@@ -158,3 +156,4 @@ dv_has_:
 ### #is_/same_as :: [[/_personal/Society/Agent/Management/Risk-Management/Surveillance.personal|Surveillance.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Agent/Management/Risk-Management/Surveillance.secret|Surveillance.secret]] 
+

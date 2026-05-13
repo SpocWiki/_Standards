@@ -35,10 +35,7 @@ Commons_category: Oruanui eruption
 | Date           | -23_400        | years before present | ± a few hundred years                 |
 | Eruption type  | Super-eruption | —                    | Explosive, caldera-forming            |
 | Erupted volume | 1170           | km³                  | Dense rock equivalent                 |
-| VEI            | 8              | index (0–8)          | Maximum on volcanic explosivity scale |
-
-
- 
+| VEI            | 8              | index (0–8)          | Maximum on volcanic explosivity scale | 
 
 
 ## Confidential Links & Embeds: 
@@ -56,3 +53,4 @@ Commons_category: Oruanui eruption
 ### #is_/same_as :: [[/_personal/Society/Disaster/Natural_Disaster/Volcano_Eruption/Supervolcano/Oruanui_Eruption.personal|Oruanui_Eruption.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Disaster/Natural_Disaster/Volcano_Eruption/Supervolcano/Oruanui_Eruption.secret|Oruanui_Eruption.secret]] 
+

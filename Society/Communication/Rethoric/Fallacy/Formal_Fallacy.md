@@ -94,11 +94,7 @@ dv_has_:
 > (e.g., affirming the consequent). 
 > In other words, in practice, "non sequitur" refers to an unnamed formal fallacy.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Formal%20fallacy)  
-
-
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Formal%20fallacy) 
 
 
 ## Confidential Links & Embeds: 
@@ -116,3 +112,4 @@ dv_has_:
 ### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy/Formal_Fallacy.personal|Formal_Fallacy.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy/Formal_Fallacy.secret|Formal_Fallacy.secret]] 
+

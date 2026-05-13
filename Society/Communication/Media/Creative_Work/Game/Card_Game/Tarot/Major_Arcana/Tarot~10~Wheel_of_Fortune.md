@@ -39,8 +39,6 @@ Commons_category: Wheel of Fortune (Major Arcana)
 - abundance, 
 - superfluity 
 
- 
-
 
 ## Confidential Links & Embeds: 
 
@@ -57,3 +55,4 @@ Commons_category: Wheel of Fortune (Major Arcana)
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~10~Wheel_of_Fortune.personal|Tarot~10~Wheel_of_Fortune.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~10~Wheel_of_Fortune.secret|Tarot~10~Wheel_of_Fortune.secret]] 
+

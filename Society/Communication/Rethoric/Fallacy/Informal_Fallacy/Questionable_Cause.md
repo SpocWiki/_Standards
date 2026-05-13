@@ -67,11 +67,7 @@ dv_has_:
 > - Association fallacy
 > - Magical thinking
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Questionable%20cause)  
-
-
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Questionable%20cause) 
 
 
 ## Confidential Links & Embeds: 
@@ -89,3 +85,4 @@ dv_has_:
 ### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Questionable_Cause.personal|Questionable_Cause.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Questionable_Cause.secret|Questionable_Cause.secret]] 
+

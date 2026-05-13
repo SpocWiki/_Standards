@@ -246,12 +246,7 @@ motto_text: Die Bank an Ihrer Seite
 > In recent years, the bank has undergone considerable transformation, returning to profitability, 
 > partly through substantial cost reductions and the evolution of its business model.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Commerzbank)
-
-
-
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Commerzbank) 
 
 
 ## Confidential Links & Embeds: 
@@ -269,3 +264,4 @@ motto_text: Die Bank an Ihrer Seite
 ### #is_/same_as :: [[/_personal/Society/Economics/Industry/Bank/Commerzbank.personal|Commerzbank.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Economics/Industry/Bank/Commerzbank.secret|Commerzbank.secret]] 
+

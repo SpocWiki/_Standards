@@ -58,8 +58,6 @@ In some cases, it signifies weakness in decision-making
 or a resistance to necessary structure, 
 warning against stubbornness or oppressive leadership 
 
- 
-
 
 ## Confidential Links & Embeds: 
 
@@ -76,3 +74,4 @@ warning against stubbornness or oppressive leadership
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~04~Emperor.personal|Tarot~04~Emperor.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~04~Emperor.secret|Tarot~04~Emperor.secret]] 
+

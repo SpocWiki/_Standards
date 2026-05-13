@@ -132,9 +132,7 @@ dv_has_:
 > has been criticized by a number of academics and practitioners, 
 > who say that it is vague and has disputed constitutive elements and  historical distortions.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Hybrid%20warfare)  
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Hybrid%20warfare) 
 
 
 ## Confidential Links & Embeds: 
@@ -152,3 +150,4 @@ dv_has_:
 ### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/War/Hybrid_Warfare.personal|Hybrid_Warfare.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/War/Hybrid_Warfare.secret|Hybrid_Warfare.secret]] 
+

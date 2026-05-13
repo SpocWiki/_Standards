@@ -109,12 +109,7 @@ dv_has_:
 > the range of policies that a politician may recommend without appearing too extreme, 
 > in order to gain or keep public office given the climate of public opinion at that particular time.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Overton%20window)  
-
-
-
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Overton%20window) 
 
 
 ## Confidential Links & Embeds: 
@@ -132,3 +127,4 @@ dv_has_:
 ### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Ambiguity/Moving_Goalpost_Fallacy/Overton_Window.personal|Overton_Window.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Ambiguity/Moving_Goalpost_Fallacy/Overton_Window.secret|Overton_Window.secret]] 
+

@@ -36,10 +36,7 @@ Unicode_character: ♣
 > (whereas Diamonds and Bells are the trump suit in Doppelkopf). 
 > In Bridge, Clubs are the lowest suit.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Clubs%20(suit))  
-
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Clubs%20(suit)) 
 
 
 ## Confidential Links & Embeds: 
@@ -57,3 +54,4 @@ Unicode_character: ♣
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit/Suit~Clubs.personal|Suit~Clubs.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit/Suit~Clubs.secret|Suit~Clubs.secret]] 
+

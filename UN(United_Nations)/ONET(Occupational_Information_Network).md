@@ -102,8 +102,7 @@ ONET provides CSV and XML files here: [https://www.onetcenter.org/database.html]
 | Technology   | Detailed Work Activities (DWAs) | Fine-grained task descriptors                   | %     | Civil Engineer      |   80 |        75 | Designing Experiments, Drafting Reports, Troubleshooting Systems           |
 | Occupation   | Occupation Titles               | Standardized job title                          | N/A   | Software Developer  |  N/A |       N/A |                                                                            |
 | Occupation   | Alternate Titles                | Synonyms or common variations                   | N/A   | Software Engineer   |  N/A |       N/A |                                                                            |
-| Occupation   | Description                     | Narrative describing tasks and responsibilities | N/A   | Nurse Practitioner  |  N/A |       N/A |                                                                            |
- 
+| Occupation   | Description                     | Narrative describing tasks and responsibilities | N/A   | Nurse Practitioner  |  N/A |       N/A |                                                                            | 
 
 
 ## Confidential Links & Embeds: 
@@ -121,3 +120,4 @@ ONET provides CSV and XML files here: [https://www.onetcenter.org/database.html]
 ### #is_/same_as :: [[/_personal/UN(United_Nations)/ONET(Occupational_Information_Network).personal|ONET(Occupational_Information_Network).personal]] 
 
 ### #is_/same_as :: [[/_secret/UN(United_Nations)/ONET(Occupational_Information_Network).secret|ONET(Occupational_Information_Network).secret]] 
+

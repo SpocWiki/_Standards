@@ -483,9 +483,7 @@ dv_has_:
 > 
 > Following its limited use in World War I, aircraft technology continued to develop. Airplanes had a presence in all the major battles of World War II. The first jet aircraft was the German Heinkel He 178 in 1939. The first jet airliner, the de Havilland Comet, was introduced in 1952. The Boeing 707, the first widely successful commercial jet, was in commercial service for more than 60 years, from 1958 to 2019.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Airplane)  
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Airplane) 
 
 
 ## Confidential Links & Embeds: 
@@ -503,3 +501,4 @@ dv_has_:
 ### #is_/same_as :: [[/_personal/Technology/Aviation/Aircraft/Airplane.personal|Airplane.personal]] 
 
 ### #is_/same_as :: [[/_secret/Technology/Aviation/Aircraft/Airplane.secret|Airplane.secret]] 
+

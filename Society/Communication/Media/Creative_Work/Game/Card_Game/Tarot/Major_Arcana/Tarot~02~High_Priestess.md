@@ -60,9 +60,6 @@ Commons_category: Popess (Major Arcana)
 - surface knowledge 
 
 
- 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~02~High_Priestess|Tarot~02~High_Priestess]] 
@@ -78,3 +75,4 @@ Commons_category: Popess (Major Arcana)
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~02~High_Priestess.personal|Tarot~02~High_Priestess.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~02~High_Priestess.secret|Tarot~02~High_Priestess.secret]] 
+

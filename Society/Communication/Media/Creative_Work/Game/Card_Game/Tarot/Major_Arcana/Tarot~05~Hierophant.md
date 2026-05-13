@@ -50,8 +50,6 @@ Commons_category: Pope (Major Arcana)
 
 - Society, good understanding, concord, over kindness, weakness 
 
- 
-
 
 ## Confidential Links & Embeds: 
 
@@ -68,3 +66,4 @@ Commons_category: Pope (Major Arcana)
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~05~Hierophant.personal|Tarot~05~Hierophant.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~05~Hierophant.secret|Tarot~05~Hierophant.secret]] 
+

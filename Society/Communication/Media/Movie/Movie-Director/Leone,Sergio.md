@@ -85,9 +85,7 @@ date_of_birth: 1929-01-03T00:00:00Z
 > - Duck, You Sucker! (1971), and 
 > - Once Upon a Time in America (1984).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sergio%20Leone)  
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Sergio%20Leone) 
 
 
 ## Confidential Links & Embeds: 
@@ -105,3 +103,4 @@ date_of_birth: 1929-01-03T00:00:00Z
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Leone,Sergio.personal|Leone,Sergio.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Leone,Sergio.secret|Leone,Sergio.secret]] 
+

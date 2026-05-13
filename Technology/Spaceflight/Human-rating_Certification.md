@@ -74,9 +74,7 @@ In short, **human-rated** signifies that a system is built to protect and suppor
 
 > Human-rating certification, also known as man-rating or crew-rating, is the certification of a spacecraft or launch vehicle as capable of safely transporting humans. There is no one particular standard for human-rating a spacecraft or launch vehicle, and the various entities that launch or plan to launch such spacecraft specify requirements for their particular systems to be human-rated.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Human-rating%20certification)   
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Human-rating%20certification) 
 
 
 ## Confidential Links & Embeds: 
@@ -94,3 +92,4 @@ In short, **human-rated** signifies that a system is built to protect and suppor
 ### #is_/same_as :: [[/_personal/Technology/Spaceflight/Human-rating_Certification.personal|Human-rating_Certification.personal]] 
 
 ### #is_/same_as :: [[/_secret/Technology/Spaceflight/Human-rating_Certification.secret|Human-rating_Certification.secret]] 
+

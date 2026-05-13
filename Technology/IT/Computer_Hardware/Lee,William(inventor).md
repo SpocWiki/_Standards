@@ -20,8 +20,6 @@ so he moved to France eventually, where he established Business in Rouen.
 On Resolution of the Edict of Nantes in 1685, many Hugenottes 
 fled to German States like Prussia, Brandenburg and Saxony. 
 
- 
-
 
 ## Confidential Links & Embeds: 
 
@@ -38,3 +36,4 @@ fled to German States like Prussia, Brandenburg and Saxony.
 ### #is_/same_as :: [[/_personal/Technology/IT/Computer_Hardware/Lee,William(inventor).personal|Lee,William(inventor).personal]] 
 
 ### #is_/same_as :: [[/_secret/Technology/IT/Computer_Hardware/Lee,William(inventor).secret|Lee,William(inventor).secret]] 
+

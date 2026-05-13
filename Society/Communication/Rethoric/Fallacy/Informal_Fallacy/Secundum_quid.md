@@ -37,11 +37,7 @@ subclass_of: "[[_Standards/WikiData/WD~informal_fallacy,3312438]]"
 > 
 > Since it ignores the limits, or qualifications, of rules of thumb, this fallacy is also named ignoring qualifications or sweeping generalizations. The expression misuse of a principle can be used as well.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Secundum%20quid)  
-
-
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Secundum%20quid) 
 
 
 ## Confidential Links & Embeds: 
@@ -59,3 +55,4 @@ subclass_of: "[[_Standards/WikiData/WD~informal_fallacy,3312438]]"
 ### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Secundum_quid.personal|Secundum_quid.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Secundum_quid.secret|Secundum_quid.secret]] 
+

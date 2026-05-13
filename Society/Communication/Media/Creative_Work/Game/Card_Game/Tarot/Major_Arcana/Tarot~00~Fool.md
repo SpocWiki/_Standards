@@ -61,8 +61,7 @@ His path is known traditionally in cartomancy as the "Fool's Journey",
 - carelessness
 - apathy
 - nullity 
-- vanity
- 
+- vanity 
 
 
 ## Confidential Links & Embeds: 
@@ -80,3 +79,4 @@ His path is known traditionally in cartomancy as the "Fool's Journey",
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~00~Fool.personal|Tarot~00~Fool.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~00~Fool.secret|Tarot~00~Fool.secret]] 
+

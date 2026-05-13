@@ -225,9 +225,6 @@ dv_has_:
 ![[Wealth_of_Nations.svg]] 
 
 
- 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Economics/Economy/Economy-Books/Wealth_of_Nations|Wealth_of_Nations]] 

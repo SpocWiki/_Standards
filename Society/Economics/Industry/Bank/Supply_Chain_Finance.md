@@ -27,14 +27,7 @@ instance_of: "[[_Standards/WikiData/WD~Wikimedia_disambiguation_page,4167410|WD~
 > for example, it was utilized in schemes that contributed to the collapse of the [[../../../../../_internal/Society/Economy/Evergrande_Group|Evergrande_Group]], 
 > China's second-largest real estate company.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Supply%20chain%20finance)  
-
-
-
-
-
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Supply%20chain%20finance) 
 
 
 ## Confidential Links & Embeds: 
@@ -52,3 +45,4 @@ instance_of: "[[_Standards/WikiData/WD~Wikimedia_disambiguation_page,4167410|WD~
 ### #is_/same_as :: [[/_personal/Society/Economics/Industry/Bank/Supply_Chain_Finance.personal|Supply_Chain_Finance.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Economics/Industry/Bank/Supply_Chain_Finance.secret|Supply_Chain_Finance.secret]] 
+

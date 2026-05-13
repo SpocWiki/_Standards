@@ -148,9 +148,7 @@ Facebook_username: GrapheneOS
 > GrapheneOS is developed by the GrapheneOS Foundation, 
 > a Canadian nonprofit corporation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/GrapheneOS)  
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/GrapheneOS) 
 
 
 ## Confidential Links & Embeds: 
@@ -168,3 +166,4 @@ Facebook_username: GrapheneOS
 ### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System)/OS~Linux/GrapheneOS.personal|GrapheneOS.personal]] 
 
 ### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/OS~Linux/GrapheneOS.secret|GrapheneOS.secret]] 
+

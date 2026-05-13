@@ -79,9 +79,7 @@ dv_has_:
 > 
 > In logic, appeal to consequences refers only to arguments that assert a conclusion's truth value (true or false) without regard to the formal preservation of the truth from the premises; appeal to consequences does not refer to arguments that address a premise's consequential desirability (good or bad, or right or wrong) instead of its truth value. Therefore, an argument based on appeal to consequences is valid in long-term decision making (which discusses possibilities that do not exist yet in the present) and abstract ethics, and in fact such arguments are the cornerstones of many moral theories, particularly related to consequentialism. Appeal to consequences also should not be confused with argumentum ad baculum, which is the bringing up of 'artificial' consequences (i.e. punishments) to argue that an action is wrong.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Appeal%20to%20consequences)  
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Appeal%20to%20consequences) 
 
 
 ## Confidential Links & Embeds: 
@@ -99,3 +97,4 @@ dv_has_:
 ### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Appeal_Fallacy/Appeal_to_Consequences.personal|Appeal_to_Consequences.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Appeal_Fallacy/Appeal_to_Consequences.secret|Appeal_to_Consequences.secret]] 
+

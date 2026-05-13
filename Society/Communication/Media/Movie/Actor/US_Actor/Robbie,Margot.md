@@ -61,9 +61,7 @@ aliases:
 > Outside the entertainment industry, 
 > Robbie is an advocate for human rights, women's rights, gender equality and LGBT rights.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Margot%20Robbie)  
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Margot%20Robbie) 
 
 
 ## Confidential Links & Embeds: 
@@ -81,3 +79,4 @@ aliases:
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Robbie,Margot.personal|Robbie,Margot.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Robbie,Margot.secret|Robbie,Margot.secret]] 
+

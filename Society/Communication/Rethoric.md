@@ -224,9 +224,7 @@ dv_has_:
 > 
 > From Ancient Greece to the late 19th century, rhetoric played a central role in Western education and Islamic education in training orators, lawyers, counsellors, historians, statesmen, and poets.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Rhetoric)  
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Rhetoric) 
 
 
 ## Confidential Links & Embeds: 
@@ -244,3 +242,4 @@ dv_has_:
 ### #is_/same_as :: [[/_personal/Society/Communication/Rethoric.personal|Rethoric.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Rethoric.secret|Rethoric.secret]] 
+

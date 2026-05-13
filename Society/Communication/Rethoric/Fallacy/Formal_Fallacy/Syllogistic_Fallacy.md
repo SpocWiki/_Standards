@@ -12,8 +12,7 @@ In simple syllogistic patterns, the fallacies of invalid patterns are:
 - [Illicit treatment of the minor term](https://en.wikipedia.org/wiki/Illicit_minor "Illicit minor"): Same as above, but for the minor term (S – meaning the proposition is universal) and minor premise (where S is either a particular subject or an affirmative predicate).
 - [Exclusive premises](https://en.wikipedia.org/wiki/Fallacy_of_exclusive_premises "Fallacy of exclusive premises"): Both premises are negative, meaning no link is established between the major and minor terms.
 - [Affirmative conclusion from a negative premise](https://en.wikipedia.org/wiki/Affirmative_conclusion_from_a_negative_premise "Affirmative conclusion from a negative premise"): If either premise is negative, the conclusion must also be.
-- [Negative conclusion from affirmative premises](https://en.wikipedia.org/wiki/Negative_conclusion_from_affirmative_premises "Negative conclusion from affirmative premises"): If both premises are affirmative, the conclusion must also be.
- 
+- [Negative conclusion from affirmative premises](https://en.wikipedia.org/wiki/Negative_conclusion_from_affirmative_premises "Negative conclusion from affirmative premises"): If both premises are affirmative, the conclusion must also be. 
 
 
 ## Confidential Links & Embeds: 
@@ -31,3 +30,4 @@ In simple syllogistic patterns, the fallacies of invalid patterns are:
 ### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy/Formal_Fallacy/Syllogistic_Fallacy.personal|Syllogistic_Fallacy.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy/Formal_Fallacy/Syllogistic_Fallacy.secret|Syllogistic_Fallacy.secret]] 
+

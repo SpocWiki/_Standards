@@ -158,11 +158,6 @@ dv_has_:
 > [Wikipedia](https://en.wikipedia.org/wiki/Financial%20economics) 
 
 
-
-
- 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Financial_Economy|Financial_Economy]] 
@@ -178,3 +173,4 @@ dv_has_:
 ### #is_/same_as :: [[/_personal/Society/Economics/Industry/Financial_Economy.personal|Financial_Economy.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Economics/Industry/Financial_Economy.secret|Financial_Economy.secret]] 
+

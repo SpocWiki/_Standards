@@ -466,3 +466,4 @@ A red herring fallacy, one of the main subtypes of fallacies of relevance, is an
 ### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy.personal|Fallacy.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy.secret|Fallacy.secret]] 
+

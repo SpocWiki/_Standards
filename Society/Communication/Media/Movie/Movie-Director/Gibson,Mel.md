@@ -137,9 +137,7 @@ booru_tag: mel_gibson
 > 
 > After several legal issues and controversial statements leaked to the public, Gibson's popularity in Hollywood declined, affecting his career. He subsequently starred in Edge of Darkness (2010) and Jodie Foster's The Beaver (2011). His directorial comeback after an absence of 10 years, Hacksaw Ridge (2016), won two Academy Awards.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mel%20Gibson)  
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Mel%20Gibson) 
 
 
 ## Confidential Links & Embeds: 
@@ -157,3 +155,4 @@ booru_tag: mel_gibson
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Gibson,Mel.personal|Gibson,Mel.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Gibson,Mel.secret|Gibson,Mel.secret]] 
+

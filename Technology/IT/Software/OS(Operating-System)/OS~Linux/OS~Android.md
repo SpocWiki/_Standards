@@ -237,7 +237,6 @@ Lemmy_instance_URL: https://lemdro.id
 Different than other Apps, Google's Services run in privileged Mode on Android. 
 They don't ask the User for Permissions for most Operations. 
 [[GrapheneOS]] exchanges the Kernel to restrict this. 
- 
 
 
 ## Confidential Links & Embeds: 
@@ -255,3 +254,4 @@ They don't ask the User for Permissions for most Operations.
 ### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System)/OS~Linux/OS~Android.personal|OS~Android.personal]] 
 
 ### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/OS~Linux/OS~Android.secret|OS~Android.secret]] 
+

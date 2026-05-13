@@ -282,10 +282,7 @@ official_name: European Recovery Program
 > The phrase "equivalent of the Marshall Plan" is 
 > often used to describe a proposed large-scale economic rescue program.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Marshall%20Plan)
-
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Marshall%20Plan) 
 
 
 ## Confidential Links & Embeds: 
@@ -303,3 +300,4 @@ official_name: European Recovery Program
 ### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/WWII-Reconstruction/Marshall-Plan.personal|Marshall-Plan.personal]] 
 
 ### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/WWII-Reconstruction/Marshall-Plan.secret|Marshall-Plan.secret]] 
+

@@ -41,9 +41,6 @@ Commons_category: Hanged Man (Major Arcana)
 - body politic 
 
 
- 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~12~Hanged_Man|Tarot~12~Hanged_Man]] 
@@ -59,3 +56,4 @@ Commons_category: Hanged Man (Major Arcana)
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~12~Hanged_Man.personal|Tarot~12~Hanged_Man.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~12~Hanged_Man.secret|Tarot~12~Hanged_Man.secret]] 
+

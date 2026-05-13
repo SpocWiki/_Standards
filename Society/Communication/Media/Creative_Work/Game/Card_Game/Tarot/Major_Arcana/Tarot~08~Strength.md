@@ -52,8 +52,6 @@ Commons_category: Strength (Major Arcana)
 - discord, 
 - sometimes even disgrace 
 
- 
-
 
 ## Confidential Links & Embeds: 
 
@@ -70,3 +68,4 @@ Commons_category: Strength (Major Arcana)
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~08~Strength.personal|Tarot~08~Strength.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~08~Strength.secret|Tarot~08~Strength.secret]] 
+

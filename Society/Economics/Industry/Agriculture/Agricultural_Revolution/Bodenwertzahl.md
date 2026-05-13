@@ -84,11 +84,7 @@ da auch klimatische Bedingungen eine Rolle spielen.
 Diese Bodenwertzahlen sind vor allem für Landwirte 
 und in der Bodenbewertung (z. B. beim Kauf oder Pachten von Flächen) relevant. 
 Sie ermöglichen es, die Ertragsfähigkeit eines Bodens einzuschätzen 
-und damit auch potenzielle landwirtschaftliche Erträge zu planen.
-
-
-
- 
+und damit auch potenzielle landwirtschaftliche Erträge zu planen. 
 
 
 ## Confidential Links & Embeds: 
@@ -106,3 +102,4 @@ und damit auch potenzielle landwirtschaftliche Erträge zu planen.
 ### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Agricultural_Revolution/Bodenwertzahl.personal|Bodenwertzahl.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Agricultural_Revolution/Bodenwertzahl.secret|Bodenwertzahl.secret]] 
+

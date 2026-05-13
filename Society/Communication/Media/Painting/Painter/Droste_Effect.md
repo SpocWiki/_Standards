@@ -45,11 +45,7 @@ Artist --creates--> Picture
 > 
 > The effect has been widely used on the covers of comic books, mainly in the 1940s.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Droste%20effect)  
-
-
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Droste%20effect) 
 
 
 ## Confidential Links & Embeds: 
@@ -67,3 +63,4 @@ Artist --creates--> Picture
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Droste_Effect.personal|Droste_Effect.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Droste_Effect.secret|Droste_Effect.secret]] 
+

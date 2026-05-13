@@ -38,10 +38,7 @@ Commons_category: Supervolcanoes
 > The Oruanui eruption of New Zealand's Taupō Volcano (about 25,600 years ago) 
 > was the world's most recent VEI-8 eruption.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Supervolcano)  
-
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Supervolcano) 
 
 
 ## Confidential Links & Embeds: 
@@ -59,3 +56,4 @@ Commons_category: Supervolcanoes
 ### #is_/same_as :: [[/_personal/Society/Disaster/Natural_Disaster/Volcano_Eruption/Supervolcano.personal|Supervolcano.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Disaster/Natural_Disaster/Volcano_Eruption/Supervolcano.secret|Supervolcano.secret]] 
+

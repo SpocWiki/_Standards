@@ -28,9 +28,7 @@ aliases:
 > 
 > Russell has also acted in several franchises, portraying Mr. Nobody in three films of the Fast & Furious franchise from 2015 to 2021, Ego in the Marvel Cinematic Universe (MCU) installments Guardians of the Galaxy Vol. 2 (2017) and What If...? (2021), and Santa Claus in the Netflix films The Christmas Chronicles (2018) and The Christmas Chronicles 2 (2020).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Kurt%20Russell)  
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Kurt%20Russell) 
 
 
 ## Confidential Links & Embeds: 
@@ -48,3 +46,4 @@ aliases:
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Kurt Russell.personal|Kurt Russell.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Kurt Russell.secret|Kurt Russell.secret]] 
+

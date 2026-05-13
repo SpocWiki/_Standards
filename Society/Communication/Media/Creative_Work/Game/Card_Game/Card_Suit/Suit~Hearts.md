@@ -42,10 +42,7 @@ Unicode_character: ♥
 > In Swiss-suited playing cards, the equivalent suit is Roses, 
 > typically with the following suit symbol: .
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Hearts%20(suit))  
-
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Hearts%20(suit)) 
 
 
 ## Confidential Links & Embeds: 
@@ -63,3 +60,4 @@ Unicode_character: ♥
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit/Suit~Hearts.personal|Suit~Hearts.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit/Suit~Hearts.secret|Suit~Hearts.secret]] 
+

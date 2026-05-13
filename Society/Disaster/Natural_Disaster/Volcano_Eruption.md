@@ -13,12 +13,7 @@ the last one 25_000 years ago in New-Zealand
 > 
 > Within these broad eruptive types are several subtypes. The weakest are Hawaiian and submarine, then Strombolian, followed by Vulcanian and Surtseyan. The stronger eruptive types are Pelean eruptions, followed by Plinian eruptions; the strongest eruptions are called ultra-Plinian. Subglacial and phreatic eruptions are defined by their eruptive mechanism, and vary in strength. An important measure of eruptive strength is the Volcanic Explosivity Index, an order-of-magnitude scale, ranging from 0 to 8, that often correlates to eruptive types.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Volcanic%20eruption)  
-
-
-
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Volcanic%20eruption) 
 
 
 ## Confidential Links & Embeds: 
@@ -36,3 +31,4 @@ the last one 25_000 years ago in New-Zealand
 ### #is_/same_as :: [[/_personal/Society/Disaster/Natural_Disaster/Volcano_Eruption.personal|Volcano_Eruption.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Disaster/Natural_Disaster/Volcano_Eruption.secret|Volcano_Eruption.secret]] 
+

@@ -39,8 +39,6 @@ booru_tag:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/T-shirt) 
 
- 
-
 
 ## Confidential Links & Embeds: 
 
@@ -57,3 +55,4 @@ booru_tag:
 ### #is_/same_as :: [[/_personal/Technology/Tool/Clothing/T-Shirt.personal|T-Shirt.personal]] 
 
 ### #is_/same_as :: [[/_secret/Technology/Tool/Clothing/T-Shirt.secret|T-Shirt.secret]] 
+

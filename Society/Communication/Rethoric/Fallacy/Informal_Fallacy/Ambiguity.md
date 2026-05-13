@@ -175,9 +175,7 @@ dv_has_:
 > but the boundaries are fuzzy, 
 > so it is difficult to specify the meaning at the desired level of **precision**.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ambiguity)  
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Ambiguity) 
 
 
 ## Confidential Links & Embeds: 
@@ -195,3 +193,4 @@ dv_has_:
 ### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Ambiguity.personal|Ambiguity.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Ambiguity.secret|Ambiguity.secret]] 
+

@@ -307,9 +307,7 @@ over-synchronising at the CPU level costs nanoseconds that compound into millise
 
 The correct approach is to 
 - identify the **minimum synchronisation contract** required for each shared resource and 
-- apply the lightest-weight mechanism sufficient to satisfy it.
-
- 
+- apply the lightest-weight mechanism sufficient to satisfy it. 
 
 
 ## Confidential Links & Embeds: 
@@ -327,3 +325,4 @@ The correct approach is to
 ### #is_/same_as :: [[/_personal/Technology/IT/Computer_Science/SW-Synchronisation.personal|SW-Synchronisation.personal]] 
 
 ### #is_/same_as :: [[/_secret/Technology/IT/Computer_Science/SW-Synchronisation.secret|SW-Synchronisation.secret]] 
+

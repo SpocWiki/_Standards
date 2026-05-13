@@ -266,9 +266,7 @@ dv_has_:
 > The company's [[SpaceX/Falcon_9|Falcon_9]] rockets have landed and flown again more than 300 times. 
 > As of June 2024, SpaceX has around US$200 billion valuation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/SpaceX)
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/SpaceX) 
 
 
 ## Confidential Links & Embeds: 
@@ -286,3 +284,4 @@ dv_has_:
 ### #is_/same_as :: [[/_personal/Technology/Spaceflight/SpaceX.personal|SpaceX.personal]] 
 
 ### #is_/same_as :: [[/_secret/Technology/Spaceflight/SpaceX.secret|SpaceX.secret]] 
+

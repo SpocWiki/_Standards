@@ -105,9 +105,7 @@ IMDb_keyword: nuclear-power-plant
 > comparable to solar and wind power plants in terms of 
 > deaths from accidents and air pollution per terawatt-hour of electricity.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Nuclear%20power%20plant)  
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Nuclear%20power%20plant) 
 
 
 ## Confidential Links & Embeds: 
@@ -125,3 +123,4 @@ IMDb_keyword: nuclear-power-plant
 ### #is_/same_as :: [[/_personal/Technology/Engine/Heat_Engine/Nuclear_Power_Plant.personal|Nuclear_Power_Plant.personal]] 
 
 ### #is_/same_as :: [[/_secret/Technology/Engine/Heat_Engine/Nuclear_Power_Plant.secret|Nuclear_Power_Plant.secret]] 
+

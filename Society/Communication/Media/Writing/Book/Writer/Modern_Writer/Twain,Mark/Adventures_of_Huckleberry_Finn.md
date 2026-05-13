@@ -114,9 +114,7 @@ first_line: You don’t know about me without you have read a book by the name o
 > criticism of the book continued due to both its perceived use of racial stereotypes 
 > and its frequent use of the racial slur "nigger".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Adventures%20of%20Huckleberry%20Finn)  
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Adventures%20of%20Huckleberry%20Finn) 
 
 
 ## Confidential Links & Embeds: 
@@ -134,3 +132,4 @@ first_line: You don’t know about me without you have read a book by the name o
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Twain,Mark/Adventures_of_Huckleberry_Finn.personal|Adventures_of_Huckleberry_Finn.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Twain,Mark/Adventures_of_Huckleberry_Finn.secret|Adventures_of_Huckleberry_Finn.secret]] 
+

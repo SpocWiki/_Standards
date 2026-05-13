@@ -39,10 +39,7 @@ Commons_category: Star (Major Arcana)
 
 - arrogance, 
 - haughtiness, 
-- impotence
-
-
- 
+- impotence 
 
 
 ## Confidential Links & Embeds: 
@@ -60,3 +57,4 @@ Commons_category: Star (Major Arcana)
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~17~Star.personal|Tarot~17~Star.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~17~Star.secret|Tarot~17~Star.secret]] 
+

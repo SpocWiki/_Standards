@@ -69,9 +69,7 @@ Instagram_username: stefansagmeister
 > 
 > From 2011 until 2019 he partnered with Jessica Walsh under the name Sagmeister & Walsh Inc.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Stefan%20Sagmeister)  
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Stefan%20Sagmeister) 
 
 
 ## Confidential Links & Embeds: 
@@ -89,3 +87,4 @@ Instagram_username: stefansagmeister
 ### #is_/same_as :: [[/_personal/Technology/Design/Graphic_Design/Sagmeister,Stefan.personal|Sagmeister,Stefan.personal]] 
 
 ### #is_/same_as :: [[/_secret/Technology/Design/Graphic_Design/Sagmeister,Stefan.secret|Sagmeister,Stefan.secret]] 
+

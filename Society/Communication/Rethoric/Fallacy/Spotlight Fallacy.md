@@ -75,10 +75,7 @@ dv_has_:
 > Ascertainment bias has basically the same definition, 
 > but is still sometimes classified as a separate type of bias.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sampling%20bias)
-
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Sampling%20bias) 
 
 
 ## Confidential Links & Embeds: 
@@ -96,3 +93,4 @@ dv_has_:
 ### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy/Spotlight Fallacy.personal|Spotlight Fallacy.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy/Spotlight Fallacy.secret|Spotlight Fallacy.secret]] 
+

@@ -36,9 +36,7 @@ Commons_category: Hermit (Major Arcana)
 - disguise, 
 - policy, 
 - fear, 
-- unreasoned caution
-
- 
+- unreasoned caution 
 
 
 ## Confidential Links & Embeds: 
@@ -56,3 +54,4 @@ Commons_category: Hermit (Major Arcana)
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~09~Hermit.personal|Tarot~09~Hermit.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~09~Hermit.secret|Tarot~09~Hermit.secret]] 
+

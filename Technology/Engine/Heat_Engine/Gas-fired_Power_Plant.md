@@ -42,9 +42,7 @@ OpenStreetMap_tag:
 > Most analysts don't think natural gas turbines will be successfully 
 > converted to hydrogen as part of the energy transition, becoming a stranded asset.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Gas-fired%20power%20plant)  
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Gas-fired%20power%20plant) 
 
 
 ## Confidential Links & Embeds: 
@@ -62,3 +60,4 @@ OpenStreetMap_tag:
 ### #is_/same_as :: [[/_personal/Technology/Engine/Heat_Engine/Gas-fired_Power_Plant.personal|Gas-fired_Power_Plant.personal]] 
 
 ### #is_/same_as :: [[/_secret/Technology/Engine/Heat_Engine/Gas-fired_Power_Plant.secret|Gas-fired_Power_Plant.secret]] 
+

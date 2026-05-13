@@ -49,11 +49,6 @@
 
 ## Cards 
 
- 
-
-
- 
-
 
 ## Confidential Links & Embeds: 
 
@@ -70,3 +65,4 @@
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana.personal|Major_Arcana.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana.secret|Major_Arcana.secret]] 
+

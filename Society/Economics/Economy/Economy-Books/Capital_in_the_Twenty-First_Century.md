@@ -102,11 +102,7 @@ aliases:
 > The book was adapted into a feature documentary film, 
 > directed by New Zealand filmmaker Justin Pemberton,  and released in 2020.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Capital%20in%20the%20Twenty-First%20Century)
-
-
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Capital%20in%20the%20Twenty-First%20Century) 
 
 
 ## Confidential Links & Embeds: 
@@ -124,3 +120,4 @@ aliases:
 ### #is_/same_as :: [[/_personal/Society/Economics/Economy/Economy-Books/Capital_in_the_Twenty-First_Century.personal|Capital_in_the_Twenty-First_Century.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Economics/Economy/Economy-Books/Capital_in_the_Twenty-First_Century.secret|Capital_in_the_Twenty-First_Century.secret]] 
+

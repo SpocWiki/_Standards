@@ -96,8 +96,6 @@ dv_has_:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Genetic%20fallacy) 
 
- 
-
 
 ## Confidential Links & Embeds: 
 
@@ -114,3 +112,4 @@ dv_has_:
 ### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Genetic_Fallacy.personal|Genetic_Fallacy.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Genetic_Fallacy.secret|Genetic_Fallacy.secret]] 
+

@@ -30,9 +30,6 @@ dv_has_:
 > [Wikipedia](https://en.wikipedia.org/wiki/Travis%20Pickin') 
 
 
- 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar/Travis_Picking|Travis_Picking]] 
@@ -48,3 +45,4 @@ dv_has_:
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar/Travis_Picking.personal|Travis_Picking.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Guitar/Travis_Picking.secret|Travis_Picking.secret]] 
+

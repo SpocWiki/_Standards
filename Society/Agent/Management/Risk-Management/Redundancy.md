@@ -36,9 +36,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Redundancy%20(engineering)) 
 
 
- 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Agent/Management/Risk-Management/Redundancy|Redundancy]] 
@@ -54,3 +51,4 @@
 ### #is_/same_as :: [[/_personal/Society/Agent/Management/Risk-Management/Redundancy.personal|Redundancy.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Agent/Management/Risk-Management/Redundancy.secret|Redundancy.secret]] 
+

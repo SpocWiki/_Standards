@@ -144,10 +144,7 @@ end_of_work_period: 2018-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Burt%20Reynolds)  
 
-He was the Role-Model for Brad Pitts Stuntman in [[../../Movie-Director/Tarantino,Quentin/Once_Upon_a_Time_in_Hollywood|Once_Upon_a_Time_in_Hollywood]]
-
-
- 
+He was the Role-Model for Brad Pitts Stuntman in [[../../Movie-Director/Tarantino,Quentin/Once_Upon_a_Time_in_Hollywood|Once_Upon_a_Time_in_Hollywood]] 
 
 
 ## Confidential Links & Embeds: 
@@ -165,3 +162,4 @@ He was the Role-Model for Brad Pitts Stuntman in [[../../Movie-Director/Tarantin
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Reynolds,Burt.personal|Reynolds,Burt.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Reynolds,Burt.secret|Reynolds,Burt.secret]] 
+

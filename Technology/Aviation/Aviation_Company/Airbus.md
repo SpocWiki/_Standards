@@ -279,9 +279,7 @@ is_same_as = `=this.dv_is_same_as`
 > 
 > Airbus's headquarters are legally registered in Leiden, Netherlands, while day-to-day management is conducted from the company's main office in Blagnac, France. The SE in its name denotes Societas Europaea, a public company under European Union corporate law. Airbus is led by CEO Guillaume Faury and is included in the EURO STOXX 50 stock market index. Since its inception in 2000, the company's shares have been listed on the Paris, Frankfurt, and four Spanish stock exchanges, including the Bolsa de Madrid.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Airbus)  
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Airbus) 
 
 
 ## Confidential Links & Embeds: 
@@ -299,3 +297,4 @@ is_same_as = `=this.dv_is_same_as`
 ### #is_/same_as :: [[/_personal/Technology/Aviation/Aviation_Company/Airbus.personal|Airbus.personal]] 
 
 ### #is_/same_as :: [[/_secret/Technology/Aviation/Aviation_Company/Airbus.secret|Airbus.secret]] 
+

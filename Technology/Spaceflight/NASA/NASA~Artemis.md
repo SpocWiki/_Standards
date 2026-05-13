@@ -166,12 +166,7 @@ dv_has_:
 >
 > Orion's first launch on the Space Launch System was originally set in 2016, but faced numerous delays; it launched on 16 November 2022 as the Artemis I mission, with robots and mannequins aboard. According to plan, the crewed Artemis II launch is expected to take place in late 2025, the Artemis III crewed lunar landing is scheduled for late 2026, the Artemis IV docking with the Lunar Gateway is planned for late 2028, the Artemis V docking with the European Space Agency's ESPRIT, Canada's Canadarm3, and NASA's Lunar Terrain Vehicle is planned for early 2030, and the Artemis VI docking which is expected to integrate the Crew and Science Airlock with the Lunar Gateway station is planned for early 2031. After Artemis VI, NASA plans yearly landings on the Moon from then on. However, the NASA Inspector General has called the schedules unrealistic.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Artemis%20program)
-
-
-
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Artemis%20program) 
 
 
 ## Confidential Links & Embeds: 
@@ -189,3 +184,4 @@ dv_has_:
 ### #is_/same_as :: [[/_personal/Technology/Spaceflight/NASA/NASA~Artemis.personal|NASA~Artemis.personal]] 
 
 ### #is_/same_as :: [[/_secret/Technology/Spaceflight/NASA/NASA~Artemis.secret|NASA~Artemis.secret]] 
+

@@ -52,7 +52,6 @@ Commons_category: Magician (Major Arcana)
   spiritual rebirth into a hidden eighth celestial realm. 
 - Said infinity symbol above the Magician's head is also interpreted as 
   a symbol of the [Holy Spirit](https://en.wikipedia.org/wiki/Holy_Spirit "Holy Spirit"), the prophetic and [theophanic](https://en.wikipedia.org/wiki/Theophany "Theophany") aspect of the [Trinity](https://en.wikipedia.org/wiki/Trinity "Trinity") 
- 
 
 
 ## Confidential Links & Embeds: 
@@ -70,3 +69,4 @@ Commons_category: Magician (Major Arcana)
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~01~Magician.personal|Tarot~01~Magician.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~01~Magician.secret|Tarot~01~Magician.secret]] 
+

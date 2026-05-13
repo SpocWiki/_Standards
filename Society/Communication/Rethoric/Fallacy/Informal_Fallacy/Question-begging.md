@@ -36,9 +36,7 @@ instance_of: "[[_Standards/WikiData/WD~type_of_fallacy,130993199]]"
 > 
 > In modern times, "beg the question" has taken on the common meaning of "strongly prompt the question", a usage distinct from the study of logic. This usage is criticized for diluting the original meaning of the phrase.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Begging%20the%20question)  
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Begging%20the%20question) 
 
 
 ## Confidential Links & Embeds: 
@@ -56,3 +54,4 @@ instance_of: "[[_Standards/WikiData/WD~type_of_fallacy,130993199]]"
 ### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Question-begging.personal|Question-begging.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Question-begging.secret|Question-begging.secret]] 
+

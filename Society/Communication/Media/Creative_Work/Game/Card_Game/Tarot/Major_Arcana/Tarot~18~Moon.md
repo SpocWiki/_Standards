@@ -40,8 +40,7 @@ Commons_category: Moon (Major Arcana)
 - Instability, 
 - inconstancy, 
 - silence, 
-- lesser degrees of deception and error
- 
+- lesser degrees of deception and error 
 
 
 ## Confidential Links & Embeds: 
@@ -59,3 +58,4 @@ Commons_category: Moon (Major Arcana)
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~18~Moon.personal|Tarot~18~Moon.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~18~Moon.secret|Tarot~18~Moon.secret]] 
+

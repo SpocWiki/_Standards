@@ -28,9 +28,7 @@ has_id_wikidata: Q23638
 > 
 > The Klein bottle was first described in 1882 by the mathematician Felix Klein.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Klein%20bottle)  
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Klein%20bottle) 
 
 
 ## Confidential Links & Embeds: 
@@ -48,3 +46,4 @@ has_id_wikidata: Q23638
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Klein_Bottle.personal|Klein_Bottle.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Klein_Bottle.secret|Klein_Bottle.secret]] 
+

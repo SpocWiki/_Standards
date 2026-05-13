@@ -17,3 +17,4 @@
 ### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy/Formal_Fallacy/propositional_Fallacy.personal|propositional_Fallacy.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy/Formal_Fallacy/propositional_Fallacy.secret|propositional_Fallacy.secret]] 
+

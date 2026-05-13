@@ -110,9 +110,7 @@ dv_has_:
 > 
 > The study of fallacies aims at providing an account for evaluating and criticizing arguments. This involves both a descriptive account of what constitutes an argument and a normative account of which arguments are good or bad. In philosophy, fallacies are usually seen as a form of bad argument and are discussed as such in this article. Another conception, more common in non-scholarly discourse, sees fallacies not as arguments but rather as false yet popular beliefs.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Informal%20fallacy)  
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Informal%20fallacy) 
 
 
 ## Confidential Links & Embeds: 
@@ -130,3 +128,4 @@ dv_has_:
 ### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy.personal|Informal_Fallacy.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy/Informal_Fallacy.secret|Informal_Fallacy.secret]] 
+

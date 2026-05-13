@@ -146,11 +146,6 @@ dv_has_:
 > [Wikipedia](https://en.wikipedia.org/wiki/Emergency%20management) 
 
 
-
-
- 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Agent/Management/Risk-Management/Emergency_Management|Emergency_Management]] 
@@ -166,3 +161,4 @@ dv_has_:
 ### #is_/same_as :: [[/_personal/Society/Agent/Management/Risk-Management/Emergency_Management.personal|Emergency_Management.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Agent/Management/Risk-Management/Emergency_Management.secret|Emergency_Management.secret]] 
+

@@ -46,8 +46,7 @@ It is a card in particular of unforeseen catastrophe.
 - According to one account, the same in a lesser degree; 
 - oppression, 
 - imprisonment, 
-- tyranny
- 
+- tyranny 
 
 
 ## Confidential Links & Embeds: 
@@ -65,3 +64,4 @@ It is a card in particular of unforeseen catastrophe.
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~16~Tower.personal|Tarot~16~Tower.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~16~Tower.secret|Tarot~16~Tower.secret]] 
+

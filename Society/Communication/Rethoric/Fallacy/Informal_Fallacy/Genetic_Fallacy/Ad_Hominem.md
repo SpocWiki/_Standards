@@ -132,9 +132,6 @@ except for maybe mocking or saying 'bla, bla, bla'.
 > [Wikipedia](https://en.wikipedia.org/wiki/Ad%20hominem) 
 
 
- 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Genetic_Fallacy/Ad_Hominem|Ad_Hominem]] 
@@ -150,3 +147,4 @@ except for maybe mocking or saying 'bla, bla, bla'.
 ### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Genetic_Fallacy/Ad_Hominem.personal|Ad_Hominem.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Genetic_Fallacy/Ad_Hominem.secret|Ad_Hominem.secret]] 
+

@@ -41,10 +41,7 @@ Unicode_character: ♦
 > and French cardmakers may have decided 
 > to drop the details and straighten out the sides.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Diamonds%20(suit))  
-
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Diamonds%20(suit)) 
 
 
 ## Confidential Links & Embeds: 
@@ -62,3 +59,4 @@ Unicode_character: ♦
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit/Suit~Diamonds.personal|Suit~Diamonds.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit/Suit~Diamonds.secret|Suit~Diamonds.secret]] 
+

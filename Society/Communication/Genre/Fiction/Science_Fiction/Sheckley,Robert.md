@@ -74,9 +74,7 @@ official_website: https://sheckley.com
 > Nominated for Hugo and Nebula Awards, Sheckley was named Author Emeritus 
 > by the Science Fiction and Fantasy Writers of America in 2001.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Sheckley)  
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Sheckley) 
 
 
 ## Confidential Links & Embeds: 
@@ -94,3 +92,4 @@ official_website: https://sheckley.com
 ### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Science_Fiction/Sheckley,Robert.personal|Sheckley,Robert.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Science_Fiction/Sheckley,Robert.secret|Sheckley,Robert.secret]] 
+

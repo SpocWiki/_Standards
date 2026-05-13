@@ -83,9 +83,7 @@ dv_has_:
 > 
 > Appeals to emotion are intended to cause the recipient of the information to experience feelings such as fear, pity, or joy, with the end goal of convincing the person that the statements being presented by the fallacious argument are true or false, respectively.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Appeal%20to%20emotion)  
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Appeal%20to%20emotion) 
 
 
 ## Confidential Links & Embeds: 
@@ -103,3 +101,4 @@ dv_has_:
 ### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Appeal_Fallacy/Appeal_to_Emotion.personal|Appeal_to_Emotion.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Appeal_Fallacy/Appeal_to_Emotion.secret|Appeal_to_Emotion.secret]] 
+

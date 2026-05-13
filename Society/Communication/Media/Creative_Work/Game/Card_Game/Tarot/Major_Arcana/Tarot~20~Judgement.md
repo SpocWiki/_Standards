@@ -36,9 +36,7 @@ Commons_category: Judgement (Major Arcana)
 - simplicity; 
 - deliberation, 
 - decision, 
-- sentence
-
- 
+- sentence 
 
 
 ## Confidential Links & Embeds: 
@@ -56,3 +54,4 @@ Commons_category: Judgement (Major Arcana)
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~20~Judgement.personal|Tarot~20~Judgement.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~20~Judgement.secret|Tarot~20~Judgement.secret]] 
+

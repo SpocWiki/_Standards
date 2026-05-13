@@ -119,12 +119,7 @@ dv_has_:
 >
 > Several versions of Falcon 9 have been built and flown: v1.0 flew from 2010 to 2013, v1.1 flew from 2013 to 2016, while v1.2 Full Thrust first launched in 2015, encompassing the Block 5 variant, which has been in operation since May 2018.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Falcon%209)
-
-
-
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Falcon%209) 
 
 
 ## Confidential Links & Embeds: 
@@ -142,3 +137,4 @@ dv_has_:
 ### #is_/same_as :: [[/_personal/Technology/Spaceflight/SpaceX/Falcon_9.personal|Falcon_9.personal]] 
 
 ### #is_/same_as :: [[/_secret/Technology/Spaceflight/SpaceX/Falcon_9.secret|Falcon_9.secret]] 
+

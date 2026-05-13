@@ -358,9 +358,7 @@ Without frequency agreement, sender and receiver timing drift apart over time.
 
 ### Excess EMI and Power Loss  
 
-Unsynchronised or badly phased switching causes unnecessary transients and interference.  
-
- 
+Unsynchronised or badly phased switching causes unnecessary transients and interference. 
 
 
 ## Confidential Links & Embeds: 
@@ -378,3 +376,4 @@ Unsynchronised or badly phased switching causes unnecessary transients and inter
 ### #is_/same_as :: [[/_personal/Technology/IT/Computer_Science/Physical_Synchronisation.personal|Physical_Synchronisation.personal]] 
 
 ### #is_/same_as :: [[/_secret/Technology/IT/Computer_Science/Physical_Synchronisation.secret|Physical_Synchronisation.secret]] 
+

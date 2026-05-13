@@ -27,9 +27,7 @@ aliases:
 > He is best known for his composition of the Radetzky March 
 > (named after Joseph Radetzky von Radetz).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Johann%20Strauss%20I)  
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Johann%20Strauss%20I) 
 
 
 ## Confidential Links & Embeds: 
@@ -47,3 +45,4 @@ aliases:
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Strauss,Johann_I.personal|Strauss,Johann_I.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Strauss,Johann_I.secret|Strauss,Johann_I.secret]] 
+

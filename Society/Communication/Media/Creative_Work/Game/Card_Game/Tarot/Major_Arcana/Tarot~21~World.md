@@ -42,8 +42,7 @@ Commons_category: The World (Major Arcana)
 - Inertia, 
 - fixity, 
 - stagnation, 
-- permanence
- 
+- permanence 
 
 
 ## Confidential Links & Embeds: 
@@ -61,3 +60,4 @@ Commons_category: The World (Major Arcana)
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~21~World.personal|Tarot~21~World.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~21~World.secret|Tarot~21~World.secret]] 
+

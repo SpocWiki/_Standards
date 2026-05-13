@@ -39,10 +39,7 @@ that which is predestined but is not for this reason evil.
 - Evil fatality, 
 - weakness, 
 - pettiness, 
-- blindness
-
-
- 
+- blindness 
 
 
 ## Confidential Links & Embeds: 
@@ -60,3 +57,4 @@ that which is predestined but is not for this reason evil.
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~15~Devil.personal|Tarot~15~Devil.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~15~Devil.secret|Tarot~15~Devil.secret]] 
+

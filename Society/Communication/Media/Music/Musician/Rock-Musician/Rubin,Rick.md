@@ -153,8 +153,6 @@ dv_has_:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rick%20Rubin) 
 
- 
-
 
 ## Confidential Links & Embeds: 
 
@@ -171,3 +169,4 @@ dv_has_:
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Rock-Musician/Rubin,Rick.personal|Rubin,Rick.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Rock-Musician/Rubin,Rick.secret|Rubin,Rick.secret]] 
+

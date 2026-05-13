@@ -46,8 +46,7 @@ Saturation Attacks are the only way to break the ever more sophisticated Defense
 
 The Problems are
 - barrel erosion, allowing for only a few shots 
-- Charging and Wiring  
- 
+- Charging and Wiring 
 
 
 ## Confidential Links & Embeds: 
@@ -65,3 +64,4 @@ The Problems are
 ### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Artillery/Railgun.personal|Railgun.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Artillery/Railgun.secret|Railgun.secret]] 
+

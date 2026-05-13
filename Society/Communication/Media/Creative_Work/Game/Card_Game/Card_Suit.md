@@ -44,11 +44,7 @@
 > Tarot card packs have a set of distinct picture cards (the [[Tarot/Major_Arcana|Major_Arcana]]) 
 > alongside the traditional four suits.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Playing%20card%20suit)  
-
-
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Playing%20card%20suit) 
 
 
 ## Confidential Links & Embeds: 
@@ -66,3 +62,4 @@
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit.personal|Card_Suit.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit.secret|Card_Suit.secret]] 
+

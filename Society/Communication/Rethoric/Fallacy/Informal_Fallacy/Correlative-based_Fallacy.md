@@ -30,10 +30,7 @@ subclass_of: "[[_Standards/WikiData/WD~informal_fallacy,3312438]]"
 
 > In philosophy, correlative-based fallacies are informal fallacies based on correlative conjunctions.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Correlative-based%20fallacies)  
-
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Correlative-based%20fallacies) 
 
 
 ## Confidential Links & Embeds: 
@@ -51,3 +48,4 @@ subclass_of: "[[_Standards/WikiData/WD~informal_fallacy,3312438]]"
 ### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Correlative-based_Fallacy.personal|Correlative-based_Fallacy.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Correlative-based_Fallacy.secret|Correlative-based_Fallacy.secret]] 
+

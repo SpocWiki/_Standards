@@ -87,9 +87,7 @@ dv_has_:
 > large sums are fraudulently accumulated by repeated transfers 
 > of imperceptibly small sums of money.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Salami%20slicing%20tactics)  
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Salami%20slicing%20tactics) 
 
 
 ## Confidential Links & Embeds: 
@@ -107,3 +105,4 @@ dv_has_:
 ### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Military_Strategy/Military_Tactics/Salami_slicing_Tactics.personal|Salami_slicing_Tactics.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Military_Strategy/Military_Tactics/Salami_slicing_Tactics.secret|Salami_slicing_Tactics.secret]] 
+

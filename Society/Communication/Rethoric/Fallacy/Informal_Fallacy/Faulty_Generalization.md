@@ -83,11 +83,7 @@ dv_has_:
 > 
 > Expressed in more precise philosophical language, a fallacy of defective induction is a conclusion that has been made on the basis of weak premises, or one which is not justified by sufficient or unbiased evidence. Unlike fallacies of relevance, in fallacies of defective induction, the premises are related to the conclusions, yet only weakly buttress the conclusions, hence a faulty generalization is produced. The essence of this inductive fallacy lies on the overestimation of an argument based on insufficiently large samples under an implied margin of error.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Faulty%20generalization)  
-
-
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Faulty%20generalization) 
 
 
 ## Confidential Links & Embeds: 
@@ -105,3 +101,4 @@ dv_has_:
 ### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Faulty_Generalization.personal|Faulty_Generalization.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Fallacy/Informal_Fallacy/Faulty_Generalization.secret|Faulty_Generalization.secret]] 
+

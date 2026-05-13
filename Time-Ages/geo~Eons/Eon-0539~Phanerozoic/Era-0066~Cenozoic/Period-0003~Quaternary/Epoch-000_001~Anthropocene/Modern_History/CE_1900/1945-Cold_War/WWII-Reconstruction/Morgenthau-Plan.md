@@ -146,3 +146,4 @@ Commons_category: Morgenthau Plan
 ### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/WWII-Reconstruction/Morgenthau-Plan.personal|Morgenthau-Plan.personal]] 
 
 ### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War/WWII-Reconstruction/Morgenthau-Plan.secret|Morgenthau-Plan.secret]] 
+

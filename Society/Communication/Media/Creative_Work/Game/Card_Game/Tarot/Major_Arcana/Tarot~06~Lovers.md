@@ -38,7 +38,6 @@ Commons_category: Lovers (Major Arcana)
 - foolish designs. 
 - Another account speaks of marriage frustrated 
   and contrarieties of all kinds 
- 
 
 
 ## Confidential Links & Embeds: 
@@ -56,3 +55,4 @@ Commons_category: Lovers (Major Arcana)
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~06~Lovers.personal|Tarot~06~Lovers.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~06~Lovers.secret|Tarot~06~Lovers.secret]] 
+

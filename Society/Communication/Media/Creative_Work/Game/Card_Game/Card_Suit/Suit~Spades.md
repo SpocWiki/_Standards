@@ -36,10 +36,7 @@ Unicode_character: ♠
 > In bridge, spades rank as the highest suit. 
 > In skat and similar games, it is the second-highest suit.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Spades%20(suit))  
-
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Spades%20(suit)) 
 
 
 ## Confidential Links & Embeds: 
@@ -57,3 +54,4 @@ Unicode_character: ♠
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit/Suit~Spades.personal|Suit~Spades.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Card_Suit/Suit~Spades.secret|Suit~Spades.secret]] 
+

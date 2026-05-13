@@ -33,9 +33,7 @@ subreddit: antiMLM
 > 
 > According to a study of 350 MLM companies in the United States, at least 99% of recruits lose money. Nonetheless, MLM companies function because downline participants are encouraged to hold onto the belief that they can achieve large returns, while the statistical improbability of this is de-emphasized. MLM companies have been made illegal or otherwise strictly regulated in some jurisdictions as merely variations of the traditional pyramid scheme.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Multi-level%20marketing)  
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Multi-level%20marketing) 
 
 
 ## Confidential Links & Embeds: 
@@ -53,3 +51,4 @@ subreddit: antiMLM
 ### #is_/same_as :: [[/_personal/Society/Law/Criminal_Law/Crime/Fraud/MLM(Multi-Level_Marketing).personal|MLM(Multi-Level_Marketing).personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Law/Criminal_Law/Crime/Fraud/MLM(Multi-Level_Marketing).secret|MLM(Multi-Level_Marketing).secret]] 
+

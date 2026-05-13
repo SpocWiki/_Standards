@@ -40,9 +40,7 @@ When drawn upright, The Sun signifies
 - delayed success 
 - its overall positive nature suggests that 
 	- any challenges are transient and 
-	- can be overcome with persistence.
-
- 
+	- can be overcome with persistence. 
 
 
 ## Confidential Links & Embeds: 
@@ -60,3 +58,4 @@ When drawn upright, The Sun signifies
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~19~Sun.personal|Tarot~19~Sun.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~19~Sun.secret|Tarot~19~Sun.secret]] 
+

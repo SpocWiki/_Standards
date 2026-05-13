@@ -155,9 +155,7 @@ name_in_native_language: Robert Rodriguez
 > 
 > In December 2013, Rodriguez launched his own cable television channel, El Rey.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Rodriguez)  
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Rodriguez) 
 
 
 ## Confidential Links & Embeds: 
@@ -175,3 +173,4 @@ name_in_native_language: Robert Rodriguez
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Rodriguez,Robert.personal|Rodriguez,Robert.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Rodriguez,Robert.secret|Rodriguez,Robert.secret]] 
+

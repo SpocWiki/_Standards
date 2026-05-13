@@ -139,12 +139,7 @@ aliases:
 > They are also designed to autonomously 
 > and smoothly avoid collisions based on uplinked tracking data.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Starlink)
-
-
-
-
- 
+> [Wikipedia](https://en.wikipedia.org/wiki/Starlink) 
 
 
 ## Confidential Links & Embeds: 
@@ -162,3 +157,4 @@ aliases:
 ### #is_/same_as :: [[/_personal/Technology/Spaceflight/SpaceX/Starlink.personal|Starlink.personal]] 
 
 ### #is_/same_as :: [[/_secret/Technology/Spaceflight/SpaceX/Starlink.secret|Starlink.secret]] 
+

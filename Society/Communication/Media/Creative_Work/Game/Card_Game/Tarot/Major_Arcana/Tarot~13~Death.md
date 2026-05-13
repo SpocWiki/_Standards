@@ -49,8 +49,6 @@ Commons_category: Death (Major Arcana)
 - somnambulism; 
 - hope destroyed 
 
- 
-
 
 ## Confidential Links & Embeds: 
 
@@ -67,3 +65,4 @@ Commons_category: Death (Major Arcana)
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~13~Death.personal|Tarot~13~Death.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Tarot/Major_Arcana/Tarot~13~Death.secret|Tarot~13~Death.secret]] 
+

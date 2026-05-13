@@ -10,9 +10,6 @@ due to network effects
 First Mover Advantage 
 
 
- 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Technology/Technology_Strategy|Technology_Strategy]] 
@@ -28,3 +25,4 @@ First Mover Advantage
 ### #is_/same_as :: [[/_personal/Technology/Technology_Strategy.personal|Technology_Strategy.personal]] 
 
 ### #is_/same_as :: [[/_secret/Technology/Technology_Strategy.secret|Technology_Strategy.secret]] 
+

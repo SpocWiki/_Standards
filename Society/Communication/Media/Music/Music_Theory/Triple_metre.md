@@ -21,9 +21,6 @@ The uneven ratio between 2 Feet and 3 Quarters creates a "Breathing"
 that makes the Music feel more alive than the "mechanical" 2/4 or 4/4 Time. 
 
 
- 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Theory/Triple_metre|Triple_metre]] 
@@ -39,3 +36,4 @@ that makes the Music feel more alive than the "mechanical" 2/4 or 4/4 Time.
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Theory/Triple_metre.personal|Triple_metre.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Theory/Triple_metre.secret|Triple_metre.secret]] 
+

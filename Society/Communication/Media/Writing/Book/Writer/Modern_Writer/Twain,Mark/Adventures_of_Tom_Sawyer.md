@@ -93,8 +93,6 @@ Wolfram_Language_entity_code: Entity["Book", "AdventuresOfTomSawyer"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Adventures%20of%20Tom%20Sawyer) 
 
- 
-
 
 ## Confidential Links & Embeds: 
 
@@ -111,3 +109,4 @@ Wolfram_Language_entity_code: Entity["Book", "AdventuresOfTomSawyer"]
 ### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Twain,Mark/Adventures_of_Tom_Sawyer.personal|Adventures_of_Tom_Sawyer.personal]] 
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Twain,Mark/Adventures_of_Tom_Sawyer.secret|Adventures_of_Tom_Sawyer.secret]] 
+
