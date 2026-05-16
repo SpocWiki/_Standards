@@ -3,6 +3,7 @@ aliases:
   - South Europe
   - Southern Europe
   - Europe~South
+  - S. Europe
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~South|Europe~South]]"

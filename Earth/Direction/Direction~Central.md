@@ -6,7 +6,7 @@ dv_has_:
       Arab: الوسطى
 dv_is_:
   same_as:
-    - "[[/_Standards/Earth/2D-Directions/Direction~Central|Direction~Central]]"
+    - "[[Direction~Central|Direction~Central]]"
     - "[[/_public/Earth/2D-Directions/Direction~Central.public|Direction~Central.public]]"
     - "[[/_internal/Earth/2D-Directions/Direction~Central.internal|Direction~Central.internal]]"
     - "[[/_protect/Earth/2D-Directions/Direction~Central.protect|Direction~Central.protect]]"
@@ -16,7 +16,7 @@ dv_is_:
 dv_has_name_ar_latn: Al Wusta
 dv_has_name_ar_arab: الوسطى
 dv_is_same_as:
-  - "[[/_Standards/Earth/2D-Directions/Direction~Central|Direction~Central]]"
+  - "[[Direction~Central|Direction~Central]]"
   - "[[/_public/Earth/2D-Directions/Direction~Central.public|Direction~Central.public]]"
   - "[[/_internal/Earth/2D-Directions/Direction~Central.internal|Direction~Central.internal]]"
   - "[[/_protect/Earth/2D-Directions/Direction~Central.protect|Direction~Central.protect]]"
@@ -25,8 +25,11 @@ dv_is_same_as:
   - "[[/_secret/Earth/2D-Directions/Direction~Central.secret|Direction~Central.secret]]"
 ---
 
+# [[Direction~Central]] 
 
-has_name_ar_latn = `=this.dv_has_name_ar_latn`
+This is the neutral Element, expressing no direction at all and is part of any Dimensionality, even 1D. 
+
+has_name_ar_latn = `=this.dv_has_name_ar_latn` 
 has_name_ar_arab = `=this.dv_has_name_ar_arab`
 
 
@@ -40,7 +43,7 @@ has_name_ar_arab = `=this.dv_has_name_ar_arab`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/2D-Directions/Direction~Central|Direction~Central]] 
+### #is_/same_as :: [[Direction~Central|Direction~Central]] 
 
 ### #is_/same_as :: [[/_public/Earth/2D-Directions/Direction~Central.public|Direction~Central.public]] 
 

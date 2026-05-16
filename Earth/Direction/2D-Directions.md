@@ -1,160 +1,160 @@
 ---
 aliases:
-- 2D-Directions
-- afarta jiho
-- almmiguovllut
-- anët e horizontit
-- Arah Mata Angin
-- busolal direktione
-- cardinal direction
-- Cardinal_direction
-- cwate costés del daegne
-- debespuse
-- desa naualu
-- direction cardinal
-- dixa
-- dunyo tomonlari
-- fő égtáj
-- glavna smer neba
-- Haupthimmelsrichtung
-- Hemelswaier
-- Hemmelsreshtung
-- himmelretning
-- Himmelsrichtung
-- hlavní světová strana
-- hong-ūi
-- höfuðátt
-- høvuðsætt
-- hướng chính
-- jangka
-- kadinol daireksion
-- kardinal na direksyon
-- kardinala punti
-- kompasdirektoj
-- kompasretning
-- lala nangi
-- majehab
-- mamuntukan a nangan
-- manpoled
-- mata angin
-- mato angin
-- mato lo dupoto
-- mwelekeo mkuu wa dira
-- nzila ya busole
-- pasaulio kryptis
-- pevar avel
-- point cardinal
-- poka suno
-- ponto cardeal
-- ponto cardenałe
-- puncte cardinale
-- punt cardinal
-- punto cardinal
-- punto cardinale
-- punto kardinal
-- puntu cardinal
-- puntu cardinali
-- puntu kardinal
-- pwen kadinal
-- pääilmansuunta
-- pónti cardinâli
-- põhiilmakaared
-- regiones caeli
-- strana svijeta
-- strane sveta
-- strane svijeta
-- strony świata
-- svetová strana
-- tawantin iñu
-- vazan-tany
-- väderstreck
-- windrigtings
-- windstreek
-- Wynstreek
-- yön
-- ìtọ́sọ́nà
-- əsas səmtlər
-- σημεία του ορίζοντα
-- бок сьвету
-- географска посока
-- донъя тарафтары
-- дунялалъул рахъал
-- дуьненан агӏонаш
-- дүйнө жактары
-- дөнья яклары
-- зүг чигийн бэлгэдэл
-- кірункі свету
-- көкжиек тұстары
-- сторона світу
-- сторона света
-- сторона свѣта
-- страна на светот
-- страна света
-- сүрүн хайысхалар
-- экуьнин патар
-- רוחות השמיים
-- ئاراستە جوگرافییەکان
-- اتجاه سماوي
-- جهتیابی
-- سمت
-- مات اڠين
-- وۀروهجارک
-- پاسا
-- दाहिना
-- दिशा
-- मू दिशा
-- ଦିଗ
-- நேர்திசை
-- ದಿಕ್ಕು
-- ದಿಕ್ಕ್
-- จุดทิศหลัก
-- ဒိုဟ်
-- ჰორიზონტის მხარეები
-- ទិស
-- ⵉⵎⵏⵉⴷⵏ ⵉⴷ ⴽⴽⵓⵥ
-- 四方
-- 方位
-- 方向
-- 罗盘方位
-- 羅盤方位
-- 방위
+  - 2D-Directions
+  - afarta jiho
+  - almmiguovllut
+  - anët e horizontit
+  - Arah Mata Angin
+  - busolal direktione
+  - cardinal direction
+  - Cardinal_direction
+  - cwate costés del daegne
+  - debespuse
+  - desa naualu
+  - direction cardinal
+  - dixa
+  - dunyo tomonlari
+  - fő égtáj
+  - glavna smer neba
+  - Haupthimmelsrichtung
+  - Hemelswaier
+  - Hemmelsreshtung
+  - himmelretning
+  - Himmelsrichtung
+  - hlavní světová strana
+  - hong-ūi
+  - höfuðátt
+  - høvuðsætt
+  - hướng chính
+  - jangka
+  - kadinol daireksion
+  - kardinal na direksyon
+  - kardinala punti
+  - kompasdirektoj
+  - kompasretning
+  - lala nangi
+  - majehab
+  - mamuntukan a nangan
+  - manpoled
+  - mata angin
+  - mato angin
+  - mato lo dupoto
+  - mwelekeo mkuu wa dira
+  - nzila ya busole
+  - pasaulio kryptis
+  - pevar avel
+  - point cardinal
+  - poka suno
+  - ponto cardeal
+  - ponto cardenałe
+  - puncte cardinale
+  - punt cardinal
+  - punto cardinal
+  - punto cardinale
+  - punto kardinal
+  - puntu cardinal
+  - puntu cardinali
+  - puntu kardinal
+  - pwen kadinal
+  - pääilmansuunta
+  - pónti cardinâli
+  - põhiilmakaared
+  - regiones caeli
+  - strana svijeta
+  - strane sveta
+  - strane svijeta
+  - strony świata
+  - svetová strana
+  - tawantin iñu
+  - vazan-tany
+  - väderstreck
+  - windrigtings
+  - windstreek
+  - Wynstreek
+  - yön
+  - ìtọ́sọ́nà
+  - əsas səmtlər
+  - σημεία του ορίζοντα
+  - бок сьвету
+  - географска посока
+  - донъя тарафтары
+  - дунялалъул рахъал
+  - дуьненан агӏонаш
+  - дүйнө жактары
+  - дөнья яклары
+  - зүг чигийн бэлгэдэл
+  - кірункі свету
+  - көкжиек тұстары
+  - сторона світу
+  - сторона света
+  - сторона свѣта
+  - страна на светот
+  - страна света
+  - сүрүн хайысхалар
+  - экуьнин патар
+  - רוחות השמיים
+  - ئاراستە جوگرافییەکان
+  - اتجاه سماوي
+  - جهتیابی
+  - سمت
+  - مات اڠين
+  - وۀروهجارک
+  - پاسا
+  - दाहिना
+  - दिशा
+  - मू दिशा
+  - ଦିଗ
+  - நேர்திசை
+  - ದಿಕ್ಕು
+  - ದಿಕ್ಕ್
+  - จุดทิศหลัก
+  - ဒိုဟ်
+  - ჰორიზონტის მხარეები
+  - ទិស
+  - ⵉⵎⵏⵉⴷⵏ ⵉⴷ ⴽⴽⵓⵥ
+  - 四方
+  - 方位
+  - 方向
+  - 罗盘方位
+  - 羅盤方位
+  - 방위
 has_id_wikidata: Q23718
-has_use: '[[_Standards/WikiData/WD~navigation,102066|WD~navigation,102066]]'
-opposite_of: '[[_Standards/WikiData/WD~intercardinal_direction,10351538|WD~intercardinal_direction,10351538]]'
+has_use: "[[_Standards/WikiData/WD~navigation,102066|WD~navigation,102066]]"
+opposite_of: "[[_Standards/WikiData/WD~intercardinal_direction,10351538|WD~intercardinal_direction,10351538]]"
 different_from:
-- '[[_Standards/WikiData/WD~points_of_the_compass,11114344|WD~points_of_the_compass,11114344]]'
-- '[[_Standards/WikiData/WD~supplementary_intercardinal_direction,22809326|WD~supplementary_intercardinal_direction,22809326]]'
-subclass_of: '[[_Standards/WikiData/WD~geographic_direction,13179187|WD~geographic_direction,13179187]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25681577,25681577|WD~Q25681577,25681577]]'
-instance_of: '[[_Standards/WikiData/WD~tetrad,29428373|WD~tetrad,29428373]]'
+  - "[[_Standards/WikiData/WD~points_of_the_compass,11114344|WD~points_of_the_compass,11114344]]"
+  - "[[_Standards/WikiData/WD~supplementary_intercardinal_direction,22809326|WD~supplementary_intercardinal_direction,22809326]]"
+subclass_of: "[[_Standards/WikiData/WD~geographic_direction,13179187|WD~geographic_direction,13179187]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q25681577,25681577|WD~Q25681577,25681577]]"
+instance_of: "[[_Standards/WikiData/WD~tetrad,29428373|WD~tetrad,29428373]]"
 Wikidata_property: direction relative to location
-studied_by: '[[_Standards/WikiData/WD~geography,1071|WD~geography,1071]]'
+studied_by: "[[_Standards/WikiData/WD~geography,1071|WD~geography,1071]]"
 Iconclass_notation: 25A14
 image:
-- http://commons.wikimedia.org/wiki/Special:FilePath/Compass%20Rose%20de%20small%20N.svg
-- http://commons.wikimedia.org/wiki/Special:FilePath/CompassRose%20%28mul%29%2016%20blue%20cardinal.svg
-- http://commons.wikimedia.org/wiki/Special:FilePath/Simple%20compass%20rose.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Compass%20Rose%20de%20small%20N.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/CompassRose%20%28mul%29%2016%20blue%20cardinal.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Simple%20compass%20rose.svg
 P8189: 987007283478205200
 Commons_category: Cardinal direction
 dv_is_:
   same_as:
-  - '[[../WikiData/WD~Cardinal_direction,23718|WD~Cardinal_direction,23718]]'
-  - '[[/_Standards/Earth/2D-Directions|2D-Directions]]'
-  - '[[/_public/Earth/2D-Directions.public|2D-Directions.public]]'
-  - '[[/_internal/Earth/2D-Directions.internal|2D-Directions.internal]]'
-  - '[[/_protect/Earth/2D-Directions.protect|2D-Directions.protect]]'
-  - '[[/_private/Earth/2D-Directions.private|2D-Directions.private]]'
-  - '[[/_personal/Earth/2D-Directions.personal|2D-Directions.personal]]'
-  - '[[/_secret/Earth/2D-Directions.secret|2D-Directions.secret]]'
+    - "[[../../WikiData/WD~Cardinal_direction,23718|WD~Cardinal_direction,23718]]"
+    - "[[2D-Directions|Directions]]"
+    - "[[/_public/Earth/2D-Directions.public|2D-Directions.public]]"
+    - "[[/_internal/Earth/2D-Directions.internal|2D-Directions.internal]]"
+    - "[[/_protect/Earth/2D-Directions.protect|2D-Directions.protect]]"
+    - "[[/_private/Earth/2D-Directions.private|2D-Directions.private]]"
+    - "[[/_personal/Earth/2D-Directions.personal|2D-Directions.personal]]"
+    - "[[/_secret/Earth/2D-Directions.secret|2D-Directions.secret]]"
 dv_is_same_as:
-- '[[../WikiData/WD~Cardinal_direction,23718|WD~Cardinal_direction,23718]]'
-- '[[/_Standards/Earth/2D-Directions|2D-Directions]]'
-- '[[/_public/Earth/2D-Directions.public|2D-Directions.public]]'
-- '[[/_internal/Earth/2D-Directions.internal|2D-Directions.internal]]'
-- '[[/_protect/Earth/2D-Directions.protect|2D-Directions.protect]]'
-- '[[/_private/Earth/2D-Directions.private|2D-Directions.private]]'
-- '[[/_personal/Earth/2D-Directions.personal|2D-Directions.personal]]'
-- '[[/_secret/Earth/2D-Directions.secret|2D-Directions.secret]]'
+  - "[[../../WikiData/WD~Cardinal_direction,23718|WD~Cardinal_direction,23718]]"
+  - "[[2D-Directions|Directions]]"
+  - "[[/_public/Earth/2D-Directions.public|2D-Directions.public]]"
+  - "[[/_internal/Earth/2D-Directions.internal|2D-Directions.internal]]"
+  - "[[/_protect/Earth/2D-Directions.protect|2D-Directions.protect]]"
+  - "[[/_private/Earth/2D-Directions.private|2D-Directions.private]]"
+  - "[[/_personal/Earth/2D-Directions.personal|2D-Directions.personal]]"
+  - "[[/_secret/Earth/2D-Directions.secret|2D-Directions.secret]]"
 dv_has_:
   name_:
     af: windrigtings
@@ -298,18 +298,37 @@ dv_has_:
 
 # [[2D-Directions]] 
 
-#is_/same_as :: [[../WikiData/WD~Cardinal_direction,23718|WD~Cardinal_direction,23718]] 
+#is_/same_as :: [[../../WikiData/WD~Cardinal_direction,23718|WD~Cardinal_direction,23718]] 
+
+These emphasize a Circular Model of 4 cardinal Directions with a 5th No-Direction: the Center. 
+```
+  S
+  |
+W-C-E
+  |
+  S
+```
+
+```
+  S Z
+  |/
+W-C-E
+ /|
+N S
+```
+
+
 
 ## #has_/text_of_/abstract 
 
-> The four cardinal directions or cardinal points 
+> The four **cardinal directions** or cardinal points 
 > are the four main compass directions and corresponding azimuths (clockwise horizontal angle from north): 
 > - north (N) = 0°, 
 > - east (E) = 90°, 
 > - south (S) = 180°, and 
 > - west (W) = 270°. 
 > 
-> The four ordinal directions or intercardinal directions are 
+> The four **ordinal directions** or intercardinal directions are 
 > - northeast (NE) = 45°, 
 > - southeast (SE) = 135°, 
 > - southwest (SW) = 225°, and 
@@ -335,7 +354,7 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/2D-Directions|2D-Directions]] 
+### #is_/same_as :: [[2D-Directions|Directions]] 
 
 ### #is_/same_as :: [[/_public/Earth/2D-Directions.public|2D-Directions.public]] 
 

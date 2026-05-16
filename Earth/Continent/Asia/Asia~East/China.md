@@ -1789,6 +1789,9 @@ Language-Id = `=this.dv_Language-Id`
 has_place_longitude = `=this.dv_has_place_longitude`
 has_place_latitude = `=this.dv_has_place_latitude`
 
+## Chinese Economy 
+
+in 2026 more than 900 million Chinese live below 10$ per day. 
 
 ## Chinese_Space-Travel  
 

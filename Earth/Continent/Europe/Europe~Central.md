@@ -2,6 +2,7 @@
 aliases:
   - Central Europe
   - Europe~Central
+  - C. Europe
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~Central|Europe~Central]]"

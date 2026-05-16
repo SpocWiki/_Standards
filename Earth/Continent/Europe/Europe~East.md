@@ -22,6 +22,7 @@ location:
 - 49.0
 - 31.0
 aliases:
+- E. Europe
 - Akindaya nga Europa
 - Apáìlàoòrùn Europe
 - Aslagang Europa

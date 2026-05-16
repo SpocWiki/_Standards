@@ -1,84 +1,84 @@
 ---
 aliases:
-- buaic
-- cenit
-- Cénit
-- Druim an t-saoghail
-- Hangaran
-- Hvirfilpunktur
-- nadglavišče
-- Nhial ciɛlic
-- Seniit
-- Senit
-- Taluktok
-- Thiên đỉnh
-- Zeni
-- Zeniitti
-- zenit
-- Zenitas
-- zenith
-- zenito
-- Zenīts
-- zénite
-- zénith
-- zênite
-- Ζενίθ
-- Зеніт
-- зенит
-- зэніт
-- Огторгойн орой
-- Զենիթ
-- זניט
-- سرسو
-- سمت الرأس
-- سمت الراس
-- शिरोबिंदु
-- সুবিন্দু
-- வான் உச்சி
-- ശീർഷബിന്ദു
-- จุดจอมฟ้า
-- ზენიტი
-- 天頂
-- 天顶
-- 천정
+  - buaic
+  - cenit
+  - Cénit
+  - Druim an t-saoghail
+  - Hangaran
+  - Hvirfilpunktur
+  - nadglavišče
+  - Nhial ciɛlic
+  - Seniit
+  - Senit
+  - Taluktok
+  - Thiên đỉnh
+  - Zeni
+  - Zeniitti
+  - zenit
+  - Zenitas
+  - zenith
+  - zenito
+  - Zenīts
+  - zénite
+  - zénith
+  - zênite
+  - Ζενίθ
+  - Зеніт
+  - зенит
+  - зэніт
+  - Огторгойн орой
+  - Զենիթ
+  - זניט
+  - سرسو
+  - سمت الرأس
+  - سمت الراس
+  - शिरोबिंदु
+  - সুবিন্দু
+  - வான் உச்சி
+  - ശീർഷബിന്ദു
+  - จุดจอมฟ้า
+  - ზენიტი
+  - 天頂
+  - 天顶
+  - 천정
 has_id_wikidata: Q82806
-opposite_of: '[[_Standards/WikiData/WD~nadir,145825|WD~nadir,145825]]'
-instance_of: '[[_Standards/WikiData/WD~vertical_direction,182167|WD~vertical_direction,182167]]'
+opposite_of: "[[_Standards/WikiData/WD~nadir,145825|WD~nadir,145825]]"
+instance_of: "[[_Standards/WikiData/WD~vertical_direction,182167|WD~vertical_direction,182167]]"
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-part_of: '[[_Standards/WikiData/WD~celestial_sphere,12134|WD~celestial_sphere,12134]]'
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+part_of: "[[_Standards/WikiData/WD~celestial_sphere,12134|WD~celestial_sphere,12134]]"
 OmegaWiki_Defined_Meaning: 673658
 image:
-- http://commons.wikimedia.org/wiki/Special:FilePath/Equinox-NO-Zenit-Nadir.jpg
-- http://commons.wikimedia.org/wiki/Special:FilePath/Hemisferio%20celeste.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Equinox-NO-Zenit-Nadir.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Hemisferio%20celeste.svg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Q82806-ar.ogg
 Commons_category: Zenith (topography)
 dv_is_:
-  opposite_of: '[[Nadir]]'
+  opposite_of: "[[3D-Directions/Nadir]]"
   same_as:
-  - '[[../../WikiData/WD~Zenith,82806|WD~Zenith,82806]]'
-  - '[[/_Standards/Earth/2D-Directions/Zenith|Zenith]]'
-  - '[[/_public/Earth/2D-Directions/Zenith.public|Zenith.public]]'
-  - '[[/_internal/Earth/2D-Directions/Zenith.internal|Zenith.internal]]'
-  - '[[/_protect/Earth/2D-Directions/Zenith.protect|Zenith.protect]]'
-  - '[[/_private/Earth/2D-Directions/Zenith.private|Zenith.private]]'
-  - '[[/_personal/Earth/2D-Directions/Zenith.personal|Zenith.personal]]'
-  - '[[/_secret/Earth/2D-Directions/Zenith.secret|Zenith.secret]]'
-dv_is_opposite_of: '[[Nadir]]'
+    - "[[../../../../WikiData/WD~Zenith,82806|WD~Zenith,82806]]"
+    - "[[Zenith|Zenith]]"
+    - "[[/_public/Earth/2D-Directions/Zenith.public|Zenith.public]]"
+    - "[[/_internal/Earth/2D-Directions/Zenith.internal|Zenith.internal]]"
+    - "[[/_protect/Earth/2D-Directions/Zenith.protect|Zenith.protect]]"
+    - "[[/_private/Earth/2D-Directions/Zenith.private|Zenith.private]]"
+    - "[[/_personal/Earth/2D-Directions/Zenith.personal|Zenith.personal]]"
+    - "[[/_secret/Earth/2D-Directions/Zenith.secret|Zenith.secret]]"
+dv_is_opposite_of: "[[3D-Directions/Nadir]]"
 dv_is_same_as:
-- '[[../../WikiData/WD~Zenith,82806|WD~Zenith,82806]]'
-- '[[/_Standards/Earth/2D-Directions/Zenith|Zenith]]'
-- '[[/_public/Earth/2D-Directions/Zenith.public|Zenith.public]]'
-- '[[/_internal/Earth/2D-Directions/Zenith.internal|Zenith.internal]]'
-- '[[/_protect/Earth/2D-Directions/Zenith.protect|Zenith.protect]]'
-- '[[/_private/Earth/2D-Directions/Zenith.private|Zenith.private]]'
-- '[[/_personal/Earth/2D-Directions/Zenith.personal|Zenith.personal]]'
-- '[[/_secret/Earth/2D-Directions/Zenith.secret|Zenith.secret]]'
+  - "[[../../../../WikiData/WD~Zenith,82806|WD~Zenith,82806]]"
+  - "[[Zenith|Zenith]]"
+  - "[[/_public/Earth/2D-Directions/Zenith.public|Zenith.public]]"
+  - "[[/_internal/Earth/2D-Directions/Zenith.internal|Zenith.internal]]"
+  - "[[/_protect/Earth/2D-Directions/Zenith.protect|Zenith.protect]]"
+  - "[[/_private/Earth/2D-Directions/Zenith.private|Zenith.private]]"
+  - "[[/_personal/Earth/2D-Directions/Zenith.personal|Zenith.personal]]"
+  - "[[/_secret/Earth/2D-Directions/Zenith.secret|Zenith.secret]]"
 dv_has_:
   name_:
     af: Senit
@@ -193,7 +193,7 @@ is_opposite_of = `=this.dv_is_opposite_of`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/2D-Directions/Zenith|Zenith]] 
+### #is_/same_as :: [[Zenith|Zenith]] 
 
 ### #is_/same_as :: [[/_public/Earth/2D-Directions/Zenith.public|Zenith.public]] 
 

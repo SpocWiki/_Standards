@@ -3,6 +3,7 @@ aliases:
   - West Europe
   - Western Europe
   - Europe~West
+  - W. Europe
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~West|Europe~West]]"

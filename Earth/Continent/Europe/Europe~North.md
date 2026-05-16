@@ -3,6 +3,7 @@ aliases:
   - North Europe
   - Northern Europe
   - Europe~North
+  - N. Europe
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/Europe~North|Europe~North]]"
