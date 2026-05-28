@@ -1073,4 +1073,5 @@ has_place_latitude = `=this.dv_has_place_latitude`
 ### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Nepal.personal|Nepal.personal]] 
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Nepal.secret|Nepal.secret]] 
+
 Nepal
