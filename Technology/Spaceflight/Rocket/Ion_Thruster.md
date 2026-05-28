@@ -147,7 +147,7 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Technology/Spaceflight/Ion_Thruster|Ion_Thruster]] 
+### #is_/same_as :: [[Ion_Thruster|Ion_Thruster]] 
 
 ### #is_/same_as :: [[/_public/Technology/Spaceflight/Ion_Thruster.public|Ion_Thruster.public]] 
 

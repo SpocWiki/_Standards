@@ -157,12 +157,14 @@ dv_has_:
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Functional_programming,193076|WD~Functional_programming,193076]]  
 
-Pure Functions create Programs without Side-Effects. 
+**Pure Functions** create Programs without Side-Effects. 
+**Immutable Structures** enforce such a Style. 
+
 Additionally these __always return the same Result__
 given the same Parameters, because the Result depends solely on the Inputs, 
 Ambient State is neither referenced nor modified. 
 
-This allows for good Reasoning over a Program 
+This allows for **good Reasoning** over a Program 
 and prevents unexpected Side-Effects. 
 
 For Code-Evolution Functional Programming needs to also use Interfaces to enable [[../../../../IT/Programming/Patterns/Patterns~Java.2/Patterns~GRASP/Pattern~Polymorphism|Pattern~Polymorphism]]. 

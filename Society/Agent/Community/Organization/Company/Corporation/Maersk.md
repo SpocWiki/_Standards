@@ -176,6 +176,12 @@ dv_has_:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Maersk) 
 
+2017 Maersk was hit by the [[Petya_Virus]] lanced by Russian Hackers to the Ukrainian Tax Program, 
+which spread by the Odessa Port. 
+
+Maersk was lucky that one of their Servers in Ghana which was offline due to electricity failure, 
+the system could be restored. 
+It cost more than 250M$. 
 
 ## Confidential Links & Embeds: 
 

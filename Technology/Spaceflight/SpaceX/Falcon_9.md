@@ -94,6 +94,8 @@ dv_has_:
 
 # [[Falcon_9]]  
 
+#is_a :: [[../Rocket|Rocket]] 
+
 ## #has_/text_of_/abstract 
 
 > **Falcon 9** is a partially reusable, [[../Human-rating_Certification|Human-rating_Certification]], 

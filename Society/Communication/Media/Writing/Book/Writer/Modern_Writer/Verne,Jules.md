@@ -347,9 +347,9 @@ His Novels were used to educate children on Technology.
 > His collaboration with the publisher Pierre-Jules Hetzel 
 > led to the creation of the Voyages extraordinaires, 
 > a series of bestselling adventure novels including 
-> - Journey to the Center of the Earth (1864), 
-> - Twenty Thousand Leagues Under the Seas (1870), and 
-> - Around the World in Eighty Days (1872). 
+> - [[Verne,Jules/Journey_to_the_Centre_of_the_Earth]] (1864), 
+> - [[Verne,Jules/Twenty_Thousand_Leagues_Under_the_Seas]] (1870), and 
+> - [[Verne,Jules/Around_the_World_in_Eighty_Days|Around_the_World_in_Eighty_Days]] (1872). 
 > 
 > His novels, always well-researched according to the scientific knowledge then available, 
 > are generally set in the second half of the 19th century, 
@@ -371,7 +371,7 @@ His Novels were used to educate children on Technology.
 > Since the 1980s, his literary reputation has improved.
 >
 > **Jules Verne** has been the second most-translated author in the world since 1979, 
-> ranking below Agatha Christie and above [[../Renaissance_Writer/Shakespeare,William|William Shakespeare]].  
+> ranking below [[Agatha Christie]] and above [[../Renaissance_Writer/Shakespeare,William|William Shakespeare]].  
 > He has sometimes been called the "father of science fiction", 
 > a title that has also been given to [[Wells,H.G]] and [[../English_Writer/Gernsback,Hugo|Gernsback,Hugo]]. 
 > 

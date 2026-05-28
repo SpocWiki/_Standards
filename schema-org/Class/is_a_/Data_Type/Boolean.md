@@ -51,7 +51,11 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Class/is_a_/Data_Type/Boolean.secret|Boolean.secret]]"
 ---
 
-Class of all booleans.
+# [[Boolean]] 
+
+Class of all boolean Values.
+Using this Type is often confusing in Method Calls without the Parameter Name. 
+Better create an enum based on [[../../../../Mathematics/Number/Numeral_System/Binary_numeral_System/Byte|Byte]], which takes the same Space but has descriptive Values. 
 
 Tag Instances like this: 
 #is_a_/boolean

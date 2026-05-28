@@ -743,12 +743,18 @@ Befolge bitte die Tipps und Hinweise, damit deine Produkte möglichst lange gut 
 So wäschst du deine EMS Textilien richtig:
 
 - Die EMS Textilien können via Handwäsche oder in der Waschmaschine gereinigt werden.
-- Die Waschmaschine sollte möglichst voll sein. So verhinderst du, dass die Halterung des Boosters gegen die Trommel schlägt.
-- Wähle dazu einen Schonwaschgang mit max. 30° C. Die Maschine sollte bei höchstens 800 Umdrehungen schleudern. DEUTSCH 28 29
-- Verwende beim Waschen keinen Weichspüler. Die Textilien dürfen nicht chemisch gereinigt oder gebleicht werden.
+- Die Waschmaschine sollte möglichst voll sein. 
+  So verhinderst du, dass die Halterung des Boosters gegen die Trommel schlägt.
+- Wähle dazu einen Schonwaschgang mit max. 30° C. 
+  Die Maschine sollte bei höchstens 800 Umdrehungen schleudern. 
+- Verwende beim Waschen keinen Weichspüler. 
+  Die Textilien dürfen nicht chemisch gereinigt oder gebleicht werden.
 - Wasche den Booster auf keinen Fall mit!
 - Verwende das mitgelieferte Wäschenetz, um dein Kleidungsstück zu schützen.
-- Am Wäschenetz sind grüne Waschkappen angebracht. Stülpe diese vor dem Waschen über die USB-C-Stecker. Denk daran, diese nach dem Waschen wieder zu entfernen. Achtung! Die Textilien können abfärben! Nach der Wäsche:
+- Am Wäschenetz sind grüne Waschkappen angebracht. 
+  Stülpe diese vor dem Waschen über die USB-C-Stecker. 
+  Denk daran, diese nach dem Waschen wieder zu entfernen. Achtung! Die Textilien können abfärben! 
+Nach der Wäsche:
 - Du darfst deine Textilien nicht im Wäschetrockner trocknen.
 - Wringe die Textilien nicht aus.
 - Bügele die Textilien nicht.

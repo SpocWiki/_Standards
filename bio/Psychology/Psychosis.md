@@ -249,6 +249,7 @@ dv_has_:
 
 #is_/worse_than :: [[Psychosis/Borderline_Personality_Disorder|Borderline_Personality_Disorder]] 
 #is_/same_as :: [[../../WikiData/WD~Psychosis,170082|WD~Psychosis,170082]] 
+
 ## #has_/text_of_/abstract 
 
 > In psychopathology, **Psychosis** is a condition in which one is 
@@ -284,12 +285,15 @@ dv_has_:
 >
 > Psychosis is not well-understood at the neurological level, 
 > but dopamine (along with other neurotransmitters) is known to play an important role. 
+> 
 > In the United States about 3% of people develop psychosis at some point in their lives. 
+> 
 > Psychosis has been described as early as the 4th century BC by Hippocrates 
 > and possibly as early as 1500 BC in the Ebers Papyrus.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Psychosis) 
 
+#has_/prevalence_/percent :: 3
 
 ## Confidential Links & Embeds: 
 

@@ -224,6 +224,10 @@ dv_has_:
 
 #is_/same_as :: [[_Standards/WikiData/WD~SpaceX,193701|WD~SpaceX,193701]] 
 
+SpaceX  [[SpaceX/Falcon_9|Falcon_9]] reduced the Price per g from 10$ to 1.5$ for Orbit Transport. 
+The [[Starship]] Series is even larger and needs to be built in 1000s 
+to be able to set up a chain to the [[../../Earth/Satellite/Natural_Satellite|Moon]] or [[../../Astronomy/Solar_System/Mars(Planet)|Mars]]. 
+
 ## #has_/text_of_/abstract 
 
 > Space Exploration Technologies Corporation, 

@@ -40,7 +40,7 @@ dv_has_:
 
 ## #has_/text_of_/abstract 
 
-> In social psychology and economics, the **Dictator game** is a popular experimental instrument 
+> In [[../../bio/Psychology/Social_Psychology|social psychology]] and economics, the **Dictator game** is a popular expe[[Ultimatum_Game|rimental instr]]ument 
 > a derivative of the ultimatum game. 
 > 
 > It involves a single decision by the "dictator" player: 

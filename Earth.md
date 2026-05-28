@@ -1,5 +1,6 @@
 ---
 aliases:
+  - global
   - Aarde
   - Aerde
   - Aigba

@@ -239,6 +239,18 @@ dv_has_:
 
 #is_/same_as :: [[../../WikiData/WD~Rocket,41291|WD~Rocket,41291]] 
 
+## Multi-Stage Rockets 
+
+There are subtle Trade-Offs when building a Rocket: 
+- single Stage is simple to build and stable, but carries a lot of [[Dead_Weight]]. 
+- Multi-Stage can get rid of that dead Weight 
+	- ideally it would do this continuously, e.g. by the whole Stage consisting of only [[Solid_Fuel]], but that is not possible 
+	- more stages are less stable and more complex (this can be optimized by Engineering) 
+- Different Stages can be optimized for specific Tasks; 
+	- e.g. Boosters don't need a [[Heat_Shield]] and can therefore be considerably lighter.
+	- additionally, Boosters need a high Thrust to escape Gravity (Hydrogen is not sufficient), 
+	- whereas in Space a high specific impulse is most important (Highest for [[Rocket/Ion_Thruster]], Hydrogen, Lower for RP1, Methane )
+
 ## #has_/text_of_/abstract 
 
 > A **Rocket** (from Italian: rocchetto, lit. ''bobbin/spool'', and so named for its shape) 

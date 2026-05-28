@@ -94,6 +94,8 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Eurythmics) 
 
 
+#see :: [[Lear,Amanda]] 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics|Eurythmics]] 

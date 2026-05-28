@@ -157,6 +157,7 @@ aliases:
 
 # [[Podcast]] 
 
+#is_/same_as :: [[WD~Podcast,20899]]
 
 ## #has_/text_of_/abstract 
 

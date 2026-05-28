@@ -184,10 +184,17 @@ dv_has_:
 ## #has_/text_of_/abstract 
 
 > The Japan Aerospace Exploration Agency (JAXA) (国立研究開発法人宇宙航空研究開発機構, 
-> Kokuritsu-kenkyū-kaihatsu-hōjin Uchū Kōkū Kenkyū Kaihatsu Kikō; lit. 'National Research and Development Agency Aerospace Research and Development Organisation') 
+> Kokuritsu-kenkyū-kaihatsu-hōjin Uchū Kōkū Kenkyū Kaihatsu Kikō; 
+> lit. 'National Research and Development Agency Aerospace Research and Development Organisation') 
 > is the Japanese national air and space agency. 
 > 
-> Through the merger of three previously independent organizations, JAXA was formed on 1 October 2003. JAXA is responsible for research, technology development and launch of satellites into orbit, and is involved in many more advanced missions such as asteroid exploration and possible human exploration of the Moon. Its motto is One JAXA and its corporate slogan is Explore to Realize (formerly Reaching for the skies, exploring space).
+> Through the merger of three previously independent organizations, JAXA was formed on 1 October 2003. 
+> JAXA is responsible for research, technology development and launch of satellites into orbit, 
+> and is involved in many more advanced missions such as asteroid exploration 
+> and possible human exploration of the Moon. 
+> 
+> Its motto is One JAXA and its corporate slogan is Explore to Realize 
+> (formerly Reaching for the skies, exploring space).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/JAXA) 
 

@@ -150,7 +150,7 @@ dv_has_:
 
 # [[Vostok_1]]
 
-#is_/same_as :: [[../../WikiData/WD~Vostok_1,182524|WD~Vostok_1,182524]]  
+#is_/same_as :: [[../../../WikiData/WD~Vostok_1,182524|WD~Vostok_1,182524]]  
 
 ## #has_/text_of_/abstract 
 
@@ -176,7 +176,7 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Technology/Spaceflight/Vostok_1|Vostok_1]] 
+### #is_/same_as :: [[Vostok_1|Vostok_1]] 
 
 ### #is_/same_as :: [[/_public/Technology/Spaceflight/Vostok_1.public|Vostok_1.public]] 
 

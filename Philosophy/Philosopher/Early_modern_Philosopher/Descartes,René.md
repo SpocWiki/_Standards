@@ -421,14 +421,57 @@ dv_has_:
 > Many elements of Descartes's philosophy have precedents in late Aristotelianism, 
 > the revived Stoicism of the 16th century, or in earlier philosophers like Augustine. 
 > 
-> In his natural philosophy, he differed from the schools on two major points. 
-> First, he rejected the splitting of corporeal substance into matter and form; second, he rejected any appeal to final ends, divine or natural, in explaining natural phenomena. In his theology, he insists on the absolute freedom of God's act of creation. Refusing to accept the authority of previous philosophers, Descartes frequently set his views apart from the philosophers who preceded him. In the opening section of the Passions of the Soul, an early modern treatise on emotions, Descartes goes so far as to assert that he will write on this topic "as if no one had written on these matters before." His best known philosophical statement is "cogito, ergo sum" ("I think, therefore I am"; French: Je pense, donc je suis), found in Discourse on the Method (1637, in French and Latin, 1644) and Principles of Philosophy (1644, in Latin, 1647 in French). The statement has either been interpreted as a logical syllogism or as an intuitive thought.
+> In his natural philosophy, he differed from the schools on two major points:
+> 1. he rejected the splitting of corporeal substance into matter and form; 
+> 2. he rejected any appeal to final ends, divine or natural, in explaining natural phenomena. 
+> 
+> In his theology, he insists on the absolute freedom of God's act of creation. 
+> Refusing to accept the authority of previous philosophers, 
+> Descartes frequently set his views apart from the philosophers who preceded him. 
+> In the opening section of the Passions of the Soul, an early modern treatise on emotions, 
+> Descartes goes so far as to assert that he will write on this topic 
+> "as if no one had written on these matters before." 
+> 
+> His best known philosophical statement is "cogito, ergo sum" 
+> ("I think, therefore I am"; French: Je pense, donc je suis), 
+> found in Discourse on the Method (1637, in French and Latin, 1644) 
+> and Principles of Philosophy (1644, in Latin, 1647 in French). 
+> The statement has either been interpreted as a logical syllogism or as an intuitive thought.
 >
-> Descartes has often been called the father of modern philosophy, and is largely seen as responsible for the increased attention given to epistemology in the 17th century. He laid the foundation for 17th-century continental rationalism, later advocated by Spinoza and Leibniz, and was later opposed by the empiricist school of thought consisting of Hobbes, Locke, Berkeley, and Hume. The rise of early modern rationalism—as a systematic school of philosophy in its own right for the first time in history—exerted an influence on modern Western thought in general, with the birth of two rationalistic philosophical systems of Descartes (Cartesianism) and Spinoza (Spinozism). It was the 17th-century arch-rationalists like Descartes, Spinoza, and Leibniz who have given the "Age of Reason" its name and place in history. Leibniz, Spinoza, and Descartes were all well-versed in mathematics as well as philosophy, with Descartes and Leibniz additionally contributing to a variety of scientific disciplines. Although only Leibniz is extensively recognized as a polymath, all three rationalists integrated disparate domains of knowledge into their respective works.
+> Descartes has often been called the father of modern philosophy, and is largely seen as 
+> responsible for the increased attention given to epistemology in the 17th century. 
+> He laid the foundation for 17th-century continental rationalism, later advocated by Spinoza and Leibniz, 
+> and was later opposed by the empiricist school of thought consisting of Hobbes, Locke, Berkeley, and Hume. 
+> 
+> The rise of early modern rationalism—as 
+> a systematic school of philosophy in its own right for the first time in history—
+> exerted an influence on modern Western thought in general, 
+> with the birth of two rationalistic philosophical systems of Descartes (Cartesianism) and Spinoza (Spinozism). 
+> It was the 17th-century arch-rationalists like Descartes, Spinoza, and Leibniz 
+> who have given the "Age of Reason" its name and place in history. 
+> Leibniz, Spinoza, and Descartes were all well-versed in mathematics as well as philosophy, 
+> with Descartes and Leibniz additionally contributing to a variety of scientific disciplines. 
+> Although only Leibniz is extensively recognized as a polymath, 
+> all three rationalists integrated disparate domains of knowledge into their respective works.
 >
-> Descartes's Meditations on First Philosophy (1641) continues to be a standard text at most university philosophy departments. Descartes's influence in mathematics is equally apparent, being the namesake of the Cartesian coordinate system. He is credited as the father of analytic geometry—used in the discovery of infinitesimal calculus and analysis. Descartes was also one of the key figures in the Scientific Revolution.
+> Descartes's Meditations on First Philosophy (1641) 
+> continues to be a standard text at most university philosophy departments. 
+> Descartes's influence in mathematics is equally apparent, 
+> being the namesake of the Cartesian coordinate system. 
+> 
+> He is credited as the father of analytic geometry—
+> used in the discovery of infinitesimal calculus and analysis. 
+> Descartes was also one of the key figures in the Scientific Revolution.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ren%C3%A9%20Descartes) 
+
+## Mathematical Achievements 
+
+### Describes Geometry using Algebra 
+
+This enables to use the more exact algebraic Methods to solve geometric Problems. 
+
+#### [[Problem_of_Apollonius]] 
 
 
 ## Confidential Links & Embeds: 
