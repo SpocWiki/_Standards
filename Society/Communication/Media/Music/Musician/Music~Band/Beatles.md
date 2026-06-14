@@ -287,9 +287,6 @@ dv_has_:
 
 #is_/same_as :: [[../../../../../../WikiData/WD~The_Beatles,1299|WD~The_Beatles,1299]] 
 
-[[Beatles/Sgt.Peppers_lonely_Hearts_Club_Band]] was inspired by the Phrase 
-"Pass me the Salt and Pepper" 
-
 ## #has_/text_of_/abstract  
 
 > **The Beatles** were an English rock band formed in Liverpool in 1960. 

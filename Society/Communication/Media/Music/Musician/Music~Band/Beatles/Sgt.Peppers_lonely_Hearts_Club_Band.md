@@ -79,6 +79,9 @@ non_free_artwork_image_URL: https://i.discogs.com/YWtolca2tNGQwNp3vsBj0nnFU5k0Dg
 
 #is_/same_as :: [[WD~Sgt._Pepper's_Lonely_Hearts_Club_Band,169226]]
 
+[[Beatles/Sgt.Peppers_lonely_Hearts_Club_Band]] was inspired by the Phrase 
+"Pass me the Salt and Pepper" 
+
 ## #has_/text_of_/abstract 
 
 > **Sgt. Pepper's Lonely Hearts Club Band** (often referred to simply as Sgt. Pepper) 
