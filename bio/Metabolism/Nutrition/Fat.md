@@ -258,6 +258,9 @@ dv_has_:
 
 #is_/same_as :: [[../../../WikiData/WD~Fat,127980|WD~Fat,127980]] 
 
+#has_/formula_/sum  :: 
+
+
 Different from [[Carbohydrate]]s, with a formula of Cm(H2O)n 
 Fats have ca. 8 times less Oxygen, and therefore higher Energy Value. 
 
@@ -268,16 +271,43 @@ Fats have ca. 8 times less Oxygen, and therefore higher Energy Value.
 | **Fatty Acid Chains** | Straight chains that pack tightly      | Kinked chains (double bonds) that reduce packing |
 
 
+## #has_/formula_/structural 
+
+```
+ O
+ ‖
+CH₂ —C—O—R¹
+ |
+ O
+ ‖
+CH—C—O—R²
+ |
+ O
+ ‖
+CH₂—C—O—R³
+```
+
+
 ## #has_/text_of_/abstract 
 
 > In [[../Nutrition|nutrition]], [[../../../bio|biology]], and [[../../../Chemistry|chemistry]], **Fat** and Oil usually means any [[../../../Chemistry/Organic_Chemistry/Functional_Group/Ester|ester]] of [[Fat/Fatty_Acid|Fatty_Acid]]s, 
 > or a mixture of such compounds, most commonly those that occur in living beings or in food.
 >
-> The term often refers specifically to triglycerides (triple [[../../../Chemistry/Organic_Chemistry/Functional_Group/Ester|esters]] of [[../../../Chemistry/Organic_Chemistry/Functional_Group/Alcohol/Polyol/Triol/Glycerol|Glycerol]]), 
+> The term often refers specifically to triglycerides/triacylglycerols/TAG (triple [[../../../Chemistry/Organic_Chemistry/Functional_Group/Ester|esters]] of [[../../../Chemistry/Organic_Chemistry/Functional_Group/Alcohol/Polyol/Triol/Glycerol|Glycerol]]), 
 > that are the main components of vegetable oils and of fatty tissue in animals; 
 > or, even more narrowly, to triglycerides that are solid or semisolid at room temperature, thus excluding oils. 
 > 
-> The term may also be used more broadly as a synonym of lipid—any substance of biological relevance, composed of carbon, hydrogen, or oxygen, that is insoluble in water but soluble in non-polar solvents. In this sense, besides the triglycerides, the term would include several other types of compounds like mono- and diglycerides, phospholipids (such as lecithin), sterols (such as cholesterol), waxes (such as beeswax), and free fatty acids, which are usually present in human diet in smaller amounts.
+> The term may also be used more broadly as a synonym of lipid—
+> any substance of biological relevance, composed of carbon, hydrogen, or oxygen, 
+> that is insoluble in water but soluble in non-polar solvents. 
+> In this sense, besides the triglycerides, the term would 
+> include several other types of compounds like 
+> - mono- and diglycerides, 
+> - phospholipids (such as lecithin), 
+> - sterols (such as cholesterol), 
+> - waxes (such as beeswax), and 
+> - free fatty acids, 
+> which are usually present in human diet in smaller amounts.
 >
 > Fats are one of the three main macronutrient groups in human diet, along with carbohydrates and proteins, and the main components of common food products like milk, butter, tallow, lard, salt pork, and cooking oils. They are a major and dense source of food energy for many animals and play important structural and metabolic functions in most living beings, including energy storage, waterproofing, and thermal insulation. The human body can produce the fat it requires from other food ingredients, except for a few essential fatty acids that must be included in the diet. Dietary fats are also the carriers of some flavor and aroma ingredients and vitamins that are not water-soluble.
 >
