@@ -320,6 +320,11 @@ dv_has_:
 
 # [[Carbohydrate]] 
 
+#has_/formula_/sum :: Cm(H2O)n 
+#is_/same_as :: [[../../../WikiData/WD~Carbohydrate,11358|WD~Carbohydrate,11358]]  
+
+Different from [[Fat]]s, the empirical formula is Cm(H2O)n 
+
 The different levels of carbohydrates are classified based on their complexity and structure. 
 
 | Type             |     Num | Examples                                                                               | Role       | Source         |
@@ -333,14 +338,28 @@ The different levels of carbohydrates are classified based on their complexity a
 |                  |     30k | Glycogen                                                                               | Storage    | Muscles, Liver |
 
 
-#is_/same_as :: [[../../../WikiData/WD~Carbohydrate,11358|WD~Carbohydrate,11358]]  
-
-
 ## #has_/text_of_/abstract 
 
-> A **carbohydrate** is a biomolecule composed of carbon (C), hydrogen (H), and oxygen (O) atoms. The typical hydrogen-to-oxygen atomic ratio is 2:1, analogous to that of water, and is represented by the empirical formula Cm(H2O)n (where m and n may differ). This formula does not imply direct covalent bonding between hydrogen and oxygen atoms; for example, in CH2O, hydrogen is covalently bonded to carbon, not oxygen. While the 2:1 hydrogen-to-oxygen ratio is characteristic of many carbohydrates, exceptions exist. For instance, uronic acids and deoxy-sugars like fucose deviate from this precise stoichiometric definition. Conversely, some compounds conforming to this definition, such as formaldehyde and acetic acid, are not classified as carbohydrates.
+> A **carbohydrate** is a biomolecule composed of only 
+> - carbon (C), 
+> - hydrogen (H), and 
+> - oxygen (O). 
+> The typical hydrogen-to-oxygen atomic ratio is 2:1, analogous to that of water, 
+> and is represented by the empirical formula Cm(H2O)n (where m and n may differ). 
+> This formula does not imply direct covalent bonding between hydrogen and oxygen atoms; 
+> for example, in CH2O, hydrogen is covalently bonded to carbon, not oxygen. 
+> While the 2:1 hydrogen-to-oxygen ratio is characteristic of many carbohydrates, 
+> exceptions exist. 
+> For instance, uronic acids and deoxy-sugars like fucose 
+> deviate from this precise stoichiometric definition. 
+> Conversely, some compounds conforming to this definition, 
+> such as formaldehyde and acetic acid, are not classified as carbohydrates.
 >
-> The term is predominantly used in biochemistry, functioning as a synonym for saccharide (from Ancient Greek  σάκχαρον (sákkharon) 'sugar'), a group that includes sugars, starch, and cellulose. The saccharides are divided into four chemical groups: monosaccharides, disaccharides, oligosaccharides, and polysaccharides. Monosaccharides and disaccharides, the smallest (lower molecular weight) carbohydrates, are  commonly referred to as sugars. While the scientific nomenclature of carbohydrates is complex, the names of the monosaccharides and disaccharides very often end in the suffix -ose, which was originally taken from the word glucose (from Ancient Greek  γλεῦκος (gleûkos) 'wine, must'), and is used for almost all sugars (e.g., fructose (fruit sugar), sucrose (cane or beet sugar), ribose, lactose (milk sugar)).
+> The term is predominantly used in biochemistry, functioning as a 
+> synonym for saccharide (from Ancient Greek  σάκχαρον (sákkharon) 'sugar'), 
+> a group that includes sugars, starch, and cellulose. 
+> 
+> The saccharides are divided into four chemical groups: monosaccharides, disaccharides, oligosaccharides, and polysaccharides. Monosaccharides and disaccharides, the smallest (lower molecular weight) carbohydrates, are  commonly referred to as sugars. While the scientific nomenclature of carbohydrates is complex, the names of the monosaccharides and disaccharides very often end in the suffix -ose, which was originally taken from the word glucose (from Ancient Greek  γλεῦκος (gleûkos) 'wine, must'), and is used for almost all sugars (e.g., fructose (fruit sugar), sucrose (cane or beet sugar), ribose, lactose (milk sugar)).
 >
 > Carbohydrates perform numerous roles in living organisms. Polysaccharides serve as an energy store (e.g., starch and glycogen) and as structural components (e.g., cellulose in plants and chitin in arthropods and fungi). The 5-carbon monosaccharide ribose is an important component of coenzymes (e.g., ATP, FAD and NAD) and the backbone of the genetic molecule known as RNA. The related deoxyribose is a component of DNA. Saccharides and their derivatives include many other important biomolecules that play key roles in the immune system, fertilization, preventing pathogenesis, blood clotting, and development.
 >

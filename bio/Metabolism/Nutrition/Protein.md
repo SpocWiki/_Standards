@@ -428,7 +428,7 @@ Tag Instances like this:
 
 #is_/part_of :: https://pending.schema.org  
 
-Protein is here used in its widest possible definition, as classes of amino acid based molecules. 
+Protein is a class of amino acid based molecules. 
 Amyloid-beta Protein in human (UniProt P05067), eukaryota (e.g. an OrthoDB group) 
 or even a single molecule that one can point to are all of type schema:Protein. 
 
@@ -441,6 +441,10 @@ They can be imagined, synthetic, hypothetical or naturally occurring.
 #has_/properties :: [ additionalType, alternateName, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, description, disambiguatingDescription, funding, hasBioChemEntityPart, hasBioPolymerSequence, hasMolecularFunction, hasRepresentation, identifier, image, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, taxonomicRange, url ]  
 
 #is_/same_as :: [[../../../../WikiData/WD~Protein,8054|WD~Protein,8054]] 
+
+Different from [[Carbohydrate]]s and [[Fat]]s, Proteins contain ca. 15% Nitrogen in addition to OCH. 
+Nitrogen can be metabolized only by [[../../bio~Domain/Bacteria|Bacteria]], 
+or added e.g. via [[../../../Chemistry/Inorganic_Chemistry/Ammonia|Ammonia]] as [[../../../../_public/tech/Triz/Example/Triz-Fertilizer|Fertilizer]] for Plants. 
 
 ## #has_/text_of_/abstract 
 
@@ -499,11 +503,11 @@ They can be imagined, synthetic, hypothetical or naturally occurring.
 plant-based Proteins are healthier because they come with secondary nutrients and ballast, 
 although their resorption is worse. 
 
-Of the 21 Amino-Acids 9 cannot be synthesized 
+Of the 21 Amino-Acids 9 cannot be synthesized by Humans 
 - Very important is Leucin, which starts building Muscles. 
 - 
 
-Protein-Powder can substitute Flour. 
+Protein-Powder can substitute Flour in most dishes. 
 Before eating Carbohydrates you should start with Proteins, to avoid being saturated. 
 
 ### Fish 

@@ -351,6 +351,18 @@ dv_has_:
 
 #is_/same_as :: [[../../WikiData/WD~Ammonia,4087|WD~Ammonia,4087]] 
 
+#has_/formula_/sum :: NH³
+
+## #has_/formula_/structural 
+
+```
+H
+|
+N-H
+|
+H
+```
+
 ## #has_/text_of_/abstract 
 
 > **Ammonia** is an inorganic chemical compound of nitrogen and hydrogen with the formula NH3. 

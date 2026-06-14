@@ -258,6 +258,9 @@ dv_has_:
 
 #is_/same_as :: [[../../../WikiData/WD~Fat,127980|WD~Fat,127980]] 
 
+Different from [[Carbohydrate]]s, with a formula of Cm(H2O)n 
+Fats have ca. 8 times less Oxygen, and therefore higher Energy Value. 
+
 | **Aspect**            | **Fats**                               | **Oils**                                         |
 | --------------------- | -------------------------------------- | ------------------------------------------------ |
 | **Saturation Level**  | High in saturated fatty acids          | High in unsaturated fatty acids                  |
