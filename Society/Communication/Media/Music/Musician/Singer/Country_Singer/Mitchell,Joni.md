@@ -260,7 +260,7 @@ dv_has_:
 
 ## #has_/text_of_/abstract 
 
-> Roberta Joan Mitchell  (née Anderson; born November 7, 1943) 
+> Roberta Joan Mitchell (née Anderson; born November 7, 1943) 
 > is a Canadian and American singer-songwriter, multi-instrumentalist, and painter. 
 > 
 > As one of the most influential singer-songwriters to emerge from the 1960s folk music circuit, 
@@ -282,7 +282,26 @@ dv_has_:
 >
 > Mitchell began exploring more jazz-influenced ideas on 1974's Court and Spark, which featured the radio hits "Help Me" and "Free Man in Paris" and became her best-selling album. Mitchell's vocal range began to shift from mezzo-soprano to that of a wide-ranging contralto around 1975. Her distinctive piano and open-tuned guitar compositions also grew more harmonically and rhythmically complex as she melded jazz with rock and roll, R&B, classical music and non-Western beats. Starting in the mid-1970s, she began working with noted jazz musicians including Jaco Pastorius, Tom Scott, Wayne Shorter, Herbie Hancock, and Pat Metheny as well as Charles Mingus, who asked her to collaborate on his final recordings. She later turned to pop and electronic music and engaged in political protest. She was awarded the Grammy Lifetime Achievement Award in 2002.
 >
-> Mitchell produced or co-produced most of her albums and designed most of her own album covers, describing herself as a "painter derailed by circumstance". A critic of the music industry, she quit touring and released her 19th and last album of original songs in 2007. She gave occasional interviews and made appearances to speak on various causes over the next two decades, though the rupture of a brain aneurysm in 2015 led to a long period of recovery and therapy. A series of retrospective compilations were released over this time period, culminating in the Joni Mitchell Archives, a project to publish much of the unreleased material from her long career. She returned to public appearances in 2021, accepting several awards in person, including a Kennedy Center Honor. Mitchell returned to live performance with an unannounced show at the June 2022 Newport Folk Festival and has made several other appearances since, including headlining shows in 2023 and 2024.
+> Mitchell produced or co-produced most of her albums 
+> and designed most of her own album covers, 
+> describing herself as a "painter derailed by circumstance". 
+> 
+> A critic of the music industry, she quit touring 
+> and released her 19th and last album of original songs in 2007. 
+> 
+> She gave occasional interviews and made appearances to speak on various causes over the next two decades, 
+> though the rupture of a brain aneurysm in 2015 
+> led to a long period of recovery and therapy. 
+> A series of retrospective compilations were released over this time period, 
+> culminating in the Joni Mitchell Archives, 
+> a project to publish much of the unreleased material from her long career. 
+> She returned to public appearances in 2021, 
+> accepting several awards in person, including a Kennedy Center Honor. 
+> 
+> Mitchell returned to live performance 
+> with an unannounced show at the June 2022 Newport Folk Festival 
+> and has made several other appearances since, 
+> including headlining shows in 2023 and 2024.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Joni%20Mitchell) 
 
