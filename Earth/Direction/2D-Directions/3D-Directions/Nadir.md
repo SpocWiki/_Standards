@@ -171,17 +171,17 @@ is_opposite_of = `=this.dv_is_opposite_of`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Nadir|Nadir]] 
+### #is_/same_as :: [[/_Standards/Earth/Direction/2D-Directions/3D-Directions/Nadir|Nadir]] 
 
-### #is_/same_as :: [[/_public/Earth/2D-Directions/Nadir.public|Nadir.public]] 
+### #is_/same_as :: [[/_public/Earth/Direction/2D-Directions/3D-Directions/Nadir.public|Nadir.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/2D-Directions/Nadir.internal|Nadir.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Direction/2D-Directions/3D-Directions/Nadir.internal|Nadir.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/2D-Directions/Nadir.protect|Nadir.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Direction/2D-Directions/3D-Directions/Nadir.protect|Nadir.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/2D-Directions/Nadir.private|Nadir.private]] 
+### #is_/same_as :: [[/_private/Earth/Direction/2D-Directions/3D-Directions/Nadir.private|Nadir.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/2D-Directions/Nadir.personal|Nadir.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Direction/2D-Directions/3D-Directions/Nadir.personal|Nadir.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/2D-Directions/Nadir.secret|Nadir.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Direction/2D-Directions/3D-Directions/Nadir.secret|Nadir.secret]] 
 

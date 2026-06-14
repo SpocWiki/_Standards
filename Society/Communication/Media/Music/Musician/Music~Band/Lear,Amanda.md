@@ -102,3 +102,21 @@ ISNI:
 > [Wikipedia](https://en.wikipedia.org/wiki/Amanda%20Lear)  
 
 #see :: [[Eurythmics]] 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Lear,Amanda|Lear,Amanda]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Lear,Amanda.public|Lear,Amanda.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Lear,Amanda.internal|Lear,Amanda.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Lear,Amanda.protect|Lear,Amanda.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Lear,Amanda.private|Lear,Amanda.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Lear,Amanda.personal|Lear,Amanda.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Lear,Amanda.secret|Lear,Amanda.secret]] 
+

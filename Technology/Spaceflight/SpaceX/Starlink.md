@@ -145,6 +145,7 @@ aliases:
 Starlink was massively affected by a [[../../../Astronomy/Solar_System/Sun/Solar_Wind|Solar_Wind]] in 2022, 
 when 40 of 49 Satellites lost height due to expanded [[Thermosphere]] caused by increased Temperatures. 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Technology/Spaceflight/SpaceX/Starlink|Starlink]] 

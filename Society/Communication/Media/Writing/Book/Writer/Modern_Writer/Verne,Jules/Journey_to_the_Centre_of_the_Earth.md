@@ -108,6 +108,22 @@ last_line: À partir de ce jour, mon oncle fut le plus heureux des savants, et m
 > - Edgar Rice Burroughs in his Pellucidar series, and 
 > - J. R. R. Tolkien in The Hobbit.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Journey%20to%20the%20Centre%20of%20the%20Earth)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Journey%20to%20the%20Centre%20of%20the%20Earth) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Verne,Jules/Journey_to_the_Centre_of_the_Earth|Journey_to_the_Centre_of_the_Earth]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Verne,Jules/Journey_to_the_Centre_of_the_Earth.public|Journey_to_the_Centre_of_the_Earth.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Verne,Jules/Journey_to_the_Centre_of_the_Earth.internal|Journey_to_the_Centre_of_the_Earth.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Verne,Jules/Journey_to_the_Centre_of_the_Earth.protect|Journey_to_the_Centre_of_the_Earth.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Verne,Jules/Journey_to_the_Centre_of_the_Earth.private|Journey_to_the_Centre_of_the_Earth.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Verne,Jules/Journey_to_the_Centre_of_the_Earth.personal|Journey_to_the_Centre_of_the_Earth.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Verne,Jules/Journey_to_the_Centre_of_the_Earth.secret|Journey_to_the_Centre_of_the_Earth.secret]] 
 

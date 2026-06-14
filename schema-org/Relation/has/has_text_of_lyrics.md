@@ -80,17 +80,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_text_of_lyrics|has_text_of_lyrics]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_text_of_lyrics|has_text_of_lyrics]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_lyrics.public|has_lyrics.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_text_of_lyrics.public|has_text_of_lyrics.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_lyrics.internal|has_lyrics.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_text_of_lyrics.internal|has_text_of_lyrics.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_lyrics.protect|has_lyrics.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_text_of_lyrics.protect|has_text_of_lyrics.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_lyrics.private|has_lyrics.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_text_of_lyrics.private|has_text_of_lyrics.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_lyrics.personal|has_lyrics.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_text_of_lyrics.personal|has_text_of_lyrics.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_lyrics.secret|has_lyrics.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_text_of_lyrics.secret|has_text_of_lyrics.secret]] 
 

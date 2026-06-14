@@ -354,17 +354,17 @@ N S
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[2D-Directions|Directions]] 
+### #is_/same_as :: [[/_Standards/Earth/Direction/2D-Directions|2D-Directions]] 
 
-### #is_/same_as :: [[/_public/Earth/2D-Directions.public|2D-Directions.public]] 
+### #is_/same_as :: [[/_public/Earth/Direction/2D-Directions.public|2D-Directions.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/2D-Directions.internal|2D-Directions.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Direction/2D-Directions.internal|2D-Directions.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/2D-Directions.protect|2D-Directions.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Direction/2D-Directions.protect|2D-Directions.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/2D-Directions.private|2D-Directions.private]] 
+### #is_/same_as :: [[/_private/Earth/Direction/2D-Directions.private|2D-Directions.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/2D-Directions.personal|2D-Directions.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Direction/2D-Directions.personal|2D-Directions.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/2D-Directions.secret|2D-Directions.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Direction/2D-Directions.secret|2D-Directions.secret]] 
 

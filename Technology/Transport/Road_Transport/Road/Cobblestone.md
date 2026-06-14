@@ -43,3 +43,19 @@ So kann das Regenwasser weiterhin versickern,
 anders als bei einer Asphaltierung. 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Technology/Transport/Road_Transport/Road/Cobblestone|Cobblestone]] 
+
+### #is_/same_as :: [[/_public/Technology/Transport/Road_Transport/Road/Cobblestone.public|Cobblestone.public]] 
+
+### #is_/same_as :: [[/_internal/Technology/Transport/Road_Transport/Road/Cobblestone.internal|Cobblestone.internal]] 
+
+### #is_/same_as :: [[/_protect/Technology/Transport/Road_Transport/Road/Cobblestone.protect|Cobblestone.protect]] 
+
+### #is_/same_as :: [[/_private/Technology/Transport/Road_Transport/Road/Cobblestone.private|Cobblestone.private]] 
+
+### #is_/same_as :: [[/_personal/Technology/Transport/Road_Transport/Road/Cobblestone.personal|Cobblestone.personal]] 
+
+### #is_/same_as :: [[/_secret/Technology/Transport/Road_Transport/Road/Cobblestone.secret|Cobblestone.secret]] 
+

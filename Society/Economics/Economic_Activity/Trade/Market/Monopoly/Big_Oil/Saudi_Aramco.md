@@ -124,5 +124,22 @@ official_name: Saudi Arabian Oil Group
 > 
 > Saudi Aramco has offices in the following countries: Saudi Arabia, as well as Azerbaijan, China, France, India, Japan, Malaysia, Netherlands, Singapore, South Korea, Russia, United Kingdom, and the United States.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Saudi%20Aramco)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Saudi%20Aramco) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Saudi_Aramco|Saudi_Aramco]] 
+
+### #is_/same_as :: [[/_public/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Saudi_Aramco.public|Saudi_Aramco.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Saudi_Aramco.internal|Saudi_Aramco.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Saudi_Aramco.protect|Saudi_Aramco.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Saudi_Aramco.private|Saudi_Aramco.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Saudi_Aramco.personal|Saudi_Aramco.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Saudi_Aramco.secret|Saudi_Aramco.secret]] 
 

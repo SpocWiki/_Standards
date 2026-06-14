@@ -147,17 +147,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Ion_Thruster|Ion_Thruster]] 
+### #is_/same_as :: [[/_Standards/Technology/Spaceflight/Rocket/Ion_Thruster|Ion_Thruster]] 
 
-### #is_/same_as :: [[/_public/Technology/Spaceflight/Ion_Thruster.public|Ion_Thruster.public]] 
+### #is_/same_as :: [[/_public/Technology/Spaceflight/Rocket/Ion_Thruster.public|Ion_Thruster.public]] 
 
-### #is_/same_as :: [[/_internal/Technology/Spaceflight/Ion_Thruster.internal|Ion_Thruster.internal]] 
+### #is_/same_as :: [[/_internal/Technology/Spaceflight/Rocket/Ion_Thruster.internal|Ion_Thruster.internal]] 
 
-### #is_/same_as :: [[/_protect/Technology/Spaceflight/Ion_Thruster.protect|Ion_Thruster.protect]] 
+### #is_/same_as :: [[/_protect/Technology/Spaceflight/Rocket/Ion_Thruster.protect|Ion_Thruster.protect]] 
 
-### #is_/same_as :: [[/_private/Technology/Spaceflight/Ion_Thruster.private|Ion_Thruster.private]] 
+### #is_/same_as :: [[/_private/Technology/Spaceflight/Rocket/Ion_Thruster.private|Ion_Thruster.private]] 
 
-### #is_/same_as :: [[/_personal/Technology/Spaceflight/Ion_Thruster.personal|Ion_Thruster.personal]] 
+### #is_/same_as :: [[/_personal/Technology/Spaceflight/Rocket/Ion_Thruster.personal|Ion_Thruster.personal]] 
 
-### #is_/same_as :: [[/_secret/Technology/Spaceflight/Ion_Thruster.secret|Ion_Thruster.secret]] 
+### #is_/same_as :: [[/_secret/Technology/Spaceflight/Rocket/Ion_Thruster.secret|Ion_Thruster.secret]] 
 

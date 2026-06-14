@@ -187,4 +187,22 @@ Details Updated 2018-09-22:
 	Business Address Street: Große Gallusstraße 9
 	Business Address City: Frankfurt am Main
 	Business Address State: Hessen
-	Business Address Postal Code: 60311
+	Business Address Postal Code: 60311 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Disaster/Natural_Disaster/Volcano_Eruption/Supervolcano/Krahe,Matthias|Krahe,Matthias]] 
+
+### #is_/same_as :: [[/_public/Society/Disaster/Natural_Disaster/Volcano_Eruption/Supervolcano/Krahe,Matthias.public|Krahe,Matthias.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Disaster/Natural_Disaster/Volcano_Eruption/Supervolcano/Krahe,Matthias.internal|Krahe,Matthias.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Disaster/Natural_Disaster/Volcano_Eruption/Supervolcano/Krahe,Matthias.protect|Krahe,Matthias.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Disaster/Natural_Disaster/Volcano_Eruption/Supervolcano/Krahe,Matthias.private|Krahe,Matthias.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Disaster/Natural_Disaster/Volcano_Eruption/Supervolcano/Krahe,Matthias.personal|Krahe,Matthias.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Disaster/Natural_Disaster/Volcano_Eruption/Supervolcano/Krahe,Matthias.secret|Krahe,Matthias.secret]] 
+

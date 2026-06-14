@@ -43,17 +43,17 @@ has_name_ar_arab = `=this.dv_has_name_ar_arab`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Direction~Central|Direction~Central]] 
+### #is_/same_as :: [[/_Standards/Earth/Direction/Direction~Central|Direction~Central]] 
 
-### #is_/same_as :: [[/_public/Earth/2D-Directions/Direction~Central.public|Direction~Central.public]] 
+### #is_/same_as :: [[/_public/Earth/Direction/Direction~Central.public|Direction~Central.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/2D-Directions/Direction~Central.internal|Direction~Central.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Direction/Direction~Central.internal|Direction~Central.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/2D-Directions/Direction~Central.protect|Direction~Central.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Direction/Direction~Central.protect|Direction~Central.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/2D-Directions/Direction~Central.private|Direction~Central.private]] 
+### #is_/same_as :: [[/_private/Earth/Direction/Direction~Central.private|Direction~Central.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/2D-Directions/Direction~Central.personal|Direction~Central.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Direction/Direction~Central.personal|Direction~Central.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/2D-Directions/Direction~Central.secret|Direction~Central.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Direction/Direction~Central.secret|Direction~Central.secret]] 
 

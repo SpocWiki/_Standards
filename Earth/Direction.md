@@ -12,5 +12,22 @@
 > These six directions form three pairs of orthogonal coordinate axes, 
 > often given as a right-handed coordinate system as (left→right, backward→forward, down→up).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Body-relative%20direction)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Body-relative%20direction) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Direction|Direction]] 
+
+### #is_/same_as :: [[/_public/Earth/Direction.public|Direction.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Direction.internal|Direction.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Direction.protect|Direction.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Direction.private|Direction.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Direction.personal|Direction.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Direction.secret|Direction.secret]] 
 

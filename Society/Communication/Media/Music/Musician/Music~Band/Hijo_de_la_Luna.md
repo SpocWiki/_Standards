@@ -57,5 +57,22 @@ He takes the child and [abandons](https://en.wikipedia.org/wiki/Child_abandonme
 leaving the child to die of exposure.
 
 Later the baby is said to live happily ever after with the Moon as his mother. 
-When the child cries, the Moon [wanes](https://en.wikipedia.org/wiki/Waning_Moon "Waning Moon") to cradle and comfort him.
+When the child cries, the Moon [wanes](https://en.wikipedia.org/wiki/Waning_Moon "Waning Moon") to cradle and comfort him. 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Hijo_de_la_Luna|Hijo_de_la_Luna]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Hijo_de_la_Luna.public|Hijo_de_la_Luna.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Hijo_de_la_Luna.internal|Hijo_de_la_Luna.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Hijo_de_la_Luna.protect|Hijo_de_la_Luna.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Hijo_de_la_Luna.private|Hijo_de_la_Luna.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Hijo_de_la_Luna.personal|Hijo_de_la_Luna.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Hijo_de_la_Luna.secret|Hijo_de_la_Luna.secret]] 
 

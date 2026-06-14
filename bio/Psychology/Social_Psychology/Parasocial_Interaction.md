@@ -82,3 +82,20 @@ Since the Advent of AI Chatbots, the rate of parasocial Relations has increased 
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Parasocial%20interaction) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Psychology/Social_Psychology/Parasocial_Interaction|Parasocial_Interaction]] 
+
+### #is_/same_as :: [[/_public/bio/Psychology/Social_Psychology/Parasocial_Interaction.public|Parasocial_Interaction.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Psychology/Social_Psychology/Parasocial_Interaction.internal|Parasocial_Interaction.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Psychology/Social_Psychology/Parasocial_Interaction.protect|Parasocial_Interaction.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Psychology/Social_Psychology/Parasocial_Interaction.private|Parasocial_Interaction.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Psychology/Social_Psychology/Parasocial_Interaction.personal|Parasocial_Interaction.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Psychology/Social_Psychology/Parasocial_Interaction.secret|Parasocial_Interaction.secret]] 
+

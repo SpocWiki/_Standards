@@ -56,7 +56,22 @@ Results were Temperature-Drops by 5-10°C and severe Droughts.
 > 
 > Severe weakening of the AMOC may lead to a collapse of the circulation, which would not be easily reversible and thus constitutes one of the tipping points in the climate system. A collapse would substantially lower the average temperature and amount of rain and snowfall in Europe. It may also raise the frequency of extreme weather events and have other severe effects.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Atlantic%20meridional%20overturning%20circulation)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Atlantic%20meridional%20overturning%20circulation) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Ocean~Atlantic/AMOC(Atlantic_meridional_overturning_circulation)|AMOC(Atlantic_meridional_overturning_circulation)]] 
+
+### #is_/same_as :: [[/_public/Earth/Ocean/Ocean~Atlantic/AMOC(Atlantic_meridional_overturning_circulation).public|AMOC(Atlantic_meridional_overturning_circulation).public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Ocean/Ocean~Atlantic/AMOC(Atlantic_meridional_overturning_circulation).internal|AMOC(Atlantic_meridional_overturning_circulation).internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Ocean/Ocean~Atlantic/AMOC(Atlantic_meridional_overturning_circulation).protect|AMOC(Atlantic_meridional_overturning_circulation).protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Ocean/Ocean~Atlantic/AMOC(Atlantic_meridional_overturning_circulation).private|AMOC(Atlantic_meridional_overturning_circulation).private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Ocean/Ocean~Atlantic/AMOC(Atlantic_meridional_overturning_circulation).personal|AMOC(Atlantic_meridional_overturning_circulation).personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Ocean/Ocean~Atlantic/AMOC(Atlantic_meridional_overturning_circulation).secret|AMOC(Atlantic_meridional_overturning_circulation).secret]] 
 

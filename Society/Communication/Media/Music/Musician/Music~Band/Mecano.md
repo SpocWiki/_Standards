@@ -69,5 +69,22 @@ ISNI: "0000000471154568"
 > - "Une femme avec une femme" ("Mujer contra mujer", a worldwide number one hit), and 
 > - "El 7 de septiembre".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mecano)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Mecano) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Mecano|Mecano]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Mecano.public|Mecano.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Mecano.internal|Mecano.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Mecano.protect|Mecano.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Mecano.private|Mecano.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Mecano.personal|Mecano.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Mecano.secret|Mecano.secret]] 
 

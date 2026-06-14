@@ -37,3 +37,19 @@ has_id_wikidata: Q47527016
 > [Wikipedia](https://en.wikipedia.org/wiki/Thucydides%20Trap) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/War/Thucydides_Trap|Thucydides_Trap]] 
+
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/War/Thucydides_Trap.public|Thucydides_Trap.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/War/Thucydides_Trap.internal|Thucydides_Trap.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/War/Thucydides_Trap.protect|Thucydides_Trap.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/War/Thucydides_Trap.private|Thucydides_Trap.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/War/Thucydides_Trap.personal|Thucydides_Trap.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/War/Thucydides_Trap.secret|Thucydides_Trap.secret]] 
+

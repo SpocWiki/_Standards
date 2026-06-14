@@ -172,3 +172,19 @@ non_free_artwork_image_URL: https://i.discogs.com/YWtolca2tNGQwNp3vsBj0nnFU5k0Dg
 > [Wikipedia](https://en.wikipedia.org/wiki/Sgt.%20Pepper's%20Lonely%20Hearts%20Club%20Band) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Sgt.Peppers_lonely_Hearts_Club_Band|Sgt.Peppers_lonely_Hearts_Club_Band]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Sgt.Peppers_lonely_Hearts_Club_Band.public|Sgt.Peppers_lonely_Hearts_Club_Band.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Sgt.Peppers_lonely_Hearts_Club_Band.internal|Sgt.Peppers_lonely_Hearts_Club_Band.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Sgt.Peppers_lonely_Hearts_Club_Band.protect|Sgt.Peppers_lonely_Hearts_Club_Band.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Sgt.Peppers_lonely_Hearts_Club_Band.private|Sgt.Peppers_lonely_Hearts_Club_Band.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Sgt.Peppers_lonely_Hearts_Club_Band.personal|Sgt.Peppers_lonely_Hearts_Club_Band.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Beatles/Sgt.Peppers_lonely_Hearts_Club_Band.secret|Sgt.Peppers_lonely_Hearts_Club_Band.secret]] 
+

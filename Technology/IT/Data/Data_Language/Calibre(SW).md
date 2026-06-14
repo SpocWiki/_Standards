@@ -151,6 +151,22 @@ IRC_channel_URL: ircs://irc.libera.chat/#calibre
 | HTM    | `.htm`    | Yes   | No     | Alternate extension for HTML documents.                                                   |
 | ODT    | `.odt`    | Yes   | No     | OpenDocument Text format used by LibreOffice and OpenOffice.                              |
 | PML    | `.pml`    | Yes   | No     | Palm Markup Language source format.                                                       |
-| PRC    | `.prc`    | Yes   | No     | Mobipocket/Palm-related container format used as an input source.                         |
+| PRC    | `.prc`    | Yes   | No     | Mobipocket/Palm-related container format used as an input source.                         | 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Technology/IT/Data/Data_Language/Calibre(SW)|Calibre(SW)]] 
+
+### #is_/same_as :: [[/_public/Technology/IT/Data/Data_Language/Calibre(SW).public|Calibre(SW).public]] 
+
+### #is_/same_as :: [[/_internal/Technology/IT/Data/Data_Language/Calibre(SW).internal|Calibre(SW).internal]] 
+
+### #is_/same_as :: [[/_protect/Technology/IT/Data/Data_Language/Calibre(SW).protect|Calibre(SW).protect]] 
+
+### #is_/same_as :: [[/_private/Technology/IT/Data/Data_Language/Calibre(SW).private|Calibre(SW).private]] 
+
+### #is_/same_as :: [[/_personal/Technology/IT/Data/Data_Language/Calibre(SW).personal|Calibre(SW).personal]] 
+
+### #is_/same_as :: [[/_secret/Technology/IT/Data/Data_Language/Calibre(SW).secret|Calibre(SW).secret]] 
 

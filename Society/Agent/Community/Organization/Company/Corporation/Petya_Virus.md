@@ -49,5 +49,22 @@ inception: 2016-03-01T00:00:00Z
 > specifically the Sandworm hacking group within the GRU Russian military intelligence organization, 
 > by security researchers, Google, and several governments.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Petya%20(malware%20family))  
+> [Wikipedia](https://en.wikipedia.org/wiki/Petya%20(malware%20family)) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/Petya_Virus|Petya_Virus]] 
+
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/Petya_Virus.public|Petya_Virus.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/Petya_Virus.internal|Petya_Virus.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/Petya_Virus.protect|Petya_Virus.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/Petya_Virus.private|Petya_Virus.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/Petya_Virus.personal|Petya_Virus.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/Petya_Virus.secret|Petya_Virus.secret]] 
 

@@ -193,17 +193,17 @@ is_opposite_of = `=this.dv_is_opposite_of`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Zenith|Zenith]] 
+### #is_/same_as :: [[/_Standards/Earth/Direction/2D-Directions/3D-Directions/Zenith|Zenith]] 
 
-### #is_/same_as :: [[/_public/Earth/2D-Directions/Zenith.public|Zenith.public]] 
+### #is_/same_as :: [[/_public/Earth/Direction/2D-Directions/3D-Directions/Zenith.public|Zenith.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/2D-Directions/Zenith.internal|Zenith.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Direction/2D-Directions/3D-Directions/Zenith.internal|Zenith.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/2D-Directions/Zenith.protect|Zenith.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Direction/2D-Directions/3D-Directions/Zenith.protect|Zenith.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/2D-Directions/Zenith.private|Zenith.private]] 
+### #is_/same_as :: [[/_private/Earth/Direction/2D-Directions/3D-Directions/Zenith.private|Zenith.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/2D-Directions/Zenith.personal|Zenith.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Direction/2D-Directions/3D-Directions/Zenith.personal|Zenith.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/2D-Directions/Zenith.secret|Zenith.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Direction/2D-Directions/3D-Directions/Zenith.secret|Zenith.secret]] 
 

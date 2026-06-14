@@ -63,5 +63,22 @@ Commons_category: Problem of Apollonius
 > which is one of the earliest fractals to be described in print, 
 > and is important in number theory via Ford circles and the Hardy–Littlewood circle method.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Problem%20of%20Apollonius)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Problem%20of%20Apollonius) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Problem_of_Apollonius|Problem_of_Apollonius]] 
+
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Early_modern_Philosopher/Problem_of_Apollonius.public|Problem_of_Apollonius.public]] 
+
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Problem_of_Apollonius.internal|Problem_of_Apollonius.internal]] 
+
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Problem_of_Apollonius.protect|Problem_of_Apollonius.protect]] 
+
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Early_modern_Philosopher/Problem_of_Apollonius.private|Problem_of_Apollonius.private]] 
+
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Problem_of_Apollonius.personal|Problem_of_Apollonius.personal]] 
+
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Problem_of_Apollonius.secret|Problem_of_Apollonius.secret]] 
 

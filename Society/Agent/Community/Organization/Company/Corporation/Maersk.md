@@ -183,6 +183,7 @@ Maersk was lucky that one of their Servers in Ghana which was offline due to ele
 the system could be restored. 
 It cost more than 250M$. 
 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/Maersk|Maersk]] 

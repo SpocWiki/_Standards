@@ -141,7 +141,24 @@ openness (O) measures creativity, curiosity, and willingness to entertain new id
 
 # Excalidraw Data
 
-## Text Elements
+## Text Elements 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Psychology/Personality_Psychology/Personality~Big5(OCEAN)/Big5~O-Openness|Big5~O-Openness]] 
+
+### #is_/same_as :: [[/_public/bio/Psychology/Personality_Psychology/Personality~Big5(OCEAN)/Big5~O-Openness.public|Big5~O-Openness.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Psychology/Personality_Psychology/Personality~Big5(OCEAN)/Big5~O-Openness.internal|Big5~O-Openness.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Psychology/Personality_Psychology/Personality~Big5(OCEAN)/Big5~O-Openness.protect|Big5~O-Openness.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Psychology/Personality_Psychology/Personality~Big5(OCEAN)/Big5~O-Openness.private|Big5~O-Openness.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Psychology/Personality_Psychology/Personality~Big5(OCEAN)/Big5~O-Openness.personal|Big5~O-Openness.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Psychology/Personality_Psychology/Personality~Big5(OCEAN)/Big5~O-Openness.secret|Big5~O-Openness.secret]] 
 %%
 ## Drawing
 ```json

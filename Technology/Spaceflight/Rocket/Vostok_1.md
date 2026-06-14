@@ -176,17 +176,17 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Vostok_1|Vostok_1]] 
+### #is_/same_as :: [[/_Standards/Technology/Spaceflight/Rocket/Vostok_1|Vostok_1]] 
 
-### #is_/same_as :: [[/_public/Technology/Spaceflight/Vostok_1.public|Vostok_1.public]] 
+### #is_/same_as :: [[/_public/Technology/Spaceflight/Rocket/Vostok_1.public|Vostok_1.public]] 
 
-### #is_/same_as :: [[/_internal/Technology/Spaceflight/Vostok_1.internal|Vostok_1.internal]] 
+### #is_/same_as :: [[/_internal/Technology/Spaceflight/Rocket/Vostok_1.internal|Vostok_1.internal]] 
 
-### #is_/same_as :: [[/_protect/Technology/Spaceflight/Vostok_1.protect|Vostok_1.protect]] 
+### #is_/same_as :: [[/_protect/Technology/Spaceflight/Rocket/Vostok_1.protect|Vostok_1.protect]] 
 
-### #is_/same_as :: [[/_private/Technology/Spaceflight/Vostok_1.private|Vostok_1.private]] 
+### #is_/same_as :: [[/_private/Technology/Spaceflight/Rocket/Vostok_1.private|Vostok_1.private]] 
 
-### #is_/same_as :: [[/_personal/Technology/Spaceflight/Vostok_1.personal|Vostok_1.personal]] 
+### #is_/same_as :: [[/_personal/Technology/Spaceflight/Rocket/Vostok_1.personal|Vostok_1.personal]] 
 
-### #is_/same_as :: [[/_secret/Technology/Spaceflight/Vostok_1.secret|Vostok_1.secret]] 
+### #is_/same_as :: [[/_secret/Technology/Spaceflight/Rocket/Vostok_1.secret|Vostok_1.secret]] 
 

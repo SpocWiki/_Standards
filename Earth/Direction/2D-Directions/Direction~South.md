@@ -426,17 +426,17 @@ has_name_ar_arab = `=this.dv_has_name_ar_arab`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Direction~South|Direction~South]] 
+### #is_/same_as :: [[/_Standards/Earth/Direction/2D-Directions/Direction~South|Direction~South]] 
 
-### #is_/same_as :: [[/_public/Earth/2D-Directions/Direction~South.public|Direction~South.public]] 
+### #is_/same_as :: [[/_public/Earth/Direction/2D-Directions/Direction~South.public|Direction~South.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/2D-Directions/Direction~South.internal|Direction~South.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Direction/2D-Directions/Direction~South.internal|Direction~South.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/2D-Directions/Direction~South.protect|Direction~South.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Direction/2D-Directions/Direction~South.protect|Direction~South.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/2D-Directions/Direction~South.private|Direction~South.private]] 
+### #is_/same_as :: [[/_private/Earth/Direction/2D-Directions/Direction~South.private|Direction~South.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/2D-Directions/Direction~South.personal|Direction~South.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Direction/2D-Directions/Direction~South.personal|Direction~South.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/2D-Directions/Direction~South.secret|Direction~South.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Direction/2D-Directions/Direction~South.secret|Direction~South.secret]] 
 

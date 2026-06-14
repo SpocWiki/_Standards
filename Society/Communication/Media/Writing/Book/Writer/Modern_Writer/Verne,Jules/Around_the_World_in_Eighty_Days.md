@@ -202,6 +202,22 @@ $$T = 2\pi\sqrt{\frac{a^3}{µ}}$$
 | (a)    | Orbital radius from Earth’s center |                              ≈ 6770 km |
 | µ  | Earth gravitational parameter      | (3.986\times10^{14}\ \mathrm{m^3/s^2}) |
 
-Because Earth rotates underneath the ISS, it does **not** pass over the exact same ground track every orbit.
+Because Earth rotates underneath the ISS, it does **not** pass over the exact same ground track every orbit. 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Verne,Jules/Around_the_World_in_Eighty_Days|Around_the_World_in_Eighty_Days]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Verne,Jules/Around_the_World_in_Eighty_Days.public|Around_the_World_in_Eighty_Days.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Verne,Jules/Around_the_World_in_Eighty_Days.internal|Around_the_World_in_Eighty_Days.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Verne,Jules/Around_the_World_in_Eighty_Days.protect|Around_the_World_in_Eighty_Days.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Verne,Jules/Around_the_World_in_Eighty_Days.private|Around_the_World_in_Eighty_Days.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Verne,Jules/Around_the_World_in_Eighty_Days.personal|Around_the_World_in_Eighty_Days.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Verne,Jules/Around_the_World_in_Eighty_Days.secret|Around_the_World_in_Eighty_Days.secret]] 
 

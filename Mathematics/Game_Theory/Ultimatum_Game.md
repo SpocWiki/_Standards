@@ -156,8 +156,6 @@ is not credible in a finite setting.
 ### #is_/same_as :: [[/_personal/Mathematics/Game_Theory/Ultimatum_Game.personal|Ultimatum_Game.personal]] 
 
 ### #is_/same_as :: [[/_secret/Mathematics/Game_Theory/Ultimatum_Game.secret|Ultimatum_Game.secret]] 
-
-
 # [[Ultimatum_Game]] 
 
 #is_/part_of :: [[Ultimatum_Game]] 
