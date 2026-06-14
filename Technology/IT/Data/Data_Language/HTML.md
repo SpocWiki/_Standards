@@ -214,6 +214,33 @@ here is a reference for common conversions:
 
 These steps will help you automate the 
 
+[[../../../../../IT/Data/Data~Software/Aspose|Aspose]] decodes only the first PDF Encoding when converting to HTML and none when converting to MD 
+[[../../../../../IT/Data/Data~Text/Pandoc|Pandoc]] can convert among many Formats 
+[[Calibre(SW)]] can convert even protected PDFs to eBook Formats.
+
+Aspose PDF => HTML decodes only the first Fragments. 
+The HTML is overlapping 
+The Aspose HTML -> MD Conversion transfers only Text 
+
+
+
+
+```mermaid
+graph
+PDF --Aspose(partial_decode)--> HTML
+HTML --Aspose(only_Text)--> MD
+PDF --Aspose+.NET--> MD --embed--> MMD
+PDF --Word--> DOCX
+PDF --Acrobat_Pro--> DOCX
+
+DOCX --Aspose--> MD
+
+PPTX --.NET--> MD --embed--> ED
+PPTX --.NET--> ED[ExcaliDraw]
+ED --.NET--> MMD
+```
+
+
 
 ```folderv
 ```

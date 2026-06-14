@@ -536,6 +536,20 @@ dv_has_:
 
 #is_/same_as :: [[../../WikiData/WD~Artificial_intelligence,11660|WD~Artificial_intelligence,11660]]  
 
+## Types of AI 
+
+
+## Applications of AI 
+
+### AI as Tool 
+
+- Verify Theses 
+- Aggregate Data 
+
+### AI as Source of Inspiration 
+
+### AI as a Teacher 
+
 
 ## #has_/text_of_/abstract 
 

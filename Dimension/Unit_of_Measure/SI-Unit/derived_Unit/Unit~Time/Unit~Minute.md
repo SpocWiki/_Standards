@@ -361,13 +361,20 @@ dv_has_:
 
 #is_/same_as :: [[../../../../../WikiData/WD~Minute,7727|WD~Minute,7727]] 
 
+The Name derives from 'Minor to the hour' and [[../../Unit~Second|Unit~Second]] is the 'second Minor' to the hour.
+The Division of the hour into 60 Minutes derives from the Babylonic hexadecimal number system. 
+
 ## #has_/text_of_/abstract 
 
 > A **Minute** is a unit of time defined as equal to 60 seconds.
 >
-> It is not a unit in the International System of Units (SI), but is accepted for use with SI. The SI symbol for minutes is min (without a dot). The prime symbol ′ is also sometimes used informally to denote minutes.
+> It is not a unit in the International System of Units (SI), but is accepted for use with SI. 
+> The SI symbol for minutes is min (without a dot). 
+> The prime symbol ′ is also sometimes used informally to denote minutes.
 >
-> In the UTC time standard, a minute on rare occasions has 61 seconds, a consequence of leap seconds; there is also a provision to insert a negative leap second, which would result in a 59-second minute, but this has never happened in more than 40 years under this system.
+> In the UTC time standard, a minute on rare occasions has 61 seconds, a consequence of leap seconds; 
+> there is also a provision to insert a negative leap second, which would result in a 59-second minute, 
+> but this has never happened in more than 40 years under this system.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Minute) 
 

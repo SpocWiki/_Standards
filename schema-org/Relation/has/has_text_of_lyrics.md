@@ -33,7 +33,7 @@ dv_has_:
   inverse: "[[are_lyrics_of]]"
 dv_is_:
   same_as:
-    - "[[has_lyrics]]"
+    - "[[has_text_of_lyrics]]"
     - "[[/_public/schema-org/Relation/has/has_lyrics.public|has_lyrics.public]]"
     - "[[/_internal/schema-org/Relation/has/has_lyrics.internal|has_lyrics.internal]]"
     - "[[/_protect/schema-org/Relation/has/has_lyrics.protect|has_lyrics.protect]]"
@@ -47,7 +47,7 @@ dv_has_range:
   - "[[../../../Society/Communication/Media/Creative_Work|CreativeWork]]"
   - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
-  - "[[has_lyrics]]"
+  - "[[has_text_of_lyrics]]"
   - "[[/_public/schema-org/Relation/has/has_lyrics.public|has_lyrics.public]]"
   - "[[/_internal/schema-org/Relation/has/has_lyrics.internal|has_lyrics.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_lyrics.protect|has_lyrics.protect]]"
@@ -57,13 +57,13 @@ dv_is_same_as:
 dv_has_inverse: "[[are_lyrics_of]]"
 ---
 
-# [[has_lyrics]] 
+# [[has_text_of_lyrics]] 
 
 has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
-- #has_/lyrics : : `=this.dv_has_range` 
-- has_lyrics : : `=this.dv_has_range` 
+- #has_/text_of_/lyrics : : `=this.dv_has_range` 
+- has_text_of_lyrics  : : `=this.dv_has_range` 
 - is_lyrics_of : : `=this.dv_has_domain`  
 - #is_/lyrics_of : : `=this.dv_has_domain`  
 
@@ -80,7 +80,7 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_lyrics|has_lyrics]] 
+### #is_/same_as :: [[has_text_of_lyrics|has_text_of_lyrics]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_lyrics.public|has_lyrics.public]] 
 

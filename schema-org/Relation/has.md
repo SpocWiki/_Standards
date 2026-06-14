@@ -35,7 +35,7 @@ whether the Subject has the Object 'available' or as a Quality.
 
 ## #has_/examples 
 
-#see [[has/has_lyrics|has_lyrics]] requires an Object, 
+#see [[has/has_text_of_lyrics|has_text_of_lyrics]] requires an Object, 
 wheras #has [[../Class/is_a_/Data_Type/Text|Text]] describes a similar Situation but with an indefinite Object. 
 
 You can use it like this when the Lyrics need to be referenced from multiple places: 

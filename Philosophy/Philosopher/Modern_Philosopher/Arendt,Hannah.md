@@ -318,6 +318,7 @@ dv_has_:
 # [[Arendt,Hannah]] 
 
 #has_/created_/quote ::  the banality of evil 
+#has_/created_/quote ::  Die Wirklichkeit ist den Menschen zuzumuten.  
 #is_/same_as :: [[_Standards/WikiData/WD~Hannah_Arendt,60025|WD~Hannah_Arendt,60025]] 
 
 ## #has_/text_of_/abstract 
