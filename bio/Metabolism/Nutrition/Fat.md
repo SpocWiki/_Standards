@@ -276,7 +276,7 @@ Fats have ca. 8 times less Oxygen, and therefore higher Energy Value.
 ```
  O
  ‖
-CH₂ —C—O—R¹
+CH₂—C—O—R¹
  |
  O
  ‖
@@ -288,6 +288,14 @@ CH₂—C—O—R³
 ```
 
 
+## #has_/formula_/reaction  
+
+```
+Glycerol  +  3 Fatty Acids  →  Triglyceride  +  3 H₂O
+
+C₃H₈O₃  +  3 CₙH(2n-1)O₂  →  Triglyceride  +  3 H₂O
+```
+
 ## #has_/text_of_/abstract 
 
 > In [[../Nutrition|nutrition]], [[../../../bio|biology]], and [[../../../Chemistry|chemistry]], **Fat** and Oil usually means any [[../../../Chemistry/Organic_Chemistry/Functional_Group/Ester|ester]] of [[Fat/Fatty_Acid|Fatty_Acid]]s, 
@@ -295,7 +303,10 @@ CH₂—C—O—R³
 >
 > The term often refers specifically to triglycerides/triacylglycerols/TAG (triple [[../../../Chemistry/Organic_Chemistry/Functional_Group/Ester|esters]] of [[../../../Chemistry/Organic_Chemistry/Functional_Group/Alcohol/Polyol/Triol/Glycerol|Glycerol]]), 
 > that are the main components of vegetable oils and of fatty tissue in animals; 
-> or, even more narrowly, to triglycerides that are solid or semisolid at room temperature, thus excluding oils. 
+> or, even more narrowly, to 
+> triglycerides that are solid or semisolid at room temperature, thus excluding oils. 
+> naturally occurring fats and oils are **complex mixtures** of triglycerides 
+> with many different fatty acid combinations. 
 > 
 > The term may also be used more broadly as a synonym of lipid—
 > any substance of biological relevance, composed of carbon, hydrogen, or oxygen, 

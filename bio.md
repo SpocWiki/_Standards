@@ -535,9 +535,19 @@ arranged in a Folder-Hierarchy with Species Name as Folder Names in [[bio/bio~Do
 
 The Folder Names are kept brief, to allow for the necessary deep Directory Structures. 
 
-Although Biology is primarily realized as [[Chemistry/Organic_Chemistry|Organic_Chemistry]] Chemistry, 
+Although Biology is primarily realized as [[Chemistry/Organic_Chemistry|Organic_Chemistry]],
 it is placed at top level due to its depth and importance. 
 
+## Chemical Basis 
+
+Biology is based on [[Carbon]]-Compounds. 
+Additional Elements are 
+- S [[Chemistry/Chemical_Element/Group-16-Chalcogene/Sulfur|Sulfur]] in  [[bio/Genetics/Nucleic_Acid|Nucleic_Acid]] and [[bio/Metabolism/Nutrition/Vitamin|Vitamin]]s 
+- P [[Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus|Phosphorus]] primarily in [[bio/Metabolism/Nutrition/ATP(adenosine_triphosphate)|ATP]] and in [[bio/Genetics/Nucleic_Acid|Nucleic_Acid]] 
+- O [[Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen|Oxygen]] 
+- N [[Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen|Nitrogen]] especially in [[Chemistry/Organic_Chemistry/Functional_Group/Amine/Amino_Acid|Amino_Acid]]
+- C [[Chemistry/Chemical_Element/Group-14-Carbon/Carbon|Carbon]] 
+- H [[Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen|Hydrogen]] 
 
 ## #has_/text_of_/abstract 
 

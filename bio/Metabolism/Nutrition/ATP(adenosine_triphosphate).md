@@ -155,10 +155,43 @@ dv_has_:
 
 # [[ATP(adenosine_triphosphate)]] 
 
+#is_/same_as :: [[WD~Adenosine_triphosphate,80863]] 
+
+## #has_/formula_/structural  
+
+```
+       NH₂
+        |
+    N───C───N
+    ‖   |   ‖
+    C   C   C─H          [Adenine]
+     \  |  /
+      N─C─N
+         |
+         |
+      [Ribose]
+     /         \
+  HO─C5'        C1'─OH
+     |           |
+     C4'─────── C2'─OH    (5-carbon sugar)
+         \  /
+          C3'─OH
+          |
+          O   OH
+          |   |
+       HO─P-O─P─O─P-OH
+          ‖   ‖   ‖
+          O   O   O
+phosphate:α   β   γ
+```
+The **γ-phosphate** (terminal) is cleaved during hydrolysis 
+to yield ADP + Pᵢ,   releasing ≈ 30.5 kJ·mol⁻¹ (standard conditions).
+
+PO₄³⁻  
 
 ## #has_/text_of_/abstract 
 
-> Adenosine triphosphate (ATP) is a nucleoside triphosphate 
+> Adenosine triphosphate (ATP) is a nucleoside tri-[[Phosphate]] 
 > that provides energy of approximate 30.5kJ/mol 
 > to drive and support many processes in living cells, such as 
 > - muscle contraction, 
