@@ -36,9 +36,9 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Coordinates.secret|Geo_Coordinates.secret]]"
     - "[[Geo_Coordinates]]"
 dv_has_:
-  parent_: 
+  parent_:
     class:
-    - "[[../StructuredValue|StructuredValue]]"
+      - "[[../StructuredValue|StructuredValue]]"
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
     - "[[../../../../Property/has_location/has_location_address|has_location_address]]"
@@ -53,7 +53,7 @@ dv_has_:
     - "[[../../../../Property/has_value_for/has_place_longitude|longitude]]"
     - "[[../../../../Relation/is/is_main_entity_of_page|mainEntityOfPage]]"
     - "[[../../../../Property/has_name|name]]"
-    - "[[../../../../Property/has_location/has_place_postal_code|postalCode]]"
+    - "[[../../../../Property/has_location/has_location_address_postal_code|postalCode]]"
     - "[[../../../../Relation/has/has_potential_action|potentialAction]]"
     - "[[../../../../Relation/is_same_as|sameAs]]"
     - "[[../../../../Relation/is/is_subject_of|subjectOf]]"
@@ -74,7 +74,7 @@ dv_has_properties:
   - "[[../../../../Property/has_value_for/has_place_longitude|longitude]]"
   - "[[../../../../Relation/is/is_main_entity_of_page|mainEntityOfPage]]"
   - "[[../../../../Property/has_name|name]]"
-  - "[[../../../../Property/has_location/has_place_postal_code|postalCode]]"
+  - "[[../../../../Property/has_location/has_location_address_postal_code|postalCode]]"
   - "[[../../../../Relation/has/has_potential_action|potentialAction]]"
   - "[[../../../../Relation/is_same_as|sameAs]]"
   - "[[../../../../Relation/is/is_subject_of|subjectOf]]"

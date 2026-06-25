@@ -134,6 +134,7 @@ dv_has_:
 # [[1529-Treaty_of_Zaragoza]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Treaty_of_Zaragoza,1147471|WD~Treaty_of_Zaragoza,1147471]]  
+#has_/previous_/item :: [[../../../Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1494-Treaty_of_Tordesillas|1494-Treaty_of_Tordesillas]]
 
 ## #has_/text_of_/abstract 
 
@@ -143,12 +144,13 @@ dv_has_:
 > and the Habsburg Emperor Charles V in the Aragonese city of Zaragoza. 
 > 
 > The treaty defined the areas of Castilian and Portuguese influence in Asia 
-> in order to resolve the "Moluccas issue", which had arisen because both kingdoms claimed the lucrative Spice Islands (now Indonesia's Malukus) for themselves, 
+> in order to resolve the "Moluccas issue", which had arisen because 
+> both kingdoms claimed the lucrative Spice Islands (now Indonesia's Malukus) for themselves, 
 > asserting that they were within their area of influence 
 > as specified in 1494 by the Treaty of Tordesillas. 
 > 
 > The conflict began in 1520, 
-> when expeditions from both kingdoms reached the Pacific Ocean, 
+> when expeditions from **both kingdoms reached the Pacific Ocean**, 
 > because no agreed meridian of longitude had been established in the far east.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Treaty%20of%20Zaragoza) 

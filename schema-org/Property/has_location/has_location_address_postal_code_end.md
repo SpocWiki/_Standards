@@ -61,8 +61,8 @@ Predicate to describe the Text of PostalCodeRangeSpecification.
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/text_of_/postal_code_end : : Text   
-- has_text_of_postal_code_end : : Text   
+- #has_/location_/address_/postal_code_/end : : Text   
+- has_location_address_postal_code_end : : Text   
 
 Last postal code in the range (included). Needs to be after [[postalCodeBegin]].
 
@@ -76,7 +76,7 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_location/has_postal_code_end|has_postal_code_end]] 
+### #is_/same_as :: [[has_location_address_postal_code_end|has_location_address_code_end]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Property/has_location/has_postal_code_end.public|has_postal_code_end.public]] 
 

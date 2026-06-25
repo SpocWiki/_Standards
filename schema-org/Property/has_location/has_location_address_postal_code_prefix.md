@@ -76,7 +76,7 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_location/has_postal_code_prefix|has_postal_code_prefix]] 
+### #is_/same_as :: [[has_location_address_postal_code_prefix|has_location_postal_code_prefix]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Property/has_location/has_postal_code_prefix.public|has_postal_code_prefix.public]] 
 

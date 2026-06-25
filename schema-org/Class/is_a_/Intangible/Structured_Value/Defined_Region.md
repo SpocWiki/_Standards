@@ -26,7 +26,7 @@ tags:
 title: is_a_defined_region Class
 type: Type
 dv_is_:
-  parent_: 
+  parent_:
     class: "[[../StructuredValue|StructuredValue]]"
   part_of: https://pending.schema.org
   same_as:
@@ -51,7 +51,7 @@ dv_has_:
     - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
     - "[[../../../../Property/has_name|has_name]]"
     - "[[postal_code|postal_code]]"
-    - "[[../../../../Property/has_location/has_postal_code_prefix|has_postal_code_prefix]]"
+    - "[[../../../../Property/has_location/has_location_address_postal_code_prefix|has_location_address_postal_code_prefix]]"
     - "[[postal_code_range|postal_code_range]]"
     - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
     - "[[../../../../Relation/is_same_as|is_same_as]]"
@@ -72,7 +72,7 @@ dv_has_properties:
   - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
   - "[[../../../../Property/has_name|has_name]]"
   - "[[postal_code|postal_code]]"
-  - "[[../../../../Property/has_location/has_postal_code_prefix|has_postal_code_prefix]]"
+  - "[[../../../../Property/has_location/has_location_address_postal_code_prefix|has_location_address_postal_code_prefix]]"
   - "[[postal_code_range|postal_code_range]]"
   - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
   - "[[../../../../Relation/is_same_as|is_same_as]]"

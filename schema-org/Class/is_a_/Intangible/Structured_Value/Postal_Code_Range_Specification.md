@@ -26,7 +26,7 @@ tags:
 title: is_a_postal_code_range_specification Class
 type: Type
 dv_is_:
-  parent_: 
+  parent_:
     class: "[[../StructuredValue|StructuredValue]]"
   part_of: https://pending.schema.org
   same_as:
@@ -48,8 +48,8 @@ dv_has_:
     - "[[../../../../Relation/has/has_image|has_image]]"
     - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
     - "[[../../../../Property/has_name|has_name]]"
-    - "[[../../../../Property/has_location/has_postal_code_begin|has_postal_code_begin]]"
-    - "[[../../../../Property/has_location/has_postal_code_end|has_postal_code_end]]"
+    - "[[../../../../Property/has_location/has_location_address_postal_code_begin|has_location_address_postal_code_begin]]"
+    - "[[../../../../Property/has_location/has_location_address_postal_code_end|has_location_address_postal_code_end]]"
     - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
     - "[[../../../../Relation/is_same_as|is_same_as]]"
     - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
@@ -66,8 +66,8 @@ dv_has_properties:
   - "[[../../../../Relation/has/has_image|has_image]]"
   - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
   - "[[../../../../Property/has_name|has_name]]"
-  - "[[../../../../Property/has_location/has_postal_code_begin|has_postal_code_begin]]"
-  - "[[../../../../Property/has_location/has_postal_code_end|has_postal_code_end]]"
+  - "[[../../../../Property/has_location/has_location_address_postal_code_begin|has_location_address_postal_code_begin]]"
+  - "[[../../../../Property/has_location/has_location_address_postal_code_end|has_location_address_postal_code_end]]"
   - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
   - "[[../../../../Relation/is_same_as|is_same_as]]"
   - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"

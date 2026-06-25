@@ -28,7 +28,7 @@ type: Pred_geo
 dv_is_:
   part_of: "pending:"
   same_as:
-    - "[[has_location_postal_code_range]]"
+    - "[[has_location_address_postal_code_range]]"
     - "[[/_public/schema-org/Property/has_location/has_location_postal_code_range.public|has_location_postal_code_range.public]]"
     - "[[/_internal/schema-org/Property/has_location/has_location_postal_code_range.internal|has_location_postal_code_range.internal]]"
     - "[[/_protect/schema-org/Property/has_location/has_location_postal_code_range.protect|has_location_postal_code_range.protect]]"
@@ -44,7 +44,7 @@ dv_has_domain: DefinedRegion
 dv_has_name: has_location_postal_code_range
 dv_has_range: PostalCodeRangeSpecification
 dv_is_same_as:
-  - "[[has_location_postal_code_range]]"
+  - "[[has_location_address_postal_code_range]]"
   - "[[/_public/schema-org/Property/has_location/has_location_postal_code_range.public|has_location_postal_code_range.public]]"
   - "[[/_internal/schema-org/Property/has_location/has_location_postal_code_range.internal|has_location_postal_code_range.internal]]"
   - "[[/_protect/schema-org/Property/has_location/has_location_postal_code_range.protect|has_location_postal_code_range.protect]]"
@@ -73,7 +73,7 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_location/has_location_postal_code_range|has_location_postal_code_range]] 
+### #is_/same_as :: [[has_location_address_postal_code_range|has_location_address_postal_code_range]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Property/has_location/has_location_postal_code_range.public|has_location_postal_code_range.public]] 
 

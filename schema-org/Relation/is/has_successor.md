@@ -68,6 +68,7 @@ has_inverse = `=this.dv_has_inverse`
 is_similar_to = `=this.dv_is_similar_to` 
 
 Use it like this: 
+- #has_/next_/item :: 
 - #has_/successor : : `=this.dv_has_range` 
 - has_successor : : `=this.dv_has_range` 
 

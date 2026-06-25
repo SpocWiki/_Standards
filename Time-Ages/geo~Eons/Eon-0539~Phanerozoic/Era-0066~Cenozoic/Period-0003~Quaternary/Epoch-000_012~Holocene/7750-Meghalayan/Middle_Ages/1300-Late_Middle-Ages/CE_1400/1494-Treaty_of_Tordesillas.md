@@ -208,13 +208,16 @@ dv_has_:
 # [[1494-Treaty_of_Tordesillas]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Treaty_of_Tordesillas,180897|WD~Treaty_of_Tordesillas,180897]] 
+#has_/next_/item :: [[../../../../../Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1529-Treaty_of_Zaragoza|1529-Treaty_of_Zaragoza]] 
+#has_/predecessor 
+#has_/successor 
 
 ## #has_/text_of_/abstract 
 
-> The Treaty of Tordesillas, signed in Tordesillas, Spain, on 7 June 1494, 
-> and ratified in Setúbal, Portugal, divided the newly discovered lands outside Europe 
+> The Treaty of Tordesillas, signed in **Tordesillas, Spain**, on 7 June 1494, 
+> and ratified in **Setúbal, Portugal**, divided the newly discovered lands outside Europe 
 > between the Kingdom of Portugal and the Crown of Castile, 
-> along a meridian 370 leagues or 2,100 kilometres west of the Cape Verde islands, 
+> along a meridian 370 leagues or 2,100 Kilometers west of the Cape Verde islands, 
 > off the west coast of Africa. 
 > 
 > That line of demarcation was about halfway between Cape Verde (already Portuguese) 
@@ -222,15 +225,24 @@ dv_has_:
 > (claimed for Castile and León), 
 > named in the treaty as Cipangu and Antillia (Cuba and Hispaniola).
 >
-> The lands to the east would belong to Portugal and the lands to the west to Castile, 
+> The lands to the **east would belong to Portugal** and 
+> the lands to the **west to Castile**,
 > modifying an earlier bull by Pope Alexander VI. 
 > 
 > The treaty was created on 7 June 1494, then ratified by Spain on 2 July 1494, 
 > by Portugal on 5 September 1494, and by Pope Julius II on 24 January 1506. 
 > 
-> The other side of the world was divided a few decades later by the Treaty of Zaragoza, signed on 22 April 1529, which specified the antimeridian to the line of demarcation specified in the Treaty of Tordesillas. Portugal and Spain largely respected the treaties, while the Indigenous peoples of the Americas did not acknowledge them. 
+> The other side of the world was divided a few decades later by the 
+> [[../../../../../Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1529-Treaty_of_Zaragoza|Treaty of Zaragoza]], signed on 22 April 1529, which specified the 
+> antimeridian to the line of demarcation specified in the Treaty of Tordesillas. 
+> Portugal and Spain largely respected the treaties, 
+> while the Indigenous peoples of the Americas did not acknowledge them. 
 >
-> The Treaty of Tordesillas was added by UNESCO to its Memory of the World international register in 2007. Originals of both treaties are kept at the General Archive of the Indies in Spain and at the Torre do Tombo National Archive in Portugal.
+> The Treaty of Tordesillas was added by UNESCO to its 
+> Memory of the World international register in 2007. 
+> Originals of both treaties are kept 
+> - at the General Archive of the Indies in Spain and 
+> - at the Torre do Tombo National Archive in Portugal.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Treaty%20of%20Tordesillas) 
 

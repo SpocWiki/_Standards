@@ -74,13 +74,13 @@ is_a = `=this.dv_is_a`
 has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
-- #has_/address_/country : : `=this.dv_has_range`   
-- has_address_country : : `=this.dv_has_range`   
-- is_address_country_of : : `=this.dv_has_domain` 
-- #is_/address_/country_of : : `=this.dv_has_domain` 
+- #has_/location_/address_/home_/country : : `=this.dv_has_range`   
+- has_location_address_home_country  : : `=this.dv_has_range`   
+- is_location_address_home_country_of : : `=this.dv_has_domain` 
+- #is_/location_/address_/home_/country_of : : `=this.dv_has_domain` 
 
 The country. For example, USA. 
-You can also provide the two-letter [ISO 3166-1 alpha-2 country code](http://en.wikipedia.org/wiki/ISO_3166-1).
+You can also provide the two-letter [ISO 3166-1 alpha-2 country code](http://en.wikipedia.org/wiki/ISO_3166-1). 
 
 Relation describes that: 
 

@@ -2,6 +2,12 @@
 aliases:
   - Thucydides Trap
 has_id_wikidata: Q47527016
+instance_of: "[[_Standards/WikiData/WD~international_relations_theory,1785609]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Graham_T._Allison,2663882]]"
+described_by_source: "[[_Standards/WikiData/WD~Destined_for_War,115847049]]"
+named_after: "[[_Standards/WikiData/WD~Thucydides,41683]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Thucydides%20pushkin02.jpg
+time_of_discovery_or_invention: 2012-01-01T00:00:00Z
 ---
 
 # [[Thucydides_Trap]]  
@@ -27,12 +33,35 @@ has_id_wikidata: Q47527016
 |  1945 | 1989 | 0.5 | United States             | Soviet Union   | [[../../../../Earth\|global]] military & ideological power                   |
 |  1990 |      |   0 | United Kingdom & France   | Germany        | Economic & political power in [[../../../../Earth/Continent/Europe\|Europe]] |
 
+## Aspects 
+
+
+### ideological Alignment 
+
+
+### internal Alignment 
+
+
+### Personalities 
+
+
 
 ## #has_/text_of_/abstract 
 
-> The **Thucydides Trap** is a term popularized by American political scientist Graham Allison to describe an apparent tendency towards war when an emerging power threatens to displace an existing great power as a regional or international hegemon. The term became widely used in 2015, and primarily applies to analysis of China–United States relations.
+> The **Thucydides Trap** is a term popularized by American political scientist Graham Allison 
+> to describe an apparent **tendency towards war** 
+> when an emerging power threatens to displace an existing great power 
+> as a regional or international hegemon. 
+> The term became widely used in 2015, and 
+> primarily applies to analysis of **China–United States relations**.
 > 
-> Supporting the thesis, Allison led a study at Harvard University's Belfer Center for Science and International Affairs which found that, among a sample of 16 historical instances of an emerging power rivaling a ruling power, 12 ended in war. That study, however, has come under considerable criticism, and scholarly opinion on the value  of the Thucydides Trap concept—particularly as it relates to a potential military conflict between the United States and China—remains divided.
+> Supporting the thesis, Allison led a study 
+> at Harvard University's Belfer Center for Science and International Affairs which 
+> found that, among a sample of **16 historical instances** of an emerging power rivaling a ruling power, 
+> **12 ended in war**. That study, however, has come under considerable criticism, 
+> and scholarly opinion on the value  of the Thucydides Trap concept—
+> particularly as it relates to a potential military conflict 
+> between the United States and China—remains divided.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thucydides%20Trap) 
 

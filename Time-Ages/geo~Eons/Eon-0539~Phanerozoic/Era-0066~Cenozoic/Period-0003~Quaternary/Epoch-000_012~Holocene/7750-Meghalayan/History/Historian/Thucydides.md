@@ -238,6 +238,7 @@ dv_has_:
 # [[Thucydides]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Thucydides,41683|WD~Thucydides,41683]]  
+#see :: [[../../../../../../../../../Society/Military/Military_Operation/War/Thucydides_Trap|Thucydides_Trap]] 
 
 ## #has_/text_of_/abstract 
 
@@ -248,7 +249,7 @@ dv_has_:
 > war between Sparta and Athens until the year 411 BC. 
 > 
 > Thucydides has been dubbed the father of "scientific history" by those who accept his claims 
-> to have applied strict standards of  impartiality and evidence-gathering 
+> to have **applied strict standards of  impartiality** and evidence-gathering 
 > and analysis of cause and effect, without reference to intervention by the gods, 
 > as outlined in his introduction to his work.
 >
@@ -259,12 +260,12 @@ dv_has_:
 > 
 > His text is still studied at universities and military colleges worldwide. 
 > 
-> The Melian dialogue is regarded as a seminal text of international relations theory, 
+> The Melian dialogue is regarded as a seminal text of **international relations theory**, 
 > while his version of Pericles's Funeral Oration is widely 
 > studied by political theorists, historians, and students of the classics. 
 > 
 > More generally, Thucydides developed an understanding of human nature 
-> to explain behavior in such crises as plagues, massacres, and wars.
+> to **explain behavior in such crises as plagues, massacres, and wars**.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thucydides) 
 
