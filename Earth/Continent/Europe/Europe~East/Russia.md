@@ -474,209 +474,20 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/Europe/Europe~East/Russia.personal|Russia.personal]]'
 - '[[/_secret/Earth/Continent/Europe/Europe~East/Russia.secret|Russia.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Russia
+
 aliases:
-- An Ruis
-- an Rúis
-- Arusia
-- Biʼééʼ Łichííʼí Bikéyah
-- Errusia
-- Ezlozswh
+  - Russia
+  - Russian
+  - Russian Federation
 - Federación de Rusia
-- Federación de Rusia (la)
 - Fédération de Russie
-- Gárjjel
-- I-Russia
-- IRashiya
-- Krievija
-- Krīevõmō
-- Krīveja
-- la Federación de Rusia
-- Lusia
-- Lō͘-se-a
-- Lūsia
-- ma Losi
-- Mackālija
-- Nga
-- Ngò-lò-sṳ̂
-- Ngò̤-lò̤-sṳ̆
-- Oroszország
-- Portiko them
-- Rasha
-- Rashia
-- Rasia
-- Ratsiya
-- Riisi
-- Risi
-- Risila
-- Roosiya
-- Rosha
-- Roshya
-- Rosia
-- Rosja
-- Rossia
-- Rossiya
-- Rosėjė
-- Roushie
-- Rrus
-- Rrúsia
-- Ruccia
-- rukygu'e
-- Ruošša
-- Ruoššâ
-- Ruscia
-- Rusha
-- Rusi
-- Rusia
-- Rusija
-- Rusio
-- Rusiya
-- Rusiye
-- Rusiä
-- Ruska
-- Ruska federacija
-- Rusko
-- Ruskô
-- Ruslaand
-- Ruslan
-- Rusland
-- Ruslandi
-- Ruslound
-- Ruslun
-- Ruslân
-- Rusojska
-- Russi
-- Russia
-- Russian
-- Russian Federation
-- Russian Federation (the)
-- Russie
-- Russiýa
-- Russja
-- Russlaante
-- Russland
-- Russlond
-- Rusya
-- Rusyjo
-- Rusän
-- Rusí
-- Rusïi
-- Ruushka
-- Ruusii
-- Ruõššjânnam
-- Rußland
-- Rwasha
-- Rwsia
-- Ryssland
-- Rùsia
-- Rùssia
-- Rús
-- Rúsia
-- Rússia
-- Rússland
-- Rûsseye
-- Rûsya
-- Rūhia
-- Rūsia
-- Rūtia
-- Rọ́síà
-- Rọṣia
-- the Russian Federation
-- Uburusiya
-- Urusi
-- Urusijət
-- Urusiye
-- Ven'a
-- Venemaa
-- Venäjä
-- Venäma
-- Vinnemaa
-- y Roosh
-- Ρουσία
-- Ρωσία
-- Арассыыйа
-- Аьрасат
-- Оросой холбоото улас
-- Оросын Холбооны Улс
-- Орсин Ниицән
-- Орусия
-- Раççей Патшалăхĕ
-- Расія
-- Расея
-- Ресей
-- Росія
-- Росси
-- Россий
-- Российская Федерация
-- Россия
-- Россия Мастор
-- Россиялъул Федерация
-- Рочму
-- Русија
-- Русия
-- Рѡсїꙗ
-- Рәсәй
-- Рӯшш е̄ммьне
-- Уæрæсе
-- Урусат
-- Урысей
-- Урыстәыла
-- Урысые
-- Эрсече
-- Ռուսաստան
-- Ռուսիա
-- רוסיה
-- רוסלאנד
 - الاتحاد الروسي
-- روس
-- روسىيە
-- روسيا
-- روسیه
-- روٗس
-- رۊسیه
-- ڕووسیا
-- ܪܘܣܝܐ
-- ރޫސީވިލާތް
-- रशिया
-- रुस
-- रूस
-- রাশিয়া
-- ৰাছিয়া
-- ਰੂਸ
-- રશિયા
-- ଋଷିଆ
-- உருசியா
-- రష్యా
-- ರಷ್ಯಾ
-- റഷ്യ
-- රුසියාව
-- ประเทศรัสเซีย
-- ລັດເຊັຽ
-- ར་ཤི་ཡཱན་ཕེ་ཌི་རེ་ཤཱན
-- ཨུ་རུ་སུ།
-- မိူင်းရတ်ႈသျႃး
-- ရသျားခမ်းထီ
-- ရုရှာ
-- ရုရှားနိုင်ငံ
-- რუსეთი
-- ሩሲያ
-- ሩስያ
-- ᏲᏂᏱ
-- ᐅᓛᓴ
-- ᐊᓯᐊ
-- រុស្ស៊ី
-- ᠣᡵᠣᠰ
-- ᱨᱟᱥᱤᱭᱟ
-- Ṛrus
-- ⵔⵓⵙⵢⴰ
-- ロシア
-- 俄罗斯
 - 俄罗斯联邦
-- 俄羅斯
-- ꠞꠣꠡꠤꠀ
-- ꯔꯁꯤꯌꯥ
-- 러시아
-- 로씨야
-- "\U00010342\U0001033F\U00010343\U00010330\U0001033B\U00010330\U0001033D\U00010333"
+  - Российская Федерация
+  - the Russian Federation
+  - Russian Federation (the)
+  - la Federación de Rusia
+  - Federación de Rusia (la)
 has_id_wikidata: Q159
 location:
 - 52.6418
@@ -1471,6 +1282,7 @@ Krugosvet_article: Earth_sciences/geografiya/ROSSIYA_ROSSISKAYA_FEDERATSIYA_RF.h
 Wolfram_Language_entity_code: Entity["Country", "Russia"]
 Facebook_username: MyCountryRussia
 IPA_transcription: rɐˈsʲijə
+Unicode_character: 🇷🇺
 subreddit: russia
 hashtag:
 - russia
@@ -1486,7 +1298,7 @@ motto_text:
 - Datgelwch eich Rwsia eich hun
 - Reveal your own Russia
 short_name:
-- "\U0001F1F7\U0001F1FA"
+- 🇷🇺
 - Россия
 - Росія
 rural_population:
