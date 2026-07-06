@@ -1,4 +1,5 @@
 ---
+has_time_started: 1937-07-07 
 aliases:
 - 2. kinesisk-japanske krig
 - Al Doilea Război Chino-Japonez

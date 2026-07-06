@@ -1,4 +1,5 @@
 ---
+has_time_started: 1978-01-01 
 aliases:
 - 1978-Iranian Revolution+1979
 - 1978-Iranian_Revolution+1979

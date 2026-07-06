@@ -1,4 +1,5 @@
 ---
+has_time_started: 1878-06-13 
 location:
 - '[[_Standards/WikiData/WD~Hotel_Kaiserhof,320591|WD~Hotel_Kaiserhof,320591]]'
 - '[[_Standards/WikiData/WD~Berlin,64|WD~Berlin,64]]'

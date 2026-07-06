@@ -1,4 +1,5 @@
 ---
+has_time_started: 1592-05-23 
 aliases:
 - Bellum Coreanum Taicosamense
 - Chiến tranh Nhật Bản-Triều Tiên

@@ -1,4 +1,5 @@
 ---
+has_time_started: 1880-01-01 
 aliases:
 - Chủ nghĩa Tân đế quốc
 - Høyimperialismen

@@ -1,4 +1,5 @@
 ---
+has_time_started: 1914-08-17 
 aliases:
 - Birinci dünya müharibəsində Şərq cəbhəsi
 - Doğu Cephesi

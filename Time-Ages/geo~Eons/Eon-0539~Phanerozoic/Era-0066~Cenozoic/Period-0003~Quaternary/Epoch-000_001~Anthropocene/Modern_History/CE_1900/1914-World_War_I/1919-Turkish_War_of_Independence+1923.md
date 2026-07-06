@@ -1,4 +1,5 @@
 ---
+has_time_started: 1919-05-19 
 aliases:
 - Chiến tranh giành độc lập Thổ Nhĩ Kỳ
 - Den tyrkiske frigjøringskrigen

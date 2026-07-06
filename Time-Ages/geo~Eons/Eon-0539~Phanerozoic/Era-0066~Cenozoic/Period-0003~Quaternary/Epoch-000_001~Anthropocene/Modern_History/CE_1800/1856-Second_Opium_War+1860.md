@@ -1,4 +1,5 @@
 ---
+has_time_started: 1856-01-01 
 aliases:
 - 1856-Second Opium War+1860
 - 1856-Second_Opium_War+1860

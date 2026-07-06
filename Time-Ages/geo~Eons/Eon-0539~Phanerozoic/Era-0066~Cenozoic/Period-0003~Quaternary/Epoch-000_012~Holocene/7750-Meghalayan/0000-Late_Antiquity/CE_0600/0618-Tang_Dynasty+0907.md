@@ -1,4 +1,5 @@
 ---
+has_time_started: 0618-01-01 
 aliases:
 - 0618-Tang Dynasty+0907
 - 0618-Tang_Dynasty+0907

@@ -1,4 +1,5 @@
 ---
+has_time_started: 1990-08-02 
 aliases:
 - 2-a milito en la Persa Golfo
 - Bellum Sinus Persici Alterum

@@ -1,4 +1,5 @@
 ---
+has_time_started: 1884-11-15 
 aliases:
 - 1884-Berlin Conference
 - 1884-Berlin_Conference

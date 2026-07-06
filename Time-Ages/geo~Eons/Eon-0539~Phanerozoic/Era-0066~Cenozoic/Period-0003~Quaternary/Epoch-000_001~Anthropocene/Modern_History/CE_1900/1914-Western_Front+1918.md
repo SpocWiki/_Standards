@@ -1,4 +1,5 @@
 ---
+has_time_started: 1914-08-03 
 aliases:
 - An Fronta Thiar sa Chéad Chogadh Domhanda
 - Batı Cephesi

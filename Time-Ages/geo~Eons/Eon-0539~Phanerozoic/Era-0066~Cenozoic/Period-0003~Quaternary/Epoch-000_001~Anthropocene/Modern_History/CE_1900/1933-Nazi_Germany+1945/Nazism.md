@@ -1,4 +1,5 @@
 ---
+has_time_started: 1920-01-01 
 aliases:
 - aalmuglâšsosialism
 - Chủ nghĩa Quốc xã

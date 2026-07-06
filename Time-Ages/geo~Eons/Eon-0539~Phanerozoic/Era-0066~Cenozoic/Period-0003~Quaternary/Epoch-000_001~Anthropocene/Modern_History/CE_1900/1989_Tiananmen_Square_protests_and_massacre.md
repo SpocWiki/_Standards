@@ -1,4 +1,5 @@
 ---
+has_time_started: 1989-04-15 
 location: '[[_Standards/WikiData/WD~Tiananmen_Square,164055|WD~Tiananmen_Square,164055]]'
 aliases:
 - 1989 m. Tiananmenio aikštės protestai

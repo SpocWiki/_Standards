@@ -1,4 +1,5 @@
 ---
+has_time_started: 1975-04-13 
 aliases:
 - 1975-Lebanese Civil War+1990
 - 1975-Lebanese_Civil_War+1990

@@ -1,4 +1,5 @@
 ---
+has_time_started: 0633-01-01 
 aliases:
 - Arabische Eroberung Persiens
 - Arabische verovering van Perzië

@@ -1,4 +1,5 @@
 ---
+has_time_started: 1918-11-11 
 aliases:
 - 1919-Interwar Period+1939
 - 1919-Interwar_Period+1939

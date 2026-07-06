@@ -1,4 +1,5 @@
 ---
+has_time_started: 1960-01-01 
 aliases:
 - 1960-Northern Ireland Conflict+1998
 - 1960-Northern_Ireland_Conflict+1998

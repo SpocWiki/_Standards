@@ -1,4 +1,5 @@
 ---
+has_time_started: 2017-01-01 
 aliases:
 - Artemida (kosmik dastur)
 - Artemida proqramı

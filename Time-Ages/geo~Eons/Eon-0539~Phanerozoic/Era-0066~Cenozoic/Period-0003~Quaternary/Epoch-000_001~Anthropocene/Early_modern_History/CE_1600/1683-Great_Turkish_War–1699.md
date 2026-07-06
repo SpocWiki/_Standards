@@ -1,4 +1,5 @@
 ---
+has_time_started: 1683-01-01 
 aliases:
 - 1683-Great Turkish War–1699
 - 1683-Great_Turkish_War–1699

@@ -1,4 +1,5 @@
 ---
+has_time_started: 1940-06-10 
 location:
 - 18
 - 35

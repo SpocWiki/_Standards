@@ -1,4 +1,5 @@
 ---
+has_time_started: 1791-08-14 
 aliases:
 - 1791-Haitian Revolution+1804
 - 1791-Haitian_Revolution+1804

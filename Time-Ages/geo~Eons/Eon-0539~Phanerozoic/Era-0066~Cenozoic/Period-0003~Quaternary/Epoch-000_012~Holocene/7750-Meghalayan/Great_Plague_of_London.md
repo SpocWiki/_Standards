@@ -1,4 +1,5 @@
 ---
+has_time_started: 1665-01-01 
 aliases:
   - Great Plague of London
 has_id_wikidata: Q917048

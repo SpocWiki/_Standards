@@ -1,4 +1,5 @@
 ---
+has_time_started: 1545-01-01 
 aliases:
 - 1545-Counter-Reformation
 - Catholic Revival

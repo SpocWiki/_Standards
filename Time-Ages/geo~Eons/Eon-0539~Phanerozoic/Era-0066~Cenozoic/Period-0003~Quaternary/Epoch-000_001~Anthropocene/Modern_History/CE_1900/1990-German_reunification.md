@@ -1,4 +1,5 @@
 ---
+has_time_started: 1989-11-09 
 aliases:
 - 1990-German reunification
 - 1990-German_reunification

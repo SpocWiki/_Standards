@@ -1,4 +1,5 @@
 ---
+has_time_started: 1917-11-07 
 aliases:
 - 1917-Russian Civil War+1922
 - 1917-Russian_Civil_War+1922

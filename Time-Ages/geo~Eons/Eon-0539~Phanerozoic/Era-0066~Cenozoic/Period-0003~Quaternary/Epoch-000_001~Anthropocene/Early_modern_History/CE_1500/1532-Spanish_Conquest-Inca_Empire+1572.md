@@ -1,4 +1,5 @@
 ---
+has_time_started: 1532-01-01 
 aliases:
 - 1532-Spanish Conquest-Inca Empire+1572
 - 1532-Spanish_Conquest-Inca_Empire+1572

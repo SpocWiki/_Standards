@@ -1,4 +1,5 @@
 ---
+has_time_started: 1939-11-30 
 aliases:
 - Araro’y Guarini
 - Bellum Hiemale

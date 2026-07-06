@@ -1,4 +1,5 @@
 ---
+has_time_started: 1998-08-02 
 aliases:
 - 1998-Second Congo War+2003
 - 1998-Second_Congo_War+2003

@@ -1,4 +1,5 @@
 ---
+has_time_started: 1808-05-02 
 aliases:
 - Brezel Dizalc'hted Spagn
 - Chiến tranh Bán đảo

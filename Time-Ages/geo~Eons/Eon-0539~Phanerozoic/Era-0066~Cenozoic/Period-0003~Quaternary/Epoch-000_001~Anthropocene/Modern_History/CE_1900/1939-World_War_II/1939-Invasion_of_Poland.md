@@ -1,4 +1,5 @@
 ---
+has_time_started: 1939-09-01 
 aliases:
 - 1939 -ലെ നാസിജർമനിയുടെ പോളണ്ടിലേക്കുള്ള അധിനിവേശം
 - 1939 Invasion of Poland

@@ -1,4 +1,5 @@
 ---
+has_time_started: 1996-10-24 
 aliases:
 - 1996-First Congo War+1997
 - 1996-First_Congo_War+1997

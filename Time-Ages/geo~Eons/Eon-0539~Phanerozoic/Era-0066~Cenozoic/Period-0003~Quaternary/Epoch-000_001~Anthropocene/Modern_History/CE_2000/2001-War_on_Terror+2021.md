@@ -1,4 +1,5 @@
 ---
+has_time_started: 2001-09-11 
 aliases:
 - 2001-War on Terror+2021
 - 2001-War_on_Terror+2021

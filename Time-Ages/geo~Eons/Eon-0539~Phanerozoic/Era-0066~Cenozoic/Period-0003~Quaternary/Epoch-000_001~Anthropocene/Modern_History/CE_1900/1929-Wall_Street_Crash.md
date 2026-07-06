@@ -1,4 +1,5 @@
 ---
+has_time_started: 1929-10-24 
 aliases:
 - 1929 Wall Street İflası
 - 1929 йылғы Уолл-Стрит һәләкәте

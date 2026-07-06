@@ -1,4 +1,5 @@
 ---
+has_time_started: 1654-01-01 
 aliases:
 - 1654-1667 Lehistan-Rusya Savaşı
 - ATR-Maskvos karas

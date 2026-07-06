@@ -1,4 +1,5 @@
 ---
+has_time_started: 1756-05-17 
 aliases:
 - 7년 전쟁
 - Bellum Septem Annorum

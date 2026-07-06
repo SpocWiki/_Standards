@@ -1,4 +1,5 @@
 ---
+has_time_started: 0800-01-01 
 aliases:
 - Budowniczowie kopców
 - civilisation du Mississippi

@@ -1,4 +1,5 @@
 ---
+has_time_started: 0235-01-01 
 aliases:
 - 0235-Crisis of the Third Century
 - 0235-Crisis_of_the_Third_Century

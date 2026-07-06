@@ -1,4 +1,5 @@
 ---
+has_time_started: 2001-10-07 
 aliases:
 - Afg'onistondagi urush (2001–2021)
 - Afganistan Savaşı

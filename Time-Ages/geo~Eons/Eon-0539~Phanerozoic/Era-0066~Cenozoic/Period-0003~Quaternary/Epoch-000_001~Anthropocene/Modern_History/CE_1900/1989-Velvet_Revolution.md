@@ -1,4 +1,5 @@
 ---
+has_time_started: 1989-11-17 
 aliases:
 - 1989-Velvet Revolution
 - 1989-Velvet_Revolution

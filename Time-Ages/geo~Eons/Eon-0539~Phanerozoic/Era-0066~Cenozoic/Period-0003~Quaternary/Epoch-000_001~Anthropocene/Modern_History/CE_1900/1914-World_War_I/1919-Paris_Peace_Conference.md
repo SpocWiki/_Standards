@@ -1,4 +1,5 @@
 ---
+has_time_started: 1919-01-18 
 location: '[[_Standards/WikiData/WD~Paris,90|WD~Paris,90]]'
 aliases:
 - 1919-Paris Peace Conference
