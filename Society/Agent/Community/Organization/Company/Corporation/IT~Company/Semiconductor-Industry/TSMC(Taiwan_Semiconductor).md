@@ -145,7 +145,7 @@ dv_has_:
 #is_/different_from :: [[UMC(United_Microelectronics_Corporation)]] 
 #has_/dependencies :: [[Jenoptik]] 
 #has_/dependents :: [[../../../../../../../../Technology/IT/Computer_Hardware/Apple_Inc|Apple,Company]], [[Nvidia|Nvidia]], [[Qualcomm|Qualcomm]], [[AMD(Advanced_Micro_Devices)|AMD]], [[Broadcom|Broadcom]], [[MediaTek]], [[Intel|Intel]] 
-#has_/time_started :: 1987-02-21 
+#has_/time_/started :: 1987-02-21 
 
 
 [[UMC(United_Microelectronics_Corporation)]] initially competed with TSMC, 

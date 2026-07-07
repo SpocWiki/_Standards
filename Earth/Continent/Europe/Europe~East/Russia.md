@@ -117,7 +117,7 @@ dv_has_:
     gn: Rrúsia
     gom: रूस
     gor: Rusia
-    got: "\U00010342\U0001033F\U00010343\U00010330\U0001033B\U00010330\U0001033D\U00010333"
+    got: 𐍂𐌿𐍃𐌰𐌻𐌰𐌽𐌳
     gpe: Russia
     gsw: Russland
     gu: રશિયા
@@ -375,14 +375,14 @@ dv_has_:
     zh_sg: 俄罗斯
     zh_tw: 俄羅斯
     zu: IRashiya
-  previous_item: '[[../../Asia/USSR|USSR]]'
+  previous_item: "[[../../Asia/USSR|USSR]]"
   telephone_:
     Prefix_:
       country: 7
       International:
-      - 8
-      - 9
-      - 10
+        - 8
+        - 9
+        - 10
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Russia
 dv_ISO4217-currency_alphabetic: RUB
@@ -394,8 +394,8 @@ dv_Global: true
 dv_Global_Name: World
 dv_has_name: Russia
 dv_has_name_en:
-- Russian Federation
-- Russia
+  - Russian Federation
+  - Russia
 dv_has_name_es: Federación de Rusia
 dv_has_name_fr: Fédération de Russie
 dv_has_name_cn: 俄罗斯联邦
@@ -414,9 +414,9 @@ dv_UNTERM_Chinese_Formal: 俄罗斯联邦
 dv_UNTERM_French_Formal: la Fédération de Russie
 dv_UNTERM_Russian: Российская Федерация
 dv_UNTERM_Russian_Formal: Российская Федерация
-dv_Region_Name: '[Europe](Europe)'
-dv_Intermediate_Region_Name: '[Russia]()'
-dv_Sub-region_Name: '[Eastern Europe](Eastern%20Europe)'
+dv_Region_Name: "[Europe](Europe)"
+dv_Intermediate_Region_Name: "[Russia](Russia)"
+dv_Sub-region_Name: "[Eastern Europe](Eastern%20Europe)"
 dv_Region: 150
 dv_Sub-region: 151
 dv_Geoname-ID: 2017370
@@ -439,644 +439,833 @@ dv_ISO2: RU
 dv_ISO3: RUS
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Russia,159|WD~Russia,159]]'
-  - '[[/_Standards/Earth/Continent/Europe/Europe~East/Russia|Russia]]'
-  - '[[/_public/Earth/Continent/Europe/Europe~East/Russia.public|Russia.public]]'
-  - '[[/_internal/Earth/Continent/Europe/Europe~East/Russia.internal|Russia.internal]]'
-  - '[[/_protect/Earth/Continent/Europe/Europe~East/Russia.protect|Russia.protect]]'
-  - '[[/_private/Earth/Continent/Europe/Europe~East/Russia.private|Russia.private]]'
-  - '[[/_personal/Earth/Continent/Europe/Europe~East/Russia.personal|Russia.personal]]'
-  - '[[/_secret/Earth/Continent/Europe/Europe~East/Russia.secret|Russia.secret]]'
+    - "[[../../../../WikiData/WD~Russia,159|WD~Russia,159]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~East/Russia|Russia]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~East/Russia.public|Russia.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~East/Russia.internal|Russia.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~East/Russia.protect|Russia.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~East/Russia.private|Russia.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~East/Russia.personal|Russia.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~East/Russia.secret|Russia.secret]]"
 dv_has_name_de: Russland
-dv_Area-Total: 1.71E+07
-dv_Area-Land: 1.69958E+07
-dv_has_place_continent: '[Europe](Europe)'
-dv_Capital: '[Moscow,City](Russia/Russia~Central/Moscow_Oblast/City/Moscow,City)'
+dv_Area-Total: 17100000
+dv_Area-Land: 16995800
+dv_has_place_continent: "[Europe](Europe)"
+dv_Capital: "[Moscow,City](Russia/Russia~Central/Moscow_Oblast/City/Moscow,City)"
 dv_Alcohol-l: 15.8
 dv_Language-Id: 469
-dv_is_a_: '[place](../../../Geography/Place)'
+dv_is_a_: "[place](../../../Geography/Place)"
 dv_has_place_longitude: 47.4574
 dv_has_place_latitude: 52.6418
-dv_has_previous_item: '[[../../Asia/USSR|USSR]]'
+dv_has_previous_item: "[[../../Asia/USSR|USSR]]"
 dv_has_telephone_prefix_country: 7
 dv_has_telephone_prefix_international:
-- 8
-- 9
-- 10
+  - 8
+  - 9
+  - 10
 dv_developed_developing_countries: Developed
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Russia,159|WD~Russia,159]]'
-- '[[/_Standards/Earth/Continent/Europe/Europe~East/Russia|Russia]]'
-- '[[/_public/Earth/Continent/Europe/Europe~East/Russia.public|Russia.public]]'
-- '[[/_internal/Earth/Continent/Europe/Europe~East/Russia.internal|Russia.internal]]'
-- '[[/_protect/Earth/Continent/Europe/Europe~East/Russia.protect|Russia.protect]]'
-- '[[/_private/Earth/Continent/Europe/Europe~East/Russia.private|Russia.private]]'
-- '[[/_personal/Earth/Continent/Europe/Europe~East/Russia.personal|Russia.personal]]'
-- '[[/_secret/Earth/Continent/Europe/Europe~East/Russia.secret|Russia.secret]]'
+  - "[[../../../../WikiData/WD~Russia,159|WD~Russia,159]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~East/Russia|Russia]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~East/Russia.public|Russia.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~East/Russia.internal|Russia.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~East/Russia.protect|Russia.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~East/Russia.private|Russia.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~East/Russia.personal|Russia.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~East/Russia.secret|Russia.secret]]"
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Russia
-
 aliases:
+  - An Ruis
+  - an Rúis
+  - Arusia
+  - Biʼééʼ Łichííʼí Bikéyah
+  - Errusia
+  - Ezlozswh
+  - Federación de Rusia
+  - Federación de Rusia (la)
+  - Fédération de Russie
+  - Gárjjel
+  - I-Russia
+  - IRashiya
+  - Krievija
+  - Krīevõmō
+  - Krīveja
+  - la Federación de Rusia
+  - Lusia
+  - Lō͘-se-a
+  - Lūsia
+  - ma Losi
+  - Mackālija
+  - Nga
+  - Ngò-lò-sṳ̂
+  - Ngò̤-lò̤-sṳ̆
+  - Oroszország
+  - Portiko them
+  - Rasha
+  - Rashia
+  - Rasia
+  - Ratsiya
+  - Riisi
+  - Risi
+  - Risila
+  - Roosiya
+  - Rosha
+  - Roshya
+  - Rosia
+  - Rosja
+  - Rossia
+  - Rossiya
+  - Rosėjė
+  - Roushie
+  - Rrus
+  - Rrúsia
+  - Ruccia
+  - rukygu'e
+  - Ruošša
+  - Ruoššâ
+  - Ruscia
+  - Rusha
+  - Rusi
+  - Rusia
+  - Rusija
+  - Rusio
+  - Rusiya
+  - Rusiye
+  - Rusiä
+  - Ruska
+  - Ruska federacija
+  - Rusko
+  - Ruskô
+  - Ruslaand
+  - Ruslan
+  - Rusland
+  - Ruslandi
+  - Ruslound
+  - Ruslun
+  - Ruslân
+  - Rusojska
+  - Russi
   - Russia
   - Russian
   - Russian Federation
-- Federación de Rusia
-- Fédération de Russie
-- الاتحاد الروسي
-- 俄罗斯联邦
-  - Российская Федерация
-  - the Russian Federation
   - Russian Federation (the)
-  - la Federación de Rusia
-  - Federación de Rusia (la)
+  - Russie
+  - Russiýa
+  - Russja
+  - Russlaante
+  - Russland
+  - Russlond
+  - Rusya
+  - Rusyjo
+  - Rusän
+  - Rusí
+  - Rusïi
+  - Ruushka
+  - Ruusii
+  - Ruõššjânnam
+  - Rußland
+  - Rwasha
+  - Rwsia
+  - Ryssland
+  - Rùsia
+  - Rùssia
+  - Rús
+  - Rúsia
+  - Rússia
+  - Rússland
+  - Rûsseye
+  - Rûsya
+  - Rūhia
+  - Rūsia
+  - Rūtia
+  - Rọ́síà
+  - Rọṣia
+  - the Russian Federation
+  - Uburusiya
+  - Urusi
+  - Urusijət
+  - Urusiye
+  - Ven'a
+  - Venemaa
+  - Venäjä
+  - Venäma
+  - Vinnemaa
+  - y Roosh
+  - Ρουσία
+  - Ρωσία
+  - Арассыыйа
+  - Аьрасат
+  - Оросой холбоото улас
+  - Оросын Холбооны Улс
+  - Орсин Ниицән
+  - Орусия
+  - Раççей Патшалăхĕ
+  - Расія
+  - Расея
+  - Ресей
+  - Росія
+  - Росси
+  - Россий
+  - Российская Федерация
+  - Россия
+  - Россия Мастор
+  - Россиялъул Федерация
+  - Рочму
+  - Русија
+  - Русия
+  - Рѡсїꙗ
+  - Рәсәй
+  - Рӯшш е̄ммьне
+  - Уæрæсе
+  - Урусат
+  - Урысей
+  - Урыстәыла
+  - Урысые
+  - Эрсече
+  - Ռուսաստան
+  - Ռուսիա
+  - רוסיה
+  - רוסלאנד
+  - الاتحاد الروسي
+  - روس
+  - روسىيە
+  - روسيا
+  - روسیه
+  - روٗس
+  - رۊسیه
+  - ڕووسیا
+  - ܪܘܣܝܐ
+  - ރޫސީވިލާތް
+  - रशिया
+  - रुस
+  - रूस
+  - রাশিয়া
+  - ৰাছিয়া
+  - ਰੂਸ
+  - રશિયા
+  - ଋଷିଆ
+  - உருசியா
+  - రష్యా
+  - ರಷ್ಯಾ
+  - റഷ്യ
+  - රුසියාව
+  - ประเทศรัสเซีย
+  - ລັດເຊັຽ
+  - ར་ཤི་ཡཱན་ཕེ་ཌི་རེ་ཤཱན
+  - ཨུ་རུ་སུ།
+  - မိူင်းရတ်ႈသျႃး
+  - ရသျားခမ်းထီ
+  - ရုရှာ
+  - ရုရှားနိုင်ငံ
+  - რუსეთი
+  - ሩሲያ
+  - ሩስያ
+  - ᏲᏂᏱ
+  - ᐅᓛᓴ
+  - ᐊᓯᐊ
+  - រុស្ស៊ី
+  - ᠣᡵᠣᠰ
+  - ᱨᱟᱥᱤᱭᱟ
+  - Ṛrus
+  - ⵔⵓⵙⵢⴰ
+  - ロシア
+  - 俄罗斯
+  - 俄罗斯联邦
+  - 俄羅斯
+  - ꠞꠣꠡꠤꠀ
+  - ꯔꯁꯤꯌꯥ
+  - 러시아
+  - 로씨야
+  - 𐍂𐌿𐍃𐌰𐌻𐌰𐌽𐌳
 has_id_wikidata: Q159
 location:
-- 52.6418
-- 47.4574
+  - "52.6418"
+  - "47.4574"
 SpocWebEntityId: 27007
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
 cssclasses:
-- Country
+  - Country
 publish: true
 title: Russia
-linkTitle: ''
-keywords: ''
-layout: ''
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate: ''
-expiryDate: ''
+publishDate: ""
+expiryDate: ""
 Languages:
-- ru
-- tt
-- xal
-- cau
-- ady
-- kv
-- ce
-- tyv
-- cv
-- udm
-- tut
-- mns
-- bua
-- myv
-- mdf
-- chm
-- ba
-- inh
-- kbd
-- krc
-- av
-- sah
-- nog
+  - ru
+  - tt
+  - xal
+  - cau
+  - ady
+  - kv
+  - ce
+  - tyv
+  - cv
+  - udm
+  - tut
+  - mns
+  - bua
+  - myv
+  - mdf
+  - chm
+  - ba
+  - inh
+  - kbd
+  - krc
+  - av
+  - sah
+  - nog
 icon: flag-ru
 member_of:
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
-- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656|WD~International_Civil_Defence_Organisation,162656]]'
-- '[[_Standards/WikiData/WD~Union_State,166110|WD~Union_State,166110]]'
-- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
-- '[[_Standards/WikiData/WD~Asia-Pacific_Economic_Cooperation,170481|WD~Asia-Pacific_Economic_Cooperation,170481]]'
-- '[[_Standards/WikiData/WD~states_with_nuclear_weapons,189062|WD~states_with_nuclear_weapons,189062]]'
-- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
-- '[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611|WD~International_Hydrographic_Organization,233611]]'
-- '[[_Standards/WikiData/WD~BRICS,243630|WD~BRICS,243630]]'
-- '[[_Standards/WikiData/WD~Collective_Security_Treaty_Organization,318693|WD~Collective_Security_Treaty_Organization,318693]]'
-- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]'
-- '[[_Standards/WikiData/WD~Organization_of_the_Black_Sea_Economic_Cooperation,380340|WD~Organization_of_the_Black_Sea_Economic_Cooperation,380340]]'
-- '[[_Standards/WikiData/WD~Shanghai_Cooperation_Organisation,485207|WD~Shanghai_Cooperation_Organisation,485207]]'
-- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]'
-- '[[_Standards/WikiData/WD~Arctic_Council,674182|WD~Arctic_Council,674182]]'
-- '[[_Standards/WikiData/WD~Council_of_the_Baltic_Sea_States,789769|WD~Council_of_the_Baltic_Sea_States,789769]]'
-- '[[_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]'
-- '[[_Standards/WikiData/WD~BRIC,833202|WD~BRIC,833202]]'
-- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
-- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
-- '[[_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120|WD~Missile_Technology_Control_Regime,1072120]]'
-- '[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793|WD~Nuclear_Suppliers_Group,1480793]]'
-- '[[_Standards/WikiData/WD~Commonwealth_of_Independent_States_Free_Trade_Area,1702783|WD~Commonwealth_of_Independent_States_Free_Trade_Area,1702783]]'
-- '[[_Standards/WikiData/WD~Central_Asian_Cooperation_Organization,2297670|WD~Central_Asian_Cooperation_Organization,2297670]]'
-- '[[_Standards/WikiData/WD~Barents_Euro-Arctic_Council,4426190|WD~Barents_Euro-Arctic_Council,4426190]]'
-- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262|WD~Group_on_Earth_Observations,5611262]]'
-- '[[_Standards/WikiData/WD~ASEAN_Regional_Forum,7886981|WD~ASEAN_Regional_Forum,7886981]]'
-- '[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
-- '[[_Standards/WikiData/WD~Commonwealth_of_Independent_States,7779|WD~Commonwealth_of_Independent_States,7779]]'
-- '[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
-- '[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
-- '[[_Standards/WikiData/WD~World_Trade_Organization,7825|WD~World_Trade_Organization,7825]]'
-- '[[_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]'
-- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]'
-- '[[_Standards/WikiData/WD~G20,19771|WD~G20,19771]]'
-- '[[_Standards/WikiData/WD~United_Nations_Security_Council,37470|WD~United_Nations_Security_Council,37470]]'
+  - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+  - "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656|WD~International_Civil_Defence_Organisation,162656]]"
+  - "[[_Standards/WikiData/WD~Union_State,166110|WD~Union_State,166110]]"
+  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]"
+  - "[[_Standards/WikiData/WD~Asia-Pacific_Economic_Cooperation,170481|WD~Asia-Pacific_Economic_Cooperation,170481]]"
+  - "[[_Standards/WikiData/WD~states_with_nuclear_weapons,189062|WD~states_with_nuclear_weapons,189062]]"
+  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+  - "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611|WD~International_Hydrographic_Organization,233611]]"
+  - "[[_Standards/WikiData/WD~BRICS,243630|WD~BRICS,243630]]"
+  - "[[_Standards/WikiData/WD~Collective_Security_Treaty_Organization,318693|WD~Collective_Security_Treaty_Organization,318693]]"
+  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]"
+  - "[[_Standards/WikiData/WD~Organization_of_the_Black_Sea_Economic_Cooperation,380340|WD~Organization_of_the_Black_Sea_Economic_Cooperation,380340]]"
+  - "[[_Standards/WikiData/WD~Shanghai_Cooperation_Organisation,485207|WD~Shanghai_Cooperation_Organisation,485207]]"
+  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]"
+  - "[[_Standards/WikiData/WD~Arctic_Council,674182|WD~Arctic_Council,674182]]"
+  - "[[_Standards/WikiData/WD~Council_of_the_Baltic_Sea_States,789769|WD~Council_of_the_Baltic_Sea_States,789769]]"
+  - "[[_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]"
+  - "[[_Standards/WikiData/WD~BRIC,833202|WD~BRIC,833202]]"
+  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+  - "[[_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120|WD~Missile_Technology_Control_Regime,1072120]]"
+  - "[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793|WD~Nuclear_Suppliers_Group,1480793]]"
+  - "[[_Standards/WikiData/WD~Commonwealth_of_Independent_States_Free_Trade_Area,1702783|WD~Commonwealth_of_Independent_States_Free_Trade_Area,1702783]]"
+  - "[[_Standards/WikiData/WD~Central_Asian_Cooperation_Organization,2297670|WD~Central_Asian_Cooperation_Organization,2297670]]"
+  - "[[_Standards/WikiData/WD~Barents_Euro-Arctic_Council,4426190|WD~Barents_Euro-Arctic_Council,4426190]]"
+  - "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262|WD~Group_on_Earth_Observations,5611262]]"
+  - "[[_Standards/WikiData/WD~ASEAN_Regional_Forum,7886981|WD~ASEAN_Regional_Forum,7886981]]"
+  - "[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]"
+  - "[[_Standards/WikiData/WD~Commonwealth_of_Independent_States,7779|WD~Commonwealth_of_Independent_States,7779]]"
+  - "[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]"
+  - "[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]"
+  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825|WD~World_Trade_Organization,7825]]"
+  - "[[_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]"
+  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]"
+  - "[[_Standards/WikiData/WD~G20,19771|WD~G20,19771]]"
+  - "[[_Standards/WikiData/WD~United_Nations_Security_Council,37470|WD~United_Nations_Security_Council,37470]]"
 located_in_or_next_to_body_of_water:
-- '[[_Standards/WikiData/WD~Chukchi_Sea,159252|WD~Chukchi_Sea,159252]]'
-- '[[_Standards/WikiData/WD~East_Siberian_Sea,163434|WD~East_Siberian_Sea,163434]]'
-- '[[_Standards/WikiData/WD~Pechora_Sea,217501|WD~Pechora_Sea,217501]]'
-- '[[_Standards/WikiData/WD~Baltic_Sea,545|WD~Baltic_Sea,545]]'
-- '[[_Standards/WikiData/WD~Arctic_Ocean,788|WD~Arctic_Ocean,788]]'
-- '[[_Standards/WikiData/WD~Caspian_Sea,5484|WD~Caspian_Sea,5484]]'
-- '[[_Standards/WikiData/WD~Laptev_Sea,7988|WD~Laptev_Sea,7988]]'
-- '[[_Standards/WikiData/WD~Sea_of_Japan,27092|WD~Sea_of_Japan,27092]]'
-- '[[_Standards/WikiData/WD~Pacific_Ocean,98|WD~Pacific_Ocean,98]]'
-- '[[_Standards/WikiData/WD~Black_Sea,166|WD~Black_Sea,166]]'
-- '[[_Standards/WikiData/WD~Kara_Sea,33629|WD~Kara_Sea,33629]]'
-- '[[_Standards/WikiData/WD~Sea_of_Azov,35000|WD~Sea_of_Azov,35000]]'
-- '[[_Standards/WikiData/WD~Sea_of_Okhotsk,41602|WD~Sea_of_Okhotsk,41602]]'
-- '[[_Standards/WikiData/WD~White_Sea,44133|WD~White_Sea,44133]]'
-- '[[_Standards/WikiData/WD~Bering_Sea,44725|WD~Bering_Sea,44725]]'
-- '[[_Standards/WikiData/WD~Barents_Sea,45823|WD~Barents_Sea,45823]]'
-- '[[_Standards/WikiData/WD~Shantar_Sea,13402972|WD~Shantar_Sea,13402972]]'
-- '[[_Standards/WikiData/WD~Queen_Victoria_Sea,28059689|WD~Queen_Victoria_Sea,28059689]]'
+  - "[[_Standards/WikiData/WD~Chukchi_Sea,159252|WD~Chukchi_Sea,159252]]"
+  - "[[_Standards/WikiData/WD~East_Siberian_Sea,163434|WD~East_Siberian_Sea,163434]]"
+  - "[[_Standards/WikiData/WD~Pechora_Sea,217501|WD~Pechora_Sea,217501]]"
+  - "[[_Standards/WikiData/WD~Baltic_Sea,545|WD~Baltic_Sea,545]]"
+  - "[[_Standards/WikiData/WD~Arctic_Ocean,788|WD~Arctic_Ocean,788]]"
+  - "[[_Standards/WikiData/WD~Caspian_Sea,5484|WD~Caspian_Sea,5484]]"
+  - "[[_Standards/WikiData/WD~Laptev_Sea,7988|WD~Laptev_Sea,7988]]"
+  - "[[_Standards/WikiData/WD~Sea_of_Japan,27092|WD~Sea_of_Japan,27092]]"
+  - "[[_Standards/WikiData/WD~Pacific_Ocean,98|WD~Pacific_Ocean,98]]"
+  - "[[_Standards/WikiData/WD~Black_Sea,166|WD~Black_Sea,166]]"
+  - "[[_Standards/WikiData/WD~Kara_Sea,33629|WD~Kara_Sea,33629]]"
+  - "[[_Standards/WikiData/WD~Sea_of_Azov,35000|WD~Sea_of_Azov,35000]]"
+  - "[[_Standards/WikiData/WD~Sea_of_Okhotsk,41602|WD~Sea_of_Okhotsk,41602]]"
+  - "[[_Standards/WikiData/WD~White_Sea,44133|WD~White_Sea,44133]]"
+  - "[[_Standards/WikiData/WD~Bering_Sea,44725|WD~Bering_Sea,44725]]"
+  - "[[_Standards/WikiData/WD~Barents_Sea,45823|WD~Barents_Sea,45823]]"
+  - "[[_Standards/WikiData/WD~Shantar_Sea,13402972|WD~Shantar_Sea,13402972]]"
+  - "[[_Standards/WikiData/WD~Queen_Victoria_Sea,28059689|WD~Queen_Victoria_Sea,28059689]]"
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~Holy_See,159583|WD~Holy_See,159583]]'
-- '[[_Standards/WikiData/WD~Palestine,219060|WD~Palestine,219060]]'
-- '[[_Standards/WikiData/WD~South_Africa,258|WD~South_Africa,258]]'
-- '[[_Standards/WikiData/WD~Algeria,262|WD~Algeria,262]]'
-- '[[_Standards/WikiData/WD~Uzbekistan,265|WD~Uzbekistan,265]]'
-- '[[_Standards/WikiData/WD~Chile,298|WD~Chile,298]]'
-- '[[_Standards/WikiData/WD~Singapore,334|WD~Singapore,334]]'
-- '[[_Standards/WikiData/WD~Bahrain,398|WD~Bahrain,398]]'
-- '[[_Standards/WikiData/WD~Armenia,399|WD~Armenia,399]]'
-- '[[_Standards/WikiData/WD~Serbia,403|WD~Serbia,403]]'
-- '[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]'
-- '[[_Standards/WikiData/WD~Argentina,414|WD~Argentina,414]]'
-- '[[_Standards/WikiData/WD~Peru,419|WD~Peru,419]]'
-- '[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]'
-- '[[_Standards/WikiData/WD~Cambodia,424|WD~Cambodia,424]]'
-- '[[_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]'
-- '[[_Standards/WikiData/WD~Timor-Leste,574|WD~Timor-Leste,574]]'
-- '[[_Standards/WikiData/WD~New_Zealand,664|WD~New_Zealand,664]]'
-- '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
-- '[[_Standards/WikiData/WD~Vanuatu,686|WD~Vanuatu,686]]'
-- '[[_Standards/WikiData/WD~Nauru,697|WD~Nauru,697]]'
-- '[[_Standards/WikiData/WD~Mongolia,711|WD~Mongolia,711]]'
-- '[[_Standards/WikiData/WD~Fiji,712|WD~Fiji,712]]'
-- '[[_Standards/WikiData/WD~Venezuela,717|WD~Venezuela,717]]'
-- '[[_Standards/WikiData/WD~Guyana,734|WD~Guyana,734]]'
-- '[[_Standards/WikiData/WD~Paraguay,733|WD~Paraguay,733]]'
-- '[[_Standards/WikiData/WD~Colombia,739|WD~Colombia,739]]'
-- '[[_Standards/WikiData/WD~Ecuador,736|WD~Ecuador,736]]'
-- '[[_Standards/WikiData/WD~Bolivia,750|WD~Bolivia,750]]'
-- '[[_Standards/WikiData/WD~Trinidad_and_Tobago,754|WD~Trinidad_and_Tobago,754]]'
-- '[[_Standards/WikiData/WD~Guatemala,774|WD~Guatemala,774]]'
-- '[[_Standards/WikiData/WD~Honduras,783|WD~Honduras,783]]'
-- '[[_Standards/WikiData/WD~Iraq,796|WD~Iraq,796]]'
-- '[[_Standards/WikiData/WD~Costa_Rica,800|WD~Costa_Rica,800]]'
-- '[[_Standards/WikiData/WD~Israel,801|WD~Israel,801]]'
-- '[[_Standards/WikiData/WD~Panama,804|WD~Panama,804]]'
-- '[[_Standards/WikiData/WD~Yemen,805|WD~Yemen,805]]'
-- '[[_Standards/WikiData/WD~Nicaragua,811|WD~Nicaragua,811]]'
-- '[[_Standards/WikiData/WD~Kyrgyzstan,813|WD~Kyrgyzstan,813]]'
-- '[[_Standards/WikiData/WD~Laos,819|WD~Laos,819]]'
-- '[[_Standards/WikiData/WD~Kuwait,817|WD~Kuwait,817]]'
-- '[[_Standards/WikiData/WD~Lebanon,822|WD~Lebanon,822]]'
-- '[[_Standards/WikiData/WD~Maldives,826|WD~Maldives,826]]'
-- '[[_Standards/WikiData/WD~Malaysia,833|WD~Malaysia,833]]'
-- '[[_Standards/WikiData/WD~Myanmar,836|WD~Myanmar,836]]'
-- '[[_Standards/WikiData/WD~Nepal,837|WD~Nepal,837]]'
-- '[[_Standards/WikiData/WD~Oman,842|WD~Oman,842]]'
-- '[[_Standards/WikiData/WD~Pakistan,843|WD~Pakistan,843]]'
-- '[[_Standards/WikiData/WD~Sri_Lanka,854|WD~Sri_Lanka,854]]'
-- '[[_Standards/WikiData/WD~Syria,858|WD~Syria,858]]'
-- '[[_Standards/WikiData/WD~Tajikistan,863|WD~Tajikistan,863]]'
-- '[[_Standards/WikiData/WD~Thailand,869|WD~Thailand,869]]'
-- '[[_Standards/WikiData/WD~Turkmenistan,874|WD~Turkmenistan,874]]'
-- '[[_Standards/WikiData/WD~United_Arab_Emirates,878|WD~United_Arab_Emirates,878]]'
-- '[[_Standards/WikiData/WD~Vietnam,881|WD~Vietnam,881]]'
-- '[[_Standards/WikiData/WD~South_Korea,884|WD~South_Korea,884]]'
-- '[[_Standards/WikiData/WD~Afghanistan,889|WD~Afghanistan,889]]'
-- '[[_Standards/WikiData/WD~Bangladesh,902|WD~Bangladesh,902]]'
-- '[[_Standards/WikiData/WD~Mali,912|WD~Mali,912]]'
-- '[[_Standards/WikiData/WD~Angola,916|WD~Angola,916]]'
-- '[[_Standards/WikiData/WD~Bhutan,917|WD~Bhutan,917]]'
-- '[[_Standards/WikiData/WD~Brunei,921|WD~Brunei,921]]'
-- '[[_Standards/WikiData/WD~Tanzania,924|WD~Tanzania,924]]'
-- '[[_Standards/WikiData/WD~Philippines,928|WD~Philippines,928]]'
-- '[[_Standards/WikiData/WD~Tunisia,948|WD~Tunisia,948]]'
-- '[[_Standards/WikiData/WD~Zimbabwe,954|WD~Zimbabwe,954]]'
-- '[[_Standards/WikiData/WD~Zambia,953|WD~Zambia,953]]'
-- '[[_Standards/WikiData/WD~South_Sudan,958|WD~South_Sudan,958]]'
-- '[[_Standards/WikiData/WD~Benin,962|WD~Benin,962]]'
-- '[[_Standards/WikiData/WD~Botswana,963|WD~Botswana,963]]'
-- '[[_Standards/WikiData/WD~Burkina_Faso,965|WD~Burkina_Faso,965]]'
-- '[[_Standards/WikiData/WD~Republic_of_the_Congo,971|WD~Republic_of_the_Congo,971]]'
-- '[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974|WD~Democratic_Republic_of_the_Congo,974]]'
-- '[[_Standards/WikiData/WD~Equatorial_Guinea,983|WD~Equatorial_Guinea,983]]'
-- '[[_Standards/WikiData/WD~Guinea-Bissau,1007|WD~Guinea-Bissau,1007]]'
-- '[[_Standards/WikiData/WD~The_Gambia,1005|WD~The_Gambia,1005]]'
-- '[[_Standards/WikiData/WD~Cape_Verde,1011|WD~Cape_Verde,1011]]'
-- '[[_Standards/WikiData/WD~Ivory_Coast,1008|WD~Ivory_Coast,1008]]'
-- '[[_Standards/WikiData/WD~Lesotho,1013|WD~Lesotho,1013]]'
-- '[[_Standards/WikiData/WD~Madagascar,1019|WD~Madagascar,1019]]'
-- '[[_Standards/WikiData/WD~Libya,1016|WD~Libya,1016]]'
-- '[[_Standards/WikiData/WD~Mauritius,1027|WD~Mauritius,1027]]'
-- '[[_Standards/WikiData/WD~Mauritania,1025|WD~Mauritania,1025]]'
-- '[[_Standards/WikiData/WD~Namibia,1030|WD~Namibia,1030]]'
-- '[[_Standards/WikiData/WD~Morocco,1028|WD~Morocco,1028]]'
-- '[[_Standards/WikiData/WD~Mozambique,1029|WD~Mozambique,1029]]'
-- '[[_Standards/WikiData/WD~Nigeria,1033|WD~Nigeria,1033]]'
-- '[[_Standards/WikiData/WD~Uganda,1036|WD~Uganda,1036]]'
-- '[[_Standards/WikiData/WD~Seychelles,1042|WD~Seychelles,1042]]'
-- '[[_Standards/WikiData/WD~Senegal,1041|WD~Senegal,1041]]'
-- '[[_Standards/WikiData/WD~Eswatini,1050|WD~Eswatini,1050]]'
-- '[[_Standards/WikiData/WD~Sudan,1049|WD~Sudan,1049]]'
-- '[[_Standards/WikiData/WD~Arab_League,7172|WD~Arab_League,7172]]'
-- '[[_Standards/WikiData/WD~South_Ossetia,23427|WD~South_Ossetia,23427]]'
-- '[[_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
-- '[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
-- '[[_Standards/WikiData/WD~Norway,20|WD~Norway,20]]'
-- '[[_Standards/WikiData/WD~Ireland,27|WD~Ireland,27]]'
-- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Belgium,31|WD~Belgium,31]]'
-- '[[_Standards/WikiData/WD~Hungary,28|WD~Hungary,28]]'
-- '[[_Standards/WikiData/WD~Spain,29|WD~Spain,29]]'
-- '[[_Standards/WikiData/WD~Sweden,34|WD~Sweden,34]]'
-- '[[_Standards/WikiData/WD~Denmark,35|WD~Denmark,35]]'
-- '[[_Standards/WikiData/WD~Luxembourg,32|WD~Luxembourg,32]]'
-- '[[_Standards/WikiData/WD~Italy,38|WD~Italy,38]]'
-- '[[_Standards/WikiData/WD~Switzerland,39|WD~Switzerland,39]]'
-- '[[_Standards/WikiData/WD~Poland,36|WD~Poland,36]]'
-- '[[_Standards/WikiData/WD~Lithuania,37|WD~Lithuania,37]]'
-- '[[_Standards/WikiData/WD~Turkey,43|WD~Turkey,43]]'
-- '[[_Standards/WikiData/WD~Austria,40|WD~Austria,40]]'
-- '[[_Standards/WikiData/WD~Greece,41|WD~Greece,41]]'
-- '[[_Standards/WikiData/WD~Portugal,45|WD~Portugal,45]]'
-- '[[_Standards/WikiData/WD~Netherlands,55|WD~Netherlands,55]]'
-- '[[_Standards/WikiData/WD~Egypt,79|WD~Egypt,79]]'
-- '[[_Standards/WikiData/WD~Uruguay,77|WD~Uruguay,77]]'
-- '[[_Standards/WikiData/WD~Mexico,96|WD~Mexico,96]]'
-- '[[_Standards/WikiData/WD~Kenya,114|WD~Kenya,114]]'
-- '[[_Standards/WikiData/WD~Ethiopia,115|WD~Ethiopia,115]]'
-- '[[_Standards/WikiData/WD~Ghana,117|WD~Ghana,117]]'
-- '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
-- '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Brazil,155|WD~Brazil,155]]'
-- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
-- '[[_Standards/WikiData/WD~Belarus,184|WD~Belarus,184]]'
-- '[[_Standards/WikiData/WD~Iceland,189|WD~Iceland,189]]'
-- '[[_Standards/WikiData/WD~Latvia,211|WD~Latvia,211]]'
-- '[[_Standards/WikiData/WD~Slovakia,214|WD~Slovakia,214]]'
-- '[[_Standards/WikiData/WD~Slovenia,215|WD~Slovenia,215]]'
-- '[[_Standards/WikiData/WD~Romania,218|WD~Romania,218]]'
-- '[[_Standards/WikiData/WD~Bulgaria,219|WD~Bulgaria,219]]'
-- '[[_Standards/WikiData/WD~Moldova,217|WD~Moldova,217]]'
-- '[[_Standards/WikiData/WD~Albania,222|WD~Albania,222]]'
-- '[[_Standards/WikiData/WD~North_Macedonia,221|WD~North_Macedonia,221]]'
-- '[[_Standards/WikiData/WD~Azerbaijan,227|WD~Azerbaijan,227]]'
-- '[[_Standards/WikiData/WD~Bosnia_and_Herzegovina,225|WD~Bosnia_and_Herzegovina,225]]'
-- '[[_Standards/WikiData/WD~Cyprus,229|WD~Cyprus,229]]'
-- '[[_Standards/WikiData/WD~Monaco,235|WD~Monaco,235]]'
-- '[[_Standards/WikiData/WD~Kazakhstan,232|WD~Kazakhstan,232]]'
-- '[[_Standards/WikiData/WD~Malta,233|WD~Malta,233]]'
-- '[[_Standards/WikiData/WD~San_Marino,238|WD~San_Marino,238]]'
-- '[[_Standards/WikiData/WD~Montenegro,236|WD~Montenegro,236]]'
-- '[[_Standards/WikiData/WD~Cuba,241|WD~Cuba,241]]'
-- '[[_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]'
-- "[[_Standards/WikiData/WD~Donetsk_People's_Republic,16150196|WD~Donetsk_People's_Republic,16150196]]"
-- "[[_Standards/WikiData/WD~Luhansk_People's_Republic,16746854|WD~Luhansk_People's_Republic,16746854]]"
-- '[[_Standards/WikiData/WD~Republic_of_Abkhazia,31354462|WD~Republic_of_Abkhazia,31354462]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Russia,161414|WD~history_of_Russia,161414]]'
+  - "[[_Standards/WikiData/WD~Holy_See,159583|WD~Holy_See,159583]]"
+  - "[[_Standards/WikiData/WD~Palestine,219060|WD~Palestine,219060]]"
+  - "[[_Standards/WikiData/WD~South_Africa,258|WD~South_Africa,258]]"
+  - "[[_Standards/WikiData/WD~Algeria,262|WD~Algeria,262]]"
+  - "[[_Standards/WikiData/WD~Uzbekistan,265|WD~Uzbekistan,265]]"
+  - "[[_Standards/WikiData/WD~Chile,298|WD~Chile,298]]"
+  - "[[_Standards/WikiData/WD~Singapore,334|WD~Singapore,334]]"
+  - "[[_Standards/WikiData/WD~Bahrain,398|WD~Bahrain,398]]"
+  - "[[_Standards/WikiData/WD~Armenia,399|WD~Armenia,399]]"
+  - "[[_Standards/WikiData/WD~Serbia,403|WD~Serbia,403]]"
+  - "[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]"
+  - "[[_Standards/WikiData/WD~Argentina,414|WD~Argentina,414]]"
+  - "[[_Standards/WikiData/WD~Peru,419|WD~Peru,419]]"
+  - "[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]"
+  - "[[_Standards/WikiData/WD~Cambodia,424|WD~Cambodia,424]]"
+  - "[[_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]"
+  - "[[_Standards/WikiData/WD~Timor-Leste,574|WD~Timor-Leste,574]]"
+  - "[[_Standards/WikiData/WD~New_Zealand,664|WD~New_Zealand,664]]"
+  - "[[_Standards/WikiData/WD~India,668|WD~India,668]]"
+  - "[[_Standards/WikiData/WD~Vanuatu,686|WD~Vanuatu,686]]"
+  - "[[_Standards/WikiData/WD~Nauru,697|WD~Nauru,697]]"
+  - "[[_Standards/WikiData/WD~Mongolia,711|WD~Mongolia,711]]"
+  - "[[_Standards/WikiData/WD~Fiji,712|WD~Fiji,712]]"
+  - "[[_Standards/WikiData/WD~Venezuela,717|WD~Venezuela,717]]"
+  - "[[_Standards/WikiData/WD~Guyana,734|WD~Guyana,734]]"
+  - "[[_Standards/WikiData/WD~Paraguay,733|WD~Paraguay,733]]"
+  - "[[_Standards/WikiData/WD~Colombia,739|WD~Colombia,739]]"
+  - "[[_Standards/WikiData/WD~Ecuador,736|WD~Ecuador,736]]"
+  - "[[_Standards/WikiData/WD~Bolivia,750|WD~Bolivia,750]]"
+  - "[[_Standards/WikiData/WD~Trinidad_and_Tobago,754|WD~Trinidad_and_Tobago,754]]"
+  - "[[_Standards/WikiData/WD~Guatemala,774|WD~Guatemala,774]]"
+  - "[[_Standards/WikiData/WD~Honduras,783|WD~Honduras,783]]"
+  - "[[_Standards/WikiData/WD~Iraq,796|WD~Iraq,796]]"
+  - "[[_Standards/WikiData/WD~Costa_Rica,800|WD~Costa_Rica,800]]"
+  - "[[_Standards/WikiData/WD~Israel,801|WD~Israel,801]]"
+  - "[[_Standards/WikiData/WD~Panama,804|WD~Panama,804]]"
+  - "[[_Standards/WikiData/WD~Yemen,805|WD~Yemen,805]]"
+  - "[[_Standards/WikiData/WD~Nicaragua,811|WD~Nicaragua,811]]"
+  - "[[_Standards/WikiData/WD~Kyrgyzstan,813|WD~Kyrgyzstan,813]]"
+  - "[[_Standards/WikiData/WD~Laos,819|WD~Laos,819]]"
+  - "[[_Standards/WikiData/WD~Kuwait,817|WD~Kuwait,817]]"
+  - "[[_Standards/WikiData/WD~Lebanon,822|WD~Lebanon,822]]"
+  - "[[_Standards/WikiData/WD~Maldives,826|WD~Maldives,826]]"
+  - "[[_Standards/WikiData/WD~Malaysia,833|WD~Malaysia,833]]"
+  - "[[_Standards/WikiData/WD~Myanmar,836|WD~Myanmar,836]]"
+  - "[[_Standards/WikiData/WD~Nepal,837|WD~Nepal,837]]"
+  - "[[_Standards/WikiData/WD~Oman,842|WD~Oman,842]]"
+  - "[[_Standards/WikiData/WD~Pakistan,843|WD~Pakistan,843]]"
+  - "[[_Standards/WikiData/WD~Sri_Lanka,854|WD~Sri_Lanka,854]]"
+  - "[[_Standards/WikiData/WD~Syria,858|WD~Syria,858]]"
+  - "[[_Standards/WikiData/WD~Tajikistan,863|WD~Tajikistan,863]]"
+  - "[[_Standards/WikiData/WD~Thailand,869|WD~Thailand,869]]"
+  - "[[_Standards/WikiData/WD~Turkmenistan,874|WD~Turkmenistan,874]]"
+  - "[[_Standards/WikiData/WD~United_Arab_Emirates,878|WD~United_Arab_Emirates,878]]"
+  - "[[_Standards/WikiData/WD~Vietnam,881|WD~Vietnam,881]]"
+  - "[[_Standards/WikiData/WD~South_Korea,884|WD~South_Korea,884]]"
+  - "[[_Standards/WikiData/WD~Afghanistan,889|WD~Afghanistan,889]]"
+  - "[[_Standards/WikiData/WD~Bangladesh,902|WD~Bangladesh,902]]"
+  - "[[_Standards/WikiData/WD~Mali,912|WD~Mali,912]]"
+  - "[[_Standards/WikiData/WD~Angola,916|WD~Angola,916]]"
+  - "[[_Standards/WikiData/WD~Bhutan,917|WD~Bhutan,917]]"
+  - "[[_Standards/WikiData/WD~Brunei,921|WD~Brunei,921]]"
+  - "[[_Standards/WikiData/WD~Tanzania,924|WD~Tanzania,924]]"
+  - "[[_Standards/WikiData/WD~Philippines,928|WD~Philippines,928]]"
+  - "[[_Standards/WikiData/WD~Tunisia,948|WD~Tunisia,948]]"
+  - "[[_Standards/WikiData/WD~Zimbabwe,954|WD~Zimbabwe,954]]"
+  - "[[_Standards/WikiData/WD~Zambia,953|WD~Zambia,953]]"
+  - "[[_Standards/WikiData/WD~South_Sudan,958|WD~South_Sudan,958]]"
+  - "[[_Standards/WikiData/WD~Benin,962|WD~Benin,962]]"
+  - "[[_Standards/WikiData/WD~Botswana,963|WD~Botswana,963]]"
+  - "[[_Standards/WikiData/WD~Burkina_Faso,965|WD~Burkina_Faso,965]]"
+  - "[[_Standards/WikiData/WD~Republic_of_the_Congo,971|WD~Republic_of_the_Congo,971]]"
+  - "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974|WD~Democratic_Republic_of_the_Congo,974]]"
+  - "[[_Standards/WikiData/WD~Equatorial_Guinea,983|WD~Equatorial_Guinea,983]]"
+  - "[[_Standards/WikiData/WD~Guinea-Bissau,1007|WD~Guinea-Bissau,1007]]"
+  - "[[_Standards/WikiData/WD~The_Gambia,1005|WD~The_Gambia,1005]]"
+  - "[[_Standards/WikiData/WD~Cape_Verde,1011|WD~Cape_Verde,1011]]"
+  - "[[_Standards/WikiData/WD~Ivory_Coast,1008|WD~Ivory_Coast,1008]]"
+  - "[[_Standards/WikiData/WD~Lesotho,1013|WD~Lesotho,1013]]"
+  - "[[_Standards/WikiData/WD~Madagascar,1019|WD~Madagascar,1019]]"
+  - "[[_Standards/WikiData/WD~Libya,1016|WD~Libya,1016]]"
+  - "[[_Standards/WikiData/WD~Mauritius,1027|WD~Mauritius,1027]]"
+  - "[[_Standards/WikiData/WD~Mauritania,1025|WD~Mauritania,1025]]"
+  - "[[_Standards/WikiData/WD~Namibia,1030|WD~Namibia,1030]]"
+  - "[[_Standards/WikiData/WD~Morocco,1028|WD~Morocco,1028]]"
+  - "[[_Standards/WikiData/WD~Mozambique,1029|WD~Mozambique,1029]]"
+  - "[[_Standards/WikiData/WD~Nigeria,1033|WD~Nigeria,1033]]"
+  - "[[_Standards/WikiData/WD~Uganda,1036|WD~Uganda,1036]]"
+  - "[[_Standards/WikiData/WD~Seychelles,1042|WD~Seychelles,1042]]"
+  - "[[_Standards/WikiData/WD~Senegal,1041|WD~Senegal,1041]]"
+  - "[[_Standards/WikiData/WD~Eswatini,1050|WD~Eswatini,1050]]"
+  - "[[_Standards/WikiData/WD~Sudan,1049|WD~Sudan,1049]]"
+  - "[[_Standards/WikiData/WD~Arab_League,7172|WD~Arab_League,7172]]"
+  - "[[_Standards/WikiData/WD~South_Ossetia,23427|WD~South_Ossetia,23427]]"
+  - "[[_Standards/WikiData/WD~Canada,16|WD~Canada,16]]"
+  - "[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]"
+  - "[[_Standards/WikiData/WD~Norway,20|WD~Norway,20]]"
+  - "[[_Standards/WikiData/WD~Ireland,27|WD~Ireland,27]]"
+  - "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Belgium,31|WD~Belgium,31]]"
+  - "[[_Standards/WikiData/WD~Hungary,28|WD~Hungary,28]]"
+  - "[[_Standards/WikiData/WD~Spain,29|WD~Spain,29]]"
+  - "[[_Standards/WikiData/WD~Sweden,34|WD~Sweden,34]]"
+  - "[[_Standards/WikiData/WD~Denmark,35|WD~Denmark,35]]"
+  - "[[_Standards/WikiData/WD~Luxembourg,32|WD~Luxembourg,32]]"
+  - "[[_Standards/WikiData/WD~Italy,38|WD~Italy,38]]"
+  - "[[_Standards/WikiData/WD~Switzerland,39|WD~Switzerland,39]]"
+  - "[[_Standards/WikiData/WD~Poland,36|WD~Poland,36]]"
+  - "[[_Standards/WikiData/WD~Lithuania,37|WD~Lithuania,37]]"
+  - "[[_Standards/WikiData/WD~Turkey,43|WD~Turkey,43]]"
+  - "[[_Standards/WikiData/WD~Austria,40|WD~Austria,40]]"
+  - "[[_Standards/WikiData/WD~Greece,41|WD~Greece,41]]"
+  - "[[_Standards/WikiData/WD~Portugal,45|WD~Portugal,45]]"
+  - "[[_Standards/WikiData/WD~Netherlands,55|WD~Netherlands,55]]"
+  - "[[_Standards/WikiData/WD~Egypt,79|WD~Egypt,79]]"
+  - "[[_Standards/WikiData/WD~Uruguay,77|WD~Uruguay,77]]"
+  - "[[_Standards/WikiData/WD~Mexico,96|WD~Mexico,96]]"
+  - "[[_Standards/WikiData/WD~Kenya,114|WD~Kenya,114]]"
+  - "[[_Standards/WikiData/WD~Ethiopia,115|WD~Ethiopia,115]]"
+  - "[[_Standards/WikiData/WD~Ghana,117|WD~Ghana,117]]"
+  - "[[_Standards/WikiData/WD~France,142|WD~France,142]]"
+  - "[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]"
+  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~Brazil,155|WD~Brazil,155]]"
+  - "[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]"
+  - "[[_Standards/WikiData/WD~Belarus,184|WD~Belarus,184]]"
+  - "[[_Standards/WikiData/WD~Iceland,189|WD~Iceland,189]]"
+  - "[[_Standards/WikiData/WD~Latvia,211|WD~Latvia,211]]"
+  - "[[_Standards/WikiData/WD~Slovakia,214|WD~Slovakia,214]]"
+  - "[[_Standards/WikiData/WD~Slovenia,215|WD~Slovenia,215]]"
+  - "[[_Standards/WikiData/WD~Romania,218|WD~Romania,218]]"
+  - "[[_Standards/WikiData/WD~Bulgaria,219|WD~Bulgaria,219]]"
+  - "[[_Standards/WikiData/WD~Moldova,217|WD~Moldova,217]]"
+  - "[[_Standards/WikiData/WD~Albania,222|WD~Albania,222]]"
+  - "[[_Standards/WikiData/WD~North_Macedonia,221|WD~North_Macedonia,221]]"
+  - "[[_Standards/WikiData/WD~Azerbaijan,227|WD~Azerbaijan,227]]"
+  - "[[_Standards/WikiData/WD~Bosnia_and_Herzegovina,225|WD~Bosnia_and_Herzegovina,225]]"
+  - "[[_Standards/WikiData/WD~Cyprus,229|WD~Cyprus,229]]"
+  - "[[_Standards/WikiData/WD~Monaco,235|WD~Monaco,235]]"
+  - "[[_Standards/WikiData/WD~Kazakhstan,232|WD~Kazakhstan,232]]"
+  - "[[_Standards/WikiData/WD~Malta,233|WD~Malta,233]]"
+  - "[[_Standards/WikiData/WD~San_Marino,238|WD~San_Marino,238]]"
+  - "[[_Standards/WikiData/WD~Montenegro,236|WD~Montenegro,236]]"
+  - "[[_Standards/WikiData/WD~Cuba,241|WD~Cuba,241]]"
+  - "[[_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]"
+  - "[[_Standards/WikiData/WD~Donetsk_People's_Republic,16150196|WD~Donetsk_People's_Republic,16150196]]"
+  - "[[_Standards/WikiData/WD~Luhansk_People's_Republic,16746854|WD~Luhansk_People's_Republic,16746854]]"
+  - "[[_Standards/WikiData/WD~Republic_of_Abkhazia,31354462|WD~Republic_of_Abkhazia,31354462]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Russia,161414|WD~history_of_Russia,161414]]"
 public_holiday:
-- '[[_Standards/WikiData/WD~Defender_of_the_Fatherland_Day,163708|WD~Defender_of_the_Fatherland_Day,163708]]'
-- "[[_Standards/WikiData/WD~New_Year's_Day,196627|WD~New_Year's_Day,196627]]"
-- '[[_Standards/WikiData/WD~Victory_Day,270706|WD~Victory_Day,270706]]'
-- '[[_Standards/WikiData/WD~Russia_Day,1432329|WD~Russia_Day,1432329]]'
-- "[[_Standards/WikiData/WD~International_Women's_Day,38964|WD~International_Women's_Day,38964]]"
-- "[[_Standards/WikiData/WD~International_Workers'_Day,47499|WD~International_Workers'_Day,47499]]"
-coat_of_arms: '[[_Standards/WikiData/WD~Coat_of_arms_of_Russia,165508|WD~Coat_of_arms_of_Russia,165508]]'
+  - "[[_Standards/WikiData/WD~Defender_of_the_Fatherland_Day,163708|WD~Defender_of_the_Fatherland_Day,163708]]"
+  - "[[_Standards/WikiData/WD~New_Year's_Day,196627|WD~New_Year's_Day,196627]]"
+  - "[[_Standards/WikiData/WD~Victory_Day,270706|WD~Victory_Day,270706]]"
+  - "[[_Standards/WikiData/WD~Russia_Day,1432329|WD~Russia_Day,1432329]]"
+  - "[[_Standards/WikiData/WD~International_Women's_Day,38964|WD~International_Women's_Day,38964]]"
+  - "[[_Standards/WikiData/WD~International_Workers'_Day,47499|WD~International_Workers'_Day,47499]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Coat_of_arms_of_Russia,165508|WD~Coat_of_arms_of_Russia,165508]]"
 different_from:
-- '[[_Standards/WikiData/WD~Tsardom_of_Russia,186096|WD~Tsardom_of_Russia,186096]]'
-- '[[_Standards/WikiData/WD~Russia,398720|WD~Russia,398720]]'
-- '[[_Standards/WikiData/WD~Rusko,414097|WD~Rusko,414097]]'
-- '[[_Standards/WikiData/WD~Ruslan,1175776|WD~Ruslan,1175776]]'
-- '[[_Standards/WikiData/WD~Rusland,7381066|WD~Rusland,7381066]]'
-- '[[_Standards/WikiData/WD~Nga,10798581|WD~Nga,10798581]]'
-- '[[_Standards/WikiData/WD~Rusia,87212467|WD~Rusia,87212467]]'
-- '[[_Standards/WikiData/WD~Russland,87212465|WD~Russland,87212465]]'
+  - "[[_Standards/WikiData/WD~Tsardom_of_Russia,186096|WD~Tsardom_of_Russia,186096]]"
+  - "[[_Standards/WikiData/WD~Russia,398720|WD~Russia,398720]]"
+  - "[[_Standards/WikiData/WD~Rusko,414097|WD~Rusko,414097]]"
+  - "[[_Standards/WikiData/WD~Ruslan,1175776|WD~Ruslan,1175776]]"
+  - "[[_Standards/WikiData/WD~Rusland,7381066|WD~Rusland,7381066]]"
+  - "[[_Standards/WikiData/WD~Nga,10798581|WD~Nga,10798581]]"
+  - "[[_Standards/WikiData/WD~Rusia,87212467|WD~Rusia,87212467]]"
+  - "[[_Standards/WikiData/WD~Russland,87212465|WD~Russland,87212465]]"
 top_level_Internet_domain:
-- '[[_Standards/WikiData/WD~.рф,200439|WD~.рф,200439]]'
-- '[[_Standards/WikiData/WD~.ru,36541|WD~.ru,36541]]'
-- '[[_Standards/WikiData/WD~.su,48369|WD~.su,48369]]'
-- '[[_Standards/WikiData/WD~.рус,16524723|WD~.рус,16524723]]'
-office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Russia,218295|WD~President_of_Russia,218295]]'
+  - "[[_Standards/WikiData/WD~.рф,200439|WD~.рф,200439]]"
+  - "[[_Standards/WikiData/WD~.ru,36541|WD~.ru,36541]]"
+  - "[[_Standards/WikiData/WD~.su,48369|WD~.su,48369]]"
+  - "[[_Standards/WikiData/WD~.рус,16524723|WD~.рус,16524723]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Russia,218295|WD~President_of_Russia,218295]]"
 ethnic_group:
-- '[[_Standards/WikiData/WD~Chuvash_people,253410|WD~Chuvash_people,253410]]'
-- '[[_Standards/WikiData/WD~Chechens,31230|WD~Chechens,31230]]'
-- '[[_Standards/WikiData/WD~Tatars,35565|WD~Tatars,35565]]'
-- '[[_Standards/WikiData/WD~Ukrainians,44806|WD~Ukrainians,44806]]'
-- '[[_Standards/WikiData/WD~Russians,49542|WD~Russians,49542]]'
-- http://www.wikidata.org/.well-known/genid/3a65f1185da367f2f1b35714e6fd2706
+  - "[[_Standards/WikiData/WD~Chuvash_people,253410|WD~Chuvash_people,253410]]"
+  - "[[_Standards/WikiData/WD~Chechens,31230|WD~Chechens,31230]]"
+  - "[[_Standards/WikiData/WD~Tatars,35565|WD~Tatars,35565]]"
+  - "[[_Standards/WikiData/WD~Ukrainians,44806|WD~Ukrainians,44806]]"
+  - "[[_Standards/WikiData/WD~Russians,49542|WD~Russians,49542]]"
+  - http://www.wikidata.org/.well-known/genid/3a65f1185da367f2f1b35714e6fd2706
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Draft_History_of_Qing,1374339|WD~Draft_History_of_Qing,1374339]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490|WD~1922_Encyclopædia_Britannica,15987490]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Neunter_Band,131719188|WD~Meyer_s_Universum,_Neunter_Band,131719188]]'
+  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Draft_History_of_Qing,1374339|WD~Draft_History_of_Qing,1374339]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490|WD~1922_Encyclopædia_Britannica,15987490]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Neunter_Band,131719188|WD~Meyer_s_Universum,_Neunter_Band,131719188]]"
 language_used:
-- '[[_Standards/WikiData/WD~Kerek,332792|WD~Kerek,332792]]'
-- '[[_Standards/WikiData/WD~Karelian_Proper,747153|WD~Karelian_Proper,747153]]'
-- '[[_Standards/WikiData/WD~Pannonian_Avar,791623|WD~Pannonian_Avar,791623]]'
-- '[[_Standards/WikiData/WD~Mari,973685|WD~Mari,973685]]'
-- '[[_Standards/WikiData/WD~Hill_Mari,1776032|WD~Hill_Mari,1776032]]'
-- '[[_Standards/WikiData/WD~Medny_Aleut,1977419|WD~Medny_Aleut,1977419]]'
-- '[[_Standards/WikiData/WD~Southern_Altai,1991779|WD~Southern_Altai,1991779]]'
-- '[[_Standards/WikiData/WD~Northern_Altai,2640863|WD~Northern_Altai,2640863]]'
-- '[[_Standards/WikiData/WD~Meadow_Mari,3906614|WD~Meadow_Mari,3906614]]'
-- '[[_Standards/WikiData/WD~Siberian_Tatar,4418344|WD~Siberian_Tatar,4418344]]'
-- '[[_Standards/WikiData/WD~Dargin,5222637|WD~Dargin,5222637]]'
-- '[[_Standards/WikiData/WD~Khalkha_Mongolian,6399808|WD~Khalkha_Mongolian,6399808]]'
-- '[[_Standards/WikiData/WD~Finnish,1412|WD~Finnish,1412]]'
-- '[[_Standards/WikiData/WD~Russian,7737|WD~Russian,7737]]'
-- '[[_Standards/WikiData/WD~Russian_Sign_Language,13210|WD~Russian_Sign_Language,13210]]'
-- '[[_Standards/WikiData/WD~Udege,13235|WD~Udege,13235]]'
-- '[[_Standards/WikiData/WD~Udmurt,13238|WD~Udmurt,13238]]'
-- '[[_Standards/WikiData/WD~Ulch,13239|WD~Ulch,13239]]'
-- '[[_Standards/WikiData/WD~Skolt_Sami,13271|WD~Skolt_Sami,13271]]'
-- '[[_Standards/WikiData/WD~Nanai,13303|WD~Nanai,13303]]'
-- '[[_Standards/WikiData/WD~Moksha,13343|WD~Moksha,13343]]'
-- '[[_Standards/WikiData/WD~Bashkir,13389|WD~Bashkir,13389]]'
-- '[[_Standards/WikiData/WD~Tatar,25285|WD~Tatar,25285]]'
-- '[[_Standards/WikiData/WD~Abaza,27567|WD~Abaza,27567]]'
-- '[[_Standards/WikiData/WD~Adyghe,27776|WD~Adyghe,27776]]'
-- '[[_Standards/WikiData/WD~Naukan_Yupik,27963|WD~Naukan_Yupik,27963]]'
-- '[[_Standards/WikiData/WD~Central_Siberian_Yupik,27993|WD~Central_Siberian_Yupik,27993]]'
-- '[[_Standards/WikiData/WD~Sirenik,28156|WD~Sirenik,28156]]'
-- '[[_Standards/WikiData/WD~Alyutor,28213|WD~Alyutor,28213]]'
-- '[[_Standards/WikiData/WD~Avar,29561|WD~Avar,29561]]'
-- '[[_Standards/WikiData/WD~Erzya,29952|WD~Erzya,29952]]'
-- '[[_Standards/WikiData/WD~Even,29960|WD~Even,29960]]'
-- '[[_Standards/WikiData/WD~Lezgian,31746|WD~Lezgian,31746]]'
-- '[[_Standards/WikiData/WD~Dargwa,32332|WD~Dargwa,32332]]'
-- '[[_Standards/WikiData/WD~Veps,32747|WD~Veps,32747]]'
-- '[[_Standards/WikiData/WD~Votic,32858|WD~Votic,32858]]'
-- '[[_Standards/WikiData/WD~Dolgan,32878|WD~Dolgan,32878]]'
-- '[[_Standards/WikiData/WD~Bezhta,33054|WD~Bezhta,33054]]'
-- '[[_Standards/WikiData/WD~Buryat,33120|WD~Buryat,33120]]'
-- '[[_Standards/WikiData/WD~Chulym,33125|WD~Chulym,33125]]'
-- '[[_Standards/WikiData/WD~Chukchi,33170|WD~Chukchi,33170]]'
-- '[[_Standards/WikiData/WD~Church_Slavonic,33251|WD~Church_Slavonic,33251]]'
-- '[[_Standards/WikiData/WD~Hinuq,33283|WD~Hinuq,33283]]'
-- '[[_Standards/WikiData/WD~Chechen,33350|WD~Chechen,33350]]'
-- '[[_Standards/WikiData/WD~Chuvash,33348|WD~Chuvash,33348]]'
-- '[[_Standards/WikiData/WD~Ket,33485|WD~Ket,33485]]'
-- '[[_Standards/WikiData/WD~Ingush,33509|WD~Ingush,33509]]'
-- '[[_Standards/WikiData/WD~Kabardian,33522|WD~Kabardian,33522]]'
-- '[[_Standards/WikiData/WD~Ingrian,33559|WD~Ingrian,33559]]'
-- '[[_Standards/WikiData/WD~Karelian,33557|WD~Karelian,33557]]'
-- '[[_Standards/WikiData/WD~Khanty,33563|WD~Khanty,33563]]'
-- '[[_Standards/WikiData/WD~Khakas,33575|WD~Khakas,33575]]'
-- '[[_Standards/WikiData/WD~Itelmen,33624|WD~Itelmen,33624]]'
-- '[[_Standards/WikiData/WD~Kalmyk,33634|WD~Kalmyk,33634]]'
-- '[[_Standards/WikiData/WD~Oroch,33650|WD~Oroch,33650]]'
-- '[[_Standards/WikiData/WD~Kildin_Sami,33656|WD~Kildin_Sami,33656]]'
-- '[[_Standards/WikiData/WD~Negidal,33676|WD~Negidal,33676]]'
-- '[[_Standards/WikiData/WD~Karachay-Balkar,33714|WD~Karachay-Balkar,33714]]'
-- '[[_Standards/WikiData/WD~Karagas,33751|WD~Karagas,33751]]'
-- '[[_Standards/WikiData/WD~Mansi,33759|WD~Mansi,33759]]'
-- '[[_Standards/WikiData/WD~Nogai,33871|WD~Nogai,33871]]'
-- '[[_Standards/WikiData/WD~Ludic,33918|WD~Ludic,33918]]'
-- '[[_Standards/WikiData/WD~Orok,33928|WD~Orok,33928]]'
-- '[[_Standards/WikiData/WD~Ossetian,33968|WD~Ossetian,33968]]'
-- '[[_Standards/WikiData/WD~Selkup,34008|WD~Selkup,34008]]'
-- '[[_Standards/WikiData/WD~Tsez,34033|WD~Tsez,34033]]'
-- '[[_Standards/WikiData/WD~Tabasaran,34079|WD~Tabasaran,34079]]'
-- '[[_Standards/WikiData/WD~Komi-Zyryan,34114|WD~Komi-Zyryan,34114]]'
-- '[[_Standards/WikiData/WD~Tuvan,34119|WD~Tuvan,34119]]'
-- '[[_Standards/WikiData/WD~Shor,34139|WD~Shor,34139]]'
-- '[[_Standards/WikiData/WD~Yakut,34299|WD~Yakut,34299]]'
-- '[[_Standards/WikiData/WD~Andi,34849|WD~Andi,34849]]'
-- '[[_Standards/WikiData/WD~Archi,34915|WD~Archi,34915]]'
-- '[[_Standards/WikiData/WD~Akkala_Sami,35241|WD~Akkala_Sami,35241]]'
-- '[[_Standards/WikiData/WD~Old_Church_Slavonic,35499|WD~Old_Church_Slavonic,35499]]'
-- '[[_Standards/WikiData/WD~Kamassian,35991|WD~Kamassian,35991]]'
-- '[[_Standards/WikiData/WD~Komi,36126|WD~Komi,36126]]'
-- '[[_Standards/WikiData/WD~Koryak,36199|WD~Koryak,36199]]'
-- '[[_Standards/WikiData/WD~Lak,36206|WD~Lak,36206]]'
-- '[[_Standards/WikiData/WD~Kumyk,36209|WD~Kumyk,36209]]'
-- '[[_Standards/WikiData/WD~Nenets,36452|WD~Nenets,36452]]'
-- '[[_Standards/WikiData/WD~Nivkh,36464|WD~Nivkh,36464]]'
-- '[[_Standards/WikiData/WD~Aghul,36498|WD~Aghul,36498]]'
-- '[[_Standards/WikiData/WD~Livvi-Karelian,36584|WD~Livvi-Karelian,36584]]'
-- '[[_Standards/WikiData/WD~Ter_Sami,36656|WD~Ter_Sami,36656]]'
-- '[[_Standards/WikiData/WD~Nganasan,36743|WD~Nganasan,36743]]'
-- '[[_Standards/WikiData/WD~Rutulian,36757|WD~Rutulian,36757]]'
-- '[[_Standards/WikiData/WD~Tofa,36848|WD~Tofa,36848]]'
-- '[[_Standards/WikiData/WD~Tsakhur,36853|WD~Tsakhur,36853]]'
-- '[[_Standards/WikiData/WD~Tindi,36860|WD~Tindi,36860]]'
-- '[[_Standards/WikiData/WD~Yugh,56311|WD~Yugh,56311]]'
-- '[[_Standards/WikiData/WD~Permyak,56318|WD~Permyak,56318]]'
-- '[[_Standards/WikiData/WD~Tundra_Yukaghir,56319|WD~Tundra_Yukaghir,56319]]'
-- '[[_Standards/WikiData/WD~Akhvakh,56423|WD~Akhvakh,56423]]'
-- '[[_Standards/WikiData/WD~Khwarshi,56425|WD~Khwarshi,56425]]'
-- '[[_Standards/WikiData/WD~Tat,56489|WD~Tat,56489]]'
-- '[[_Standards/WikiData/WD~Judeo-Tat,56495|WD~Judeo-Tat,56495]]'
-- '[[_Standards/WikiData/WD~Godoberi,56515|WD~Godoberi,56515]]'
-- '[[_Standards/WikiData/WD~Southern_Yukaghir,56545|WD~Southern_Yukaghir,56545]]'
-- '[[_Standards/WikiData/WD~Botlikh,56560|WD~Botlikh,56560]]'
-- '[[_Standards/WikiData/WD~Chamalal,56567|WD~Chamalal,56567]]'
-- '[[_Standards/WikiData/WD~Hunzib,56564|WD~Hunzib,56564]]'
-- '[[_Standards/WikiData/WD~Bagvalal,56638|WD~Bagvalal,56638]]'
-- '[[_Standards/WikiData/WD~Karata-Tukita,56636|WD~Karata-Tukita,56636]]'
-- '[[_Standards/WikiData/WD~Oirat,56959|WD~Oirat,56959]]'
-- '[[_Standards/WikiData/WD~Russia_Buriat,16116629|WD~Russia_Buriat,16116629]]'
-- '[[_Standards/WikiData/WD~Tundra_Enets,25559411|WD~Tundra_Enets,25559411]]'
-- '[[_Standards/WikiData/WD~Forest_Enets,30249597|WD~Forest_Enets,30249597]]'
-studied_in: '[[_Standards/WikiData/WD~Russian_studies,375470|WD~Russian_studies,375470]]'
-legislative_body: '[[_Standards/WikiData/WD~Federal_Assembly_of_the_Russian_Federation,457869|WD~Federal_Assembly_of_the_Russian_Federation,457869]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Russia,461731|WD~economy_of_Russia,461731]]'
+  - "[[_Standards/WikiData/WD~Kerek,332792|WD~Kerek,332792]]"
+  - "[[_Standards/WikiData/WD~Karelian_Proper,747153|WD~Karelian_Proper,747153]]"
+  - "[[_Standards/WikiData/WD~Pannonian_Avar,791623|WD~Pannonian_Avar,791623]]"
+  - "[[_Standards/WikiData/WD~Mari,973685|WD~Mari,973685]]"
+  - "[[_Standards/WikiData/WD~Hill_Mari,1776032|WD~Hill_Mari,1776032]]"
+  - "[[_Standards/WikiData/WD~Medny_Aleut,1977419|WD~Medny_Aleut,1977419]]"
+  - "[[_Standards/WikiData/WD~Southern_Altai,1991779|WD~Southern_Altai,1991779]]"
+  - "[[_Standards/WikiData/WD~Northern_Altai,2640863|WD~Northern_Altai,2640863]]"
+  - "[[_Standards/WikiData/WD~Meadow_Mari,3906614|WD~Meadow_Mari,3906614]]"
+  - "[[_Standards/WikiData/WD~Siberian_Tatar,4418344|WD~Siberian_Tatar,4418344]]"
+  - "[[_Standards/WikiData/WD~Dargin,5222637|WD~Dargin,5222637]]"
+  - "[[_Standards/WikiData/WD~Khalkha_Mongolian,6399808|WD~Khalkha_Mongolian,6399808]]"
+  - "[[_Standards/WikiData/WD~Finnish,1412|WD~Finnish,1412]]"
+  - "[[_Standards/WikiData/WD~Russian,7737|WD~Russian,7737]]"
+  - "[[_Standards/WikiData/WD~Russian_Sign_Language,13210|WD~Russian_Sign_Language,13210]]"
+  - "[[_Standards/WikiData/WD~Udege,13235|WD~Udege,13235]]"
+  - "[[_Standards/WikiData/WD~Udmurt,13238|WD~Udmurt,13238]]"
+  - "[[_Standards/WikiData/WD~Ulch,13239|WD~Ulch,13239]]"
+  - "[[_Standards/WikiData/WD~Skolt_Sami,13271|WD~Skolt_Sami,13271]]"
+  - "[[_Standards/WikiData/WD~Nanai,13303|WD~Nanai,13303]]"
+  - "[[_Standards/WikiData/WD~Moksha,13343|WD~Moksha,13343]]"
+  - "[[_Standards/WikiData/WD~Bashkir,13389|WD~Bashkir,13389]]"
+  - "[[_Standards/WikiData/WD~Tatar,25285|WD~Tatar,25285]]"
+  - "[[_Standards/WikiData/WD~Abaza,27567|WD~Abaza,27567]]"
+  - "[[_Standards/WikiData/WD~Adyghe,27776|WD~Adyghe,27776]]"
+  - "[[_Standards/WikiData/WD~Naukan_Yupik,27963|WD~Naukan_Yupik,27963]]"
+  - "[[_Standards/WikiData/WD~Central_Siberian_Yupik,27993|WD~Central_Siberian_Yupik,27993]]"
+  - "[[_Standards/WikiData/WD~Sirenik,28156|WD~Sirenik,28156]]"
+  - "[[_Standards/WikiData/WD~Alyutor,28213|WD~Alyutor,28213]]"
+  - "[[_Standards/WikiData/WD~Avar,29561|WD~Avar,29561]]"
+  - "[[_Standards/WikiData/WD~Erzya,29952|WD~Erzya,29952]]"
+  - "[[_Standards/WikiData/WD~Even,29960|WD~Even,29960]]"
+  - "[[_Standards/WikiData/WD~Lezgian,31746|WD~Lezgian,31746]]"
+  - "[[_Standards/WikiData/WD~Dargwa,32332|WD~Dargwa,32332]]"
+  - "[[_Standards/WikiData/WD~Veps,32747|WD~Veps,32747]]"
+  - "[[_Standards/WikiData/WD~Votic,32858|WD~Votic,32858]]"
+  - "[[_Standards/WikiData/WD~Dolgan,32878|WD~Dolgan,32878]]"
+  - "[[_Standards/WikiData/WD~Bezhta,33054|WD~Bezhta,33054]]"
+  - "[[_Standards/WikiData/WD~Buryat,33120|WD~Buryat,33120]]"
+  - "[[_Standards/WikiData/WD~Chulym,33125|WD~Chulym,33125]]"
+  - "[[_Standards/WikiData/WD~Chukchi,33170|WD~Chukchi,33170]]"
+  - "[[_Standards/WikiData/WD~Church_Slavonic,33251|WD~Church_Slavonic,33251]]"
+  - "[[_Standards/WikiData/WD~Hinuq,33283|WD~Hinuq,33283]]"
+  - "[[_Standards/WikiData/WD~Chechen,33350|WD~Chechen,33350]]"
+  - "[[_Standards/WikiData/WD~Chuvash,33348|WD~Chuvash,33348]]"
+  - "[[_Standards/WikiData/WD~Ket,33485|WD~Ket,33485]]"
+  - "[[_Standards/WikiData/WD~Ingush,33509|WD~Ingush,33509]]"
+  - "[[_Standards/WikiData/WD~Kabardian,33522|WD~Kabardian,33522]]"
+  - "[[_Standards/WikiData/WD~Ingrian,33559|WD~Ingrian,33559]]"
+  - "[[_Standards/WikiData/WD~Karelian,33557|WD~Karelian,33557]]"
+  - "[[_Standards/WikiData/WD~Khanty,33563|WD~Khanty,33563]]"
+  - "[[_Standards/WikiData/WD~Khakas,33575|WD~Khakas,33575]]"
+  - "[[_Standards/WikiData/WD~Itelmen,33624|WD~Itelmen,33624]]"
+  - "[[_Standards/WikiData/WD~Kalmyk,33634|WD~Kalmyk,33634]]"
+  - "[[_Standards/WikiData/WD~Oroch,33650|WD~Oroch,33650]]"
+  - "[[_Standards/WikiData/WD~Kildin_Sami,33656|WD~Kildin_Sami,33656]]"
+  - "[[_Standards/WikiData/WD~Negidal,33676|WD~Negidal,33676]]"
+  - "[[_Standards/WikiData/WD~Karachay-Balkar,33714|WD~Karachay-Balkar,33714]]"
+  - "[[_Standards/WikiData/WD~Karagas,33751|WD~Karagas,33751]]"
+  - "[[_Standards/WikiData/WD~Mansi,33759|WD~Mansi,33759]]"
+  - "[[_Standards/WikiData/WD~Nogai,33871|WD~Nogai,33871]]"
+  - "[[_Standards/WikiData/WD~Ludic,33918|WD~Ludic,33918]]"
+  - "[[_Standards/WikiData/WD~Orok,33928|WD~Orok,33928]]"
+  - "[[_Standards/WikiData/WD~Ossetian,33968|WD~Ossetian,33968]]"
+  - "[[_Standards/WikiData/WD~Selkup,34008|WD~Selkup,34008]]"
+  - "[[_Standards/WikiData/WD~Tsez,34033|WD~Tsez,34033]]"
+  - "[[_Standards/WikiData/WD~Tabasaran,34079|WD~Tabasaran,34079]]"
+  - "[[_Standards/WikiData/WD~Komi-Zyryan,34114|WD~Komi-Zyryan,34114]]"
+  - "[[_Standards/WikiData/WD~Tuvan,34119|WD~Tuvan,34119]]"
+  - "[[_Standards/WikiData/WD~Shor,34139|WD~Shor,34139]]"
+  - "[[_Standards/WikiData/WD~Yakut,34299|WD~Yakut,34299]]"
+  - "[[_Standards/WikiData/WD~Andi,34849|WD~Andi,34849]]"
+  - "[[_Standards/WikiData/WD~Archi,34915|WD~Archi,34915]]"
+  - "[[_Standards/WikiData/WD~Akkala_Sami,35241|WD~Akkala_Sami,35241]]"
+  - "[[_Standards/WikiData/WD~Old_Church_Slavonic,35499|WD~Old_Church_Slavonic,35499]]"
+  - "[[_Standards/WikiData/WD~Kamassian,35991|WD~Kamassian,35991]]"
+  - "[[_Standards/WikiData/WD~Komi,36126|WD~Komi,36126]]"
+  - "[[_Standards/WikiData/WD~Koryak,36199|WD~Koryak,36199]]"
+  - "[[_Standards/WikiData/WD~Lak,36206|WD~Lak,36206]]"
+  - "[[_Standards/WikiData/WD~Kumyk,36209|WD~Kumyk,36209]]"
+  - "[[_Standards/WikiData/WD~Nenets,36452|WD~Nenets,36452]]"
+  - "[[_Standards/WikiData/WD~Nivkh,36464|WD~Nivkh,36464]]"
+  - "[[_Standards/WikiData/WD~Aghul,36498|WD~Aghul,36498]]"
+  - "[[_Standards/WikiData/WD~Livvi-Karelian,36584|WD~Livvi-Karelian,36584]]"
+  - "[[_Standards/WikiData/WD~Ter_Sami,36656|WD~Ter_Sami,36656]]"
+  - "[[_Standards/WikiData/WD~Nganasan,36743|WD~Nganasan,36743]]"
+  - "[[_Standards/WikiData/WD~Rutulian,36757|WD~Rutulian,36757]]"
+  - "[[_Standards/WikiData/WD~Tofa,36848|WD~Tofa,36848]]"
+  - "[[_Standards/WikiData/WD~Tsakhur,36853|WD~Tsakhur,36853]]"
+  - "[[_Standards/WikiData/WD~Tindi,36860|WD~Tindi,36860]]"
+  - "[[_Standards/WikiData/WD~Yugh,56311|WD~Yugh,56311]]"
+  - "[[_Standards/WikiData/WD~Permyak,56318|WD~Permyak,56318]]"
+  - "[[_Standards/WikiData/WD~Tundra_Yukaghir,56319|WD~Tundra_Yukaghir,56319]]"
+  - "[[_Standards/WikiData/WD~Akhvakh,56423|WD~Akhvakh,56423]]"
+  - "[[_Standards/WikiData/WD~Khwarshi,56425|WD~Khwarshi,56425]]"
+  - "[[_Standards/WikiData/WD~Tat,56489|WD~Tat,56489]]"
+  - "[[_Standards/WikiData/WD~Judeo-Tat,56495|WD~Judeo-Tat,56495]]"
+  - "[[_Standards/WikiData/WD~Godoberi,56515|WD~Godoberi,56515]]"
+  - "[[_Standards/WikiData/WD~Southern_Yukaghir,56545|WD~Southern_Yukaghir,56545]]"
+  - "[[_Standards/WikiData/WD~Botlikh,56560|WD~Botlikh,56560]]"
+  - "[[_Standards/WikiData/WD~Chamalal,56567|WD~Chamalal,56567]]"
+  - "[[_Standards/WikiData/WD~Hunzib,56564|WD~Hunzib,56564]]"
+  - "[[_Standards/WikiData/WD~Bagvalal,56638|WD~Bagvalal,56638]]"
+  - "[[_Standards/WikiData/WD~Karata-Tukita,56636|WD~Karata-Tukita,56636]]"
+  - "[[_Standards/WikiData/WD~Oirat,56959|WD~Oirat,56959]]"
+  - "[[_Standards/WikiData/WD~Russia_Buriat,16116629|WD~Russia_Buriat,16116629]]"
+  - "[[_Standards/WikiData/WD~Tundra_Enets,25559411|WD~Tundra_Enets,25559411]]"
+  - "[[_Standards/WikiData/WD~Forest_Enets,30249597|WD~Forest_Enets,30249597]]"
+studied_in: "[[_Standards/WikiData/WD~Russian_studies,375470|WD~Russian_studies,375470]]"
+legislative_body: "[[_Standards/WikiData/WD~Federal_Assembly_of_the_Russian_Federation,457869|WD~Federal_Assembly_of_the_Russian_Federation,457869]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Russia,461731|WD~economy_of_Russia,461731]]"
 highest_judicial_authority:
-- '[[_Standards/WikiData/WD~Constitutional_Court_of_Russia,584759|WD~Constitutional_Court_of_Russia,584759]]'
-- '[[_Standards/WikiData/WD~Supreme_Court_of_Russia,2622450|WD~Supreme_Court_of_Russia,2622450]]'
-main_regulatory_text: '[[_Standards/WikiData/WD~Constitution_of_Russia,652062|WD~Constitution_of_Russia,652062]]'
+  - "[[_Standards/WikiData/WD~Constitutional_Court_of_Russia,584759|WD~Constitutional_Court_of_Russia,584759]]"
+  - "[[_Standards/WikiData/WD~Supreme_Court_of_Russia,2622450|WD~Supreme_Court_of_Russia,2622450]]"
+main_regulatory_text: "[[_Standards/WikiData/WD~Constitution_of_Russia,652062|WD~Constitution_of_Russia,652062]]"
 significant_event:
-- '[[_Standards/WikiData/WD~default,702362|WD~default,702362]]'
-- '[[_Standards/WikiData/WD~Monetary_reform_in_Russia,_1993,4157875|WD~Monetary_reform_in_Russia,_1993,4157875]]'
-central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_Russia,806651|WD~Central_Bank_of_Russia,806651]]'
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Russia,842386|WD~Prime_Minister_of_Russia,842386]]'
+  - "[[_Standards/WikiData/WD~default,702362|WD~default,702362]]"
+  - "[[_Standards/WikiData/WD~Monetary_reform_in_Russia,_1993,4157875|WD~Monetary_reform_in_Russia,_1993,4157875]]"
+central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Russia,806651|WD~Central_Bank_of_Russia,806651]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Russia,842386|WD~Prime_Minister_of_Russia,842386]]"
 instance_of:
-- '[[_Standards/WikiData/WD~secular_state,859563|WD~secular_state,859563]]'
-- '[[_Standards/WikiData/WD~transcontinental_country,1323642|WD~transcontinental_country,1323642]]'
-- '[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
-- '[[_Standards/WikiData/WD~country,6256|WD~country,6256]]'
-- '[[_Standards/WikiData/WD~federation,43702|WD~federation,43702]]'
-- '[[_Standards/WikiData/WD~successor_state,127693126|WD~successor_state,127693126]]'
+  - "[[_Standards/WikiData/WD~secular_state,859563|WD~secular_state,859563]]"
+  - "[[_Standards/WikiData/WD~transcontinental_country,1323642|WD~transcontinental_country,1323642]]"
+  - "[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]"
+  - "[[_Standards/WikiData/WD~country,6256|WD~country,6256]]"
+  - "[[_Standards/WikiData/WD~federation,43702|WD~federation,43702]]"
+  - "[[_Standards/WikiData/WD~successor_state,127693126|WD~successor_state,127693126]]"
 designated_as_terrorist_by:
-- '[[_Standards/WikiData/WD~Parliamentary_Assembly_of_the_Council_of_Europe,939743|WD~Parliamentary_Assembly_of_the_Council_of_Europe,939743]]'
-- '[[_Standards/WikiData/WD~NATO,7184|WD~NATO,7184]]'
-- '[[_Standards/WikiData/WD~European_Parliament,8889|WD~European_Parliament,8889]]'
-- '[[_Standards/WikiData/WD~Poland,36|WD~Poland,36]]'
-- '[[_Standards/WikiData/WD~Lithuania,37|WD~Lithuania,37]]'
-- '[[_Standards/WikiData/WD~Netherlands,55|WD~Netherlands,55]]'
-- '[[_Standards/WikiData/WD~Estonia,191|WD~Estonia,191]]'
-- '[[_Standards/WikiData/WD~Latvia,211|WD~Latvia,211]]'
-- '[[_Standards/WikiData/WD~Slovakia,214|WD~Slovakia,214]]'
-- '[[_Standards/WikiData/WD~Ukraine,212|WD~Ukraine,212]]'
-- '[[_Standards/WikiData/WD~Czech_Republic,213|WD~Czech_Republic,213]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Russia,1048240|WD~geography_of_Russia,1048240]]'
+  - "[[_Standards/WikiData/WD~Parliamentary_Assembly_of_the_Council_of_Europe,939743|WD~Parliamentary_Assembly_of_the_Council_of_Europe,939743]]"
+  - "[[_Standards/WikiData/WD~NATO,7184|WD~NATO,7184]]"
+  - "[[_Standards/WikiData/WD~European_Parliament,8889|WD~European_Parliament,8889]]"
+  - "[[_Standards/WikiData/WD~Poland,36|WD~Poland,36]]"
+  - "[[_Standards/WikiData/WD~Lithuania,37|WD~Lithuania,37]]"
+  - "[[_Standards/WikiData/WD~Netherlands,55|WD~Netherlands,55]]"
+  - "[[_Standards/WikiData/WD~Estonia,191|WD~Estonia,191]]"
+  - "[[_Standards/WikiData/WD~Latvia,211|WD~Latvia,211]]"
+  - "[[_Standards/WikiData/WD~Slovakia,214|WD~Slovakia,214]]"
+  - "[[_Standards/WikiData/WD~Ukraine,212|WD~Ukraine,212]]"
+  - "[[_Standards/WikiData/WD~Czech_Republic,213|WD~Czech_Republic,213]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Russia,1048240|WD~geography_of_Russia,1048240]]"
 electrical_plug_type:
-- '[[_Standards/WikiData/WD~Schuko,1123613|WD~Schuko,1123613]]'
-- '[[_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]'
-executive_body: '[[_Standards/WikiData/WD~Government_of_Russia,1140115|WD~Government_of_Russia,1140115]]'
-anthem: '[[_Standards/WikiData/WD~State_Anthem_of_the_Russian_Federation,1225991|WD~State_Anthem_of_the_Russian_Federation,1225991]]'
-culture: '[[_Standards/WikiData/WD~culture_of_Russia,1976715|WD~culture_of_Russia,1976715]]'
-head_of_government: '[[_Standards/WikiData/WD~Mikhail_Mishustin,4298520|WD~Mikhail_Mishustin,4298520]]'
-basic_form_of_government: '[[_Standards/WikiData/WD~super-presidential_republic,4446300|WD~super-presidential_republic,4446300]]'
-list_of_monuments: '[[_Standards/WikiData/WD~Russian_cultural_heritage_register,7382189|WD~Russian_cultural_heritage_register,7382189]]'
-official_religion: '[[_Standards/WikiData/WD~non-denominational,7882536|WD~non-denominational,7882536]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Russia,8252645|WD~Portal_Russia,8252645]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Russia,10803886|WD~WikiProject_Russia,10803886]]'
+  - "[[_Standards/WikiData/WD~Schuko,1123613|WD~Schuko,1123613]]"
+  - "[[_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_Russia,1140115|WD~Government_of_Russia,1140115]]"
+anthem: "[[_Standards/WikiData/WD~State_Anthem_of_the_Russian_Federation,1225991|WD~State_Anthem_of_the_Russian_Federation,1225991]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Russia,1976715|WD~culture_of_Russia,1976715]]"
+head_of_government: "[[_Standards/WikiData/WD~Mikhail_Mishustin,4298520|WD~Mikhail_Mishustin,4298520]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~super-presidential_republic,4446300|WD~super-presidential_republic,4446300]]"
+list_of_monuments: "[[_Standards/WikiData/WD~Russian_cultural_heritage_register,7382189|WD~Russian_cultural_heritage_register,7382189]]"
+official_religion: "[[_Standards/WikiData/WD~non-denominational,7882536|WD~non-denominational,7882536]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Russia,8252645|WD~Portal_Russia,8252645]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Russia,10803886|WD~WikiProject_Russia,10803886]]"
 MeSH_tree_code:
-- Z01.542.248.775
-- Z01.252.122.500
+  - Z01.542.248.775
+  - Z01.252.122.500
 nominal_GDP:
-- 2240422438363
-- 1836892075548
+  - 2240422438363
+  - 1836892075548
 shares_border_with:
-- '[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]'
-- '[[_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]'
-- '[[_Standards/WikiData/WD~Mongolia,711|WD~Mongolia,711]]'
-- '[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
-- '[[_Standards/WikiData/WD~Norway,20|WD~Norway,20]]'
-- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Sweden,34|WD~Sweden,34]]'
-- '[[_Standards/WikiData/WD~Finland,33|WD~Finland,33]]'
-- '[[_Standards/WikiData/WD~Poland,36|WD~Poland,36]]'
-- '[[_Standards/WikiData/WD~Lithuania,37|WD~Lithuania,37]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Belarus,184|WD~Belarus,184]]'
-- '[[_Standards/WikiData/WD~Estonia,191|WD~Estonia,191]]'
-- '[[_Standards/WikiData/WD~Latvia,211|WD~Latvia,211]]'
-- '[[_Standards/WikiData/WD~Ukraine,212|WD~Ukraine,212]]'
-- '[[_Standards/WikiData/WD~Azerbaijan,227|WD~Azerbaijan,227]]'
-- '[[_Standards/WikiData/WD~Georgia,230|WD~Georgia,230]]'
-- '[[_Standards/WikiData/WD~Kazakhstan,232|WD~Kazakhstan,232]]'
+  - "[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]"
+  - "[[_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]"
+  - "[[_Standards/WikiData/WD~Mongolia,711|WD~Mongolia,711]]"
+  - "[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]"
+  - "[[_Standards/WikiData/WD~Norway,20|WD~Norway,20]]"
+  - "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Sweden,34|WD~Sweden,34]]"
+  - "[[_Standards/WikiData/WD~Finland,33|WD~Finland,33]]"
+  - "[[_Standards/WikiData/WD~Poland,36|WD~Poland,36]]"
+  - "[[_Standards/WikiData/WD~Lithuania,37|WD~Lithuania,37]]"
+  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~Belarus,184|WD~Belarus,184]]"
+  - "[[_Standards/WikiData/WD~Estonia,191|WD~Estonia,191]]"
+  - "[[_Standards/WikiData/WD~Latvia,211|WD~Latvia,211]]"
+  - "[[_Standards/WikiData/WD~Ukraine,212|WD~Ukraine,212]]"
+  - "[[_Standards/WikiData/WD~Azerbaijan,227|WD~Azerbaijan,227]]"
+  - "[[_Standards/WikiData/WD~Georgia,230|WD~Georgia,230]]"
+  - "[[_Standards/WikiData/WD~Kazakhstan,232|WD~Kazakhstan,232]]"
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Moscow,649|WD~Moscow,649]]'
-- '[[_Standards/WikiData/WD~Saint_Petersburg,656|WD~Saint_Petersburg,656]]'
-- '[[_Standards/WikiData/WD~Tuva,960|WD~Tuva,960]]'
-- '[[_Standards/WikiData/WD~Moscow_Oblast,1697|WD~Moscow_Oblast,1697]]'
-- '[[_Standards/WikiData/WD~Samara_Oblast,1727|WD~Samara_Oblast,1727]]'
-- '[[_Standards/WikiData/WD~Kaliningrad_Oblast,1749|WD~Kaliningrad_Oblast,1749]]'
-- '[[_Standards/WikiData/WD~Murmansk_Oblast,1759|WD~Murmansk_Oblast,1759]]'
-- '[[_Standards/WikiData/WD~Arkhangelsk_Oblast,1875|WD~Arkhangelsk_Oblast,1875]]'
-- '[[_Standards/WikiData/WD~Karelia,1914|WD~Karelia,1914]]'
-- '[[_Standards/WikiData/WD~Vologda_Oblast,2015|WD~Vologda_Oblast,2015]]'
-- '[[_Standards/WikiData/WD~Komi_Republic,2073|WD~Komi_Republic,2073]]'
-- '[[_Standards/WikiData/WD~Nenets_Autonomous_Okrug,2164|WD~Nenets_Autonomous_Okrug,2164]]'
-- '[[_Standards/WikiData/WD~Leningrad_Oblast,2191|WD~Leningrad_Oblast,2191]]'
-- '[[_Standards/WikiData/WD~Pskov_Oblast,2218|WD~Pskov_Oblast,2218]]'
-- '[[_Standards/WikiData/WD~Novgorod_Oblast,2240|WD~Novgorod_Oblast,2240]]'
-- '[[_Standards/WikiData/WD~Nizhny_Novgorod_Oblast,2246|WD~Nizhny_Novgorod_Oblast,2246]]'
-- '[[_Standards/WikiData/WD~Tver_Oblast,2292|WD~Tver_Oblast,2292]]'
-- '[[_Standards/WikiData/WD~Smolensk_Oblast,2347|WD~Smolensk_Oblast,2347]]'
-- '[[_Standards/WikiData/WD~Yaroslavl_Oblast,2448|WD~Yaroslavl_Oblast,2448]]'
-- '[[_Standards/WikiData/WD~Kostroma_Oblast,2596|WD~Kostroma_Oblast,2596]]'
-- '[[_Standards/WikiData/WD~Ivanovo_Oblast,2654|WD~Ivanovo_Oblast,2654]]'
-- '[[_Standards/WikiData/WD~Vladimir_Oblast,2702|WD~Vladimir_Oblast,2702]]'
-- '[[_Standards/WikiData/WD~Ryazan_Oblast,2753|WD~Ryazan_Oblast,2753]]'
-- '[[_Standards/WikiData/WD~Tula_Oblast,2792|WD~Tula_Oblast,2792]]'
-- '[[_Standards/WikiData/WD~Bryansk_Oblast,2810|WD~Bryansk_Oblast,2810]]'
-- '[[_Standards/WikiData/WD~Kaluga_Oblast,2842|WD~Kaluga_Oblast,2842]]'
-- '[[_Standards/WikiData/WD~Oryol_Oblast,3129|WD~Oryol_Oblast,3129]]'
-- '[[_Standards/WikiData/WD~Kursk_Oblast,3178|WD~Kursk_Oblast,3178]]'
-- '[[_Standards/WikiData/WD~Belgorod_Oblast,3329|WD~Belgorod_Oblast,3329]]'
-- '[[_Standards/WikiData/WD~Voronezh_Oblast,3447|WD~Voronezh_Oblast,3447]]'
-- '[[_Standards/WikiData/WD~Lipetsk_Oblast,3510|WD~Lipetsk_Oblast,3510]]'
-- '[[_Standards/WikiData/WD~Tambov_Oblast,3550|WD~Tambov_Oblast,3550]]'
-- '[[_Standards/WikiData/WD~Rostov_Oblast,3573|WD~Rostov_Oblast,3573]]'
-- '[[_Standards/WikiData/WD~Krasnodar_Krai,3680|WD~Krasnodar_Krai,3680]]'
-- '[[_Standards/WikiData/WD~Adygea,3734|WD~Adygea,3734]]'
-- '[[_Standards/WikiData/WD~Volgograd_Oblast,3819|WD~Volgograd_Oblast,3819]]'
-- '[[_Standards/WikiData/WD~Astrakhan_Oblast,3941|WD~Astrakhan_Oblast,3941]]'
-- '[[_Standards/WikiData/WD~Kalmykia,3953|WD~Kalmykia,3953]]'
-- '[[_Standards/WikiData/WD~Primorsky_Krai,4341|WD~Primorsky_Krai,4341]]'
-- '[[_Standards/WikiData/WD~Dagestan,5118|WD~Dagestan,5118]]'
-- '[[_Standards/WikiData/WD~Chechnya,5187|WD~Chechnya,5187]]'
-- '[[_Standards/WikiData/WD~Stavropol_Krai,5207|WD~Stavropol_Krai,5207]]'
-- '[[_Standards/WikiData/WD~Ingushetia,5219|WD~Ingushetia,5219]]'
-- '[[_Standards/WikiData/WD~North_Ossetia_Alania,5237|WD~North_Ossetia_Alania,5237]]'
-- '[[_Standards/WikiData/WD~Kabardino-Balkaria,5267|WD~Kabardino-Balkaria,5267]]'
-- '[[_Standards/WikiData/WD~Karachay-Cherkessia,5328|WD~Karachay-Cherkessia,5328]]'
-- '[[_Standards/WikiData/WD~Saratov_Oblast,5334|WD~Saratov_Oblast,5334]]'
-- '[[_Standards/WikiData/WD~Orenburg_Oblast,5338|WD~Orenburg_Oblast,5338]]'
-- '[[_Standards/WikiData/WD~Mordovia,5340|WD~Mordovia,5340]]'
-- '[[_Standards/WikiData/WD~Kirov_Oblast,5387|WD~Kirov_Oblast,5387]]'
-- '[[_Standards/WikiData/WD~Perm_Krai,5400|WD~Perm_Krai,5400]]'
-- '[[_Standards/WikiData/WD~Udmurtia,5422|WD~Udmurtia,5422]]'
-- '[[_Standards/WikiData/WD~Mari_El,5446|WD~Mari_El,5446]]'
-- '[[_Standards/WikiData/WD~Sverdlovsk_Oblast,5462|WD~Sverdlovsk_Oblast,5462]]'
-- '[[_Standards/WikiData/WD~Chuvashia,5466|WD~Chuvashia,5466]]'
-- '[[_Standards/WikiData/WD~Tatarstan,5481|WD~Tatarstan,5481]]'
-- '[[_Standards/WikiData/WD~Penza_Oblast,5545|WD~Penza_Oblast,5545]]'
-- '[[_Standards/WikiData/WD~Ulyanovsk_Oblast,5634|WD~Ulyanovsk_Oblast,5634]]'
-- '[[_Standards/WikiData/WD~Bashkortostan,5710|WD~Bashkortostan,5710]]'
-- '[[_Standards/WikiData/WD~Chelyabinsk_Oblast,5714|WD~Chelyabinsk_Oblast,5714]]'
-- '[[_Standards/WikiData/WD~Kurgan_Oblast,5741|WD~Kurgan_Oblast,5741]]'
-- '[[_Standards/WikiData/WD~Tyumen_Oblast,5824|WD~Tyumen_Oblast,5824]]'
-- '[[_Standards/WikiData/WD~Omsk_Oblast,5835|WD~Omsk_Oblast,5835]]'
-- '[[_Standards/WikiData/WD~Novosibirsk_Oblast,5851|WD~Novosibirsk_Oblast,5851]]'
-- '[[_Standards/WikiData/WD~Tomsk_Oblast,5884|WD~Tomsk_Oblast,5884]]'
-- '[[_Standards/WikiData/WD~Altai_Krai,5942|WD~Altai_Krai,5942]]'
-- '[[_Standards/WikiData/WD~Altai_Republic,5971|WD~Altai_Republic,5971]]'
-- '[[_Standards/WikiData/WD~Khanty-Mansi_Autonomous_Okrug,6320|WD~Khanty-Mansi_Autonomous_Okrug,6320]]'
-- '[[_Standards/WikiData/WD~Yamalo-Nenets_Autonomous_Okrug,6407|WD~Yamalo-Nenets_Autonomous_Okrug,6407]]'
-- '[[_Standards/WikiData/WD~Khakassia,6543|WD~Khakassia,6543]]'
-- '[[_Standards/WikiData/WD~Krasnoyarsk_Krai,6563|WD~Krasnoyarsk_Krai,6563]]'
-- '[[_Standards/WikiData/WD~Irkutsk_Oblast,6585|WD~Irkutsk_Oblast,6585]]'
-- '[[_Standards/WikiData/WD~Sakha,6605|WD~Sakha,6605]]'
-- '[[_Standards/WikiData/WD~Buryatia,6809|WD~Buryatia,6809]]'
-- '[[_Standards/WikiData/WD~Zabaykalsky_Krai,6838|WD~Zabaykalsky_Krai,6838]]'
-- '[[_Standards/WikiData/WD~Amur_Oblast,6886|WD~Amur_Oblast,6886]]'
-- '[[_Standards/WikiData/WD~Sevastopol,7525|WD~Sevastopol,7525]]'
-- '[[_Standards/WikiData/WD~Jewish_Autonomous_Oblast,7730|WD~Jewish_Autonomous_Oblast,7730]]'
-- '[[_Standards/WikiData/WD~Khabarovsk_Krai,7788|WD~Khabarovsk_Krai,7788]]'
-- '[[_Standards/WikiData/WD~Sakhalin_Oblast,7797|WD~Sakhalin_Oblast,7797]]'
-- '[[_Standards/WikiData/WD~Kamchatka_Krai,7948|WD~Kamchatka_Krai,7948]]'
-- '[[_Standards/WikiData/WD~Magadan_Oblast,7971|WD~Magadan_Oblast,7971]]'
-- '[[_Standards/WikiData/WD~Chukotka_Autonomous_Okrug,7984|WD~Chukotka_Autonomous_Okrug,7984]]'
-- '[[_Standards/WikiData/WD~Republic_of_Crimea,15966495|WD~Republic_of_Crimea,15966495]]'
-capital: '[[_Standards/WikiData/WD~Moscow,649|WD~Moscow,649]]'
+  - "[[_Standards/WikiData/WD~Moscow,649|WD~Moscow,649]]"
+  - "[[_Standards/WikiData/WD~Saint_Petersburg,656|WD~Saint_Petersburg,656]]"
+  - "[[_Standards/WikiData/WD~Tuva,960|WD~Tuva,960]]"
+  - "[[_Standards/WikiData/WD~Moscow_Oblast,1697|WD~Moscow_Oblast,1697]]"
+  - "[[_Standards/WikiData/WD~Samara_Oblast,1727|WD~Samara_Oblast,1727]]"
+  - "[[_Standards/WikiData/WD~Kaliningrad_Oblast,1749|WD~Kaliningrad_Oblast,1749]]"
+  - "[[_Standards/WikiData/WD~Murmansk_Oblast,1759|WD~Murmansk_Oblast,1759]]"
+  - "[[_Standards/WikiData/WD~Arkhangelsk_Oblast,1875|WD~Arkhangelsk_Oblast,1875]]"
+  - "[[_Standards/WikiData/WD~Karelia,1914|WD~Karelia,1914]]"
+  - "[[_Standards/WikiData/WD~Vologda_Oblast,2015|WD~Vologda_Oblast,2015]]"
+  - "[[_Standards/WikiData/WD~Komi_Republic,2073|WD~Komi_Republic,2073]]"
+  - "[[_Standards/WikiData/WD~Nenets_Autonomous_Okrug,2164|WD~Nenets_Autonomous_Okrug,2164]]"
+  - "[[_Standards/WikiData/WD~Leningrad_Oblast,2191|WD~Leningrad_Oblast,2191]]"
+  - "[[_Standards/WikiData/WD~Pskov_Oblast,2218|WD~Pskov_Oblast,2218]]"
+  - "[[_Standards/WikiData/WD~Novgorod_Oblast,2240|WD~Novgorod_Oblast,2240]]"
+  - "[[_Standards/WikiData/WD~Nizhny_Novgorod_Oblast,2246|WD~Nizhny_Novgorod_Oblast,2246]]"
+  - "[[_Standards/WikiData/WD~Tver_Oblast,2292|WD~Tver_Oblast,2292]]"
+  - "[[_Standards/WikiData/WD~Smolensk_Oblast,2347|WD~Smolensk_Oblast,2347]]"
+  - "[[_Standards/WikiData/WD~Yaroslavl_Oblast,2448|WD~Yaroslavl_Oblast,2448]]"
+  - "[[_Standards/WikiData/WD~Kostroma_Oblast,2596|WD~Kostroma_Oblast,2596]]"
+  - "[[_Standards/WikiData/WD~Ivanovo_Oblast,2654|WD~Ivanovo_Oblast,2654]]"
+  - "[[_Standards/WikiData/WD~Vladimir_Oblast,2702|WD~Vladimir_Oblast,2702]]"
+  - "[[_Standards/WikiData/WD~Ryazan_Oblast,2753|WD~Ryazan_Oblast,2753]]"
+  - "[[_Standards/WikiData/WD~Tula_Oblast,2792|WD~Tula_Oblast,2792]]"
+  - "[[_Standards/WikiData/WD~Bryansk_Oblast,2810|WD~Bryansk_Oblast,2810]]"
+  - "[[_Standards/WikiData/WD~Kaluga_Oblast,2842|WD~Kaluga_Oblast,2842]]"
+  - "[[_Standards/WikiData/WD~Oryol_Oblast,3129|WD~Oryol_Oblast,3129]]"
+  - "[[_Standards/WikiData/WD~Kursk_Oblast,3178|WD~Kursk_Oblast,3178]]"
+  - "[[_Standards/WikiData/WD~Belgorod_Oblast,3329|WD~Belgorod_Oblast,3329]]"
+  - "[[_Standards/WikiData/WD~Voronezh_Oblast,3447|WD~Voronezh_Oblast,3447]]"
+  - "[[_Standards/WikiData/WD~Lipetsk_Oblast,3510|WD~Lipetsk_Oblast,3510]]"
+  - "[[_Standards/WikiData/WD~Tambov_Oblast,3550|WD~Tambov_Oblast,3550]]"
+  - "[[_Standards/WikiData/WD~Rostov_Oblast,3573|WD~Rostov_Oblast,3573]]"
+  - "[[_Standards/WikiData/WD~Krasnodar_Krai,3680|WD~Krasnodar_Krai,3680]]"
+  - "[[_Standards/WikiData/WD~Adygea,3734|WD~Adygea,3734]]"
+  - "[[_Standards/WikiData/WD~Volgograd_Oblast,3819|WD~Volgograd_Oblast,3819]]"
+  - "[[_Standards/WikiData/WD~Astrakhan_Oblast,3941|WD~Astrakhan_Oblast,3941]]"
+  - "[[_Standards/WikiData/WD~Kalmykia,3953|WD~Kalmykia,3953]]"
+  - "[[_Standards/WikiData/WD~Primorsky_Krai,4341|WD~Primorsky_Krai,4341]]"
+  - "[[_Standards/WikiData/WD~Dagestan,5118|WD~Dagestan,5118]]"
+  - "[[_Standards/WikiData/WD~Chechnya,5187|WD~Chechnya,5187]]"
+  - "[[_Standards/WikiData/WD~Stavropol_Krai,5207|WD~Stavropol_Krai,5207]]"
+  - "[[_Standards/WikiData/WD~Ingushetia,5219|WD~Ingushetia,5219]]"
+  - "[[_Standards/WikiData/WD~North_Ossetia_Alania,5237|WD~North_Ossetia_Alania,5237]]"
+  - "[[_Standards/WikiData/WD~Kabardino-Balkaria,5267|WD~Kabardino-Balkaria,5267]]"
+  - "[[_Standards/WikiData/WD~Karachay-Cherkessia,5328|WD~Karachay-Cherkessia,5328]]"
+  - "[[_Standards/WikiData/WD~Saratov_Oblast,5334|WD~Saratov_Oblast,5334]]"
+  - "[[_Standards/WikiData/WD~Orenburg_Oblast,5338|WD~Orenburg_Oblast,5338]]"
+  - "[[_Standards/WikiData/WD~Mordovia,5340|WD~Mordovia,5340]]"
+  - "[[_Standards/WikiData/WD~Kirov_Oblast,5387|WD~Kirov_Oblast,5387]]"
+  - "[[_Standards/WikiData/WD~Perm_Krai,5400|WD~Perm_Krai,5400]]"
+  - "[[_Standards/WikiData/WD~Udmurtia,5422|WD~Udmurtia,5422]]"
+  - "[[_Standards/WikiData/WD~Mari_El,5446|WD~Mari_El,5446]]"
+  - "[[_Standards/WikiData/WD~Sverdlovsk_Oblast,5462|WD~Sverdlovsk_Oblast,5462]]"
+  - "[[_Standards/WikiData/WD~Chuvashia,5466|WD~Chuvashia,5466]]"
+  - "[[_Standards/WikiData/WD~Tatarstan,5481|WD~Tatarstan,5481]]"
+  - "[[_Standards/WikiData/WD~Penza_Oblast,5545|WD~Penza_Oblast,5545]]"
+  - "[[_Standards/WikiData/WD~Ulyanovsk_Oblast,5634|WD~Ulyanovsk_Oblast,5634]]"
+  - "[[_Standards/WikiData/WD~Bashkortostan,5710|WD~Bashkortostan,5710]]"
+  - "[[_Standards/WikiData/WD~Chelyabinsk_Oblast,5714|WD~Chelyabinsk_Oblast,5714]]"
+  - "[[_Standards/WikiData/WD~Kurgan_Oblast,5741|WD~Kurgan_Oblast,5741]]"
+  - "[[_Standards/WikiData/WD~Tyumen_Oblast,5824|WD~Tyumen_Oblast,5824]]"
+  - "[[_Standards/WikiData/WD~Omsk_Oblast,5835|WD~Omsk_Oblast,5835]]"
+  - "[[_Standards/WikiData/WD~Novosibirsk_Oblast,5851|WD~Novosibirsk_Oblast,5851]]"
+  - "[[_Standards/WikiData/WD~Tomsk_Oblast,5884|WD~Tomsk_Oblast,5884]]"
+  - "[[_Standards/WikiData/WD~Altai_Krai,5942|WD~Altai_Krai,5942]]"
+  - "[[_Standards/WikiData/WD~Altai_Republic,5971|WD~Altai_Republic,5971]]"
+  - "[[_Standards/WikiData/WD~Khanty-Mansi_Autonomous_Okrug,6320|WD~Khanty-Mansi_Autonomous_Okrug,6320]]"
+  - "[[_Standards/WikiData/WD~Yamalo-Nenets_Autonomous_Okrug,6407|WD~Yamalo-Nenets_Autonomous_Okrug,6407]]"
+  - "[[_Standards/WikiData/WD~Khakassia,6543|WD~Khakassia,6543]]"
+  - "[[_Standards/WikiData/WD~Krasnoyarsk_Krai,6563|WD~Krasnoyarsk_Krai,6563]]"
+  - "[[_Standards/WikiData/WD~Irkutsk_Oblast,6585|WD~Irkutsk_Oblast,6585]]"
+  - "[[_Standards/WikiData/WD~Sakha,6605|WD~Sakha,6605]]"
+  - "[[_Standards/WikiData/WD~Buryatia,6809|WD~Buryatia,6809]]"
+  - "[[_Standards/WikiData/WD~Zabaykalsky_Krai,6838|WD~Zabaykalsky_Krai,6838]]"
+  - "[[_Standards/WikiData/WD~Amur_Oblast,6886|WD~Amur_Oblast,6886]]"
+  - "[[_Standards/WikiData/WD~Sevastopol,7525|WD~Sevastopol,7525]]"
+  - "[[_Standards/WikiData/WD~Jewish_Autonomous_Oblast,7730|WD~Jewish_Autonomous_Oblast,7730]]"
+  - "[[_Standards/WikiData/WD~Khabarovsk_Krai,7788|WD~Khabarovsk_Krai,7788]]"
+  - "[[_Standards/WikiData/WD~Sakhalin_Oblast,7797|WD~Sakhalin_Oblast,7797]]"
+  - "[[_Standards/WikiData/WD~Kamchatka_Krai,7948|WD~Kamchatka_Krai,7948]]"
+  - "[[_Standards/WikiData/WD~Magadan_Oblast,7971|WD~Magadan_Oblast,7971]]"
+  - "[[_Standards/WikiData/WD~Chukotka_Autonomous_Okrug,7984|WD~Chukotka_Autonomous_Okrug,7984]]"
+  - "[[_Standards/WikiData/WD~Republic_of_Crimea,15966495|WD~Republic_of_Crimea,15966495]]"
+capital: "[[_Standards/WikiData/WD~Moscow,649|WD~Moscow,649]]"
 replaces:
-- '[[_Standards/WikiData/WD~Russian_Soviet_Federative_Socialist_Republic,2184|WD~Russian_Soviet_Federative_Socialist_Republic,2184]]'
-- '[[_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]'
-follows: '[[_Standards/WikiData/WD~Russian_Soviet_Federative_Socialist_Republic,2184|WD~Russian_Soviet_Federative_Socialist_Republic,2184]]'
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Russia,4224|WD~demographics_of_Russia,4224]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Eurasia,5401|WD~Eurasia,5401]]'
-lowest_point: '[[_Standards/WikiData/WD~Caspian_Sea,5484|WD~Caspian_Sea,5484]]'
-located_in_time_zone: '[[_Standards/WikiData/WD~UTC+02_00,6723|WD~UTC+02_00,6723]]'
-official_language: '[[_Standards/WikiData/WD~Russian,7737|WD~Russian,7737]]'
-head_of_state: '[[_Standards/WikiData/WD~Vladimir_Putin,7747|WD~Vladimir_Putin,7747]]'
-separated_from: '[[_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]'
-flag: '[[_Standards/WikiData/WD~flag_of_Russia,16611|WD~flag_of_Russia,16611]]'
+  - "[[_Standards/WikiData/WD~Russian_Soviet_Federative_Socialist_Republic,2184|WD~Russian_Soviet_Federative_Socialist_Republic,2184]]"
+  - "[[_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]"
+follows: "[[_Standards/WikiData/WD~Russian_Soviet_Federative_Socialist_Republic,2184|WD~Russian_Soviet_Federative_Socialist_Republic,2184]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Russia,4224|WD~demographics_of_Russia,4224]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Eurasia,5401|WD~Eurasia,5401]]"
+lowest_point: "[[_Standards/WikiData/WD~Caspian_Sea,5484|WD~Caspian_Sea,5484]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+02_00,6723|WD~UTC+02_00,6723]]"
+official_language: "[[_Standards/WikiData/WD~Russian,7737|WD~Russian,7737]]"
+head_of_state: "[[_Standards/WikiData/WD~Vladimir_Putin,7747|WD~Vladimir_Putin,7747]]"
+separated_from: "[[_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Russia,16611|WD~flag_of_Russia,16611]]"
 part_of:
-- '[[_Standards/WikiData/WD~Eastern_Europe,27468|WD~Eastern_Europe,27468]]'
-- '[[_Standards/WikiData/WD~European_Union_tax_haven_blacklist,66458647|WD~European_Union_tax_haven_blacklist,66458647]]'
-continent: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
-country: '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+  - "[[_Standards/WikiData/WD~Eastern_Europe,27468|WD~Eastern_Europe,27468]]"
+  - "[[_Standards/WikiData/WD~European_Union_tax_haven_blacklist,66458647|WD~European_Union_tax_haven_blacklist,66458647]]"
+continent: "[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]"
+country: "[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]"
 VAT_rate: 20
 speed_limit:
-- 60
-- 90
-- 110
+  - 60
+  - 90
+  - 110
 compulsory_education_minimum_age_: 6
 water_as_percent_of_area: 13
 marriageable_age:
-- 14
-- 15
-- 16
-- 18
+  - 14
+  - 15
+  - 16
+  - 18
 compulsory_education_maximum_age_: 16
 age_of_consent: 16
 total_fertility_rate: 1.7
@@ -1084,48 +1273,48 @@ age_of_majority: 18
 mains_voltage: 220
 Gini_coefficient: 36
 BTI_Status_Index:
-- 5.3
-- 5.7
-- 5.06
-- 5.24
-- 5.27
-- 5.31
-- 5.73
-- 5.94
-- 6.14
+  - 5.3
+  - 5.7
+  - 5.06
+  - 5.24
+  - 5.27
+  - 5.31
+  - 5.73
+  - 5.94
+  - 6.14
 birth_rate:
-- 8.9
-- 9.6
-- 9.8
-- 10.1
+  - 8.9
+  - 9.6
+  - 9.8
+  - 10.1
 death_rate:
-- 12.3
-- 12.9
-- 14.6
-- 16.7
+  - 12.3
+  - 12.9
+  - 14.6
+  - 16.7
 suicide_rate: 21.6
 BTI_Governance_Index:
-- 3.17
-- 3.45
-- 3.47
-- 3.48
-- 3.52
-- 3.87
-- 3.88
-- 3.91
-- 3.99
+  - 3.17
+  - 3.45
+  - 3.47
+  - 3.48
+  - 3.52
+  - 3.87
+  - 3.88
+  - 3.91
+  - 3.99
 official_observer_status_in_organisation:
-- '[[_Standards/WikiData/WD~CERN,42944|WD~CERN,42944]]'
-- '[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543|WD~Organisation_of_Islamic_Cooperation,47543]]'
+  - "[[_Standards/WikiData/WD~CERN,42944|WD~CERN,42944]]"
+  - "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543|WD~Organisation_of_Islamic_Cooperation,47543]]"
 Democracy_Index: 3.31
-highest_point: '[[_Standards/WikiData/WD~Mount_Elbrus,43105|WD~Mount_Elbrus,43105]]'
-patron_saint: '[[_Standards/WikiData/WD~Andrew_the_Apostle,43399|WD~Andrew_the_Apostle,43399]]'
+highest_point: "[[_Standards/WikiData/WD~Mount_Elbrus,43105|WD~Mount_Elbrus,43105]]"
+patron_saint: "[[_Standards/WikiData/WD~Andrew_the_Apostle,43399|WD~Andrew_the_Apostle,43399]]"
 Happy_Planet_Index_score: 34.9
 total_exports:
-- 353000000000
-- 281900000000
-- 337800000000
-- 497800000000
+  - 353000000000
+  - 281900000000
+  - 337800000000
+  - 497800000000
 number_of_out_of_school_children: 368000
 maximum_temperature_record: 45.4
 trunk_prefix: 8
@@ -1135,10 +1324,10 @@ ISO_3166_1_numeric_code: 643
 M49_code: 643
 UIC_numerical_country_code: 20
 unemployment_rate:
-- 3.867
-- 4.496
-- 4.715
-- 5.589
+  - 3.867
+  - 4.496
+  - 4.715
+  - 5.589
 mobile_country_code: 250
 maritime_identification_digits: 273
 WIPO_ST_3: RU
@@ -1146,137 +1335,137 @@ ISO_3166_1_alpha_2_code: RU
 IAB_code: 1449
 OmegaWiki_Defined_Meaning: 8444
 aircraft_registration_prefix:
-- RA
-- RF
+  - RA
+  - RF
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20the%20Russian%20Federation.svg
 area: 17075400
 FIPS_10_4_countries_and_regions_: RS
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Russia_topics,11032328|WD~Template_Russia_topics,11032328]]'
-railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
-driving_side: '[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Russia,16056530|WD~outline_of_Russia,16056530]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Russia_topics,11032328|WD~Template_Russia_topics,11032328]]"
+railway_traffic_side: "[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]"
+driving_side: "[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Russia,16056530|WD~outline_of_Russia,16056530]]"
 emergency_phone_number:
-- '[[_Standards/WikiData/WD~01,24233148|WD~01,24233148]]'
-- '[[_Standards/WikiData/WD~101,25648794|WD~101,25648794]]'
-- '[[_Standards/WikiData/WD~102,25648798|WD~102,25648798]]'
-- '[[_Standards/WikiData/WD~103,25648811|WD~103,25648811]]'
-- '[[_Standards/WikiData/WD~02,25648899|WD~02,25648899]]'
-- '[[_Standards/WikiData/WD~03,25648900|WD~03,25648900]]'
+  - "[[_Standards/WikiData/WD~01,24233148|WD~01,24233148]]"
+  - "[[_Standards/WikiData/WD~101,25648794|WD~101,25648794]]"
+  - "[[_Standards/WikiData/WD~102,25648798|WD~102,25648798]]"
+  - "[[_Standards/WikiData/WD~103,25648811|WD~103,25648811]]"
+  - "[[_Standards/WikiData/WD~02,25648899|WD~02,25648899]]"
+  - "[[_Standards/WikiData/WD~03,25648900|WD~03,25648900]]"
 permanent_duplicated_item:
-- '[[_Standards/WikiData/WD~Q42721651,42721651|WD~Q42721651,42721651]]'
-- '[[_Standards/WikiData/WD~Q110737270,110737270|WD~Q110737270,110737270]]'
-- '[[_Standards/WikiData/WD~Ruslun,116189205|WD~Ruslun,116189205]]'
-has_characteristic: '[[_Standards/WikiData/WD~not-free_country,47185282|WD~not-free_country,47185282]]'
+  - "[[_Standards/WikiData/WD~Q42721651,42721651|WD~Q42721651,42721651]]"
+  - "[[_Standards/WikiData/WD~Q110737270,110737270|WD~Q110737270,110737270]]"
+  - "[[_Standards/WikiData/WD~Ruslun,116189205|WD~Ruslun,116189205]]"
+has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282|WD~not-free_country,47185282]]"
 coordinates_of_westernmost_point: Point(19.63952065 54.45826455)
-open_data_portal: '[[_Standards/WikiData/WD~Open_Data_Portal_Russia,96997760|WD~Open_Data_Portal_Russia,96997760]]'
+open_data_portal: "[[_Standards/WikiData/WD~Open_Data_Portal_Russia,96997760|WD~Open_Data_Portal_Russia,96997760]]"
 female_population:
-- 77249735
-- 77519443
-- 77774863
-- 77890416
+  - 77249735
+  - 77519443
+  - 77774863
+  - 77890416
 coordinate_location: Point(94.25 66.416666666)
 Baidu_Tieba_name: 俄罗斯
 spoken_text_audio:
-- http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Russia%20part%201%20Intro.ogg
-- http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Russia%20part%202%20Government%20and%20politics.ogg
-- http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Russia%20part%203%20History.ogg
-- http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Russia%20part%204%20Geography.ogg
-- http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Russia%20part%205%20Demographics%20and%20Language.ogg
-- http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Russia%20part%206%20Economy.ogg
-- http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Russia%20part%207%20Military%20and%20Religion.ogg
-- http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Russia%20part%208%20Science.ogg
-- http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Russia%20part%209%20Culture.ogg
-- http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Russia%20part%2010%20UNESCO%20Sport%20Social%20security%20Education%20Health%20Crime.ogg
-- http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Rusland-article.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Russia%20part%201%20Intro.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Russia%20part%202%20Government%20and%20politics.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Russia%20part%203%20History.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Russia%20part%204%20Geography.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Russia%20part%205%20Demographics%20and%20Language.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Russia%20part%206%20Economy.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Russia%20part%207%20Military%20and%20Religion.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Russia%20part%208%20Science.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Russia%20part%209%20Culture.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Russia%20part%2010%20UNESCO%20Sport%20Social%20security%20Education%20Health%20Crime.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Rusland-article.ogg
 UMLS_CUI: C0035970
 location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20map%20of%20Russia%20%28%2Bclaims%29.svg
 demonym:
-- Rusinja
-- روسي
-- رواسا
-- روسيات
-- Rúiseach
-- rusa
-- руска
-- রুশ
-- russa
-- Ruska
-- Russinnen
-- russländisch
-- Rusiano
-- Ruslandano
-- Rusujano
-- rusas
-- venelased
-- רוסייה
-- ռուսաստանցիներ
-- Rusiano
-- russa
-- russe
-- ресейліктер
-- russer
-- russar
-- Rosjanin
-- Rosjanka
-- rusoaică
-- россияне
-- россиянин
-- россиянка
-- руска
-- rysk
-- ryskt
-- росіянин
-- росіянка
-- rusa
-- Rusänan
-- Rus
-- Rus
-- Rus
-- روس
-- orosz
-- russe
-- Russian
-- Russin
-- руски
-- rusa
-- ruso
-- ruse
-- روسية
-- rusu
-- rus
-- Russe
-- russo
-- rusce
-- руски
-- ruso
-- russos
-- Rusové
-- Russen
-- rusos
-- רוסי
-- russi
-- Rosjanie
-- rus
-- ruși
-- росіяни
-- rusi
-- روسي
-- Russe
+  - Rusinja
+  - روسي
+  - رواسا
+  - روسيات
+  - Rúiseach
+  - rusa
+  - руска
+  - রুশ
+  - russa
+  - Ruska
+  - Russinnen
+  - russländisch
+  - Rusiano
+  - Ruslandano
+  - Rusujano
+  - rusas
+  - venelased
+  - רוסייה
+  - ռուսաստանցիներ
+  - Rusiano
+  - russa
+  - russe
+  - ресейліктер
+  - russer
+  - russar
+  - Rosjanin
+  - Rosjanka
+  - rusoaică
+  - россияне
+  - россиянин
+  - россиянка
+  - руска
+  - rysk
+  - ryskt
+  - росіянин
+  - росіянка
+  - rusa
+  - Rusänan
+  - Rus
+  - Rus
+  - Rus
+  - روس
+  - orosz
+  - russe
+  - Russian
+  - Russin
+  - руски
+  - rusa
+  - ruso
+  - ruse
+  - روسية
+  - rusu
+  - rus
+  - Russe
+  - russo
+  - rusce
+  - руски
+  - ruso
+  - russos
+  - Rusové
+  - Russen
+  - rusos
+  - רוסי
+  - russi
+  - Rosjanie
+  - rus
+  - ruși
+  - росіяни
+  - rusi
+  - روسي
+  - Russe
 pronunciation_audio:
-- http://commons.wikimedia.org/wiki/Special:FilePath/De-Russland.ogg
-- http://commons.wikimedia.org/wiki/Special:FilePath/De-Russische%20F%C3%B6deration.ogg
-- http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Russland.ogg
-- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Rusia.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Russland.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Russische%20F%C3%B6deration.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Russland.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Rusia.wav
 ISNI: 123027140
 urban_population:
-- 108359438
-- 108464539
-- 108489246
-- 108576558
+  - 108359438
+  - 108464539
+  - 108489246
+  - 108576558
 Universal_Decimal_Classification: (470)
 BHCL_UUID:
-- 5c5840ae-82aa-48cf-98a7-e03b1e361916
-- 8863bd00-37e2-411b-9a76-5f5cafa29284
+  - 5c5840ae-82aa-48cf-98a7-e03b1e361916
+  - 8863bd00-37e2-411b-9a76-5f5cafa29284
 Provenio_UUID: 8d9d57f5-6867-40d8-bfb1-1d9ac070142a
 Krugosvet_article: Earth_sciences/geografiya/ROSSIYA_ROSSISKAYA_FEDERATSIYA_RF.html
 Wolfram_Language_entity_code: Entity["Country", "Russia"]
@@ -1285,34 +1474,34 @@ IPA_transcription: rɐˈsʲijə
 Unicode_character: 🇷🇺
 subreddit: russia
 hashtag:
-- russia
-- Россия
-- Russland
+  - russia
+  - Россия
+  - Russland
 CIVICUS_Monitor_country_entry: russia
 GitHub_topic: russia
 Colon_Classification: SG--58
 Commons_gallery: Россия
 GOST_7_67_cyrillic: РОФ
 motto_text:
-- Revela la teva pròpia Rússia
-- Datgelwch eich Rwsia eich hun
-- Reveal your own Russia
+  - Revela la teva pròpia Rússia
+  - Datgelwch eich Rwsia eich hun
+  - Reveal your own Russia
 short_name:
-- 🇷🇺
-- Россия
-- Росія
+  - 🇷🇺
+  - Россия
+  - Росія
 rural_population:
-- 35877495
-- 36282223
-- 36964045
-- 36668590
+  - 35877495
+  - 36282223
+  - 36964045
+  - 36668590
 coordinates_of_easternmost_point: Point(-169.056944444 65.781111111)
 Gregorian_calendar_start_date: 1918-02-14
 male_population:
-- 66987198
-- 67227319
-- 67470284
-- 67562876
+  - 66987198
+  - 67227319
+  - 67470284
+  - 67562876
 Commons_category: Russia
 X_Twitter_username: Russia
 social_media_followers: 442844
@@ -1325,8 +1514,8 @@ IOC_country_code: RUS
 INSEE_countries_and_foreign_territories_code: 99123
 official_name: Российская Федерация
 native_label:
-- Российская Федерация
-- Россия
+  - Российская Федерация
+  - Россия
 population: 145975300
 GS1_country_code: 460-469
 coordinates_of_southernmost_point: Point(47.781944444 41.185277777)
@@ -1345,7 +1534,7 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/LocationRu
 official_website: http://gov.ru/
 ---
 
-# [[Russia]] 🇷🇺
+# [[Russia]] 🇷🇺 
 ## #has_/properties 
 
 

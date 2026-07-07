@@ -93,7 +93,7 @@ has_url = `=this.dv_has_url`
 #has_/dual_/property :: [[has_time_stopped]] 
 
 Use it like this: 
-- #has_/time_started::P#Y#M#W#DT#H#M#s.fff  
+- #has_time_started::P#Y#M#W#DT#H#M#s.fff  
 - #has_/time_/started ::P#Y#M#W#DT#H#M#s.fff  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
