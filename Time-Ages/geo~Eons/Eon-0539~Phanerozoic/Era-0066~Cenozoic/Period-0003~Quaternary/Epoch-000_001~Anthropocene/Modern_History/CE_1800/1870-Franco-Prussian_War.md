@@ -1,4 +1,5 @@
 ---
+has_time_started: 1870-07-19 
 aliases:
 - 1870 you tɔm
 - 1870-Franco-Prussian War

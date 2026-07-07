@@ -1,4 +1,5 @@
 ---
+has_time_started: 1953-07-26 
 aliases:
 - 1959-Cuban Revolution
 - 1959-Cuban_Revolution

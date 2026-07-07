@@ -1,4 +1,5 @@
 ---
+has_time_started: 1519-02-01 
 aliases:
 - 1519-Spanish Conquest-Aztec Empire+1521
 - 1519-Spanish_Conquest-Aztec_Empire+1521

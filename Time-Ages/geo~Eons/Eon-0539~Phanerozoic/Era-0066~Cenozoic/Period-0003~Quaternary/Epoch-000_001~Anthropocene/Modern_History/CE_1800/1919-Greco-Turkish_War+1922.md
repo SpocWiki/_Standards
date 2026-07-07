@@ -1,4 +1,5 @@
 ---
+has_time_started: 1919-05-15 
 aliases:
 - Bellum Graeco-Turcicum
 - Chiến tranh Hy Lạp-Thổ Nhĩ Kỳ (1919-1922)

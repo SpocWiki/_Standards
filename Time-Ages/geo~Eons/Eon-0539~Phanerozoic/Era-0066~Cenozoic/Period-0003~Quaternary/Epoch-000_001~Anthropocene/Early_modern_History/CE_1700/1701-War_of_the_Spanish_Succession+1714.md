@@ -1,4 +1,5 @@
 ---
+has_time_started: 1701-03-01 
 aliases:
 - Bellum de successione Hispanica
 - Brezel Hêrezh Spagn

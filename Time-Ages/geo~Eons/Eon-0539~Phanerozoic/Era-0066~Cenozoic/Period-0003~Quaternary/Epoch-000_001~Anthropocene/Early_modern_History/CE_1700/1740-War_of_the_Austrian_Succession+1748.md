@@ -1,4 +1,5 @@
 ---
+has_time_started: 1740-12-16 
 aliases:
 - 1740-War of the Austrian Succession+1748
 - 1740-War_of_the_Austrian_Succession+1748

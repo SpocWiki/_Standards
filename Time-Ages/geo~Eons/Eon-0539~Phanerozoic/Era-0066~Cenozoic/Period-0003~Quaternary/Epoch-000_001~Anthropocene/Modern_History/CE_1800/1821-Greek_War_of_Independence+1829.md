@@ -1,4 +1,5 @@
 ---
+has_time_started: 1821-01-01 
 aliases:
 - Bellum rerum novarum Graecum
 - Chiến tranh giành độc lập Hy Lạp

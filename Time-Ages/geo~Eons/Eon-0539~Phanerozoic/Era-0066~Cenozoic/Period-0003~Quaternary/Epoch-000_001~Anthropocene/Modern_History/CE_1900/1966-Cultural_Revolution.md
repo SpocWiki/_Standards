@@ -1,4 +1,5 @@
 ---
+has_time_started: 1966-05-16 
 aliases:
 - 1966-Cultural Revolution
 - 1966-Cultural_Revolution

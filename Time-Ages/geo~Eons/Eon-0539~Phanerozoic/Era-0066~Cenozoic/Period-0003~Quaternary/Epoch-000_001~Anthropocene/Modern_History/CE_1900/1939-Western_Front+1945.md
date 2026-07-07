@@ -1,4 +1,5 @@
 ---
+has_time_started: 1939-01-01 
 aliases:
 - Antrasis frontas
 - Batı Cephesi

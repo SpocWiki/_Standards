@@ -1,4 +1,5 @@
 ---
+has_time_started: 1904-02-08 
 aliases:
 - Ady Rosiana-Japoney
 - Bellum Russo-Iaponicum

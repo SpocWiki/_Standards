@@ -1,4 +1,5 @@
 ---
+has_time_started: 1959-01-01 
 aliases:
 - 1959-Great Chinese Famine+1961
 - 1959-Great_Chinese_Famine+1961

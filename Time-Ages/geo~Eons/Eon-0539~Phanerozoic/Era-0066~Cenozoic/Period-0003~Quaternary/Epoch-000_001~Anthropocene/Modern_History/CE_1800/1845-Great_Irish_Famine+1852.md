@@ -1,4 +1,5 @@
 ---
+has_time_started: 1845-01-01 
 aliases:
 - 1845-Great Irish Famine+1852
 - 1845-Great_Irish_Famine+1852

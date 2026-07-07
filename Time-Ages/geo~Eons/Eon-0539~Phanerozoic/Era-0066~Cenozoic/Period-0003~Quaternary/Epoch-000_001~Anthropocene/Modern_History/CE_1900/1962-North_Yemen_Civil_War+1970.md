@@ -1,4 +1,5 @@
 ---
+has_time_started: 1962-09-26 
 aliases:
 - 26 September Revolution
 - Borgerkrigen i Nord-Jemen

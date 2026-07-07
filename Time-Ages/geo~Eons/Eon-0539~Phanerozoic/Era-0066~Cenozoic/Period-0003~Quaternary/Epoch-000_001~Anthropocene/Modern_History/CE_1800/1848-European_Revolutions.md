@@ -1,4 +1,5 @@
 ---
+has_time_started: 1848-01-12 
 aliases:
 - 1848 Devrimleri
 - 1848 nî Kek-bēng

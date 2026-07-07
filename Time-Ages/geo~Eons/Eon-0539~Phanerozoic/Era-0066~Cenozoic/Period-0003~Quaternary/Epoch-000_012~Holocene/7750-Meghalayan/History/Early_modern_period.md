@@ -1,4 +1,5 @@
 ---
+has_time_started: 1500-01-01 
 aliases:
 - agrīnie jaunie laiki
 - Alɩwaatʊ kɩfatʊ yaa wɛɛ kɩfana

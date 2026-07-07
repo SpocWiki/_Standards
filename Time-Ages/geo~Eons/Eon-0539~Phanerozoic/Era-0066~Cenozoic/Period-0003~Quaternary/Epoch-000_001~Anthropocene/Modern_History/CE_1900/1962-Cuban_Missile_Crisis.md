@@ -1,4 +1,5 @@
 ---
+has_time_started: 1962-10-14 
 aliases:
 - 1962-Cuban Missile Crisis
 - 1962-Cuban_Missile_Crisis

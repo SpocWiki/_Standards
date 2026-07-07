@@ -1,4 +1,5 @@
 ---
+has_time_started: 1899-10-23 
 aliases:
 - 1899-Second Boer War+1902
 - 1899-Second_Boer_War+1902

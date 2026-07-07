@@ -1,4 +1,5 @@
 ---
+has_time_started: 1914-10-29 
 aliases:
 - 1. Verdenskrig i Mellemøsten
 - Bliskoistočni teatar Prvog svetskog rata

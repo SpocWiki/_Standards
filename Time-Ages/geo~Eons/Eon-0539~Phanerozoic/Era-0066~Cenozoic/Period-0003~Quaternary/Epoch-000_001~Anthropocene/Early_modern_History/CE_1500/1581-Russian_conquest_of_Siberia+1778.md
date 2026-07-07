@@ -1,4 +1,5 @@
 ---
+has_time_started: 1580-07-01 
 aliases:
 - Colonization of Siberia
 - concuista rusa de ła Sibèria

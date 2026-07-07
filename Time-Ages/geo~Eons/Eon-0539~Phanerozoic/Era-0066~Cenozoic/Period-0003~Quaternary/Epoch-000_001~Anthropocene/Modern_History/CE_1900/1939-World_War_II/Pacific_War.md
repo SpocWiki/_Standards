@@ -1,4 +1,5 @@
 ---
+has_time_started: 1941-12-07 
 aliases:
 - Antrasis pasaulinis karas Ramiajame vandenyne
 - Asia–Pacific War

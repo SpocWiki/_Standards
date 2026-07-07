@@ -1,4 +1,5 @@
 ---
+has_time_started: 1936-08-01 
 location:
 - "[[_Standards/WikiData/WD~Mongolian_People's_Republic,212056|WD~Mongolian_People's_Republic,212056]]"
 - '[[_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]'

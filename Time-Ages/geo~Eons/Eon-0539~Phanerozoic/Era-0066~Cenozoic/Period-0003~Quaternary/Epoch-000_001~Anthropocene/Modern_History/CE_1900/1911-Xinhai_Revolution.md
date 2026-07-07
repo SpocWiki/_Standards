@@ -1,4 +1,5 @@
 ---
+has_time_started: 1911-10-10 
 aliases:
 - 1911-Xinhai Revolution
 - 1911-Xinhai_Revolution

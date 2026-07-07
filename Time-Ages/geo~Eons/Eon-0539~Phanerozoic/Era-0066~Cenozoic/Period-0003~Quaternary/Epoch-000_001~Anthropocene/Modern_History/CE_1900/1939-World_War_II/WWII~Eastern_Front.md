@@ -1,4 +1,5 @@
 ---
+has_time_started: 1941-06-22 
 aliases:
 - An Fronta Thoir (An Dara Cogadh Domhanda)
 - Bellum Magnum Patrium

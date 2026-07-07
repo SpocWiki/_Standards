@@ -1,4 +1,5 @@
 ---
+has_time_started: 1979-12-25 
 aliases:
 - a Szovjetunió afganisztáni háborúja
 - Afganistango gerra
