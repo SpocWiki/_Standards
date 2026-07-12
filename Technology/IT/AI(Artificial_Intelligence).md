@@ -536,6 +536,7 @@ dv_has_:
 
 #is_/same_as :: [[../../WikiData/WD~Artificial_intelligence,11660|WD~Artificial_intelligence,11660]]  
 
+#see :: [[AI(Artificial_Intelligence)/AGI(Artificial_general_Intelligence)|AGI(Artificial_general_Intelligence)]] 
 ## Types of AI 
 
 

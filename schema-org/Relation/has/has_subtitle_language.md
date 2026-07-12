@@ -9,18 +9,18 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - subtitle_language
   - subtitle
   - language
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_subtitle_language
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
@@ -28,7 +28,6 @@ title: has_subtitle_language
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_subtitle_language_of]]"
-
 dv_is_:
   same_as:
     - "[[has_subtitle_language]]"
@@ -46,23 +45,19 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_subtitle_language.private|has_subtitle_language.private]]"
   - "[[/_personal/schema-org/Relation/has/has_subtitle_language.personal|has_subtitle_language.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_subtitle_language.secret|has_subtitle_language.secret]]"
-
-
 dv_has_:
   domain: BroadcastEvent, Movie, ScreeningEvent, TVEpisode
   name: is_subtitle_language
   range: Language, Text
 dv_has_domain:
   - "[[../../Class/is_a_/Event/Publication_Event/Broadcast_Event|Broadcast_Event]]"
-  - "[[../../../Society/Communication/Media/Movie|Movie]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/Movie|Movie]]"
   - "[[../../Class/is_a_/Event/Screening_Event|Screening_Event]]"
-  - "TVEpisode"
+  - TVEpisode
 dv_has_name: is_subtitle_language
 dv_has_range:
   - "[[../../../Language|Language]]"
   - "[[../../Class/is_a_/Data_Type/Text|Text]]"
-
-
 ---
 
 # [[has_subtitle_language]] 

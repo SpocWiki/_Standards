@@ -1,0 +1,363 @@
+---
+aliases:
+- Maria Ludovica Streep
+- Mary Louise Streep
+- Meril Strip
+- Merila Strīpa
+- Meryl Streep
+- Meryl Streepová
+- Meryl_Streep
+- Streep
+- Μέριλ Στριπ
+- Меріл Стріп
+- Мерил Стрийп
+- Мерил Стрип
+- Мерйл Стрийп
+- Мэрыл Стрып
+- Стрип, Мерил
+- Մերիլ Սթրիփ
+- מריל סטריפ
+- مریل استریپ
+- ميريل ستريب
+- میرل اسٹریپ
+- مێرل ستریپ
+- मेराइल स्ट्रिप
+- मेरिल स्ट्रीप
+- মেরিল স্ট্রিপ
+- ਮੈਰਿਲ ਸਟ੍ਰੀਪ
+- மெரில் ஸ்ட்ரீப்
+- మెరిల్ స్ట్రీప్
+- ಮೆರಿಲ್ ಸ್ಟ್ರೀಪ್
+- മെറിൽ സ്ട്രീപ്
+- เมริล สตรีป
+- မယ်ရီ စထရိ
+- მერილ სტრიპი
+- メリル・ストリープ
+- 梅丽尔·斯特里普
+- 梅莉·史翠普
+- 梅麗·史翠普
+- 梅麗史翠普
+- 메릴 스트립
+has_id_wikidata: Q873
+nominated_for:
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618|WD~Academy_Award_for_Best_Actress,103618]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301|WD~Academy_Award_for_Best_Supporting_Actress,106301]]'
+- '[[_Standards/WikiData/WD~Tony_Award_for_Best_Featured_Actress_in_a_Play,627778|WD~Tony_Award_for_Best_Featured_Actress_in_a_Play,627778]]'
+- "[[_Standards/WikiData/WD~European_Film_Award_People's_Choice_Award_for_Best_European_Film,628637|WD~European_Film_Award_People's_Choice_Award_for_Best_European_Film,628637]]"
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actress_in_a_Motion_Picture_Musical_or_Comedy,1011564|WD~Golden_Globe_Award_for_Best_Actress_in_a_Motion_Picture_Musical_or_Comedy,1011564]]'
+- '[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Villain,1062026|WD~MTV_Movie_Award_for_Best_Villain,1062026]]'
+award_received:
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618|WD~Academy_Award_for_Best_Actress,103618]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301|WD~Academy_Award_for_Best_Supporting_Actress,106301]]'
+- '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044|WD~AFI_Life_Achievement_Award,292044]]'
+- '[[_Standards/WikiData/WD~Silver_Bear_for_Best_Actress,376834|WD~Silver_Bear_for_Best_Actress,376834]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actress_Motion_Picture_Drama,463085|WD~Golden_Globe_Award_for_Best_Actress_Motion_Picture_Drama,463085]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actress_Miniseries_or_Television_Film,673229|WD~Golden_Globe_Award_for_Best_Actress_Miniseries_or_Television_Film,673229]]'
+- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actress_in_a_Leading_Role,687123|WD~BAFTA_Award_for_Best_Actress_in_a_Leading_Role,687123]]'
+- '[[_Standards/WikiData/WD~Honorary_César,727282|WD~Honorary_César,727282]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Supporting_Actress_Motion_Picture,822907|WD~Golden_Globe_Award_for_Best_Supporting_Actress_Motion_Picture,822907]]'
+- '[[_Standards/WikiData/WD~Cannes_Film_Festival_Award_for_Best_Actress,840286|WD~Cannes_Film_Festival_Award_for_Best_Actress,840286]]'
+- '[[_Standards/WikiData/WD~Donostia_Award,908858|WD~Donostia_Award,908858]]'
+- '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Lead_Actress_in_a_Miniseries_or_a_Movie,989447|WD~Primetime_Emmy_Award_for_Outstanding_Lead_Actress_in_a_Miniseries_or_a_Movie,989447]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actress_in_a_Motion_Picture_Musical_or_Comedy,1011564|WD~Golden_Globe_Award_for_Best_Actress_in_a_Motion_Picture_Musical_or_Comedy,1011564]]'
+- '[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Villain,1062026|WD~MTV_Movie_Award_for_Best_Villain,1062026]]'
+- '[[_Standards/WikiData/WD~Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Female_Actor_in_a_Leading_Role,1129487|WD~Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Female_Actor_in_a_Leading_Role,1129487]]'
+- '[[_Standards/WikiData/WD~Theatre_World_Award,1131356|WD~Theatre_World_Award,1131356]]'
+- '[[_Standards/WikiData/WD~Rungstedlund_Award,1767819|WD~Rungstedlund_Award,1767819]]'
+- '[[_Standards/WikiData/WD~London_Film_Critics_Circle_Award_for_Actress_of_the_Year,1868921|WD~London_Film_Critics_Circle_Award_for_Actress_of_the_Year,1868921]]'
+- '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_the_Arts,3319305|WD~Princess_of_Asturias_Award_for_the_Arts,3319305]]'
+- '[[_Standards/WikiData/WD~AACTA_Award_for_Best_Actress_in_a_Leading_Role,4649800|WD~AACTA_Award_for_Best_Actress_in_a_Leading_Role,4649800]]'
+- '[[_Standards/WikiData/WD~Satellite_Award_for_Best_Actress_Motion_Picture_Musical_or_Comedy,5261137|WD~Satellite_Award_for_Best_Actress_Motion_Picture_Musical_or_Comedy,5261137]]'
+- '[[_Standards/WikiData/WD~Hasty_Pudding_Woman_of_the_Year,10294045|WD~Hasty_Pudding_Woman_of_the_Year,10294045]]'
+- '[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531|WD~Commandeur_des_Arts_et_des_Lettres,13452531]]'
+- '[[_Standards/WikiData/WD~New_Jersey_Hall_of_Fame,14705795|WD~New_Jersey_Hall_of_Fame,14705795]]'
+- '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Narrator,17048589|WD~Primetime_Emmy_Award_for_Outstanding_Narrator,17048589]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761|WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_Harvard_University,39384825|WD~honorary_doctor_of_Harvard_University,39384825]]'
+- '[[_Standards/WikiData/WD~honorary_doctorate_from_Princeton_University,42309226|WD~honorary_doctorate_from_Princeton_University,42309226]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875|WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
+- '[[_Standards/WikiData/WD~Crystal_Award,56085709|WD~Crystal_Award,56085709]]'
+- '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144|WD~Presidential_Medal_of_Freedom,17144]]'
+relative: '[[_Standards/WikiData/WD~Brooke_Shields,189400|WD~Brooke_Shields,189400]]'
+student_of:
+- '[[_Standards/WikiData/WD~Jean_Arthur,229338|WD~Jean_Arthur,229338]]'
+- '[[_Standards/WikiData/WD~Robert_Lewis,1489956|WD~Robert_Lewis,1489956]]'
+- '[[_Standards/WikiData/WD~Carmen_De_Lavallade,2939599|WD~Carmen_De_Lavallade,2939599]]'
+- '[[_Standards/WikiData/WD~Estelle_Liebling,5400941|WD~Estelle_Liebling,5400941]]'
+child:
+- '[[_Standards/WikiData/WD~Mamie_Gummer,242555|WD~Mamie_Gummer,242555]]'
+- '[[_Standards/WikiData/WD~Grace_Gummer,3486444|WD~Grace_Gummer,3486444]]'
+- '[[_Standards/WikiData/WD~Henry_Wolfe_Gummer,15052227|WD~Henry_Wolfe_Gummer,15052227]]'
+- '[[_Standards/WikiData/WD~Louisa_Jacobson,17523834|WD~Louisa_Jacobson,17523834]]'
+unmarried_partner:
+- '[[_Standards/WikiData/WD~John_Cazale,296177|WD~John_Cazale,296177]]'
+- '[[_Standards/WikiData/WD~Martin_Short,329744|WD~Martin_Short,329744]]'
+member_of:
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303|WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~Screen_Actors_Guild,1141037|WD~Screen_Actors_Guild,1141037]]'
+- '[[_Standards/WikiData/WD~SAG_AFTRA,16781948|WD~SAG_AFTRA,16781948]]'
+given_name:
+- '[[_Standards/WikiData/WD~Meryl,493639|WD~Meryl,493639]]'
+- '[[_Standards/WikiData/WD~Mary,734578|WD~Mary,734578]]'
+- '[[_Standards/WikiData/WD~Louise,3215140|WD~Louise,3215140]]'
+occupation:
+- '[[_Standards/WikiData/WD~television_producer,578109|WD~television_producer,578109]]'
+- '[[_Standards/WikiData/WD~stage_actor,2259451|WD~stage_actor,2259451]]'
+- '[[_Standards/WikiData/WD~voice_actor,2405480|WD~voice_actor,2405480]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637|WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782|WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557|WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~actor,33999|WD~actor,33999]]'
+residence:
+- '[[_Standards/WikiData/WD~Bernardsville,823107|WD~Bernardsville,823107]]'
+- '[[_Standards/WikiData/WD~Brentwood,846426|WD~Brentwood,846426]]'
+- '[[_Standards/WikiData/WD~Connecticut,779|WD~Connecticut,779]]'
+- '[[_Standards/WikiData/WD~New_York_City,60|WD~New_York_City,60]]'
+place_of_birth: '[[_Standards/WikiData/WD~Summit,1000642|WD~Summit,1000642]]'
+spouse: '[[_Standards/WikiData/WD~Don_Gummer,1271632|WD~Don_Gummer,1271632]]'
+has_list: '[[_Standards/WikiData/WD~list_of_awards_and_nominations_received_by_Meryl_Streep,1863103|WD~list_of_awards_and_nominations_received_by_Meryl_Streep,1863103]]'
+educated_at:
+- '[[_Standards/WikiData/WD~Vassar_College,2093794|WD~Vassar_College,2093794]]'
+- '[[_Standards/WikiData/WD~Bernards_High_School,4893990|WD~Bernards_High_School,4893990]]'
+- '[[_Standards/WikiData/WD~Yale_School_of_Drama,8047423|WD~Yale_School_of_Drama,8047423]]'
+- '[[_Standards/WikiData/WD~Yale_University,49112|WD~Yale_University,49112]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072|WD~female,6581072]]'
+filmography: '[[_Standards/WikiData/WD~Meryl_Streep_filmography,6820988|WD~Meryl_Streep_filmography,6820988]]'
+mother: '[[_Standards/WikiData/WD~Mary_Wilkinson_Streep,17711441|WD~Mary_Wilkinson_Streep,17711441]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Art+Feminism,24909800|WD~Art+Feminism,24909800]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401|WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+family_name: '[[_Standards/WikiData/WD~Streep,76654274|WD~Streep,76654274]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066|WD~atheism,7066]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Democratic_Party,29552|WD~Democratic_Party,29552]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+number_of_children: 4
+social_media_followers: 50400
+Commons_category: Meryl Streep
+Commons_gallery: Meryl Streep
+Wolfram_Language_entity_code: Entity["Person", "MerylStreep::3t37k"]
+Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/STRIP_MERIL.html
+Baidu_Tieba_name: 梅丽尔·斯特里普
+birth_name: Mary Louise Streep
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Meryl%20Streep%20interview%20at%20Festival%20de%20Cannes%202024%20%28cropped%202%29.jpg
+name_in_native_language: Meryl Streep
+work_period_start_: 1975-01-01T00:00:00Z
+date_of_birth: 1949-06-22T00:00:00Z
+signature: http://commons.wikimedia.org/wiki/Special:FilePath/Meryl%20Streep%20Signature.svg
+ISNI: 0000000122811152
+RIA_Novosti_reference: 1012833760
+Libris_URI: 31fjrbdm57q75gp
+Plex_person_key: 5d7768265af944001f1f6688
+dv_has_:
+  name_:
+    af: Meryl Streep
+    an: Meryl Streep
+    ar: ميريل ستريب
+    arz: ميريل ستريب
+    ast: Meryl Streep
+    az: Meril Strip
+    azb: مریل استریپ
+    ba: Мерил Стрип
+    bar: Meryl Streep
+    be: Мэрыл Стрып
+    be_tarask: Мэрыл Стрып
+    bg: Мерил Стрийп
+    bi: Meryl Streep
+    bm: Meryl Streep
+    bn: মেরিল স্ট্রিপ
+    br: Meryl Streep
+    bs: Meryl Streep
+    ca: Meryl Streep
+    ceb: Meryl Streep
+    ckb: مێرل ستریپ
+    co: Meryl Streep
+    cs: Meryl Streepová
+    cy: Meryl Streep
+    da: Meryl Streep
+    de: Meryl Streep
+    de-at: Meryl Streep
+    de_ch: Meryl Streep
+    el: Μέριλ Στριπ
+    eml: Meryl Streep
+    en: Meryl Streep
+    en_ca: Meryl Streep
+    en_gb: Meryl Streep
+    eo: Meryl Streep
+    es: Meryl Streep
+    et: Meryl Streep
+    eu: Meryl Streep
+    ext: Meryl Streep
+    fa: مریل استریپ
+    fi: Meryl Streep
+    fit: Meryl Streep
+    fo: Meryl Streep
+    fr: Meryl Streep
+    frc: Meryl Streep
+    frp: Meryl Streep
+    fur: Meryl Streep
+    fy: Meryl Streep
+    ga: Meryl Streep
+    gd: Meryl Streep
+    gl: Meryl Streep
+    gsw: Meryl Streep
+    ha: Meryl Streep
+    he: מריל סטריפ
+    hi: मेरिल स्ट्रीप
+    hif: Meryl Streep
+    hr: Meryl Streep
+    ht: Meryl Streep
+    hu: Meryl Streep
+    hy: Մերիլ Սթրիփ
+    hyw: Մերիլ Սթրիփ
+    ia: Meryl Streep
+    id: Meryl Streep
+    ie: Meryl Streep
+    ilo: Meryl Streep
+    io: Meryl Streep
+    is: Meryl Streep
+    it: Meryl Streep
+    ja: メリル・ストリープ
+    jam: Meryl Streep
+    jv: Meryl Streep
+    ka: მერილ სტრიპი
+    kab: Meryl Streep
+    kg: Meryl Streep
+    kk: Мерил Стрип
+    kn: ಮೆರಿಲ್ ಸ್ಟ್ರೀಪ್
+    ko: 메릴 스트립
+    kw: Meryl Streep
+    la: Maria Ludovica Streep
+    lb: Meryl Streep
+    li: Meryl Streep
+    lij: Meryl Streep
+    lmo: Meryl Streep
+    lt: Meryl Streep
+    lv: Merila Strīpa
+    mai: मेरिल स्ट्रीप
+    mg: Meryl Streep
+    min: Meryl Streep
+    mk: Мерил Стрип
+    ml: മെറിൽ സ്ട്രീപ്
+    mn: Мерил Стрип
+    mr: मेरिल स्ट्रीप
+    ms: Meryl Streep
+    mul: Meryl Streep
+    my: မယ်ရီ စထရိ
+    myv: Стрип, Мерил
+    nan: Meryl Streep
+    nap: Meryl Streep
+    nb: Meryl Streep
+    nds: Meryl Streep
+    nds_nl: Meryl Streep
+    ne: मेराइल स्ट्रिप
+    nl: Meryl Streep
+    nn: Meryl Streep
+    nrm: Meryl Streep
+    oc: Meryl Streep
+    pa: ਮੈਰਿਲ ਸਟ੍ਰੀਪ
+    pam: Meryl Streep
+    pap: Meryl Streep
+    pcd: Meryl Streep
+    pl: Meryl Streep
+    pms: Meryl Streep
+    pnb: میرل اسٹریپ
+    prg: Meryl Streep
+    pt: Meryl Streep
+    pt_br: Meryl Streep
+    qu: Meryl Streep
+    rgn: Meryl Streep
+    rm: Meryl Streep
+    rmf: Meryl Streep
+    ro: Meryl Streep
+    ru: Мерил Стрип
+    sc: Meryl Streep
+    scn: Meryl Streep
+    sco: Meryl Streep
+    se: Meryl Streep
+    sh: Meryl Streep
+    sje: Meryl Streep
+    sju: Meryl Streep
+    sk: Meryl Streepová
+    sl: Meryl Streep
+    sma: Meryl Streep
+    smj: Meryl Streep
+    smn: Meryl Streep
+    sms: Meryl Streep
+    sq: Meryl Streep
+    sr: Мерил Стрип
+    sr_ec: Мерил Стрип
+    sr_el: Meryl Streep
+    sv: Meryl Streep
+    sw: Meryl Streep
+    ta: மெரில் ஸ்ட்ரீப்
+    te: మెరిల్ స్ట్రీప్
+    tg: Мерйл Стрийп
+    th: เมริล สตรีป
+    tl: Meryl Streep
+    tr: Meryl Streep
+    tt: Meril Strip
+    uk: Меріл Стріп
+    ur: میرل اسٹریپ
+    uz: Meryl Streep
+    vec: Meryl Streep
+    vi: Meryl Streep
+    vls: Meryl Streep
+    vmf: Meryl Streep
+    vo: Meryl Streep
+    wa: Meryl Streep
+    war: Meryl Streep
+    wo: Meryl Streep
+    wuu: 梅丽尔·斯特里普
+    xmf: მერილ სტრიპი
+    yo: Meryl Streep
+    yue: 梅麗史翠普
+    zh: 梅麗·史翠普
+    zh_cn: 梅丽尔·斯特里普
+    zh_hans: 梅丽尔·斯特里普
+    zh_hant: 梅麗·史翠普
+    zh_hk: 梅麗史翠普
+    zh-my: 梅莉·史翠普
+    zh_sg: 梅莉·史翠普
+    zh_tw: 梅莉·史翠普
+    zu: Meryl Streep
+---
+
+# [[Meryl_Streep]] 
+
+#is_/same_as :: [[_Standards/WikiData/WD~Meryl_Streep,873|WD~Meryl_Streep,873]] 
+
+## #has_/text_of_/abstract 
+
+> Mary Louise "Meryl" Streep (born June 22, 1949) is an American actress. 
+> 
+> Known for her versatility and adept accent work, she has been described as "the best actress of her generation". She has received numerous accolades throughout her career spanning over five decades, including three Academy Awards, two British Academy Film Awards, eight Golden Globe Awards, four Emmy Awards, and two Screen Actors Guild Awards, in addition to nominations for seven Grammy Awards and a Tony Award. 
+>
+> Streep made her feature film debut in Julia (1977) and soon established herself as one of the most respected actresses of all time. She has received three Academy Awards, the first for Best Supporting Actress for playing a troubled wife in Kramer vs. Kramer (1979), followed by two Best Actress wins for playing a Holocaust survivor in Sophie's Choice (1982) and Margaret Thatcher in The Iron Lady (2011). Throughout her career she has continued to earn critical acclaim for her diverse roles on film ranging from the dramatic in The Deer Hunter (1978), Silkwood (1983), Out of Africa (1985), The Bridges of Madison County (1995), Doubt (2008), August: Osage County (2013), Into the Woods (2014), and The Post (2017) to the comedic in The Devil Wears Prada (2006), Mamma Mia! (2008), Julie & Julia, It's Complicated (both 2009), and Florence Foster Jenkins (2016). She was also featured in Woody Allen's comedy-drama Manhattan (1979).
+>
+> On stage, Streep made her debut in 1975 in Trelawny of the Wells, and the following year she received a nomination for the Tony Award for Best Featured Actress in a Play for a double-bill production of 27 Wagons Full of Cotton and A Memory of Two Mondays. For her work on television, Streep has won four Emmy Awards, including Primetime Emmys for her acting roles in the miniseries Holocaust (1978) and Angels in America (2003). She has also taken roles in the HBO drama series Big Little Lies (2019) and the Hulu comedy-mystery series Only Murders in the Building (2023–24).
+>
+> Streep has been the recipient of many honorary awards, including an Honorary César in 2003, the AFI Life Achievement Award in 2004, a Gala Tribute from the Film Society of Lincoln Center in 2008, the Kennedy Center Honor in 2011, an Honorary Golden Bear in 2012, the Golden Globe Cecil B. DeMille Award in 2017, and the Honorary Palme d'Or in 2024. President Barack Obama awarded her the National Medal of Arts in 2010 and the Presidential Medal of Freedom in 2014. In 2003, the French government made her a Commander of the Order of Arts and Letters.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Meryl%20Streep) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[Meryl_Streep|Meryl_Streep]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Meryl_Streep.public|Meryl_Streep.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Meryl_Streep.internal|Meryl_Streep.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Meryl_Streep.protect|Meryl_Streep.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Meryl_Streep.private|Meryl_Streep.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Meryl_Streep.personal|Meryl_Streep.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Meryl_Streep.secret|Meryl_Streep.secret]] 
+

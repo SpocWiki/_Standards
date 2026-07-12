@@ -271,7 +271,7 @@ dv_has_:
 > which made him famous before he turned thirty. 
 > During his 60-year career he wrote an estimated 1,500 songs, 
 > including the scores for 20 original Broadway shows and 15 original Hollywood films, 
-> with his songs nominated eight times for [[../../../Movie/Academy_Award|Academy Awards]]. 
+> with his songs nominated eight times for [[../../../Creative_Work/Movie/Academy_Award|Academy Awards]]. 
 > Many songs became popular themes and anthems, including "[[Berlin,Irving/Alexander's_Ragtime_Band|Alexander's Ragtime Band]]", "[[Berlin,Irving/Blue_Skies(Film)|Blue Skies]]", "Easter Parade", "[[Berlin,Irving/Puttin'_on_the_Ritz|Puttin'_on_the_Ritz]]", "[[Berlin,Irving/Cheek_to_Cheek|Cheek_to_Cheek]]", "[[Berlin,Irving/White_Christmas(song)|White Christmas]]", "Happy Holiday", "[[Berlin,Irving/Anything_You_can_do|Anything_You_can_do]] (I Can Do Better)", 
 > and "[[Berlin,Irving/There's_no_Business_like_Show_Business|There's_no_Business_like_Show_Business]]". 
 >

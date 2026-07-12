@@ -212,7 +212,7 @@ dv_has_:
 > was an American novelist and journalist. 
 > 
 > Mitchell wrote only one novel that was published during her lifetime, 
-> the American Civil War-era novel [[../../../../Movie/Gone_with_the_Wind|Gone_with_the_Wind]], for which 
+> the American Civil War-era novel [[../../../../Creative_Work/Movie/Gone_with_the_Wind|Gone_with_the_Wind]], for which 
 > she won the National Book Award for Fiction for Most Distinguished Novel of 1936 
 > and the Pulitzer Prize for Fiction in 1937. 
 > 

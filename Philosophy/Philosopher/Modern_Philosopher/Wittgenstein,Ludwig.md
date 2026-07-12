@@ -343,7 +343,7 @@ dv_has_:
 > His only other published works were an article, "Some Remarks on Logical Form" (1929); 
 > a book review; and a children's dictionary. 
 > His voluminous manuscripts were edited and published posthumously. 
-> The first and best-known of this posthumous series is the 1953 book [[Philosophical_Investigations(book)]]. 
+> The first and best-known of this posthumous series is the 1953 book [[../../../../_internal/Technology/IT/AI(Artificial_Intelligence)/AGI(Artificial_general_Intelligence)/Concepts~AGI/Philosophical_Investigations(book)]]. 
 > A 1999 survey among American university and college teachers 
 > ranked the Investigations as the most important book of 20th-century philosophy, 
 > standing out as "the one crossover masterpiece in twentieth-century philosophy, 

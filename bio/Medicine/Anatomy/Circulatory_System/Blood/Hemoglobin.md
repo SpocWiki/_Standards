@@ -210,6 +210,7 @@ dv_has_:
 # [[Hemoglobin]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Hemoglobin,43041|WD~Hemoglobin,43041]] 
+#can_/convert_to_ :: [[Bilirubin]] 
 
 ## #has_/text_of_/abstract 
 
@@ -217,7 +218,7 @@ dv_has_:
 > that facilitates the transportation of oxygen in red blood cells. 
 > 
 > Almost all vertebrates contain hemoglobin, 
-> with the sole exception of the fish family Channichthyidae. 
+> with the **sole exception of the fish family Channichthyidae**. 
 > 
 > Hemoglobin in the blood carries oxygen from the respiratory organs (lungs or gills) 
 > to the other tissues of the body, where it releases the oxygen 
@@ -239,13 +240,28 @@ dv_has_:
 > The molecule also carries the important regulatory molecule nitric oxide 
 > bound to a thiol group in the globin protein, releasing it at the same time as oxygen.
 >
-> Hemoglobin is also found in other cells, including in the A9 dopaminergic neurons of the substantia nigra, macrophages, alveolar cells, lungs, retinal pigment epithelium, hepatocytes, mesangial cells of the kidney, endometrial cells, cervical cells, and vaginal epithelial cells. In these tissues, hemoglobin absorbs unneeded oxygen as an antioxidant, and regulates iron metabolism. Excessive glucose in the blood can attach to hemoglobin and raise the level of hemoglobin A1c.
+> Hemoglobin is also found in other cells, 
+> including in the A9 dopaminergic neurons of the substantia nigra, macrophages, 
+> alveolar cells, lungs, retinal pigment epithelium, hepatocytes, 
+> mesangial cells of the kidney, endometrial cells, cervical cells, and vaginal epithelial cells. 
+> In these tissues, hemoglobin absorbs unneeded oxygen as an antioxidant, 
+> and regulates iron metabolism. 
+> Excessive glucose in the blood can attach to hemoglobin 
+> and raise the level of hemoglobin A1c.
 >
-> Hemoglobin and hemoglobin-like molecules are also found in many invertebrates, fungi, and plants. In these organisms, hemoglobins may carry oxygen, or they may transport and regulate other small molecules and ions such as carbon dioxide, nitric oxide, hydrogen sulfide and sulfide. A variant called leghemoglobin serves to scavenge oxygen away from anaerobic systems such as the nitrogen-fixing nodules of leguminous plants, preventing oxygen poisoning.
+> Hemoglobin and hemoglobin-like molecules are also found 
+> in many invertebrates, fungi, and plants. 
+> In these organisms, hemoglobins may carry oxygen, 
+> or they may transport and regulate other small molecules and ions such as carbon dioxide, nitric oxide, hydrogen sulfide and sulfide. 
+> A variant called leghemoglobin serves to scavenge oxygen away from anaerobic systems 
+> such as the nitrogen-fixing nodules of leguminous plants, **preventing oxygen poisoning**.
 >
-> The medical condition hemoglobinemia, a form of anemia, is caused by intravascular hemolysis, in which hemoglobin leaks from red blood cells into the blood plasma.
+> The medical condition hemoglobinemia, a form of anemia, 
+> is caused by intravascular hemolysis, 
+> in which hemoglobin leaks from red blood cells into the blood plasma.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hemoglobin) 
+
 
 
 ## Confidential Links & Embeds: 

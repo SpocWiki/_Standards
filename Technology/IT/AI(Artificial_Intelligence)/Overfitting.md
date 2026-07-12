@@ -60,8 +60,8 @@ aliases:
 
 # [[Overfitting]]  
 
-Overfitting is [[rote Learning]] 
-and arguable less efficient than comprehension and abstraction. 
+Overfitting is similar to [[rote Learning]] 
+and arguable less efficient than Comprehension and [[../../../Mathematics/Abstraction|Abstraction]]. 
 
 ## Overfitting Curve
 

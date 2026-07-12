@@ -1,0 +1,378 @@
+---
+aliases:
+  - Bernar Sara
+  - Bernhardt,Sarah
+  - Henriette-Rosine Bernard
+  - Saaraa Bernaar
+  - Sara Bernar
+  - Sara Bernard
+  - Sara Bernhardt
+  - Sarah Bernhardt
+  - Sarah Bernhardtová
+  - Sarah_Bernhardt
+  - Sāra Bernāra
+  - U'''Sarah Bernhardt'''
+  - Σάρα Μπερνάρ
+  - Бернар, Сара
+  - Сара Бернар
+  - Сара Бернард
+  - Сара Бэрнар
+  - Սառա Բեռնար
+  - שרה בערנאר
+  - שרה ברנאר
+  - سارا برنارد
+  - سارا برنہارٹ
+  - سارا بێرنارت
+  - سارة برنار
+  - ساره بيرنار
+  - سارہ برنہارٹ
+  - सारा बर्नहार्ट
+  - सारा बर्नहार्त
+  - सेरा बर्नहार्ट
+  - ছাৰা বাৰ্নহাৰ্ট
+  - সারা বেরনার্ত
+  - ਸਾਰਾ ਬਰਨਹਾਰਟ
+  - சாரா பேர்ண்ஹார்ட்
+  - సారా బర్న్హార్డ్ట్
+  - ಸಾರಾ ಬರ್ನ್ಹಾರ್ಡ್
+  - സാറാ ബെർണാർഡ്
+  - ซารา แบร์นาร์ต
+  - ဆာရာ ဘန်းဟတ်ဒ်
+  - სარა ბერნარი
+  - ሳራ በርናርት
+  - សារ៉ា បឺនហាត្ត
+  - ᱥᱟᱨᱟᱦ ᱵᱮᱨᱱᱦᱟᱨᱰᱚᱴ
+  - サラ・ベルナール
+  - 莎拉·伯恩哈特
+  - 莎拉伯恩哈特
+  - 사라 베르나르
+  - 𐍃𐌰𐍂𐌰𐌷 𐌱𐌰𐌹𐍂𐌽𐌷𐌰𐍂𐌳𐍄
+has_id_wikidata: Q4605
+archives_at: "[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855|WD~Harry_Ransom_Center,5671855]]"
+artist_files_at: "[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390|WD~Frick_Art_Research_Library,5503390]]"
+award_received:
+  - "[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195|WD~Officer_of_the_Legion_of_Honour,10855195]]"
+  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761|WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
+birth_name:
+  - Sarah Marie Henriette Bernard
+  - Sara Marie Henriette Bernhardt
+cause_of_death:
+  - "[[_Standards/WikiData/WD~kidney_failure,476921|WD~kidney_failure,476921]]"
+  - "[[_Standards/WikiData/WD~uremia,13365776|WD~uremia,13365776]]"
+child: "[[_Standards/WikiData/WD~Maurice_Bernhardt,3300404|WD~Maurice_Bernhardt,3300404]]"
+Commons_category: Sarah Bernhardt
+Commons_Creator_page: Sarah Bernhardt
+Commons_gallery: Sarah Bernhardt
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839|WD~copyrights_on_works_have_expired,71887839]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~France,142|WD~France,142]]"
+date_of_birth: 1844-10-23
+date_of_death: 1923-03-26
+described_by_source:
+  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490|WD~1922_Encyclopædia_Britannica,15987490]]"
+  - "[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836|WD~Larousse_Encyclopedia_online,17329836]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135|WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Women_in_the_fine_arts,_from_the_seventh_century_B.C._to_the_twentieth_century_A.D.,23044604|WD~Women_in_the_fine_arts,_from_the_seventh_century_B.C._to_the_twentieth_century_A.D.,23044604]]"
+  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+  - "[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]"
+  - "[[_Standards/WikiData/WD~Tooneel-herinneringen,103933886|WD~Tooneel-herinneringen,103933886]]"
+  - "[[_Standards/WikiData/WD~Q114355221,114355221|WD~Q114355221,114355221]]"
+  - "[[_Standards/WikiData/WD~Albert_Edelfelt's_letters,116452747|WD~Albert_Edelfelt's_letters,116452747]]"
+different_from: "[[_Standards/WikiData/WD~Sandra_Bernhard,236181|WD~Sandra_Bernhard,236181]]"
+documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401|WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
+educated_at: "[[_Standards/WikiData/WD~Conservatoire_national_supérieur_d'art_dramatique,1127387|WD~Conservatoire_national_supérieur_d'art_dramatique,1127387]]"
+ethnic_group: "[[_Standards/WikiData/WD~Jewish_people,7325|WD~Jewish_people,7325]]"
+family_name: "[[_Standards/WikiData/WD~Bernhardt,18398084|WD~Bernhardt,18398084]]"
+father: "[[_Standards/WikiData/WD~Edouard_Bernhardt,108838539|WD~Edouard_Bernhardt,108838539]]"
+given_name: "[[_Standards/WikiData/WD~Sarah,18201513|WD~Sarah,18201513]]"
+has_works_in_the_collection:
+  - "[[_Standards/WikiData/WD~Hermitage_Museum,132783|WD~Hermitage_Museum,132783]]"
+  - "[[_Standards/WikiData/WD~Victoria_and_Albert_Museum,213322|WD~Victoria_and_Albert_Museum,213322]]"
+  - "[[_Standards/WikiData/WD~Musée_Carnavalet,640447|WD~Musée_Carnavalet,640447]]"
+  - "[[_Standards/WikiData/WD~Musée_des_Beaux-Arts_de_Dijon,1955739|WD~Musée_des_Beaux-Arts_de_Dijon,1955739]]"
+  - "[[_Standards/WikiData/WD~Musée_de_la_Vie_romantique,2714932|WD~Musée_de_la_Vie_romantique,2714932]]"
+  - "[[_Standards/WikiData/WD~Fondation_Bemberg,16303680|WD~Fondation_Bemberg,16303680]]"
+  - "[[_Standards/WikiData/WD~Musée_des_Beaux-Arts_de_la_ville_de_Paris,59546080|WD~Musée_des_Beaux-Arts_de_la_ville_de_Paris,59546080]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Face%20detail%2C%20Sarah%20Bernhardt%20as%20Do%C3%B1a%20Sol%20in%20Hernani%20%28cropped%29.png
+image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Sarah%20Bernhardt%20grave.jpg
+instance_of: "[[_Standards/WikiData/WD~human,5|WD~human,5]]"
+ISNI:
+  - 120963355
+  - 368634272
+Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/BERNAR_SARA.html
+languages_spoken_written_or_signed:
+  - "[[_Standards/WikiData/WD~English,1860|WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~French,150|WD~French,150]]"
+Libris_URI: 75kmg7qr3x14kw7
+manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104|WD~natural_causes,3739104]]"
+medical_condition: "[[_Standards/WikiData/WD~amputation,477415|WD~amputation,477415]]"
+mother: "[[_Standards/WikiData/WD~Judith-Julie_Bernardt,18776819|WD~Judith-Julie_Bernardt,18776819]]"
+name_in_native_language: Sarah Bernhardt
+occupation:
+  - "[[_Standards/WikiData/WD~painter,1028181|WD~painter,1028181]]"
+  - "[[_Standards/WikiData/WD~sculptor,1281618|WD~sculptor,1281618]]"
+  - "[[_Standards/WikiData/WD~stage_actor,2259451|WD~stage_actor,2259451]]"
+  - "[[_Standards/WikiData/WD~dancer,5716684|WD~dancer,5716684]]"
+  - "[[_Standards/WikiData/WD~film_actor,10800557|WD~film_actor,10800557]]"
+  - "[[_Standards/WikiData/WD~actor,33999|WD~actor,33999]]"
+  - "[[_Standards/WikiData/WD~writer,36180|WD~writer,36180]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359|WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]"
+owner_of: "[[_Standards/WikiData/WD~Fort_Sarah_Bernhardt,20669768|WD~Fort_Sarah_Bernhardt,20669768]]"
+place_of_birth: "[[_Standards/WikiData/WD~Paris,90|WD~Paris,90]]"
+place_of_burial:
+  - "[[_Standards/WikiData/WD~Grave_of_Bernhardt,112324483|WD~Grave_of_Bernhardt,112324483]]"
+  - "[[_Standards/WikiData/WD~Père_Lachaise_Cemetery,311|WD~Père_Lachaise_Cemetery,311]]"
+place_of_death: "[[_Standards/WikiData/WD~17th_arrondissement_of_Paris,197297|WD~17th_arrondissement_of_Paris,197297]]"
+position_held: "[[_Standards/WikiData/WD~Sociétaire_of_the_Comédie-Française,3487553|WD~Sociétaire_of_the_Comédie-Française,3487553]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Catholicism,1841|WD~Catholicism,1841]]"
+sex_or_gender: "[[_Standards/WikiData/WD~female,6581072|WD~female,6581072]]"
+sibling: "[[_Standards/WikiData/WD~Jeanne_Bernhardt,60816241|WD~Jeanne_Bernhardt,60816241]]"
+signature: http://commons.wikimedia.org/wiki/Special:FilePath/Sarah%20Bernhardt%20signature%20droite.svg
+significant_event: "[[_Standards/WikiData/WD~funeral,201676|WD~funeral,201676]]"
+significant_person: "[[_Standards/WikiData/WD~Betty_Callish,66107776|WD~Betty_Callish,66107776]]"
+spouse: "[[_Standards/WikiData/WD~Jacques_Damala,6120528|WD~Jacques_Damala,6120528]]"
+student:
+  - "[[_Standards/WikiData/WD~Princess_Der_Ling,3023540|WD~Princess_Der_Ling,3023540]]"
+  - "[[_Standards/WikiData/WD~Georges_Le_Roy,3103055|WD~Georges_Le_Roy,3103055]]"
+  - "[[_Standards/WikiData/WD~Lucie_Manvel,3265287|WD~Lucie_Manvel,3265287]]"
+  - "[[_Standards/WikiData/WD~Nellie_Yu_Roung_Ling,12269798|WD~Nellie_Yu_Roung_Ling,12269798]]"
+student_of: "[[_Standards/WikiData/WD~Jean-Baptiste_François_Provost,3164094|WD~Jean-Baptiste_François_Provost,3164094]]"
+unmarried_partner: "[[_Standards/WikiData/WD~Samuel_Pozzi,3471213|WD~Samuel_Pozzi,3471213]]"
+work_location: "[[_Standards/WikiData/WD~Paris,90|WD~Paris,90]]"
+work_period_start_: 1862
+writing_language: "[[_Standards/WikiData/WD~French,150|WD~French,150]]"
+dv_has_:
+  name_:
+    af: Sarah Bernhardt
+    am: ሳራ በርናርት
+    an: Sarah Bernhardt
+    ar: سارة برنار
+    arz: ساره بيرنار
+    as: ছাৰা বাৰ্নহাৰ্ট
+    ast: Sarah Bernhardt
+    az: Sara Bernar
+    azb: سارا برنارد
+    ba: Сара Бернар
+    bar: Sarah Bernhardt
+    bcl: Sarah Bernhardt
+    be: Сара Бернар
+    be_tarask: Сара Бэрнар
+    bew: Sarah Bernhardt
+    bg: Сара Бернар
+    bi: Sarah Bernhardt
+    bjn: Sarah Bernhardt
+    bn: সারা বেরনার্ত
+    br: Sarah Bernhardt
+    bs: Sarah Bernhardt
+    btm: Sarah Bernhardt
+    bxr: Бернар, Сара
+    ca: Sarah Bernhardt
+    ce: Бернар, Сара
+    ckb: سارا بێرنارت
+    crh: Sara Bernar
+    cs: Sarah Bernhardt
+    cv: Сара Бернар
+    cy: Sarah Bernhardt
+    da: Sarah Bernhardt
+    de: Sarah Bernhardt
+    de_ch: Sarah Bernhardt
+    diq: Sarah Bernhardt
+    ee: Sarah Bernhardt
+    el: Σάρα Μπερνάρ
+    en: Sarah Bernhardt
+    en_ca: Sarah Bernhardt
+    en_gb: Sarah Bernhardt
+    eo: Sarah Bernhardt
+    es: Sarah Bernhardt
+    et: Sarah Bernhardt
+    eu: Sarah Bernhardt
+    ext: Sarah Bernhardt
+    fa: سارا برنارد
+    fi: Sarah Bernhardt
+    fo: Sarah Bernhardt
+    fr: Sarah Bernhardt
+    frr: Sarah Bernhardt
+    fy: Sarah Bernhardt
+    ga: Sarah Bernhardt
+    gl: Sarah Bernhardt
+    gn: Sarah Bernhardt
+    got: 𐍃𐌰𐍂𐌰𐌷 𐌱𐌰𐌹𐍂𐌽𐌷𐌰𐍂𐌳𐍄
+    gsw: Sarah Bernhardt
+    guw: Sarah Bernhardt
+    gv: Sarah Bernhardt
+    haw: Sarah Bernhardt
+    he: שרה ברנאר
+    hi: सारा बर्नहार्ट
+    hif: Sarah Bernhardt
+    hr: Sarah Bernhardt
+    ht: Sarah Bernhardt
+    hu: Sarah Bernhardt
+    hy: Սառա Բեռնար
+    ia: Sarah Bernhardt
+    id: Sarah Bernhardt
+    ig: Sarah Bernhardt
+    ilo: Sarah Bernhardt
+    inh: Сара Бернар
+    io: Sarah Bernhardt
+    is: Sarah Bernhardt
+    it: Sarah Bernhardt
+    ja: サラ・ベルナール
+    jv: Sarah Bernhardt
+    ka: სარა ბერნარი
+    kaa: Sarah Bernhardt
+    kab: Sarah Bernhardt
+    kbd: Сара Бернар
+    kbp: Sarah Bernhardt
+    kk: Сара Бернар
+    km: សារ៉ា បឺនហាត្ត
+    kn: ಸಾರಾ ಬರ್ನ್ಹಾರ್ಡ್
+    ko: 사라 베르나르
+    krc: Сара Бернар
+    ksh: Sarah Bernhardt
+    kw: Sarah Bernhardt
+    la: Sara Bernhardt
+    lb: Sarah Bernhardt
+    lez: Сара Бернар
+    li: Sarah Bernhardt
+    lmo: Sarah Bernhardt
+    ln: Sarah Bernhardt
+    lt: Sarah Bernhardt
+    lv: Sāra Bernāra
+    lzh: 莎拉伯恩哈特
+    mg: Sarah Bernhardt
+    mhr: Сара Бернар
+    min: Sarah Bernhardt
+    mk: Сара Бернар
+    ml: സാറാ ബെർണാർഡ്
+    mn: Сара Бернар
+    mr: सारा बर्नहार्ट
+    ms: Sarah Bernhardt
+    mul: Sarah Bernhardt
+    my: ဆာရာ ဘန်းဟတ်ဒ်
+    myv: Сара Бернар
+    mzn: سارا برنارد
+    nan: Sarah Bernhardt
+    nap: Sarah Bernhardt
+    nb: Sarah Bernhardt
+    nds: Sarah Bernhardt
+    ne: सेरा बर्नहार्ट
+    new: सारा बर्नहार्त
+    nl: Sarah Bernhardt
+    nn: Sarah Bernhardt
+    oc: Sarah Bernhardt
+    om: Saaraa Bernaar
+    pa: ਸਾਰਾ ਬਰਨਹਾਰਟ
+    pam: Sarah Bernhardt
+    pap: Sarah Bernhardt
+    pcd: Sarah Bernhardt
+    pdc: Sarah Bernhardt
+    pfl: Sarah Bernhardt
+    pl: Sarah Bernhardt
+    pms: Sarah Bernhardt
+    pnb: سارا برنہارٹ
+    pt: Sarah Bernhardt
+    pt_br: Sarah Bernhardt
+    qu: Sarah Bernhardt
+    ro: Sarah Bernhardt
+    roa-tara: Sarah Bernhardt
+    ru: Сара Бернар
+    rue: Сара Бернар
+    sah: Сара Бернар
+    sat: ᱥᱟᱨᱟᱦ ᱵᱮᱨᱱᱦᱟᱨᱰᱚᱴ
+    sgs: Sarah Bernhardt
+    sh: Sarah Bernhardt
+    sk: Sarah Bernhardtová
+    sl: Sarah Bernhardt
+    sq: Sarah Bernhardt
+    sr: Сара Бернар
+    sr_ec: Сара Бернар
+    srn: Sarah Bernhardt
+    sv: Sarah Bernhardt
+    sw: Sarah Bernhardt
+    szl: Sarah Bernhardt
+    ta: சாரா பேர்ண்ஹார்ட்
+    te: సారా బర్న్హార్డ్ట్
+    tg: Сара Бернард
+    th: ซารา แบร์นาร์ต
+    tk: Sara Bernard
+    tl: Sarah Bernhardt
+    tly: Sara Bernar
+    tr: Sarah Bernhardt
+    tt: Sara Bernar
+    tyv: Сара Бернар
+    udm: Бернар, Сара
+    uk: Сара Бернар
+    ur: سارہ برنہارٹ
+    uz: Sarah Bernhardt
+    vec: Sarah Bernhardt
+    vep: Bernar Sara
+    vi: Sarah Bernhardt
+    vo: Sarah Bernhardt
+    war: Sarah Bernhardt
+    wuu: 莎拉·伯恩哈特
+    xh: U'''Sarah Bernhardt'''
+    xmf: სარა ბერნარი
+    yi: שרה בערנאר
+    yue: 莎拉伯恩哈特
+    zh: 莎拉·伯恩哈特
+    zh_cn: 莎拉·伯恩哈特
+    zh_hans: 莎拉·伯恩哈特
+    zh_hant: 莎拉·伯恩哈特
+    zh_hk: 莎拉伯恩哈特
+    zh_mo: 莎拉·伯恩哈特
+    zh-my: 莎拉·伯恩哈特
+    zh_sg: 莎拉·伯恩哈特
+    zh_tw: 莎拉·伯恩哈特
+---
+
+# [[Bernhardt,Sarah]] 
+
+
+#has_/time_/started :: 1844-10-22
+#has_/time_/stopped  ::  1923-03-26 
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/name_/family ::  Bernhardt
+#has_/name_/given ::  Sarah
+
+#is_/same_as :: [[../../../../../../../WikiData/WD~Sarah_Bernhardt,4605|WD~Sarah_Bernhardt,4605]]   
+
+## #has_/text_of_/abstract 
+
+> **Sarah Bernhardt** (born Henriette-Rosine Bernard; 22 October 1844 – 26 March 1923) 
+> was a French stage actress who starred in some of the most popular French plays 
+> of the late 19th and early 20th centuries, including La Dame aux Camélias by Alexandre Dumas fils, 
+> Ruy Blas by Victor Hugo, Fédora and La Tosca by Victorien Sardou, and L'Aiglon by Edmond Rostand. 
+> 
+> She played female and male roles, including Shakespeare's Hamlet. 
+> Rostand called her "the queen of the pose and the princess of the gesture", 
+> and Hugo praised her "golden voice". 
+> She made several theatrical tours worldwide 
+> and was one of the early prominent actresses to make sound recordings and act in motion pictures.
+>
+> She is also linked with the success of artist Alphonse Mucha, whose work she helped to publicize. 
+> Mucha became one of the more sought-after artists of this period for his Art Nouveau style.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Sarah%20Bernhardt) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[Bernhardt,Sarah|Bernhardt,Sarah]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/French_Actor/Bernhardt,Sarah.public|Bernhardt,Sarah.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/French_Actor/Bernhardt,Sarah.internal|Bernhardt,Sarah.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/French_Actor/Bernhardt,Sarah.protect|Bernhardt,Sarah.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/French_Actor/Bernhardt,Sarah.private|Bernhardt,Sarah.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/French_Actor/Bernhardt,Sarah.personal|Bernhardt,Sarah.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/French_Actor/Bernhardt,Sarah.secret|Bernhardt,Sarah.secret]] 
+

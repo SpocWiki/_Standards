@@ -555,7 +555,7 @@ dv_has_:
 
 #has_/time_/started :: 
 
-- acquired by [[../../../../../../../../Knowledge/AGI(Artificial_general_Intelligence)/Companies~AGI/Musk,Elon|Musk,Elon]] in 2022 and 
+- acquired by [[../../../../../../../../_internal/Technology/IT/AI(Artificial_Intelligence)/AGI(Artificial_general_Intelligence)/Companies~AGI/Musk,Elon|Musk,Elon]] in 2022 and 
 - renamed to X in 2023 due to the Turmoil that [[../../../../../../../../_private/Society/Communication/Media/Podcast/Musk,Elon.de|Musk,Elon.de]] created after acquiring it. 
 
 #has_/url :: https://twitter.com 

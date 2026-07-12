@@ -38,7 +38,7 @@ dv_is_:
     - "[[/_secret/schema-org/Property/has_name/has_id_entertain_title.secret|has_id_entertain_title.secret]]"
 dv_has_:
   domain:
-    - "[[../../../Society/Communication/Media/Movie|Movie]]"
+    - "[[../../../Society/Communication/Media/Creative_Work/Movie|Movie]]"
     - "[[../../../Society/Communication/Media/Creative_Work/Episode/Tv_Episode|TVEpisode]]"
   name: has_id_entertain_title
   range: Text, URL
@@ -46,7 +46,7 @@ dv_has_:
     property: "[[../../Relation/has/has_identifier|has_identifier]]"
 dv_is_part_of: "pending:"
 dv_has_domain:
-  - "[[../../../Society/Communication/Media/Movie|Movie]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/Movie|Movie]]"
   - "[[../../../Society/Communication/Media/Creative_Work/Episode/Tv_Episode|TVEpisode]]"
 dv_has_name: has_id_entertain_title
 dv_has_range: Text, URL
@@ -81,7 +81,7 @@ Since schema.org types like [[../../../Society/Communication/Media/Creative_Work
 
 Predicated describes that: 
 
-#has_/domain  :: [[../../../Society/Communication/Media/Movie|Movie]],  [[../../../Society/Communication/Media/Creative_Work/Episode/Tv_Episode|TVEpisode]]  
+#has_/domain  :: [[../../../Society/Communication/Media/Creative_Work/Movie|Movie]],  [[../../../Society/Communication/Media/Creative_Work/Episode/Tv_Episode|TVEpisode]]  
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

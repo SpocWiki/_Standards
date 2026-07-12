@@ -26,7 +26,8 @@ dv_has_:
   domain: CreativeWorkSeason, Episode, Movie, MovieSeries, RadioSeries, TVSeries, VideoGame, VideoGameSeries
   name: is_trailer
   range: VideoObject
-  inverse: [[is_trailer_of]]
+  inverse:
+    - - is_trailer_of
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_trailer|has_trailer]]"
@@ -39,10 +40,10 @@ dv_is_:
 dv_has_domain:
   - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|Creative_Work_Season]]"
   - "[[../../../Society/Communication/Media/Creative_Work/Episode|Episode]]"
-  - "[[../../../Society/Communication/Media/Movie|Movie]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/Movie|Movie]]"
   - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Movie_Series|Movie_Series]]"
   - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series|Radio_Series]]"
-  - "TVSeries"
+  - TVSeries
   - "[[../../../Society/Communication/Media/Creative_Work/Game/Video_Game|Video_Game]]"
   - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series|Video_Game_Series]]"
 dv_has_name: is_trailer
@@ -57,7 +58,6 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_trailer.secret|has_trailer.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_trailer_of]]"
-
 ---
 
 # [[has_trailer]] 

@@ -217,7 +217,7 @@ dv_has_:
 > although they were not the first to propose the approach. 
 > 
 > Hinton is viewed as a leading figure in the deep learning community. 
-> The image-recognition milestone of the [[AlexNet|AlexNet]] 
+> The image-recognition milestone of the [[../../../../../_internal/Technology/IT/AI(Artificial_Intelligence)/AGI(Artificial_general_Intelligence)/Concepts~AGI/AlexNet|AlexNet]] 
 > designed in collaboration with his student[[Krizhevsky,Alex]]]] an[[Sutskever,Ilya]]]] for [[../../../../Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/ImageNet|ImageNet]]] challenge 2012 was a breakthrough in the field of computer vision.
 >
 > Hinton received the 2018 Turing Award, often referred to as the 

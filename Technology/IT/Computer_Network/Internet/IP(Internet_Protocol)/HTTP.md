@@ -220,6 +220,27 @@ dv_has_:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/HTTP) 
 
+## HTTPS 
+
+With plain HTTP, **everything is visible**. 
+With **HTTPS** (HTTP over TLS), almost the entire HTTP request is encrypted while it travels between the client and the server, 
+except for the external routing-Parts: 
+
+| Information                        | Encrypted |
+| ---------------------------------- | --------- |
+| Domain name (usually)              | No        |
+| Destination **IP address**         | No        |
+| Destination port (usually 443)     | 443       |
+| Transport protocol (TCP)           | No        |
+| TLS version and cipher negotiation | No        |
+| HTTP content                       | **Yes**   |
+| HTTP method (`GET`, `POST`)        | Yes       |
+| URL path (`/users/42`)             | Yes       |
+| Query string (`?page=2`)           | Yes       |
+| HTTP headers                       | Yes       |
+| Cookies                            | Yes       |
+| Request body                       | Yes       |
+| Authentication tokens              | Yes       |
 
 ## Confidential Links & Embeds: 
 

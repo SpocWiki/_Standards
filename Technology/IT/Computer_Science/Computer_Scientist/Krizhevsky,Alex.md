@@ -50,7 +50,7 @@ dv_has_:
 > **Alex Krizhevsky** is a Ukrainian-born Canadian computer scientist 
 > most noted for his work on artificial neural networks and deep learning. 
 > In 2012, Krizhevsky, [[Sutskever,Ilya|Ilya Sutskever]] and their PhD advisor [[Hinton,Geoffrey|Geoffrey Hinton]], at the University of Toronto, 
-> developed a powerful visual-recognition network [[AlexNet]] using only two GeForce NVIDIA GPU cards. 
+> developed a powerful visual-recognition network [[../../../../../_internal/Technology/IT/AI(Artificial_Intelligence)/AGI(Artificial_general_Intelligence)/Concepts~AGI/AlexNet]] using only two GeForce NVIDIA GPU cards. 
 > 
 > This revolutionized research in neural networks. Previously neural networks were trained on CPUs. 
 > The transition to GPUs opened the way to the development of advanced AI models. 

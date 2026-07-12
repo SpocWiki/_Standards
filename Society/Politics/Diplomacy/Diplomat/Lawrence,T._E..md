@@ -253,7 +253,7 @@ dv_has_:
 > 
 > The breadth and variety of his activities and associations, 
 > and Lawrence's ability to describe them vividly in writing, 
-> earned him international fame as [[../../../Communication/Media/Movie/Movie-Genre/Biography-Movie/Lawrence_of_Arabia(Film)|Lawrence_of_Arabia(Film)]], 
+> earned him international fame as [[../../../Communication/Media/Creative_Work/Movie/Movie-Genre/Biography-Movie/Lawrence_of_Arabia(Film)|Lawrence_of_Arabia(Film)]], 
 > a title used for the 1962 film based on his wartime activities.
 >
 > Lawrence was born in Tremadog, Carnarvonshire, Wales, 

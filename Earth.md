@@ -263,18 +263,18 @@ aliases:
 has_id_wikidata: Q2
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Earth%20dry%20elevation.stl
 albedo:
-  - 0.294
-  - 0.434
+- 0.294
+- 0.434
 apoapsis:
-  - 1.00000261
-  - 1.01671388
-  - 151930000
+- 1.00000261
+- 1.01671388
+- 151930000
 Archive_of_Our_Own_tag: Earth
 area: 510064472
 argument_of_periapsis: 114.20783
 astronomic_symbol_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Earth%20symbol%20%28fixed%20width%29.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Globus%20cruciger%20%28fixed%20width%29.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Earth%20symbol%20%28fixed%20width%29.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Globus%20cruciger%20%28fixed%20width%29.svg
 bathymetry_image: http://commons.wikimedia.org/wiki/Special:FilePath/AYool%20topography%2015min.png
 booru_tag: earth_(planet)
 catalog_code: 806.4616.0110
@@ -373,52 +373,52 @@ coordinates_of_northernmost_point: Point(0.0 90.0)
 coordinates_of_southernmost_point: Point(0.0 -90.0)
 Danbooru_tag: earth_(planet)
 demonym:
-  - أرضي
-  - terrícola
-  - পৃথিবীবাসি
-  - terrícola
-  - pozemšťan
-  - pozemšťanka
-  - Earthperson
-  - Terran
-  - terrícola
-  - zemljanin
-  - Aardbewoner
-  - jordboer
-  - نړیوال
-  - terráqueo
-  - terrestre
-  - terráqueo
-  - terrestre
-  - Bhumi
-  - заминиҳо
-  - ชาวโลก
-  - Dünyalı
-  - 地球人
-  - 地球人
-  - Erdling
-  - земляне
-  - землянин
-  - землянка
-  - زمین
-  - 地球人
-  - Earthling
-  - Terrien
-  - Ziemianie
-  - Ziemianin
-  - Ziemianka
-  - terrestre
-  - 지구인
-  - 地球人
-  - Earthman
-  - Zemljan
-  - Zemljanka
-  - Terano
-  - Earthwoman
-  - terrícola
-  - földlakó
-  - Terrestre
-  - Gaia
+- أرضي
+- terrícola
+- পৃথিবীবাসি
+- terrícola
+- pozemšťan
+- pozemšťanka
+- Earthperson
+- Terran
+- terrícola
+- zemljanin
+- Aardbewoner
+- jordboer
+- نړیوال
+- terráqueo
+- terrestre
+- terráqueo
+- terrestre
+- Bhumi
+- заминиҳо
+- ชาวโลก
+- Dünyalı
+- 地球人
+- 地球人
+- Erdling
+- земляне
+- землянин
+- землянка
+- زمین
+- 地球人
+- Earthling
+- Terrien
+- Ziemianie
+- Ziemianin
+- Ziemianka
+- terrestre
+- 지구인
+- 地球人
+- Earthman
+- Zemljan
+- Zemljanka
+- Terano
+- Earthwoman
+- terrícola
+- földlakó
+- Terrestre
+- Gaia
 density: 5514
 described_at_URL: https://wikispooks.com/wiki/World
 described_by_source:
@@ -436,9 +436,9 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Der_Volks_Brockhaus,107433072|WD~Der_Volks_Brockhaus,107433072]]"
   - "[[_Standards/WikiData/WD~Dictionnaire_des_biens_communs,120799836|WD~Dictionnaire_des_biens_communs,120799836]]"
 Dewey_Decimal_Classification:
-  - 525
-  - 550
-  - 910.02
+- 525
+- 550
+- 910.02
 diameter: 12742
 different_from:
   - "[[_Standards/WikiData/WD~Tellus,340271|WD~Tellus,340271]]"
@@ -459,8 +459,8 @@ flag: "[[_Standards/WikiData/WD~flag_of_the_Earth,2293672|WD~flag_of_the_Earth,2
 flattening: 0.0033528
 geography_of_topic: "[[_Standards/WikiData/WD~world_geography,11362158|WD~world_geography,11362158]]"
 hashtag:
-  - Earth
-  - earth_(planet)
+- Earth
+- earth_(planet)
 has_characteristic:
   - "[[_Standards/WikiData/WD~planetary_habitability,846030|WD~planetary_habitability,846030]]"
   - "[[_Standards/WikiData/WD~Earth's_magnetic_field,6500960|WD~Earth's_magnetic_field,6500960]]"
@@ -528,30 +528,30 @@ opposite_of:
   - "[[_Standards/WikiData/WD~outer_space,4169|WD~outer_space,4169]]"
 orbital_eccentricity: 0.016710219
 orbital_inclination:
-  - 7.155
-  - 1.57869
+- 7.155
+- 1.57869
 orbital_period: 365.256363004
 parent_astronomical_body: "[[_Standards/WikiData/WD~Sun,525|WD~Sun,525]]"
 part_of: "[[_Standards/WikiData/WD~Earth_Moon_system,18589965|WD~Earth_Moon_system,18589965]]"
 periapsis: 147095000
 perimeter:
-  - 24901
-  - 40075
+- 24901
+- 40075
 permanent_duplicated_item:
   - "[[_Standards/WikiData/WD~Earth,22828183|WD~Earth,22828183]]"
   - "[[_Standards/WikiData/WD~Q110087470,110087470|WD~Q110087470,110087470]]"
 population: 8028504258
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/En-us-earth.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Toki%20Pona%20-%20jan%20Lakuse%20-%20ma.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ar-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Eo-tero.oga
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Fr-terre-ca-Montr%C3%A9al.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q58635%20%28pan%29-Gaurav%20Jhammat-%E0%A8%A7%E0%A8%B0%E0%A8%A4%E0%A9%80.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/En-us-earth.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Toki%20Pona%20-%20jan%20Lakuse%20-%20ma.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ar-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Eo-tero.oga
+- http://commons.wikimedia.org/wiki/Special:FilePath/Fr-terre-ca-Montr%C3%A9al.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q58635%20%28pan%29-Gaurav%20Jhammat-%E0%A8%A7%E0%A8%B0%E0%A8%A4%E0%A9%80.wav
 radius:
-  - 6371
-  - 6356.8
-  - 6378.137
+- 6371
+- 6356.8
+- 6378.137
 rotation_period:
   - 86164.098903691
   - 24
@@ -563,14 +563,14 @@ semi_major_axis_of_an_orbit:
 shape: "[[_Standards/WikiData/WD~geoid,185969|WD~geoid,185969]]"
 speed: 107200
 spoken_text_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/En-Earth-article.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Es-tierra%201of4-article.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Jorden.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Earth%20%28spoken%20by%20AI%20voice%29.mp3
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Erde%20%28gesprochene%20Wikipedia%20mit%20KI-Stimme%29.mp3
+- http://commons.wikimedia.org/wiki/Special:FilePath/En-Earth-article.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Es-tierra%201of4-article.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Jorden.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Earth%20%28spoken%20by%20AI%20voice%29.mp3
+- http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Erde%20%28gesprochene%20Wikipedia%20mit%20KI-Stimme%29.mp3
 Stack_Exchange_tag:
-  - https://astronomy.stackexchange.com/tags/earth
-  - https://physics.stackexchange.com/tags/earth
+- https://astronomy.stackexchange.com/tags/earth
+- https://physics.stackexchange.com/tags/earth
 studied_by:
   - "[[_Standards/WikiData/WD~planetary_science,104499|WD~planetary_science,104499]]"
   - "[[_Standards/WikiData/WD~geology,1069|WD~geology,1069]]"
@@ -585,15 +585,15 @@ topic_s_main_template: "[[_Standards/WikiData/WD~Template_Earth,8084930|WD~Templ
 type_of_orbit: "[[_Standards/WikiData/WD~heliocentric_orbit,737809|WD~heliocentric_orbit,737809]]"
 UMLS_CUI: C0242744
 Unicode_character:
-  - ♁
+- ♁
   - 🜨
   - 🌎
   - 🌍
   - 🌏
   - 🗺
 U_S_National_Archives_Identifier:
-  - 10046628
-  - 10637787
+- 10046628
+- 10637787
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Lurraren%20ilargiak.webm
 volume_as_quantity: 1083210000000
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Earth,28231576|WD~outline_of_Earth,28231576]]"
@@ -612,354 +612,54 @@ maintained_by_WikiProject:
 topic_has_template: "[[_Standards/WikiData/WD~Template_Earth,8084930|WD~Template_Earth,8084930]]"
 most_populous_urban_area: "[[_Standards/WikiData/WD~Guangdong_Hong_Kong_Macao_Greater_Bay_Area,29583237|WD~Guangdong_Hong_Kong_Macao_Greater_Bay_Area,29583237]]"
 IMDb_keyword:
-  - planet-earth
-  - world
+- planet-earth
+- world
 hashtag_:
-  - Earth
-  - earth_(planet)
+- Earth
+- earth_(planet)
 dv_has_:
   name_:
-    ab: Адгьыл
-    ace: Bumoë
-    acm: كوكب الارض
-    ady: ЧIыгу
-    af: Aarde
-    aig: Ert
-    alt: Јер
-    am: መሬት
-    an: Tierra
-    ang: Eorðe
-    ann: Linyọn̄
-    anp: धरती
-    apc: الأرض
-    ar: الأرض
-    arc: ܐܪܥܐ
-    arn: Mapu
-    arq: أرض
-    ary: لأرض
-    arz: الارض
-    as: পৃথিৱী
-    ast: Tierra
-    atj: Aski
-    av: Ракь
-    avk: Tawava
-    awa: पृथ्वी
-    ay: Aka pacha
-    az: Yer
-    azb: یئر
-    ba: Ер
-    ban: Gumi
-    bar: Eadn
-    bcl: Kinaban
-    be: Зямля
-    be_tarask: Зямля
-    bew: Bumi
-    bg: Земя
-    bho: पृथ्वी
-    bi: Et
-    bjn: Bumi
-    blk: ကမ္ဘာႏဟံႏ
-    bm: Dugukolo
-    bn: পৃথিবী
-    bo: སའི་གོ་ལ།
-    br: Douar
-    brh: dagaar
-    bs: Zemlja
-    btm: Bumi
-    bug: ᨒᨗᨊᨚ
-    bxr: Дэлхэй
-    ca: Terra
-    cbk_zam: Tierra
-    cdo: Dê-giù
-    ce: Дуьне
-    ceb: Kalibotan
-    ch: Tåno'
-    chr: ᎡᎶᎯ
-    ckb: زەوی
-    co: Terra
-    cr: ᒫᒪᐃᐧ ᐅᑳᐄᐧᒫᐤ
-    crh: Dünya
-    crh_latn: Dünya
-    crh-ro: dúniya
-    cs: Země
-    csb: Zemia
-    cu: Ꙁємлꙗ
-    cv: Çĕр
-    cy: y Ddaear
-    da: Jorden
-    dag: Dunya
-    de: Erde
-    de-at: Erde
-    de_ch: Erde
-    dga: Andonɛɛ
-    din: Piny nhom
-    diq: Dınya
-    dsb: Zemja
-    dtp: Pomogunan
-    dty: पृथ्वी
-    dv: ބިން
-    dz: འཛམ་གླིང
-    ee: Xexe
-    el: Γη
-    eml: Tèra
-    en: Earth
-    en_ca: Earth
-    en_gb: Earth
-    en-us: Earth
-    eo: Tero
-    es: Tierra
-    et: Maa
-    eu: Lurra
-    ext: Tierra
-    fa: زمین
-    fat: Asaase
-    ff: Leydi
-    fi: Maa
-    fj: Vuravura
-    fo: Jørðin
-    fon: Wɛkɛ́
-    fr: Terre
-    frp: Tèrra
-    frr: Jard
-    fur: Tiere
-    fy: Ierde
-    ga: Domhan
-    gan: 地球
-    gcr: Tè
-    gd: Saoghal
-    gl: Terra
-    glk: زيمي
-    gn: Yvy
-    gom: धर्तरी
-    got: Earth
-    gpe: Earth
-    grc: Γῆ
-    gsw: Erde
-    gu: પૃથ્વી
-    guc: Mma
-    gur: Duniya
-    guw: Aigba
-    gv: y Dowan
-    ha: Duniya
-    hak: Thi-khiù
-    haw: Honua
-    he: כדור הארץ
-    hi: पृथ्वी
-    hif: Dunia
-    hr: Zemlja
-    hsb: Zemja
-    ht: Latè
-    hu: Föld
-    hy: Երկիր
-    hyw: Երկիր
-    ia: Terra
-    iba: Bumi
-    ibb: isoN
-    id: Bumi
-    ie: Terra
-    ig: Àlà
-    ii: ꅉꆺ
-    ik: Nuna
-    ilo: Daga
-    inh: Лаьтта
-    io: Tero
-    is: Jörðin
-    it: Terra
-    iu: ᓄᓇ
-    ja: 地球
-    jam: Oert
-    jbo: la terdi
-    jv: Bumi
-    ka: დედამიწა
-    kaa: Jer
-    kab: Tagnit
-    kbd: ЩӀыгу
-    kbp: Tɛtʋ
-    kcg: Swanta
-    kg: Ntoto
-    kge: Bumi
-    ki: Thi
-    kk: Жер
-    kk_cyrl: Жер
-    kl: Nunarsuaq
-    km: ផែនដី
-    kn: ಭೂಮಿ
-    knc: Dunya
-    ko: 지구
-    koi: Мушар
-    krc: Джер
-    krj: Kalibutan
-    ks: زٔمیٖن
-    ksh: Ääd
-    ku: Erd
-    kv: Му
-    kw: Dor
-    ky: Жер
-    la: Tellus
-    lad: Tierra
-    lb: Äerd
-    lbe: Дунийал
-    lez: Чил
-    lfn: Tera
-    lg: Ensi
-    li: Eerd
-    lij: Tæra
-    lld: Tera
-    lmo: Tera
-    ln: Mabelé
-    lo: ໂລກ
-    lrc: جأهوٙن
-    lt: Žemė
-    ltg: Zeme
-    lv: Zeme
-    lzh: 坤輿
-    lzz: Kiana
-    mad: Bhumè
-    mag: पृथिवी
-    mai: पृथ्वी
-    map_bms: Bumi
-    mdf: Мода
-    mg: Tany
-    mhr: Мланде
-    mi: Whenua
-    min: Bumi
-    mk: Земја
-    ml: ഭൂമി
-    mn: Дэлхий
-    mni: ꯃꯥꯂꯦꯝ
-    mnw: ဂၠးတိ
-    mr: पृथ्वी
-    mrj: Мӱлӓндӹ
-    ms: Bumi
-    ms_arab: بومي
-    mt: Id-Dinja
-    mwl: Tierra
-    my: ကမ္ဘာဂြိုဟ်
-    myv: Мода
-    mzn: زمین
-    na: Eb
-    nah: Tlālticpactli
-    nan: Tē-kiû
-    nap: Terra
-    nb: jorda
-    nds: Eer
-    nds_nl: Eerde
-    ne: पृथ्वी
-    new: पृथ्वी
-    nia: Dadanö
-    nl: Aarde
-    nn: jorda
-    nov: Tere
-    nqo: ߘߎ߱
-    nr: Iphasi
-    nrm: Tèrre
-    nso: Lefase
-    nv: Nahasdzáán
-    ny: Dziko Lapansi
-    oc: Tèrra
-    olo: Mua
-    om: Lafa
-    or: ପୃଥିବୀ
-    os: Зæхх
-    ota: ضونيا
-    pa: ਧਰਤੀ
-    pag: Earth
-    pam: yátû
-    pap: Tera
-    pcd: Tière
-    pcm: Earth
-    pdc: Erd
-    pfl: Erd
-    pih: Erth
-    pl: Ziemia
-    pms: Tèra
-    pnb: زمین
-    pnt: Γη
-    ps: ځمکه
-    pt: Terra
-    pt_br: Terra
-    qu: Tiqsimuyu
-    rm: Terra
-    rmy: Phuv
-    rn: Isi
-    ro: Pământ
-    roa-tara: Terre
-    ru: Земля
-    rue: Земля
-    rup: Locu
-    rw: Isi
-    ryu: 地球
-    sa: पृथ्वी
-    sah: Сир
-    sat: ᱫᱷᱟᱹᱨᱛᱤ
-    sc: Terra
-    scn: Terra
-    sco: Yird
-    sd: ڌرتي
-    se: Eana
-    sg: Sêse
-    sgs: Žemė
     sh: Zemlja
     shi: Akal
-    shn: လုမ်ႈၾႃႉ
     si: මහ පොළොව
     sjd: Е̄ммьне
-    sk: Zem
     skr: زمین
-    sl: Zemlja
     sm: Lalolagi
     sma: eatneme
     smn: Eennâm
     sn: Rinopasi
     so: Dhulka
     sq: Tokë
-    sr: Земља
-    sr_ec: Земља
-    sr_el: Zemlja
+    sr-el: Zemlja
     srn: Grontapu
-    ss: Úmhlâba
     st: Lefatshe
     stq: Äide
     su: Marcapada
-    sv: jorden
     sw: Dunia
-    syl: ꠖꠥꠘꠤꠀꠁ
     szl: Ziymia
     ta: புவி
     tay: hiyal
     tcy: ಬೂಮಿ
     tdd: ᥐᥛᥱ ᥚᥣᥱ
-    te: భూమి
-    tet: Rai
-    tg: замин
-    tg_cyrl: Замин
-    th: โลก
+    tg-cyrl: Замин
     ti: መሬት
     tk: Ýer
     tl: Daigdig
     tly: Zəmin
     tn: Lefatshe
-    to: Māmani
-    tok: ma
     tpi: Giraun
-    tr: Dünya
     ts: Misava
     tt: Җир
-    tt_cyrl: Җир
-    tt_latn: Cir
+    tt-cyrl: Җир
+    tt-latn: Cir
     tum: Charu cha pasi
-    tw: Asaase
     tyv: Чер
     udm: Музъем
     ug: يەر شارى
-    uk: Земля
-    ur: زمین
     uz: Yer
     ve: Ḽifhasi
     vec: Tera
-    vep: Ma
     vi: Trái Đất
-    vls: Eirde
     vo: tal
     vro: Maa
     wa: Daegne
@@ -975,16 +675,339 @@ dv_has_:
     za: Giuznamh
     zea: Aerde
     zgh: ⴰⴽⴰⵍ
+    zh-cn: 地球
+    zh-hans: 地球
+    zh-hant: 地球
+    zh-mo: 地球
+    zh-my: 地球
+    syl: ꠖꠥꠘꠤꠀꠁ
+    ii: ꅉꆺ
+    gur: Duniya
+    aig: Ert
+    shn: လုမ်ႈၾႃႉ
+    guc: Mma
+    guw: Aigba
+    gv: y Dowan
+    ha: Duniya
+    hak: Thi-khiù
+    haw: Honua
+    hif: Dunia
+    hsb: Zemja
+    ht: Latè
+    hyw: Երկիր
+    iba: Bumi
+    ibb: isoN
+    ig: Àlà
+    ik: Nuna
+    ilo: Daga
+    is: Jörðin
+    iu: ᓄᓇ
+    jam: Oert
+    jbo: la terdi
+    ka: დედამიწა
+    kab: Tagnit
+    kbd: ЩӀыгу
+    kbp: Tɛtʋ
+    kcg: Swanta
+    kg: Ntoto
+    kge: Bumi
+    kk-cyrl: Жер
+    kl: Nunarsuaq
+    km: ផែនដី
+    knc: Dunya
+    koi: Мушар
+    krj: Kalibutan
+    ksh: Ääd
+    ku: Erd
+    kv: Му
+    kw: Dor
+    lad: Tierra
+    lb: Äerd
+    lbe: Дунийал
+    lez: Чил
+    lg: Ensi
+    lij: Tæra
+    lld: Tera
+    lmo: Tera
+    ln: Mabelé
+    lo: ໂລກ
+    lrc: جأهوٙن
+    ltg: Zeme
+    lzz: Kiana
+    mad: Bhumè
+    mag: पृथिवी
+    map-bms: Bumi
+    mdf: Мода
+    mg: Tany
+    mhr: Мланде
+    mn: Дэлхий
+    mni: ꯃꯥꯂꯦꯝ
+    mnw: ဂၠးတိ
+    mt: Id-Dinja
+    mwl: Tierra
+    my: ကမ္ဘာဂြိုဟ်
+    nan: Tē-kiû
+    nds: Eer
+    ne: पृथ्वी
+    new: पृथ्वी
+    nia: Dadanö
+    nov: Tere
+    nqo: ߘߎ߱
+    nr: Iphasi
+    nrm: Tèrre
+    nso: Lefase
+    nv: Nahasdzáán
+    ny: Dziko Lapansi
+    olo: Mua
+    om: Lafa
+    os: Зæхх
+    ota: ضونيا
+    pag: Earth
+    pam: yátû
+    pcd: Tière
+    pcm: Earth
+    pdc: Erd
+    pfl: Erd
+    pih: Erth
+    pms: Tèra
+    pnt: Γη
+    ps: ځمکه
+    qu: Tiqsimuyu
+    rmy: Phuv
+    rn: Isi
+    roa-tara: Terre
+    rue: Земля
+    rup: Locu
+    rw: Isi
+    ryu: 地球
+    sat: ᱫᱷᱟᱹᱨᱛᱤ
+    sco: Yird
+    sd: ڌرتي
+    sg: Sêse
+    sgs: Žemė
+    nah: Tlālticpactli
+    ss: Úmhlâba
+    th: โลก
+    to: Māmani
+    sah: Сир
+    grc: Γῆ
+    zh-sg: 地球
+    mai: पृथ्वी
+    crh-ro: dúniya
+    mk: Земја
+    mrj: Мӱлӓндӹ
+    ki: Thi
+    bs: Zemlja
+    cv: Çĕр
+    el: Γη
+    krc: Джер
+    zh-hk: 地球
+    zh-tw: 地球
+    oc: Tèrra
+    pap: Tera
+    ky: Жер
+    arz: الارض
+    myv: Мода
+    ast: Tierra
+    io: Tero
+    kn: ಭೂಮಿ
+    te: భూమి
+    fur: Tiere
+    ab: Адгьыл
+    ace: Bumoë
+    acm: كوكب الارض
+    ady: ЧIыгу
+    alt: Јер
+    am: መሬት
+    an: Tierra
+    ang: Eorðe
+    ann: Linyọn̄
+    anp: धरती
+    apc: الأرض
+    arc: ܐܪܥܐ
+    arn: Mapu
+    arq: أرض
+    ary: لأرض
+    av: Ракь
+    avk: Tawava
+    awa: पृथ्वी
+    ay: Aka pacha
+    az: Yer
+    azb: یئر
+    ba: Ер
+    ban: Gumi
+    bar: Eadn
+    bew: Bumi
+    bi: Et
+    bjn: Bumi
+    blk: ကမ္ဘာႏဟံႏ
+    bm: Dugukolo
+    bo: སའི་གོ་ལ།
+    brh: dagaar
+    btm: Bumi
+    bug: ᨒᨗᨊᨚ
+    bxr: Дэлхэй
+    cbk-zam: Tierra
+    cdo: Dê-giù
+    ch: Tåno'
+    ckb: زەوی
+    cr: ᒫᒪᐃᐧ ᐅᑳᐄᐧᒫᐤ
+    crh: Dünya
+    crh-latn: Dünya
+    csb: Zemia
+    cu: Ꙁємлꙗ
+    dag: Dunya
+    din: Piny nhom
+    diq: Dınya
+    dsb: Zemja
+    dtp: Pomogunan
+    dty: पृथ्वी
+    dv: ބިން
+    dz: འཛམ་གླིང
+    ee: Xexe
+    eml: Tèra
+    eu: Lurra
+    ext: Tierra
+    fat: Asaase
+    fo: Jørðin
+    fon: Wɛkɛ́
+    frp: Tèrra
+    frr: Jard
+    fy: Ierde
+    ga: Domhan
+    gan: 地球
+    gcr: Tè
+    gd: Saoghal
+    glk: زيمي
+    gn: Yvy
+    gom: धर्तरी
+    got: Earth
+    gpe: Earth
+    gsw: Erde
+    gu: પૃથ્વી
+    nl: Aarde
+    en: Earth
+    de: Erde
+    pnb: زمین
+    ur: زمین
+    ml: ഭൂമി
+    da: Jorden
+    fa: زمین
+    ff: Leydi
+    tg: замин
+    hi: पृथ्वी
+    ks: زٔمیٖن
+    bn: পৃথিবী
+    dga: Andonɛɛ
     zh: 地球
+    br: Douar
+    pl: Ziemia
+    en-us: Earth
+    tok: ma
+    cy: y Ddaear
+    es: Tierra
+    sv: jorden
+    ru: Земля
+    sk: Zem
+    it: Terra
+    ms: Bumi
+    ms-arab: بومي
+    nb: jorda
+    ja: 地球
+    eo: Tero
+    cs: Země
+    be: Зямля
+    he: כדור הארץ
+    lfn: Tera
+    pa: ਧਰਤੀ
+    fr: Terre
+    nn: jorda
+    mzn: زمین
+    ca: Terra
+    fi: Maa
+    bg: Земя
+    hu: Föld
+    pt: Terra
+    ro: Pământ
+    sl: Zemlja
+    sr: Земља
+    lzh: 坤輿
+    ko: 지구
+    af: Aarde
+    be-tarask: Зямля
+    hr: Zemlja
+    lt: Žemė
+    lv: Zeme
+    uk: Земля
+    de-at: Erde
+    de-ch: Erde
+    en-ca: Earth
+    en-gb: Earth
+    gl: Terra
+    se: Eana
+    sa: पृथ्वी
+    tw: Asaase
+    atj: Aski
+    la: Tellus
+    pt-br: Terra
+    tet: Rai
+    li: Eerd
+    ce: Дуьне
+    na: Eb
+    vep: Ma
+    mi: Whenua
+    hy: Երկիր
+    id: Bumi
+    jv: Bumi
+    min: Bumi
+    kk: Жер
+    or: ପୃଥିବୀ
+    nds-nl: Eerde
+    co: Terra
+    ia: Terra
+    ie: Terra
+    nap: Terra
+    rm: Terra
+    sc: Terra
+    scn: Terra
+    inh: Лаьтта
+    ar: الأرض
+    as: পৃথিৱী
+    bho: पृथ्वी
+    mr: पृथ्वी
+    chr: ᎡᎶᎯ
+    kaa: Jer
+    sr-ec: Земља
+    zu: Umhlaba
+    tr: Dünya
+    vls: Eirde
+    et: Maa
+    bcl: Kinaban
+    ceb: Kalibotan
+    fj: Vuravura
+    be_tarask: Зямля
+    cbk_zam: Tierra
+    crh_latn: Dünya
+    de_ch: Erde
+    en_ca: Earth
+    en_gb: Earth
+    kk_cyrl: Жер
+    map_bms: Bumi
+    ms_arab: بومي
+    nds_nl: Eerde
+    pt_br: Terra
+    sr_ec: Земља
+    sr_el: Zemlja
+    tg_cyrl: Замин
+    tt_cyrl: Җир
+    tt_latn: Cir
     zh_cn: 地球
     zh_hans: 地球
     zh_hant: 地球
     zh_hk: 地球
     zh_mo: 地球
-    zh-my: 地球
     zh_sg: 地球
     zh_tw: 地球
-    zu: Umhlaba
 confidential: private
 license: (c)copyrighted
 linkTitle: Earth

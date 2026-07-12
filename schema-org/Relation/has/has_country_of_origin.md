@@ -33,7 +33,7 @@ type: Predi_Relation
 dv_has_:
   domain:
     - "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
-    - "[[../../../Society/Communication/Media/Movie|Movie]]"
+    - "[[../../../Society/Communication/Media/Creative_Work/Movie|Movie]]"
     - "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"
     - "[[../../../Society/Communication/Media/Creative_Work/Episode/Tv_Episode|TVEpisode]]"
     - "[[../../../Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/TV_Season|TVSeason]]"
@@ -56,7 +56,7 @@ dv_is_:
     - "[[../../Property/has_location/has_location_created|has_location_created]]"
 dv_has_domain:
   - "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
-  - "[[../../../Society/Communication/Media/Movie|Movie]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/Movie|Movie]]"
   - "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"
   - "[[../../../Society/Communication/Media/Creative_Work/Episode/Tv_Episode|TVEpisode]]"
   - "[[../../../Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/TV_Season|TVSeason]]"

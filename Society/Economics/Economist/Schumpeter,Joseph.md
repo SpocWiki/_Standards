@@ -195,18 +195,20 @@ dv_has_:
 ## #has_/text_of_/abstract 
 
 > Joseph Alois Schumpeter (German: [ˈʃʊmpeːtɐ]; February 8, 1883 – January 8, 1950) 
-> was an Austrian political economist. 
+> was an **Austrian political economist**. 
 > 
 > He served briefly as Finance Minister of Austria in 1919. 
 > In 1932, he emigrated to the United States to become a professor at Harvard University, 
 > where he remained until the end of his career, and in 1939 obtained American citizenship.
 >
-> Schumpeter was one of the most influential economists of the early 20th century, 
+> Schumpeter was one of the **most influential economists of the early 20th century**, 
 > and popularized [[creative_Destruction]], a term coined by Werner Sombart. 
 > 
 > His magnum opus is considered to be [[Capitalism, Socialism and Democracy]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Joseph%20Schumpeter) 
+
+
 
 
 ## Confidential Links & Embeds: 

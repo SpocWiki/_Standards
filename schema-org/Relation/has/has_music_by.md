@@ -30,7 +30,7 @@ dv_has_:
   domain:
     - "[[../../../Society/Communication/Media/Creative_Work/Clip|Clip]]"
     - "[[../../../Society/Communication/Media/Creative_Work/Episode|Episode]]"
-    - "[[../../../Society/Communication/Media/Movie|Movie]]"
+    - "[[../../../Society/Communication/Media/Creative_Work/Movie|Movie]]"
     - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Movie_Series|Movie_Series]]"
     - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series|Radio_Series]]"
     - "[[../../../Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series|TV_Series]]"
@@ -55,7 +55,7 @@ dv_is_:
 dv_has_domain:
   - "[[../../../Society/Communication/Media/Creative_Work/Clip|Clip]]"
   - "[[../../../Society/Communication/Media/Creative_Work/Episode|Episode]]"
-  - "[[../../../Society/Communication/Media/Movie|Movie]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/Movie|Movie]]"
   - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Movie_Series|Movie_Series]]"
   - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series|Radio_Series]]"
   - "[[../../../Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series|TV_Series]]"

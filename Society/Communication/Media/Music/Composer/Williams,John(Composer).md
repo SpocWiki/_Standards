@@ -284,7 +284,7 @@ composed Music for
 #is_/same_as :: [[../../../../../../_Standards/WikiData/WD~John_Williams,131285|WD~John_Williams,131285]] 
 
 - [[../../Media_Franchise/Star_Wars|Star_Wars]] 
-- [[../../Movie/Movie-Genre/SF-Movie/Jurassic_Park|Jurassic_Park]]  
+- [[../../Creative_Work/Movie/Movie-Genre/SF-Movie/Jurassic_Park|Jurassic_Park]]  
 
 ## #has_/text_of_/abstract  
 

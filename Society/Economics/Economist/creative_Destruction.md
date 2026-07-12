@@ -76,6 +76,8 @@ aliases:
 # [[creative_Destruction]] 
 
 
+#is_/same_as :: [[WD~creative_Destruction,1570382]] 
+
 ## #has_/text_of_/abstract 
 
 > **creative destruction** (German: schöpferische Zerstörung) is a concept in economics 
@@ -117,7 +119,8 @@ aliases:
 >
 > In modern economics, creative destruction is one of the central concepts in the endogenous growth theory. 
 >
-> In Why Nations Fail, a popular book on long-term economic development, Daron Acemoglu and James A. Robinson argue the major reason countries stagnate and go into decline is the willingness of the ruling elites to block creative destruction, a beneficial process that promotes innovation.
+> In Why Nations Fail, a popular book on long-term economic development, 
+> Daron Acemoglu and James A. Robinson argue the major reason countries stagnate and go into decline is the willingness of the ruling elites to block creative destruction, a beneficial process that promotes innovation.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Creative%20destruction) 
 

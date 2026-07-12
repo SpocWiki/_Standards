@@ -324,11 +324,12 @@ dv_has_:
 ## #has_/text_of_/abstract 
 
 > Hannah Arendt (born Johanna Arendt; 14 October 1906 – 4 December 1975) 
-> was a German and American historian and philosopher. 
-> She was one of the most influential political theorists of the twentieth century.
+> was a **German and American historian and philosopher**. 
+> She was one of the **most influential political theorists of the twentieth century**.
 >
 > Her works cover a broad range of topics, 
-> but she is best known for those dealing with the nature of wealth, power, fame, and evil, 
+> but she is best known for those dealing with 
+> the nature of wealth, power, fame, and evil, 
 > as well as politics, direct democracy, authority, tradition, and totalitarianism. 
 > 
 > She is also remembered for the controversy surrounding the trial of Adolf Eichmann, 
@@ -345,7 +346,7 @@ dv_has_:
 > her mother being an ardent Social Democrat. 
 > 
 > After completing secondary education in Berlin, 
-> Arendt studied at the University of Marburg under Martin Heidegger, 
+> Arendt studied at the University of Marburg under [[Heidegger,Martin|Martin Heidegger]], 
 > with whom she engaged in a romantic affair that began while she was his student. 
 > She obtained her doctorate in philosophy at the University of Heidelberg in 1929. 
 > Her dissertation was entitled Love and Saint Augustine, 
@@ -363,11 +364,12 @@ dv_has_:
 > She became a writer and editor and worked for the Jewish Cultural Reconstruction, 
 > becoming an American citizen in 1950. 
 > 
-> With the publication of The Origins of Totalitarianism in 1951, 
+> With the publication of The [[Arendt,Hannah/Origins of Totalitarianism]] in 1951, 
 > her reputation as a thinker and writer was established, and a series of works followed. 
 > 
 > These included the books The Human Condition in 1958, 
 > as well as Eichmann in Jerusalem and On Revolution in 1963. 
+> 
 > She taught at many American universities while declining tenure-track appointments. 
 > She died suddenly of a heart attack in 1975, 
 > leaving her last work, The Life of the Mind, unfinished.

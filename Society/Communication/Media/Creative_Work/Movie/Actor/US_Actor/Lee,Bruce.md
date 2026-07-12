@@ -1,0 +1,407 @@
+---
+aliases:
+- Brjus Li
+- Bruce Lee
+- Brus Li
+- Brusli
+- Bryus li
+- Brüs Li
+- Brūss Lī
+- Lee Jun-fan
+- Lee,Bruce
+- Lí Siáu-liông
+- Lí Séu-liùng
+- Lý Tiểu Long
+- Lī Siēu-lṳ̀ng
+- Μπρους Λη
+- Брус Лі
+- Брус Ли
+- Брус Лий
+- Брюс Лі
+- Брюс Ли
+- Բրյուս Լի
+- ברוס לי
+- بروس لى
+- بروس لي
+- بروس لی
+- بروسلی
+- برووس لی
+- برٛوٗس لی
+- لى شياۋلوڭ
+- ब्रुस ली
+- ब्रूस ली
+- ব্রুস লি
+- ব্ৰুছ লী
+- ਬਰੂਸ-ਲੀ
+- બ્રુસ લી
+- ବ୍ରୁସ ଲୀ
+- புரூஸ் லீ
+- బ్రూస్ లీ
+- ಬ್ರೂಸ್ ಲೀ
+- ബ്രൂസ് ലീ
+- บรูซ ลี
+- ལི་ཞོའོ་ལུང་།
+- ဘရုစ်လီ
+- ბრიუს ლი
+- ብሩስ ሊ
+- លី ស៊ាវឡុង
+- ブルース・リー
+- 李小龍
+- 李小龙
+- 이소룡
+has_id_wikidata: Q16397
+student_of: '[[_Standards/WikiData/WD~Ip_Man,163830|WD~Ip_Man,163830]]'
+child:
+- '[[_Standards/WikiData/WD~Pelotudo_Lee,211462|WD~Pelotudo_Lee,211462]]'
+- '[[_Standards/WikiData/WD~Shannon_Lee,698411|WD~Shannon_Lee,698411]]'
+educated_at:
+- '[[_Standards/WikiData/WD~University_of_Washington,219563|WD~University_of_Washington,219563]]'
+- '[[_Standards/WikiData/WD~Seattle_Central_College,7442064|WD~Seattle_Central_College,7442064]]'
+notable_work:
+- '[[_Standards/WikiData/WD~Fist_of_Fury,253565|WD~Fist_of_Fury,253565]]'
+- '[[_Standards/WikiData/WD~Enter_the_Dragon,331617|WD~Enter_the_Dragon,331617]]'
+- '[[_Standards/WikiData/WD~Way_of_the_Dragon,462409|WD~Way_of_the_Dragon,462409]]'
+- '[[_Standards/WikiData/WD~The_Big_Boss,470374|WD~The_Big_Boss,470374]]'
+- '[[_Standards/WikiData/WD~The_Green_Hornet,991697|WD~The_Green_Hornet,991697]]'
+- '[[_Standards/WikiData/WD~Marlowe,1759810|WD~Marlowe,1759810]]'
+- '[[_Standards/WikiData/WD~The_Game_of_Death,20202630|WD~The_Game_of_Death,20202630]]'
+occupation:
+- '[[_Standards/WikiData/WD~stunt_performer,465501|WD~stunt_performer,465501]]'
+- '[[_Standards/WikiData/WD~film_director,2526255|WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~stunt_coordinator,2833480|WD~stunt_coordinator,2833480]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637|WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~director,3455803|WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782|WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557|WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~martial_artist,11124885|WD~martial_artist,11124885]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389|WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999|WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~writer,36180|WD~writer,36180]]'
+given_name:
+- '[[_Standards/WikiData/WD~Bruce,579371|WD~Bruce,579371]]'
+- '[[_Standards/WikiData/WD~Xiǎolóng,122221060|WD~Xiǎolóng,122221060]]'
+father: '[[_Standards/WikiData/WD~Lee_Hoi_chuen,712093|WD~Lee_Hoi_chuen,712093]]'
+place_of_burial: '[[_Standards/WikiData/WD~Q872253,872253|WD~Q872253,872253]]'
+ancestral_home: '[[_Standards/WikiData/WD~Shunde_District,945428|WD~Shunde_District,945428]]'
+cause_of_death: '[[_Standards/WikiData/WD~cerebral_edema,979168|WD~cerebral_edema,979168]]'
+student:
+- '[[_Standards/WikiData/WD~Jesse_Glover,999092|WD~Jesse_Glover,999092]]'
+- '[[_Standards/WikiData/WD~Jerry_Poteet,6184259|WD~Jerry_Poteet,6184259]]'
+country_of_citizenship:
+- '[[_Standards/WikiData/WD~British_Hong_Kong,1054923|WD~British_Hong_Kong,1054923]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+spouse: '[[_Standards/WikiData/WD~Linda_Lee_Cadwell,1130195|WD~Linda_Lee_Cadwell,1130195]]'
+different_from: '[[_Standards/WikiData/WD~Butch_Lee,2344573|WD~Butch_Lee,2344573]]'
+writing_language:
+- '[[_Standards/WikiData/WD~written_Cantonese,2472605|WD~written_Cantonese,2472605]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+field_of_work:
+- '[[_Standards/WikiData/WD~film_director,2526255|WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637|WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182|WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~martial_artist,11124885|WD~martial_artist,11124885]]'
+- '[[_Standards/WikiData/WD~film_screenwriter,69423232|WD~film_screenwriter,69423232]]'
+- '[[_Standards/WikiData/WD~actor,33999|WD~actor,33999]]'
+filmography: '[[_Standards/WikiData/WD~Bruce_Lee_filmography,4977862|WD~Bruce_Lee_filmography,4977862]]'
+award_received:
+- '[[_Standards/WikiData/WD~California_Hall_of_Fame,5020532|WD~California_Hall_of_Fame,5020532]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761|WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Bruce_Lee,6471040|WD~Template_Bruce_Lee,6471040]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+languages_spoken_written_or_signed:
+- '[[_Standards/WikiData/WD~Yue_Chinese,7033959|WD~Yue_Chinese,7033959]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~Yue_Chinese,7033959|WD~Yue_Chinese,7033959]]'
+sibling:
+- '[[_Standards/WikiData/WD~Robert_Lee,7346798|WD~Robert_Lee,7346798]]'
+- '[[_Standards/WikiData/WD~Phoebe_Lee,23034464|WD~Phoebe_Lee,23034464]]'
+- '[[_Standards/WikiData/WD~Agnes_Lee,23034465|WD~Agnes_Lee,23034465]]'
+- '[[_Standards/WikiData/WD~Peter_Lee_Jung_sum,48645261|WD~Peter_Lee_Jung_sum,48645261]]'
+place_of_birth: '[[_Standards/WikiData/WD~San_Francisco_Chinese_Hospital,7413971|WD~San_Francisco_Chinese_Hospital,7413971]]'
+family_name: '[[_Standards/WikiData/WD~Lee,12794688|WD~Lee,12794688]]'
+founded_by: '[[_Standards/WikiData/WD~Concord_Production_Inc.,18343365|WD~Concord_Production_Inc.,18343365]]'
+manner_of_death: '[[_Standards/WikiData/WD~accidental_death,21142718|WD~accidental_death,21142718]]'
+mother: '[[_Standards/WikiData/WD~Grace_Ho,23034463|WD~Grace_Ho,23034463]]'
+relative: '[[_Standards/WikiData/WD~Barry_Pang,98433994|WD~Barry_Pang,98433994]]'
+residence:
+- '[[_Standards/WikiData/WD~Seattle,5083|WD~Seattle,5083]]'
+- '[[_Standards/WikiData/WD~Hong_Kong,8646|WD~Hong_Kong,8646]]'
+- '[[_Standards/WikiData/WD~San_Francisco,62|WD~San_Francisco,62]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066|WD~atheism,7066]]'
+sport: '[[_Standards/WikiData/WD~martial_art,11417|WD~martial_art,11417]]'
+place_of_death: '[[_Standards/WikiData/WD~Kowloon_Tong,15278|WD~Kowloon_Tong,15278]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+country_for_sport: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+height: 1.72
+Commons_category: Bruce Lee
+Commons_gallery: Bruce Lee
+social_media_followers: 513483
+name_in_native_language:
+- Bruce Lee
+- 李小龍
+work_period_end_: 1973-01-01T00:00:00Z
+date_of_death: 1973-07-20T00:00:00Z
+work_period_start_: 1950-01-01T00:00:00Z
+plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Bruce%20Lee%20Walk%20of%20fame.jpg
+image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Leethumb.jpg
+signature: http://commons.wikimedia.org/wiki/Special:FilePath/Signature%20of%20Bruce%20Lee.svg
+ISNI:
+- 000000010900214X
+- 000000036855300X
+NLC_authorities: 001169710
+Libris_URI: 42gjm2xn4txz0xh
+P8189: 987007271071105171
+CYT_CCS: AC000578326
+Europeana_entity: agent/base/60346
+Google_Doodle: bruce-lees-70th-birthday
+Instagram_username: brucelee
+X_Twitter_username: brucelee
+Facebook_username: BruceLee
+pseudonym: 李元鑒
+Baidu_Tieba_name: 李小龙
+birth_name: 李振藩
+date_of_birth: 1940-11-27T00:00:00Z
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Bruce%20Lee%201973%20%28cropped%29.jpg
+official_website: https://brucelee.com/
+dv_has_:
+  name_:
+    af: Bruce Lee
+    am: ብሩስ ሊ
+    an: Bruce Lee
+    ar: بروس لي
+    ary: بروس لي
+    arz: بروس لى
+    as: ব্ৰুছ লী
+    ast: Bruce Lee
+    ay: Bruce Lee
+    az: Brüs Li
+    azb: بروس لی
+    ba: Брюс Ли
+    bcl: Bruce Lee
+    be: Брус Лі
+    be_tarask: Брус Лі
+    bg: Брус Лий
+    bi: Bruce Lee
+    bn: ব্রুস লি
+    bo: ལི་ཞོའོ་ལུང་།
+    br: Bruce Lee
+    bs: Bruce Lee
+    ca: Bruce Lee
+    cdo: Lī Siēu-lṳ̀ng
+    ckb: برووس لی
+    cs: Bruce Lee
+    cv: Брюс Ли
+    cy: Bruce Lee
+    da: Bruce Lee
+    de: Bruce Lee
+    de_ch: Bruce Lee
+    diq: Bruce Lee
+    dty: ब्रुस ली
+    ee: Bruce Lee
+    el: Μπρους Λη
+    en: Bruce Lee
+    en_ca: Bruce Lee
+    en_gb: Bruce Lee
+    eo: Bruce Lee
+    es: Bruce Lee
+    et: Bruce Lee
+    eu: Bruce Lee
+    ext: Bruce Lee
+    fa: بروس لی
+    fi: Bruce Lee
+    fr: Bruce Lee
+    ga: Bruce Lee
+    gl: Bruce Lee
+    gu: બ્રુસ લી
+    gv: Bruce Lee
+    ha: Bruce Lee
+    hak: Lí Séu-liùng
+    he: ברוס לי
+    hi: ब्रूस ली
+    hif: Bruce Lee
+    hr: Bruce Lee
+    hu: Bruce Lee
+    hy: Բրյուս Լի
+    ia: Bruce Lee
+    id: Bruce Lee
+    ig: Bruce Lee
+    ilo: Bruce Lee
+    io: Bruce Lee
+    is: Bruce Lee
+    it: Bruce Lee
+    ja: ブルース・リー
+    jv: Bruce Lee
+    ka: ბრიუს ლი
+    kaa: Bryus Li
+    kab: Brus Li
+    kk: Брюс Ли
+    km: លី ស៊ាវឡុង
+    kn: ಬ್ರೂಸ್ ಲೀ
+    ko: 이소룡
+    ks: برٛوٗس لی
+    ku: Bruce Lee
+    kw: Bruce Lee
+    ky: Брюс Ли
+    la: Bruce Lee
+    lb: Bruce Lee
+    lfn: Bruce Lee
+    lt: Bruce Lee
+    lv: Brūss Lī
+    lzh: 李小龍
+    mai: ब्रुस ली
+    mg: Bruce Lee
+    mk: Брус Ли
+    ml: ബ്രൂസ് ലീ
+    mn: Брюс Ли
+    ms: Bruce Lee
+    my: ဘရုစ်လီ
+    mzn: بروسلی
+    nan: Lí Siáu-liông
+    nap: Bruce Lee
+    nb: Bruce Lee
+    nds: Bruce Lee
+    nds_nl: Bruce Lee
+    ne: ब्रुस ली
+    nl: Bruce Lee
+    nn: Bruce Lee
+    oc: Bruce Lee
+    or: ବ୍ରୁସ ଲୀ
+    pa: ਬਰੂਸ-ਲੀ
+    pam: Bruce Lee
+    pap: Bruce Lee
+    pl: Bruce Lee
+    pnb: بروس لی
+    ps: بروس لي
+    pt: Bruce Lee
+    pt_br: Bruce Lee
+    qu: Bruce Lee
+    ro: Brusli
+    ru: Брюс Ли
+    rue: Брюс Лі
+    sco: Bruce Lee
+    sh: Bruce Lee
+    sk: Bruce Lee
+    sl: Bruce Lee
+    sq: Bruce Lee
+    sr: Брус Ли
+    sv: Bruce Lee
+    sw: Bruce Lee
+    szl: Bruce Lee
+    ta: புரூஸ் லீ
+    te: బ్రూస్ లీ
+    tg: Брюс Ли
+    th: บรูซ ลี
+    tl: Bruce Lee
+    tly: Brjus Li
+    tr: Bruce Lee
+    tt: Брюс Ли
+    tyv: Брюс Ли
+    ug: لى شياۋلوڭ
+    uk: Брюс Лі
+    ur: بروس لی
+    uz: Bryus li
+    vec: Bruce Lee
+    vi: Lý Tiểu Long
+    war: Bruce Lee
+    wuu: 李小龙
+    xmf: ბრიუს ლი
+    yo: Bruce Lee
+    yue: 李小龍
+    zh: 李小龍
+    zh_cn: 李小龙
+    zh_hans: 李小龙
+    zh_hant: 李小龍
+    zh_hk: 李小龍
+    zh_mo: 李小龍
+    zh_sg: 李小龙
+    zh_tw: 李小龍
+---
+
+# [[Lee,Bruce]] 
+
+#is_/same_as :: [[../../../../../../../WikiData/WD~Bruce_Lee,16397|WD~Bruce_Lee,16397]] 
+
+## #has_/text_of_/abstract 
+
+> Bruce Lee (born Lee Jun-fan; November 27, 1940 – July 20, 1973) 
+> was a Hong Kong-American martial artist, actor, filmmaker, and philosopher. 
+> He was the founder of Jeet Kune Do, a hybrid martial arts philosophy 
+> which was formed from Lee's experiences in unarmed fighting and self-defense—
+> as well as eclectic, Zen Buddhist and Taoist philosophies—as a new school of martial arts thought. 
+> 
+> With a film career spanning Hong Kong and the United States, 
+> Lee is regarded as the first global Chinese film star 
+> and one of the most influential martial artists in the history of  cinema. 
+> Known for his roles in five feature-length martial arts films, 
+> Lee is credited with helping to popularize martial arts films in the 1970s 
+> and promoting Hong Kong action cinema.
+>
+> Born in San Francisco and raised in British Hong Kong, 
+> Lee was introduced to the Hong Kong film industry as a child actor by his father. 
+> His early martial arts experience included Wing Chun (trained under Ip Man), 
+> tai chi, boxing (winning a Hong Kong boxing tournament), 
+> and frequent street fighting (neighborhood and rooftop fights). 
+> 
+> In 1959, Lee moved to Seattle, where he enrolled at the University of Washington in 1961. 
+> It was during this time in the United States that he began considering 
+> making money by teaching martial arts, even though he aspired to have a career in acting. 
+> He opened his first martial arts school, operated out of his home in Seattle. 
+> After later adding a second school in Oakland, California, 
+> he once drew significant attention at the 1964 Long Beach 
+> International Karate Championships of California by making demonstrations and speaking. 
+> He subsequently moved to Los Angeles to teach, 
+> where his students included Chuck Norris, Sharon Tate, and Kareem Abdul-Jabbar.
+>
+> His roles in America, including playing Kato in The Green Hornet, 
+> introduced him to American audiences. 
+> After returning to Hong Kong in 1971, 
+> Lee landed his first leading role in The Big Boss, directed by Lo Wei. 
+> A year later he starred in Fist of Fury, in which he portrayed Chen Zhen, 
+> and The Way of the Dragon, directed and written by Lee. 
+> He went on to star in the US-Hong Kong co-production Enter the Dragon (1973) 
+> and The Game of Death (1978). 
+> 
+> His Hong Kong and Hollywood-produced films, all of which were commercially successful, 
+> elevated Hong Kong martial arts films to a new level of popularity and acclaim, 
+> sparking a surge of Western interest in Chinese martial arts. 
+> The direction and tone of his films, including their fight choreography and diversification, 
+> dramatically influenced and changed martial arts and martial arts films worldwide. 
+> With his influence, kung fu films began to displace the wuxia film genre—
+> fights were choreographed more realistically, 
+> fantasy elements were discarded for real-world conflicts, 
+> and the characterisation of the male lead went from simply being a chivalrous hero 
+> to one that embodied the notion of masculinity.
+>
+> Lee's career was cut short by his sudden death at age 32 from a brain edema, 
+> the causes of which remain a matter of dispute. 
+> Nevertheless, his films remained popular, gained a large cult following, 
+> and became widely imitated and exploited. 
+> 
+> He became an iconic figure known throughout the world, particularly among the Chinese, 
+> based upon his portrayal of Cantonese culture in his films, 
+> and among Asian Americans for defying Asian stereotypes in the United States. 
+> 
+> Since his death, Lee has continued to be a prominent influence on modern combat sports, 
+> including judo, karate, mixed martial arts, and boxing, as well as modern popular culture, 
+> including film, television, comics, animation, and video games. 
+> Time named Lee one of the 100 most important people of the 20th century.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Bruce%20Lee) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[Lee,Bruce|Lee,Bruce]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Lee,Bruce.public|Lee,Bruce.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Lee,Bruce.internal|Lee,Bruce.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Lee,Bruce.protect|Lee,Bruce.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Lee,Bruce.private|Lee,Bruce.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Lee,Bruce.personal|Lee,Bruce.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Lee,Bruce.secret|Lee,Bruce.secret]] 
+
