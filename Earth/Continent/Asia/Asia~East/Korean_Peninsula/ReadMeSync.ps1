@@ -15,22 +15,28 @@
 # ("/...") are left untouched, since they reference a fixed 
 # root that does not shift with the directory-level change. 
 # 
-# All content-hash comparisons (both the "already identical" 
-# check and the common-ancestor search across history) are 
-# performed AFTER translating links into a single common 
-# frame of reference, so link-path differences alone never 
-# masquerade as a real content difference. 
+# The common-ancestor search checks history in TWO ways: 
+#   1. A literal (untranslated) match - catches a baseline 
+#      that was committed as a raw, byte-for-byte duplicate 
+#      (see Initialize-CommonBaselineWithCompanion below). 
+#   2. A link-frame-translated match - catches a baseline 
+#      whose non-rooted links were adjusted for its own 
+#      directory level before being committed. 
+# Without checking #1, a literal raw-copy baseline containing 
+# any relative link would never be recognized as a match once 
+# compared only against translated companion history. 
 # 
 # If NO common baseline exists yet (the two files have never 
-# shared identical content), a real 3-way merge would have no 
-# usable anchor points and would conflict across the entire 
-# file. Instead of attempting that, a common baseline is 
-# bootstrapped: ReadMe.md is overwritten with a literal, raw 
-# copy of the companion file's current content and committed - 
-# this becomes a real, discoverable common ancestor for every 
-# future run. ReadMe.md is then overwritten again with the 
-# properly link-adjusted version, left UNCOMMITTED so it can be 
-# reviewed before you commit it yourself. 
+# shared identical content, in either sense above), a real 
+# 3-way merge would have no usable anchor points and would 
+# conflict across the entire file. Instead of attempting that, 
+# a common baseline is bootstrapped: ReadMe.md is overwritten 
+# with a literal, raw copy of the companion file's current 
+# content and committed - this becomes a real, discoverable 
+# common ancestor for every future run. ReadMe.md is then 
+# overwritten again with the properly link-adjusted version, 
+# left UNCOMMITTED so it can be reviewed before you commit it 
+# yourself. 
 # 
 # If a common baseline DOES exist, a genuine 3-way merge is 
 # performed via git merge-file. If that merge produces conflict 
@@ -121,12 +127,11 @@ function Test-ContainsConflictMarkers([string]$text) {
 # Scans two independent version histories and returns the text 
 # of the most recent version with an identical content hash in 
 # both, skipping any version that already contains conflict 
-# markers. Treated as the "last common ancestor" for the 3-way 
-# merge, since no shared commit exists. Returns $null if none 
-# was found. 
+# markers. Returns $null if none was found. 
 # 
-# Both histories passed in MUST already be expressed in the 
-# same directory frame of reference (see 
+# Both histories passed in must already be expressed in 
+# whichever single frame of reference the caller wants compared 
+# (either both raw/native, or both translated - see 
 # Convert-VersionHistoryToFrame). 
 # ------------------------------------------------------------ 
 function Find-LastCommonVersionText($historyA, $historyB) { 
@@ -364,8 +369,8 @@ function Register-ConflictInIndex([string]$repoPath, [string]$fileNameInRepoDir,
 # overwritten with a literal, RAW copy of the companion file's 
 # current content and committed in the sub-repo - this commit 
 # becomes a real, discoverable common ancestor for every future 
-# run of this script (once its non-rooted links are, in turn, 
-# committed by the user - see Convert-VersionHistoryToFrame). 
+# run of this script (matched via the literal/untranslated 
+# comparison in Merge-ReadmeWithCompanion). 
 # 
 # ReadMe.md is then overwritten a second time with 
 # $companionTranslatedText (the same content with non-rooted 
@@ -401,13 +406,16 @@ function Initialize-CommonBaselineWithCompanion([string]$subRepoDirectory, [stri
 } 
 
 # ------------------------------------------------------------ 
-# Merges F\ReadMe.md with the parent folder's F.md. If no 
-# common baseline exists yet, one is bootstrapped via 
-# Initialize-CommonBaselineWithCompanion instead of attempting 
-# a whole-file merge. If a common baseline exists, a genuine 
-# 3-way merge is performed via git merge-file; on conflict, it 
-# is registered in both repositories' indexes via 
-# Register-ConflictInIndex, using base/ours/theirs text 
+# Merges F\ReadMe.md with the parent folder's F.md. The common- 
+# ancestor search first checks for a literal (untranslated) 
+# match, then falls back to a link-frame-translated match - see 
+# the header comment at the top of this file for why both are 
+# needed. If no common baseline exists in either sense, one is 
+# bootstrapped via Initialize-CommonBaselineWithCompanion 
+# instead of attempting a whole-file merge. If a common baseline 
+# exists, a genuine 3-way merge is performed via git merge-file; 
+# on conflict, it is registered in both repositories' indexes 
+# via Register-ConflictInIndex, using base/ours/theirs text 
 # translated into each repo's own frame. 
 # ------------------------------------------------------------ 
 function Merge-ReadmeWithCompanion([string]$subRepoDirectory, [string]$parentOfSubRepo, [string]$subFolderName) { 
@@ -463,11 +471,19 @@ function Merge-ReadmeWithCompanion([string]$subRepoDirectory, [string]$parentOfS
     $readmeHistory       = Get-FileVersionHistory $subRepoDirectory "ReadMe.md" 
     $companionHistoryRaw = Get-FileVersionHistory $parentOfSubRepo "$subFolderName.md" 
 
-    # Normalize the companion's entire history into ReadMe.md's frame 
-    # before searching for a common ancestor. 
-    $companionHistoryInReadmeFrame = Convert-VersionHistoryToFrame $companionHistoryRaw $parentOfSubRepo $subRepoDirectory 
+    # First, check for a LITERAL match - catches a baseline that was 
+    # committed as a raw, untranslated duplicate (see 
+    # Initialize-CommonBaselineWithCompanion). Without this check, such 
+    # a baseline would never be found once compared only against 
+    # translated companion history, if it contains any relative links. 
+    $commonBaseText = Find-LastCommonVersionText $readmeHistory $companionHistoryRaw 
 
-    $commonBaseText = Find-LastCommonVersionText $readmeHistory $companionHistoryInReadmeFrame 
+    if ($null -eq $commonBaseText) { 
+        # Fall back to a link-frame-TRANSLATED match, for baselines 
+        # that were committed already link-adjusted. 
+        $companionHistoryInReadmeFrame = Convert-VersionHistoryToFrame $companionHistoryRaw $parentOfSubRepo $subRepoDirectory 
+        $commonBaseText = Find-LastCommonVersionText $readmeHistory $companionHistoryInReadmeFrame 
+    } 
 
     if ($null -eq $commonBaseText) { 
         Write-Host "  No common baseline found - bootstrapping one from $subFolderName.md instead of attempting a whole-file merge" -ForegroundColor Yellow 
