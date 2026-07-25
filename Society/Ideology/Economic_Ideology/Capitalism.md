@@ -382,11 +382,7 @@ This shows what [[../Political_Ideology/Humanism/Liberalism|Liberalism]] will le
 > whereas prices and the distribution of goods and services are mainly 
 > determined by __competition in goods and services markets__.
 >
-<<<<<<< HEAD
-> [[../../Economics/Economist|Economists]], [[../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian|historians]], political economists, and [[../../Anthropology/Sociology/Sociologist|sociologists]] 
-=======
 > [[../../Economics/Economist|Economists]], [[../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian|historians]], political economists, and[[../../Anthropology/Sociology/Sociologist|sociologists]]] 
->>>>>>> b0db95c5cb1c1d0a79daaff62de9ffba40b4805b
 > have adopted different perspectives in their analyses of capitalism 
 > and have recognized various forms of it in practice. 
 > 

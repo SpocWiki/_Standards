@@ -1,7 +1,5 @@
 ---
-<<<<<<< HEAD
-location: [ 116.097666666 , 36.124194444 ] 
-=======
+location: [ 36.124194444, 116.097666666 ] 
 dv_is_:
   shorter_than: "[[Yangtze_River]]"
   same_as:
@@ -21,9 +19,6 @@ dv_is_same_as:
   - "[[/_private/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.private|Yellow_River.private]]"
   - "[[/_personal/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.personal|Yellow_River.personal]]"
   - "[[/_secret/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.secret|Yellow_River.secret]]"
-
-location: [ 36.124194444, 116.097666666 ] 
->>>>>>> c6d40cfc45124e666bcaf84e3d112f501294f687
 aliases:
   - Yellow River
   - Huanghe
