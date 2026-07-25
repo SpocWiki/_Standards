@@ -1107,17 +1107,17 @@ has_place_latitude = `=this.dv_has_place_latitude`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/ReadMe|ReadMe]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South|Korea~South]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/ReadMe.public|ReadMe.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South.public|Korea~South.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/ReadMe.internal|ReadMe.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South.internal|Korea~South.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/ReadMe.protect|ReadMe.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South.protect|Korea~South.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/ReadMe.private|ReadMe.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South.private|Korea~South.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/ReadMe.personal|ReadMe.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South.personal|Korea~South.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/ReadMe.secret|ReadMe.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South.secret|Korea~South.secret]] 
 
