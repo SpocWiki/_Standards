@@ -1091,9 +1091,38 @@ has_place_latitude = `=this.dv_has_place_latitude`
 
 ## #has_/text_of_/abstract 
 
-> **South Korea**, officially the Republic of Korea (ROK), is a country in East Asia. It constitutes the southern half of the Korean Peninsula and borders North Korea along the Korean Demilitarized Zone, with the Yellow Sea to the west and the Sea of Japan to the east. Like North Korea, South Korea claims to be the sole legitimate government of the entire peninsula and adjacent islands. It has a population of 51.71 million, of which half live in the Seoul Metropolitan Area, the ninth most populous metropolitan area in the world; other major cities include Busan, Daegu, and Incheon.
+> **South Korea**, officially the Republic of Korea (ROK), is a country in East Asia. 
+> It constitutes the southern half of the Korean Peninsula 
+> and borders North Korea along the Korean Demilitarized Zone, 
+> with the Yellow Sea to the west and the Sea of Japan to the east. 
+> 
+> Like North Korea, South Korea 
+> claims to be the sole legitimate government of the entire peninsula and adjacent islands. 
+> It has a population of 51.71 million, of which half live in the Seoul Metropolitan Area, 
+> the ninth most populous metropolitan area in the world; 
+> other major cities include Busan, Daegu, and Incheon.
 >
-> The Korean Peninsula was inhabited as early as the Lower Paleolithic period. Its first kingdom was noted in Chinese records in the early seventh century BCE. From the mid first century BCE, various polities consolidated into the rival kingdoms of Goguryeo, Baekje, and Silla, with the lattermost unifying the peninsula for the first time in the late seventh century CE. The Goryeo dynasty (918–1392) achieved lasting unification and established the basis for modern Korean identity. The subsequent Joseon dynasty (1392–1897) saw the height of cultural, economic, and scientific achievement as well as prolonged peace and isolationism from the mid 17th century. The succeeding Korean Empire (1897–1910) sought modernization and reform by was annexed in 1910 into the Empire of Japan. Japanese rule ended following Japan's surrender in World War II, after which Korea was divided into two zones: a northern zone, which was occupied by the Soviet Union, and a southern zone, which was occupied by the United States. After negotiations on reunification failed, the southern zone became the Republic of Korea in August 1948, while the northern zone became the communist Democratic People's Republic of Korea the following month.
+> The Korean Peninsula was inhabited as early as the Lower Paleolithic period. 
+> Its first kingdom was noted in Chinese records in the early seventh century BCE. 
+> 
+> From the mid first century BCE, various polities consolidated into the 
+> rival kingdoms of Goguryeo, Baekje, and Silla, with 
+> the lattermost unifying the peninsula for the first time in the late seventh century CE. 
+> 
+> The Goryeo dynasty (918–1392) achieved lasting unification 
+> and established the basis for modern Korean identity. 
+> 
+> The subsequent Joseon dynasty (1392–1897) saw the height of cultural, economic, and scientific achievement 
+> as well as prolonged peace and isolationism from the mid 17th century. 
+> 
+> The succeeding Korean Empire (1897–1910) sought modernization and reform, 
+> but was annexed in 1910 into the Empire of Japan. 
+> Japanese rule ended following Japan's surrender in World War II, 
+> after which Korea was divided into two zones: a northern zone, which was occupied by the Soviet Union, 
+> and a southern zone, which was occupied by the United States. 
+> After negotiations on reunification failed, 
+> the southern zone became the Republic of Korea in August 1948, while 
+> the northern zone became the communist Democratic People's Republic of Korea the following month.
 >
 > In 1950, a North Korean invasion triggered the Korean War, one of the first major proxy conflicts of the Cold War, which saw extensive fighting involving the American-led United Nations Command and the Soviet-backed People's Volunteer Army from China. The war ended in 1953 with an armistice but no peace treaty, leading to the ongoing Korean conflict, and left three million Koreans dead and the economy in ruins. South Korea endured a series of dictatorships punctuated by coups, revolutions, and violent uprisings, but also experienced a soaring economy and one of the fastest rises in average GDP per capita, leading to its emergence as one of the Four Asian Tigers. The June Democratic Struggle of 1987 ended authoritarian rule and led to the establishment of the current Sixth Republic. 
 >
