@@ -16,9 +16,10 @@
 # When git merge-file cannot resolve a merge cleanly, the 
 # conflict is also registered in each repository's index 
 # (stages 1/2/3) via git update-index --index-info, so 
-# `git status` correctly reports the file as unmerged (UU) 
-# in both the sub-repo and the parent repo, instead of as an 
-# ordinary modification. 
+# `git status` (and GUI tools such as TortoiseGitMerge) 
+# correctly report the file as unmerged (UU) in both the 
+# sub-repo and the parent repo, instead of as an ordinary 
+# modification or a malformed delete/modify conflict. 
 # 
 # No git add / git commit is performed otherwise - this 
 # script only updates the working-tree files and (on 
@@ -85,7 +86,8 @@ function Get-FileVersionHistory([string]$repoPath, [string]$relativeFile) {
 # Scans two independent version histories and returns the text 
 # of the most recent version with an identical content hash in 
 # both. Treated as the "last common ancestor" for the 3-way 
-# merge, since no shared commit exists. Returns $null if none. 
+# merge, since no shared commit exists. Returns $null if none 
+# was found (i.e. the files have no known common ancestor). 
 # ------------------------------------------------------------ 
 function Find-LastCommonVersionText($historyA, $historyB) { 
     foreach ($versionA in $historyA) { 
@@ -193,17 +195,48 @@ function Write-GitBlob([string]$text) {
 } 
 
 # ------------------------------------------------------------ 
-# Registers a 3-way merge conflict for $fileNameInRepoDir 
-# directly in $repoPath's index (stages 1/2/3), so `git 
-# status` reports it as unmerged (UU) even though it was 
-# never processed by `git merge`. 
-# 
-# $fileNameInRepoDir must be the file's name relative to 
-# $repoPath itself; the path relative to the repo's top level 
-# is computed automatically via `git rev-parse --show-prefix`, 
-# since $repoPath is not guaranteed to be the repo root. 
+# Sends exactly one index-info record to git update-index. 
+# Each call is a separate invocation so the record is always 
+# a single, unambiguous, newline-terminated line - avoiding 
+# any risk of a trailing line being dropped when multiple 
+# records are joined into one multi-line pipe payload (which 
+# was observed to sometimes silently drop stage 3, producing 
+# a malformed delete/modify conflict instead of a proper 
+# unmerged (UU) state). 
 # ------------------------------------------------------------ 
-function Register-ConflictInIndex([string]$repoPath, [string]$fileNameInRepoDir, [string]$baseText, [string]$oursText, [string]$theirsText) { 
+function Write-IndexInfoRecord([string]$mode, [string]$objectHash, [int]$stage, [string]$repoRelativePath) { 
+    $record = "$mode $objectHash $stage`t$repoRelativePath`n" 
+    $record | git update-index --index-info 
+    return ($LASTEXITCODE -eq 0) 
+} 
+
+# ------------------------------------------------------------ 
+# Explicitly removes a stage entry (if any) for a path, using 
+# Git's documented "mode 0 / all-zero object name" record. 
+# Used to represent "no common ancestor" as a proper add/add 
+# conflict, instead of fabricating an empty-content base 
+# (which Git and GUI tools could otherwise misread as a 
+# delete/modify situation). 
+# ------------------------------------------------------------ 
+function Clear-IndexInfoRecord([int]$stage, [string]$repoRelativePath) { 
+    $zeroHash = "0" * 40 
+    return (Write-IndexInfoRecord "0" $zeroHash $stage $repoRelativePath) 
+} 
+
+# ------------------------------------------------------------ 
+# Registers a merge conflict for $fileNameInRepoDir directly 
+# in $repoPath's index, so `git status` (and GUI tools such as 
+# TortoiseGitMerge) report it as unmerged (UU) rather than as 
+# a delete/modify or malformed conflict caused by missing or 
+# malformed stage entries. 
+# 
+# $baseText must be $null when no common ancestor was found; 
+# in that case stage 1 is explicitly cleared, correctly 
+# producing an add/add conflict instead of a fake empty-file 
+# base. Pass an empty string only when the ancestor genuinely 
+# was an empty file. 
+# ------------------------------------------------------------ 
+function Register-ConflictInIndex([string]$repoPath, [string]$fileNameInRepoDir, $baseText, [string]$oursText, [string]$theirsText) { 
 
     Push-Location $repoPath 
     try { 
@@ -216,22 +249,25 @@ function Register-ConflictInIndex([string]$repoPath, [string]$fileNameInRepoDir,
         $prefix           = (git rev-parse --show-prefix 2>$null) 
         $repoRelativePath = (($prefix + $fileNameInRepoDir) -replace '\\', '/') 
 
-        $baseHash   = Write-GitBlob $baseText 
+        $stageResults = @() 
+
+        if ($null -eq $baseText) { 
+            $stageResults += (Clear-IndexInfoRecord 1 $repoRelativePath) 
+        } else { 
+            $baseHash = Write-GitBlob $baseText 
+            $stageResults += (Write-IndexInfoRecord "100644" $baseHash 1 $repoRelativePath) 
+        } 
+
         $oursHash   = Write-GitBlob $oursText 
         $theirsHash = Write-GitBlob $theirsText 
 
-        $indexInfo = @( 
-            "100644 $baseHash 1`t$repoRelativePath" 
-            "100644 $oursHash 2`t$repoRelativePath" 
-            "100644 $theirsHash 3`t$repoRelativePath" 
-        ) -join "`n" 
+        $stageResults += (Write-IndexInfoRecord "100644" $oursHash   2 $repoRelativePath) 
+        $stageResults += (Write-IndexInfoRecord "100644" $theirsHash 3 $repoRelativePath) 
 
-        $indexInfo | git update-index --index-info 
-
-        if ($LASTEXITCODE -eq 0) { 
+        if ($stageResults -notcontains $false) { 
             Write-Host "  Registered $repoRelativePath as unmerged (UU) in $repoPath" -ForegroundColor Red 
         } else { 
-            Write-Host "  Failed to register $repoRelativePath as unmerged in $repoPath" -ForegroundColor Red 
+            Write-Host "  Failed to register one or more stages for $repoRelativePath in $repoPath - check 'git ls-files -u' manually" -ForegroundColor Red 
         } 
     } finally { 
         Pop-Location 
@@ -287,8 +323,7 @@ function Merge-ReadmeWithCompanion([string]$subRepoDirectory, [string]$parentOfS
     $commonBaseText = Find-LastCommonVersionText $readmeHistory $companionHistory 
 
     if ($null -eq $commonBaseText) { 
-        Write-Host "  No common ancestor version found - merging against an empty base" -ForegroundColor Yellow 
-        $commonBaseText = "" 
+        Write-Host "  No common ancestor version found - will register as an add/add conflict if unresolved" -ForegroundColor Yellow 
     } 
 
     # Translate the companion's links into ReadMe.md's frame before the 
@@ -296,9 +331,15 @@ function Merge-ReadmeWithCompanion([string]$subRepoDirectory, [string]$parentOfS
     # false conflict. 
     $companionTextInReadmeFrame = Convert-RelativeLinksInText $companionOriginalText $parentOfSubRepo $subRepoDirectory 
 
+    # git merge-file requires a real file on disk for the base, even when 
+    # there is no known common ancestor; an empty file is used there only 
+    # for that purpose. The index registration below still uses $null in 
+    # that case, so the conflict is correctly represented as add/add. 
+    $baseFileText = if ($null -eq $commonBaseText) { "" } else { $commonBaseText } 
+
     $baseFile  = New-TemporaryFile 
     $otherFile = New-TemporaryFile 
-    Set-Content -Path $baseFile  -Value $commonBaseText            -NoNewline 
+    Set-Content -Path $baseFile  -Value $baseFileText              -NoNewline 
     Set-Content -Path $otherFile -Value $companionTextInReadmeFrame -NoNewline 
 
     try { 
