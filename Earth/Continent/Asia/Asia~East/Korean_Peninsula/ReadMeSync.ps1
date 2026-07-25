@@ -10,52 +10,42 @@
 # 
 # Historical file content is read via Invoke-GitCaptureRawText, 
 # which uses .NET's Process class directly instead of 
-# PowerShell's native `$var = & git ...` capture. The latter 
-# splits stdout into an array of lines and discards the 
-# original line-terminator bytes, which was found to silently 
-# alter content hashes even for files git itself confirms are 
-# byte-identical - causing "no common baseline" to be reported 
-# incorrectly. 
+# PowerShell's native `$var = & git ...` capture, to preserve 
+# exact byte/line-ending fidelity for hashing. 
 # 
 # Relative Markdown links/images and multi-segment WikiLinks 
 # are automatically re-based whenever content crosses the 
 # directory-level boundary between F\ReadMe.md and F.md, so 
 # links keep pointing at the same target file. Rooted paths 
-# ("/...") are left untouched, since they reference a fixed 
-# root that does not shift with the directory-level change. 
+# ("/...") are left untouched. 
 # 
-# The common-ancestor search checks history in TWO ways: 
-#   1. A literal (untranslated) match - catches a baseline 
-#      that was committed as a raw, byte-for-byte duplicate 
-#      (see Initialize-CommonBaselineWithCompanion below). 
-#   2. A link-frame-translated match - catches a baseline 
-#      whose non-rooted links were adjusted for its own 
-#      directory level before being committed. 
+# The common-ancestor search checks history in TWO ways: a 
+# literal (untranslated) match, then a link-frame-translated 
+# match. 
 # 
-# If NO common baseline exists yet (the two files have never 
-# shared identical content, in either sense above), a real 
-# 3-way merge would have no usable anchor points and would 
-# conflict across the entire file. Instead of attempting that, 
-# a common baseline is bootstrapped: ReadMe.md is overwritten 
-# with a literal, raw copy of the companion file's current 
-# content and committed - this becomes a real, discoverable 
-# common ancestor for every future run. ReadMe.md is then 
-# overwritten again with the properly link-adjusted version, 
-# left UNCOMMITTED so it can be reviewed before you commit it 
-# yourself. If the working tree already matches HEAD (i.e. this 
-# bootstrap was already performed), the commit step is treated 
-# as already-satisfied rather than as a failure. 
+# If NO common baseline exists in EITHER file's committed 
+# history (a "already identical" working-tree match does NOT 
+# count - it can exist transiently without ever being 
+# committed on both sides), a common baseline is bootstrapped 
+# on BOTH sides: 
+#   1. ReadMe.md (sub-repo) is overwritten with a literal, raw 
+#      copy of the companion's current content and committed. 
+#   2. The companion file itself (parent repo) is committed 
+#      as-is if it has any uncommitted changes, so its OWN 
+#      history also contains this exact content - without 
+#      this second commit, the baseline would only ever exist 
+#      on one side and this bootstrap would keep re-triggering 
+#      every time the companion file is edited again. 
+#   3. ReadMe.md is then overwritten a second time with the 
+#      link-adjusted version and left UNCOMMITTED for review. 
 # 
 # If a common baseline DOES exist, a genuine 3-way merge is 
-# performed via git merge-file. If that merge produces conflict 
-# markers, the conflict is also registered in each repository's 
-# index (stages 1/2/3), so `git status` (and GUI tools such as 
-# TortoiseGitMerge) correctly report the file as unmerged (UU). 
-# Index records are written by sending raw UTF-8 bytes directly 
-# to `git update-index --index-info`'s stdin via .NET's Process 
-# class, for the same reason described above. 
+# performed via git merge-file. On conflict, it is registered 
+# in each repository's index (stages 1/2/3) via raw UTF-8 bytes 
+# written directly to `git update-index --index-info`'s stdin, 
+# so `git status`/TortoiseGitMerge report it as unmerged (UU). 
 # 
-# Other than the bootstrap commit described above, no 
+# Other than the bootstrap commits described above, no 
 # git add / git commit is performed - this script only updates 
 # working-tree files and (on conflict) index stage entries. 
 # ============================================================ 
@@ -64,8 +54,6 @@ $parent_directory = Get-Location
 
 # ------------------------------------------------------------ 
 # Detects an in-progress rebase without modifying repo state. 
-# Folders in this state are skipped rather than force-aborted, 
-# so no in-progress rebase work is ever discarded. 
 # ------------------------------------------------------------ 
 function Test-IsRebaseInProgress([string]$repoPath) { 
     $gitDir = Join-Path $repoPath ".git" 
@@ -81,8 +69,7 @@ function Test-HasConflicts {
 } 
 
 # ------------------------------------------------------------ 
-# Computes a SHA-256 hash of a text string, used to compare 
-# file *content* across two unrelated Git histories. 
+# Computes a SHA-256 hash of a text string. 
 # ------------------------------------------------------------ 
 function Get-ContentHash([string]$text) { 
     $bytes     = [System.Text.Encoding]::UTF8.GetBytes($text) 
@@ -94,8 +81,8 @@ function Get-ContentHash([string]$text) {
 # Runs a git command and captures its stdout as an exact, 
 # byte-faithful UTF-8 string, using .NET's Process class 
 # directly rather than PowerShell's `$var = & git ...` native 
-# capture. See the header comment at the top of this file for 
-# why this matters. 
+# capture (which discards original line-terminator bytes and 
+# can silently alter content hashes). 
 # ------------------------------------------------------------ 
 function Invoke-GitCaptureRawText([string]$argumentString, [string]$workingDirectory) { 
     $startInfo = [System.Diagnostics.ProcessStartInfo]::new() 
@@ -123,11 +110,6 @@ function Invoke-GitCaptureRawText([string]$argumentString, [string]$workingDirec
 # ------------------------------------------------------------ 
 # Reads the full commit history of a single file within a 
 # repo and returns, per version (newest first): Hash, Text. 
-# File content at each commit is captured via 
-# Invoke-GitCaptureRawText for exact byte fidelity. Hashes here 
-# are of the RAW, untranslated text; callers that need to 
-# compare across two different directory frames must first run 
-# this through Convert-VersionHistoryToFrame. 
 # ------------------------------------------------------------ 
 function Get-FileVersionHistory([string]$repoPath, [string]$relativeFile) { 
     $commitListResult = Invoke-GitCaptureRawText "log --format=%H -- `"$relativeFile`"" $repoPath 
@@ -148,9 +130,7 @@ function Get-FileVersionHistory([string]$repoPath, [string]$relativeFile) {
 
 # ------------------------------------------------------------ 
 # Returns $true when $text already contains Git conflict 
-# markers. Used to guard against treating a not-yet-resolved 
-# conflicted file as clean input to a new merge or history 
-# scan, which would otherwise nest markers inside markers. 
+# markers. 
 # ------------------------------------------------------------ 
 function Test-ContainsConflictMarkers([string]$text) { 
     return $text -match '(?m)^(<{7}|={7}|>{7})' 
@@ -160,12 +140,8 @@ function Test-ContainsConflictMarkers([string]$text) {
 # Scans two independent version histories and returns the text 
 # of the most recent version with an identical content hash in 
 # both, skipping any version that already contains conflict 
-# markers. Returns $null if none was found. 
-# 
-# Both histories passed in must already be expressed in 
-# whichever single frame of reference the caller wants compared 
-# (either both raw/native, or both translated - see 
-# Convert-VersionHistoryToFrame). 
+# markers. Returns $null if none was found. Both histories must 
+# already be expressed in the same frame of reference. 
 # ------------------------------------------------------------ 
 function Find-LastCommonVersionText($historyA, $historyB) { 
     foreach ($versionA in $historyA) { 
@@ -182,11 +158,6 @@ function Find-LastCommonVersionText($historyA, $historyB) {
 
 # ------------------------------------------------------------ 
 # Returns $true for a path that is rooted (starts with "/"). 
-# Rooted paths are assumed to reference a fixed root (e.g. an 
-# Obsidian vault root) that does not shift when content moves 
-# between F\ReadMe.md and F.md, so they must NEVER be rewritten 
-# by Convert-RelativeLink - only non-rooted (relative) paths 
-# are adjusted for the directory-level change. 
 # ------------------------------------------------------------ 
 function Test-IsRootedPath([string]$path) { 
     return $path.StartsWith('/') 
@@ -194,10 +165,7 @@ function Test-IsRootedPath([string]$path) {
 
 # ------------------------------------------------------------ 
 # Returns $true for links that must NOT be rewritten because 
-# they are not a plain filesystem-relative path at all: a URL 
-# scheme (http:, mailto:, obsidian:, ...), or a same-document 
-# anchor (starting with #). Rooted paths ("/...") are handled 
-# separately by Test-IsRootedPath. 
+# they are a URL scheme or a same-document anchor. 
 # ------------------------------------------------------------ 
 function Test-IsLinkExempt([string]$path) { 
     return $path -match '^([a-zA-Z][a-zA-Z0-9+.\-]*:|#)' 
@@ -205,9 +173,7 @@ function Test-IsLinkExempt([string]$path) {
 
 # ------------------------------------------------------------ 
 # Computes the relative path from $fromDir to $toPath using 
-# System.Uri, which works in both Windows PowerShell 5.1 
-# (.NET Framework) and PowerShell 7+ (.NET), unlike 
-# [System.IO.Path]::GetRelativePath() which needs .NET Core. 
+# System.Uri (works in both PS 5.1 and PS 7+). 
 # ------------------------------------------------------------ 
 function Get-RelativePath([string]$fromDir, [string]$toPath) { 
     $fromUri  = [System.Uri]("$($fromDir.TrimEnd('\','/'))/") 
@@ -219,9 +185,6 @@ function Get-RelativePath([string]$fromDir, [string]$toPath) {
 # ------------------------------------------------------------ 
 # Rewrites a single relative link path so that, when moved from 
 # $sourceDir to $targetDir, it still resolves to the same file. 
-# A trailing "#anchor" is preserved untouched. Rooted paths 
-# ("/...") and non-path links (URLs, anchors) are returned 
-# unchanged - only genuine relative paths are re-based. 
 # ------------------------------------------------------------ 
 function Convert-RelativeLink([string]$linkPath, [string]$sourceDir, [string]$targetDir) { 
     if ([string]::IsNullOrWhiteSpace($linkPath) -or (Test-IsRootedPath $linkPath) -or (Test-IsLinkExempt $linkPath)) { 
@@ -245,13 +208,9 @@ function Convert-RelativeLink([string]$linkPath, [string]$sourceDir, [string]$ta
 } 
 
 # ------------------------------------------------------------ 
-# Rewrites every relative Markdown link/image (`[text](path)`, 
-# `![alt](path)`) and every multi-segment WikiLink 
-# (`[[folder/page]]`, `[[folder/page|alias]]`) in $text so 
-# links keep pointing at the same target after content moves 
-# from $sourceDir to $targetDir. Rooted paths (starting with 
-# "/") and single-segment WikiLinks (e.g. `[[Page]]`) are left 
-# untouched. 
+# Rewrites every relative Markdown link/image and every multi- 
+# segment WikiLink in $text for a directory-level move from 
+# $sourceDir to $targetDir. 
 # ------------------------------------------------------------ 
 function Convert-RelativeLinksInText([string]$text, [string]$sourceDir, [string]$targetDir) { 
 
@@ -275,10 +234,7 @@ function Convert-RelativeLinksInText([string]$text, [string]$sourceDir, [string]
 
 # ------------------------------------------------------------ 
 # Translates every version in a file-history list into a 
-# different directory frame of reference (via 
-# Convert-RelativeLinksInText) and recomputes each version's 
-# content hash accordingly. Required before comparing two 
-# histories that natively live in different frames. 
+# different directory frame of reference and recomputes hashes. 
 # ------------------------------------------------------------ 
 function Convert-VersionHistoryToFrame($history, [string]$sourceDir, [string]$targetDir) { 
     return $history | ForEach-Object { 
@@ -292,8 +248,7 @@ function Convert-VersionHistoryToFrame($history, [string]$sourceDir, [string]$ta
 
 # ------------------------------------------------------------ 
 # Writes $text to a repo's object database as a blob and 
-# returns its object hash. Assumes the caller has already set 
-# the current location to the target repository. 
+# returns its object hash. 
 # ------------------------------------------------------------ 
 function Write-GitBlob([string]$text) { 
     $tempFile = New-TemporaryFile 
@@ -306,16 +261,10 @@ function Write-GitBlob([string]$text) {
 } 
 
 # ------------------------------------------------------------ 
-# Runs `git update-index --index-info` in $workingDirectory, 
-# feeding it $lines (each already in the exact format Git 
-# expects, WITHOUT a trailing newline) by writing raw UTF-8 
-# bytes directly to the child process's stdin stream via .NET's 
-# Process class - this bypasses PowerShell's normal 
-# `string | native-exe` pipeline, which was found to corrupt or 
-# misencode the input in this environment. 
-# 
-# Returns $true if git exits with code 0; on failure, prints 
-# git's stderr output for diagnosis. 
+# Runs `git update-index --index-info`, feeding $lines by 
+# writing raw UTF-8 bytes directly to the child process's stdin 
+# stream via .NET's Process class, bypassing PowerShell's 
+# native `string | native-exe` pipeline. 
 # ------------------------------------------------------------ 
 function Invoke-GitUpdateIndexInfo([string[]]$lines, [string]$workingDirectory) { 
 
@@ -352,14 +301,8 @@ function Invoke-GitUpdateIndexInfo([string[]]$lines, [string]$workingDirectory) 
 
 # ------------------------------------------------------------ 
 # Registers a merge conflict for $fileNameInRepoDir directly 
-# in $repoPath's index, so `git status` (and GUI tools such as 
-# TortoiseGitMerge) report it as unmerged (UU) rather than as 
-# a delete/modify or malformed conflict caused by missing or 
-# malformed stage entries. All index-info lines are sent in a 
-# single Invoke-GitUpdateIndexInfo call. 
-# 
-# $baseText, $oursText and $theirsText must already be 
-# expressed in $repoPath's own directory frame. 
+# in $repoPath's index (stages 1/2/3), so `git status`/ 
+# TortoiseGitMerge report it as unmerged (UU). 
 # ------------------------------------------------------------ 
 function Register-ConflictInIndex([string]$repoPath, [string]$fileNameInRepoDir, [string]$baseText, [string]$oursText, [string]$theirsText) { 
 
@@ -398,25 +341,14 @@ function Register-ConflictInIndex([string]$repoPath, [string]$fileNameInRepoDir,
 
 # ------------------------------------------------------------ 
 # Bootstraps a common baseline for a sub-repo/companion pair 
-# that has never shared identical content: ReadMe.md is 
-# overwritten with a literal, RAW copy of the companion file's 
-# current content and committed in the sub-repo - this commit 
-# becomes a real, discoverable common ancestor for every future 
-# run of this script (matched via the literal/untranslated 
-# comparison in Merge-ReadmeWithCompanion). 
-# 
-# If the working tree already matches HEAD (i.e. this bootstrap 
-# was already performed in a prior run), `git commit` reporting 
-# "nothing to commit" is treated as an already-satisfied state, 
-# not a failure. 
-# 
-# ReadMe.md is then overwritten a second time with 
-# $companionTranslatedText (the same content with non-rooted 
-# links adjusted for the sub-repo's own directory level) and 
-# left UNCOMMITTED, so the corrected result can be reviewed 
-# before being committed. 
+# that has never shared identical COMMITTED content. Commits 
+# the same content on BOTH sides (sub-repo's ReadMe.md, AND 
+# the parent repo's companion file itself) so a real, 
+# discoverable common ancestor exists in both histories - 
+# without committing both sides, this bootstrap would keep 
+# re-triggering every time the companion file is edited again. 
 # ------------------------------------------------------------ 
-function Initialize-CommonBaselineWithCompanion([string]$subRepoDirectory, [string]$readmePath, [string]$companionRawText, [string]$companionTranslatedText, [string]$subFolderName) { 
+function Initialize-CommonBaselineWithCompanion([string]$subRepoDirectory, [string]$readmePath, [string]$companionRawText, [string]$companionTranslatedText, [string]$parentOfSubRepo, [string]$companionPath, [string]$subFolderName) { 
 
     Push-Location $subRepoDirectory 
     try { 
@@ -430,7 +362,7 @@ function Initialize-CommonBaselineWithCompanion([string]$subRepoDirectory, [stri
 
         $stagedChanges = git diff --cached --name-only 
         if ([string]::IsNullOrWhiteSpace($stagedChanges)) { 
-            Write-Host "  ReadMe.md already matches $subFolderName.md at HEAD - baseline commit already exists" -ForegroundColor Cyan 
+            Write-Host "  ReadMe.md already matches $subFolderName.md at HEAD (sub-repo side already has a baseline commit)" -ForegroundColor Cyan 
         } else { 
             git commit -m "Establish common baseline with $subFolderName.md (no prior shared history existed)" 
             if ($LASTEXITCODE -ne 0) { 
@@ -439,25 +371,46 @@ function Initialize-CommonBaselineWithCompanion([string]$subRepoDirectory, [stri
             } 
             Write-Host "  Committed a raw copy of $subFolderName.md as ReadMe.md's new baseline commit" -ForegroundColor Cyan 
         } 
-
-        Set-Content -Path $readmePath -Value $companionTranslatedText -NoNewline -Encoding utf8 
-        Write-Host "  Re-applied non-rooted link adjustments on top of the new baseline (left uncommitted for your review)" -ForegroundColor Cyan 
     } finally { 
         Pop-Location 
     } 
+
+    # Ensure the companion file's OWN history also contains this exact 
+    # content, committing it in the PARENT repo if it currently differs 
+    # from HEAD. Without this, only the sub-repo side would ever have a 
+    # matching commit, and this bootstrap would keep re-triggering on 
+    # every future edit to the companion file. 
+    Push-Location $parentOfSubRepo 
+    try { 
+        $companionStatus = git status --porcelain -- "$subFolderName.md" 
+        if ([string]::IsNullOrWhiteSpace($companionStatus)) { 
+            Write-Host "  $subFolderName.md already has this content committed at HEAD (parent-repo side already has a baseline commit)" -ForegroundColor Cyan 
+        } else { 
+            git add "$subFolderName.md" 
+            if ($LASTEXITCODE -ne 0) { 
+                Write-Host "  Failed to stage $subFolderName.md for the baseline commit (exit $LASTEXITCODE)" -ForegroundColor Red 
+                return 
+            } 
+            git commit -m "Establish common baseline with ReadMe.md ($subFolderName) (no prior shared history existed)" 
+            if ($LASTEXITCODE -ne 0) { 
+                Write-Host "  Failed to commit the baseline copy of $subFolderName.md (exit $LASTEXITCODE) - resolve manually before re-running" -ForegroundColor Red 
+                return 
+            } 
+            Write-Host "  Committed $subFolderName.md's current content as its baseline commit" -ForegroundColor Cyan 
+        } 
+    } finally { 
+        Pop-Location 
+    } 
+
+    Set-Content -Path $readmePath -Value $companionTranslatedText -NoNewline -Encoding utf8 
+    Write-Host "  Re-applied non-rooted link adjustments on top of the new baseline (left uncommitted for your review)" -ForegroundColor Cyan 
 } 
 
 # ------------------------------------------------------------ 
-# Merges F\ReadMe.md with the parent folder's F.md. The common- 
-# ancestor search first checks for a literal (untranslated) 
-# match, then falls back to a link-frame-translated match. If 
-# no common baseline exists in either sense, one is bootstrapped 
-# via Initialize-CommonBaselineWithCompanion instead of 
-# attempting a whole-file merge. If a common baseline exists, a 
-# genuine 3-way merge is performed via git merge-file; on 
-# conflict, it is registered in both repositories' indexes via 
-# Register-ConflictInIndex, using base/ours/theirs text 
-# translated into each repo's own frame. 
+# Merges F\ReadMe.md with the parent folder's F.md. See the 
+# header comment at the top of this file for the full decision 
+# logic (already-identical short-circuit, literal/translated 
+# history search, bootstrap-on-both-sides, or real 3-way merge). 
 # ------------------------------------------------------------ 
 function Merge-ReadmeWithCompanion([string]$subRepoDirectory, [string]$parentOfSubRepo, [string]$subFolderName) { 
 
@@ -499,9 +452,6 @@ function Merge-ReadmeWithCompanion([string]$subRepoDirectory, [string]$parentOfS
         return 
     } 
 
-    # Translate the companion's non-rooted links into ReadMe.md's frame 
-    # up front, and reuse this single translation for the "already 
-    # identical" check, the bootstrap path, and the merge-file input. 
     $companionTextInReadmeFrame = Convert-RelativeLinksInText $companionOriginalText $parentOfSubRepo $subRepoDirectory 
 
     if ($readmeOriginalText -eq $companionTextInReadmeFrame) { 
@@ -512,24 +462,19 @@ function Merge-ReadmeWithCompanion([string]$subRepoDirectory, [string]$parentOfS
     $readmeHistory       = Get-FileVersionHistory $subRepoDirectory "ReadMe.md" 
     $companionHistoryRaw = Get-FileVersionHistory $parentOfSubRepo "$subFolderName.md" 
 
-    # First, check for a LITERAL match - catches a baseline that was 
-    # committed as a raw, untranslated duplicate. 
     $commonBaseText = Find-LastCommonVersionText $readmeHistory $companionHistoryRaw 
 
     if ($null -eq $commonBaseText) { 
-        # Fall back to a link-frame-TRANSLATED match, for baselines 
-        # that were committed already link-adjusted. 
         $companionHistoryInReadmeFrame = Convert-VersionHistoryToFrame $companionHistoryRaw $parentOfSubRepo $subRepoDirectory 
         $commonBaseText = Find-LastCommonVersionText $readmeHistory $companionHistoryInReadmeFrame 
     } 
 
     if ($null -eq $commonBaseText) { 
         Write-Host "  No common baseline found - bootstrapping one from $subFolderName.md instead of attempting a whole-file merge" -ForegroundColor Yellow 
-        Initialize-CommonBaselineWithCompanion $subRepoDirectory $readmePath $companionOriginalText $companionTextInReadmeFrame $subFolderName 
+        Initialize-CommonBaselineWithCompanion $subRepoDirectory $readmePath $companionOriginalText $companionTextInReadmeFrame $parentOfSubRepo $companionPath $subFolderName 
         return 
     } 
 
-    # A real common baseline exists - proceed with a genuine 3-way merge. 
     $baseFile  = New-TemporaryFile 
     $otherFile = New-TemporaryFile 
     Set-Content -Path $baseFile  -Value $commonBaseText              -NoNewline -Encoding utf8 
@@ -544,9 +489,6 @@ function Merge-ReadmeWithCompanion([string]$subRepoDirectory, [string]$parentOfS
 
         $mergeExitCode = $LASTEXITCODE 
 
-        # Translate the merged/conflicted result back into the parent 
-        # folder's frame of reference before writing it to F.md, so both 
-        # files show the identical conflict for manual resolution. 
         $mergedTextInParentFrame = Convert-RelativeLinksInText (Get-Content $readmePath -Raw) $subRepoDirectory $parentOfSubRepo 
         Set-Content -Path $companionPath -Value $mergedTextInParentFrame -NoNewline -Encoding utf8 
 
