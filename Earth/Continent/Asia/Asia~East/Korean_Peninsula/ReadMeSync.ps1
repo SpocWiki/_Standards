@@ -8,10 +8,25 @@
 # comparing file *content* hashes across both histories 
 # rather than comparing commit IDs. 
 # 
+# All text read from disk or from git history has any leading 
+# UTF-8 BOM (U+FEFF) stripped, and all line endings normalized 
+# to "\n" via Convert-ToUnixLineEndings, before being hashed or 
+# compared. Git's core.autocrlf setting can differ between 
+# repositories and silently rewrite line endings on 
+# add/commit/checkout, which was found to make two working- 
+# tree-identical files hash differently once committed. Every 
+# git add / git commit / git hash-object call in this script 
+# is run with "-c core.autocrlf=false" so Git commits exactly 
+# the bytes this script wrote, without re-applying its own 
+# conversion on top. 
+# 
+# All text written to disk uses Set-FileContentUtf8NoBom (raw 
+# UTF-8, no BOM, no forced line-ending conversion by Git). 
+# 
 # Historical file content is read via Invoke-GitCaptureRawText, 
 # which uses .NET's Process class directly instead of 
 # PowerShell's native `$var = & git ...` capture, to preserve 
-# exact byte/line-ending fidelity for hashing. 
+# exact byte fidelity before normalization. 
 # 
 # Relative Markdown links/images and multi-segment WikiLinks 
 # are automatically re-based whenever content crosses the 
@@ -24,18 +39,12 @@
 # match. 
 # 
 # If NO common baseline exists in EITHER file's committed 
-# history (a "already identical" working-tree match does NOT 
-# count - it can exist transiently without ever being 
-# committed on both sides), a common baseline is bootstrapped 
-# on BOTH sides: 
+# history, a common baseline is bootstrapped on BOTH sides: 
 #   1. ReadMe.md (sub-repo) is overwritten with a literal, raw 
 #      copy of the companion's current content and committed. 
 #   2. The companion file itself (parent repo) is committed 
 #      as-is if it has any uncommitted changes, so its OWN 
-#      history also contains this exact content - without 
-#      this second commit, the baseline would only ever exist 
-#      on one side and this bootstrap would keep re-triggering 
-#      every time the companion file is edited again. 
+#      history also contains this exact content. 
 #   3. ReadMe.md is then overwritten a second time with the 
 #      link-adjusted version and left UNCOMMITTED for review. 
 # 
@@ -69,6 +78,50 @@ function Test-HasConflicts {
 } 
 
 # ------------------------------------------------------------ 
+# Removes a leading UTF-8 BOM character (U+FEFF), if present. 
+# ------------------------------------------------------------ 
+function Remove-Utf8Bom([string]$text) { 
+    if ($text.Length -gt 0 -and [int][char]$text[0] -eq 0xFEFF) { 
+        return $text.Substring(1) 
+    } 
+    return $text 
+} 
+
+# ------------------------------------------------------------ 
+# Normalizes all line endings in $text to a single "\n". See 
+# the header comment at the top of this file for why this is 
+# necessary. 
+# ------------------------------------------------------------ 
+function Convert-ToUnixLineEndings([string]$text) { 
+    return ($text -replace "`r`n", "`n") -replace "`r", "`n" 
+} 
+
+# ------------------------------------------------------------ 
+# Applies both normalizations (BOM removal, then line-ending 
+# normalization) that every piece of text handled by this 
+# script must go through before being hashed or compared. 
+# ------------------------------------------------------------ 
+function Normalize-TextForComparison([string]$text) { 
+    return Convert-ToUnixLineEndings (Remove-Utf8Bom $text) 
+} 
+
+# ------------------------------------------------------------ 
+# Writes $text to $path as UTF-8 WITHOUT a byte-order mark, via 
+# .NET's File.WriteAllText directly. 
+# ------------------------------------------------------------ 
+function Set-FileContentUtf8NoBom([string]$path, [string]$text) { 
+    $utf8NoBom = New-Object System.Text.UTF8Encoding($false) 
+    [System.IO.File]::WriteAllText($path, $text, $utf8NoBom) 
+} 
+
+# ------------------------------------------------------------ 
+# Reads $path as text and normalizes it (BOM + line endings). 
+# ------------------------------------------------------------ 
+function Get-FileContentNoBom([string]$path) { 
+    return Normalize-TextForComparison (Get-Content -Path $path -Raw) 
+} 
+
+# ------------------------------------------------------------ 
 # Computes a SHA-256 hash of a text string. 
 # ------------------------------------------------------------ 
 function Get-ContentHash([string]$text) { 
@@ -81,8 +134,7 @@ function Get-ContentHash([string]$text) {
 # Runs a git command and captures its stdout as an exact, 
 # byte-faithful UTF-8 string, using .NET's Process class 
 # directly rather than PowerShell's `$var = & git ...` native 
-# capture (which discards original line-terminator bytes and 
-# can silently alter content hashes). 
+# capture, then normalizes it (BOM + line endings). 
 # ------------------------------------------------------------ 
 function Invoke-GitCaptureRawText([string]$argumentString, [string]$workingDirectory) { 
     $startInfo = [System.Diagnostics.ProcessStartInfo]::new() 
@@ -102,7 +154,7 @@ function Invoke-GitCaptureRawText([string]$argumentString, [string]$workingDirec
 
     return [PSCustomObject]@{ 
         ExitCode = $process.ExitCode 
-        Output   = $outputText 
+        Output   = (Normalize-TextForComparison $outputText) 
         Error    = $errorText 
     } 
 } 
@@ -113,7 +165,7 @@ function Invoke-GitCaptureRawText([string]$argumentString, [string]$workingDirec
 # ------------------------------------------------------------ 
 function Get-FileVersionHistory([string]$repoPath, [string]$relativeFile) { 
     $commitListResult = Invoke-GitCaptureRawText "log --format=%H -- `"$relativeFile`"" $repoPath 
-    $commits = $commitListResult.Output -split "`r?`n" | Where-Object { $_ -ne "" } 
+    $commits = $commitListResult.Output -split "`n" | Where-Object { $_ -ne "" } 
 
     $history = @() 
     foreach ($commit in $commits) { 
@@ -140,8 +192,7 @@ function Test-ContainsConflictMarkers([string]$text) {
 # Scans two independent version histories and returns the text 
 # of the most recent version with an identical content hash in 
 # both, skipping any version that already contains conflict 
-# markers. Returns $null if none was found. Both histories must 
-# already be expressed in the same frame of reference. 
+# markers. Returns $null if none was found. 
 # ------------------------------------------------------------ 
 function Find-LastCommonVersionText($historyA, $historyB) { 
     foreach ($versionA in $historyA) { 
@@ -248,13 +299,15 @@ function Convert-VersionHistoryToFrame($history, [string]$sourceDir, [string]$ta
 
 # ------------------------------------------------------------ 
 # Writes $text to a repo's object database as a blob and 
-# returns its object hash. 
+# returns its object hash. --no-filters skips any clean/ 
+# autocrlf filter Git might otherwise apply, so the blob 
+# contains exactly the bytes passed in. 
 # ------------------------------------------------------------ 
 function Write-GitBlob([string]$text) { 
     $tempFile = New-TemporaryFile 
     try { 
-        Set-Content -Path $tempFile -Value $text -NoNewline -Encoding utf8 
-        return (git hash-object -w $tempFile).Trim() 
+        Set-FileContentUtf8NoBom $tempFile.FullName $text 
+        return (git hash-object -w --no-filters $tempFile).Trim() 
     } finally { 
         Remove-Item $tempFile -ErrorAction SilentlyContinue 
     } 
@@ -342,19 +395,18 @@ function Register-ConflictInIndex([string]$repoPath, [string]$fileNameInRepoDir,
 # ------------------------------------------------------------ 
 # Bootstraps a common baseline for a sub-repo/companion pair 
 # that has never shared identical COMMITTED content. Commits 
-# the same content on BOTH sides (sub-repo's ReadMe.md, AND 
-# the parent repo's companion file itself) so a real, 
-# discoverable common ancestor exists in both histories - 
-# without committing both sides, this bootstrap would keep 
-# re-triggering every time the companion file is edited again. 
+# the same content on BOTH sides so a real, discoverable common 
+# ancestor exists in both histories. Every git add/commit call 
+# uses "-c core.autocrlf=false" so Git commits exactly the 
+# normalized bytes this script wrote. 
 # ------------------------------------------------------------ 
 function Initialize-CommonBaselineWithCompanion([string]$subRepoDirectory, [string]$readmePath, [string]$companionRawText, [string]$companionTranslatedText, [string]$parentOfSubRepo, [string]$companionPath, [string]$subFolderName) { 
 
     Push-Location $subRepoDirectory 
     try { 
-        Set-Content -Path $readmePath -Value $companionRawText -NoNewline -Encoding utf8 
+        Set-FileContentUtf8NoBom $readmePath $companionRawText 
 
-        git add "ReadMe.md" 
+        git -c core.autocrlf=false add "ReadMe.md" 
         if ($LASTEXITCODE -ne 0) { 
             Write-Host "  Failed to stage ReadMe.md for the baseline commit (exit $LASTEXITCODE)" -ForegroundColor Red 
             return 
@@ -364,7 +416,7 @@ function Initialize-CommonBaselineWithCompanion([string]$subRepoDirectory, [stri
         if ([string]::IsNullOrWhiteSpace($stagedChanges)) { 
             Write-Host "  ReadMe.md already matches $subFolderName.md at HEAD (sub-repo side already has a baseline commit)" -ForegroundColor Cyan 
         } else { 
-            git commit -m "Establish common baseline with $subFolderName.md (no prior shared history existed)" 
+            git -c core.autocrlf=false commit -m "Establish common baseline with $subFolderName.md (no prior shared history existed)" 
             if ($LASTEXITCODE -ne 0) { 
                 Write-Host "  Failed to commit the baseline copy of ReadMe.md (exit $LASTEXITCODE) - resolve manually before re-running" -ForegroundColor Red 
                 return 
@@ -375,23 +427,18 @@ function Initialize-CommonBaselineWithCompanion([string]$subRepoDirectory, [stri
         Pop-Location 
     } 
 
-    # Ensure the companion file's OWN history also contains this exact 
-    # content, committing it in the PARENT repo if it currently differs 
-    # from HEAD. Without this, only the sub-repo side would ever have a 
-    # matching commit, and this bootstrap would keep re-triggering on 
-    # every future edit to the companion file. 
     Push-Location $parentOfSubRepo 
     try { 
         $companionStatus = git status --porcelain -- "$subFolderName.md" 
         if ([string]::IsNullOrWhiteSpace($companionStatus)) { 
             Write-Host "  $subFolderName.md already has this content committed at HEAD (parent-repo side already has a baseline commit)" -ForegroundColor Cyan 
         } else { 
-            git add "$subFolderName.md" 
+            git -c core.autocrlf=false add "$subFolderName.md" 
             if ($LASTEXITCODE -ne 0) { 
                 Write-Host "  Failed to stage $subFolderName.md for the baseline commit (exit $LASTEXITCODE)" -ForegroundColor Red 
                 return 
             } 
-            git commit -m "Establish common baseline with ReadMe.md ($subFolderName) (no prior shared history existed)" 
+            git -c core.autocrlf=false commit -m "Establish common baseline with ReadMe.md ($subFolderName) (no prior shared history existed)" 
             if ($LASTEXITCODE -ne 0) { 
                 Write-Host "  Failed to commit the baseline copy of $subFolderName.md (exit $LASTEXITCODE) - resolve manually before re-running" -ForegroundColor Red 
                 return 
@@ -402,15 +449,14 @@ function Initialize-CommonBaselineWithCompanion([string]$subRepoDirectory, [stri
         Pop-Location 
     } 
 
-    Set-Content -Path $readmePath -Value $companionTranslatedText -NoNewline -Encoding utf8 
+    Set-FileContentUtf8NoBom $readmePath $companionTranslatedText 
     Write-Host "  Re-applied non-rooted link adjustments on top of the new baseline (left uncommitted for your review)" -ForegroundColor Cyan 
 } 
 
 # ------------------------------------------------------------ 
 # Merges F\ReadMe.md with the parent folder's F.md. See the 
 # header comment at the top of this file for the full decision 
-# logic (already-identical short-circuit, literal/translated 
-# history search, bootstrap-on-both-sides, or real 3-way merge). 
+# logic. 
 # ------------------------------------------------------------ 
 function Merge-ReadmeWithCompanion([string]$subRepoDirectory, [string]$parentOfSubRepo, [string]$subFolderName) { 
 
@@ -426,21 +472,21 @@ function Merge-ReadmeWithCompanion([string]$subRepoDirectory, [string]$parentOfS
     } 
 
     if ($readmeExists -and -not $companionExists) { 
-        $translated = Convert-RelativeLinksInText (Get-Content $readmePath -Raw) $subRepoDirectory $parentOfSubRepo 
-        Set-Content -Path $companionPath -Value $translated -NoNewline -Encoding utf8 
+        $translated = Convert-RelativeLinksInText (Get-FileContentNoBom $readmePath) $subRepoDirectory $parentOfSubRepo 
+        Set-FileContentUtf8NoBom $companionPath $translated 
         Write-Host "  Initialized $subFolderName.md from ReadMe.md (non-rooted links adjusted for directory level)" -ForegroundColor Cyan 
         return 
     } 
 
     if (-not $readmeExists -and $companionExists) { 
-        $translated = Convert-RelativeLinksInText (Get-Content $companionPath -Raw) $parentOfSubRepo $subRepoDirectory 
-        Set-Content -Path $readmePath -Value $translated -NoNewline -Encoding utf8 
+        $translated = Convert-RelativeLinksInText (Get-FileContentNoBom $companionPath) $parentOfSubRepo $subRepoDirectory 
+        Set-FileContentUtf8NoBom $readmePath $translated 
         Write-Host "  Initialized ReadMe.md from $subFolderName.md (non-rooted links adjusted for directory level)" -ForegroundColor Cyan 
         return 
     } 
 
-    $readmeOriginalText    = Get-Content $readmePath -Raw 
-    $companionOriginalText = Get-Content $companionPath -Raw 
+    $readmeOriginalText    = Get-FileContentNoBom $readmePath 
+    $companionOriginalText = Get-FileContentNoBom $companionPath 
 
     if (Test-ContainsConflictMarkers $readmeOriginalText) { 
         Write-Host "  Skipping (ReadMe.md already contains unresolved conflict markers - resolve manually first)" -ForegroundColor Red 
@@ -477,8 +523,8 @@ function Merge-ReadmeWithCompanion([string]$subRepoDirectory, [string]$parentOfS
 
     $baseFile  = New-TemporaryFile 
     $otherFile = New-TemporaryFile 
-    Set-Content -Path $baseFile  -Value $commonBaseText              -NoNewline -Encoding utf8 
-    Set-Content -Path $otherFile -Value $companionTextInReadmeFrame -NoNewline -Encoding utf8 
+    Set-FileContentUtf8NoBom $baseFile.FullName  $commonBaseText 
+    Set-FileContentUtf8NoBom $otherFile.FullName $companionTextInReadmeFrame 
 
     try { 
         & git merge-file `
@@ -489,8 +535,8 @@ function Merge-ReadmeWithCompanion([string]$subRepoDirectory, [string]$parentOfS
 
         $mergeExitCode = $LASTEXITCODE 
 
-        $mergedTextInParentFrame = Convert-RelativeLinksInText (Get-Content $readmePath -Raw) $subRepoDirectory $parentOfSubRepo 
-        Set-Content -Path $companionPath -Value $mergedTextInParentFrame -NoNewline -Encoding utf8 
+        $mergedTextInParentFrame = Convert-RelativeLinksInText (Get-FileContentNoBom $readmePath) $subRepoDirectory $parentOfSubRepo 
+        Set-FileContentUtf8NoBom $companionPath $mergedTextInParentFrame 
 
         if ($mergeExitCode -eq 0) { 
             Write-Host "  Merged ReadMe.md <-> $subFolderName.md without conflicts (non-rooted links re-based per file location)" -ForegroundColor Green 
