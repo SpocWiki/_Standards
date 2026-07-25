@@ -13,9 +13,16 @@
 # directory-level boundary between F\ReadMe.md and F.md, so 
 # links keep pointing at the same target file. 
 # 
-# No git add / git commit is performed - this script only 
-# updates the working-tree files (and leaves conflict markers 
-# in place when a 3-way merge cannot be resolved cleanly). 
+# When git merge-file cannot resolve a merge cleanly, the 
+# conflict is also registered in each repository's index 
+# (stages 1/2/3) via git update-index --index-info, so 
+# `git status` correctly reports the file as unmerged (UU) 
+# in both the sub-repo and the parent repo, instead of as an 
+# ordinary modification. 
+# 
+# No git add / git commit is performed otherwise - this 
+# script only updates the working-tree files and (on 
+# conflict) the index stage entries. 
 # ============================================================ 
 
 $parent_directory = Get-Location 
@@ -171,11 +178,73 @@ function Convert-RelativeLinksInText([string]$text, [string]$sourceDir, [string]
 } 
 
 # ------------------------------------------------------------ 
+# Writes $text to a repo's object database as a blob and 
+# returns its object hash. Assumes the caller has already set 
+# the current location to the target repository. 
+# ------------------------------------------------------------ 
+function Write-GitBlob([string]$text) { 
+    $tempFile = New-TemporaryFile 
+    try { 
+        Set-Content -Path $tempFile -Value $text -NoNewline 
+        return (git hash-object -w $tempFile).Trim() 
+    } finally { 
+        Remove-Item $tempFile -ErrorAction SilentlyContinue 
+    } 
+} 
+
+# ------------------------------------------------------------ 
+# Registers a 3-way merge conflict for $fileNameInRepoDir 
+# directly in $repoPath's index (stages 1/2/3), so `git 
+# status` reports it as unmerged (UU) even though it was 
+# never processed by `git merge`. 
+# 
+# $fileNameInRepoDir must be the file's name relative to 
+# $repoPath itself; the path relative to the repo's top level 
+# is computed automatically via `git rev-parse --show-prefix`, 
+# since $repoPath is not guaranteed to be the repo root. 
+# ------------------------------------------------------------ 
+function Register-ConflictInIndex([string]$repoPath, [string]$fileNameInRepoDir, [string]$baseText, [string]$oursText, [string]$theirsText) { 
+
+    Push-Location $repoPath 
+    try { 
+        $insideWorkTree = (git rev-parse --is-inside-work-tree 2>$null) 
+        if ($LASTEXITCODE -ne 0 -or $insideWorkTree -ne 'true') { 
+            Write-Host "  Skipping index conflict registration for $fileNameInRepoDir ($repoPath is not inside a git work tree)" -ForegroundColor Yellow 
+            return 
+        } 
+
+        $prefix           = (git rev-parse --show-prefix 2>$null) 
+        $repoRelativePath = (($prefix + $fileNameInRepoDir) -replace '\\', '/') 
+
+        $baseHash   = Write-GitBlob $baseText 
+        $oursHash   = Write-GitBlob $oursText 
+        $theirsHash = Write-GitBlob $theirsText 
+
+        $indexInfo = @( 
+            "100644 $baseHash 1`t$repoRelativePath" 
+            "100644 $oursHash 2`t$repoRelativePath" 
+            "100644 $theirsHash 3`t$repoRelativePath" 
+        ) -join "`n" 
+
+        $indexInfo | git update-index --index-info 
+
+        if ($LASTEXITCODE -eq 0) { 
+            Write-Host "  Registered $repoRelativePath as unmerged (UU) in $repoPath" -ForegroundColor Red 
+        } else { 
+            Write-Host "  Failed to register $repoRelativePath as unmerged in $repoPath" -ForegroundColor Red 
+        } 
+    } finally { 
+        Pop-Location 
+    } 
+} 
+
+# ------------------------------------------------------------ 
 # Merges F\ReadMe.md with the parent folder's F.md using a 
-# 3-way merge (git merge-file). Before/after crossing the 
-# directory-level boundary, relative links are re-based via 
-# Convert-RelativeLinksInText so they keep resolving correctly 
-# in their new location. 
+# 3-way merge (git merge-file). Relative links are re-based 
+# via Convert-RelativeLinksInText whenever content crosses the 
+# directory-level boundary. If the merge produces conflict 
+# markers, the conflict is additionally registered in both 
+# repositories' indexes via Register-ConflictInIndex. 
 # ------------------------------------------------------------ 
 function Merge-ReadmeWithCompanion([string]$subRepoDirectory, [string]$parentOfSubRepo, [string]$subFolderName) { 
 
@@ -204,7 +273,10 @@ function Merge-ReadmeWithCompanion([string]$subRepoDirectory, [string]$parentOfS
         return 
     } 
 
-    if ((Get-Content $readmePath -Raw) -eq (Get-Content $companionPath -Raw)) { 
+    $readmeOriginalText    = Get-Content $readmePath -Raw 
+    $companionOriginalText = Get-Content $companionPath -Raw 
+
+    if ($readmeOriginalText -eq $companionOriginalText) { 
         Write-Host "  ReadMe.md and $subFolderName.md are already identical" -ForegroundColor Green 
         return 
     } 
@@ -219,11 +291,10 @@ function Merge-ReadmeWithCompanion([string]$subRepoDirectory, [string]$parentOfS
         $commonBaseText = "" 
     } 
 
-    # The companion file's links are expressed relative to the parent 
-    # folder; translate them into ReadMe.md's frame of reference before 
-    # the 3-way merge, so a directory-level difference never shows up 
-    # as a false conflict. 
-    $companionTextInReadmeFrame = Convert-RelativeLinksInText (Get-Content $companionPath -Raw) $parentOfSubRepo $subRepoDirectory 
+    # Translate the companion's links into ReadMe.md's frame before the 
+    # 3-way merge, so a directory-level difference never shows up as a 
+    # false conflict. 
+    $companionTextInReadmeFrame = Convert-RelativeLinksInText $companionOriginalText $parentOfSubRepo $subRepoDirectory 
 
     $baseFile  = New-TemporaryFile 
     $otherFile = New-TemporaryFile 
@@ -239,8 +310,9 @@ function Merge-ReadmeWithCompanion([string]$subRepoDirectory, [string]$parentOfS
 
         $mergeExitCode = $LASTEXITCODE 
 
-        # Translate the merged result back into the parent folder's 
-        # frame of reference before writing it to the companion file. 
+        # Translate the merged/conflicted result back into the parent 
+        # folder's frame of reference before writing it to F.md, so both 
+        # files show the identical conflict for manual resolution. 
         $mergedTextInParentFrame = Convert-RelativeLinksInText (Get-Content $readmePath -Raw) $subRepoDirectory $parentOfSubRepo 
         Set-Content -Path $companionPath -Value $mergedTextInParentFrame -NoNewline 
 
@@ -248,6 +320,15 @@ function Merge-ReadmeWithCompanion([string]$subRepoDirectory, [string]$parentOfS
             Write-Host "  Merged ReadMe.md <-> $subFolderName.md without conflicts (links re-based per file location)" -ForegroundColor Green 
         } else { 
             Write-Host "  CONFLICT merging ReadMe.md <-> $subFolderName.md ($mergeExitCode conflict block(s))" -ForegroundColor Red 
+
+            # Register the conflict in the sub-repo's own index for ReadMe.md. 
+            Register-ConflictInIndex $subRepoDirectory "ReadMe.md" $commonBaseText $readmeOriginalText $companionTextInReadmeFrame 
+
+            # Register the same conflict in the parent repo's own index for 
+            # F.md, using each side's content translated into the parent's 
+            # frame of reference. 
+            $readmeOriginalTextInParentFrame = Convert-RelativeLinksInText $readmeOriginalText $subRepoDirectory $parentOfSubRepo 
+            Register-ConflictInIndex $parentOfSubRepo "$subFolderName.md" $commonBaseText $companionOriginalText $readmeOriginalTextInParentFrame 
         } 
     } finally { 
         Remove-Item $baseFile, $otherFile -ErrorAction SilentlyContinue 
