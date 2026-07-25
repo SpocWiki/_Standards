@@ -8,33 +8,35 @@
 # comparing file *content* hashes across both histories 
 # rather than comparing commit IDs. 
 # 
+# CONFIRMED ROOT CAUSE (previously): `git show <rev>:<path>` 
+# requires <path> to be relative to the REPOSITORY ROOT, unlike 
+# most other git commands (e.g. `git log -- <path>`), which are 
+# relative to the current working directory. Whenever a 
+# repository (e.g. the parent folder) is itself a subdirectory 
+# of a larger enclosing repository rather than that repo's own 
+# root, a bare filename fails with "exists, but not '<file>'". 
+# Get-RepoRootRelativePath resolves the correct root-relative 
+# path via `git rev-parse --show-prefix` before every 
+# `git show` call. 
+# 
 # All text read from disk or from git history has any leading 
 # UTF-8 BOM (U+FEFF) stripped, and all line endings normalized 
-# to "\n" via Convert-ToUnixLineEndings, before being hashed or 
-# compared. Git's core.autocrlf setting can differ between 
-# repositories and silently rewrite line endings on 
-# add/commit/checkout, which was found to make two working- 
-# tree-identical files hash differently once committed. Every 
-# git add / git commit call in this script is run with 
-# "-c core.autocrlf=false" so Git commits exactly the 
-# normalized bytes this script wrote, without re-applying its 
-# own conversion on top. git hash-object uses --no-filters for 
-# the same reason. 
+# to "\n", before being hashed or compared. Every git add / 
+# git commit call uses "-c core.autocrlf=false", and 
+# git hash-object uses --no-filters, so Git never re-applies 
+# its own line-ending conversion on top of what this script 
+# already normalized. 
 # 
 # All text written to disk uses Set-FileContentUtf8NoBom (raw 
-# UTF-8, no BOM, no forced line-ending conversion by Git). 
+# UTF-8, no BOM). Historical file content is read via 
+# Invoke-GitCaptureRawText, using .NET's Process class directly 
+# instead of PowerShell's native `$var = & git ...` capture, to 
+# preserve exact byte fidelity before normalization. 
 # 
-# Historical file content is read via Invoke-GitCaptureRawText, 
-# which uses .NET's Process class directly instead of 
-# PowerShell's native `$var = & git ...` capture, to preserve 
-# exact byte fidelity before normalization. 
-# 
-# A TEMPORARY diagnostic block (Write-HistoryDiagnostics) is 
-# included below the "no common baseline" path, to surface the 
-# exact hash/length values being compared when a baseline 
-# cannot be found, since several prior hypotheses (BOM, line 
-# endings) did not fully resolve this on their own. Remove once 
-# root-caused. 
+# A TEMPORARY diagnostic block (Write-HistoryDiagnostics, plus 
+# inline [DIAG] messages in Get-FileVersionHistory) is included 
+# to confirm the fix above actually resolves the issue. Remove 
+# once confirmed. 
 # 
 # Relative Markdown links/images and multi-segment WikiLinks 
 # are automatically re-based whenever content crosses the 
@@ -166,21 +168,55 @@ function Invoke-GitCaptureRawText([string]$argumentString, [string]$workingDirec
 } 
 
 # ------------------------------------------------------------ 
+# Returns the path of $relativeFile relative to the top level 
+# of the git repository that contains $repoPath (via 
+# `git rev-parse --show-prefix`). Required for `git show 
+# <rev>:<path>`, which - unlike most other git commands - 
+# resolves <path> relative to the repository ROOT rather than 
+# the current working directory. 
+# ------------------------------------------------------------ 
+function Get-RepoRootRelativePath([string]$repoPath, [string]$relativeFile) { 
+    $prefixResult = Invoke-GitCaptureRawText "rev-parse --show-prefix" $repoPath 
+    $prefix = $prefixResult.Output.Trim() 
+    if ([string]::IsNullOrWhiteSpace($prefix)) { 
+        return $relativeFile 
+    } 
+    return (($prefix.TrimEnd('/') + "/" + $relativeFile) -replace '\\', '/') 
+} 
+
+# ------------------------------------------------------------ 
 # Reads the full commit history of a single file within a 
 # repo and returns, per version (newest first): Hash, Text. 
+# `git log -- <path>` is called with the cwd-relative filename 
+# (correct as-is); `git show <rev>:<path>` is called with the 
+# repo-root-relative path via Get-RepoRootRelativePath (see 
+# header comment for why these two commands differ). 
 # ------------------------------------------------------------ 
 function Get-FileVersionHistory([string]$repoPath, [string]$relativeFile) { 
+    $rootRelativeFile = Get-RepoRootRelativePath $repoPath $relativeFile 
+
     $commitListResult = Invoke-GitCaptureRawText "log --format=%H -- `"$relativeFile`"" $repoPath 
+
+    if ($commitListResult.ExitCode -ne 0) { 
+        Write-Host "  [DIAG] git log failed for '$relativeFile' in '$repoPath' (exit $($commitListResult.ExitCode)): $($commitListResult.Error)" -ForegroundColor Magenta 
+    } 
+
     $commits = $commitListResult.Output -split "`n" | Where-Object { $_ -ne "" } 
+
+    if ($commits.Count -eq 0) { 
+        Write-Host "  [DIAG] git log returned 0 commits for '$relativeFile' in '$repoPath' (raw output length=$($commitListResult.Output.Length))" -ForegroundColor Magenta 
+    } 
 
     $history = @() 
     foreach ($commit in $commits) { 
-        $showResult = Invoke-GitCaptureRawText "show ${commit}:`"$relativeFile`"" $repoPath 
+        $showResult = Invoke-GitCaptureRawText "show ${commit}:`"$rootRelativeFile`"" $repoPath 
         if ($showResult.ExitCode -eq 0) { 
             $history += [PSCustomObject]@{ 
                 Hash = Get-ContentHash $showResult.Output 
                 Text = $showResult.Output 
             } 
+        } else { 
+            Write-Host "  [DIAG] git show failed for ${commit}:'$rootRelativeFile' in '$repoPath' (exit $($showResult.ExitCode)): $($showResult.Error)" -ForegroundColor Magenta 
         } 
     } 
     return $history 
@@ -216,7 +252,7 @@ function Find-LastCommonVersionText($historyA, $historyB) {
 # ------------------------------------------------------------ 
 # TEMPORARY DIAGNOSTIC - prints exactly what the history search 
 # is working with, so a real mismatch can be pinpointed instead 
-# of guessed at. Remove once the root cause is confirmed. 
+# of guessed at. Remove once the root cause is confirmed fixed. 
 # ------------------------------------------------------------ 
 function Write-HistoryDiagnostics($readmeHistory, $companionHistoryRaw, [string]$readmeOriginalText, [string]$companionTextInReadmeFrame) { 
     Write-Host "  [DIAG] ReadMe.md history entries: $($readmeHistory.Count)" -ForegroundColor Magenta 
@@ -383,21 +419,23 @@ function Invoke-GitUpdateIndexInfo([string[]]$lines, [string]$workingDirectory) 
 # ------------------------------------------------------------ 
 # Registers a merge conflict for $fileNameInRepoDir directly 
 # in $repoPath's index (stages 1/2/3), so `git status`/ 
-# TortoiseGitMerge report it as unmerged (UU). 
+# TortoiseGitMerge report it as unmerged (UU). Uses 
+# Get-RepoRootRelativePath so the path written to the index is 
+# correctly relative to the repository root, consistent with 
+# how git show/update-index expect paths to be expressed. 
 # ------------------------------------------------------------ 
 function Register-ConflictInIndex([string]$repoPath, [string]$fileNameInRepoDir, [string]$baseText, [string]$oursText, [string]$theirsText) { 
 
+    $insideWorkTreeResult = Invoke-GitCaptureRawText "rev-parse --is-inside-work-tree" $repoPath 
+    if ($insideWorkTreeResult.ExitCode -ne 0 -or $insideWorkTreeResult.Output.Trim() -ne 'true') { 
+        Write-Host "  Skipping index conflict registration for $fileNameInRepoDir ($repoPath is not inside a git work tree)" -ForegroundColor Yellow 
+        return 
+    } 
+
+    $repoRelativePath = Get-RepoRootRelativePath $repoPath $fileNameInRepoDir 
+
     Push-Location $repoPath 
     try { 
-        $insideWorkTree = (git rev-parse --is-inside-work-tree 2>$null) 
-        if ($LASTEXITCODE -ne 0 -or $insideWorkTree -ne 'true') { 
-            Write-Host "  Skipping index conflict registration for $fileNameInRepoDir ($repoPath is not inside a git work tree)" -ForegroundColor Yellow 
-            return 
-        } 
-
-        $prefix           = (git rev-parse --show-prefix 2>$null) 
-        $repoRelativePath = (($prefix + $fileNameInRepoDir) -replace '\\', '/') 
-
         $baseHash   = Write-GitBlob $baseText 
         $oursHash   = Write-GitBlob $oursText 
         $theirsHash = Write-GitBlob $theirsText 
@@ -485,8 +523,7 @@ function Initialize-CommonBaselineWithCompanion([string]$subRepoDirectory, [stri
 # Merges F\ReadMe.md with the parent folder's F.md. See the 
 # header comment at the top of this file for the full decision 
 # logic. Includes a temporary Write-HistoryDiagnostics call 
-# right before the "no common baseline" branch, to surface the 
-# actual hash/length values being compared. 
+# right before the "no common baseline" branch. 
 # ------------------------------------------------------------ 
 function Merge-ReadmeWithCompanion([string]$subRepoDirectory, [string]$parentOfSubRepo, [string]$subFolderName) { 
 
