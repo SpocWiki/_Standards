@@ -1102,12 +1102,11 @@ has_place_latitude = `=this.dv_has_place_latitude`
 > South Korea performs well in metrics of education, human development, democratic governance, and innovation. Its citizens enjoy one of the world's longest life expectances and access to some of the fastest Internet connection speeds and densest high-speed railway networks. Since the turn of the 21st century, the country has been renowned for its globally influential pop culture, particularly in music, TV dramas, and cinema, a phenomenon referred to as the Korean Wave. South Korea is a member of the OECD's Development Assistance Committee, the G20, the IPEF, and the Paris Club.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/South%20Korea) 
->>>>>>> Korea~South.md (parent folder, links adjusted)
+
 
 
 ## Confidential Links & Embeds: 
 
-<<<<<<< ReadMe.md (Korea~South)
 ### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/ReadMe|ReadMe]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/ReadMe.public|ReadMe.public]] 
@@ -1121,19 +1120,4 @@ has_place_latitude = `=this.dv_has_place_latitude`
 ### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/ReadMe.personal|ReadMe.personal]] 
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South/ReadMe.secret|ReadMe.secret]] 
-=======
-### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South|Korea~South]] 
-
-### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South.public|Korea~South.public]] 
-
-### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South.internal|Korea~South.internal]] 
-
-### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South.protect|Korea~South.protect]] 
-
-### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South.private|Korea~South.private]] 
-
-### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South.personal|Korea~South.personal]] 
-
-### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South.secret|Korea~South.secret]] 
->>>>>>> Korea~South.md (parent folder, links adjusted)
 
