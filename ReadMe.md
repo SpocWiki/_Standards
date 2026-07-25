@@ -18,7 +18,7 @@ should be checked out into a sub-folder named `_Standards` next to this File.
 Beware though, that this can considerably increase 
 the total size and depth of your wiki.
 
- On iPhone and Android you need a [[IT/Algorithms/Code-Versioning/Git|Git]] Application for this. 
+ On iPhone and Android you need a [[../IT/Algorithms/Code-Versioning/Git|Git]] Application for this. 
 
 In addition to basic Standards, 
 you can also download extensive geographic and historic Data, 
