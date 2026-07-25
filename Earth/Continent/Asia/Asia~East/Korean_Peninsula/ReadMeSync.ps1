@@ -18,28 +18,25 @@
 # All content-hash comparisons (both the "already identical" 
 # check and the common-ancestor search across history) are 
 # performed AFTER translating links into a single common 
-# frame of reference. Without this, two files that are 
-# logically identical except for their relative link paths 
-# would never be recognized as matching, and every merge 
-# would degrade into a whole-file conflict. 
+# frame of reference, so link-path differences alone never 
+# masquerade as a real content difference. 
 # 
 # When git merge-file cannot resolve a merge cleanly, the 
 # conflict is also registered in each repository's index 
-# (stages 1/2/3) via git update-index --index-info, so 
-# `git status` (and GUI tools such as TortoiseGitMerge) 
-# correctly report the file as unmerged (UU) instead of an 
-# ordinary modification or a malformed delete/modify conflict. 
+# (stages 1/2/3) so `git status` (and GUI tools such as 
+# TortoiseGitMerge) correctly report the file as unmerged 
+# (UU). Index records are written by sending raw UTF-8 bytes 
+# directly to `git update-index --index-info`'s stdin via 
+# .NET's Process class, rather than piping a PowerShell string 
+# to it - this avoids PowerShell's own string-to-native-stdin 
+# encoding/pipeline conversion, which was observed to cause 
+# "fatal: malformed index info" errors even after the index- 
+# info line format itself was verified correct. 
 # 
 # No git add / git commit is performed otherwise - this 
 # script only updates the working-tree files and (on 
 # conflict) the index stage entries. 
 # ============================================================ 
-
-# Forces strings piped into native executables (git) to be sent as 
-# clean UTF-8 without a BOM. PowerShell's default $OutputEncoding can 
-# otherwise re-encode piped text in a way that native tools reject as 
-# malformed input, even when the text itself is well-formed. 
-$OutputEncoding = New-Object System.Text.UTF8Encoding($false) 
 
 $parent_directory = Get-Location 
 
@@ -120,9 +117,7 @@ function Test-ContainsConflictMarkers([string]$text) {
 # 
 # Both histories passed in MUST already be expressed in the 
 # same directory frame of reference (see 
-# Convert-VersionHistoryToFrame), otherwise relative-link 
-# differences alone would prevent any real match from ever 
-# being found. 
+# Convert-VersionHistoryToFrame). 
 # ------------------------------------------------------------ 
 function Find-LastCommonVersionText($historyA, $historyB) { 
     foreach ($versionA in $historyA) { 
@@ -250,10 +245,7 @@ function Convert-RelativeLinksInText([string]$text, [string]$sourceDir, [string]
 # different directory frame of reference (via 
 # Convert-RelativeLinksInText) and recomputes each version's 
 # content hash accordingly. Required before comparing two 
-# histories that natively live in different frames (e.g. a 
-# sub-repo's ReadMe.md vs. its parent's F.md companion), so 
-# link-path differences alone don't prevent a real content 
-# match from being found. 
+# histories that natively live in different frames. 
 # ------------------------------------------------------------ 
 function Convert-VersionHistoryToFrame($history, [string]$sourceDir, [string]$targetDir) { 
     return $history | ForEach-Object { 
@@ -281,34 +273,54 @@ function Write-GitBlob([string]$text) {
 } 
 
 # ------------------------------------------------------------ 
-# Sends exactly one stage-entry record to git update-index, in 
-# the documented "mode SP sha1 SP stage TAB path" format. Each 
-# call is a separate invocation so the record is always a 
-# single, unambiguous, newline-terminated line - avoiding any 
-# risk of a trailing line being dropped when multiple records 
-# are joined into one multi-line pipe payload. 
+# Runs `git update-index --index-info` in $workingDirectory, 
+# feeding it $lines (each already in the exact format Git 
+# expects, WITHOUT a trailing newline) by writing raw UTF-8 
+# bytes directly to the child process's stdin stream via .NET's 
+# Process class. 
+# 
+# This deliberately bypasses PowerShell's normal 
+# `string | native-exe` pipeline, which was found to corrupt or 
+# misencode the input in this environment (git reported 
+# "fatal: malformed index info" even after the line format and 
+# $OutputEncoding were both verified correct) - writing bytes 
+# directly to the stream removes PowerShell's own string-to- 
+# native-stdin conversion from the equation entirely. 
+# 
+# Returns $true if git exits with code 0; on failure, prints 
+# git's stderr output for diagnosis. 
 # ------------------------------------------------------------ 
-function Write-IndexInfoRecord([string]$mode, [string]$objectHash, [int]$stage, [string]$repoRelativePath) { 
-    $record = "$mode $objectHash $stage`t$repoRelativePath`n" 
-    $record | git update-index --index-info 
-    return ($LASTEXITCODE -eq 0) 
-} 
+function Invoke-GitUpdateIndexInfo([string[]]$lines, [string]$workingDirectory) { 
 
-# ------------------------------------------------------------ 
-# Explicitly removes a stage entry (if any) for a path, using 
-# Git's documented removal format: "mode SP sha1 TAB path" - 
-# note there is NO stage field in this format (unlike 
-# Write-IndexInfoRecord's format), per the official 
-# git-update-index --index-info documentation. Passing a stage 
-# number here was previously rejected as a malformed line. 
-# Used to represent "no common ancestor" as a proper add/add 
-# conflict, instead of fabricating an empty-content base. 
-# ------------------------------------------------------------ 
-function Clear-IndexInfoRecord([string]$repoRelativePath) { 
-    $zeroHash = "0" * 40 
-    $record   = "0 $zeroHash`t$repoRelativePath`n" 
-    $record | git update-index --index-info 
-    return ($LASTEXITCODE -eq 0) 
+    $payload = (($lines -join "`n") + "`n") 
+    $bytes   = [System.Text.Encoding]::UTF8.GetBytes($payload) 
+
+    $startInfo = [System.Diagnostics.ProcessStartInfo]::new() 
+    $startInfo.FileName               = "git" 
+    $startInfo.Arguments              = "update-index --index-info" 
+    $startInfo.WorkingDirectory       = $workingDirectory 
+    $startInfo.RedirectStandardInput  = $true 
+    $startInfo.RedirectStandardOutput = $true 
+    $startInfo.RedirectStandardError  = $true 
+    $startInfo.UseShellExecute        = $false 
+    $startInfo.CreateNoWindow         = $true 
+
+    $process = [System.Diagnostics.Process]::Start($startInfo) 
+
+    $stdinStream = $process.StandardInput.BaseStream 
+    $stdinStream.Write($bytes, 0, $bytes.Length) 
+    $stdinStream.Flush() 
+    $process.StandardInput.Close() 
+
+    $stdErrorText = $process.StandardError.ReadToEnd() 
+    $null = $process.StandardOutput.ReadToEnd() 
+    $process.WaitForExit() 
+
+    if ($process.ExitCode -ne 0) { 
+        Write-Host "    git update-index --index-info failed (exit $($process.ExitCode)): $stdErrorText" -ForegroundColor DarkRed 
+        return $false 
+    } 
+    return $true 
 } 
 
 # ------------------------------------------------------------ 
@@ -316,13 +328,17 @@ function Clear-IndexInfoRecord([string]$repoRelativePath) {
 # in $repoPath's index, so `git status` (and GUI tools such as 
 # TortoiseGitMerge) report it as unmerged (UU) rather than as 
 # a delete/modify or malformed conflict caused by missing or 
-# malformed stage entries. 
+# malformed stage entries. All three (or two, if there is no 
+# common ancestor) index-info lines are sent in a single 
+# Invoke-GitUpdateIndexInfo call. 
 # 
 # $baseText must be $null when no common ancestor was found; 
-# in that case stage 1 is explicitly cleared, correctly 
-# producing an add/add conflict instead of a fake empty-file 
-# base. $baseText, $oursText and $theirsText must already be 
-# expressed in $repoPath's own directory frame. 
+# in that case stage 1 is explicitly cleared using Git's 
+# documented 2-field removal line ("mode SP sha1 TAB path", no 
+# stage number), correctly producing an add/add conflict 
+# instead of a fake empty-file base. $baseText, $oursText and 
+# $theirsText must already be expressed in $repoPath's own 
+# directory frame. 
 # ------------------------------------------------------------ 
 function Register-ConflictInIndex([string]$repoPath, [string]$fileNameInRepoDir, $baseText, [string]$oursText, [string]$theirsText) { 
 
@@ -336,26 +352,29 @@ function Register-ConflictInIndex([string]$repoPath, [string]$fileNameInRepoDir,
 
         $prefix           = (git rev-parse --show-prefix 2>$null) 
         $repoRelativePath = (($prefix + $fileNameInRepoDir) -replace '\\', '/') 
+        $zeroHash         = "0" * 40 
 
-        $stageResults = @() 
+        $indexInfoLines = @() 
 
         if ($null -eq $baseText) { 
-            $stageResults += (Clear-IndexInfoRecord $repoRelativePath) 
+            $indexInfoLines += "0 $zeroHash`t$repoRelativePath" 
         } else { 
             $baseHash = Write-GitBlob $baseText 
-            $stageResults += (Write-IndexInfoRecord "100644" $baseHash 1 $repoRelativePath) 
+            $indexInfoLines += "100644 $baseHash 1`t$repoRelativePath" 
         } 
 
         $oursHash   = Write-GitBlob $oursText 
         $theirsHash = Write-GitBlob $theirsText 
 
-        $stageResults += (Write-IndexInfoRecord "100644" $oursHash   2 $repoRelativePath) 
-        $stageResults += (Write-IndexInfoRecord "100644" $theirsHash 3 $repoRelativePath) 
+        $indexInfoLines += "100644 $oursHash 2`t$repoRelativePath" 
+        $indexInfoLines += "100644 $theirsHash 3`t$repoRelativePath" 
 
-        if ($stageResults -notcontains $false) { 
+        $succeeded = Invoke-GitUpdateIndexInfo $indexInfoLines $repoPath 
+
+        if ($succeeded) { 
             Write-Host "  Registered $repoRelativePath as unmerged (UU) in $repoPath" -ForegroundColor Red 
         } else { 
-            Write-Host "  Failed to register one or more stages for $repoRelativePath in $repoPath - check 'git ls-files -u' manually" -ForegroundColor Red 
+            Write-Host "  Failed to register stages for $repoRelativePath in $repoPath - check 'git ls-files -u' manually" -ForegroundColor Red 
         } 
     } finally { 
         Pop-Location 
