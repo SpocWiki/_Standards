@@ -1111,7 +1111,18 @@ has_place_latitude = `=this.dv_has_place_latitude`
 
 ## #has_/text_of_/abstract 
 
-> **Pakistan**, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the fifth-most populous country, with a population of over 241.5 million, having the second-largest Muslim population as of 2023. Islamabad is the nation's capital, while Karachi is its largest city and financial centre. Pakistan is the 33rd-largest country by area. Bounded by the Arabian Sea on the south, the Gulf of Oman on the southwest, and the Sir Creek on the southeast, it shares land borders with India to the east; Afghanistan to the west; Iran to the southwest; and China to the northeast. It shares a maritime border with Oman in the Gulf of Oman, and is separated from Tajikistan in the northwest by Afghanistan's narrow Wakhan Corridor.
+> **Pakistan**, officially the Islamic Republic of Pakistan, is a country in South Asia. 
+> It is the fifth-most populous country, with a population of over 241.5 million, 
+> having the second-largest Muslim population as of 2023. 
+> 
+> Islamabad is the nation's capital, while Karachi is its largest city and financial centre. 
+> Pakistan is the 33rd-largest country by area. 
+> Bounded by the Arabian Sea on the south, the Gulf of Oman on the southwest, 
+> and the Sir Creek on the southeast, it shares land borders with India to the east; 
+> Afghanistan to the west; Iran to the southwest; and China to the northeast. 
+> 
+> It shares a maritime border with Oman in the Gulf of Oman, 
+> and is separated from Tajikistan in the northwest by Afghanistan's narrow Wakhan Corridor.
 >
 > Pakistan is the site of several ancient cultures, including the 8,500-year-old Neolithic site of Mehrgarh in Balochistan, the Indus Valley Civilisation of the Bronze Age, and the ancient Gandhara civilisation. The regions that compose the modern state of Pakistan were the realm of multiple empires and dynasties, including the Achaemenid, the Maurya, the Kushan, the Gupta; the Umayyad Caliphate in its southern regions, the Hindu Shahis, the Ghaznavids, the Delhi Sultanate, the Samma, the Shah Miris, the Mughals, and most recently, the British Raj from 1858 to 1947.
 >
