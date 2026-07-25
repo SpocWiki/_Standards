@@ -1049,7 +1049,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Pakistan/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -1098,7 +1098,7 @@ Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Pakistan.svg|350]]
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Pakistan.mp3|Anthem-Pakistan.mp3]]
 
-![[Pakistan/Flag_of_Pakistan.svg|350]]  
+![[Flag_of_Pakistan.svg|350]]  
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
 

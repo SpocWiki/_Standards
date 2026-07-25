@@ -984,7 +984,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Nepal/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 
 ## #has_/map  
@@ -1032,10 +1032,10 @@ Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
-![[Nepal/Emblem_of_Nepal.svg|350]]  
+![[Emblem_of_Nepal.svg|350]]  
 
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Nepal.mp3|Anthem-Nepal.mp3]]
-![[Nepal/Flag_of_Nepal.svg|350]]  
+![[Flag_of_Nepal.svg|350]]  
 
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]

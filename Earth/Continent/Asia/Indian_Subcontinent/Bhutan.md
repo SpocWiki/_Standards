@@ -867,7 +867,7 @@ ISO3 = `=this.dv_ISO3`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Bhutan/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -908,9 +908,9 @@ darkMode: false
 
 [has_name_en::Bhutan] 
 has_name_de = `=this.dv_has_name_de` 
-![[Bhutan/Emblem_of_Bhutan.svg|350]]  
+![[Emblem_of_Bhutan.svg|350]]  
 
-![[Bhutan/Flag_of_Bhutan.svg|350]]  
+![[Flag_of_Bhutan.svg|350]]  
 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 

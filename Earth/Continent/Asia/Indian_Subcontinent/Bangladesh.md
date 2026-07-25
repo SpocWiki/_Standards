@@ -1031,7 +1031,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Bangladesh/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -1081,7 +1081,7 @@ Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Bangladesh.svg|350]]
 
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Bangladesh.mp3|Anthem-Bangladesh.mp3]]
-![[Bangladesh/Flag_of_Bangladesh.svg|350]]  
+![[Flag_of_Bangladesh.svg|350]]  
 
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
