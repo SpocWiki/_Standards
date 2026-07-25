@@ -1083,6 +1083,7 @@ has_place_latitude = `=this.dv_has_place_latitude`
 ![[Coat_of_arms_of_Korea-south.svg|350]] 
 ![[Anthem-Korea-south.mp3]] 
 ![[Flag_of_Korea-south.svg|350]] 
+
 [Alcohol-l::14.8] 
 [Language-Id::459] 
 [geo-lon::126.97] 
