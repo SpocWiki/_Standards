@@ -1072,9 +1072,6 @@ Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
-![[Coat_of_arms_of_Korea-south.svg|350]]
-![[/_public/xLarge.public/National-Anthem/Anthem-Korea-south.mp3|Anthem-Korea-south.mp3]]
-![[Flag_of_Korea-south.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
  is_a = `=this.dv_is_a_`
