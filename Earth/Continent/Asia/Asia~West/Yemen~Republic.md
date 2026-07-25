@@ -306,7 +306,7 @@ dv_Area-Total: 536869
 dv_Area-Land: 527970
 dv_has_place_continent: '[[../../Asia|Asia]]'
 dv_VehicleCode: YEM
-dv_Capital: '[[Yemen~Republic/City/Sana‘a|Sana‘a]] ]'
+dv_Capital: '[[Yemen~Republic/City/Sana‘a|Sana‘a]]'
 dv_Alcohol-l: 0.2
 dv_Language-Id: 472
 dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
