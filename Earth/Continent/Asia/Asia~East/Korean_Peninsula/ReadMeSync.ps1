@@ -21,21 +21,31 @@
 # frame of reference, so link-path differences alone never 
 # masquerade as a real content difference. 
 # 
-# When git merge-file cannot resolve a merge cleanly, the 
-# conflict is also registered in each repository's index 
-# (stages 1/2/3) so `git status` (and GUI tools such as 
-# TortoiseGitMerge) correctly report the file as unmerged 
-# (UU). Index records are written by sending raw UTF-8 bytes 
-# directly to `git update-index --index-info`'s stdin via 
-# .NET's Process class, rather than piping a PowerShell string 
-# to it - this avoids PowerShell's own string-to-native-stdin 
-# encoding/pipeline conversion, which was observed to cause 
-# "fatal: malformed index info" errors even after the index- 
-# info line format itself was verified correct. 
+# If NO common baseline exists yet (the two files have never 
+# shared identical content), a real 3-way merge would have no 
+# usable anchor points and would conflict across the entire 
+# file. Instead of attempting that, a common baseline is 
+# bootstrapped: ReadMe.md is overwritten with a literal, raw 
+# copy of the companion file's current content and committed - 
+# this becomes a real, discoverable common ancestor for every 
+# future run. ReadMe.md is then overwritten again with the 
+# properly link-adjusted version, left UNCOMMITTED so it can be 
+# reviewed before you commit it yourself. 
 # 
-# No git add / git commit is performed otherwise - this 
-# script only updates the working-tree files and (on 
-# conflict) the index stage entries. 
+# If a common baseline DOES exist, a genuine 3-way merge is 
+# performed via git merge-file. If that merge produces conflict 
+# markers, the conflict is also registered in each repository's 
+# index (stages 1/2/3), so `git status` (and GUI tools such as 
+# TortoiseGitMerge) correctly report the file as unmerged (UU). 
+# Index records are written by sending raw UTF-8 bytes directly 
+# to `git update-index --index-info`'s stdin via .NET's Process 
+# class, rather than piping a PowerShell string to it, since the 
+# latter was found to cause "fatal: malformed index info" 
+# errors in this environment. 
+# 
+# Other than the bootstrap commit described above, no 
+# git add / git commit is performed - this script only updates 
+# working-tree files and (on conflict) index stage entries. 
 # ============================================================ 
 
 $parent_directory = Get-Location 
@@ -130,21 +140,6 @@ function Find-LastCommonVersionText($historyA, $historyB) {
         } 
     } 
     return $null 
-} 
-
-# ------------------------------------------------------------ 
-# Returns $true when two texts differ so much in line count 
-# that an empty-base 3-way merge would only produce one giant, 
-# unresolvable whole-file conflict rather than a useful partial 
-# merge. $maxSizeRatio is the largest tolerated ratio between 
-# the longer and shorter text's line counts. 
-# ------------------------------------------------------------ 
-function Test-AreTooDissimilarForEmptyBaseMerge([string]$textA, [string]$textB, [double]$maxSizeRatio = 3.0) { 
-    $lineCountA = ($textA -split "`n").Count 
-    $lineCountB = ($textB -split "`n").Count 
-    $longer  = [Math]::Max($lineCountA, $lineCountB) 
-    $shorter = [Math]::Max([Math]::Min($lineCountA, $lineCountB), 1) 
-    return ($longer / $shorter) -gt $maxSizeRatio 
 } 
 
 # ------------------------------------------------------------ 
@@ -277,15 +272,9 @@ function Write-GitBlob([string]$text) {
 # feeding it $lines (each already in the exact format Git 
 # expects, WITHOUT a trailing newline) by writing raw UTF-8 
 # bytes directly to the child process's stdin stream via .NET's 
-# Process class. 
-# 
-# This deliberately bypasses PowerShell's normal 
+# Process class - this bypasses PowerShell's normal 
 # `string | native-exe` pipeline, which was found to corrupt or 
-# misencode the input in this environment (git reported 
-# "fatal: malformed index info" even after the line format and 
-# $OutputEncoding were both verified correct) - writing bytes 
-# directly to the stream removes PowerShell's own string-to- 
-# native-stdin conversion from the equation entirely. 
+# misencode the input in this environment. 
 # 
 # Returns $true if git exits with code 0; on failure, prints 
 # git's stderr output for diagnosis. 
@@ -328,19 +317,13 @@ function Invoke-GitUpdateIndexInfo([string[]]$lines, [string]$workingDirectory) 
 # in $repoPath's index, so `git status` (and GUI tools such as 
 # TortoiseGitMerge) report it as unmerged (UU) rather than as 
 # a delete/modify or malformed conflict caused by missing or 
-# malformed stage entries. All three (or two, if there is no 
-# common ancestor) index-info lines are sent in a single 
-# Invoke-GitUpdateIndexInfo call. 
+# malformed stage entries. All index-info lines are sent in a 
+# single Invoke-GitUpdateIndexInfo call. 
 # 
-# $baseText must be $null when no common ancestor was found; 
-# in that case stage 1 is explicitly cleared using Git's 
-# documented 2-field removal line ("mode SP sha1 TAB path", no 
-# stage number), correctly producing an add/add conflict 
-# instead of a fake empty-file base. $baseText, $oursText and 
-# $theirsText must already be expressed in $repoPath's own 
-# directory frame. 
+# $baseText, $oursText and $theirsText must already be 
+# expressed in $repoPath's own directory frame. 
 # ------------------------------------------------------------ 
-function Register-ConflictInIndex([string]$repoPath, [string]$fileNameInRepoDir, $baseText, [string]$oursText, [string]$theirsText) { 
+function Register-ConflictInIndex([string]$repoPath, [string]$fileNameInRepoDir, [string]$baseText, [string]$oursText, [string]$theirsText) { 
 
     Push-Location $repoPath 
     try { 
@@ -352,22 +335,16 @@ function Register-ConflictInIndex([string]$repoPath, [string]$fileNameInRepoDir,
 
         $prefix           = (git rev-parse --show-prefix 2>$null) 
         $repoRelativePath = (($prefix + $fileNameInRepoDir) -replace '\\', '/') 
-        $zeroHash         = "0" * 40 
 
-        $indexInfoLines = @() 
-
-        if ($null -eq $baseText) { 
-            $indexInfoLines += "0 $zeroHash`t$repoRelativePath" 
-        } else { 
-            $baseHash = Write-GitBlob $baseText 
-            $indexInfoLines += "100644 $baseHash 1`t$repoRelativePath" 
-        } 
-
+        $baseHash   = Write-GitBlob $baseText 
         $oursHash   = Write-GitBlob $oursText 
         $theirsHash = Write-GitBlob $theirsText 
 
-        $indexInfoLines += "100644 $oursHash 2`t$repoRelativePath" 
-        $indexInfoLines += "100644 $theirsHash 3`t$repoRelativePath" 
+        $indexInfoLines = @( 
+            "100644 $baseHash 1`t$repoRelativePath" 
+            "100644 $oursHash 2`t$repoRelativePath" 
+            "100644 $theirsHash 3`t$repoRelativePath" 
+        ) 
 
         $succeeded = Invoke-GitUpdateIndexInfo $indexInfoLines $repoPath 
 
@@ -382,15 +359,56 @@ function Register-ConflictInIndex([string]$repoPath, [string]$fileNameInRepoDir,
 } 
 
 # ------------------------------------------------------------ 
-# Merges F\ReadMe.md with the parent folder's F.md using a 
-# 3-way merge (git merge-file). All content-hash comparisons 
-# (the "already identical" check and the common-ancestor 
-# search) are performed on link-translated text, so relative- 
-# link differences between the two frames never masquerade as 
-# a real content difference. If the merge produces conflict 
-# markers, the conflict is additionally registered in both 
-# repositories' indexes via Register-ConflictInIndex, using 
-# base/ours/theirs text translated into each repo's own frame. 
+# Bootstraps a common baseline for a sub-repo/companion pair 
+# that has never shared identical content: ReadMe.md is 
+# overwritten with a literal, RAW copy of the companion file's 
+# current content and committed in the sub-repo - this commit 
+# becomes a real, discoverable common ancestor for every future 
+# run of this script (once its non-rooted links are, in turn, 
+# committed by the user - see Convert-VersionHistoryToFrame). 
+# 
+# ReadMe.md is then overwritten a second time with 
+# $companionTranslatedText (the same content with non-rooted 
+# links adjusted for the sub-repo's own directory level) and 
+# left UNCOMMITTED, so the corrected result can be reviewed 
+# before being committed. 
+# ------------------------------------------------------------ 
+function Initialize-CommonBaselineWithCompanion([string]$subRepoDirectory, [string]$readmePath, [string]$companionRawText, [string]$companionTranslatedText, [string]$subFolderName) { 
+
+    Push-Location $subRepoDirectory 
+    try { 
+        Set-Content -Path $readmePath -Value $companionRawText -NoNewline 
+
+        git add "ReadMe.md" 
+        if ($LASTEXITCODE -ne 0) { 
+            Write-Host "  Failed to stage ReadMe.md for the baseline commit (exit $LASTEXITCODE)" -ForegroundColor Red 
+            return 
+        } 
+
+        git commit -m "Establish common baseline with $subFolderName.md (no prior shared history existed)" 
+        if ($LASTEXITCODE -ne 0) { 
+            Write-Host "  Failed to commit the baseline copy of ReadMe.md (exit $LASTEXITCODE) - resolve manually before re-running" -ForegroundColor Red 
+            return 
+        } 
+
+        Write-Host "  Committed a raw copy of $subFolderName.md as ReadMe.md's new baseline commit" -ForegroundColor Cyan 
+
+        Set-Content -Path $readmePath -Value $companionTranslatedText -NoNewline 
+        Write-Host "  Re-applied non-rooted link adjustments on top of the new baseline (left uncommitted for your review)" -ForegroundColor Cyan 
+    } finally { 
+        Pop-Location 
+    } 
+} 
+
+# ------------------------------------------------------------ 
+# Merges F\ReadMe.md with the parent folder's F.md. If no 
+# common baseline exists yet, one is bootstrapped via 
+# Initialize-CommonBaselineWithCompanion instead of attempting 
+# a whole-file merge. If a common baseline exists, a genuine 
+# 3-way merge is performed via git merge-file; on conflict, it 
+# is registered in both repositories' indexes via 
+# Register-ConflictInIndex, using base/ours/theirs text 
+# translated into each repo's own frame. 
 # ------------------------------------------------------------ 
 function Merge-ReadmeWithCompanion([string]$subRepoDirectory, [string]$parentOfSubRepo, [string]$subFolderName) { 
 
@@ -433,8 +451,8 @@ function Merge-ReadmeWithCompanion([string]$subRepoDirectory, [string]$parentOfS
     } 
 
     # Translate the companion's non-rooted links into ReadMe.md's frame 
-    # up front, and reuse this single translation for BOTH the "already 
-    # identical" check below AND the merge-file input further down. 
+    # up front, and reuse this single translation for the "already 
+    # identical" check, the bootstrap path, and the merge-file input. 
     $companionTextInReadmeFrame = Convert-RelativeLinksInText $companionOriginalText $parentOfSubRepo $subRepoDirectory 
 
     if ($readmeOriginalText -eq $companionTextInReadmeFrame) { 
@@ -452,22 +470,15 @@ function Merge-ReadmeWithCompanion([string]$subRepoDirectory, [string]$parentOfS
     $commonBaseText = Find-LastCommonVersionText $readmeHistory $companionHistoryInReadmeFrame 
 
     if ($null -eq $commonBaseText) { 
-        if (Test-AreTooDissimilarForEmptyBaseMerge $readmeOriginalText $companionTextInReadmeFrame) { 
-            Write-Host "  Skipping (no common ancestor AND files are too dissimilar in size - $subFolderName.md and ReadMe.md likely serve different purposes; resolve manually)" -ForegroundColor Red 
-            return 
-        } 
-        Write-Host "  No common ancestor version found - will register as an add/add conflict if unresolved" -ForegroundColor Yellow 
+        Write-Host "  No common baseline found - bootstrapping one from $subFolderName.md instead of attempting a whole-file merge" -ForegroundColor Yellow 
+        Initialize-CommonBaselineWithCompanion $subRepoDirectory $readmePath $companionOriginalText $companionTextInReadmeFrame $subFolderName 
+        return 
     } 
 
-    # git merge-file requires a real file on disk for the base, even when 
-    # there is no known common ancestor; an empty file is used there only 
-    # for that purpose. The index registration below still uses $null in 
-    # that case, so the conflict is correctly represented as add/add. 
-    $baseFileText = if ($null -eq $commonBaseText) { "" } else { $commonBaseText } 
-
+    # A real common baseline exists - proceed with a genuine 3-way merge. 
     $baseFile  = New-TemporaryFile 
     $otherFile = New-TemporaryFile 
-    Set-Content -Path $baseFile  -Value $baseFileText              -NoNewline 
+    Set-Content -Path $baseFile  -Value $commonBaseText              -NoNewline 
     Set-Content -Path $otherFile -Value $companionTextInReadmeFrame -NoNewline 
 
     try { 
@@ -496,7 +507,7 @@ function Merge-ReadmeWithCompanion([string]$subRepoDirectory, [string]$parentOfS
 
             # Register the same conflict in the parent repo's own index for 
             # F.md, translating base/ours/theirs into the parent's frame first. 
-            $commonBaseTextInParentFrame = if ($null -eq $commonBaseText) { $null } else { Convert-RelativeLinksInText $commonBaseText $subRepoDirectory $parentOfSubRepo } 
+            $commonBaseTextInParentFrame     = Convert-RelativeLinksInText $commonBaseText $subRepoDirectory $parentOfSubRepo 
             $readmeOriginalTextInParentFrame = Convert-RelativeLinksInText $readmeOriginalText $subRepoDirectory $parentOfSubRepo 
             Register-ConflictInIndex $parentOfSubRepo "$subFolderName.md" $commonBaseTextInParentFrame $companionOriginalText $readmeOriginalTextInParentFrame 
         } 
