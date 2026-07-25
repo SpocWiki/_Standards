@@ -35,6 +35,12 @@
 # conflict) the index stage entries. 
 # ============================================================ 
 
+# Forces strings piped into native executables (git) to be sent as 
+# clean UTF-8 without a BOM. PowerShell's default $OutputEncoding can 
+# otherwise re-encode piped text in a way that native tools reject as 
+# malformed input, even when the text itself is well-formed. 
+$OutputEncoding = New-Object System.Text.UTF8Encoding($false) 
+
 $parent_directory = Get-Location 
 
 # ------------------------------------------------------------ 
@@ -275,11 +281,12 @@ function Write-GitBlob([string]$text) {
 } 
 
 # ------------------------------------------------------------ 
-# Sends exactly one index-info record to git update-index. 
-# Each call is a separate invocation so the record is always 
-# a single, unambiguous, newline-terminated line - avoiding 
-# any risk of a trailing line being dropped when multiple 
-# records are joined into one multi-line pipe payload. 
+# Sends exactly one stage-entry record to git update-index, in 
+# the documented "mode SP sha1 SP stage TAB path" format. Each 
+# call is a separate invocation so the record is always a 
+# single, unambiguous, newline-terminated line - avoiding any 
+# risk of a trailing line being dropped when multiple records 
+# are joined into one multi-line pipe payload. 
 # ------------------------------------------------------------ 
 function Write-IndexInfoRecord([string]$mode, [string]$objectHash, [int]$stage, [string]$repoRelativePath) { 
     $record = "$mode $objectHash $stage`t$repoRelativePath`n" 
@@ -289,13 +296,19 @@ function Write-IndexInfoRecord([string]$mode, [string]$objectHash, [int]$stage, 
 
 # ------------------------------------------------------------ 
 # Explicitly removes a stage entry (if any) for a path, using 
-# Git's documented "mode 0 / all-zero object name" record. 
+# Git's documented removal format: "mode SP sha1 TAB path" - 
+# note there is NO stage field in this format (unlike 
+# Write-IndexInfoRecord's format), per the official 
+# git-update-index --index-info documentation. Passing a stage 
+# number here was previously rejected as a malformed line. 
 # Used to represent "no common ancestor" as a proper add/add 
 # conflict, instead of fabricating an empty-content base. 
 # ------------------------------------------------------------ 
-function Clear-IndexInfoRecord([int]$stage, [string]$repoRelativePath) { 
+function Clear-IndexInfoRecord([string]$repoRelativePath) { 
     $zeroHash = "0" * 40 
-    return (Write-IndexInfoRecord "0" $zeroHash $stage $repoRelativePath) 
+    $record   = "0 $zeroHash`t$repoRelativePath`n" 
+    $record | git update-index --index-info 
+    return ($LASTEXITCODE -eq 0) 
 } 
 
 # ------------------------------------------------------------ 
@@ -327,7 +340,7 @@ function Register-ConflictInIndex([string]$repoPath, [string]$fileNameInRepoDir,
         $stageResults = @() 
 
         if ($null -eq $baseText) { 
-            $stageResults += (Clear-IndexInfoRecord 1 $repoRelativePath) 
+            $stageResults += (Clear-IndexInfoRecord $repoRelativePath) 
         } else { 
             $baseHash = Write-GitBlob $baseText 
             $stageResults += (Write-IndexInfoRecord "100644" $baseHash 1 $repoRelativePath) 
@@ -402,9 +415,7 @@ function Merge-ReadmeWithCompanion([string]$subRepoDirectory, [string]$parentOfS
 
     # Translate the companion's non-rooted links into ReadMe.md's frame 
     # up front, and reuse this single translation for BOTH the "already 
-    # identical" check below AND the merge-file input further down - this 
-    # is the key fix: without it, link-path differences alone would make 
-    # even logically identical files appear different forever. 
+    # identical" check below AND the merge-file input further down. 
     $companionTextInReadmeFrame = Convert-RelativeLinksInText $companionOriginalText $parentOfSubRepo $subRepoDirectory 
 
     if ($readmeOriginalText -eq $companionTextInReadmeFrame) { 
@@ -416,9 +427,7 @@ function Merge-ReadmeWithCompanion([string]$subRepoDirectory, [string]$parentOfS
     $companionHistoryRaw = Get-FileVersionHistory $parentOfSubRepo "$subFolderName.md" 
 
     # Normalize the companion's entire history into ReadMe.md's frame 
-    # before searching for a common ancestor - same reasoning as above, 
-    # applied across every historical version rather than just the 
-    # current one. 
+    # before searching for a common ancestor. 
     $companionHistoryInReadmeFrame = Convert-VersionHistoryToFrame $companionHistoryRaw $parentOfSubRepo $subRepoDirectory 
 
     $commonBaseText = Find-LastCommonVersionText $readmeHistory $companionHistoryInReadmeFrame 
