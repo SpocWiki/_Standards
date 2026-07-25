@@ -1151,7 +1151,14 @@ has_place_latitude = `=this.dv_has_place_latitude`
 > ranked fourteenth largest in the world both by nominal GDP and PPP-adjusted GDP; 
 > it is the world's eleventh-largest exporter and seventh-largest importer.
 >
-> South Korea performs well in metrics of education, human development, democratic governance, and innovation. Its citizens enjoy one of the world's longest life expectances and access to some of the fastest Internet connection speeds and densest high-speed railway networks. Since the turn of the 21st century, the country has been renowned for its globally influential pop culture, particularly in music, TV dramas, and cinema, a phenomenon referred to as the Korean Wave. South Korea is a member of the OECD's Development Assistance Committee, the G20, the IPEF, and the Paris Club.
+> South Korea performs well in metrics of education, human development, democratic governance, and innovation. 
+> Its citizens enjoy one of the world's longest life expectances 
+> and access to some of the fastest Internet connection speeds and densest high-speed railway networks. 
+> 
+> Since the turn of the 21st century, the country has been renowned for its globally influential pop culture, 
+> particularly in music, TV dramas, and cinema, a phenomenon referred to as the Korean Wave. 
+> South Korea is a member of the OECD's Development Assistance Committee, 
+> the G20, the IPEF, and the Paris Club.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/South%20Korea) 
 
