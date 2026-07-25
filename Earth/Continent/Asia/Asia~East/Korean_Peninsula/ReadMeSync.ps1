@@ -583,7 +583,7 @@ function Merge-ReadmeWithCompanion([string]$subRepoDirectory, [string]$parentOfS
     } 
 
     if ($null -eq $commonBaseText) { 
-        Write-HistoryDiagnostics $readmeHistory $companionHistoryRaw $readmeOriginalText $companionTextInReadmeFrame 
+        #Write-HistoryDiagnostics $readmeHistory $companionHistoryRaw $readmeOriginalText $companionTextInReadmeFrame 
         Write-Host "  No common baseline found - bootstrapping one from $subFolderName.md instead of attempting a whole-file merge" -ForegroundColor Yellow 
         Initialize-CommonBaselineWithCompanion $subRepoDirectory $readmePath $companionOriginalText $companionTextInReadmeFrame $parentOfSubRepo $companionPath $subFolderName 
         return 
