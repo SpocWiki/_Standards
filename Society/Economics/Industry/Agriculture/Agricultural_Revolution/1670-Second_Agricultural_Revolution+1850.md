@@ -98,7 +98,7 @@ dv_has_:
 ## #has_/text_of_/abstract 
 
 > The **British Agricultural Revolution**, or Second Agricultural Revolution, 
-> was an unprecedented increase in agricultural production in Britain 
+> was an unprecedented **increase in agricultural production in Britain** 
 > arising from increases in labor and land productivity 
 > between the mid-17th and late 19th centuries. 
 > 
@@ -133,9 +133,9 @@ dv_has_:
 > One important change in farming methods was 
 > the __move in crop rotation to turnips and clover in place of fallow__ 
 > under the Norfolk four-course system. 
-> Turnips can be grown in winter and are deep-rooted, 
+> [[../../../Home_Economics/Cooking/Food/Vegetable/Turnip|Turnip]] can be grown in winter and are deep-rooted, 
 > allowing them to gather minerals unavailable to shallow-rooted crops. 
-> Clover fixes nitrogen from the atmosphere into a form of fertiliser. 
+> [[Clover]] fixes nitrogen from the atmosphere into a form of fertiliser. 
 > This permitted the intensive arable cultivation of light soils on enclosed farms 
 > and provided fodder to support increased livestock numbers 
 > whose manure added further to soil fertility.
@@ -163,7 +163,7 @@ dv.view("TableByName","British_Agricultural_Revolution.tsv");
 | 1700 | 13.79 | 14.82 | 15.08  | 12.27 |      10.23      |               0.70               |
 | 1750 | 17.26 | 17.87 | 21.88  | 20.90 |      14.19      |               0.37               |
 | 1800 | 23.16 | 19.52 | 25.90  | 28.37 |      17.85      |               0.63               |
-| 1850 | 26.69 | 26.18 | 23.82  | 31.36 |      16.30      |                —                 | 
+| 1850 | 26.69 | 26.18 | 23.82  | 31.36 |      16.30      |                —                 |
 
 
 ## Confidential Links & Embeds: 

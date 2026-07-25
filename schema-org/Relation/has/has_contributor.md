@@ -72,8 +72,8 @@ has_inverse = `=this.dv_has_inverse`
 Use it like this: 
 - #has_/contributor : :  `=this.dv_has_range`  
 - has_contributor : : `=this.dv_has_range`  
-- is_contributor_to : : `=this.dv_has_domain`   
-- #is_/contributor_to : : `=this.dv_has_domain`   
+- has_contributed_to : : `=this.dv_has_domain`   
+- #has_/contributed_to : : `=this.dv_has_domain`   
 
 A secondary contributor to the CreativeWork or Event.
 

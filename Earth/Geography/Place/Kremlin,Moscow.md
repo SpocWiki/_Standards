@@ -262,6 +262,7 @@ dv_has_:
 ![[../../../assets/Kremlin,Moscow,Russia.png|Kremlin,Moscow,Russia.png]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Moscow_Kremlin,133274|WD~Moscow_Kremlin,133274]] 
+#has_time_started :: 1147-06 
 
 ## #has_/map  
 

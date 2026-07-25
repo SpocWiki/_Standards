@@ -259,13 +259,16 @@ dv_has_:
 
 > **Fasting** is the act of refraining from eating, and sometimes drinking. 
 > 
-> However, from a purely physiological context, "fasting" may refer to the metabolic status of a person 
+> However, from a purely physiological context, 
+> "fasting" may refer to the metabolic status of a person 
 > who has not eaten overnight (before "breakfast"), 
-> or to the metabolic state achieved after complete digestion and absorption of a meal. 
-> Metabolic changes in the fasting state begin after absorption of a meal (typically 3–5 hours after eating).
+> or to the metabolic state achieved **after complete digestion and absorption of a meal**. 
+> Metabolic changes in the fasting state begin after absorption of a meal 
+> (typically **3–5 hours after eating**).
 >
 > A diagnostic fast refers to prolonged fasting from 1–100 hours (depending on age), 
-> conducted under observation, to facilitate the investigation of a health complication (usually hypoglycemia). 
+> conducted under observation, to facilitate the investigation of a health complication 
+> (usually hypoglycemia). 
 > 
 > Many people may also fast as part of a medical procedure or a check-up, 
 > such as preceding a colonoscopy or surgery, or before certain medical tests. 
@@ -275,7 +278,8 @@ dv_has_:
 > 
 > Fasting may also be part of a religious ritual, 
 > often associated with specific scheduled fast days, as determined by the religion, 
-> or be applied as a public demonstration for a given cause, in a practice known as a hunger strike.
+> or be applied as a public demonstration for a given cause, in a practice 
+> known as a hunger strike.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fasting) 
 

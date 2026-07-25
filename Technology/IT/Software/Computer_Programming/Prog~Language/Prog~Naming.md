@@ -40,11 +40,28 @@ These Functions are typically the spelled out Operators:
 | ><             | larger<br>smaller<br><br>less<br>more<br> |
 
 For centuries Mathematicians used brief Operators and brief Variables to speed up calculations.
-For readable Expressions it is desirable to use readable Variable Names. 
+For readable Expressions it is desirable though, to use readable Variable Names. 
 Operator Names are preferably brief and have all the same Length for a tabular Expression Style. 
 
 
-## 
+## Identifier Naming 
+
+| Convention                           | Example      | Typical usage                                            |
+| ------------------------------------ | ------------ | -------------------------------------------------------- |
+| [[Prog~Naming/camelCase]] / **lowerCamelCase**   | `firstName`  | Variables, fields, methods, functions, JSON properties   |
+| [[Prog~Naming/PascalCase]]  / **UpperCamelCase** | `FirstName`  | Classes, interfaces, types, C# properties, namespaces    |
+| [[snake_case]]                       | `first_name` | Python variables/functions, SQL databases, APIs          |
+| **SCREAMING_SNAKE_CASE**             | `FIRST_NAME` | Constants, environment variables, configuration          |
+| [[Prog~Naming/kebab-case]]                       | `first-name` | URLs, CSS classes, HTML attributes, filenames            |
+| [[Train-Case]]                       | `First-Name` | Headings, filenames, some legacy systems                 |
+| [[dot.case]]                         | `first.name` | Configuration keys, namespaces, hierarchical identifiers |
+| **path/case**                        | `first/name` | URL paths, resource hierarchies                          |
+| **slash/case**                       | `first/name` | Routes, namespaces, hierarchical paths                   |
+| [[UPPERCASE]]                        | `FIRSTNAME`  | Constants, legacy systems, acronyms                      |
+| [[lowercase]]                        | `firstname`  | Simple identifiers, filenames, database objects          |
+| [[Title_Case]]                       | `First Name` | Human-readable titles and headings                       |
+| [[Sentence_case]]                    | `First name` | UI labels, documentation, natural-language headings      |
+| **ALL CAPS**                         | `FIRST NAME` | Warnings, labels, legacy conventions                     |
 
 
 ## Confidential Links & Embeds: 
