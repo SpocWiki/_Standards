@@ -1124,9 +1124,32 @@ has_place_latitude = `=this.dv_has_place_latitude`
 > the southern zone became the Republic of Korea in August 1948, while 
 > the northern zone became the communist Democratic People's Republic of Korea the following month.
 >
-> In 1950, a North Korean invasion triggered the Korean War, one of the first major proxy conflicts of the Cold War, which saw extensive fighting involving the American-led United Nations Command and the Soviet-backed People's Volunteer Army from China. The war ended in 1953 with an armistice but no peace treaty, leading to the ongoing Korean conflict, and left three million Koreans dead and the economy in ruins. South Korea endured a series of dictatorships punctuated by coups, revolutions, and violent uprisings, but also experienced a soaring economy and one of the fastest rises in average GDP per capita, leading to its emergence as one of the Four Asian Tigers. The June Democratic Struggle of 1987 ended authoritarian rule and led to the establishment of the current Sixth Republic. 
+> In 1950, a North Korean invasion triggered the 
+> Korean War, one of the first major proxy conflicts of the Cold War, 
+> which saw extensive fighting involving the American-led United Nations Command 
+> and the Soviet-backed People's Volunteer Army from China. 
+> The war ended in 1953 with an armistice but no peace treaty, leading to the ongoing Korean conflict, 
+> and left three million Koreans dead and the economy in ruins. 
+> 
+> South Korea endured a series of dictatorships punctuated by coups, revolutions, and violent uprisings, 
+> but also experienced a soaring economy and one of the fastest rises in average GDP per capita, 
+> leading to its emergence as one of the Four Asian Tigers. 
+> 
+> The June Democratic Struggle of 1987 ended authoritarian rule 
+> and led to the establishment of the current Sixth Republic. 
 >
-> South Korea is now considered among the most advanced democracies in continental and East Asia. Under the 1987 constitution, it maintains a unitary presidential republic with a popularly elected unicameral legislature, the National Assembly. South Korea is a major non-NATO ally of the United States and is regarded as a regional power in East Asia and an emerging power in global affairs; its conscription-based armed forces are ranked as one of the strongest in the world and have the second highest number of military and paramilitary personnel. A highly developed country, South Korea's economy is ranked fourteenth largest in the world both by nominal GDP and PPP-adjusted GDP; it is the world's eleventh-largest exporter and seventh-largest importer.
+> South Korea is now considered among the most advanced democracies in continental and East Asia. 
+> Under the 1987 constitution, it maintains a unitary presidential republic 
+> with a popularly elected unicameral legislature, the National Assembly. 
+> 
+> South Korea is a major non-NATO ally of the United States 
+> and is regarded as a regional power in East Asia and an emerging power in global affairs; 
+> its conscription-based armed forces are ranked as one of the strongest in the world 
+> and have the second highest number of military and paramilitary personnel. 
+> 
+> A highly developed country, South Korea's economy is 
+> ranked fourteenth largest in the world both by nominal GDP and PPP-adjusted GDP; 
+> it is the world's eleventh-largest exporter and seventh-largest importer.
 >
 > South Korea performs well in metrics of education, human development, democratic governance, and innovation. Its citizens enjoy one of the world's longest life expectances and access to some of the fastest Internet connection speeds and densest high-speed railway networks. Since the turn of the 21st century, the country has been renowned for its globally influential pop culture, particularly in music, TV dramas, and cinema, a phenomenon referred to as the Korean Wave. South Korea is a member of the OECD's Development Assistance Committee, the G20, the IPEF, and the Paris Club.
 >
