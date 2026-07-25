@@ -49,9 +49,9 @@ aliases:
 - 北京猿人
 - 베이징 원인
 has_id_wikidata: Q45931
-taxon_rank: '[[_Standards/WikiData/WD~subspecies,68947|WD~subspecies,68947]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
-instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290|WD~fossil_taxon,23038290]]'
+taxon_rank: '[[/_Standards/WikiData/WD~subspecies,68947|WD~subspecies,68947]]'
+described_by_source: '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+instance_of: '[[/_Standards/WikiData/WD~fossil_taxon,23038290|WD~fossil_taxon,23038290]]'
 start_time: -500000-01-01T00:00:00Z
 Commons_category: Peking Man
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sinathropus%20pekinensis.jpg
@@ -133,7 +133,7 @@ dv_has_:
 
 # [[Peking_Man]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Peking_Man,45931|WD~Peking_Man,45931]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Peking_Man,45931|WD~Peking_Man,45931]] 
 
 ## #has_/text_of_/abstract 
 

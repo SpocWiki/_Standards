@@ -3,7 +3,7 @@ aliases:
   - Kama muta
   - Rührung
 has_id_wikidata: Q107538166
-instance_of: "[[_Standards/WikiData/WD~emotion,9415]]"
+instance_of: "[[/_Standards/WikiData/WD~emotion,9415]]"
 ---
 
 # [[Kama_muta]] 

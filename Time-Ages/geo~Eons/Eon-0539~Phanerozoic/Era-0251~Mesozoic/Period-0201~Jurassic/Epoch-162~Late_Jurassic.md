@@ -48,13 +48,13 @@ aliases:
 - 쥐라기 후기
 ischart: UpperJurassic
 has_id_wikidata: Q499312
-named_after: '[[_Standards/WikiData/WD~Jura_Mountains,178611|WD~Jura_Mountains,178611]]'
+named_after: '[[/_Standards/WikiData/WD~Jura_Mountains,178611|WD~Jura_Mountains,178611]]'
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Late_Jurassic,9050408|WD~Category_Late_Jurassic,9050408]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[/_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[/_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Late_Jurassic,9050408|WD~Category_Late_Jurassic,9050408]]'
+described_by_source: '[[/_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -163500000-01-01T00:00:00Z
 end_time: -145000000-01-01T00:00:00Z
 Dewey_Decimal_Classification: 551.766
@@ -128,7 +128,7 @@ dv_has_:
     stopped: -145.0e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Late_Jurassic,499312|WD~Late_Jurassic,499312]]'
+  - '[[/_Standards/WikiData/WD~Late_Jurassic,499312|WD~Late_Jurassic,499312]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic|Epoch-162~Late_Jurassic]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic.public|Epoch-162~Late_Jurassic.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic.internal|Epoch-162~Late_Jurassic.internal]]'
@@ -140,7 +140,7 @@ dv_has_duration_years: 1.650e+7
 dv_has_previous_item: '[[Epoch-175~Middle_Jurassic]]'
 dv_has_next_item: '[[../Period-0145~Cretaceous/Epoch-145~Early_Cretaceous|Epoch~1~Early_Cretaceous]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Late_Jurassic,499312|WD~Late_Jurassic,499312]]'
+- '[[/_Standards/WikiData/WD~Late_Jurassic,499312|WD~Late_Jurassic,499312]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic|Epoch-162~Late_Jurassic]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic.public|Epoch-162~Late_Jurassic.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic.internal|Epoch-162~Late_Jurassic.internal]]'
@@ -178,7 +178,7 @@ dv_has_text_of_color: 0xB3E3EE
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Late_Jurassic,499312|WD~Late_Jurassic,499312]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Late_Jurassic,499312|WD~Late_Jurassic,499312]] 
 
 A time period from 161.5 to 145 million years ago. 
 

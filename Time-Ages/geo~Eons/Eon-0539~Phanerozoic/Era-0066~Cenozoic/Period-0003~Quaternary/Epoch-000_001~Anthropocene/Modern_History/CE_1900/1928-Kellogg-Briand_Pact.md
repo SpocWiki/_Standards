@@ -54,11 +54,11 @@ aliases:
 - 非戰公約
 - 켈로그-브리앙 조약
 has_id_wikidata: Q205073
-instance_of: '[[_Standards/WikiData/WD~treaty,131569|WD~treaty,131569]]'
+instance_of: '[[/_Standards/WikiData/WD~treaty,131569|WD~treaty,131569]]'
 named_after:
-- '[[_Standards/WikiData/WD~Aristide_Briand,179888|WD~Aristide_Briand,179888]]'
-- '[[_Standards/WikiData/WD~Frank_B._Kellogg,193009|WD~Frank_B._Kellogg,193009]]'
-locations: '[[_Standards/WikiData/WD~Paris,90|WD~Paris,90]]'
+- '[[/_Standards/WikiData/WD~Aristide_Briand,179888|WD~Aristide_Briand,179888]]'
+- '[[/_Standards/WikiData/WD~Frank_B._Kellogg,193009|WD~Frank_B._Kellogg,193009]]'
+locations: '[[/_Standards/WikiData/WD~Paris,90|WD~Paris,90]]'
 United_Nations_Treaty_Series_registration_number: 2137
 Library_of_Congress_Classification: KZ5593.2
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kellogg%E2%80%93Briand%20Pact%20%281928%29.jpg
@@ -152,7 +152,7 @@ dv_has_:
 
 # [[1928-Kellogg-Briand_Pact]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Kellogg-Briand_pact,205073|WD~Kellogg-Briand_pact,205073]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Kellogg-Briand_pact,205073|WD~Kellogg-Briand_pact,205073]] 
 
 ## #has_/text_of_/abstract 
 

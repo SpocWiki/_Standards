@@ -149,16 +149,16 @@ aliases:
 has_id_wikidata: Q12457
 Commons_category: International System of Units
 instance_of:
-- '[[_Standards/WikiData/WD~metric_system,232405|WD~metric_system,232405]]'
-- '[[_Standards/WikiData/WD~technical_standard,317623|WD~technical_standard,317623]]'
-- '[[_Standards/WikiData/WD~international_standard,1334738|WD~international_standard,1334738]]'
-- '[[_Standards/WikiData/WD~coherent_system_of_units,99734981|WD~coherent_system_of_units,99734981]]'
-based_on: '[[_Standards/WikiData/WD~MKS_system_of_units,512417|WD~MKS_system_of_units,512417]]'
+- '[[/_Standards/WikiData/WD~metric_system,232405|WD~metric_system,232405]]'
+- '[[/_Standards/WikiData/WD~technical_standard,317623|WD~technical_standard,317623]]'
+- '[[/_Standards/WikiData/WD~international_standard,1334738|WD~international_standard,1334738]]'
+- '[[/_Standards/WikiData/WD~coherent_system_of_units,99734981|WD~coherent_system_of_units,99734981]]'
+based_on: '[[/_Standards/WikiData/WD~MKS_system_of_units,512417|WD~MKS_system_of_units,512417]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~SI_Brochure_(9th_edition),68977219|WD~SI_Brochure_(9th_edition),68977219]]'
-- '[[_Standards/WikiData/WD~International_Vocabulary_of_Metrology_(3rd_edition,_2012),70257574|WD~International_Vocabulary_of_Metrology_(3rd_edition,_2012),70257574]]'
-- '[[_Standards/WikiData/WD~DIN_1301,105424877|WD~DIN_1301,105424877]]'
+- '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[/_Standards/WikiData/WD~SI_Brochure_(9th_edition),68977219|WD~SI_Brochure_(9th_edition),68977219]]'
+- '[[/_Standards/WikiData/WD~International_Vocabulary_of_Metrology_(3rd_edition,_2012),70257574|WD~International_Vocabulary_of_Metrology_(3rd_edition,_2012),70257574]]'
+- '[[/_Standards/WikiData/WD~DIN_1301,105424877|WD~DIN_1301,105424877]]'
 short_name:
 - SI
 - СИ
@@ -360,7 +360,7 @@ dv_has_:
 
 SI-Units are defined since 1967 and standardized in ISO_80000. 
 
-#is_/same_as :: [[_Standards/WikiData/WD~International_System_of_Units,12457|WD~International_System_of_Units,12457]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~International_System_of_Units,12457|WD~International_System_of_Units,12457]] 
 
 ## #has_/text_of_/abstract 
 

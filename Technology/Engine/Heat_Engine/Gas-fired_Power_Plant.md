@@ -6,9 +6,9 @@ aliases:
   - methane gas power plant
   - Gaskraftwerk
 has_id_wikidata: Q2944640
-subclass_of: "[[_Standards/WikiData/WD~thermal_power_station,200297]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Gas_fired_power_stations,54356426]]"
+subclass_of: "[[/_Standards/WikiData/WD~thermal_power_station,200297]]"
+on_focus_list_of_Wikimedia_project: "[[/_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
+topic_s_main_category: "[[/_Standards/WikiData/WD~Category_Gas_fired_power_stations,54356426]]"
 carbon_footprint: 490
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Deponiegas-Kraftwerk%20Beselich%201990.jpg

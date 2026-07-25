@@ -48,24 +48,24 @@ aliases:
 - 유리기
 has_id_wikidata: Q185056
 different_from:
-- '[[_Standards/WikiData/WD~functional_group,170409|WD~functional_group,170409]]'
-- '[[_Standards/WikiData/WD~substituent_group,898422|WD~substituent_group,898422]]'
-- '[[_Standards/WikiData/WD~moiety,23005640|WD~moiety,23005640]]'
-has_part_s_: '[[_Standards/WikiData/WD~unpaired_electron,374793|WD~unpaired_electron,374793]]'
+- '[[/_Standards/WikiData/WD~functional_group,170409|WD~functional_group,170409]]'
+- '[[/_Standards/WikiData/WD~substituent_group,898422|WD~substituent_group,898422]]'
+- '[[/_Standards/WikiData/WD~moiety,23005640|WD~moiety,23005640]]'
+has_part_s_: '[[/_Standards/WikiData/WD~unpaired_electron,374793|WD~unpaired_electron,374793]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-has_characteristic: '[[_Standards/WikiData/WD~reactivity,778774|WD~reactivity,778774]]'
+- '[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+has_characteristic: '[[/_Standards/WikiData/WD~reactivity,778774|WD~reactivity,778774]]'
 used_by:
-- '[[_Standards/WikiData/WD~radical_substitution,902198|WD~radical_substitution,902198]]'
-- '[[_Standards/WikiData/WD~free_radical_addition,2509690|WD~free_radical_addition,2509690]]'
+- '[[/_Standards/WikiData/WD~radical_substitution,902198|WD~radical_substitution,902198]]'
+- '[[/_Standards/WikiData/WD~free_radical_addition,2509690|WD~free_radical_addition,2509690]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~reactive_intermediate,2134627|WD~reactive_intermediate,2134627]]'
-- '[[_Standards/WikiData/WD~molecular_entity,2393187|WD~molecular_entity,2393187]]'
-- '[[_Standards/WikiData/WD~reaction_intermediate,7458208|WD~reaction_intermediate,7458208]]'
-participant_in: '[[_Standards/WikiData/WD~free_radical_reaction,3743176|WD~free_radical_reaction,3743176]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
+- '[[/_Standards/WikiData/WD~reactive_intermediate,2134627|WD~reactive_intermediate,2134627]]'
+- '[[/_Standards/WikiData/WD~molecular_entity,2393187|WD~molecular_entity,2393187]]'
+- '[[/_Standards/WikiData/WD~reaction_intermediate,7458208|WD~reaction_intermediate,7458208]]'
+participant_in: '[[/_Standards/WikiData/WD~free_radical_reaction,3743176|WD~free_radical_reaction,3743176]]'
+instance_of: '[[/_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
 Commons_category: Radicals
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hydroxyl%20radical.svg
 Dewey_Decimal_Classification: 541.224
@@ -179,7 +179,7 @@ dv_has_:
 
 # [[Radical(Chemistry)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Radical,185056|WD~Radical,185056]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Radical,185056|WD~Radical,185056]] 
 
 ## #has_/text_of_/abstract 
 

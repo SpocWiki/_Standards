@@ -56,19 +56,19 @@ aliases:
 - 아바르족
 has_id_wikidata: Q68962
 different_from:
-- '[[_Standards/WikiData/WD~Avars,172717|WD~Avars,172717]]'
-- '[[_Standards/WikiData/WD~Avare,2873365|WD~Avare,2873365]]'
+- '[[/_Standards/WikiData/WD~Avars,172717|WD~Avars,172717]]'
+- '[[/_Standards/WikiData/WD~Avare,2873365|WD~Avare,2873365]]'
 described_by_source:
 - '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Kościelna_encyclopedia,9253865|WD~Kościelna_encyclopedia,9253865]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713|WD~Vlastenský_slovník_historický,19538713]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-instance_of: '[[_Standards/WikiData/WD~historical_ethnic_group,4204501|WD~historical_ethnic_group,4204501]]'
+- '[[/_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- "[[/_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[/_Standards/WikiData/WD~Kościelna_encyclopedia,9253865|WD~Kościelna_encyclopedia,9253865]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713|WD~Vlastenský_slovník_historický,19538713]]'
+- '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+instance_of: '[[/_Standards/WikiData/WD~historical_ethnic_group,4204501|WD~historical_ethnic_group,4204501]]'
 Commons_category: Eurasian Avars
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bogenschuetzen%20Reiter-2.jpg
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/AVARI.html
@@ -172,7 +172,7 @@ dv_has_:
 
 # [[0600-Pannonian_Avars-0900]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pannonian_Avars,68962|WD~Pannonian_Avars,68962]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Pannonian_Avars,68962|WD~Pannonian_Avars,68962]] 
 
 ## #has_/text_of_/abstract 
 

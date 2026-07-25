@@ -93,23 +93,23 @@ aliases:
 has_id_wikidata: Q186299
 described_by_source:
 - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878|WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- "[[/_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[/_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878|WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 inflows:
-- '[[_Standards/WikiData/WD~Malvathu_River,1634397|WD~Malvathu_River,1634397]]'
-- '[[_Standards/WikiData/WD~Mandekal_Aru,6747941|WD~Mandekal_Aru,6747941]]'
-- '[[_Standards/WikiData/WD~Nay_Aru,6983008|WD~Nay_Aru,6983008]]'
-- '[[_Standards/WikiData/WD~Pali_Aru,7127505|WD~Pali_Aru,7127505]]'
-- '[[_Standards/WikiData/WD~Pallavarayankaddu_Aru,7127771|WD~Pallavarayankaddu_Aru,7127771]]'
-- '[[_Standards/WikiData/WD~Parangi_Aru,7135487|WD~Parangi_Aru,7135487]]'
-basin_country: '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
-country: '[[_Standards/WikiData/WD~Sri_Lanka,854|WD~Sri_Lanka,854]]'
-part_of: '[[_Standards/WikiData/WD~Indian_Ocean,1239|WD~Indian_Ocean,1239]]'
-instance_of: '[[_Standards/WikiData/WD~strait,37901|WD~strait,37901]]'
+- '[[/_Standards/WikiData/WD~Malvathu_River,1634397|WD~Malvathu_River,1634397]]'
+- '[[/_Standards/WikiData/WD~Mandekal_Aru,6747941|WD~Mandekal_Aru,6747941]]'
+- '[[/_Standards/WikiData/WD~Nay_Aru,6983008|WD~Nay_Aru,6983008]]'
+- '[[/_Standards/WikiData/WD~Pali_Aru,7127505|WD~Pali_Aru,7127505]]'
+- '[[/_Standards/WikiData/WD~Pallavarayankaddu_Aru,7127771|WD~Pallavarayankaddu_Aru,7127771]]'
+- '[[/_Standards/WikiData/WD~Parangi_Aru,7135487|WD~Parangi_Aru,7135487]]'
+basin_country: '[[/_Standards/WikiData/WD~India,668|WD~India,668]]'
+country: '[[/_Standards/WikiData/WD~Sri_Lanka,854|WD~Sri_Lanka,854]]'
+part_of: '[[/_Standards/WikiData/WD~Indian_Ocean,1239|WD~Indian_Ocean,1239]]'
+instance_of: '[[/_Standards/WikiData/WD~strait,37901|WD~strait,37901]]'
 Commons_category: Palk Strait
 image: http://commons.wikimedia.org/wiki/Special:FilePath/AdamsBridge02-NASA.jpg
 coordinate_location: Point(79.5 9.833333333)
@@ -197,7 +197,7 @@ dv_has_:
 
 # [[Palk_Strait]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Palk_Strait,186299|WD~Palk_Strait,186299]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Palk_Strait,186299|WD~Palk_Strait,186299]] 
 
 ## #has_/map  
 

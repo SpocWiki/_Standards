@@ -130,7 +130,7 @@ dv_has_:
   properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~crematorium,157570|WD~crematorium,157570]]'
+  - '[[/_Standards/WikiData/WD~crematorium,157570|WD~crematorium,157570]]'
   - '[[/_Standards/Earth/Geography/Place/Civic_Structure/Crematorium|Crematorium]]'
   - '[[/_public/Earth/Geography/Place/Civic_Structure/Crematorium.public|Crematorium.public]]'
   - '[[/_internal/Earth/Geography/Place/Civic_Structure/Crematorium.internal|Crematorium.internal]]'
@@ -141,7 +141,7 @@ dv_is_:
 dv_has_parent_class: '[[../CivicStructure|CivicStructure]]'
 dv_has_properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~crematorium,157570|WD~crematorium,157570]]'
+- '[[/_Standards/WikiData/WD~crematorium,157570|WD~crematorium,157570]]'
 - '[[/_Standards/Earth/Geography/Place/Civic_Structure/Crematorium|Crematorium]]'
 - '[[/_public/Earth/Geography/Place/Civic_Structure/Crematorium.public|Crematorium.public]]'
 - '[[/_internal/Earth/Geography/Place/Civic_Structure/Crematorium.internal|Crematorium.internal]]'
@@ -162,7 +162,7 @@ has_parent_class = `=this.dv_has_parent_class`] ]
 
 has_properties = `=this.dv_has_properties` ]
 
-#is_/same_as :: [[_Standards/WikiData/WD~crematorium,157570|WD~crematorium,157570]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~crematorium,157570|WD~crematorium,157570]] 
 
 ## #has_/text_of_/abstract 
 

@@ -6,20 +6,20 @@ aliases:
   - Cum Cum
 has_id_wikidata: Q5284043
 facet_of:
-  - "[[_Standards/WikiData/WD~dividend,181201]]"
-  - "[[_Standards/WikiData/WD~tax_investigation,883365]]"
-  - "[[_Standards/WikiData/WD~Ex_dividend_date,1383264]]"
-  - "[[_Standards/WikiData/WD~Q1445370,1445370]]"
-  - "[[_Standards/WikiData/WD~trade,4461003]]"
-  - "[[_Standards/WikiData/WD~public_finance,26877728]]"
+  - "[[/_Standards/WikiData/WD~dividend,181201]]"
+  - "[[/_Standards/WikiData/WD~tax_investigation,883365]]"
+  - "[[/_Standards/WikiData/WD~Ex_dividend_date,1383264]]"
+  - "[[/_Standards/WikiData/WD~Q1445370,1445370]]"
+  - "[[/_Standards/WikiData/WD~trade,4461003]]"
+  - "[[/_Standards/WikiData/WD~public_finance,26877728]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~tax_avoidance,329303]]"
-  - "[[_Standards/WikiData/WD~tax_evasion,6502151]]"
-instance_of: "[[_Standards/WikiData/WD~business_model,815823]]"
+  - "[[/_Standards/WikiData/WD~tax_avoidance,329303]]"
+  - "[[/_Standards/WikiData/WD~tax_evasion,6502151]]"
+instance_of: "[[/_Standards/WikiData/WD~business_model,815823]]"
 applies_to_jurisdiction:
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
+  - "[[/_Standards/WikiData/WD~United_States,30]]"
+  - "[[/_Standards/WikiData/WD~France,142]]"
+  - "[[/_Standards/WikiData/WD~Germany,183]]"
 short_name:
   - Cum-Ex
   - Cum-Cum

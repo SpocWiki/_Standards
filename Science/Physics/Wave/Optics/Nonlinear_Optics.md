@@ -46,9 +46,9 @@ aliases:
 - 비선형 광학
 - 비선형광학
 has_id_wikidata: Q756033
-instance_of: '[[_Standards/WikiData/WD~branch_of_physics,4162444|WD~branch_of_physics,4162444]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
-subclass_of: '[[_Standards/WikiData/WD~optics,14620|WD~optics,14620]]'
+instance_of: '[[/_Standards/WikiData/WD~branch_of_physics,4162444|WD~branch_of_physics,4162444]]'
+described_by_source: '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+subclass_of: '[[/_Standards/WikiData/WD~optics,14620|WD~optics,14620]]'
 short_name:
 - NLO
 - ONL
@@ -114,7 +114,7 @@ dv_has_:
 
 # [[Nonlinear_Optics]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nonlinear_optics,756033|WD~Nonlinear_optics,756033]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Nonlinear_optics,756033|WD~Nonlinear_optics,756033]] 
 
 ## #has_/text_of_/abstract 
 

@@ -53,7 +53,7 @@ dv_has_inverse: "[[is_acquire_license_page_for]]"
 dv_is_part_of: "pending:"
 dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
 dv_has_name: has_acquire_license_page
-dv_has_range: "[[_Standards/Society/Communication/Media/Creative_Work.md|Creative_Work]],[[_Standards/schema-org/Class/is_a_/Data_Type/Text/Url.md|Url]]"
+dv_has_range: "[[/_Standards/Society/Communication/Media/Creative_Work.md|Creative_Work]],[[/_Standards/schema-org/Class/is_a_/Data_Type/Text/Url.md|Url]]"
 dv_is_same_as:
   - "[[has_acquire_license_page]]"
   - "[[/_public/schema-org/Relation/has/has_acquire_license_page.public|has_acquire_license_page.public]]"

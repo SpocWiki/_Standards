@@ -38,13 +38,13 @@ aliases:
 ischart: LowerTriassic
 has_id_wikidata: Q1075885
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Early_Triassic,21568731|WD~Category_Early_Triassic,21568731]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q117281940,117281940|WD~Q117281940,117281940]]'
+- '[[/_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[/_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Early_Triassic,21568731|WD~Category_Early_Triassic,21568731]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+said_to_be_the_same_as: '[[/_Standards/WikiData/WD~Q117281940,117281940|WD~Q117281940,117281940]]'
 start_time: -252170000-01-01T00:00:00Z
-named_after: '[[_Standards/WikiData/WD~Q201,201|WD~Q201,201]]'
+named_after: '[[/_Standards/WikiData/WD~Q201,201|WD~Q201,201]]'
 end_time: -247200000-01-01T00:00:00Z
 sRGB_color_hex_triplet: AD579A
 Dewey_Decimal_Classification: 551.762
@@ -107,7 +107,7 @@ dv_has_:
     stopped: -247.200e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Early_Triassic,1075885|WD~Early_Triassic,1075885]]'
+  - '[[/_Standards/WikiData/WD~Early_Triassic,1075885|WD~Early_Triassic,1075885]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic|Epoch-252~Early_Triassic]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic.public|Epoch-252~Early_Triassic.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic.internal|Epoch-252~Early_Triassic.internal]]'
@@ -119,7 +119,7 @@ dv_has_duration_years: 4.702e+6
 dv_has_previous_item: '[[../../Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian|Epoch-259~Lopingian]]'
 dv_has_next_item: '[[Epoch-247~Middle_Triassic]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Early_Triassic,1075885|WD~Early_Triassic,1075885]]'
+- '[[/_Standards/WikiData/WD~Early_Triassic,1075885|WD~Early_Triassic,1075885]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic|Epoch-252~Early_Triassic]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic.public|Epoch-252~Early_Triassic.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic.internal|Epoch-252~Early_Triassic.internal]]'
@@ -161,7 +161,7 @@ dv_has_text_of_color: 0x983999
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Early_Triassic,1075885|WD~Early_Triassic,1075885]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Early_Triassic,1075885|WD~Early_Triassic,1075885]] 
 
 A time period from 251.902 to 247.2 million years ago. 
 

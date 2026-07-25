@@ -29,14 +29,14 @@ aliases:
 - 吉維特階
 - 吉维特期
 has_id_wikidata: Q650845
-named_after: '[[_Standards/WikiData/WD~Givet,241940|WD~Givet,241940]]'
+named_after: '[[/_Standards/WikiData/WD~Givet,241940|WD~Givet,241940]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-named_by: '[[_Standards/WikiData/WD~Jules_Gosselet,572826|WD~Jules_Gosselet,572826]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Givetian,24068695|WD~Category_Givetian,24068695]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Givetian,134570687|WD~GSSP_for_the_base_of_the_Givetian,134570687]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_by: '[[/_Standards/WikiData/WD~Jules_Gosselet,572826|WD~Jules_Gosselet,572826]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Givetian,24068695|WD~Category_Givetian,24068695]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_the_Givetian,134570687|WD~GSSP_for_the_base_of_the_Givetian,134570687]]'
 coordinate_location: Point(-4.35416667 31.2375)
 end_time: -382700000-01-01T00:00:00Z
 start_time: -387700000-01-01T00:00:00Z
@@ -93,7 +93,7 @@ dv_has_:
     stopped: -382.7e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Givetian,650845|WD~Givetian,650845]]'
+  - '[[/_Standards/WikiData/WD~Givetian,650845|WD~Givetian,650845]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian|Age~2~Givetian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian.public|Age~2~Givetian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian.internal|Age~2~Givetian.internal]]'
@@ -105,7 +105,7 @@ dv_has_duration_years: 5.000e+6
 dv_has_previous_item: '[[Age~1~Eifelian]]'
 dv_has_next_item: '[[../Epoch-382~Late_Devonian/Age~1~Frasnian|Age~1~Frasnian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Givetian,650845|WD~Givetian,650845]]'
+- '[[/_Standards/WikiData/WD~Givetian,650845|WD~Givetian,650845]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian|Age~2~Givetian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian.public|Age~2~Givetian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~2~Givetian.internal|Age~2~Givetian.internal]]'
@@ -147,7 +147,7 @@ dv_has_text_of_color: 0xF1E185
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Givetian,650845|WD~Givetian,650845]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Givetian,650845|WD~Givetian,650845]] 
 
 A time period from 387.7 to 382.7 million years ago. 
 

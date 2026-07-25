@@ -15,9 +15,9 @@ aliases:
 - 陸龜總科
 - 땅거북상과
 has_id_wikidata: Q1946537
-taxonomic_type: '[[_Standards/WikiData/WD~Testudo_graeca,504549|WD~Testudo_graeca,504549]]'
-taxon_rank: '[[_Standards/WikiData/WD~superfamily,2136103|WD~superfamily,2136103]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxonomic_type: '[[/_Standards/WikiData/WD~Testudo_graeca,504549|WD~Testudo_graeca,504549]]'
+taxon_rank: '[[/_Standards/WikiData/WD~superfamily,2136103|WD~superfamily,2136103]]'
+instance_of: '[[/_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 ITIS_TSN: 948948
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Halden%20011.jpg

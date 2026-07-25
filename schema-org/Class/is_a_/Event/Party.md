@@ -73,12 +73,12 @@ aliases:
 - 잔치
 has_id_wikidata: Q200538
 different_from:
-- '[[_Standards/WikiData/WD~Party,230880|WD~Party,230880]]'
-- '[[_Standards/WikiData/WD~The_Party,577407|WD~The_Party,577407]]'
-- '[[_Standards/WikiData/WD~party,17414829|WD~party,17414829]]'
-subclass_of: '[[_Standards/WikiData/WD~event,1656682|WD~event,1656682]]'
-described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-instance_of: '[[_Standards/WikiData/WD~form_of_event,108586636|WD~form_of_event,108586636]]'
+- '[[/_Standards/WikiData/WD~Party,230880|WD~Party,230880]]'
+- '[[/_Standards/WikiData/WD~The_Party,577407|WD~The_Party,577407]]'
+- '[[/_Standards/WikiData/WD~party,17414829|WD~party,17414829]]'
+subclass_of: '[[/_Standards/WikiData/WD~event,1656682|WD~event,1656682]]'
+described_by_source: '[[/_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+instance_of: '[[/_Standards/WikiData/WD~form_of_event,108586636|WD~form_of_event,108586636]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20%28French%29%20-%20A%20Centennial%20of%20Independence%20-%20Google%20Art%20Project.jpg
 IPTC_NewsCode: mediatopic/20001143
 Commons_category: Parties
@@ -202,7 +202,7 @@ dv_has_:
 
 # [[Party]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Party,200538|WD~Party,200538]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Party,200538|WD~Party,200538]] 
 
 ## #has_/text_of_/abstract 
 

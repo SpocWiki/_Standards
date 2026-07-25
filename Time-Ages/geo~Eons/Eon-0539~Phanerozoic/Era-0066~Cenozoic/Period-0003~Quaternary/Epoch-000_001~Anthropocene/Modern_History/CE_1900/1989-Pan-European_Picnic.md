@@ -37,23 +37,23 @@ aliases:
 - 泛歐野餐
 - 범유럽 피크닉
 has_id_wikidata: Q160056
-organizer: '[[_Standards/WikiData/WD~Otto_von_Habsburg,76343|WD~Otto_von_Habsburg,76343]]'
+organizer: '[[/_Standards/WikiData/WD~Otto_von_Habsburg,76343|WD~Otto_von_Habsburg,76343]]'
 instance_of:
-- '[[_Standards/WikiData/WD~demonstration,175331|WD~demonstration,175331]]'
-- '[[_Standards/WikiData/WD~picnic,506294|WD~picnic,506294]]'
-located_on_street: '[[_Standards/WikiData/WD~Route_8532,105354554|WD~Route_8532,105354554]]'
-location: '[[_Standards/WikiData/WD~Pan_European_Picnic_Memorial_Park,131579592|WD~Pan_European_Picnic_Memorial_Park,131579592]]'
+- '[[/_Standards/WikiData/WD~demonstration,175331|WD~demonstration,175331]]'
+- '[[/_Standards/WikiData/WD~picnic,506294|WD~picnic,506294]]'
+located_on_street: '[[/_Standards/WikiData/WD~Route_8532,105354554|WD~Route_8532,105354554]]'
+location: '[[/_Standards/WikiData/WD~Pan_European_Picnic_Memorial_Park,131579592|WD~Pan_European_Picnic_Memorial_Park,131579592]]'
 coordinate_location: Point(16.622336 47.757099)
 country:
-- "[[_Standards/WikiData/WD~Hungarian_People's_Republic,16410|WD~Hungarian_People's_Republic,16410]]"
-- '[[_Standards/WikiData/WD~Austria,40|WD~Austria,40]]'
+- "[[/_Standards/WikiData/WD~Hungarian_People's_Republic,16410|WD~Hungarian_People's_Republic,16410]]"
+- '[[/_Standards/WikiData/WD~Austria,40|WD~Austria,40]]'
 point_in_time: 1989-08-19T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Paneur%20grenz%C3%BCbergang%20130609.JPG
 Commons_category: Pan-European Picnic
 dv_is_:
   same_as:
   - 
-  - '[[_Standards/WikiData/WD~Pan-European_Picnic,160056|WD~Pan-European_Picnic,160056]]'
+  - '[[/_Standards/WikiData/WD~Pan-European_Picnic,160056|WD~Pan-European_Picnic,160056]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Pan-European_Picnic|1989-Pan-European_Picnic]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Pan-European_Picnic.public|1989-Pan-European_Picnic.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Pan-European_Picnic.internal|1989-Pan-European_Picnic.internal]]'
@@ -107,7 +107,7 @@ dv_has_:
     started: 1989-08-19T00:00:00.000+02:00
 dv_is_same_as:
 - 
-- '[[_Standards/WikiData/WD~Pan-European_Picnic,160056|WD~Pan-European_Picnic,160056]]'
+- '[[/_Standards/WikiData/WD~Pan-European_Picnic,160056|WD~Pan-European_Picnic,160056]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Pan-European_Picnic|1989-Pan-European_Picnic]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Pan-European_Picnic.public|1989-Pan-European_Picnic.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Pan-European_Picnic.internal|1989-Pan-European_Picnic.internal]]'
@@ -122,7 +122,7 @@ dv_has_time_started: 1989-08-19
 
 #is_/same_as :: 
 has_time_started = `=this.dv_has_time_started` 
-#is_/same_as :: [[_Standards/WikiData/WD~Pan-European_Picnic,160056|WD~Pan-European_Picnic,160056]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Pan-European_Picnic,160056|WD~Pan-European_Picnic,160056]] 
 
 ## #has_/text_of_/abstract 
 

@@ -28,9 +28,9 @@ aliases:
 - 메타 물질
 has_id_wikidata: Q497166
 subclass_of:
-- '[[_Standards/WikiData/WD~composite_material,181790|WD~composite_material,181790]]'
-- '[[_Standards/WikiData/WD~material,214609|WD~material,214609]]'
-model_item: '[[_Standards/WikiData/WD~photonic_metamaterial,7187869|WD~photonic_metamaterial,7187869]]'
+- '[[/_Standards/WikiData/WD~composite_material,181790|WD~composite_material,181790]]'
+- '[[/_Standards/WikiData/WD~material,214609|WD~material,214609]]'
+model_item: '[[/_Standards/WikiData/WD~photonic_metamaterial,7187869|WD~photonic_metamaterial,7187869]]'
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/metamaterials
 Commons_category: Metamaterials
 dv_is_:
@@ -101,7 +101,7 @@ dv_has_:
 
 # [[Metamaterial]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Metamaterial,497166|WD~Metamaterial,497166]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Metamaterial,497166|WD~Metamaterial,497166]] 
 
 ## #has_/text_of_/abstract 
 

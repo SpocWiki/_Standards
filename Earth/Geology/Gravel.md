@@ -77,11 +77,11 @@ aliases:
 has_id_wikidata: Q133833
 described_by_source:
 - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-different_from: '[[_Standards/WikiData/WD~crushed_stone,1262699|WD~crushed_stone,1262699]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+different_from: '[[/_Standards/WikiData/WD~crushed_stone,1262699|WD~crushed_stone,1262699]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~dry_bulk_cargo,2259909|WD~dry_bulk_cargo,2259909]]'
-- '[[_Standards/WikiData/WD~clastic_sediment,12372934|WD~clastic_sediment,12372934]]'
+- '[[/_Standards/WikiData/WD~dry_bulk_cargo,2259909|WD~dry_bulk_cargo,2259909]]'
+- '[[/_Standards/WikiData/WD~clastic_sediment,12372934|WD~clastic_sediment,12372934]]'
 OmegaWiki_Defined_Meaning: 1680
 Iconclass_notation: 25D22
 UNSPSC_Code: 11111611
@@ -212,7 +212,7 @@ dv_has_:
 
 # [[Gravel]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Gravel,133833|WD~Gravel,133833]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Gravel,133833|WD~Gravel,133833]] 
 
 ## #has_/text_of_/abstract 
 

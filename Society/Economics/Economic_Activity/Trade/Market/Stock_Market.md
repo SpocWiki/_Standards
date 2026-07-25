@@ -69,11 +69,11 @@ aliases:
 - 주식시장
 has_id_wikidata: Q475000
 subclass_of:
-- '[[_Standards/WikiData/WD~capital_market,750458|WD~capital_market,750458]]'
-- '[[_Standards/WikiData/WD~artificial_object,16686448|WD~artificial_object,16686448]]'
-uses: '[[_Standards/WikiData/WD~variable_pricing,7915726|WD~variable_pricing,7915726]]'
+- '[[/_Standards/WikiData/WD~capital_market,750458|WD~capital_market,750458]]'
+- '[[/_Standards/WikiData/WD~artificial_object,16686448|WD~artificial_object,16686448]]'
+uses: '[[/_Standards/WikiData/WD~variable_pricing,7915726|WD~variable_pricing,7915726]]'
 instance_of: '[[../../../../../WikiData/WD~economic_activity,8187769|WD~economic_activity,8187769]]'
-operator: '[[_Standards/WikiData/WD~stock_exchange,11691|WD~stock_exchange,11691]]'
+operator: '[[/_Standards/WikiData/WD~stock_exchange,11691|WD~stock_exchange,11691]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Philippine-stock-market-board.jpg
 described_at_URL: https://neal.fun/earth-reviews/stock-market
 GitHub_topic: stock-market
@@ -166,7 +166,7 @@ dv_has_:
 
 # [[Stock_Market]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Stock_Market,475000|WD~Stock_Market,475000]]
+#is_/same_as :: [[/_Standards/WikiData/WD~Stock_Market,475000|WD~Stock_Market,475000]]
 
 ## #has_/text_of_/abstract 
 

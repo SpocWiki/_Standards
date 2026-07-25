@@ -106,36 +106,36 @@ has_id_wikidata: Q12370
 Commons_category: Salts
 described_by_source:
 - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[/_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[/_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 different_from:
-- '[[_Standards/WikiData/WD~sodium_chloride,2314|WD~sodium_chloride,2314]]'
-- '[[_Standards/WikiData/WD~table_salt,11254|WD~table_salt,11254]]'
+- '[[/_Standards/WikiData/WD~sodium_chloride,2314|WD~sodium_chloride,2314]]'
+- '[[/_Standards/WikiData/WD~table_salt,11254|WD~table_salt,11254]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~anion,107968|WD~anion,107968]]'
-- '[[_Standards/WikiData/WD~cation,326277|WD~cation,326277]]'
+- '[[/_Standards/WikiData/WD~anion,107968|WD~anion,107968]]'
+- '[[/_Standards/WikiData/WD~cation,326277|WD~cation,326277]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Ammonium-cerium%28IV%29-sulfate-sample.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Cobalt%28II%29-chloride-hexahydrate-sample.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Nickel%28II%29-chloride-hexahydrate-sample.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Nickel%28II%29-sulfate-hexahydrate-sample.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Potassium-dichromate-sample.jpg
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
+instance_of: '[[/_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
 MeSH_tree_code: D01.786
 name_in_kana: えん
 OmegaWiki_Defined_Meaning: 3299
 part_of:
-- '[[_Standards/WikiData/WD~response_to_salt,22273555|WD~response_to_salt,22273555]]'
-- '[[_Standards/WikiData/WD~cellular_response_to_salt,22273556|WD~cellular_response_to_salt,22273556]]'
-- '[[_Standards/WikiData/WD~salt_transmembrane_transporter_activity,22324829|WD~salt_transmembrane_transporter_activity,22324829]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~ionic_compound,2366155|WD~ionic_compound,2366155]]'
+- '[[/_Standards/WikiData/WD~response_to_salt,22273555|WD~response_to_salt,22273555]]'
+- '[[/_Standards/WikiData/WD~cellular_response_to_salt,22273556|WD~cellular_response_to_salt,22273556]]'
+- '[[/_Standards/WikiData/WD~salt_transmembrane_transporter_activity,22324829|WD~salt_transmembrane_transporter_activity,22324829]]'
+said_to_be_the_same_as: '[[/_Standards/WikiData/WD~ionic_compound,2366155|WD~ionic_compound,2366155]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~ionic_compound,2366155|WD~ionic_compound,2366155]]'
-- '[[_Standards/WikiData/WD~mineral_substance,12037703|WD~mineral_substance,12037703]]'
+- '[[/_Standards/WikiData/WD~ionic_compound,2366155|WD~ionic_compound,2366155]]'
+- '[[/_Standards/WikiData/WD~mineral_substance,12037703|WD~mineral_substance,12037703]]'
 UMLS_CUI: C0036140
 Dewey_Decimal_Classification:
 - 546.34

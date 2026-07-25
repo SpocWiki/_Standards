@@ -76,18 +76,18 @@ aliases:
 has_id_wikidata: Q45813
 described_by_source:
 - '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Tengrism,837605|WD~Tengrism,837605]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[/_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+religion_or_worldview: '[[/_Standards/WikiData/WD~Tengrism,837605|WD~Tengrism,837605]]'
 instance_of:
-- '[[_Standards/WikiData/WD~historical_ethnic_group,4204501|WD~historical_ethnic_group,4204501]]'
-- '[[_Standards/WikiData/WD~extinct_human_group,55208590|WD~extinct_human_group,55208590]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13202729,13202729|WD~Q13202729,13202729]]'
-native_language: '[[_Standards/WikiData/WD~Hunnic,35959|WD~Hunnic,35959]]'
+- '[[/_Standards/WikiData/WD~historical_ethnic_group,4204501|WD~historical_ethnic_group,4204501]]'
+- '[[/_Standards/WikiData/WD~extinct_human_group,55208590|WD~extinct_human_group,55208590]]'
+permanent_duplicated_item: '[[/_Standards/WikiData/WD~Q13202729,13202729|WD~Q13202729,13202729]]'
+native_language: '[[/_Standards/WikiData/WD~Hunnic,35959|WD~Hunnic,35959]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Huns%20empire.png
 Commons_gallery: Huns
 Commons_category: Huns
@@ -225,7 +225,7 @@ dv_has_:
 
 # [[Hun]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Huns,45813|WD~Huns,45813]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Huns,45813|WD~Huns,45813]] 
 
 ## #has_/text_of_/abstract 
 

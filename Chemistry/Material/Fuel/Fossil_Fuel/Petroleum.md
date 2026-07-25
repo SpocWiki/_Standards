@@ -115,27 +115,27 @@ IPTC_NewsCode: mediatopic/20000268
 Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/NEFT_I_GAZ.html
 OpenStreetMap_tag: resource=oil
 instance_of:
-- '[[_Standards/WikiData/WD~mixture,169336|WD~mixture,169336]]'
-- '[[_Standards/WikiData/WD~commodity,317088|WD~commodity,317088]]'
-- '[[_Standards/WikiData/WD~product,2424752|WD~product,2424752]]'
-- '[[_Standards/WikiData/WD~nonmineral,7049495|WD~nonmineral,7049495]]'
+- '[[/_Standards/WikiData/WD~mixture,169336|WD~mixture,169336]]'
+- '[[/_Standards/WikiData/WD~commodity,317088|WD~commodity,317088]]'
+- '[[/_Standards/WikiData/WD~product,2424752|WD~product,2424752]]'
+- '[[/_Standards/WikiData/WD~nonmineral,7049495|WD~nonmineral,7049495]]'
 described_by_source:
 - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875|WD~The_American_Cyclopædia,19077875]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Q30059240,30059240|WD~Q30059240,30059240]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[/_Standards/WikiData/WD~The_American_Cyclopædia,19077875|WD~The_American_Cyclopædia,19077875]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[/_Standards/WikiData/WD~Q30059240,30059240|WD~Q30059240,30059240]]'
+on_focus_list_of_Wikimedia_project: '[[/_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~organic_non_mineral_compound,15727343|WD~organic_non_mineral_compound,15727343]]'
-- '[[_Standards/WikiData/WD~fossil_fuel,12748|WD~fossil_fuel,12748]]'
-- '[[_Standards/WikiData/WD~oil,42962|WD~oil,42962]]'
-associated_hazard: '[[_Standards/WikiData/WD~oil_toxicity,17152205|WD~oil_toxicity,17152205]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~petroleum,28973466|WD~petroleum,28973466]]'
+- '[[/_Standards/WikiData/WD~organic_non_mineral_compound,15727343|WD~organic_non_mineral_compound,15727343]]'
+- '[[/_Standards/WikiData/WD~fossil_fuel,12748|WD~fossil_fuel,12748]]'
+- '[[/_Standards/WikiData/WD~oil,42962|WD~oil,42962]]'
+associated_hazard: '[[/_Standards/WikiData/WD~oil_toxicity,17152205|WD~oil_toxicity,17152205]]'
+permanent_duplicated_item: '[[/_Standards/WikiData/WD~petroleum,28973466|WD~petroleum,28973466]]'
 density: 1000
 consumption_rate_per_capita: 0.013
 Kemler_code: 33
@@ -356,7 +356,7 @@ dv_has_:
 
 # [[Petroleum]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Petroleum,22656|WD~Petroleum,22656]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Petroleum,22656|WD~Petroleum,22656]] 
 
 ## #has_/text_of_/abstract 
 

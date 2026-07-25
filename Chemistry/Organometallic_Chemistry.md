@@ -45,12 +45,12 @@ aliases:
 - 有機金屬化學
 - 유기금속화학
 has_id_wikidata: Q237200
-described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
-is_the_study_of: '[[_Standards/WikiData/WD~organometallic_compound,2642710|WD~organometallic_compound,2642710]]'
+described_by_source: "[[/_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+is_the_study_of: '[[/_Standards/WikiData/WD~organometallic_compound,2642710|WD~organometallic_compound,2642710]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~branch_of_chemistry,11790203|WD~branch_of_chemistry,11790203]]'
-subclass_of: '[[_Standards/WikiData/WD~inorganic_chemistry,11165|WD~inorganic_chemistry,11165]]'
+- '[[/_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[/_Standards/WikiData/WD~branch_of_chemistry,11790203|WD~branch_of_chemistry,11790203]]'
+subclass_of: '[[/_Standards/WikiData/WD~inorganic_chemistry,11165|WD~inorganic_chemistry,11165]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Simmons-Smith%20carbene%20addition.jpg
 Commons_category: Organometallic chemistry
 dv_is_:
@@ -134,7 +134,7 @@ dv_has_:
 
 # [[Organometallic_Chemistry]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Organometallic_chemistry,237200|WD~Organometallic_chemistry,237200]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Organometallic_chemistry,237200|WD~Organometallic_chemistry,237200]] 
 
 ## #has_/text_of_/abstract 
 

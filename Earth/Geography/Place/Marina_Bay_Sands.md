@@ -1,7 +1,7 @@
 ---
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Marina_Bay_Sands,548679|WD~Marina_Bay_Sands,548679]]'
+  - '[[/_Standards/WikiData/WD~Marina_Bay_Sands,548679|WD~Marina_Bay_Sands,548679]]'
   - '[[/_Standards/Earth/Geography/Place/Marina_Bay_Sands|Marina_Bay_Sands]]'
   - '[[/_public/Earth/Geography/Place/Marina_Bay_Sands.public|Marina_Bay_Sands.public]]'
   - '[[/_internal/Earth/Geography/Place/Marina_Bay_Sands.internal|Marina_Bay_Sands.internal]]'
@@ -10,7 +10,7 @@ dv_is_:
   - '[[/_personal/Earth/Geography/Place/Marina_Bay_Sands.personal|Marina_Bay_Sands.personal]]'
   - '[[/_secret/Earth/Geography/Place/Marina_Bay_Sands.secret|Marina_Bay_Sands.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Marina_Bay_Sands,548679|WD~Marina_Bay_Sands,548679]]'
+- '[[/_Standards/WikiData/WD~Marina_Bay_Sands,548679|WD~Marina_Bay_Sands,548679]]'
 - '[[/_Standards/Earth/Geography/Place/Marina_Bay_Sands|Marina_Bay_Sands]]'
 - '[[/_public/Earth/Geography/Place/Marina_Bay_Sands.public|Marina_Bay_Sands.public]]'
 - '[[/_internal/Earth/Geography/Place/Marina_Bay_Sands.internal|Marina_Bay_Sands.internal]]'
@@ -42,25 +42,25 @@ aliases:
 - 濱海灣金沙酒店
 - 마리나 베이 샌즈
 has_id_wikidata: Q548679
-architect: '[[_Standards/WikiData/WD~Moshe_Safdie,220944|WD~Moshe_Safdie,220944]]'
+architect: '[[/_Standards/WikiData/WD~Moshe_Safdie,220944|WD~Moshe_Safdie,220944]]'
 member_of:
-- '[[_Standards/WikiData/WD~Union_of_International_Associations,549714|WD~Union_of_International_Associations,549714]]'
-- '[[_Standards/WikiData/WD~Singapore_Hotel_Association,117587430|WD~Singapore_Hotel_Association,117587430]]'
-owned_by: '[[_Standards/WikiData/WD~Las_Vegas_Sands,1506045|WD~Las_Vegas_Sands,1506045]]'
-significant_event: '[[_Standards/WikiData/WD~renovation,2144402|WD~renovation,2144402]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Downtown_Core,3810086|WD~Downtown_Core,3810086]]'
-located_on_street: '[[_Standards/WikiData/WD~Bayfront_Avenue,4874519|WD~Bayfront_Avenue,4874519]]'
+- '[[/_Standards/WikiData/WD~Union_of_International_Associations,549714|WD~Union_of_International_Associations,549714]]'
+- '[[/_Standards/WikiData/WD~Singapore_Hotel_Association,117587430|WD~Singapore_Hotel_Association,117587430]]'
+owned_by: '[[/_Standards/WikiData/WD~Las_Vegas_Sands,1506045|WD~Las_Vegas_Sands,1506045]]'
+significant_event: '[[/_Standards/WikiData/WD~renovation,2144402|WD~renovation,2144402]]'
+located_in_the_administrative_territorial_entity: '[[/_Standards/WikiData/WD~Downtown_Core,3810086|WD~Downtown_Core,3810086]]'
+located_on_street: '[[/_Standards/WikiData/WD~Bayfront_Avenue,4874519|WD~Bayfront_Avenue,4874519]]'
 instance_of:
-- '[[_Standards/WikiData/WD~casino_hotel,6043159|WD~casino_hotel,6043159]]'
-- '[[_Standards/WikiData/WD~tower_block,18142|WD~tower_block,18142]]'
-- '[[_Standards/WikiData/WD~hotel,27686|WD~hotel,27686]]'
+- '[[/_Standards/WikiData/WD~casino_hotel,6043159|WD~casino_hotel,6043159]]'
+- '[[/_Standards/WikiData/WD~tower_block,18142|WD~tower_block,18142]]'
+- '[[/_Standards/WikiData/WD~hotel,27686|WD~hotel,27686]]'
 check_out_time:
-- '[[_Standards/WikiData/WD~11_AM,41618189|WD~11_AM,41618189]]'
-- '[[_Standards/WikiData/WD~11_00,55811097|WD~11_00,55811097]]'
-check_in_time: '[[_Standards/WikiData/WD~15_00,55811778|WD~15_00,55811778]]'
-hotel_rating: '[[_Standards/WikiData/WD~5_star_hotel_rating,109248725|WD~5_star_hotel_rating,109248725]]'
+- '[[/_Standards/WikiData/WD~11_AM,41618189|WD~11_AM,41618189]]'
+- '[[/_Standards/WikiData/WD~11_00,55811097|WD~11_00,55811097]]'
+check_in_time: '[[/_Standards/WikiData/WD~15_00,55811778|WD~15_00,55811778]]'
+hotel_rating: '[[/_Standards/WikiData/WD~5_star_hotel_rating,109248725|WD~5_star_hotel_rating,109248725]]'
 coordinate_location: Point(103.86 1.2825)
-country: '[[_Standards/WikiData/WD~Singapore,334|WD~Singapore,334]]'
+country: '[[/_Standards/WikiData/WD~Singapore,334|WD~Singapore,334]]'
 floors_above_ground:
 - 55
 - 57
@@ -140,7 +140,7 @@ dv_has_:
 ![[../../../assets/Marina_Bay_Sands,Singapore.png|Marina_Bay_Sands,Singapore.png]] 
 By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/87400200@N07">Erwin Soo</a> from Singapore, Singapore - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/erwin_soo/8026531707/">view of MBS from the gardens</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=24777160">Link</a> 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Marina_Bay_Sands,548679|WD~Marina_Bay_Sands,548679]]
+#is_/same_as :: [[/_Standards/WikiData/WD~Marina_Bay_Sands,548679|WD~Marina_Bay_Sands,548679]]
 
 ## #has_/map  
 

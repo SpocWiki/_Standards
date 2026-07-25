@@ -89,12 +89,12 @@ CAS_Registry_Number: 7439-99-8
 chemical_formula: Np
 Commons_category: Neptunium
 Commons_gallery: Neptunium
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+described_by_source: '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
 Dewey_Decimal_Classification: 546.432
-different_from: '[[_Standards/WikiData/WD~Neptun,1261928|WD~Neptun,1261928]]'
+different_from: '[[/_Standards/WikiData/WD~Neptun,1261928|WD~Neptun,1261928]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Philip_Abelson,377815|WD~Philip_Abelson,377815]]'
-- '[[_Standards/WikiData/WD~Edwin_McMillan,19009|WD~Edwin_McMillan,19009]]'
+- '[[/_Standards/WikiData/WD~Philip_Abelson,377815|WD~Philip_Abelson,377815]]'
+- '[[/_Standards/WikiData/WD~Edwin_McMillan,19009|WD~Edwin_McMillan,19009]]'
 DSSTOX_compound_identifier: DTXCID3047639
 EC_number: 231-108-8
 electronegativity: 1.36
@@ -102,7 +102,7 @@ element_symbol: Np
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Neptunium2.jpg
 InChI: InChI=1S/Np
 InChIKey: LFNLGNPSGWYGGD-UHFFFAOYSA-N
-instance_of: '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+instance_of: '[[/_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 0.72
 - 0.75
@@ -114,11 +114,11 @@ MeSH_tree_code:
 - D01.496.749.305.100.550
 - D01.552.020.621
 - D01.552.544.600
-named_after: '[[_Standards/WikiData/WD~Neptune,332|WD~Neptune,332]]'
+named_after: '[[/_Standards/WikiData/WD~Neptune,332|WD~Neptune,332]]'
 OmegaWiki_Defined_Meaning: 377199
 part_of:
-- '[[_Standards/WikiData/WD~period_7,244979|WD~period_7,244979]]'
-- '[[_Standards/WikiData/WD~actinide,19577|WD~actinide,19577]]'
+- '[[/_Standards/WikiData/WD~period_7,244979|WD~period_7,244979]]'
+- '[[/_Standards/WikiData/WD~actinide,19577|WD~actinide,19577]]'
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20148.jpg
 PubChem_CID: 23933
 SpocWebEntityId: 21988

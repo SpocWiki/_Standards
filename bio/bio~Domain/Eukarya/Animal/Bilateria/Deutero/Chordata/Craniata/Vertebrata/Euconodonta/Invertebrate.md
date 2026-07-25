@@ -108,10 +108,10 @@ aliases:
 has_id_wikidata: Q43806
 described_by_source:
 - '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-instance_of: '[[_Standards/WikiData/WD~grade,2612572|WD~grade,2612572]]'
-studied_by: '[[_Standards/WikiData/WD~invertebrate_zoology,12744095|WD~invertebrate_zoology,12744095]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+instance_of: '[[/_Standards/WikiData/WD~grade,2612572|WD~grade,2612572]]'
+studied_by: '[[/_Standards/WikiData/WD~invertebrate_zoology,12744095|WD~invertebrate_zoology,12744095]]'
 Dewey_Decimal_Classification: 592
 OmegaWiki_Defined_Meaning: 2014
 Colon_Classification: K1
@@ -254,7 +254,7 @@ dv_has_:
 
 # [[Invertebrate]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Invertebrate,43806|WD~Invertebrate,43806]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Invertebrate,43806|WD~Invertebrate,43806]] 
 
 ## #has_/text_of_/abstract 
 

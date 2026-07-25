@@ -57,14 +57,14 @@ aliases:
 - 태음태양력
 has_id_wikidata: Q194235
 has_part_s_:
-- '[[_Standards/WikiData/WD~Chinese_calendar,134032|WD~Chinese_calendar,134032]]'
-- '[[_Standards/WikiData/WD~Korean_calendar,505203|WD~Korean_calendar,505203]]'
-- '[[_Standards/WikiData/WD~Japanese_calendar,13788|WD~Japanese_calendar,13788]]'
+- '[[/_Standards/WikiData/WD~Chinese_calendar,134032|WD~Chinese_calendar,134032]]'
+- '[[/_Standards/WikiData/WD~Korean_calendar,505203|WD~Korean_calendar,505203]]'
+- '[[/_Standards/WikiData/WD~Japanese_calendar,13788|WD~Japanese_calendar,13788]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~lunar_calendar,185688|WD~lunar_calendar,185688]]'
-- '[[_Standards/WikiData/WD~solar_calendar,210953|WD~solar_calendar,210953]]'
-- '[[_Standards/WikiData/WD~arithmetic_calendar,669102|WD~arithmetic_calendar,669102]]'
-- '[[_Standards/WikiData/WD~interval_scale,9337488|WD~interval_scale,9337488]]'
+- '[[/_Standards/WikiData/WD~lunar_calendar,185688|WD~lunar_calendar,185688]]'
+- '[[/_Standards/WikiData/WD~solar_calendar,210953|WD~solar_calendar,210953]]'
+- '[[/_Standards/WikiData/WD~arithmetic_calendar,669102|WD~arithmetic_calendar,669102]]'
+- '[[/_Standards/WikiData/WD~interval_scale,9337488|WD~interval_scale,9337488]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Hindu%20Lunisolar%20Calendar.ogv
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Japanese-Calendar-Color-Woodcut-1867.png
 Commons_category: Lunisolar calendars
@@ -146,7 +146,7 @@ dv_has_:
 
 # [[Lunisolar_Calendar]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Lunisolar_calendar,194235|WD~Lunisolar_calendar,194235]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Lunisolar_calendar,194235|WD~Lunisolar_calendar,194235]] 
 
 ## #has_/text_of_/abstract 
 

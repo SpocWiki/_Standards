@@ -28,14 +28,14 @@ aliases:
 - 부르디갈라절
 has_id_wikidata: Q508650
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~Orleanian,2031089|WD~Orleanian,2031089]]'
-named_by: '[[_Standards/WikiData/WD~Charles_Depéret,2958889|WD~Charles_Depéret,2958889]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Burdigalian,21607908|WD~Category_Burdigalian,21607908]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+partially_coincident_with: '[[/_Standards/WikiData/WD~Orleanian,2031089|WD~Orleanian,2031089]]'
+named_by: '[[/_Standards/WikiData/WD~Charles_Depéret,2958889|WD~Charles_Depéret,2958889]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Burdigalian,21607908|WD~Category_Burdigalian,21607908]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -20440000-01-01T00:00:00Z
-named_after: '[[_Standards/WikiData/WD~Bordeaux,1479|WD~Bordeaux,1479]]'
+named_after: '[[/_Standards/WikiData/WD~Bordeaux,1479|WD~Bordeaux,1479]]'
 Commons_category: Burdigalian
 sRGB_color_hex_triplet: FFFF41
 end_time: -15980000-01-01T00:00:00Z
@@ -102,7 +102,7 @@ dv_has_:
     stopped: -15.98e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Burdigalian,508650|WD~Burdigalian,508650]]'
+  - '[[/_Standards/WikiData/WD~Burdigalian,508650|WD~Burdigalian,508650]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian|Age~2~Burdigalian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.public|Age~2~Burdigalian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.internal|Age~2~Burdigalian.internal]]'
@@ -114,7 +114,7 @@ dv_has_duration_years: 4.460e+6
 dv_has_previous_item: '[[Age~1~Aquitanian]]'
 dv_has_next_item: '[[Age~3~Langhian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Burdigalian,508650|WD~Burdigalian,508650]]'
+- '[[/_Standards/WikiData/WD~Burdigalian,508650|WD~Burdigalian,508650]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian|Age~2~Burdigalian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.public|Age~2~Burdigalian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.internal|Age~2~Burdigalian.internal]]'
@@ -158,7 +158,7 @@ A time period from 20.44 to 15.98 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Burdigalian,508650|WD~Burdigalian,508650]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Burdigalian,508650|WD~Burdigalian,508650]] 
 
 ## #has_/text_of_/abstract 
 

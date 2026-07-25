@@ -67,10 +67,10 @@ aliases:
 - 해구
 has_id_wikidata: Q119253
 subclass_of:
-- '[[_Standards/WikiData/WD~depression,190429|WD~depression,190429]]'
-- '[[_Standards/WikiData/WD~undersea_landform,55182671|WD~undersea_landform,55182671]]'
-has_list: '[[_Standards/WikiData/WD~list_of_oceanic_trenches,1853019|WD~list_of_oceanic_trenches,1853019]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[/_Standards/WikiData/WD~depression,190429|WD~depression,190429]]'
+- '[[/_Standards/WikiData/WD~undersea_landform,55182671|WD~undersea_landform,55182671]]'
+has_list: '[[/_Standards/WikiData/WD~list_of_oceanic_trenches,1853019|WD~list_of_oceanic_trenches,1853019]]'
+described_by_source: '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Atlantic-trench.JPG
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Tiefseegr%C3%A4ben%20Karte.png
 Commons_category: Oceanic trenches
@@ -178,7 +178,7 @@ dv_has_:
 
 # [[Oceanic_Trench]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Oceanic_trench,119253|WD~Oceanic_trench,119253]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Oceanic_trench,119253|WD~Oceanic_trench,119253]] 
 
 ## #has_/text_of_/abstract 
 

@@ -46,11 +46,11 @@ aliases:
 - 원자력공학
 has_id_wikidata: Q83504
 instance_of:
-- '[[_Standards/WikiData/WD~branch_of_engineering,12015335|WD~branch_of_engineering,12015335]]'
-- '[[_Standards/WikiData/WD~applied_science,28797|WD~applied_science,28797]]'
-practiced_by: '[[_Standards/WikiData/WD~nuclear_engineer,21002336|WD~nuclear_engineer,21002336]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-subclass_of: '[[_Standards/WikiData/WD~engineering,11023|WD~engineering,11023]]'
+- '[[/_Standards/WikiData/WD~branch_of_engineering,12015335|WD~branch_of_engineering,12015335]]'
+- '[[/_Standards/WikiData/WD~applied_science,28797|WD~applied_science,28797]]'
+practiced_by: '[[/_Standards/WikiData/WD~nuclear_engineer,21002336|WD~nuclear_engineer,21002336]]'
+described_by_source: '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+subclass_of: '[[/_Standards/WikiData/WD~engineering,11023|WD~engineering,11023]]'
 Colon_Classification: D7
 GitHub_topic: nuclear-engineering
 U_S_National_Archives_Identifier: 10641717
@@ -108,7 +108,7 @@ dv_has_:
 
 # [[Nuclear_Engineering]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nuclear_engineering,83504|WD~Nuclear_engineering,83504]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Nuclear_engineering,83504|WD~Nuclear_engineering,83504]] 
 
 ## #has_/text_of_/abstract 
 

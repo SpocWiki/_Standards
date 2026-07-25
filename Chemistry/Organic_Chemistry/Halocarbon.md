@@ -29,17 +29,17 @@ aliases:
 - 鹵碳
 has_id_wikidata: Q387914
 subclass_of:
-- '[[_Standards/WikiData/WD~organic_compound,174211|WD~organic_compound,174211]]'
-- '[[_Standards/WikiData/WD~organo_main_group_compound,4531153|WD~organo_main_group_compound,4531153]]'
-- '[[_Standards/WikiData/WD~halogen_compound,26492894|WD~halogen_compound,26492894]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Organohalides,9013830|WD~Category_Organohalides,9013830]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
+- '[[/_Standards/WikiData/WD~organic_compound,174211|WD~organic_compound,174211]]'
+- '[[/_Standards/WikiData/WD~organo_main_group_compound,4531153|WD~organo_main_group_compound,4531153]]'
+- '[[/_Standards/WikiData/WD~halogen_compound,26492894|WD~halogen_compound,26492894]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Organohalides,9013830|WD~Category_Organohalides,9013830]]'
+instance_of: '[[/_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
 SMARTS_notation: '[#6][F,Cl,Br,I]'
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/ORGANICHESKIE_GALOGENIDI.html
 Commons_category: Organohalides
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Halocarbon,387914|WD~Halocarbon,387914]]'
+  - '[[/_Standards/WikiData/WD~Halocarbon,387914|WD~Halocarbon,387914]]'
   - '[[/_Standards/Chemistry/Organic_Chemistry/Halocarbon|Halocarbon]]'
   - '[[/_public/Chemistry/Organic_Chemistry/Halocarbon.public|Halocarbon.public]]'
   - '[[/_internal/Chemistry/Organic_Chemistry/Halocarbon.internal|Halocarbon.internal]]'
@@ -48,7 +48,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Organic_Chemistry/Halocarbon.personal|Halocarbon.personal]]'
   - '[[/_secret/Chemistry/Organic_Chemistry/Halocarbon.secret|Halocarbon.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Halocarbon,387914|WD~Halocarbon,387914]]'
+- '[[/_Standards/WikiData/WD~Halocarbon,387914|WD~Halocarbon,387914]]'
 - '[[/_Standards/Chemistry/Organic_Chemistry/Halocarbon|Halocarbon]]'
 - '[[/_public/Chemistry/Organic_Chemistry/Halocarbon.public|Halocarbon.public]]'
 - '[[/_internal/Chemistry/Organic_Chemistry/Halocarbon.internal|Halocarbon.internal]]'
@@ -90,7 +90,7 @@ dv_has_:
 
 # [[Halocarbon]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Halocarbon,387914|WD~Halocarbon,387914]]
+#is_/same_as :: [[/_Standards/WikiData/WD~Halocarbon,387914|WD~Halocarbon,387914]]
 
 ## #has_/text_of_/abstract 
 

@@ -44,16 +44,16 @@ aliases:
 - 농업화학
 has_id_wikidata: Q397334
 described_by_source:
-- '[[_Standards/WikiData/WD~Q2041543,2041543|WD~Q2041543,2041543]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Technical_Encyclopedia,_1st_edition,20078551|WD~Technical_Encyclopedia,_1st_edition,20078551]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-field_of_work: '[[_Standards/WikiData/WD~agrochemical,2746959|WD~agrochemical,2746959]]'
-subclass_of: '[[_Standards/WikiData/WD~agricultural_science,3606845|WD~agricultural_science,3606845]]'
-instance_of: '[[_Standards/WikiData/WD~branch_of_chemistry,11790203|WD~branch_of_chemistry,11790203]]'
-practiced_by: '[[_Standards/WikiData/WD~agricultural_chemist,22809315|WD~agricultural_chemist,22809315]]'
+- '[[/_Standards/WikiData/WD~Q2041543,2041543|WD~Q2041543,2041543]]'
+- "[[/_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[/_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[/_Standards/WikiData/WD~Technical_Encyclopedia,_1st_edition,20078551|WD~Technical_Encyclopedia,_1st_edition,20078551]]'
+- '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+field_of_work: '[[/_Standards/WikiData/WD~agrochemical,2746959|WD~agrochemical,2746959]]'
+subclass_of: '[[/_Standards/WikiData/WD~agricultural_science,3606845|WD~agricultural_science,3606845]]'
+instance_of: '[[/_Standards/WikiData/WD~branch_of_chemistry,11790203|WD~branch_of_chemistry,11790203]]'
+practiced_by: '[[/_Standards/WikiData/WD~agricultural_chemist,22809315|WD~agricultural_chemist,22809315]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20typical%20fertilizer%20application%20pump%20system.jpg
 P8189: 987007293812305200
 Commons_category: Agricultural chemistry

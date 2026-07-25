@@ -1,9 +1,9 @@
 ---
 aliases:
 has_id_wikidata: Q131151
-subclass_of: "[[_Standards/WikiData/WD~shirt,76768|WD~shirt,76768]]"
-has_use: "[[_Standards/WikiData/WD~casual_clothes,1961165|WD~casual_clothes,1961165]]"
-has_part_s_: "[[_Standards/WikiData/WD~short_sleeve,29126275|WD~short_sleeve,29126275]]"
+subclass_of: "[[/_Standards/WikiData/WD~shirt,76768|WD~shirt,76768]]"
+has_use: "[[/_Standards/WikiData/WD~casual_clothes,1961165|WD~casual_clothes,1961165]]"
+has_part_s_: "[[/_Standards/WikiData/WD~short_sleeve,29126275|WD~short_sleeve,29126275]]"
 water_footprint: 2000
 Nomenclature_for_Museum_Cataloging: "2477"
 OmegaWiki_Defined_Meaning: "8005"
@@ -27,7 +27,7 @@ booru_tag:
 
 # [[T-Shirt]] 👕 
 
-#is_/same_as :: [[_Standards/WikiData/WD~T-Shirt,131151|WD~T-Shirt,131151]]
+#is_/same_as :: [[/_Standards/WikiData/WD~T-Shirt,131151|WD~T-Shirt,131151]]
 
 ## #has_/text_of_/abstract 
 

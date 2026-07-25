@@ -4,9 +4,9 @@ aliases:
 has_id_wikidata: Q662509
 Unicode_character: 🃦
 instance_of:
-  - "[[_Standards/WikiData/WD~trump,727407|WD~trump,727407]]"
-  - "[[_Standards/WikiData/WD~playing_card,47883|WD~playing_card,47883]]"
-part_of: "[[_Standards/WikiData/WD~Major_Arcana,11158357|WD~Major_Arcana,11158357]]"
+  - "[[/_Standards/WikiData/WD~trump,727407|WD~trump,727407]]"
+  - "[[/_Standards/WikiData/WD~playing_card,47883|WD~playing_card,47883]]"
+part_of: "[[/_Standards/WikiData/WD~Major_Arcana,11158357|WD~Major_Arcana,11158357]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/L%27Amoureux%20tarot%20charles6.jpg
 Commons_category: Lovers (Major Arcana)
 ---

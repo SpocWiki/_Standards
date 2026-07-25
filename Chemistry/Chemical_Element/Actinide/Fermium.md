@@ -70,8 +70,8 @@ CAS_Registry_Number: 7440-72-4
 chemical_formula: Fm
 Commons_category: Fermium
 Commons_gallery: Fermium
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973|WD~Glenn_T._Seaborg,48973]]'
+described_by_source: '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+discoverer_or_inventor: '[[/_Standards/WikiData/WD~Glenn_T._Seaborg,48973|WD~Glenn_T._Seaborg,48973]]'
 DSSTOX_compound_identifier: DTXCID60147884
 electronegativity: 1.3
 element_symbol: Fm
@@ -79,8 +79,8 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Fermium-Ytterbium%20Al
 InChI: InChI=1S/Fm
 InChIKey: MIORUQGGZCBUGO-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~synthetic_element,755992|WD~synthetic_element,755992]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+- '[[/_Standards/WikiData/WD~synthetic_element,755992|WD~synthetic_element,755992]]'
+- '[[/_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 mass: 257.095
 MeSH_tree_code:
 - D01.268.271.100.275
@@ -88,16 +88,16 @@ MeSH_tree_code:
 - D01.496.749.305.100.275
 - D01.552.020.394
 - D01.552.544.266
-named_after: '[[_Standards/WikiData/WD~Enrico_Fermi,8753|WD~Enrico_Fermi,8753]]'
+named_after: '[[/_Standards/WikiData/WD~Enrico_Fermi,8753|WD~Enrico_Fermi,8753]]'
 OmegaWiki_Defined_Meaning: 158627
 part_of:
-- '[[_Standards/WikiData/WD~period_7,244979|WD~period_7,244979]]'
-- '[[_Standards/WikiData/WD~actinide,19577|WD~actinide,19577]]'
+- '[[/_Standards/WikiData/WD~period_7,244979|WD~period_7,244979]]'
+- '[[/_Standards/WikiData/WD~actinide,19577|WD~actinide,19577]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-fermium.wav
 PubChem_CID: 23998
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20100%20Fermium.svg
 SpocWebEntityId: 21995
-subclass_of: '[[_Standards/WikiData/WD~actinide,19577|WD~actinide,19577]]'
+subclass_of: '[[/_Standards/WikiData/WD~actinide,19577|WD~actinide,19577]]'
 time_of_discovery_or_invention: 1952-12-01
 type: Element
 UMLS_CUI: C0015853

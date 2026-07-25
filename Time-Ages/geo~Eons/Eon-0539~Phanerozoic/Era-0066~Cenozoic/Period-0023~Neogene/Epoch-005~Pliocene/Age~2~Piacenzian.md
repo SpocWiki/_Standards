@@ -33,15 +33,15 @@ aliases:
 - 皮亚琴期
 - 피아첸츠절
 has_id_wikidata: Q514873
-named_by: '[[_Standards/WikiData/WD~Karl_Mayer_Eymar,116704|WD~Karl_Mayer_Eymar,116704]]'
+named_by: '[[/_Standards/WikiData/WD~Karl_Mayer_Eymar,116704|WD~Karl_Mayer_Eymar,116704]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Piacenzian,1487074|WD~GSSP_for_the_base_of_the_Piacenzian,1487074]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Piacenzian,21708759|WD~Category_Piacenzian,21708759]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_the_Piacenzian,1487074|WD~GSSP_for_the_base_of_the_Piacenzian,1487074]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Piacenzian,21708759|WD~Category_Piacenzian,21708759]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -2580000-01-01T00:00:00Z
-named_after: '[[_Standards/WikiData/WD~Piacenza,13329|WD~Piacenza,13329]]'
+named_after: '[[/_Standards/WikiData/WD~Piacenza,13329|WD~Piacenza,13329]]'
 coordinate_location: Point(13.4933 37.2889)
 Commons_category: Piacenzian
 start_time: -3600000-01-01T00:00:00Z
@@ -107,7 +107,7 @@ dv_has_:
     stopped: -2.58e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Piacenzian,514873|WD~Piacenzian,514873]]'
+  - '[[/_Standards/WikiData/WD~Piacenzian,514873|WD~Piacenzian,514873]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian|Age~2~Piacenzian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian.public|Age~2~Piacenzian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian.internal|Age~2~Piacenzian.internal]]'
@@ -119,7 +119,7 @@ dv_has_duration_years: 1.020e+6
 dv_has_previous_item: '[[Age~1~Zanclean]]'
 dv_has_next_item: '[[../../Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~1~Gelasian|Age~1~Gelasian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Piacenzian,514873|WD~Piacenzian,514873]]'
+- '[[/_Standards/WikiData/WD~Piacenzian,514873|WD~Piacenzian,514873]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian|Age~2~Piacenzian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian.public|Age~2~Piacenzian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian.internal|Age~2~Piacenzian.internal]]'
@@ -164,7 +164,7 @@ A time period from 3.60 to 2.58 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Piacenzian,514873|WD~Piacenzian,514873]]
+#is_/same_as :: [[/_Standards/WikiData/WD~Piacenzian,514873|WD~Piacenzian,514873]]
 
 ## #has_/text_of_/abstract 
 

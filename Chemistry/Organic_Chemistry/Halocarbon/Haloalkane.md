@@ -46,8 +46,8 @@ aliases:
 - 鹵烷
 - 할로알케인
 has_id_wikidata: Q271026
-subclass_of: '[[_Standards/WikiData/WD~halogenated_hydrocarbon,11973764|WD~halogenated_hydrocarbon,11973764]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
+subclass_of: '[[/_Standards/WikiData/WD~halogenated_hydrocarbon,11973764|WD~halogenated_hydrocarbon,11973764]]'
+instance_of: '[[/_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
 Commons_category: Haloalkanes
 dv_is_:
   same_as:
@@ -136,7 +136,7 @@ dv_has_:
 
 # [[Haloalkane]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Haloalkane,271026|WD~Haloalkane,271026]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Haloalkane,271026|WD~Haloalkane,271026]] 
 
 ## #has_/text_of_/abstract 
 

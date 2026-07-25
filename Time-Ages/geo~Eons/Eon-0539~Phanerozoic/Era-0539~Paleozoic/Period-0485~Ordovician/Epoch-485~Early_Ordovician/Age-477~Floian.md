@@ -22,15 +22,15 @@ aliases:
 - フロイアン期
 - 弗洛期
 has_id_wikidata: Q10528257
-named_after: '[[_Standards/WikiData/WD~Flo_Parish,130422|WD~Flo_Parish,130422]]'
-replaces: '[[_Standards/WikiData/WD~Arenig,195242|WD~Arenig,195242]]'
-significant_place: '[[_Standards/WikiData/WD~Diabasbrottet_Quarry,249846|WD~Diabasbrottet_Quarry,249846]]'
+named_after: '[[/_Standards/WikiData/WD~Flo_Parish,130422|WD~Flo_Parish,130422]]'
+replaces: '[[/_Standards/WikiData/WD~Arenig,195242|WD~Arenig,195242]]'
+significant_place: '[[/_Standards/WikiData/WD~Diabasbrottet_Quarry,249846|WD~Diabasbrottet_Quarry,249846]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Floian,30869527|WD~Category_Floian,30869527]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Floian,134873416|WD~GSSP_for_the_base_of_Floian,134873416]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Floian,30869527|WD~Category_Floian,30869527]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_Floian,134873416|WD~GSSP_for_the_base_of_Floian,134873416]]'
 start_time: -477700000-01-01T00:00:00Z
 coordinate_location: Point(12.50238889 58.35894444)
 sRGB_color_hex_triplet: 00BAA0
@@ -80,7 +80,7 @@ dv_has_:
     stopped: -470.0e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Floian,10528257|WD~Floian,10528257]]'
+  - '[[/_Standards/WikiData/WD~Floian,10528257|WD~Floian,10528257]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-477~Floian|Age-477~Floian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-477~Floian.public|Age-477~Floian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-477~Floian.internal|Age-477~Floian.internal]]'
@@ -92,7 +92,7 @@ dv_has_duration_years: 7.700e+6
 dv_has_previous_item: '[[Age-485~Tremadocian]]'
 dv_has_next_item: '[[../Epoch-470~Middle_Ordovician/Age-470~Dapingian|Age-470~Dapingian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Floian,10528257|WD~Floian,10528257]]'
+- '[[/_Standards/WikiData/WD~Floian,10528257|WD~Floian,10528257]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-477~Floian|Age-477~Floian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-477~Floian.public|Age-477~Floian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-477~Floian.internal|Age-477~Floian.internal]]'
@@ -133,7 +133,7 @@ dv_has_text_of_color: 0x41B087
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Floian,10528257|WD~Floian,10528257]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Floian,10528257|WD~Floian,10528257]] 
 
 A time period from 477.7 to 470.0 million years ago. 
 

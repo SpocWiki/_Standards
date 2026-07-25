@@ -64,13 +64,13 @@ aliases:
 - 핵화학
 has_id_wikidata: Q243545
 has_part_s_:
-- '[[_Standards/WikiData/WD~radiochemistry,750955|WD~radiochemistry,750955]]'
-- '[[_Standards/WikiData/WD~actinide_chemistry,1010999|WD~actinide_chemistry,1010999]]'
-- '[[_Standards/WikiData/WD~radiation_chemistry,2610638|WD~radiation_chemistry,2610638]]'
-instance_of: '[[_Standards/WikiData/WD~branch_of_chemistry,11790203|WD~branch_of_chemistry,11790203]]'
-practiced_by: '[[_Standards/WikiData/WD~nuclear_chemist,71051447|WD~nuclear_chemist,71051447]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-subclass_of: '[[_Standards/WikiData/WD~physical_chemistry,11372|WD~physical_chemistry,11372]]'
+- '[[/_Standards/WikiData/WD~radiochemistry,750955|WD~radiochemistry,750955]]'
+- '[[/_Standards/WikiData/WD~actinide_chemistry,1010999|WD~actinide_chemistry,1010999]]'
+- '[[/_Standards/WikiData/WD~radiation_chemistry,2610638|WD~radiation_chemistry,2610638]]'
+instance_of: '[[/_Standards/WikiData/WD~branch_of_chemistry,11790203|WD~branch_of_chemistry,11790203]]'
+practiced_by: '[[/_Standards/WikiData/WD~nuclear_chemist,71051447|WD~nuclear_chemist,71051447]]'
+described_by_source: '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+subclass_of: '[[/_Standards/WikiData/WD~physical_chemistry,11372|WD~physical_chemistry,11372]]'
 dv_is_:
   same_as:
   - '[[../WikiData/WD~Nuclear_chemistry,243545|WD~Nuclear_chemistry,243545]]'
@@ -177,7 +177,7 @@ dv_has_:
 
 # [[Nuclear_Chemistry]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nuclear_chemistry,243545|WD~Nuclear_chemistry,243545]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Nuclear_chemistry,243545|WD~Nuclear_chemistry,243545]] 
 
 ## #has_/text_of_/abstract 
 

@@ -49,7 +49,7 @@ dv_is_:
 dv_has_child_property:
   - "[[../../Property/Texts/has_art_medium|has_art_medium]]"
   - "[[../../Property/Texts/has_artwork_surface|has_artwork_surface]]"
-dv_has_domain: "[[_Standards/Society/Communication/Media/Creative_Work.md|Creative_Work]],[[_Standards/Society/Agent/Community/Organization/Business/Product.md|Product]]"
+dv_has_domain: "[[/_Standards/Society/Communication/Media/Creative_Work.md|Creative_Work]],[[/_Standards/Society/Agent/Community/Organization/Business/Product.md|Product]]"
 dv_has_name: has_material
 dv_has_range:
   - "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"

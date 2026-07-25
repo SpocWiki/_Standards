@@ -51,15 +51,15 @@ aliases:
 - 의식
 has_id_wikidata: Q189819
 subclass_of:
-- '[[_Standards/WikiData/WD~tradition,82821|WD~tradition,82821]]'
-- '[[_Standards/WikiData/WD~sequence,133250|WD~sequence,133250]]'
-- '[[_Standards/WikiData/WD~ceremony,2627975|WD~ceremony,2627975]]'
-- '[[_Standards/WikiData/WD~process,10843872|WD~process,10843872]]'
-different_from: '[[_Standards/WikiData/WD~Rite,340868|WD~Rite,340868]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~rite,628455|WD~rite,628455]]'
-instance_of: '[[_Standards/WikiData/WD~abstract_noun,2712963|WD~abstract_noun,2712963]]'
-uses: '[[_Standards/WikiData/WD~ritual_object,95975088|WD~ritual_object,95975088]]'
-described_by_source: '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
+- '[[/_Standards/WikiData/WD~tradition,82821|WD~tradition,82821]]'
+- '[[/_Standards/WikiData/WD~sequence,133250|WD~sequence,133250]]'
+- '[[/_Standards/WikiData/WD~ceremony,2627975|WD~ceremony,2627975]]'
+- '[[/_Standards/WikiData/WD~process,10843872|WD~process,10843872]]'
+different_from: '[[/_Standards/WikiData/WD~Rite,340868|WD~Rite,340868]]'
+partially_coincident_with: '[[/_Standards/WikiData/WD~rite,628455|WD~rite,628455]]'
+instance_of: '[[/_Standards/WikiData/WD~abstract_noun,2712963|WD~abstract_noun,2712963]]'
+uses: '[[/_Standards/WikiData/WD~ritual_object,95975088|WD~ritual_object,95975088]]'
+described_by_source: '[[/_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
 IMDb_keyword: ritual
 DataTrek_identifier: Q10790
 Commons_category: Rituals
@@ -175,7 +175,7 @@ dv_has_:
 
 # [[Ritual]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ritual,189819|WD~Ritual,189819]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Ritual,189819|WD~Ritual,189819]] 
 
 ## #has_/text_of_/abstract 
 

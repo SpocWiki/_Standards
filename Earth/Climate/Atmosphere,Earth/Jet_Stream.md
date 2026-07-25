@@ -55,12 +55,12 @@ aliases:
 - 高速氣流
 - 제트 기류
 has_id_wikidata: Q202325
-part_of: '[[_Standards/WikiData/WD~atmospheric_circulation,2615451|WD~atmospheric_circulation,2615451]]'
+part_of: '[[/_Standards/WikiData/WD~atmospheric_circulation,2615451|WD~atmospheric_circulation,2615451]]'
 instance_of:
-- '[[_Standards/WikiData/WD~thermal_wind,2721218|WD~thermal_wind,2721218]]'
-- '[[_Standards/WikiData/WD~Q31840982,31840982|WD~Q31840982,31840982]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Wasaburo_Oishi,3180013|WD~Wasaburo_Oishi,3180013]]'
-subclass_of: '[[_Standards/WikiData/WD~air_current,4698318|WD~air_current,4698318]]'
+- '[[/_Standards/WikiData/WD~thermal_wind,2721218|WD~thermal_wind,2721218]]'
+- '[[/_Standards/WikiData/WD~Q31840982,31840982|WD~Q31840982,31840982]]'
+discoverer_or_inventor: '[[/_Standards/WikiData/WD~Wasaburo_Oishi,3180013|WD~Wasaburo_Oishi,3180013]]'
+subclass_of: '[[/_Standards/WikiData/WD~air_current,4698318|WD~air_current,4698318]]'
 OmegaWiki_Defined_Meaning: 920011
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20Superhighway.ogv
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Straalstroom.jpg
@@ -156,7 +156,7 @@ dv_has_:
 
 # [[Jet_Stream]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Jet_stream,202325|WD~Jet_stream,202325]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Jet_stream,202325|WD~Jet_stream,202325]] 
 
 ## #has_/text_of_/abstract 
 

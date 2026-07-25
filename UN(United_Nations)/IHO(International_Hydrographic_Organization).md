@@ -61,14 +61,14 @@ aliases:
 - 國際海道測量組織
 - 국제 수로 기구
 has_id_wikidata: Q233611
-partnership_with: '[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761|WD~International_Civil_Aviation_Organization,125761]]'
-instance_of: '[[_Standards/WikiData/WD~intergovernmental_organization,245065|WD~intergovernmental_organization,245065]]'
+partnership_with: '[[/_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761|WD~International_Civil_Aviation_Organization,125761]]'
+instance_of: '[[/_Standards/WikiData/WD~intergovernmental_organization,245065|WD~intergovernmental_organization,245065]]'
 director_manager:
-- '[[_Standards/WikiData/WD~Abri_Kampfer,116790762|WD~Abri_Kampfer,116790762]]'
-- '[[_Standards/WikiData/WD~Luigi_Sinapi,116790848|WD~Luigi_Sinapi,116790848]]'
-headquarters_locations: '[[_Standards/WikiData/WD~Monaco,235|WD~Monaco,235]]'
-country: '[[_Standards/WikiData/WD~Monaco,235|WD~Monaco,235]]'
-official_observer_status_in_organization: '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423|WD~United_Nations_General_Assembly,47423]]'
+- '[[/_Standards/WikiData/WD~Abri_Kampfer,116790762|WD~Abri_Kampfer,116790762]]'
+- '[[/_Standards/WikiData/WD~Luigi_Sinapi,116790848|WD~Luigi_Sinapi,116790848]]'
+headquarters_locations: '[[/_Standards/WikiData/WD~Monaco,235|WD~Monaco,235]]'
+country: '[[/_Standards/WikiData/WD~Monaco,235|WD~Monaco,235]]'
+official_observer_status_in_organization: '[[/_Standards/WikiData/WD~United_Nations_General_Assembly,47423|WD~United_Nations_General_Assembly,47423]]'
 short_name: IHO
 Commons_category: International Hydrographic Organization
 official_website: https://www.iho.int
@@ -157,7 +157,7 @@ dv_has_:
 
 # [[IHO(International_Hydrographic_Organization)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~International_Hydrographic_Organization,233611|WD~International_Hydrographic_Organization,233611]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~International_Hydrographic_Organization,233611|WD~International_Hydrographic_Organization,233611]] 
 
 ## #has_/text_of_/abstract 
 

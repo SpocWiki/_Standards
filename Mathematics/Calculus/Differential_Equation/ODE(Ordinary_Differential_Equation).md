@@ -52,8 +52,8 @@ aliases:
 - 常微分方程式
 - 상미분 방정식
 has_id_wikidata: Q465274
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
-subclass_of: '[[_Standards/WikiData/WD~differential_equation,11214|WD~differential_equation,11214]]'
+maintained_by_WikiProject: '[[/_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+subclass_of: '[[/_Standards/WikiData/WD~differential_equation,11214|WD~differential_equation,11214]]'
 short_name:
 - ODE
 - ΣΔΕ
@@ -143,7 +143,7 @@ dv_has_:
 
 # [[Ordinary_Differential_Equation]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ordinary_differential_equation,465274|WD~Ordinary_differential_equation,465274]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Ordinary_differential_equation,465274|WD~Ordinary_differential_equation,465274]] 
 
 ## #has_/text_of_/abstract 
 

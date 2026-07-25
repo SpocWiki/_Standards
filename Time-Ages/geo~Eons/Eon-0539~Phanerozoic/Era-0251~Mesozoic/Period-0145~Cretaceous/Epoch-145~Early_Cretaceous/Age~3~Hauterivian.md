@@ -27,16 +27,16 @@ aliases:
 - 豪特里維期
 - 오트리브절
 has_id_wikidata: Q734179
-named_after: '[[_Standards/WikiData/WD~Hauterive,70432|WD~Hauterive,70432]]'
-named_by: '[[_Standards/WikiData/WD~Eugène_Renevier,116809|WD~Eugène_Renevier,116809]]'
+named_after: '[[/_Standards/WikiData/WD~Hauterive,70432|WD~Hauterive,70432]]'
+named_by: '[[/_Standards/WikiData/WD~Eugène_Renevier,116809|WD~Eugène_Renevier,116809]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-significant_place: '[[_Standards/WikiData/WD~La_Charce,863596|WD~La_Charce,863596]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Hauterivian,21767529|WD~Category_Hauterivian,21767529]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Hauterivian,132744383|WD~GSSP_for_the_base_of_the_Hauterivian,132744383]]'
-country: '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+significant_place: '[[/_Standards/WikiData/WD~La_Charce,863596|WD~La_Charce,863596]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Hauterivian,21767529|WD~Category_Hauterivian,21767529]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_the_Hauterivian,132744383|WD~GSSP_for_the_base_of_the_Hauterivian,132744383]]'
+country: '[[/_Standards/WikiData/WD~France,142|WD~France,142]]'
 start_time: -132900000-01-01T00:00:00Z
 end_time: -129400000-01-01T00:00:00Z
 sRGB_color_hex_triplet: 9ED78E
@@ -100,7 +100,7 @@ dv_has_:
     stopped: -125.77e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Hauterivian,734179|WD~Hauterivian,734179]]'
+  - '[[/_Standards/WikiData/WD~Hauterivian,734179|WD~Hauterivian,734179]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~3~Hauterivian|Age~3~Hauterivian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~3~Hauterivian.public|Age~3~Hauterivian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~3~Hauterivian.internal|Age~3~Hauterivian.internal]]'
@@ -112,7 +112,7 @@ dv_has_duration_years: 6.830e+6
 dv_has_previous_item: '[[Age~2~Valanginian]]'
 dv_has_next_item: '[[Age~4~Barremian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Hauterivian,734179|WD~Hauterivian,734179]]'
+- '[[/_Standards/WikiData/WD~Hauterivian,734179|WD~Hauterivian,734179]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~3~Hauterivian|Age~3~Hauterivian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~3~Hauterivian.public|Age~3~Hauterivian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~3~Hauterivian.internal|Age~3~Hauterivian.internal]]'
@@ -156,7 +156,7 @@ A time period from 132.6 to 125.77 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Hauterivian,734179|WD~Hauterivian,734179]]
+#is_/same_as :: [[/_Standards/WikiData/WD~Hauterivian,734179|WD~Hauterivian,734179]]
 
 ## #has_/text_of_/abstract 
 

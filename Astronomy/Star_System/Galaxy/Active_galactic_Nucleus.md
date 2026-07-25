@@ -56,10 +56,10 @@ aliases:
 - 활동 은하핵
 has_id_wikidata: Q46587
 part_of:
-- '[[_Standards/WikiData/WD~galactic_bulge,854155|WD~galactic_bulge,854155]]'
-- '[[_Standards/WikiData/WD~active_galaxy,130640765|WD~active_galaxy,130640765]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
-subclass_of: '[[_Standards/WikiData/WD~galaxy,318|WD~galaxy,318]]'
+- '[[/_Standards/WikiData/WD~galactic_bulge,854155|WD~galactic_bulge,854155]]'
+- '[[/_Standards/WikiData/WD~active_galaxy,130640765|WD~active_galaxy,130640765]]'
+instance_of: '[[/_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
+subclass_of: '[[/_Standards/WikiData/WD~galaxy,318|WD~galaxy,318]]'
 short_name:
 - AGN
 - АЯГ

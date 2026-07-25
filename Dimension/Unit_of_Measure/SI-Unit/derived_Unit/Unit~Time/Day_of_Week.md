@@ -122,12 +122,12 @@ tags:
 title: is_a_day_of_week Class
 type: Type
 described_by_source:
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Days_of_the_week,6091158|WD~Template_Days_of_the_week,6091158]]'
-instance_of: '[[_Standards/WikiData/WD~second_order_class,24017414|WD~second_order_class,24017414]]'
-is_metaclass_for: '[[_Standards/WikiData/WD~day,573|WD~day,573]]'
-subclass_of: '[[_Standards/WikiData/WD~day,573|WD~day,573]]'
+- '[[/_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[/_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+topic_has_template: '[[/_Standards/WikiData/WD~Template_Days_of_the_week,6091158|WD~Template_Days_of_the_week,6091158]]'
+instance_of: '[[/_Standards/WikiData/WD~second_order_class,24017414|WD~second_order_class,24017414]]'
+is_metaclass_for: '[[/_Standards/WikiData/WD~day,573|WD~day,573]]'
+subclass_of: '[[/_Standards/WikiData/WD~day,573|WD~day,573]]'
 Wikidata_property: day of week
 equivalent_class:
 - http://www.w3.org/2006/time#DayOfWeek

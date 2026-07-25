@@ -36,13 +36,13 @@ aliases:
 - 矽氧樹脂
 - 실리콘
 has_id_wikidata: Q146439
-subclass_of: '[[_Standards/WikiData/WD~polymer,81163|WD~polymer,81163]]'
-polymer_of: '[[_Standards/WikiData/WD~polydimethylsiloxane,411955|WD~polydimethylsiloxane,411955]]'
-has_characteristic: '[[_Standards/WikiData/WD~thermal_resistance,1047234|WD~thermal_resistance,1047234]]'
+subclass_of: '[[/_Standards/WikiData/WD~polymer,81163|WD~polymer,81163]]'
+polymer_of: '[[/_Standards/WikiData/WD~polydimethylsiloxane,411955|WD~polydimethylsiloxane,411955]]'
+has_characteristic: '[[/_Standards/WikiData/WD~thermal_resistance,1047234|WD~thermal_resistance,1047234]]'
 different_from:
-- '[[_Standards/WikiData/WD~silicone_rubber,4115245|WD~silicone_rubber,4115245]]'
-- '[[_Standards/WikiData/WD~silicon,670|WD~silicon,670]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
+- '[[/_Standards/WikiData/WD~silicone_rubber,4115245|WD~silicone_rubber,4115245]]'
+- '[[/_Standards/WikiData/WD~silicon,670|WD~silicon,670]]'
+instance_of: '[[/_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Liquid-silicon-rubber.jpg
 UNSPSC_Code: 12352310
 ATC_code: A03AX13
@@ -150,7 +150,7 @@ dv_has_:
 # [[Silicone]] 
 
 #is_/different_from :: [[../../Chemical_Element/Group-14-Carbon/Silicon|Silicon]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Silicone,146439|WD~Silicone,146439]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Silicone,146439|WD~Silicone,146439]] 
 
 ## #has_/text_of_/abstract 
 

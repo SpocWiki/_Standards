@@ -29,9 +29,9 @@ aliases:
 - 鼠亞科
 - 쥐아과
 has_id_wikidata: Q30266
-taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280|WD~subfamily,164280]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
-parent_taxon: '[[_Standards/WikiData/WD~Muridae,25916|WD~Muridae,25916]]'
+taxon_rank: '[[/_Standards/WikiData/WD~subfamily,164280|WD~subfamily,164280]]'
+instance_of: '[[/_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+parent_taxon: '[[/_Standards/WikiData/WD~Muridae,25916|WD~Muridae,25916]]'
 ITIS_TSN: 552328
 image: http://commons.wikimedia.org/wiki/Special:FilePath/House%20mouse.jpg
 Commons_gallery: Murinae
@@ -116,7 +116,7 @@ dv_has_:
 ![ ](Murinae/327896667_150f8c707e_o.jpg)
 ![](Murinae/277642366_884c30cb87_o.jpg)
 
-#is_/same_as :: [[_Standards/WikiData/WD~Murinae,30266|WD~Murinae,30266]]
+#is_/same_as :: [[/_Standards/WikiData/WD~Murinae,30266|WD~Murinae,30266]]
 
 ## #has_/text_of_/abstract 
 

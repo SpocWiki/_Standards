@@ -24,17 +24,17 @@ aliases:
 - 桑托階
 - 생통주절
 has_id_wikidata: Q257290
-named_after: '[[_Standards/WikiData/WD~Saintes,191126|WD~Saintes,191126]]'
+named_after: '[[/_Standards/WikiData/WD~Saintes,191126|WD~Saintes,191126]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-significant_place: '[[_Standards/WikiData/WD~Olazti_Olazagutía,1641794|WD~Olazti_Olazagutía,1641794]]'
-named_by: '[[_Standards/WikiData/WD~Henri_Coquand,3130874|WD~Henri_Coquand,3130874]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Santonian,21782625|WD~Category_Santonian,21782625]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Santonian,133894977|WD~GSSP_for_the_base_of_the_Santonian,133894977]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+significant_place: '[[/_Standards/WikiData/WD~Olazti_Olazagutía,1641794|WD~Olazti_Olazagutía,1641794]]'
+named_by: '[[/_Standards/WikiData/WD~Henri_Coquand,3130874|WD~Henri_Coquand,3130874]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Santonian,21782625|WD~Category_Santonian,21782625]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_the_Santonian,133894977|WD~GSSP_for_the_base_of_the_Santonian,133894977]]'
 coordinate_location: Point(-2.1968 42.8668)
-country: '[[_Standards/WikiData/WD~Spain,29|WD~Spain,29]]'
+country: '[[/_Standards/WikiData/WD~Spain,29|WD~Spain,29]]'
 sRGB_color_hex_triplet: DEE78A
 end_time: -83600000-01-01T00:00:00Z
 start_time: -86300000-01-01T00:00:00Z
@@ -96,7 +96,7 @@ dv_has_:
     stopped: -83.6e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Santonian,257290|WD~Santonian,257290]]'
+  - '[[/_Standards/WikiData/WD~Santonian,257290|WD~Santonian,257290]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian|Age~4~Santonian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian.public|Age~4~Santonian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian.internal|Age~4~Santonian.internal]]'
@@ -108,7 +108,7 @@ dv_has_duration_years: 2.700e+6
 dv_has_prev_item: '[[Age~5~Campanian]]'
 dv_has_next_item: '[[Age~6~Maastrichtian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Santonian,257290|WD~Santonian,257290]]'
+- '[[/_Standards/WikiData/WD~Santonian,257290|WD~Santonian,257290]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian|Age~4~Santonian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian.public|Age~4~Santonian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~4~Santonian.internal|Age~4~Santonian.internal]]'
@@ -150,7 +150,7 @@ dv_has_text_of_color: 0xD9EF74
 
 has_prev_item = `=this.dv_has_prev_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Santonian,257290|WD~Santonian,257290]]  
+#is_/same_as :: [[/_Standards/WikiData/WD~Santonian,257290|WD~Santonian,257290]]  
 
 A time period from 86.3 to 83.6 million years ago. 
 

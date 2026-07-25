@@ -72,13 +72,13 @@ aliases:
 - 同位素
 - 동위 원소
 has_id_wikidata: Q25276
-different_from: '[[_Standards/WikiData/WD~nuclide,108149|WD~nuclide,108149]]'
-subclass_of: '[[_Standards/WikiData/WD~nuclide,108149|WD~nuclide,108149]]'
-instance_of: '[[_Standards/WikiData/WD~second_order_class,24017414|WD~second_order_class,24017414]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~introduction_to_isotopes,113332700|WD~introduction_to_isotopes,113332700]]'
+different_from: '[[/_Standards/WikiData/WD~nuclide,108149|WD~nuclide,108149]]'
+subclass_of: '[[/_Standards/WikiData/WD~nuclide,108149|WD~nuclide,108149]]'
+instance_of: '[[/_Standards/WikiData/WD~second_order_class,24017414|WD~second_order_class,24017414]]'
+permanent_duplicated_item: '[[/_Standards/WikiData/WD~introduction_to_isotopes,113332700|WD~introduction_to_isotopes,113332700]]'
 properties_for_this_type: natural abundance
-is_metaclass_for: '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
-metasubclass_of: '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+is_metaclass_for: '[[/_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+metasubclass_of: '[[/_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 OmegaWiki_Defined_Meaning: 2035
 Dewey_Decimal_Classification:
 - 539.723
@@ -261,7 +261,7 @@ dv_has_:
 
 # [[Isotope]]  
 
-#is_/same_as :: [[_Standards/WikiData/WD~Isotope,25276|WD~Isotope,25276]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Isotope,25276|WD~Isotope,25276]] 
 
 ## #has_/text_of_/abstract 
 

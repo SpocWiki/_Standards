@@ -66,21 +66,21 @@ aliases:
 - 데본기
 has_id_wikidata: Q65955
 named_by:
-- '[[_Standards/WikiData/WD~Adam_Sedgwick,350891|WD~Adam_Sedgwick,350891]]'
-- '[[_Standards/WikiData/WD~Roderick_Murchison,_1st_Baronet,361900|WD~Roderick_Murchison,_1st_Baronet,361900]]'
+- '[[/_Standards/WikiData/WD~Adam_Sedgwick,350891|WD~Adam_Sedgwick,350891]]'
+- '[[/_Standards/WikiData/WD~Roderick_Murchison,_1st_Baronet,361900|WD~Roderick_Murchison,_1st_Baronet,361900]]'
 instance_of:
-- '[[_Standards/WikiData/WD~period,392928|WD~period,392928]]'
-- '[[_Standards/WikiData/WD~system,403523|WD~system,403523]]'
+- '[[/_Standards/WikiData/WD~period,392928|WD~period,392928]]'
+- '[[/_Standards/WikiData/WD~system,403523|WD~system,403523]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Devonian,8375750|WD~Category_Devonian,8375750]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-different_from: '[[_Standards/WikiData/WD~Devon,23156|WD~Devon,23156]]'
-named_after: '[[_Standards/WikiData/WD~Devon,23156|WD~Devon,23156]]'
+- '[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Devonian,8375750|WD~Category_Devonian,8375750]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+different_from: '[[/_Standards/WikiData/WD~Devon,23156|WD~Devon,23156]]'
+named_after: '[[/_Standards/WikiData/WD~Devon,23156|WD~Devon,23156]]'
 Commons_category: Devonian
 start_time: -419200000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%20390%20Ma%20%28Eifelian%20Age%29.png
@@ -201,7 +201,7 @@ dv_has_:
     stopped: -358.9e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Devonian,65955|WD~Devonian,65955]]'
+  - '[[/_Standards/WikiData/WD~Devonian,65955|WD~Devonian,65955]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian|Period-0419~Devonian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.public|Period-0419~Devonian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.internal|Period-0419~Devonian.internal]]'
@@ -213,7 +213,7 @@ dv_has_duration_years: 6.030e+7
 dv_has_previous_item: '[[Period-0444~Silurian]]'
 dv_has_next_item: '[[Period-0359~Carboniferous]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Devonian,65955|WD~Devonian,65955]]'
+- '[[/_Standards/WikiData/WD~Devonian,65955|WD~Devonian,65955]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian|Period-0419~Devonian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.public|Period-0419~Devonian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.internal|Period-0419~Devonian.internal]]'
@@ -255,7 +255,7 @@ dv_has_text_of_color: 0xCB8C37
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Devonian,65955|WD~Devonian,65955]]  
+#is_/same_as :: [[/_Standards/WikiData/WD~Devonian,65955|WD~Devonian,65955]]  
 
 A time period from 419.2 to 358.9 million years ago. 
 

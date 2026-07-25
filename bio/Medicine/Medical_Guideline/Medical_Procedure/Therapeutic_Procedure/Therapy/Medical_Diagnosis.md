@@ -76,11 +76,11 @@ aliases:
 has_id_wikidata: Q177719
 described_by_source:
 - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-has_cause: '[[_Standards/WikiData/WD~medical_diagnostics,9206884|WD~medical_diagnostics,9206884]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_diagnostic,12201161|WD~Template_Infobox_diagnostic,12201161]]'
-subclass_of: '[[_Standards/WikiData/WD~diagnosis,16644043|WD~diagnosis,16644043]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+has_cause: '[[/_Standards/WikiData/WD~medical_diagnostics,9206884|WD~medical_diagnostics,9206884]]'
+topic_has_template: '[[/_Standards/WikiData/WD~Template_Infobox_diagnostic,12201161|WD~Template_Infobox_diagnostic,12201161]]'
+subclass_of: '[[/_Standards/WikiData/WD~diagnosis,16644043|WD~diagnosis,16644043]]'
 Wikidata_property:
 - medical examination
 - positive diagnostic predictor for
@@ -191,7 +191,7 @@ dv_has_:
 
 # [[Medical_Diagnosis]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Medical_diagnosis,177719|WD~Medical_diagnosis,177719]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Medical_diagnosis,177719|WD~Medical_diagnosis,177719]] 
 
 ## #has_/text_of_/abstract 
 

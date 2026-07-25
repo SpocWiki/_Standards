@@ -24,15 +24,15 @@ aliases:
 - 孔古尔期
 - 孔古階
 has_id_wikidata: Q1073812
-different_from: '[[_Standards/WikiData/WD~Kungur,155974|WD~Kungur,155974]]'
+different_from: '[[/_Standards/WikiData/WD~Kungur,155974|WD~Kungur,155974]]'
 named_after:
-- '[[_Standards/WikiData/WD~Kungur,155974|WD~Kungur,155974]]'
-- '[[_Standards/WikiData/WD~Kungursky_Uyezd,4247139|WD~Kungursky_Uyezd,4247139]]'
+- '[[/_Standards/WikiData/WD~Kungur,155974|WD~Kungur,155974]]'
+- '[[/_Standards/WikiData/WD~Kungursky_Uyezd,4247139|WD~Kungursky_Uyezd,4247139]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+described_by_source: '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -283500000-01-01T00:00:00Z
 sRGB_color_hex_triplet: EF947F
 end_time: -272950000-01-01T00:00:00Z
@@ -84,7 +84,7 @@ dv_has_:
     stopped: -273.01e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Kungurian,1073812|WD~Kungurian,1073812]]'
+  - '[[/_Standards/WikiData/WD~Kungurian,1073812|WD~Kungurian,1073812]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~4~Kungurian|Age~4~Kungurian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~4~Kungurian.public|Age~4~Kungurian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~4~Kungurian.internal|Age~4~Kungurian.internal]]'
@@ -96,7 +96,7 @@ dv_has_duration_years: 1.049e+7
 dv_has_previous_item: '[[Age~3~Artinskian]]'
 dv_has_next_item: '[[../Epoch-273~Guadalupian/Age~1~Roadian|Age~1~Roadian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Kungurian,1073812|WD~Kungurian,1073812]]'
+- '[[/_Standards/WikiData/WD~Kungurian,1073812|WD~Kungurian,1073812]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~4~Kungurian|Age~4~Kungurian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~4~Kungurian.public|Age~4~Kungurian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~4~Kungurian.internal|Age~4~Kungurian.internal]]'
@@ -138,7 +138,7 @@ dv_has_text_of_color: 0xE38776
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Kungurian,1073812|WD~Kungurian,1073812]]  
+#is_/same_as :: [[/_Standards/WikiData/WD~Kungurian,1073812|WD~Kungurian,1073812]]  
 
 A time period from 283.5 to 273.01 million years ago. 
 

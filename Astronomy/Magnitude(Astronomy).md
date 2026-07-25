@@ -41,10 +41,10 @@ aliases:
 - 등급
 has_id_wikidata: Q2028919
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~logarithmic_scale,937378|WD~logarithmic_scale,937378]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[/_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[/_Standards/WikiData/WD~logarithmic_scale,937378|WD~logarithmic_scale,937378]]'
+maintained_by_WikiProject: '[[/_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>M</mi></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>d</mi></mstyle></mrow></math>
@@ -136,7 +136,7 @@ dv_has_:
 ---
 # [[Magnitude(Astronomy)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Magnitude,2028919|WD~Magnitude,2028919]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Magnitude,2028919|WD~Magnitude,2028919]] 
 
 ## #has_/text_of_/abstract 
 

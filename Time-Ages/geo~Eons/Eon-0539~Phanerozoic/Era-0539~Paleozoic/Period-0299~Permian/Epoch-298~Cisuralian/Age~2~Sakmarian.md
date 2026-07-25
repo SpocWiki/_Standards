@@ -25,12 +25,12 @@ aliases:
 - サクマーリアン
 - 萨克马尔期
 has_id_wikidata: Q912962
-named_after: '[[_Standards/WikiData/WD~Sakmara,68939|WD~Sakmara,68939]]'
+named_after: '[[/_Standards/WikiData/WD~Sakmara,68939|WD~Sakmara,68939]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Sakmarian,134463517|WD~GSSP_for_the_base_of_the_Sakmarian,134463517]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_the_Sakmarian,134463517|WD~GSSP_for_the_base_of_the_Sakmarian,134463517]]'
 end_time: -290100000-01-01T00:00:00Z
 start_time: -295000000-01-01T00:00:00Z
 sRGB_color_hex_triplet: EF806A
@@ -84,7 +84,7 @@ dv_has_:
     stopped: -290.10e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Sakmarian,912962|WD~Sakmarian,912962]]'
+  - '[[/_Standards/WikiData/WD~Sakmarian,912962|WD~Sakmarian,912962]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~2~Sakmarian|Age~2~Sakmarian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~2~Sakmarian.public|Age~2~Sakmarian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~2~Sakmarian.internal|Age~2~Sakmarian.internal]]'
@@ -96,7 +96,7 @@ dv_has_duration_years: 3.410e+6
 dv_has_previous_item: '[[Age~1~Asselian]]'
 dv_has_next_item: '[[Age~3~Artinskian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Sakmarian,912962|WD~Sakmarian,912962]]'
+- '[[/_Standards/WikiData/WD~Sakmarian,912962|WD~Sakmarian,912962]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~2~Sakmarian|Age~2~Sakmarian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~2~Sakmarian.public|Age~2~Sakmarian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~2~Sakmarian.internal|Age~2~Sakmarian.internal]]'
@@ -138,7 +138,7 @@ dv_has_text_of_color: 0xE36F5C
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Sakmarian,912962|WD~Sakmarian,912962]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Sakmarian,912962|WD~Sakmarian,912962]] 
 
 A time period from 293.51 to 290.1 million years ago. 
 

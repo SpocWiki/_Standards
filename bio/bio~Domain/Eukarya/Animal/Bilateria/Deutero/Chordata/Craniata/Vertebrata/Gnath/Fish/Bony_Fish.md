@@ -82,15 +82,15 @@ aliases:
   - Euteleostomi
 has_id_wikidata: Q27207
 instance_of:
-  - "[[_Standards/WikiData/WD~synonym,1040689|WD~synonym,1040689]]"
-  - "[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]"
-parent_taxon: "[[_Standards/WikiData/WD~Eugnathostomata,3059636|WD~Eugnathostomata,3059636]]"
+  - "[[/_Standards/WikiData/WD~synonym,1040689|WD~synonym,1040689]]"
+  - "[[/_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]"
+parent_taxon: "[[/_Standards/WikiData/WD~Eugnathostomata,3059636|WD~Eugnathostomata,3059636]]"
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Taxonomy_Osteichthyes,13217896|WD~Template_Taxonomy_Osteichthyes,13217896]]"
-  - "[[_Standards/WikiData/WD~Template_Bony_fish,22897937|WD~Template_Bony_fish,22897937]]"
-  - "[[_Standards/WikiData/WD~Q124327451,124327451|WD~Q124327451,124327451]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]"
-taxon_rank: "[[_Standards/WikiData/WD~megaclass,60922428|WD~megaclass,60922428]]"
+  - "[[/_Standards/WikiData/WD~Template_Taxonomy_Osteichthyes,13217896|WD~Template_Taxonomy_Osteichthyes,13217896]]"
+  - "[[/_Standards/WikiData/WD~Template_Bony_fish,22897937|WD~Template_Bony_fish,22897937]]"
+  - "[[/_Standards/WikiData/WD~Q124327451,124327451|WD~Q124327451,124327451]]"
+union_of: "[[/_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]"
+taxon_rank: "[[/_Standards/WikiData/WD~megaclass,60922428|WD~megaclass,60922428]]"
 Commons_gallery: Fish
 ITIS_TSN: 161030
 Commons_category: Osteichthyes
@@ -242,7 +242,7 @@ dv_has_:
 
 # [[Bony_Fish]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Osteichthyes,27207|WD~Osteichthyes,27207]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Osteichthyes,27207|WD~Osteichthyes,27207]] 
 
 ## #has_/text_of_/abstract 
 

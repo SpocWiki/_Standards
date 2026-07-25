@@ -74,14 +74,14 @@ aliases:
 - 地峽
 - 지협
 has_id_wikidata: Q93267
-subclass_of: '[[_Standards/WikiData/WD~landform,271669|WD~landform,271669]]'
+subclass_of: '[[/_Standards/WikiData/WD~landform,271669|WD~landform,271669]]'
 described_by_source:
 - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-instance_of: '[[_Standards/WikiData/WD~place_type,25894868|WD~place_type,25894868]]'
-opposite_of: '[[_Standards/WikiData/WD~strait,37901|WD~strait,37901]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+instance_of: '[[/_Standards/WikiData/WD~place_type,25894868|WD~place_type,25894868]]'
+opposite_of: '[[/_Standards/WikiData/WD~strait,37901|WD~strait,37901]]'
 OmegaWiki_Defined_Meaning: 683956
 Commons_category: Isthmi
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Neck%20Bruny%20Island.jpg
@@ -229,7 +229,7 @@ dv_has_:
 # [[Isthmus]] 
 
 is_opposite_of = `=this.dv_is_opposite_of`
-#is_/same_as :: [[_Standards/WikiData/WD~Isthmus,93267|WD~Isthmus,93267]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Isthmus,93267|WD~Isthmus,93267]] 
 
 ## #has_/text_of_/abstract 
 

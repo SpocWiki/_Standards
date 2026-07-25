@@ -87,10 +87,10 @@ aliases:
 - 酸化数
 - 산화수
 has_id_wikidata: Q484152
-subclass_of: '[[_Standards/WikiData/WD~dimensionless_quantity,126818|WD~dimensionless_quantity,126818]]'
+subclass_of: '[[/_Standards/WikiData/WD~dimensionless_quantity,126818|WD~dimensionless_quantity,126818]]'
 instance_of:
-- '[[_Standards/WikiData/WD~chemical_property,764285|WD~chemical_property,764285]]'
-- '[[_Standards/WikiData/WD~chemical_formalism,17540792|WD~chemical_formalism,17540792]]'
+- '[[/_Standards/WikiData/WD~chemical_property,764285|WD~chemical_property,764285]]'
+- '[[/_Standards/WikiData/WD~chemical_formalism,17540792|WD~chemical_formalism,17540792]]'
 Wikidata_property: oxidation state
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>1</mn></mstyle></mrow></math>
 quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>z</mi></mstyle></mrow></math>
@@ -216,7 +216,7 @@ dv_has_:
 
 # [[Oxidation_Number]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Oxidation_number,484152|WD~Oxidation_number,484152]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Oxidation_number,484152|WD~Oxidation_number,484152]] 
 
 ## #has_/text_of_/abstract 
 

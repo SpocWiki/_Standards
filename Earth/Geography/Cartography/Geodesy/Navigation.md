@@ -67,22 +67,22 @@ aliases:
 - 항법
 has_id_wikidata: Q102066
 subclass_of:
-- '[[_Standards/WikiData/WD~skill,205961|WD~skill,205961]]'
-- '[[_Standards/WikiData/WD~intentional_human_activity,451967|WD~intentional_human_activity,451967]]'
-practiced_by: '[[_Standards/WikiData/WD~navigator,254651|WD~navigator,254651]]'
+- '[[/_Standards/WikiData/WD~skill,205961|WD~skill,205961]]'
+- '[[/_Standards/WikiData/WD~intentional_human_activity,451967|WD~intentional_human_activity,451967]]'
+practiced_by: '[[/_Standards/WikiData/WD~navigator,254651|WD~navigator,254651]]'
 described_by_source:
 - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
 instance_of:
-- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~field_of_study,2267705|WD~field_of_study,2267705]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[/_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+- '[[/_Standards/WikiData/WD~field_of_study,2267705|WD~field_of_study,2267705]]'
+- '[[/_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
 facet_of:
-- '[[_Standards/WikiData/WD~transport,7590|WD~transport,7590]]'
-- '[[_Standards/WikiData/WD~travel,61509|WD~travel,61509]]'
+- '[[/_Standards/WikiData/WD~transport,7590|WD~transport,7590]]'
+- '[[/_Standards/WikiData/WD~travel,61509|WD~travel,61509]]'
 Commons_gallery: Navigation
 Commons_category: Navigation
 U_S_National_Archives_Identifier: 10644764
@@ -214,7 +214,7 @@ dv_has_:
 
 # [[Navigation]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Navigation,102066|WD~Navigation,102066]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Navigation,102066|WD~Navigation,102066]] 
 
 ## #has_/text_of_/abstract 
 

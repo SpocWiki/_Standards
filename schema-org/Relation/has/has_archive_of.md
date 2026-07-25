@@ -26,12 +26,12 @@ tags:
 title: has_archive_of
 type: Predi_Relation
 dv_has_:
-  archive_of: "[[_Standards/Society/Communication/Media/Creative_Work/Archive_Component.md|Archive_Component]]"
+  archive_of: "[[/_Standards/Society/Communication/Media/Creative_Work/Archive_Component.md|Archive_Component]]"
   inverse: "[[../is/is_archived_by|is_archived_by]]"
   domain: "[[../../../Society/Agent/Community/Organization/Business/Local_Business/Archive_Organization|Archive_Organization]]"
   name: has_archive_of
   range: "[[../../../Society/Communication/Media/Creative_Work/Archive_Component|Archive_Component]]"
-dv_has_archive_of: "[[_Standards/Society/Communication/Media/Creative_Work/Archive_Component.md|Archive_Component]]"
+dv_has_archive_of: "[[/_Standards/Society/Communication/Media/Creative_Work/Archive_Component.md|Archive_Component]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_is_:
   part_of: "pending:"

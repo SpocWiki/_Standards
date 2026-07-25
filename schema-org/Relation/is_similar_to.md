@@ -54,9 +54,9 @@ dv_is_similar_to:
   - "[[is/is_equal_to|is_equal_to]]"
 dv_has_complement: "[[is_different_from]]"
 dv_has_inverse: "[[is_similar_to]]"
-dv_has_domain: "[[_Standards/Society/Agent/Community/Organization/Business/Product.md|Product]],[[_Standards/Society/Agent/Community/Organization/Business/Service.md|Service]]"
+dv_has_domain: "[[/_Standards/Society/Agent/Community/Organization/Business/Product.md|Product]],[[/_Standards/Society/Agent/Community/Organization/Business/Service.md|Service]]"
 dv_has_name: is_similar_to
-dv_has_range: "[[_Standards/Society/Agent/Community/Organization/Business/Product.md|Product]],[[_Standards/Society/Agent/Community/Organization/Business/Service.md|Service]]"
+dv_has_range: "[[/_Standards/Society/Agent/Community/Organization/Business/Product.md|Product]],[[/_Standards/Society/Agent/Community/Organization/Business/Service.md|Service]]"
 dv_is_same_as:
   - "[[is_similar_to]]"
   - "[[/_public/schema-org/Relation/is_similar_to.public|is_similar_to.public]]"

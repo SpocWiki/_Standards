@@ -80,22 +80,22 @@ has_id_wikidata: Q979
 SpocWebEntityId: 21979
 type: Element
 part_of:
-- '[[_Standards/WikiData/WD~group_16,104567|WD~group_16,104567]]'
-- '[[_Standards/WikiData/WD~period_6,239813|WD~period_6,239813]]'
+- '[[/_Standards/WikiData/WD~group_16,104567|WD~group_16,104567]]'
+- '[[/_Standards/WikiData/WD~period_6,239813|WD~period_6,239813]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~group_16,104567|WD~group_16,104567]]'
-- '[[_Standards/WikiData/WD~post_transition_metal,19591|WD~post_transition_metal,19591]]'
+- '[[/_Standards/WikiData/WD~group_16,104567|WD~group_16,104567]]'
+- '[[/_Standards/WikiData/WD~post_transition_metal,19591|WD~post_transition_metal,19591]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[/_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 time_of_discovery_or_invention: 1898-01-01T00:00:00Z
-different_from: '[[_Standards/WikiData/WD~Element_84,129955955|WD~Element_84,129955955]]'
+different_from: '[[/_Standards/WikiData/WD~Element_84,129955955|WD~Element_84,129955955]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Marie_Curie,7186|WD~Marie_Curie,7186]]'
-- '[[_Standards/WikiData/WD~Pierre_Curie,37463|WD~Pierre_Curie,37463]]'
-instance_of: '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
-named_after: '[[_Standards/WikiData/WD~Poland,36|WD~Poland,36]]'
+- '[[/_Standards/WikiData/WD~Marie_Curie,7186|WD~Marie_Curie,7186]]'
+- '[[/_Standards/WikiData/WD~Pierre_Curie,37463|WD~Pierre_Curie,37463]]'
+instance_of: '[[/_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+named_after: '[[/_Standards/WikiData/WD~Poland,36|WD~Poland,36]]'
 electronegativity: 2
 atomic_number: 84
 ionic_radius: 0.97

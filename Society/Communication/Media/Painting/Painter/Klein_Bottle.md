@@ -3,15 +3,15 @@ aliases:
   - Kleinsche Flasche
   - Klein bottle
 has_id_wikidata: Q23638
-named_after: "[[_Standards/WikiData/WD~Felix_Klein,76641]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Felix_Klein,76641]]"
+named_after: "[[/_Standards/WikiData/WD~Felix_Klein,76641]]"
+discoverer_or_inventor: "[[/_Standards/WikiData/WD~Felix_Klein,76641]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~surface,3505239]]"
-  - "[[_Standards/WikiData/WD~dianalytic_manifold,5271369]]"
-  - "[[_Standards/WikiData/WD~one_sided_surface,21699001]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-different_from: "[[_Standards/WikiData/WD~impossible_bottle,32904820]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+  - "[[/_Standards/WikiData/WD~surface,3505239]]"
+  - "[[/_Standards/WikiData/WD~dianalytic_manifold,5271369]]"
+  - "[[/_Standards/WikiData/WD~one_sided_surface,21699001]]"
+maintained_by_WikiProject: "[[/_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+different_from: "[[/_Standards/WikiData/WD~impossible_bottle,32904820]]"
+described_by_source: "[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 time_of_discovery_or_invention: 1882-01-01T00:00:00Z
 Euler_characteristic: 0
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Acme%20klein%20bottle.jpg
@@ -22,7 +22,7 @@ Commons_category: Klein bottle
 
 # [[Klein_Bottle]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Klein_bottle,23638]]
+#is_/same_as :: [[/_Standards/WikiData/WD~Klein_bottle,23638]]
 
 ## #has_/text_of_/abstract 
 

@@ -51,11 +51,11 @@ aliases:
 - 리아시아기
 has_id_wikidata: Q870511
 instance_of:
-- '[[_Standards/WikiData/WD~period,392928|WD~period,392928]]'
-- '[[_Standards/WikiData/WD~system,403523|WD~system,403523]]'
-named_after: '[[_Standards/WikiData/WD~lava_flow,2512740|WD~lava_flow,2512740]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Rhyacian,131219301|WD~Category_Rhyacian,131219301]]'
+- '[[/_Standards/WikiData/WD~period,392928|WD~period,392928]]'
+- '[[/_Standards/WikiData/WD~system,403523|WD~system,403523]]'
+named_after: '[[/_Standards/WikiData/WD~lava_flow,2512740|WD~lava_flow,2512740]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Rhyacian,131219301|WD~Category_Rhyacian,131219301]]'
 end_time: -2050000000-01-01T00:00:00Z
 start_time: -2300000000-01-01T00:00:00Z
 Commons_category: Rhyacian
@@ -128,7 +128,7 @@ dv_has_:
     stopped: -2.050e9
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Rhyacian,870511|WD~Rhyacian,870511]]'
+  - '[[/_Standards/WikiData/WD~Rhyacian,870511|WD~Rhyacian,870511]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian|Period-2300~Rhyacian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.public|Period-2300~Rhyacian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.internal|Period-2300~Rhyacian.internal]]'
@@ -140,7 +140,7 @@ dv_has_duration_years: 2.500e+8
 dv_has_previous_item: '[[Period-2500~Siderian]]'
 dv_has_next_item: '[[Period-2050~Orosirian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Rhyacian,870511|WD~Rhyacian,870511]]'
+- '[[/_Standards/WikiData/WD~Rhyacian,870511|WD~Rhyacian,870511]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian|Period-2300~Rhyacian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.public|Period-2300~Rhyacian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.internal|Period-2300~Rhyacian.internal]]'
@@ -182,7 +182,7 @@ dv_has_text_of_color: 0xF75B89
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Rhyacian,870511|WD~Rhyacian,870511]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Rhyacian,870511|WD~Rhyacian,870511]] 
 
 ## #has_/text_of_/abstract 
 

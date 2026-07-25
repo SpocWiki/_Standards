@@ -3,14 +3,14 @@ aliases:
   - Heat illness
 has_id_wikidata: Q1191065
 subclass_of:
-  - "[[_Standards/WikiData/WD~hyperthermia,242165]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
+  - "[[/_Standards/WikiData/WD~hyperthermia,242165]]"
+  - "[[/_Standards/WikiData/WD~disease,12136]]"
 different_from:
-  - "[[_Standards/WikiData/WD~Stroke,1216832]]"
-  - "[[_Standards/WikiData/WD~heat_related_death,113976884]]"
-health_specialty: "[[_Standards/WikiData/WD~emergency_medicine,2861470]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_disease,112193867]]"
+  - "[[/_Standards/WikiData/WD~Stroke,1216832]]"
+  - "[[/_Standards/WikiData/WD~heat_related_death,113976884]]"
+health_specialty: "[[/_Standards/WikiData/WD~emergency_medicine,2861470]]"
+described_by_source: "[[/_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+instance_of: "[[/_Standards/WikiData/WD~type_of_disease,112193867]]"
 DiseasesDB: "5690"
 UMLS_CUI: C0282507
 MeSH_tree_code: C26.522

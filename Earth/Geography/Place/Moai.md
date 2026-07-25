@@ -33,18 +33,18 @@ aliases:
 - 摩艾石像
 - 모아이
 has_id_wikidata: Q20350
-instance_of: '[[_Standards/WikiData/WD~archaeological_site,839954|WD~archaeological_site,839954]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~pukao,980422|WD~pukao,980422]]'
-subclass_of: '[[_Standards/WikiData/WD~colossal_statue,1779653|WD~colossal_statue,1779653]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Isla_de_Pascua,9009773|WD~Isla_de_Pascua,9009773]]'
-country: '[[_Standards/WikiData/WD~Chile,298|WD~Chile,298]]'
+instance_of: '[[/_Standards/WikiData/WD~archaeological_site,839954|WD~archaeological_site,839954]]'
+has_part_s_of_the_class: '[[/_Standards/WikiData/WD~pukao,980422|WD~pukao,980422]]'
+subclass_of: '[[/_Standards/WikiData/WD~colossal_statue,1779653|WD~colossal_statue,1779653]]'
+located_in_the_administrative_territorial_entity: '[[/_Standards/WikiData/WD~Isla_de_Pascua,9009773|WD~Isla_de_Pascua,9009773]]'
+country: '[[/_Standards/WikiData/WD~Chile,298|WD~Chile,298]]'
 Commons_gallery: Isla de Pascua
 Commons_category: Moai
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ahu%20Tongariki.jpg
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Moai.stl
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Moai,20350|WD~Moai,20350]]'
+  - '[[/_Standards/WikiData/WD~Moai,20350|WD~Moai,20350]]'
   - '[[/_Standards/Earth/Geography/Place/Moai|Moai]]'
   - '[[/_public/Earth/Geography/Place/Moai.public|Moai.public]]'
   - '[[/_internal/Earth/Geography/Place/Moai.internal|Moai.internal]]'
@@ -53,7 +53,7 @@ dv_is_:
   - '[[/_personal/Earth/Geography/Place/Moai.personal|Moai.personal]]'
   - '[[/_secret/Earth/Geography/Place/Moai.secret|Moai.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Moai,20350|WD~Moai,20350]]'
+- '[[/_Standards/WikiData/WD~Moai,20350|WD~Moai,20350]]'
 - '[[/_Standards/Earth/Geography/Place/Moai|Moai]]'
 - '[[/_public/Earth/Geography/Place/Moai.public|Moai.public]]'
 - '[[/_internal/Earth/Geography/Place/Moai.internal|Moai.internal]]'
@@ -152,7 +152,7 @@ Unicode_character: 🗿
 
 ![[../../../assets/Moai.png|Moai.png]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Moai,20350|WD~Moai,20350]]
+#is_/same_as :: [[/_Standards/WikiData/WD~Moai,20350|WD~Moai,20350]]
 
 ## #has_/text_of_/abstract 
 

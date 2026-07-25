@@ -41,11 +41,11 @@ aliases:
 - 维生素B3
 - 비타민 B3
 has_id_wikidata: Q30715691
-subclass_of: '[[_Standards/WikiData/WD~chemical_substance,79529|WD~chemical_substance,79529]]'
-subject_has_role: '[[_Standards/WikiData/WD~vitamin_B,183206|WD~vitamin_B,183206]]'
-medical_condition_treated: '[[_Standards/WikiData/WD~pellagra,221441|WD~pellagra,221441]]'
-part_of: '[[_Standards/WikiData/WD~NAD_biosynthetic_process,14877323|WD~NAD_biosynthetic_process,14877323]]'
-instance_of: '[[_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814|WD~group_or_class_of_chemical_substances,17339814]]'
+subclass_of: '[[/_Standards/WikiData/WD~chemical_substance,79529|WD~chemical_substance,79529]]'
+subject_has_role: '[[/_Standards/WikiData/WD~vitamin_B,183206|WD~vitamin_B,183206]]'
+medical_condition_treated: '[[/_Standards/WikiData/WD~pellagra,221441|WD~pellagra,221441]]'
+part_of: '[[/_Standards/WikiData/WD~NAD_biosynthetic_process,14877323|WD~NAD_biosynthetic_process,14877323]]'
+instance_of: '[[/_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814|WD~group_or_class_of_chemical_substances,17339814]]'
 Commons_category: Niacin
 chemical_structure: http://commons.wikimedia.org/wiki/Special:FilePath/Niacin.png
 UMLS_CUI: C0027996
@@ -108,7 +108,7 @@ dv_has_:
 
 # [[Vitamin_B3]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Vitamin_B3,30715691|WD~Vitamin_B3,30715691]]
+#is_/same_as :: [[/_Standards/WikiData/WD~Vitamin_B3,30715691|WD~Vitamin_B3,30715691]]
 
 ## #has_/text_of_/abstract 
 

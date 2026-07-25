@@ -35,15 +35,15 @@ aliases:
 - 신성
 has_id_wikidata: Q6458
 instance_of:
-- '[[_Standards/WikiData/WD~astronomical_phenomenon,751989|WD~astronomical_phenomenon,751989]]'
-- '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
-subclass_of: '[[_Standards/WikiData/WD~cataclysmic_variable_star,1059564|WD~cataclysmic_variable_star,1059564]]'
-has_list: '[[_Standards/WikiData/WD~list_of_novae_in_the_Milky_Way_galaxy,4353342|WD~list_of_novae_in_the_Milky_Way_galaxy,4353342]]'
+- '[[/_Standards/WikiData/WD~astronomical_phenomenon,751989|WD~astronomical_phenomenon,751989]]'
+- '[[/_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
+subclass_of: '[[/_Standards/WikiData/WD~cataclysmic_variable_star,1059564|WD~cataclysmic_variable_star,1059564]]'
+has_list: '[[/_Standards/WikiData/WD~list_of_novae_in_the_Milky_Way_galaxy,4353342|WD~list_of_novae_in_the_Milky_Way_galaxy,4353342]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-different_from: '[[_Standards/WikiData/WD~Nova,16423197|WD~Nova,16423197]]'
+- "[[/_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[/_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[/_Standards/WikiData/WD~Nova,16423197|WD~Nova,16423197]]'
 catalog_code: N
 Commons_gallery: Nova
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Making%20a%20Nova.jpg
@@ -146,7 +146,7 @@ dv_has_:
 
 # [[Nova]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nova,6458|WD~Nova,6458]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Nova,6458|WD~Nova,6458]] 
 
 ## #has_/text_of_/abstract 
 

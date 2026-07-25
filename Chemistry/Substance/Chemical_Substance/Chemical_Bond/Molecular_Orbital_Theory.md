@@ -41,8 +41,8 @@ aliases:
 - 分子轨道理论
 - 분자궤도함수 이론
 has_id_wikidata: Q898432
-is_the_study_of: '[[_Standards/WikiData/WD~molecular_orbital,725417|WD~molecular_orbital,725417]]'
-instance_of: '[[_Standards/WikiData/WD~chemical_bonding_model,5090444|WD~chemical_bonding_model,5090444]]'
+is_the_study_of: '[[/_Standards/WikiData/WD~molecular_orbital,725417|WD~molecular_orbital,725417]]'
+instance_of: '[[/_Standards/WikiData/WD~chemical_bonding_model,5090444|WD~chemical_bonding_model,5090444]]'
 Commons_category: Molecular orbitals
 dv_is_:
   same_as:
@@ -117,7 +117,7 @@ dv_has_:
 
 # [[Molecular_Orbital_Theory]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Molecular_orbital_theory,898432|WD~Molecular_orbital_theory,898432]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Molecular_orbital_theory,898432|WD~Molecular_orbital_theory,898432]] 
 
 ## #has_/text_of_/abstract 
 

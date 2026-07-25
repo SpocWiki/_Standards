@@ -24,13 +24,13 @@ aliases:
 - 排碧期
 has_id_wikidata: Q2060764
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-significant_place: '[[_Standards/WikiData/WD~Paibi,1417430|WD~Paibi,1417430]]'
-named_after: '[[_Standards/WikiData/WD~Paibi,1417430|WD~Paibi,1417430]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Paibian,30869625|WD~Category_Paibian,30869625]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Paibian,134954155|WD~GSSP_for_the_base_of_Paibian,134954155]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+significant_place: '[[/_Standards/WikiData/WD~Paibi,1417430|WD~Paibi,1417430]]'
+named_after: '[[/_Standards/WikiData/WD~Paibi,1417430|WD~Paibi,1417430]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Paibian,30869625|WD~Category_Paibian,30869625]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_Paibian,134954155|WD~GSSP_for_the_base_of_Paibian,134954155]]'
 start_time: -497000000-01-01T00:00:00Z
 coordinate_location: Point(109.5257 28.3895)
 end_time: -494200000-01-01T00:00:00Z
@@ -83,7 +83,7 @@ dv_has_:
     stopped: -494000000
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Paibian,2060764|WD~Paibian,2060764]]'
+  - '[[/_Standards/WikiData/WD~Paibian,2060764|WD~Paibian,2060764]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian|Age-497~Paibian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian.public|Age-497~Paibian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian.internal|Age-497~Paibian.internal]]'
@@ -95,7 +95,7 @@ dv_has_duration_years: 3.000e+6
 dv_has_previous_item: '[[../Epoch-509~Miaolingian/Age-501~Guzhangian|Age-501~Guzhangian]]'
 dv_has_next_item: '[[Age-494~Jiangshanian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Paibian,2060764|WD~Paibian,2060764]]'
+- '[[/_Standards/WikiData/WD~Paibian,2060764|WD~Paibian,2060764]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian|Age-497~Paibian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian.public|Age-497~Paibian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-497~Paibian.internal|Age-497~Paibian.internal]]'
@@ -137,7 +137,7 @@ dv_has_text_of_color: 0xCCEBAE
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Paibian,2060764|WD~Paibian,2060764]]  
+#is_/same_as :: [[/_Standards/WikiData/WD~Paibian,2060764|WD~Paibian,2060764]]  
 
 A time period from 497 to 494 million years ago. 
 

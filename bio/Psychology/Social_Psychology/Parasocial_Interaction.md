@@ -5,11 +5,11 @@ aliases:
   - parasocial
 has_id_wikidata: Q2051893
 subclass_of:
-  - "[[_Standards/WikiData/WD~social_interaction,609298]]"
-  - "[[_Standards/WikiData/WD~psychological_phenomenon,12047512]]"
-different_from: "[[_Standards/WikiData/WD~sociality,3307505]]"
-named_by: "[[_Standards/WikiData/WD~Richard_Wohl,7330058]]"
-described_by_source: "[[_Standards/WikiData/WD~A_Dictionary_of_Media_and_Communication_(1st_ed.),59663833]]"
+  - "[[/_Standards/WikiData/WD~social_interaction,609298]]"
+  - "[[/_Standards/WikiData/WD~psychological_phenomenon,12047512]]"
+different_from: "[[/_Standards/WikiData/WD~sociality,3307505]]"
+named_by: "[[/_Standards/WikiData/WD~Richard_Wohl,7330058]]"
+described_by_source: "[[/_Standards/WikiData/WD~A_Dictionary_of_Media_and_Communication_(1st_ed.),59663833]]"
 ---
 
 # [[Parasocial_Interaction]] 

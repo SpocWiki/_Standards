@@ -19,10 +19,10 @@ dv_has_:
     tr: a dicto simpliciter
     uk: Secundum quid
 different_from:
-  - "[[_Standards/WikiData/WD~hasty_generalization,332406]]"
-  - "[[_Standards/WikiData/WD~faulty_generalization,2890850]]"
-instance_of: "[[_Standards/WikiData/WD~Latin_phrase,3062294]]"
-subclass_of: "[[_Standards/WikiData/WD~informal_fallacy,3312438]]"
+  - "[[/_Standards/WikiData/WD~hasty_generalization,332406]]"
+  - "[[/_Standards/WikiData/WD~faulty_generalization,2890850]]"
+instance_of: "[[/_Standards/WikiData/WD~Latin_phrase,3062294]]"
+subclass_of: "[[/_Standards/WikiData/WD~informal_fallacy,3312438]]"
 ---
 
 # [[Secundum_quid]]  

@@ -58,8 +58,8 @@ aliases:
 - 비밀결사
 has_id_wikidata: Q276548
 described_by_source: '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-has_characteristic: '[[_Standards/WikiData/WD~secrecy,1503443|WD~secrecy,1503443]]'
-subclass_of: '[[_Standards/WikiData/WD~organization,43229|WD~organization,43229]]'
+has_characteristic: '[[/_Standards/WikiData/WD~secrecy,1503443|WD~secrecy,1503443]]'
+subclass_of: '[[/_Standards/WikiData/WD~organization,43229|WD~organization,43229]]'
 Commons_category: Secret societies
 dv_has_:
   name_:
@@ -135,7 +135,7 @@ dv_has_:
 
 # [[Secret_Society]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Secret_society,276548|WD~Secret_society,276548]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Secret_society,276548|WD~Secret_society,276548]] 
 
 ## #has_/text_of_/abstract 
 

@@ -13,18 +13,18 @@ has_id_wikidata: Q611487
 director_manager: '[[../../../../../../../WikiData/WD~Peter_Molyneux,164565|WD~Peter_Molyneux,164565]]'
 founded_by:
 - '[[../../../../../../../WikiData/WD~Peter_Molyneux,164565|WD~Peter_Molyneux,164565]]'
-- '[[_Standards/WikiData/WD~Les_Edgar,33978196|WD~Les_Edgar,33978196]]'
-parent_organization_or_unit: '[[_Standards/WikiData/WD~Electronic_Arts,173941|WD~Electronic_Arts,173941]]'
-instance_of: '[[_Standards/WikiData/WD~video_game_developer,210167|WD~video_game_developer,210167]]'
-headquarters_location: '[[_Standards/WikiData/WD~Guildford,213465|WD~Guildford,213465]]'
-legal_form: '[[_Standards/WikiData/WD~subsidiary_company,658255|WD~subsidiary_company,658255]]'
-industry: '[[_Standards/WikiData/WD~video_game_industry,941594|WD~video_game_industry,941594]]'
+- '[[/_Standards/WikiData/WD~Les_Edgar,33978196|WD~Les_Edgar,33978196]]'
+parent_organization_or_unit: '[[/_Standards/WikiData/WD~Electronic_Arts,173941|WD~Electronic_Arts,173941]]'
+instance_of: '[[/_Standards/WikiData/WD~video_game_developer,210167|WD~video_game_developer,210167]]'
+headquarters_location: '[[/_Standards/WikiData/WD~Guildford,213465|WD~Guildford,213465]]'
+legal_form: '[[/_Standards/WikiData/WD~subsidiary_company,658255|WD~subsidiary_company,658255]]'
+industry: '[[/_Standards/WikiData/WD~video_game_industry,941594|WD~video_game_industry,941594]]'
 replaced_by:
-- '[[_Standards/WikiData/WD~EA_Bright_Light,4037769|WD~EA_Bright_Light,4037769]]'
-- '[[_Standards/WikiData/WD~Lost_Toys,42851573|WD~Lost_Toys,42851573]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Bullfrog_Productions,6732904|WD~Template_Bullfrog_Productions,6732904]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~software,7397|WD~software,7397]]'
-country: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
+- '[[/_Standards/WikiData/WD~EA_Bright_Light,4037769|WD~EA_Bright_Light,4037769]]'
+- '[[/_Standards/WikiData/WD~Lost_Toys,42851573|WD~Lost_Toys,42851573]]'
+topic_has_template: '[[/_Standards/WikiData/WD~Template_Bullfrog_Productions,6732904|WD~Template_Bullfrog_Productions,6732904]]'
+product_or_material_produced: '[[/_Standards/WikiData/WD~software,7397|WD~software,7397]]'
+country: '[[/_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 inception: 1987-01-01T00:00:00Z
 dissolved_abolished_or_demolished_date: 2001-01-01T00:00:00Z
 dv_has_:
@@ -62,7 +62,7 @@ dv_has_:
 
 # [[Bullfrog_Productions]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Bullfrog_Productions,611487|WD~Bullfrog_Productions,611487]]
+#is_/same_as :: [[/_Standards/WikiData/WD~Bullfrog_Productions,611487|WD~Bullfrog_Productions,611487]]
 
 ## #has_/text_of_/abstract 
 

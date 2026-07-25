@@ -68,19 +68,19 @@ aliases:
 - 세대
 has_id_wikidata: Q213381
 described_by_source:
-- '[[_Standards/WikiData/WD~Kazakhstan._National_encyclopedia,4208106|WD~Kazakhstan._National_encyclopedia,4208106]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637|WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
-different_from: '[[_Standards/WikiData/WD~Q11821256,11821256|WD~Q11821256,11821256]]'
-subclass_of: '[[_Standards/WikiData/WD~group_of_humans,16334295|WD~group_of_humans,16334295]]'
+- '[[/_Standards/WikiData/WD~Kazakhstan._National_encyclopedia,4208106|WD~Kazakhstan._National_encyclopedia,4208106]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637|WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
+different_from: '[[/_Standards/WikiData/WD~Q11821256,11821256|WD~Q11821256,11821256]]'
+subclass_of: '[[/_Standards/WikiData/WD~group_of_humans,16334295|WD~group_of_humans,16334295]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Generation,20313577|WD~Template_Generation,20313577]]'
-- '[[_Standards/WikiData/WD~Template_Generations_sidebar,28124449|WD~Template_Generations_sidebar,28124449]]'
-studied_by: '[[_Standards/WikiData/WD~sociology_of_age_and_generations,119093071|WD~sociology_of_age_and_generations,119093071]]'
+- '[[/_Standards/WikiData/WD~Template_Generation,20313577|WD~Template_Generation,20313577]]'
+- '[[/_Standards/WikiData/WD~Template_Generations_sidebar,28124449|WD~Template_Generations_sidebar,28124449]]'
+studied_by: '[[/_Standards/WikiData/WD~sociology_of_age_and_generations,119093071|WD~sociology_of_age_and_generations,119093071]]'
 Dewey_Decimal_Classification: 305.2
 Commons_category: Generations
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Generation,213381|WD~Generation,213381]]'
+  - '[[/_Standards/WikiData/WD~Generation,213381|WD~Generation,213381]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/Generation|Generation]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/Generation.public|Generation.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/Generation.internal|Generation.internal]]'
@@ -89,7 +89,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/Generation.personal|Generation.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/Generation.secret|Generation.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Generation,213381|WD~Generation,213381]]'
+- '[[/_Standards/WikiData/WD~Generation,213381|WD~Generation,213381]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/Generation|Generation]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/Generation.public|Generation.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/Generation.internal|Generation.internal]]'
@@ -185,7 +185,7 @@ dv_has_:
 
 # [[Generation]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Generation,213381|WD~Generation,213381]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Generation,213381|WD~Generation,213381]] 
 
 | Generation Name       | Start | End  | Age     | Pop/US | Notable Characteristics                                        |
 | --------------------- | ----- | ---- | ------- | -----: | -------------------------------------------------------------- |

@@ -61,12 +61,12 @@ aliases:
 - 轨道离心率
 - 궤도 이심률
 has_id_wikidata: Q208474
-different_from: '[[_Standards/WikiData/WD~eccentricity,104486|WD~eccentricity,104486]]'
+different_from: '[[/_Standards/WikiData/WD~eccentricity,104486|WD~eccentricity,104486]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~eccentricity,104486|WD~eccentricity,104486]]'
-- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
-part_of: '[[_Standards/WikiData/WD~Keplerian_elements,78147576|WD~Keplerian_elements,78147576]]'
+- '[[/_Standards/WikiData/WD~eccentricity,104486|WD~eccentricity,104486]]'
+- '[[/_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+maintained_by_WikiProject: '[[/_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+part_of: '[[/_Standards/WikiData/WD~Keplerian_elements,78147576|WD~Keplerian_elements,78147576]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>e</mi><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><msqrt><mrow data-mjx-texclass="ORD"><mn>1</mn><mo stretchy="false">+</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mn>2</mn><mi>E</mi><msup><mi>L</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup></mrow></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><msub><mi>m</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mtext>red</mtext></mrow></mrow></msub><msup><mi>&#x03B1;</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup></mrow></mrow></mfrac></mrow></mrow></msqrt></mrow></mstyle></mrow></math>
 Wikidata_property: orbital eccentricity
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>1</mn></mstyle></mrow></math>
@@ -173,7 +173,7 @@ dv_has_:
 
 # [[Orbital_Eccentricity]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Orbital_eccentricity,208474|WD~Orbital_eccentricity,208474]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Orbital_eccentricity,208474|WD~Orbital_eccentricity,208474]] 
 
 ## #has_/text_of_/abstract 
 

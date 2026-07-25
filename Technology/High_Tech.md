@@ -60,10 +60,10 @@ aliases:
 - 高科技
 - 하이 테크
 has_id_wikidata: Q466410
-opposite_of: '[[_Standards/WikiData/WD~low_technology,786887|WD~low_technology,786887]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q9841082,9841082|WD~Q9841082,9841082]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_technology,112057532|WD~type_of_technology,112057532]]'
-subclass_of: '[[_Standards/WikiData/WD~technology,11016|WD~technology,11016]]'
+opposite_of: '[[/_Standards/WikiData/WD~low_technology,786887|WD~low_technology,786887]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Q9841082,9841082|WD~Q9841082,9841082]]'
+instance_of: '[[/_Standards/WikiData/WD~type_of_technology,112057532|WD~type_of_technology,112057532]]'
+subclass_of: '[[/_Standards/WikiData/WD~technology,11016|WD~technology,11016]]'
 IMDb_keyword: high-tech
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Technology.jpg
 dv_has_:
@@ -154,7 +154,7 @@ dv_has_:
 
 # [[High_Tech]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~High_tech,466410|WD~High_tech,466410]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~High_tech,466410|WD~High_tech,466410]] 
 
 ## #has_/text_of_/abstract 
 

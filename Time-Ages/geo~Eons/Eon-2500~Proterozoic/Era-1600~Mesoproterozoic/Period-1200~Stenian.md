@@ -121,7 +121,7 @@ dv_has_:
     stopped: -1000000000
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Stenian,776333|WD~Stenian,776333]]'
+  - '[[/_Standards/WikiData/WD~Stenian,776333|WD~Stenian,776333]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian|Period-1200~Stenian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian.public|Period-1200~Stenian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian.internal|Period-1200~Stenian.internal]]'
@@ -133,7 +133,7 @@ dv_has_duration_years: 2.000e+8
 dv_has_previous_item: '[[Period-1400~Ectasian]]'
 dv_has_next_item: '[[../Era-1000~Neoproterozoic/Period-1000~Tonian|Period-1000~Tonian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Stenian,776333|WD~Stenian,776333]]'
+- '[[/_Standards/WikiData/WD~Stenian,776333|WD~Stenian,776333]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian|Period-1200~Stenian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian.public|Period-1200~Stenian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian.internal|Period-1200~Stenian.internal]]'
@@ -166,10 +166,10 @@ dv_has_time_started: -1200000000
 dv_has_time_stopped: -1000000000
 dv_has_text_of_color: 0xFED99A
 instance_of:
-- '[[_Standards/WikiData/WD~period,392928|WD~period,392928]]'
-- '[[_Standards/WikiData/WD~system,403523|WD~system,403523]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Stenian,106856425|WD~Category_Stenian,106856425]]'
+- '[[/_Standards/WikiData/WD~period,392928|WD~period,392928]]'
+- '[[/_Standards/WikiData/WD~system,403523|WD~system,403523]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Stenian,106856425|WD~Category_Stenian,106856425]]'
 end_time: -1000000000-01-01T00:00:00Z
 start_time: -1200000000-01-01T00:00:00Z
 Commons_category: Stenian
@@ -185,7 +185,7 @@ sRGB_color_hex_triplet: FED99A
 
  has_previous_item = `= this.dv_has_previous_item` 
  has_next_item = `= this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Stenian,776333|WD~Stenian,776333]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Stenian,776333|WD~Stenian,776333]] 
 
 ## #has_/text_of_/abstract 
 

@@ -67,29 +67,29 @@ aliases:
 - 이온
 has_id_wikidata: Q36496
 subclass_of:
-- '[[_Standards/WikiData/WD~charged_particle,587553|WD~charged_particle,587553]]'
-- '[[_Standards/WikiData/WD~molecular_entity,2393187|WD~molecular_entity,2393187]]'
+- '[[/_Standards/WikiData/WD~charged_particle,587553|WD~charged_particle,587553]]'
+- '[[/_Standards/WikiData/WD~molecular_entity,2393187|WD~molecular_entity,2393187]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764|WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[/_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[/_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764|WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+- "[[/_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
 part_of:
-- '[[_Standards/WikiData/WD~ion_homeostasis,14819888|WD~ion_homeostasis,14819888]]'
-- '[[_Standards/WikiData/WD~ion_transport,14859673|WD~ion_transport,14859673]]'
-- '[[_Standards/WikiData/WD~ion_transmembrane_transport,14865154|WD~ion_transmembrane_transport,14865154]]'
-- '[[_Standards/WikiData/WD~voltage_gated_ion_channel_activity,14865152|WD~voltage_gated_ion_channel_activity,14865152]]'
-- '[[_Standards/WikiData/WD~cellular_ion_homeostasis,14877697|WD~cellular_ion_homeostasis,14877697]]'
-- '[[_Standards/WikiData/WD~ion_transmembrane_transporter_activity,14912762|WD~ion_transmembrane_transporter_activity,14912762]]'
-- '[[_Standards/WikiData/WD~ATPase_coupled_ion_transmembrane_transporter_activity,21136426|WD~ATPase_coupled_ion_transmembrane_transporter_activity,21136426]]'
-- '[[_Standards/WikiData/WD~ATP_gated_ion_channel_activity,22243618|WD~ATP_gated_ion_channel_activity,22243618]]'
-- '[[_Standards/WikiData/WD~cyclic_nucleotide_gated_ion_channel_activity,22243620|WD~cyclic_nucleotide_gated_ion_channel_activity,22243620]]'
-- '[[_Standards/WikiData/WD~ion_binding,22314383|WD~ion_binding,22314383]]'
-- '[[_Standards/WikiData/WD~P_type_ion_transporter_activity,22320609|WD~P_type_ion_transporter_activity,22320609]]'
-- '[[_Standards/WikiData/WD~active_ion_transmembrane_transporter_activity,22325014|WD~active_ion_transmembrane_transporter_activity,22325014]]'
-- '[[_Standards/WikiData/WD~G_protein_gated_ion_channel_activity,27918452|WD~G_protein_gated_ion_channel_activity,27918452]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
-instance_of: '[[_Standards/WikiData/WD~group_or_class_of_chemical_entities,72070508|WD~group_or_class_of_chemical_entities,72070508]]'
-opposite_of: '[[_Standards/WikiData/WD~molecule,11369|WD~molecule,11369]]'
+- '[[/_Standards/WikiData/WD~ion_homeostasis,14819888|WD~ion_homeostasis,14819888]]'
+- '[[/_Standards/WikiData/WD~ion_transport,14859673|WD~ion_transport,14859673]]'
+- '[[/_Standards/WikiData/WD~ion_transmembrane_transport,14865154|WD~ion_transmembrane_transport,14865154]]'
+- '[[/_Standards/WikiData/WD~voltage_gated_ion_channel_activity,14865152|WD~voltage_gated_ion_channel_activity,14865152]]'
+- '[[/_Standards/WikiData/WD~cellular_ion_homeostasis,14877697|WD~cellular_ion_homeostasis,14877697]]'
+- '[[/_Standards/WikiData/WD~ion_transmembrane_transporter_activity,14912762|WD~ion_transmembrane_transporter_activity,14912762]]'
+- '[[/_Standards/WikiData/WD~ATPase_coupled_ion_transmembrane_transporter_activity,21136426|WD~ATPase_coupled_ion_transmembrane_transporter_activity,21136426]]'
+- '[[/_Standards/WikiData/WD~ATP_gated_ion_channel_activity,22243618|WD~ATP_gated_ion_channel_activity,22243618]]'
+- '[[/_Standards/WikiData/WD~cyclic_nucleotide_gated_ion_channel_activity,22243620|WD~cyclic_nucleotide_gated_ion_channel_activity,22243620]]'
+- '[[/_Standards/WikiData/WD~ion_binding,22314383|WD~ion_binding,22314383]]'
+- '[[/_Standards/WikiData/WD~P_type_ion_transporter_activity,22320609|WD~P_type_ion_transporter_activity,22320609]]'
+- '[[/_Standards/WikiData/WD~active_ion_transmembrane_transporter_activity,22325014|WD~active_ion_transmembrane_transporter_activity,22325014]]'
+- '[[/_Standards/WikiData/WD~G_protein_gated_ion_channel_activity,27918452|WD~G_protein_gated_ion_channel_activity,27918452]]'
+disjoint_union_of: '[[/_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+instance_of: '[[/_Standards/WikiData/WD~group_or_class_of_chemical_entities,72070508|WD~group_or_class_of_chemical_entities,72070508]]'
+opposite_of: '[[/_Standards/WikiData/WD~molecule,11369|WD~molecule,11369]]'
 OmegaWiki_Defined_Meaning: 2023
 Commons_category: Ions
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kationt.svg
@@ -256,7 +256,7 @@ dv_has_:
 
 # [[Ion]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ion,36496|WD~Ion,36496]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Ion,36496|WD~Ion,36496]] 
 
 ## #has_/text_of_/abstract 
 

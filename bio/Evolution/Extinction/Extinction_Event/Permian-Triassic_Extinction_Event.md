@@ -60,11 +60,11 @@ aliases:
 - 二疊紀－三疊紀滅絕事件
 - 페름기-트라이아스기 멸종
 has_id_wikidata: Q141118
-subclass_of: '[[_Standards/WikiData/WD~phenomenon,483247|WD~phenomenon,483247]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Online,5375741|WD~Encyclopædia_Britannica_Online,5375741]]'
-has_cause: '[[_Standards/WikiData/WD~global_environmental_change,134519251|WD~global_environmental_change,134519251]]'
+subclass_of: '[[/_Standards/WikiData/WD~phenomenon,483247|WD~phenomenon,483247]]'
+described_by_source: '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_Online,5375741|WD~Encyclopædia_Britannica_Online,5375741]]'
+has_cause: '[[/_Standards/WikiData/WD~global_environmental_change,134519251|WD~global_environmental_change,134519251]]'
 point_in_time: -251900000-01-01T00:00:00Z
-instance_of: '[[_Standards/WikiData/WD~extinction_event,55814|WD~extinction_event,55814]]'
+instance_of: '[[/_Standards/WikiData/WD~extinction_event,55814|WD~extinction_event,55814]]'
 Commons_category: Permian–Triassic extinction event
 dv_has_:
   name_:
@@ -134,7 +134,7 @@ dv_has_:
 
 # [[Permian-Triassic_Extinction_Event]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Permian-Triassic_extinction_event,141118|WD~Permian-Triassic_extinction_event,141118]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Permian-Triassic_extinction_event,141118|WD~Permian-Triassic_extinction_event,141118]] 
 
 ## #has_/text_of_/abstract 
 

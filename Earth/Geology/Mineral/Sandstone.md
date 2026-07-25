@@ -83,24 +83,24 @@ aliases:
 - 사암
 has_id_wikidata: Q13085
 subclass_of:
-- '[[_Standards/WikiData/WD~sedimentary_rock,82480|WD~sedimentary_rock,82480]]'
-- '[[_Standards/WikiData/WD~psammite,1388725|WD~psammite,1388725]]'
-- '[[_Standards/WikiData/WD~natural_building_material,3300024|WD~natural_building_material,3300024]]'
+- '[[/_Standards/WikiData/WD~sedimentary_rock,82480|WD~sedimentary_rock,82480]]'
+- '[[/_Standards/WikiData/WD~psammite,1388725|WD~psammite,1388725]]'
+- '[[/_Standards/WikiData/WD~natural_building_material,3300024|WD~natural_building_material,3300024]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~mica,114675|WD~mica,114675]]'
-- '[[_Standards/WikiData/WD~feldspar,170258|WD~feldspar,170258]]'
-- '[[_Standards/WikiData/WD~lithoclast,3256559|WD~lithoclast,3256559]]'
-- '[[_Standards/WikiData/WD~bioclast,3640134|WD~bioclast,3640134]]'
-- '[[_Standards/WikiData/WD~heavy_mineral,5695273|WD~heavy_mineral,5695273]]'
-- '[[_Standards/WikiData/WD~quartz,43010|WD~quartz,43010]]'
+- '[[/_Standards/WikiData/WD~mica,114675|WD~mica,114675]]'
+- '[[/_Standards/WikiData/WD~feldspar,170258|WD~feldspar,170258]]'
+- '[[/_Standards/WikiData/WD~lithoclast,3256559|WD~lithoclast,3256559]]'
+- '[[/_Standards/WikiData/WD~bioclast,3640134|WD~bioclast,3640134]]'
+- '[[/_Standards/WikiData/WD~heavy_mineral,5695273|WD~heavy_mineral,5695273]]'
+- '[[/_Standards/WikiData/WD~quartz,43010|WD~quartz,43010]]'
 described_by_source:
 - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-award_received: '[[_Standards/WikiData/WD~Rock_of_the_Year,1519491|WD~Rock_of_the_Year,1519491]]'
-different_from: '[[_Standards/WikiData/WD~Piaskowiec,7190336|WD~Piaskowiec,7190336]]'
-has_part_s_: '[[_Standards/WikiData/WD~gogotte,109427622|WD~gogotte,109427622]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+award_received: '[[/_Standards/WikiData/WD~Rock_of_the_Year,1519491|WD~Rock_of_the_Year,1519491]]'
+different_from: '[[/_Standards/WikiData/WD~Piaskowiec,7190336|WD~Piaskowiec,7190336]]'
+has_part_s_: '[[/_Standards/WikiData/WD~gogotte,109427622|WD~gogotte,109427622]]'
 OmegaWiki_Defined_Meaning: 845182
 winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/Nationalpark%20S%C3%A4chsische%20Schweiz%20Gro%C3%9Fer%20Winterberg%20lub%202023-01-28%20img43.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/SmallCrater06%20ST%2008.JPG
@@ -241,7 +241,7 @@ dv_has_:
 # [[Sandstone]] 
 
 is_different_from = `=this.dv_is_different_from`
-#is_/same_as :: [[_Standards/WikiData/WD~Sandstone,13085|WD~Sandstone,13085]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Sandstone,13085|WD~Sandstone,13085]] 
 
 ## #has_/text_of_/abstract 
 

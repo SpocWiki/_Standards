@@ -73,18 +73,18 @@ aliases:
 - 行星系
 - 행성계
 has_id_wikidata: Q206717
-studied_by: '[[_Standards/WikiData/WD~planetary_science,104499|WD~planetary_science,104499]]'
-different_from: '[[_Standards/WikiData/WD~star_system,595871|WD~star_system,595871]]'
-part_of: '[[_Standards/WikiData/WD~star_system,595871|WD~star_system,595871]]'
+studied_by: '[[/_Standards/WikiData/WD~planetary_science,104499|WD~planetary_science,104499]]'
+different_from: '[[/_Standards/WikiData/WD~star_system,595871|WD~star_system,595871]]'
+part_of: '[[/_Standards/WikiData/WD~star_system,595871|WD~star_system,595871]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~minor_planet,1022867|WD~minor_planet,1022867]]'
-- '[[_Standards/WikiData/WD~star,523|WD~star,523]]'
-- '[[_Standards/WikiData/WD~planet,634|WD~planet,634]]'
-- '[[_Standards/WikiData/WD~comet,3559|WD~comet,3559]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_planetary_system,14385354|WD~Template_Infobox_planetary_system,14385354]]'
-subclass_of: '[[_Standards/WikiData/WD~gravitationally_bound_system,15053549|WD~gravitationally_bound_system,15053549]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
-does_not_have_part: '[[_Standards/WikiData/WD~star,523|WD~star,523]]'
+- '[[/_Standards/WikiData/WD~minor_planet,1022867|WD~minor_planet,1022867]]'
+- '[[/_Standards/WikiData/WD~star,523|WD~star,523]]'
+- '[[/_Standards/WikiData/WD~planet,634|WD~planet,634]]'
+- '[[/_Standards/WikiData/WD~comet,3559|WD~comet,3559]]'
+topic_has_template: '[[/_Standards/WikiData/WD~Template_Infobox_planetary_system,14385354|WD~Template_Infobox_planetary_system,14385354]]'
+subclass_of: '[[/_Standards/WikiData/WD~gravitationally_bound_system,15053549|WD~gravitationally_bound_system,15053549]]'
+instance_of: '[[/_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
+does_not_have_part: '[[/_Standards/WikiData/WD~star,523|WD~star,523]]'
 Colon_Classification: B97
 DataTrek_identifier: Q102
 Dewey_Decimal_Classification: 523.2
@@ -203,7 +203,7 @@ dv_has_:
 
 # [[Planetary_System]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Planetary_system,206717|WD~Planetary_system,206717]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Planetary_system,206717|WD~Planetary_system,206717]] 
 
 ## #has_/text_of_/abstract 
 

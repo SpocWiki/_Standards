@@ -75,16 +75,16 @@ tags:
 title: is_an_adult_entertainment Class
 type: Type
 has_part_s_:
-- '[[_Standards/WikiData/WD~striptease,152213|WD~striptease,152213]]'
-- '[[_Standards/WikiData/WD~sex_shop,221618|WD~sex_shop,221618]]'
-- '[[_Standards/WikiData/WD~pornography,291|WD~pornography,291]]'
-- '[[_Standards/WikiData/WD~prostitution,36633|WD~prostitution,36633]]'
-practiced_by: '[[_Standards/WikiData/WD~sex_worker,852857|WD~sex_worker,852857]]'
-subclass_of: '[[_Standards/WikiData/WD~sex_work,1297897|WD~sex_work,1297897]]'
+- '[[/_Standards/WikiData/WD~striptease,152213|WD~striptease,152213]]'
+- '[[/_Standards/WikiData/WD~sex_shop,221618|WD~sex_shop,221618]]'
+- '[[/_Standards/WikiData/WD~pornography,291|WD~pornography,291]]'
+- '[[/_Standards/WikiData/WD~prostitution,36633|WD~prostitution,36633]]'
+practiced_by: '[[/_Standards/WikiData/WD~sex_worker,852857|WD~sex_worker,852857]]'
+subclass_of: '[[/_Standards/WikiData/WD~sex_work,1297897|WD~sex_work,1297897]]'
 instance_of:
-- '[[_Standards/WikiData/WD~business_sector,3477367|WD~business_sector,3477367]]'
-- '[[_Standards/WikiData/WD~economic_sector,3958441|WD~economic_sector,3958441]]'
-studied_by: '[[_Standards/WikiData/WD~sex_work_industry_studies,126955296|WD~sex_work_industry_studies,126955296]]'
+- '[[/_Standards/WikiData/WD~business_sector,3477367|WD~business_sector,3477367]]'
+- '[[/_Standards/WikiData/WD~economic_sector,3958441|WD~economic_sector,3958441]]'
+studied_by: '[[/_Standards/WikiData/WD~sex_work_industry_studies,126955296|WD~sex_work_industry_studies,126955296]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20German%20prostitute%27s%20self-portrait%20in%20a%20brothel.jpg
 Commons_category: Sex business
 dv_has_:
@@ -151,7 +151,7 @@ dv_has_:
 
 # [[Adult_Entertainment]]
 
-#is_/same_as :: [[_Standards/WikiData/WD~erotic_entertainment,106466629|WD~erotic_entertainment,106466629]]
+#is_/same_as :: [[/_Standards/WikiData/WD~erotic_entertainment,106466629|WD~erotic_entertainment,106466629]]
 
 Class of all adult entertainment Businesses.
 

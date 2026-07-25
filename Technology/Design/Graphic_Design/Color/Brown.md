@@ -134,9 +134,9 @@ aliases:
 - 갈색
 has_id_wikidata: Q47071
 instance_of:
-- '[[_Standards/WikiData/WD~HTML4_named_color,56053097|WD~HTML4_named_color,56053097]]'
-- '[[_Standards/WikiData/WD~color,1075|WD~color,1075]]'
-subclass_of: '[[_Standards/WikiData/WD~light,9128|WD~light,9128]]'
+- '[[/_Standards/WikiData/WD~HTML4_named_color,56053097|WD~HTML4_named_color,56053097]]'
+- '[[/_Standards/WikiData/WD~color,1075|WD~color,1075]]'
+subclass_of: '[[/_Standards/WikiData/WD~light,9128|WD~light,9128]]'
 OmegaWiki_Defined_Meaning: 6938
 CSS_color_keyword: brown
 Commons_category: Brown

@@ -66,9 +66,9 @@ tags:
 title: is_an_eye Class
 type: Type
 subclass_of:
-- '[[_Standards/WikiData/WD~medical_diagnosis,177719|WD~medical_diagnosis,177719]]'
-- '[[_Standards/WikiData/WD~ophthalmological_diagnostic_techniques,64722791|WD~ophthalmological_diagnostic_techniques,64722791]]'
-instance_of: '[[_Standards/WikiData/WD~measurement,12453|WD~measurement,12453]]'
+- '[[/_Standards/WikiData/WD~medical_diagnosis,177719|WD~medical_diagnosis,177719]]'
+- '[[/_Standards/WikiData/WD~ophthalmological_diagnostic_techniques,64722791|WD~ophthalmological_diagnostic_techniques,64722791]]'
+instance_of: '[[/_Standards/WikiData/WD~measurement,12453|WD~measurement,12453]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CCMDonation11.JPG
 Commons_category: Eye examinations
 dv_has_:

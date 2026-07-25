@@ -29,14 +29,14 @@ aliases:
 - 卡洛维期
 - 칼로비아절
 has_id_wikidata: Q764255
-named_by: "[[_Standards/WikiData/WD~Alcide_d'Orbigny,344661|WD~Alcide_d'Orbigny,344661]]"
+named_by: "[[/_Standards/WikiData/WD~Alcide_d'Orbigny,344661|WD~Alcide_d'Orbigny,344661]]"
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-named_after: '[[_Standards/WikiData/WD~Kellaways,15059063|WD~Kellaways,15059063]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Callovian,21697519|WD~Category_Callovian,21697519]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+described_by_source: '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+named_after: '[[/_Standards/WikiData/WD~Kellaways,15059063|WD~Kellaways,15059063]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Callovian,21697519|WD~Category_Callovian,21697519]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -163500000-01-01T00:00:00Z
 start_time: -166100000-01-01T00:00:00Z
 Commons_category: Callovian
@@ -98,7 +98,7 @@ dv_has_:
     stopped: -161.5e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Callovian,764255|WD~Callovian,764255]]'
+  - '[[/_Standards/WikiData/WD~Callovian,764255|WD~Callovian,764255]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian|Age~4~Callovian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian.public|Age~4~Callovian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian.internal|Age~4~Callovian.internal]]'
@@ -110,7 +110,7 @@ dv_has_duration_years: 3.800e+6
 dv_has_previous_item: '[[Age~3~Bathonian]]'
 dv_has_next_item: '[[../Epoch-162~Late_Jurassic/Age~1~Oxfordian|Age~1~Oxfordian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Callovian,764255|WD~Callovian,764255]]'
+- '[[/_Standards/WikiData/WD~Callovian,764255|WD~Callovian,764255]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian|Age~4~Callovian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian.public|Age~4~Callovian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~4~Callovian.internal|Age~4~Callovian.internal]]'
@@ -154,7 +154,7 @@ A time period from 165.3 to 161.5 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Callovian,764255|WD~Callovian,764255]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Callovian,764255|WD~Callovian,764255]] 
 
 ## #has_/text_of_/abstract 
 

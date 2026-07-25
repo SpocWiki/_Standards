@@ -60,16 +60,16 @@ aliases:
 - 種分化
 - 종분화
 has_id_wikidata: Q39350
-opposite_of: '[[_Standards/WikiData/WD~extinction,123509|WD~extinction,123509]]'
-has_characteristic: '[[_Standards/WikiData/WD~reproductive_isolation,572872|WD~reproductive_isolation,572872]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Speciation,14326286|WD~Template_Speciation,14326286]]'
-subclass_of: '[[_Standards/WikiData/WD~evolutionary_process,18054608|WD~evolutionary_process,18054608]]'
+opposite_of: '[[/_Standards/WikiData/WD~extinction,123509|WD~extinction,123509]]'
+has_characteristic: '[[/_Standards/WikiData/WD~reproductive_isolation,572872|WD~reproductive_isolation,572872]]'
+topic_has_template: '[[/_Standards/WikiData/WD~Template_Speciation,14326286|WD~Template_Speciation,14326286]]'
+subclass_of: '[[/_Standards/WikiData/WD~evolutionary_process,18054608|WD~evolutionary_process,18054608]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862|WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
-studied_by: '[[_Standards/WikiData/WD~speciation_and_extinction,113042730|WD~speciation_and_extinction,113042730]]'
-has_effect: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
-has_part_s_: '[[_Standards/WikiData/WD~mutation,42918|WD~mutation,42918]]'
+- '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862|WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+studied_by: '[[/_Standards/WikiData/WD~speciation_and_extinction,113042730|WD~speciation_and_extinction,113042730]]'
+has_effect: '[[/_Standards/WikiData/WD~species,7432|WD~species,7432]]'
+has_part_s_: '[[/_Standards/WikiData/WD~mutation,42918|WD~mutation,42918]]'
 OmegaWiki_Defined_Meaning: 966267
 UMLS_CUI: C1563692
 MeSH_tree_code:
@@ -149,7 +149,7 @@ dv_has_:
 
 # [[Speciation]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~speciation,39350|WD~speciation,39350]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~speciation,39350|WD~speciation,39350]] 
 
 ## #has_/text_of_/abstract 
 

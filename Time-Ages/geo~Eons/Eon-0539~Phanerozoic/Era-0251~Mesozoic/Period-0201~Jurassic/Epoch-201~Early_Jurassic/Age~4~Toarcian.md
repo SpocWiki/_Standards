@@ -26,15 +26,15 @@ aliases:
 - 托阿爾期
 - 토아르시움절
 has_id_wikidata: Q914363
-named_after: '[[_Standards/WikiData/WD~Thouars,279681|WD~Thouars,279681]]'
-named_by: "[[_Standards/WikiData/WD~Alcide_d'Orbigny,344661|WD~Alcide_d'Orbigny,344661]]"
+named_after: '[[/_Standards/WikiData/WD~Thouars,279681|WD~Thouars,279681]]'
+named_by: "[[/_Standards/WikiData/WD~Alcide_d'Orbigny,344661|WD~Alcide_d'Orbigny,344661]]"
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-significant_place: '[[_Standards/WikiData/WD~Peniche,941967|WD~Peniche,941967]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Toarcian,21694553|WD~Category_Toarcian,21694553]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Toarcian,134284650|WD~GSSP_for_the_base_of_the_Toarcian,134284650]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+significant_place: '[[/_Standards/WikiData/WD~Peniche,941967|WD~Peniche,941967]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Toarcian,21694553|WD~Category_Toarcian,21694553]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_the_Toarcian,134284650|WD~GSSP_for_the_base_of_the_Toarcian,134284650]]'
 start_time: -182700000-01-01T00:00:00Z
 end_time: -174100000-01-01T00:00:00Z
 sRGB_color_hex_triplet: 74D1F0
@@ -106,7 +106,7 @@ dv_has_:
     stopped: -174.7e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Toarcian,914363|WD~Toarcian,914363]]'
+  - '[[/_Standards/WikiData/WD~Toarcian,914363|WD~Toarcian,914363]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian|Age~4~Toarcian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.public|Age~4~Toarcian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.internal|Age~4~Toarcian.internal]]'
@@ -118,7 +118,7 @@ dv_has_duration_years: 9.500e+6
 dv_has_previous_item: '[[Age~3~Pliensbachian]]'
 dv_has_next_item: '[[../Epoch-175~Middle_Jurassic/Age~1~Aalenian|Age~1~Aalenian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Toarcian,914363|WD~Toarcian,914363]]'
+- '[[/_Standards/WikiData/WD~Toarcian,914363|WD~Toarcian,914363]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian|Age~4~Toarcian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.public|Age~4~Toarcian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.internal|Age~4~Toarcian.internal]]'
@@ -164,7 +164,7 @@ A time period from 184.2 to 174.7 million years ago.
 
  has_previous_item = `$= dv.current.dv_has_previous_item` 
  has_next_item = `$= dv.current.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Toarcian,914363|WD~Toarcian,914363]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Toarcian,914363|WD~Toarcian,914363]] 
 
 ## #has_/text_of_/abstract 
 

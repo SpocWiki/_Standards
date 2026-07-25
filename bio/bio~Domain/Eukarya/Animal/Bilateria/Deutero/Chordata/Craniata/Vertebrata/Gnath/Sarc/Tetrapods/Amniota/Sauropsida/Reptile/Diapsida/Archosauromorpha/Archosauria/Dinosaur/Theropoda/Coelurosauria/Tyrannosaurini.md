@@ -4,10 +4,10 @@ aliases:
 - ティラノサウルス族
 - 暴龙族
 has_id_wikidata: Q21447922
-taxon_rank: '[[_Standards/WikiData/WD~tribe,227936|WD~tribe,227936]]'
+taxon_rank: '[[/_Standards/WikiData/WD~tribe,227936|WD~tribe,227936]]'
 subclass_of: '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Tyrannosaurinae,2073980|WD~Tyrannosaurinae,2073980]]'
 parent_taxon: '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Tyrannosaurinae,2073980|WD~Tyrannosaurinae,2073980]]'
-instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290|WD~fossil_taxon,23038290]]'
+instance_of: '[[/_Standards/WikiData/WD~fossil_taxon,23038290|WD~fossil_taxon,23038290]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/TarbosaurusP1050352.jpg
 taxon_name: Tyrannosaurini
 dv_has_:

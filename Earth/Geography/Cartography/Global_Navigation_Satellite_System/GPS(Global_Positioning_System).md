@@ -67,18 +67,18 @@ aliases:
 - 全球定位系統
 - 全球定位系统
 has_id_wikidata: Q18822
-manifestation_of: '[[_Standards/WikiData/WD~global_navigation_satellite_system,179435|WD~global_navigation_satellite_system,179435]]'
+manifestation_of: '[[/_Standards/WikiData/WD~global_navigation_satellite_system,179435|WD~global_navigation_satellite_system,179435]]'
 instance_of:
-- '[[_Standards/WikiData/WD~global_navigation_satellite_system,179435|WD~global_navigation_satellite_system,179435]]'
-- '[[_Standards/WikiData/WD~guidance_system,1707071|WD~guidance_system,1707071]]'
-- '[[_Standards/WikiData/WD~radionavigation_satellite_service,20181002|WD~radionavigation_satellite_service,20181002]]'
+- '[[/_Standards/WikiData/WD~global_navigation_satellite_system,179435|WD~global_navigation_satellite_system,179435]]'
+- '[[/_Standards/WikiData/WD~guidance_system,1707071|WD~guidance_system,1707071]]'
+- '[[/_Standards/WikiData/WD~radionavigation_satellite_service,20181002|WD~radionavigation_satellite_service,20181002]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~avionics,221329|WD~avionics,221329]]'
-- '[[_Standards/WikiData/WD~positioning_system,11886377|WD~positioning_system,11886377]]'
-has_part_s_: '[[_Standards/WikiData/WD~GPS_satellite,1069313|WD~GPS_satellite,1069313]]'
-has_use: '[[_Standards/WikiData/WD~geographic_location,2221906|WD~geographic_location,2221906]]'
-operator: '[[_Standards/WikiData/WD~United_States_Space_Force,55088961|WD~United_States_Space_Force,55088961]]'
-country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[/_Standards/WikiData/WD~avionics,221329|WD~avionics,221329]]'
+- '[[/_Standards/WikiData/WD~positioning_system,11886377|WD~positioning_system,11886377]]'
+has_part_s_: '[[/_Standards/WikiData/WD~GPS_satellite,1069313|WD~GPS_satellite,1069313]]'
+has_use: '[[/_Standards/WikiData/WD~geographic_location,2221906|WD~geographic_location,2221906]]'
+operator: '[[/_Standards/WikiData/WD~United_States_Space_Force,55088961|WD~United_States_Space_Force,55088961]]'
+country: '[[/_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 GitHub_topic: gps
 IMDb_keyword: gps
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/ConstellationGPS.gif
@@ -244,7 +244,7 @@ dv_has_:
 
 # [[GPS(Global_Positioning_System)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Global_Positioning_System,18822|WD~Global_Positioning_System,18822]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Global_Positioning_System,18822|WD~Global_Positioning_System,18822]] 
 ## #has_/text_of_/abstract 
 
 > The Global Positioning System (GPS) is a satellite-based hyperbolic navigation system 

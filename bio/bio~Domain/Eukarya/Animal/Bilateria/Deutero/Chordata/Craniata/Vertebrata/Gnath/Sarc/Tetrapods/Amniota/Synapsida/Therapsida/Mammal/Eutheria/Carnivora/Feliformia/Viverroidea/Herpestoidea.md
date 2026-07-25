@@ -9,9 +9,9 @@ aliases:
 - 獴總科
 - 몽구스상과
 has_id_wikidata: Q9776204
-taxon_rank: '[[_Standards/WikiData/WD~superfamily,2136103|WD~superfamily,2136103]]'
-parent_taxon: '[[_Standards/WikiData/WD~Viverroidea,9776562|WD~Viverroidea,9776562]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[/_Standards/WikiData/WD~superfamily,2136103|WD~superfamily,2136103]]'
+parent_taxon: '[[/_Standards/WikiData/WD~Viverroidea,9776562|WD~Viverroidea,9776562]]'
+instance_of: '[[/_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Herpestoidea.jpg
 taxon_name: Herpestoidea
 dv_has_:
@@ -65,7 +65,7 @@ dv_has_:
 
 # [[Herpestoidea]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Herpestoidea,9776204|WD~Herpestoidea,9776204]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Herpestoidea,9776204|WD~Herpestoidea,9776204]] 
 
 ## #has_/text_of_/abstract 
 

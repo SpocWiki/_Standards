@@ -51,19 +51,19 @@ tags:
 - geo/City
 type: City
 capital_of:
-- '[[_Standards/WikiData/WD~Viti_Levu,208198|WD~Viti_Levu,208198]]'
-- '[[_Standards/WikiData/WD~Dominion_of_Fiji,5291089|WD~Dominion_of_Fiji,5291089]]'
-- '[[_Standards/WikiData/WD~Fiji,712|WD~Fiji,712]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Viti_Levu,208198|WD~Viti_Levu,208198]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Rewa,1365257|WD~Rewa,1365257]]'
-instance_of: '[[_Standards/WikiData/WD~city,515|WD~city,515]]'
-country: '[[_Standards/WikiData/WD~Fiji,712|WD~Fiji,712]]'
+- '[[/_Standards/WikiData/WD~Viti_Levu,208198|WD~Viti_Levu,208198]]'
+- '[[/_Standards/WikiData/WD~Dominion_of_Fiji,5291089|WD~Dominion_of_Fiji,5291089]]'
+- '[[/_Standards/WikiData/WD~Fiji,712|WD~Fiji,712]]'
+located_in_on_physical_feature: '[[/_Standards/WikiData/WD~Viti_Levu,208198|WD~Viti_Levu,208198]]'
+located_in_the_administrative_territorial_entity: '[[/_Standards/WikiData/WD~Rewa,1365257|WD~Rewa,1365257]]'
+instance_of: '[[/_Standards/WikiData/WD~city,515|WD~city,515]]'
+country: '[[/_Standards/WikiData/WD~Fiji,712|WD~Fiji,712]]'
 official_language:
-- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Fijian,33295|WD~Fijian,33295]]'
-- '[[_Standards/WikiData/WD~Fiji_Hindi,46728|WD~Fiji_Hindi,46728]]'
-located_in_time_zone: '[[_Standards/WikiData/WD~UTC+12_00,7105|WD~UTC+12_00,7105]]'
-located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Pacific_Ocean,98|WD~Pacific_Ocean,98]]'
+- '[[/_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[/_Standards/WikiData/WD~Fijian,33295|WD~Fijian,33295]]'
+- '[[/_Standards/WikiData/WD~Fiji_Hindi,46728|WD~Fiji_Hindi,46728]]'
+located_in_time_zone: '[[/_Standards/WikiData/WD~UTC+12_00,7105|WD~UTC+12_00,7105]]'
+located_in_or_next_to_body_of_water: '[[/_Standards/WikiData/WD~Pacific_Ocean,98|WD~Pacific_Ocean,98]]'
 elevation_above_sea_level: 0
 local_dialing_code:
 - 333

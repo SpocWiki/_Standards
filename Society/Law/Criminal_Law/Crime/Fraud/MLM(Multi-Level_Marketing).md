@@ -6,14 +6,14 @@ aliases:
   - MLM
 has_id_wikidata: Q188606
 instance_of:
-  - "[[_Standards/WikiData/WD~industry,268592]]"
-  - "[[_Standards/WikiData/WD~strategic_management,376657]]"
-  - "[[_Standards/WikiData/WD~business_model,815823]]"
-  - "[[_Standards/WikiData/WD~economic_activity,8187769]]"
+  - "[[/_Standards/WikiData/WD~industry,268592]]"
+  - "[[/_Standards/WikiData/WD~strategic_management,376657]]"
+  - "[[/_Standards/WikiData/WD~business_model,815823]]"
+  - "[[/_Standards/WikiData/WD~economic_activity,8187769]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~direct_selling,962382]]"
-  - "[[_Standards/WikiData/WD~marketing,39809]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Multi_level_marketing,6274868]]"
+  - "[[/_Standards/WikiData/WD~direct_selling,962382]]"
+  - "[[/_Standards/WikiData/WD~marketing,39809]]"
+topic_s_main_category: "[[/_Standards/WikiData/WD~Category_Multi_level_marketing,6274868]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Multi-level%20marketing%20tree%20diagram.png
 subreddit: antiMLM
 ---

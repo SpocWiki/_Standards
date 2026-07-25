@@ -32,12 +32,12 @@ aliases:
 - 长兴期
 has_id_wikidata: Q860048
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-named_after: '[[_Standards/WikiData/WD~Changxing_County,1062178|WD~Changxing_County,1062178]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~Ochoan,7076350|WD~Ochoan,7076350]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Changhsingian,134394788|WD~GSSP_for_the_base_of_the_Changhsingian,134394788]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_after: '[[/_Standards/WikiData/WD~Changxing_County,1062178|WD~Changxing_County,1062178]]'
+partially_coincident_with: '[[/_Standards/WikiData/WD~Ochoan,7076350|WD~Ochoan,7076350]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_the_Changhsingian,134394788|WD~GSSP_for_the_base_of_the_Changhsingian,134394788]]'
 end_time: -251902000-01-01T00:00:00Z
 coordinate_location: Point(119.70638889 31.08194444)
 start_time: -254140000-01-01T00:00:00Z
@@ -92,7 +92,7 @@ dv_has_:
     stopped: -251.902e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Changhsingian,860048|WD~Changhsingian,860048]]'
+  - '[[/_Standards/WikiData/WD~Changhsingian,860048|WD~Changhsingian,860048]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~2~Changhsingian|Age~2~Changhsingian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~2~Changhsingian.public|Age~2~Changhsingian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~2~Changhsingian.internal|Age~2~Changhsingian.internal]]'
@@ -104,7 +104,7 @@ dv_has_duration_years: 2.238e+6
 dv_has_previous_item: '[[Age~1~Wuchiapingian]]'
 dv_has_next_item: '[[../../../Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan|Age~1~Induan]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Changhsingian,860048|WD~Changhsingian,860048]]'
+- '[[/_Standards/WikiData/WD~Changhsingian,860048|WD~Changhsingian,860048]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~2~Changhsingian|Age~2~Changhsingian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~2~Changhsingian.public|Age~2~Changhsingian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~2~Changhsingian.internal|Age~2~Changhsingian.internal]]'
@@ -146,7 +146,7 @@ dv_has_text_of_color: 0xFCC0B2
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Changhsingian,860048|WD~Changhsingian,860048]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Changhsingian,860048|WD~Changhsingian,860048]] 
 
 A time period from 254.14 to 251.902 million years ago. 
 

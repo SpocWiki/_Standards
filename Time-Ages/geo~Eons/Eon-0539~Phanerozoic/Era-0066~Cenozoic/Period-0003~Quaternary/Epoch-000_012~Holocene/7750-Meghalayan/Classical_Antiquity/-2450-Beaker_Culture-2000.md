@@ -51,17 +51,17 @@ aliases:
 - 鐘状ビーカー文化
 - 비커 문화
 has_id_wikidata: Q470867
-followed_by: '[[_Standards/WikiData/WD~Hilversum_culture,278382|WD~Hilversum_culture,278382]]'
-instance_of: '[[_Standards/WikiData/WD~archaeological_culture,465299|WD~archaeological_culture,465299]]'
+followed_by: '[[/_Standards/WikiData/WD~Hilversum_culture,278382|WD~Hilversum_culture,278382]]'
+instance_of: '[[/_Standards/WikiData/WD~archaeological_culture,465299|WD~archaeological_culture,465299]]'
 start_time: -2600-01-01T00:00:00Z
 end_time:
 - -2200-01-01T00:00:00Z
 - -1800-01-01T00:00:00Z
 location:
-- '[[_Standards/WikiData/WD~Southern_Europe,27449|WD~Southern_Europe,27449]]'
-- '[[_Standards/WikiData/WD~Western_Europe,27496|WD~Western_Europe,27496]]'
-- '[[_Standards/WikiData/WD~Central_Europe,27509|WD~Central_Europe,27509]]'
-indigenous_to: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
+- '[[/_Standards/WikiData/WD~Southern_Europe,27449|WD~Southern_Europe,27449]]'
+- '[[/_Standards/WikiData/WD~Western_Europe,27496|WD~Western_Europe,27496]]'
+- '[[/_Standards/WikiData/WD~Central_Europe,27509|WD~Central_Europe,27509]]'
+indigenous_to: '[[/_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
 BHCL_UUID: cd631548-6492-4fb5-a9e4-f07f0183a79c
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bell%20Beaker%20artefacts%2C%20Spain.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Bell%20Beaker%20culture.jpg
@@ -123,7 +123,7 @@ dv_has_:
     stopped: -1800
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Beaker_Culture,470867|WD~Beaker_Culture,470867]]'
+  - '[[/_Standards/WikiData/WD~Beaker_Culture,470867|WD~Beaker_Culture,470867]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000|-2450-Beaker_Culture-2000]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000.public|-2450-Beaker_Culture-2000.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000.internal|-2450-Beaker_Culture-2000.internal]]'
@@ -134,7 +134,7 @@ dv_is_:
 dv_has_time_started: -2450
 dv_has_time_stopped: -1800
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Beaker_Culture,470867|WD~Beaker_Culture,470867]]'
+- '[[/_Standards/WikiData/WD~Beaker_Culture,470867|WD~Beaker_Culture,470867]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000|-2450-Beaker_Culture-2000]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000.public|-2450-Beaker_Culture-2000.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2450-Beaker_Culture-2000.internal|-2450-Beaker_Culture-2000.internal]]'
@@ -150,7 +150,7 @@ has_time_started = `=this.dv_has_time_started`
 has_time_stopped = `=this.dv_has_time_stopped` 
 #has_/predecessor :: [[-3000-Corded_Ware_Culture-2350]]
 
-#is_/same_as :: [[_Standards/WikiData/WD~Beaker_Culture,470867|WD~Beaker_Culture,470867]]
+#is_/same_as :: [[/_Standards/WikiData/WD~Beaker_Culture,470867|WD~Beaker_Culture,470867]]
 
 ## #has_/text_of_/abstract 
 

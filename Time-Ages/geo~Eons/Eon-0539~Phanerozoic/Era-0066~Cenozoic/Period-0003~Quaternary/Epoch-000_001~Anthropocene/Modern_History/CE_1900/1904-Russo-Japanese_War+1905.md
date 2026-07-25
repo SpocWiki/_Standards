@@ -89,22 +89,22 @@ aliases:
 - 日露戦争
 - 러일 전쟁
 has_id_wikidata: Q159950
-location: '[[_Standards/WikiData/WD~Manchuria,81126|WD~Manchuria,81126]]'
+location: '[[/_Standards/WikiData/WD~Manchuria,81126|WD~Manchuria,81126]]'
 participant:
-- '[[_Standards/WikiData/WD~Empire_of_Japan,188712|WD~Empire_of_Japan,188712]]'
-- '[[_Standards/WikiData/WD~Russian_Empire,34266|WD~Russian_Empire,34266]]'
+- '[[/_Standards/WikiData/WD~Empire_of_Japan,188712|WD~Empire_of_Japan,188712]]'
+- '[[/_Standards/WikiData/WD~Russian_Empire,34266|WD~Russian_Empire,34266]]'
 described_by_source:
 - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637|WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Campaignbox_Russo_Japanese_War,8087112|WD~Template_Campaignbox_Russo_Japanese_War,8087112]]'
-followed_by: '[[_Standards/WikiData/WD~Japan_Russia_Secret_Agreement,11510727|WD~Japan_Russia_Secret_Agreement,11510727]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[/_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[/_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637|WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
+topic_has_template: '[[/_Standards/WikiData/WD~Template_Campaignbox_Russo_Japanese_War,8087112|WD~Template_Campaignbox_Russo_Japanese_War,8087112]]'
+followed_by: '[[/_Standards/WikiData/WD~Japan_Russia_Secret_Agreement,11510727|WD~Japan_Russia_Secret_Agreement,11510727]]'
 instance_of:
-- '[[_Standards/WikiData/WD~attempt,12897867|WD~attempt,12897867]]'
-- '[[_Standards/WikiData/WD~war,198|WD~war,198]]'
+- '[[/_Standards/WikiData/WD~attempt,12897867|WD~attempt,12897867]]'
+- '[[/_Standards/WikiData/WD~war,198|WD~war,198]]'
 BHCL_UUID: 0248a045-1cd5-463e-9e18-0d37d69597c1
 image: http://commons.wikimedia.org/wiki/Special:FilePath/RUSSOJAPANESEWARIMAGE.jpg
 U_S_National_Archives_Identifier: 10642804
@@ -249,7 +249,7 @@ dv_has_:
 
 # [[1904-Russo-Japanese_War+1905]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Russo-Japanese_War,159950|WD~Russo-Japanese_War,159950]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Russo-Japanese_War,159950|WD~Russo-Japanese_War,159950]] 
 
 ## #has_/text_of_/abstract 
 

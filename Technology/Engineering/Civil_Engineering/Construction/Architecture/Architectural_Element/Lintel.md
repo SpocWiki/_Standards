@@ -45,12 +45,12 @@ aliases:
 has_id_wikidata: Q1370517
 subclass_of:
 - '[[../../../../../../WikiData/WD~architectural_element,391414|WD~architectural_element,391414]]'
-- '[[_Standards/WikiData/WD~horizontal_structural_element,30327093|WD~horizontal_structural_element,30327093]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~horizontal_structural_element,30327093|WD~horizontal_structural_element,30327093]]'
+described_by_source: '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 part_of:
-- '[[_Standards/WikiData/WD~window_frame,2967774|WD~window_frame,2967774]]'
-- '[[_Standards/WikiData/WD~doorway,21263223|WD~doorway,21263223]]'
-- '[[_Standards/WikiData/WD~post_and_lintel,30327019|WD~post_and_lintel,30327019]]'
+- '[[/_Standards/WikiData/WD~window_frame,2967774|WD~window_frame,2967774]]'
+- '[[/_Standards/WikiData/WD~doorway,21263223|WD~doorway,21263223]]'
+- '[[/_Standards/WikiData/WD~post_and_lintel,30327019|WD~post_and_lintel,30327019]]'
 Nomenclature_for_Museum_Cataloging: 378
 Commons_gallery: Lintel
 Commons_category: Lintels
@@ -114,7 +114,7 @@ dv_has_:
 
 # [[Lintel]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Lintel,1370517|WD~Lintel,1370517]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Lintel,1370517|WD~Lintel,1370517]] 
 
 ## #has_/text_of_/abstract 
 

@@ -25,13 +25,13 @@ aliases:
 - 鲁丹期
 has_id_wikidata: Q260369
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-named_by: '[[_Standards/WikiData/WD~Charles_Hepworth_Holland,1064829|WD~Charles_Hepworth_Holland,1064829]]'
-named_after: '[[_Standards/WikiData/WD~Cwm_Rhuddan,29505497|WD~Cwm_Rhuddan,29505497]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-follows: '[[_Standards/WikiData/WD~Cincinnatian,131749698|WD~Cincinnatian,131749698]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Rhuddanian,134711803|WD~GSSP_for_the_base_of_Rhuddanian,134711803]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_by: '[[/_Standards/WikiData/WD~Charles_Hepworth_Holland,1064829|WD~Charles_Hepworth_Holland,1064829]]'
+named_after: '[[/_Standards/WikiData/WD~Cwm_Rhuddan,29505497|WD~Cwm_Rhuddan,29505497]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+follows: '[[/_Standards/WikiData/WD~Cincinnatian,131749698|WD~Cincinnatian,131749698]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_Rhuddanian,134711803|WD~GSSP_for_the_base_of_Rhuddanian,134711803]]'
 end_time: -440800000-01-01T00:00:00Z
 coordinate_location: Point(-3.27 55.44)
 start_time: -443800000-01-01T00:00:00Z
@@ -80,7 +80,7 @@ dv_has_:
     stopped: -440.8e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Rhuddanian,260369|WD~Rhuddanian,260369]]'
+  - '[[/_Standards/WikiData/WD~Rhuddanian,260369|WD~Rhuddanian,260369]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian|Age~1~Rhuddanian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.public|Age~1~Rhuddanian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.internal|Age~1~Rhuddanian.internal]]'
@@ -92,7 +92,7 @@ dv_has_duration_years: 3.000e+6
 dv_has_previous_item: '[[../../Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian|Age-445~Hirnantian]]'
 dv_has_next_item: '[[Age~2~Aeronian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Rhuddanian,260369|WD~Rhuddanian,260369]]'
+- '[[/_Standards/WikiData/WD~Rhuddanian,260369|WD~Rhuddanian,260369]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian|Age~1~Rhuddanian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.public|Age~1~Rhuddanian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.internal|Age~1~Rhuddanian.internal]]'
@@ -134,7 +134,7 @@ dv_has_text_of_color: 0xA6DCB5
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Rhuddanian,260369|WD~Rhuddanian,260369]]  
+#is_/same_as :: [[/_Standards/WikiData/WD~Rhuddanian,260369|WD~Rhuddanian,260369]]  
 
 A time period from 443.8 to 440.8 million years ago. 
 

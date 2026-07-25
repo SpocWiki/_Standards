@@ -75,18 +75,18 @@ aliases:
 has_id_wikidata: Q124988
 described_by_source:
 - '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Q30059240,30059240|WD~Q30059240,30059240]]'
-participant: '[[_Standards/WikiData/WD~Ancient_Carthage,2429397|WD~Ancient_Carthage,2429397]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Punic_Wars_navbox,6418868|WD~Template_Punic_Wars_navbox,6418868]]'
-instance_of: '[[_Standards/WikiData/WD~series_of_wars,104212151|WD~series_of_wars,104212151]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[/_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[/_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[/_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[/_Standards/WikiData/WD~Q30059240,30059240|WD~Q30059240,30059240]]'
+participant: '[[/_Standards/WikiData/WD~Ancient_Carthage,2429397|WD~Ancient_Carthage,2429397]]'
+topic_has_template: '[[/_Standards/WikiData/WD~Template_Punic_Wars_navbox,6418868|WD~Template_Punic_Wars_navbox,6418868]]'
+instance_of: '[[/_Standards/WikiData/WD~series_of_wars,104212151|WD~series_of_wars,104212151]]'
 end_time: -0145-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20Rome%20and%20Carthage%20at%20the%20start%20of%20the%20Second%20Punic%20War.svg
 Dewey_Decimal_Classification: 937.04
@@ -208,7 +208,7 @@ dv_has_:
 
 # [[0264-Punic_Wars-0146]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Punic_Wars,124988|WD~Punic_Wars,124988]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Punic_Wars,124988|WD~Punic_Wars,124988]] 
 
 ## #has_/text_of_/abstract 
 

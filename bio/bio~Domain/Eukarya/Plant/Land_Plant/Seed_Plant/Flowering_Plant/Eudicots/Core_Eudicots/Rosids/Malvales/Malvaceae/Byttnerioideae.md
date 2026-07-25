@@ -8,8 +8,8 @@ aliases:
 - 불암초아과
 has_id_wikidata: Q652608
 parent_taxon: '[[../../../../../../../../../../../../WikiData/WD~Malvaceae,156551|WD~Malvaceae,156551]]'
-taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280|WD~subfamily,164280]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[/_Standards/WikiData/WD~subfamily,164280|WD~subfamily,164280]]'
+instance_of: '[[/_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Theobroma%20grandiflorum-flower.jpg
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?type=subfamily&id=1750
 EPPO_Code: 1BYTS

@@ -23,10 +23,10 @@ aliases:
 - 错失恐惧症
 - 포모
 has_id_wikidata: Q16753510
-instance_of: '[[_Standards/WikiData/WD~acronym,101244|WD~acronym,101244]]'
-subclass_of: '[[_Standards/WikiData/WD~anxiety,154430|WD~anxiety,154430]]'
-manifestation_of: '[[_Standards/WikiData/WD~connectedness,253405|WD~connectedness,253405]]'
-opposite_of: '[[_Standards/WikiData/WD~Joy_of_Missing_Out,61927257|WD~Joy_of_Missing_Out,61927257]]'
+instance_of: '[[/_Standards/WikiData/WD~acronym,101244|WD~acronym,101244]]'
+subclass_of: '[[/_Standards/WikiData/WD~anxiety,154430|WD~anxiety,154430]]'
+manifestation_of: '[[/_Standards/WikiData/WD~connectedness,253405|WD~connectedness,253405]]'
+opposite_of: '[[/_Standards/WikiData/WD~Joy_of_Missing_Out,61927257|WD~Joy_of_Missing_Out,61927257]]'
 short_name: FOMO
 dv_has_:
   name_:
@@ -70,7 +70,7 @@ dv_has_:
 
 # [[FOMO]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~FOMO,16753510|WD~FOMO,16753510]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~FOMO,16753510|WD~FOMO,16753510]] 
 #has_/complement :: [[../../../../../bio/Psychology/Mind/Meditation|Meditation]]  
 
 ## #has_/text_of_/abstract 

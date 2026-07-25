@@ -98,19 +98,19 @@ title: is_a_stadium_or_arena Class
 type: Type
 described_by_source:
 - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[/_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~sports_venue,1076486|WD~sports_venue,1076486]]'
-- '[[_Standards/WikiData/WD~building,41176|WD~building,41176]]'
+- '[[/_Standards/WikiData/WD~sports_venue,1076486|WD~sports_venue,1076486]]'
+- '[[/_Standards/WikiData/WD~building,41176|WD~building,41176]]'
 different_from:
-- '[[_Standards/WikiData/WD~Stadion,1198317|WD~Stadion,1198317]]'
-- '[[_Standards/WikiData/WD~pitch,2310214|WD~pitch,2310214]]'
-named_after: '[[_Standards/WikiData/WD~stadion,1645966|WD~stadion,1645966]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_stadium,6034132|WD~Template_Infobox_stadium,6034132]]'
+- '[[/_Standards/WikiData/WD~Stadion,1198317|WD~Stadion,1198317]]'
+- '[[/_Standards/WikiData/WD~pitch,2310214|WD~pitch,2310214]]'
+named_after: '[[/_Standards/WikiData/WD~stadion,1645966|WD~stadion,1645966]]'
+topic_has_template: '[[/_Standards/WikiData/WD~Template_Infobox_stadium,6034132|WD~Template_Infobox_stadium,6034132]]'
 properties_for_this_type:
 - location
 - located in time zone

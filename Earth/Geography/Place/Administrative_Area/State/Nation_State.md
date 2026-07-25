@@ -74,12 +74,12 @@ aliases:
 - 民族國家
 - 국민 국가
 has_id_wikidata: Q179671
-instance_of: '[[_Standards/WikiData/WD~state_model,2325086|WD~state_model,2325086]]'
-subclass_of: '[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
-described_by_source: '[[_Standards/WikiData/WD~Q131705451,131705451|WD~Q131705451,131705451]]'
+instance_of: '[[/_Standards/WikiData/WD~state_model,2325086|WD~state_model,2325086]]'
+subclass_of: '[[/_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
+described_by_source: '[[/_Standards/WikiData/WD~Q131705451,131705451|WD~Q131705451,131705451]]'
 union_of:
-- '[[_Standards/WikiData/WD~nation,6266|WD~nation,6266]]'
-- '[[_Standards/WikiData/WD~state,7275|WD~state,7275]]'
+- '[[/_Standards/WikiData/WD~nation,6266|WD~nation,6266]]'
+- '[[/_Standards/WikiData/WD~state,7275|WD~state,7275]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Image%20Germania%20%28painting%29.jpg
 described_at_URL: https://wikispooks.com/wiki/Nation_state
 dv_is_:
@@ -203,7 +203,7 @@ dv_has_:
 
 # [[Nation_State]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nation_state,179671|WD~Nation_state,179671]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Nation_state,179671|WD~Nation_state,179671]] 
 
 ## #has_/text_of_/abstract 
 

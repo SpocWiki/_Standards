@@ -47,14 +47,14 @@ aliases:
 - 무리
 has_id_wikidata: Q186310
 subclass_of:
-- '[[_Standards/WikiData/WD~photometeor,494057|WD~photometeor,494057]]'
-- '[[_Standards/WikiData/WD~atmospheric_optical_phenomenon,29564129|WD~atmospheric_optical_phenomenon,29564129]]'
+- '[[/_Standards/WikiData/WD~photometeor,494057|WD~photometeor,494057]]'
+- '[[/_Standards/WikiData/WD~atmospheric_optical_phenomenon,29564129|WD~atmospheric_optical_phenomenon,29564129]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from:
-- '[[_Standards/WikiData/WD~glory,1339916|WD~glory,1339916]]'
-- '[[_Standards/WikiData/WD~Halo,55623|WD~Halo,55623]]'
+- '[[/_Standards/WikiData/WD~glory,1339916|WD~glory,1339916]]'
+- '[[/_Standards/WikiData/WD~Halo,55623|WD~Halo,55623]]'
 Commons_gallery: Halo
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Halo%20in%20the%20Himalayas.jpg
 Commons_category: Halo phenomena
@@ -167,7 +167,7 @@ dv_has_:
 
 # [[Halo]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Halo,186310|WD~Halo,186310]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Halo,186310|WD~Halo,186310]] 
 
 ## #has_/text_of_/abstract 
 

@@ -94,13 +94,13 @@ aliases:
 - 電波
 - 전파
 has_id_wikidata: Q4262
-part_of: '[[_Standards/WikiData/WD~electromagnetic_spectrum,133139|WD~electromagnetic_spectrum,133139]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q8020789,8020789|WD~Q8020789,8020789]]'
+part_of: '[[/_Standards/WikiData/WD~electromagnetic_spectrum,133139|WD~electromagnetic_spectrum,133139]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Q8020789,8020789|WD~Q8020789,8020789]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~electromagnetic_radiation,12969754|WD~electromagnetic_radiation,12969754]]'
-- '[[_Standards/WikiData/WD~electromagnetic_wave,11386|WD~electromagnetic_wave,11386]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q16109693,16109693|WD~Q16109693,16109693]]'
-follows: '[[_Standards/WikiData/WD~infrared_radiation,11388|WD~infrared_radiation,11388]]'
+- '[[/_Standards/WikiData/WD~electromagnetic_radiation,12969754|WD~electromagnetic_radiation,12969754]]'
+- '[[/_Standards/WikiData/WD~electromagnetic_wave,11386|WD~electromagnetic_wave,11386]]'
+permanent_duplicated_item: '[[/_Standards/WikiData/WD~Q16109693,16109693|WD~Q16109693,16109693]]'
+follows: '[[/_Standards/WikiData/WD~infrared_radiation,11388|WD~infrared_radiation,11388]]'
 U_S_National_Archives_Identifier: 10675684
 Commons_category: Radio waves
 IEV_number: 701-02-12
@@ -212,7 +212,7 @@ dv_has_:
 
 # [[Radio_Wave]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Radio_wave,4262|WD~Radio_wave,4262]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Radio_wave,4262|WD~Radio_wave,4262]] 
 
 ## #has_/text_of_/abstract 
 

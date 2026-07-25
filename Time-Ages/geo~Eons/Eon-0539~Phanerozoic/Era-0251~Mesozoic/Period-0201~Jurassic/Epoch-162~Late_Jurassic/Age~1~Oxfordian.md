@@ -25,14 +25,14 @@ aliases:
 - 牛津階
 - 옥스퍼드절
 has_id_wikidata: Q375784
-named_by: "[[_Standards/WikiData/WD~Alcide_d'Orbigny,344661|WD~Alcide_d'Orbigny,344661]]"
+named_by: "[[/_Standards/WikiData/WD~Alcide_d'Orbigny,344661|WD~Alcide_d'Orbigny,344661]]"
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Oxfordian_(stage),21685168|WD~Category_Oxfordian_(stage),21685168]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Oxfordian_(stage),21685168|WD~Category_Oxfordian_(stage),21685168]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -163500000-01-01T00:00:00Z
-named_after: '[[_Standards/WikiData/WD~Oxford,34217|WD~Oxford,34217]]'
+named_after: '[[/_Standards/WikiData/WD~Oxford,34217|WD~Oxford,34217]]'
 sRGB_color_hex_triplet: ABE7FB
 end_time: -157300000-01-01T00:00:00Z
 dv_has_:
@@ -91,7 +91,7 @@ dv_has_:
     stopped: -154.8e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Oxfordian,375784|WD~Oxfordian,375784]]'
+  - '[[/_Standards/WikiData/WD~Oxfordian,375784|WD~Oxfordian,375784]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian|Age~1~Oxfordian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian.public|Age~1~Oxfordian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian.internal|Age~1~Oxfordian.internal]]'
@@ -103,7 +103,7 @@ dv_has_duration_years: 6.700e+6
 dv_has_previous_item: '[[../Epoch-175~Middle_Jurassic/Age~4~Callovian|Age~4~Callovian]]'
 dv_has_next_item: '[[Age~2~Kimmeridgian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Oxfordian,375784|WD~Oxfordian,375784]]'
+- '[[/_Standards/WikiData/WD~Oxfordian,375784|WD~Oxfordian,375784]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian|Age~1~Oxfordian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian.public|Age~1~Oxfordian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~1~Oxfordian.internal|Age~1~Oxfordian.internal]]'
@@ -145,7 +145,7 @@ dv_has_text_of_color: 0xBFE7F1
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Oxfordian,375784|WD~Oxfordian,375784]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Oxfordian,375784|WD~Oxfordian,375784]] 
 
 A time period from 161.5 to 154.8 million years ago. 
 

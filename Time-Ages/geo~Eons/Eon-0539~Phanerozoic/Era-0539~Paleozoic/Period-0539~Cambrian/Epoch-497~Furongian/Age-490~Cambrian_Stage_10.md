@@ -39,9 +39,9 @@ aliases:
 - 第十期
 has_id_wikidata: Q5025305
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -486850000-01-01T00:00:00Z
 sRGB_color_hex_triplet: E6F5C9
 start_time: -491000000-01-01T00:00:00Z
@@ -118,7 +118,7 @@ dv_has_:
     stopped: -485.4e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Cambrian_Stage_10,5025305|WD~Cambrian_Stage_10,5025305]]'
+  - '[[/_Standards/WikiData/WD~Cambrian_Stage_10,5025305|WD~Cambrian_Stage_10,5025305]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10|Age-490~Cambrian_Stage_10]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.public|Age-490~Cambrian_Stage_10.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.internal|Age-490~Cambrian_Stage_10.internal]]'
@@ -130,7 +130,7 @@ dv_has_duration_years: NaN
 dv_has_previous_item: '[[Age-494~Jiangshanian]]'
 dv_has_next_item: '[[../../Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian|Age-485~Tremadocian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Cambrian_Stage_10,5025305|WD~Cambrian_Stage_10,5025305]]'
+- '[[/_Standards/WikiData/WD~Cambrian_Stage_10,5025305|WD~Cambrian_Stage_10,5025305]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10|Age-490~Cambrian_Stage_10]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.public|Age-490~Cambrian_Stage_10.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.internal|Age-490~Cambrian_Stage_10.internal]]'
@@ -171,7 +171,7 @@ dv_has_text_of_color: 0xE6F5C9
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Cambrian_Stage_10,5025305|WD~Cambrian_Stage_10,5025305]]  
+#is_/same_as :: [[/_Standards/WikiData/WD~Cambrian_Stage_10,5025305|WD~Cambrian_Stage_10,5025305]]  
 
 A time period from 489.5 to 485.4 million years ago. 
 

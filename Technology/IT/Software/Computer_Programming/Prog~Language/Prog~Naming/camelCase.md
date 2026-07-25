@@ -4,13 +4,13 @@ aliases:
   - medial capitals
   - InterCaps
 has_id_wikidata: Q18710
-instance_of: "[[_Standards/WikiData/WD~naming_convention,6961869]]"
-subclass_of: "[[_Standards/WikiData/WD~letter_case,8188561]]"
-different_from: "[[_Standards/WikiData/WD~Pascal_case,9761807]]"
+instance_of: "[[/_Standards/WikiData/WD~naming_convention,6961869]]"
+subclass_of: "[[/_Standards/WikiData/WD~letter_case,8188561]]"
+different_from: "[[/_Standards/WikiData/WD~Pascal_case,9761807]]"
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Pascal_case,9761807]]"
-  - "[[_Standards/WikiData/WD~dromedaryCase,9891392]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Camel_case,55329437]]"
+  - "[[/_Standards/WikiData/WD~Pascal_case,9761807]]"
+  - "[[/_Standards/WikiData/WD~dromedaryCase,9891392]]"
+topic_s_main_category: "[[/_Standards/WikiData/WD~Category_Camel_case,55329437]]"
 Commons_gallery: Binnenmajuskel
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/CamelCase%20sign.jpg

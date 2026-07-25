@@ -36,14 +36,14 @@ aliases:
 has_id_wikidata: Q55594589
 Commons_category: Meghalayan
 coordinate_location: Point(91.715 25.262222222)
-different_from: '[[_Standards/WikiData/WD~Meghalaya,1195|WD~Meghalaya,1195]]'
+different_from: '[[/_Standards/WikiData/WD~Meghalaya,1195|WD~Meghalaya,1195]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-named_after: '[[_Standards/WikiData/WD~Meghalaya,1195|WD~Meghalaya,1195]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_after: '[[/_Standards/WikiData/WD~Meghalaya,1195|WD~Meghalaya,1195]]'
 sRGB_color_hex_triplet: FDEDEC
 start_time: -2250-06
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Meghalayan,133676723|WD~GSSP_for_the_base_of_the_Meghalayan,133676723]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_the_Meghalayan,133676723|WD~GSSP_for_the_base_of_the_Meghalayan,133676723]]'
 dv_has_:
   duration_: 4000
   name_:

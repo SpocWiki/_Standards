@@ -84,11 +84,11 @@ aliases:
 has_id_wikidata: Q2274076
 parent_taxon: '[[../Pilosa|Pilosa]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-taxon_rank: '[[_Standards/WikiData/WD~suborder,5867959|WD~suborder,5867959]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+taxon_rank: '[[/_Standards/WikiData/WD~suborder,5867959|WD~suborder,5867959]]'
+instance_of: '[[/_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 life_expectancy:
 - 20
 - 30
@@ -214,7 +214,7 @@ Unicode_character: 🦥
 
 # [[Sloth]] 🦥 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Sloth,2274076|WD~Sloth,2274076]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Sloth,2274076|WD~Sloth,2274076]] 
 
 ## #has_/text_of_/abstract 
 

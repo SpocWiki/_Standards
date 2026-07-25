@@ -30,10 +30,10 @@ aliases:
 - 中美洲历史
 - 중앙아메리카의 역사
 has_id_wikidata: Q1202140
-instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
+instance_of: '[[/_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
 facet_of:
-- '[[_Standards/WikiData/WD~Central_America,27611|WD~Central_America,27611]]'
-- '[[_Standards/WikiData/WD~Middle_America,29876|WD~Middle_America,29876]]'
+- '[[/_Standards/WikiData/WD~Central_America,27611|WD~Central_America,27611]]'
+- '[[/_Standards/WikiData/WD~Middle_America,29876|WD~Middle_America,29876]]'
 Dewey_Decimal_Classification: 972
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Es-Historia-de-Centroam%C3%A9rica-article.ogg
 Commons_category: History of Central America
@@ -94,7 +94,7 @@ dv_has_:
 
 # [[History_of_Central_America]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~History_of_Central_America,1202140|WD~History_of_Central_America,1202140]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~History_of_Central_America,1202140|WD~History_of_Central_America,1202140]] 
 
 ## #has_/text_of_/abstract 
 

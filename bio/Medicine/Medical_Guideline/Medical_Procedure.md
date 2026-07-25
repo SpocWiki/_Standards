@@ -144,7 +144,7 @@ A process of care used in either a diagnostic, therapeutic, preventive or pallia
 
 #has_/properties :: [ additionalType, alternateName, bodyLocation, code, description, disambiguatingDescription, followup, funding, guideline, howPerformed, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, preparation, procedureType, recognizingAuthority, relevantSpecialty, sameAs, status, study, subjectOf, url ]  
 
-#is_/same_as :: [[_Standards/WikiData/WD~medical_procedure,796194|WD~medical_procedure,796194]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~medical_procedure,796194|WD~medical_procedure,796194]] 
 
 ## #has_/text_of_/abstract 
 

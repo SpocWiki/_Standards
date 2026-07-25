@@ -34,10 +34,10 @@ aliases:
 - 素朴集合論
 - 소박한 집합론
 has_id_wikidata: Q903783
-opposite_of: '[[_Standards/WikiData/WD~axiomatic_set_theory,904423|WD~axiomatic_set_theory,904423]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
-subclass_of: '[[_Standards/WikiData/WD~type,21146257|WD~type,21146257]]'
-is_metaclass_for: '[[_Standards/WikiData/WD~set_theory,12482|WD~set_theory,12482]]'
+opposite_of: '[[/_Standards/WikiData/WD~axiomatic_set_theory,904423|WD~axiomatic_set_theory,904423]]'
+maintained_by_WikiProject: '[[/_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+subclass_of: '[[/_Standards/WikiData/WD~type,21146257|WD~type,21146257]]'
+is_metaclass_for: '[[/_Standards/WikiData/WD~set_theory,12482|WD~set_theory,12482]]'
 Stack_Exchange_tag: https://math.stackexchange.com/tags/elementary-set-theory
 dv_has_:
   name_:
@@ -84,7 +84,7 @@ dv_has_:
 
 # [[Naive_Set_Theory]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Naive_set_theory,903783|WD~Naive_set_theory,903783]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Naive_set_theory,903783|WD~Naive_set_theory,903783]] 
 
 ## #has_/text_of_/abstract 
 

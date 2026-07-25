@@ -10,8 +10,8 @@ aliases:
 - علم الآثار ما بعد العصور الوسطى
 - 近世考古学
 has_id_wikidata: Q1982103
-instance_of: '[[_Standards/WikiData/WD~archaeological_child_discipline,4785472|WD~archaeological_child_discipline,4785472]]'
-subclass_of: '[[_Standards/WikiData/WD~archaeology,23498|WD~archaeology,23498]]'
+instance_of: '[[/_Standards/WikiData/WD~archaeological_child_discipline,4785472|WD~archaeological_child_discipline,4785472]]'
+subclass_of: '[[/_Standards/WikiData/WD~archaeology,23498|WD~archaeology,23498]]'
 dv_has_:
   name_:
     ar: علم الآثار ما بعد العصور الوسطى
@@ -26,7 +26,7 @@ dv_has_:
     stopped: 1.8e3
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Post-medieval_archaeology,1982103|WD~Post-medieval_archaeology,1982103]]'
+  - '[[/_Standards/WikiData/WD~Post-medieval_archaeology,1982103|WD~Post-medieval_archaeology,1982103]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Post-Middle-Ages|Post-Middle-Ages]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Post-Middle-Ages.public|Post-Middle-Ages.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Post-Middle-Ages.internal|Post-Middle-Ages.internal]]'
@@ -37,7 +37,7 @@ dv_is_:
 dv_has_time_started: 1.5e3
 dv_has_time_stopped: 1.8e3
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Post-medieval_archaeology,1982103|WD~Post-medieval_archaeology,1982103]]'
+- '[[/_Standards/WikiData/WD~Post-medieval_archaeology,1982103|WD~Post-medieval_archaeology,1982103]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Post-Middle-Ages|Post-Middle-Ages]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Post-Middle-Ages.public|Post-Middle-Ages.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Post-Middle-Ages.internal|Post-Middle-Ages.internal]]'
@@ -53,7 +53,7 @@ has_time_started = `=this.dv_has_time_started`
 has_time_stopped = `=this.dv_has_time_stopped` 
 
 #is_a_/time_/Culture 
-#is_/same_as :: [[_Standards/WikiData/WD~Post-medieval_archaeology,1982103|WD~Post-medieval_archaeology,1982103]]
+#is_/same_as :: [[/_Standards/WikiData/WD~Post-medieval_archaeology,1982103|WD~Post-medieval_archaeology,1982103]]
 
 ## #has_/text_of_/abstract  
 

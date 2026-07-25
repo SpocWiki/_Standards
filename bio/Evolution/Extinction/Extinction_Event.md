@@ -71,11 +71,11 @@ aliases:
 - 대량 멸종
 has_id_wikidata: Q55814
 subclass_of:
-- '[[_Standards/WikiData/WD~extinction,123509|WD~extinction,123509]]'
-- '[[_Standards/WikiData/WD~bioevent,4914809|WD~bioevent,4914809]]'
-- '[[_Standards/WikiData/WD~existential_risk,16830153|WD~existential_risk,16830153]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q10554369,10554369|WD~Q10554369,10554369]]'
-has_cause: '[[_Standards/WikiData/WD~global_environmental_change,134519251|WD~global_environmental_change,134519251]]'
+- '[[/_Standards/WikiData/WD~extinction,123509|WD~extinction,123509]]'
+- '[[/_Standards/WikiData/WD~bioevent,4914809|WD~bioevent,4914809]]'
+- '[[/_Standards/WikiData/WD~existential_risk,16830153|WD~existential_risk,16830153]]'
+topic_has_template: '[[/_Standards/WikiData/WD~Q10554369,10554369|WD~Q10554369,10554369]]'
+has_cause: '[[/_Standards/WikiData/WD~global_environmental_change,134519251|WD~global_environmental_change,134519251]]'
 short_name: ELE
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Artensterben%20im%20Wandel%20der%20Zeit.webm
 Commons_category: Mass extinctions

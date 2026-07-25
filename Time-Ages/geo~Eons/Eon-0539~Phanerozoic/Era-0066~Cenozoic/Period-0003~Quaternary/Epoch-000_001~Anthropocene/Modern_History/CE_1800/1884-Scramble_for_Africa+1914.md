@@ -80,13 +80,13 @@ aliases:
 - 瓜分非洲
 - 아프리카 분할
 has_id_wikidata: Q179848
-instance_of: '[[_Standards/WikiData/WD~partition,518554|WD~partition,518554]]'
+instance_of: '[[/_Standards/WikiData/WD~partition,518554|WD~partition,518554]]'
 facet_of:
-- '[[_Standards/WikiData/WD~colonization,815962|WD~colonization,815962]]'
-- '[[_Standards/WikiData/WD~colonisation_of_Africa,2353647|WD~colonisation_of_Africa,2353647]]'
-subclass_of: '[[_Standards/WikiData/WD~colonisation_of_Africa,2353647|WD~colonisation_of_Africa,2353647]]'
-different_from: '[[_Standards/WikiData/WD~Western_imperialism_in_Asia,3234208|WD~Western_imperialism_in_Asia,3234208]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Campaignbox_Scramble_for_Africa,10981858|WD~Template_Campaignbox_Scramble_for_Africa,10981858]]'
+- '[[/_Standards/WikiData/WD~colonization,815962|WD~colonization,815962]]'
+- '[[/_Standards/WikiData/WD~colonisation_of_Africa,2353647|WD~colonisation_of_Africa,2353647]]'
+subclass_of: '[[/_Standards/WikiData/WD~colonisation_of_Africa,2353647|WD~colonisation_of_Africa,2353647]]'
+different_from: '[[/_Standards/WikiData/WD~Western_imperialism_in_Asia,3234208|WD~Western_imperialism_in_Asia,3234208]]'
+topic_has_template: '[[/_Standards/WikiData/WD~Template_Campaignbox_Scramble_for_Africa,10981858|WD~Template_Campaignbox_Scramble_for_Africa,10981858]]'
 start_time: 1885-01-01T00:00:00Z
 Commons_category: Scramble for Africa
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20Africa%20in%201880.jpg
@@ -215,7 +215,7 @@ dv_has_:
 
 # [[1884-Scramble_for_Africa+1914]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Scramble_for_Africa,179848|WD~Scramble_for_Africa,179848]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Scramble_for_Africa,179848|WD~Scramble_for_Africa,179848]] 
 
 ## #has_/text_of_/abstract 
 

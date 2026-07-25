@@ -62,10 +62,10 @@ aliases:
 - 酸碱理论
 - 酸鹼反應
 has_id_wikidata: Q378751
-facet_of: '[[_Standards/WikiData/WD~acid_base_theory,201539|WD~acid_base_theory,201539]]'
-has_characteristic: '[[_Standards/WikiData/WD~acid_base_homeostasis,3275718|WD~acid_base_homeostasis,3275718]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Acids_and_bases,10972149|WD~Template_Acids_and_bases,10972149]]'
-subclass_of: '[[_Standards/WikiData/WD~chemical_reaction,36534|WD~chemical_reaction,36534]]'
+facet_of: '[[/_Standards/WikiData/WD~acid_base_theory,201539|WD~acid_base_theory,201539]]'
+has_characteristic: '[[/_Standards/WikiData/WD~acid_base_homeostasis,3275718|WD~acid_base_homeostasis,3275718]]'
+topic_has_template: '[[/_Standards/WikiData/WD~Template_Acids_and_bases,10972149|WD~Template_Acids_and_bases,10972149]]'
+subclass_of: '[[/_Standards/WikiData/WD~chemical_reaction,36534|WD~chemical_reaction,36534]]'
 Commons_category: Acid-base reactions
 dv_is_:
   same_as:

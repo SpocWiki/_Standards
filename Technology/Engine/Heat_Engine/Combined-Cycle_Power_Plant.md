@@ -38,9 +38,9 @@ aliases:
 - 複循環
 has_id_wikidata: Q900729
 subclass_of:
-- '[[_Standards/WikiData/WD~steam_electric_power_station,1158818|WD~steam_electric_power_station,1158818]]'
-- '[[_Standards/WikiData/WD~gas_turbine_power_station,1427536|WD~gas_turbine_power_station,1427536]]'
-studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473|WD~thermodynamics,11473]]'
+- '[[/_Standards/WikiData/WD~steam_electric_power_station,1158818|WD~steam_electric_power_station,1158818]]'
+- '[[/_Standards/WikiData/WD~gas_turbine_power_station,1427536|WD~gas_turbine_power_station,1427536]]'
+studied_by: '[[/_Standards/WikiData/WD~thermodynamics,11473|WD~thermodynamics,11473]]'
 carbon_footprint: 490
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ISK%20Knapsack%20GuD%202007.jpg
 Commons_category: Combined cycle
@@ -94,7 +94,7 @@ dv_has_:
 
 # [[Combined-Cycle_Power_Plant]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Combined_cycle_power_plant,900729|WD~Combined_cycle_power_plant,900729]]
+#is_/same_as :: [[/_Standards/WikiData/WD~Combined_cycle_power_plant,900729|WD~Combined_cycle_power_plant,900729]]
 
 ## #has_/text_of_/abstract 
 

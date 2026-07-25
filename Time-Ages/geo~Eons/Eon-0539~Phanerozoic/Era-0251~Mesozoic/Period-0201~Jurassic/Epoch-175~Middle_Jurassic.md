@@ -41,13 +41,13 @@ aliases:
 - 中侏罗纪
 - 쥐라기 중기
 has_id_wikidata: Q500054
-named_after: '[[_Standards/WikiData/WD~Jura_Mountains,178611|WD~Jura_Mountains,178611]]'
+named_after: '[[/_Standards/WikiData/WD~Jura_Mountains,178611|WD~Jura_Mountains,178611]]'
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
-described_by_source: '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Middle_Jurassic,9009611|WD~Category_Middle_Jurassic,9009611]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[/_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[/_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
+described_by_source: '[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Middle_Jurassic,9009611|WD~Category_Middle_Jurassic,9009611]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -163500000-01-01T00:00:00Z
 start_time: -174100000-01-01T00:00:00Z
 sRGB_color_hex_triplet: 34D1EB
@@ -115,7 +115,7 @@ dv_has_:
     stopped: -161.5e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Middle_Jurassic,500054|WD~Middle_Jurassic,500054]]'
+  - '[[/_Standards/WikiData/WD~Middle_Jurassic,500054|WD~Middle_Jurassic,500054]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic|Epoch-175~Middle_Jurassic]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic.public|Epoch-175~Middle_Jurassic.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic.internal|Epoch-175~Middle_Jurassic.internal]]'
@@ -127,7 +127,7 @@ dv_has_duration_years: 1.320e+7
 dv_has_previous_item: '[[Epoch-201~Early_Jurassic]]'
 dv_has_next_item: '[[Epoch-162~Late_Jurassic]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Middle_Jurassic,500054|WD~Middle_Jurassic,500054]]'
+- '[[/_Standards/WikiData/WD~Middle_Jurassic,500054|WD~Middle_Jurassic,500054]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic|Epoch-175~Middle_Jurassic]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic.public|Epoch-175~Middle_Jurassic.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic.internal|Epoch-175~Middle_Jurassic.internal]]'
@@ -169,7 +169,7 @@ dv_has_text_of_color: 0x80CFD8
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Middle_Jurassic,500054|WD~Middle_Jurassic,500054]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Middle_Jurassic,500054|WD~Middle_Jurassic,500054]] 
 
 A time period from 174.7 to 161.5 million years ago. 
 

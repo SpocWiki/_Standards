@@ -51,8 +51,8 @@ aliases:
 - 이온 엔진
 has_id_wikidata: Q205702
 subclass_of:
-- '[[_Standards/WikiData/WD~electrically_powered_spacecraft_propulsion,648588|WD~electrically_powered_spacecraft_propulsion,648588]]'
-- '[[_Standards/WikiData/WD~thruster,28454968|WD~thruster,28454968]]'
+- '[[/_Standards/WikiData/WD~electrically_powered_spacecraft_propulsion,648588|WD~electrically_powered_spacecraft_propulsion,648588]]'
+- '[[/_Standards/WikiData/WD~thruster,28454968|WD~thruster,28454968]]'
 Commons_category: Ion propulsion
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ion%20Engine%20Test%20Firing%20-%20GPN-2000-000482.jpg
 dv_has_:
@@ -116,7 +116,7 @@ dv_has_:
 
 # [[Ion_Thruster]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ion_thruster,205702|WD~Ion_thruster,205702]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Ion_thruster,205702|WD~Ion_thruster,205702]] 
 
 ## #has_/text_of_/abstract 
 

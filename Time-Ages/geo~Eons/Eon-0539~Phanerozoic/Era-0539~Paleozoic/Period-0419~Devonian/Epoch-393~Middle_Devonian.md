@@ -37,10 +37,10 @@ aliases:
 - 中泥盆世
 has_id_wikidata: Q731313
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q49763553,49763553|WD~Q49763553,49763553]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[/_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[/_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Q49763553,49763553|WD~Q49763553,49763553]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -393300000-01-01T00:00:00Z
 end_time: -382700000-01-01T00:00:00Z
 sRGB_color_hex_triplet: F6C87A
@@ -89,7 +89,7 @@ dv_has_:
     stopped: -382.7e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Middle_Devonian,731313|WD~Middle_Devonian,731313]]'
+  - '[[/_Standards/WikiData/WD~Middle_Devonian,731313|WD~Middle_Devonian,731313]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian|Epoch-393~Middle_Devonian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian.public|Epoch-393~Middle_Devonian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian.internal|Epoch-393~Middle_Devonian.internal]]'
@@ -101,7 +101,7 @@ dv_has_duration_years: 1.060e+7
 dv_has_previous_item: '[[Epoch-419~Early_Devonian]]'
 dv_has_next_item: '[[Epoch-382~Late_Devonian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Middle_Devonian,731313|WD~Middle_Devonian,731313]]'
+- '[[/_Standards/WikiData/WD~Middle_Devonian,731313|WD~Middle_Devonian,731313]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian|Epoch-393~Middle_Devonian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian.public|Epoch-393~Middle_Devonian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian.internal|Epoch-393~Middle_Devonian.internal]]'
@@ -143,7 +143,7 @@ dv_has_text_of_color: 0xF1C868
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Middle_Devonian,731313|WD~Middle_Devonian,731313]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Middle_Devonian,731313|WD~Middle_Devonian,731313]] 
 
 A time period from 393.3 to 382.7 million years ago. 
 

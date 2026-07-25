@@ -65,11 +65,11 @@ aliases:
 - 準軍事部隊
 - 준군사조직
 has_id_wikidata: Q207320
-subject_has_role: '[[_Standards/WikiData/WD~public_security,294240|WD~public_security,294240]]'
-subclass_of: '[[_Standards/WikiData/WD~irregular_military,1673189|WD~irregular_military,1673189]]'
-has_list: '[[_Standards/WikiData/WD~list_of_paramilitary_organizations,25344947|WD~list_of_paramilitary_organizations,25344947]]'
-has_characteristic: '[[_Standards/WikiData/WD~paramilitarism,113585502|WD~paramilitarism,113585502]]'
-has_part_s_: '[[_Standards/WikiData/WD~paramilitary,117804716|WD~paramilitary,117804716]]'
+subject_has_role: '[[/_Standards/WikiData/WD~public_security,294240|WD~public_security,294240]]'
+subclass_of: '[[/_Standards/WikiData/WD~irregular_military,1673189|WD~irregular_military,1673189]]'
+has_list: '[[/_Standards/WikiData/WD~list_of_paramilitary_organizations,25344947|WD~list_of_paramilitary_organizations,25344947]]'
+has_characteristic: '[[/_Standards/WikiData/WD~paramilitarism,113585502|WD~paramilitarism,113585502]]'
+has_part_s_: '[[/_Standards/WikiData/WD~paramilitary,117804716|WD~paramilitary,117804716]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/SWAT%20team%20prepared%20%284132135578%29.jpg
 Commons_category: Paramilitary organizations
 dv_has_:
@@ -161,7 +161,7 @@ dv_has_:
 
 # [[Paramilitary_Organization]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Paramilitary_organization,207320|WD~Paramilitary_organization,207320]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Paramilitary_organization,207320|WD~Paramilitary_organization,207320]] 
 
 ## #has_/text_of_/abstract 
 

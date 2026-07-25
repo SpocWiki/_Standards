@@ -65,9 +65,9 @@ aliases:
 - 氣墊船
 - 호버크래프트
 has_id_wikidata: Q185757
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Christopher_Cockerell,469938|WD~Christopher_Cockerell,469938]]'
-subclass_of: '[[_Standards/WikiData/WD~amphibious_vehicle,474698|WD~amphibious_vehicle,474698]]'
-different_from: '[[_Standards/WikiData/WD~airboat,1337450|WD~airboat,1337450]]'
+discoverer_or_inventor: '[[/_Standards/WikiData/WD~Christopher_Cockerell,469938|WD~Christopher_Cockerell,469938]]'
+subclass_of: '[[/_Standards/WikiData/WD~amphibious_vehicle,474698|WD~amphibious_vehicle,474698]]'
+different_from: '[[/_Standards/WikiData/WD~airboat,1337450|WD~airboat,1337450]]'
 speed: 150
 Nomenclature_for_Museum_Cataloging: 11723
 IMDb_keyword: hovercraft
@@ -166,7 +166,7 @@ dv_has_:
 
 # [[Hovercraft]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hovercraft,185757|WD~Hovercraft,185757]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Hovercraft,185757|WD~Hovercraft,185757]] 
 
 ## #has_/text_of_/abstract 
 

@@ -3,17 +3,17 @@ aliases:
   - Lakagígar
 has_id_wikidata: Q203726
 instance_of:
-  - "[[_Standards/WikiData/WD~volcanic_crater,109391]]"
-  - "[[_Standards/WikiData/WD~fissure_vent,2143039]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Icelanders,191356]]"
-located_in_protected_area: "[[_Standards/WikiData/WD~Vatnajökull_National_Park,1353292]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Skaftárhreppur,2066213]]"
-significant_event: "[[_Standards/WikiData/WD~volcanic_eruption,7692360]]"
-volcano_observatory: "[[_Standards/WikiData/WD~Nordic_Volcanological_Center,9050633]]"
-different_from: "[[_Standards/WikiData/WD~Laki,16653094]]"
-named_after: "[[_Standards/WikiData/WD~Laki,16653094]]"
+  - "[[/_Standards/WikiData/WD~volcanic_crater,109391]]"
+  - "[[/_Standards/WikiData/WD~fissure_vent,2143039]]"
+discoverer_or_inventor: "[[/_Standards/WikiData/WD~Icelanders,191356]]"
+located_in_protected_area: "[[/_Standards/WikiData/WD~Vatnajökull_National_Park,1353292]]"
+located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~Skaftárhreppur,2066213]]"
+significant_event: "[[/_Standards/WikiData/WD~volcanic_eruption,7692360]]"
+volcano_observatory: "[[/_Standards/WikiData/WD~Nordic_Volcanological_Center,9050633]]"
+different_from: "[[/_Standards/WikiData/WD~Laki,16653094]]"
+named_after: "[[/_Standards/WikiData/WD~Laki,16653094]]"
 coordinate_location: Point(-18.23 64.0675)
-country: "[[_Standards/WikiData/WD~Iceland,189]]"
+country: "[[/_Standards/WikiData/WD~Iceland,189]]"
 length: 27
 elevation_above_sea_level: 812
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Laki%20fissure%20%282%29.jpg

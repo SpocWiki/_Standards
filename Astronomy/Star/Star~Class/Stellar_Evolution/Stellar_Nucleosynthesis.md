@@ -42,7 +42,7 @@ aliases:
 - 恒星核合成
 - 항성 핵합성
 has_id_wikidata: Q1057093
-subclass_of: '[[_Standards/WikiData/WD~nucleosynthesis,471702|WD~nucleosynthesis,471702]]'
+subclass_of: '[[/_Standards/WikiData/WD~nucleosynthesis,471702|WD~nucleosynthesis,471702]]'
 dv_is_:
   same_as:
   - '[[../../../../WikiData/WD~Stellar_nucleosynthesis,1057093|WD~Stellar_nucleosynthesis,1057093]]'

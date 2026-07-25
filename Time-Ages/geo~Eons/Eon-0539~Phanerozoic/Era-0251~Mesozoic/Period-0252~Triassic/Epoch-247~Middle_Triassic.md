@@ -39,11 +39,11 @@ aliases:
 ischart: MiddleTriassic
 has_id_wikidata: Q929395
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Middle_Triassic,21605749|WD~Category_Middle_Triassic,21605749]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-named_after: '[[_Standards/WikiData/WD~Q201,201|WD~Q201,201]]'
+- '[[/_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[/_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Middle_Triassic,21605749|WD~Category_Middle_Triassic,21605749]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+named_after: '[[/_Standards/WikiData/WD~Q201,201|WD~Q201,201]]'
 start_time: -247200000-01-01T00:00:00Z
 Commons_category: Middle Triassic
 sRGB_color_hex_triplet: BF7CB1
@@ -104,7 +104,7 @@ dv_has_:
     stopped: -237.0e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Middle_Triassic,929395|WD~Middle_Triassic,929395]]'
+  - '[[/_Standards/WikiData/WD~Middle_Triassic,929395|WD~Middle_Triassic,929395]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic|Epoch-247~Middle_Triassic]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic.public|Epoch-247~Middle_Triassic.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic.internal|Epoch-247~Middle_Triassic.internal]]'
@@ -116,7 +116,7 @@ dv_has_duration_years: 1.020e+7
 dv_has_previous_item: '[[Epoch-252~Early_Triassic]]'
 dv_has_next_item: '[[Epoch-237~Late_Triassic]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Middle_Triassic,929395|WD~Middle_Triassic,929395]]'
+- '[[/_Standards/WikiData/WD~Middle_Triassic,929395|WD~Middle_Triassic,929395]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic|Epoch-247~Middle_Triassic]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic.public|Epoch-247~Middle_Triassic.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic.internal|Epoch-247~Middle_Triassic.internal]]'
@@ -158,7 +158,7 @@ dv_has_text_of_color: 0xB168B1
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Middle_Triassic,929395|WD~Middle_Triassic,929395]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Middle_Triassic,929395|WD~Middle_Triassic,929395]] 
 
 A time period from 247.2 to 237 million years ago. 
 

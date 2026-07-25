@@ -49,13 +49,13 @@ aliases:
 - 자연주의
 has_id_wikidata: Q56000
 different_from:
-- '[[_Standards/WikiData/WD~naturalism,223978|WD~naturalism,223978]]'
-- '[[_Standards/WikiData/WD~natural_history,484591|WD~natural_history,484591]]'
+- '[[/_Standards/WikiData/WD~naturalism,223978|WD~naturalism,223978]]'
+- '[[/_Standards/WikiData/WD~natural_history,484591|WD~natural_history,484591]]'
 instance_of:
-- '[[_Standards/WikiData/WD~philosophical_movement,2915955|WD~philosophical_movement,2915955]]'
-- '[[_Standards/WikiData/WD~world_view,49447|WD~world_view,49447]]'
-described_by_source: '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
-opposite_of: '[[_Standards/WikiData/WD~supernaturalism,21071527|WD~supernaturalism,21071527]]'
+- '[[/_Standards/WikiData/WD~philosophical_movement,2915955|WD~philosophical_movement,2915955]]'
+- '[[/_Standards/WikiData/WD~world_view,49447|WD~world_view,49447]]'
+described_by_source: '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+opposite_of: '[[/_Standards/WikiData/WD~supernaturalism,21071527|WD~supernaturalism,21071527]]'
 Dewey_Decimal_Classification: 146
 Commons_category: Naturalism (philosophy)
 dv_has_:
@@ -140,7 +140,7 @@ dv_has_:
 
 # [[Naturalism]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Naturalism,56000|WD~Naturalism,56000]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Naturalism,56000|WD~Naturalism,56000]] 
 
 ## #has_/text_of_/abstract 
 

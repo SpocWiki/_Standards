@@ -135,26 +135,26 @@ aliases:
 - ꯎꯟ (ꯃꯄꯪ)
 - 얼음
 has_id_wikidata: Q23392
-phase_point: '[[_Standards/WikiData/WD~triple_point,106410|WD~triple_point,106410]]'
-crystal_system: '[[_Standards/WikiData/WD~hexagonal_crystal_system,663314|WD~hexagonal_crystal_system,663314]]'
+phase_point: '[[/_Standards/WikiData/WD~triple_point,106410|WD~triple_point,106410]]'
+crystal_system: '[[/_Standards/WikiData/WD~hexagonal_crystal_system,663314|WD~hexagonal_crystal_system,663314]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637|WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Ice,14338844|WD~Template_Ice,14338844]]'
-followed_by: '[[_Standards/WikiData/WD~liquid_water,29053744|WD~liquid_water,29053744]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171|WD~type_of_chemical_entity,113145171]]'
-facet_of: '[[_Standards/WikiData/WD~water,283|WD~water,283]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[/_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- "[[/_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[/_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[/_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[/_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637|WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
+topic_has_template: '[[/_Standards/WikiData/WD~Template_Ice,14338844|WD~Template_Ice,14338844]]'
+followed_by: '[[/_Standards/WikiData/WD~liquid_water,29053744|WD~liquid_water,29053744]]'
+instance_of: '[[/_Standards/WikiData/WD~type_of_chemical_entity,113145171|WD~type_of_chemical_entity,113145171]]'
+facet_of: '[[/_Standards/WikiData/WD~water,283|WD~water,283]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~water,283|WD~water,283]]'
-- '[[_Standards/WikiData/WD~solid,11438|WD~solid,11438]]'
-made_from_material: '[[_Standards/WikiData/WD~water,283|WD~water,283]]'
+- '[[/_Standards/WikiData/WD~water,283|WD~water,283]]'
+- '[[/_Standards/WikiData/WD~solid,11438|WD~solid,11438]]'
+made_from_material: '[[/_Standards/WikiData/WD~water,283|WD~water,283]]'
 melting_point: 0
 speed_of_sound: 3000
 Mohs_hardness: 1.5
@@ -402,7 +402,7 @@ Unicode_character: 🧊
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ice,23392|WD~Ice,23392]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Ice,23392|WD~Ice,23392]] 
 
 ## #has_/text_of_/abstract 
 

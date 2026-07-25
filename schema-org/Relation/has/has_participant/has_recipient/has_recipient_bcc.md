@@ -31,7 +31,7 @@ dv_has_:
     property: "[[../has_recipient|has_recipient]]"
   domain: "[[../../../../../Society/Communication/Media/Creative_Work/Message|Message]]"
   name: has_recipient_bcc
-  range: "[[_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point.md|Contact_Point]],[[_Standards/Society/Agent/Community/Organization.md|Organization]],[[_Standards/Society/Agent/Person.md|Person]]"
+  range: "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point.md|Contact_Point]],[[/_Standards/Society/Agent/Community/Organization.md|Organization]],[[/_Standards/Society/Agent/Person.md|Person]]"
   inverse: "[[is_recipient_bcc_of]]"
 dv_is_:
   same_as:
@@ -45,7 +45,7 @@ dv_is_:
 dv_has_parent_property: "[[../has_recipient|has_recipient]]"
 dv_has_domain: "[[../../../../../Society/Communication/Media/Creative_Work/Message|Message]]"
 dv_has_name: has_recipient_bcc
-dv_has_range: "[[_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point.md|Contact_Point]],[[_Standards/Society/Agent/Community/Organization.md|Organization]],[[_Standards/Society/Agent/Person.md|Person]]"
+dv_has_range: "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point.md|Contact_Point]],[[/_Standards/Society/Agent/Community/Organization.md|Organization]],[[/_Standards/Society/Agent/Person.md|Person]]"
 dv_is_same_as:
   - "[[has_recipient_bcc]]"
   - "[[/_public/schema-org/Relation/has/has_recipient_bcc.public|has_recipient_bcc.public]]"

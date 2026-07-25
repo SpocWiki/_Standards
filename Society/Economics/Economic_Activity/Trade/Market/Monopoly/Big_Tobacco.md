@@ -2,8 +2,8 @@
 aliases:
   - Big Tobacco
 has_id_wikidata: Q4906580
-facet_of: "[[_Standards/WikiData/WD~tobacco_industry,907703]]"
-instance_of: "[[_Standards/WikiData/WD~nickname,49614]]"
+facet_of: "[[/_Standards/WikiData/WD~tobacco_industry,907703]]"
+instance_of: "[[/_Standards/WikiData/WD~nickname,49614]]"
 ---
 
 # [[Big_Tobacco]] 

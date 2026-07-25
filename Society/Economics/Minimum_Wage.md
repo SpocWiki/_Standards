@@ -65,15 +65,15 @@ aliases:
 - 最低賃金
 - 최저임금
 has_id_wikidata: Q186228
-partially_coincident_with: '[[_Standards/WikiData/WD~living_wage,543406|WD~living_wage,543406]]'
-different_from: '[[_Standards/WikiData/WD~universal_basic_income,678522|WD~universal_basic_income,678522]]'
-opposite_of: '[[_Standards/WikiData/WD~maximum_wage,1106776|WD~maximum_wage,1106776]]'
-has_list: '[[_Standards/WikiData/WD~list_of_minimum_wages_by_country,1153034|WD~list_of_minimum_wages_by_country,1153034]]'
+partially_coincident_with: '[[/_Standards/WikiData/WD~living_wage,543406|WD~living_wage,543406]]'
+different_from: '[[/_Standards/WikiData/WD~universal_basic_income,678522|WD~universal_basic_income,678522]]'
+opposite_of: '[[/_Standards/WikiData/WD~maximum_wage,1106776|WD~maximum_wage,1106776]]'
+has_list: '[[/_Standards/WikiData/WD~list_of_minimum_wages_by_country,1153034|WD~list_of_minimum_wages_by_country,1153034]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~price_controls,3218843|WD~price_controls,3218843]]'
-- '[[_Standards/WikiData/WD~minimum,10585806|WD~minimum,10585806]]'
-instance_of: '[[_Standards/WikiData/WD~wage,6821213|WD~wage,6821213]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[/_Standards/WikiData/WD~price_controls,3218843|WD~price_controls,3218843]]'
+- '[[/_Standards/WikiData/WD~minimum,10585806|WD~minimum,10585806]]'
+instance_of: '[[/_Standards/WikiData/WD~wage,6821213|WD~wage,6821213]]'
+described_by_source: '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 Wikidata_property: minimum wage
 U_S_National_Archives_Identifier: 10642215
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wage%20labour%202.svg
@@ -169,7 +169,7 @@ dv_has_:
 
 # [[Minimum_Wage]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Minimum_wage,186228|WD~Minimum_wage,186228]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Minimum_wage,186228|WD~Minimum_wage,186228]] 
 
 ## #has_/text_of_/abstract 
 

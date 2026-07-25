@@ -73,16 +73,16 @@ aliases:
 has_id_wikidata: Q62832
 described_by_source:
 - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~architectural_structure,811979|WD~architectural_structure,811979]]'
-- '[[_Standards/WikiData/WD~facility,13226383|WD~facility,13226383]]'
-- '[[_Standards/WikiData/WD~scientific_organization,16519632|WD~scientific_organization,16519632]]'
-- '[[_Standards/WikiData/WD~observation_facility,117273481|WD~observation_facility,117273481]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_observatory,5613278|WD~Template_Infobox_observatory,5613278]]'
+- '[[/_Standards/WikiData/WD~architectural_structure,811979|WD~architectural_structure,811979]]'
+- '[[/_Standards/WikiData/WD~facility,13226383|WD~facility,13226383]]'
+- '[[/_Standards/WikiData/WD~scientific_organization,16519632|WD~scientific_organization,16519632]]'
+- '[[/_Standards/WikiData/WD~observation_facility,117273481|WD~observation_facility,117273481]]'
+topic_has_template: '[[/_Standards/WikiData/WD~Template_Infobox_observatory,5613278|WD~Template_Infobox_observatory,5613278]]'
 OmegaWiki_Defined_Meaning: 530890
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ing%20telescopes%20sunset%20la%20palma%20july%202001.jpg
 Iconclass_notation: 49E111
@@ -218,7 +218,7 @@ dv_has_:
 
 # [[Observatory]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Observatory,62832|WD~Observatory,62832]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Observatory,62832|WD~Observatory,62832]] 
 
 ## #has_/text_of_/abstract 
 

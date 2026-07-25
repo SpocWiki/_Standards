@@ -34,21 +34,21 @@ aliases:
 - 마그마
 has_id_wikidata: Q42278
 subclass_of:
-- '[[_Standards/WikiData/WD~fluid,102205|WD~fluid,102205]]'
-- '[[_Standards/WikiData/WD~inorganic_substance,3361209|WD~inorganic_substance,3361209]]'
-- '[[_Standards/WikiData/WD~stone,22731|WD~stone,22731]]'
+- '[[/_Standards/WikiData/WD~fluid,102205|WD~fluid,102205]]'
+- '[[/_Standards/WikiData/WD~inorganic_substance,3361209|WD~inorganic_substance,3361209]]'
+- '[[/_Standards/WikiData/WD~stone,22731|WD~stone,22731]]'
 studied_by:
-- '[[_Standards/WikiData/WD~volcanology,102904|WD~volcanology,102904]]'
-- '[[_Standards/WikiData/WD~geochemistry,161764|WD~geochemistry,161764]]'
-- '[[_Standards/WikiData/WD~petrology,163082|WD~petrology,163082]]'
-- '[[_Standards/WikiData/WD~geophysics,46255|WD~geophysics,46255]]'
-has_cause: '[[_Standards/WikiData/WD~magmatism,1467769|WD~magmatism,1467769]]'
+- '[[/_Standards/WikiData/WD~volcanology,102904|WD~volcanology,102904]]'
+- '[[/_Standards/WikiData/WD~geochemistry,161764|WD~geochemistry,161764]]'
+- '[[/_Standards/WikiData/WD~petrology,163082|WD~petrology,163082]]'
+- '[[/_Standards/WikiData/WD~geophysics,46255|WD~geophysics,46255]]'
+has_cause: '[[/_Standards/WikiData/WD~magmatism,1467769|WD~magmatism,1467769]]'
 different_from:
-- '[[_Standards/WikiData/WD~Magma,18108715|WD~Magma,18108715]]'
-- '[[_Standards/WikiData/WD~lava,40157|WD~lava,40157]]'
+- '[[/_Standards/WikiData/WD~Magma,18108715|WD~Magma,18108715]]'
+- '[[/_Standards/WikiData/WD~lava,40157|WD~lava,40157]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 Commons_category: Magma
 OmegaWiki_Defined_Meaning: 665814
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hawai%27i%20Volcanoes%20National%20Park%20HAVO3171.jpg
@@ -182,7 +182,7 @@ dv_has_:
 
 # [[Magma]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Magma,42278|WD~Magma,42278]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Magma,42278|WD~Magma,42278]] 
 
 ## #has_/text_of_/abstract 
 

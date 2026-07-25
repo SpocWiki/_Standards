@@ -3,11 +3,11 @@ aliases:
   - 
 has_id_wikidata: Q2502661
 Unicode_character: 🃨
-different_from: "[[_Standards/WikiData/WD~Justice,225994|WD~Justice,225994]]"
+different_from: "[[/_Standards/WikiData/WD~Justice,225994|WD~Justice,225994]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~trump,727407|WD~trump,727407]]"
-  - "[[_Standards/WikiData/WD~playing_card,47883|WD~playing_card,47883]]"
-part_of: "[[_Standards/WikiData/WD~Major_Arcana,11158357|WD~Major_Arcana,11158357]]"
+  - "[[/_Standards/WikiData/WD~trump,727407|WD~trump,727407]]"
+  - "[[/_Standards/WikiData/WD~playing_card,47883|WD~playing_card,47883]]"
+part_of: "[[/_Standards/WikiData/WD~Major_Arcana,11158357|WD~Major_Arcana,11158357]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Visconti-sforza-08-justice.jpg
 Commons_category: Justice (Major Arcana)
 ---

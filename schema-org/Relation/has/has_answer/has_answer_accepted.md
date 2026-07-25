@@ -35,7 +35,7 @@ dv_has_:
   inverse: "#is_/answer_/accepted_for"
   domain: "[[../../../../Society/Communication/Media/Creative_Work/Comment/Question|Question]]"
   name: has_answer_accepted
-  range: "[[_Standards/Society/Communication/Media/Creative_Work/Comment/Answer.md|Answer]],[[_Standards/schema-org/Collection/item_list.md|item_list]]"
+  range: "[[/_Standards/Society/Communication/Media/Creative_Work/Comment/Answer.md|Answer]],[[/_Standards/schema-org/Collection/item_list.md|item_list]]"
   parent_:
     property: "[[has_answer_suggested]]"
 dv_is_:
@@ -50,7 +50,7 @@ dv_is_:
 dv_has_inverse: "[[is_answer_accepted_for]]"
 dv_has_domain: "[[../../../../Society/Communication/Media/Creative_Work/Comment/Question|Question]]"
 dv_has_name: has_answer_accepted
-dv_has_range: "[[_Standards/Society/Communication/Media/Creative_Work/Comment/Answer.md|Answer]],[[_Standards/schema-org/Collection/item_list.md|item_list]]"
+dv_has_range: "[[/_Standards/Society/Communication/Media/Creative_Work/Comment/Answer.md|Answer]],[[/_Standards/schema-org/Collection/item_list.md|item_list]]"
 dv_has_parent_property: "[[has_answer_suggested]]"
 dv_is_same_as:
   - "[[has_answer_accepted]]"

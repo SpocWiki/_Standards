@@ -11,9 +11,9 @@ aliases:
 - ポイント・ツー・マルチポイント
 - 点对多点通信
 has_id_wikidata: Q6554265
-opposite_of: '[[_Standards/WikiData/WD~point_to_point,681349|WD~point_to_point,681349]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~multicast,899288|WD~multicast,899288]]'
-subclass_of: '[[_Standards/WikiData/WD~communication,11024|WD~communication,11024]]'
+opposite_of: '[[/_Standards/WikiData/WD~point_to_point,681349|WD~point_to_point,681349]]'
+partially_coincident_with: '[[/_Standards/WikiData/WD~multicast,899288|WD~multicast,899288]]'
+subclass_of: '[[/_Standards/WikiData/WD~communication,11024|WD~communication,11024]]'
 dv_has_:
   name_:
     cs: Point-to-multipoint
@@ -30,7 +30,7 @@ dv_has_:
 
 # [[Point_to_Multipoint_Channel]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~point-to-multipoint_communication,6554265|WD~point-to-multipoint_communication,6554265]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~point-to-multipoint_communication,6554265|WD~point-to-multipoint_communication,6554265]] 
 
 
 ## Confidential Links & Embeds: 

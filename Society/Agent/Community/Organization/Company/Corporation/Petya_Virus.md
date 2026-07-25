@@ -3,13 +3,13 @@ aliases:
   - Petya (malware family)
 has_id_wikidata: Q23670513
 instance_of:
-  - "[[_Standards/WikiData/WD~computer_worm,180712]]"
-  - "[[_Standards/WikiData/WD~ransomware,926331]]"
-  - "[[_Standards/WikiData/WD~Trojan_horse,14639]]"
-possible_treatment: "[[_Standards/WikiData/WD~secure_cryptoprocessor,3698833]]"
-based_on: "[[_Standards/WikiData/WD~EternalBlue,29916946]]"
-operating_system: "[[_Standards/WikiData/WD~Microsoft_Windows,1406]]"
-named_after: "[[_Standards/WikiData/WD~Saint_Peter,33923]]"
+  - "[[/_Standards/WikiData/WD~computer_worm,180712]]"
+  - "[[/_Standards/WikiData/WD~ransomware,926331]]"
+  - "[[/_Standards/WikiData/WD~Trojan_horse,14639]]"
+possible_treatment: "[[/_Standards/WikiData/WD~secure_cryptoprocessor,3698833]]"
+based_on: "[[/_Standards/WikiData/WD~EternalBlue,29916946]]"
+operating_system: "[[/_Standards/WikiData/WD~Microsoft_Windows,1406]]"
+named_after: "[[/_Standards/WikiData/WD~Saint_Peter,33923]]"
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/2017%20Petya%20cyberattack%20screenshot.png
   - http://commons.wikimedia.org/wiki/Special:FilePath/Petya.Random.png

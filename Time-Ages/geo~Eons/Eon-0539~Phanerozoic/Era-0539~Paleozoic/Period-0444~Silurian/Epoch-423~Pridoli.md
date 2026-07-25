@@ -26,12 +26,12 @@ aliases:
 - 普里道利世
 has_id_wikidata: Q1062563
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
-named_after: '[[_Standards/WikiData/WD~Přídolí,1396292|WD~Přídolí,1396292]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Pridoli_epoch,30869535|WD~Category_Pridoli_epoch,30869535]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Přídolí,133566995|WD~GSSP_for_the_base_of_the_Přídolí,133566995]]'
+- '[[/_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[/_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
+named_after: '[[/_Standards/WikiData/WD~Přídolí,1396292|WD~Přídolí,1396292]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Pridoli_epoch,30869535|WD~Category_Pridoli_epoch,30869535]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_the_Přídolí,133566995|WD~GSSP_for_the_base_of_the_Přídolí,133566995]]'
 sRGB_color_hex_triplet: E4F2E6
 end_time: -419200000-01-01T00:00:00Z
 start_time: -423000000-01-01T00:00:00Z
@@ -88,7 +88,7 @@ dv_has_:
     stopped: -419.2e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Pridoli,1062563|WD~Pridoli,1062563]]'
+  - '[[/_Standards/WikiData/WD~Pridoli,1062563|WD~Pridoli,1062563]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli|Epoch-423~Pridoli]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.public|Epoch-423~Pridoli.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.internal|Epoch-423~Pridoli.internal]]'
@@ -100,7 +100,7 @@ dv_has_duration_years: 3.800e+6
 dv_has_previous_item: '[[Epoch-427~Ludlow]]'
 dv_has_next_item: '[[../Period-0419~Devonian/Epoch-419~Early_Devonian|Epoch~1~Early_Devonian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Pridoli,1062563|WD~Pridoli,1062563]]'
+- '[[/_Standards/WikiData/WD~Pridoli,1062563|WD~Pridoli,1062563]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli|Epoch-423~Pridoli]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.public|Epoch-423~Pridoli.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.internal|Epoch-423~Pridoli.internal]]'
@@ -142,7 +142,7 @@ dv_has_text_of_color: 0xE6F5E1
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Pridoli,1062563|WD~Pridoli,1062563]]  
+#is_/same_as :: [[/_Standards/WikiData/WD~Pridoli,1062563|WD~Pridoli,1062563]]  
 
 A time period from 423.0 to 419.2 million years ago. 
 

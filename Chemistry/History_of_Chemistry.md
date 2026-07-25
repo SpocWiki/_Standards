@@ -54,14 +54,14 @@ aliases:
 - 化學史
 - 화학사
 has_id_wikidata: Q501353
-subclass_of: '[[_Standards/WikiData/WD~history_of_science,201486|WD~history_of_science,201486]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+subclass_of: '[[/_Standards/WikiData/WD~history_of_science,201486|WD~history_of_science,201486]]'
+described_by_source: '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~history_of_the_periodic_table,14916030|WD~history_of_the_periodic_table,14916030]]'
-- '[[_Standards/WikiData/WD~history_of_organic_chemistry,17480697|WD~history_of_organic_chemistry,17480697]]'
-instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
-practiced_by: '[[_Standards/WikiData/WD~historian_of_chemistry,53554997|WD~historian_of_chemistry,53554997]]'
-facet_of: '[[_Standards/WikiData/WD~chemistry,2329|WD~chemistry,2329]]'
+- '[[/_Standards/WikiData/WD~history_of_the_periodic_table,14916030|WD~history_of_the_periodic_table,14916030]]'
+- '[[/_Standards/WikiData/WD~history_of_organic_chemistry,17480697|WD~history_of_organic_chemistry,17480697]]'
+instance_of: '[[/_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
+practiced_by: '[[/_Standards/WikiData/WD~historian_of_chemistry,53554997|WD~historian_of_chemistry,53554997]]'
+facet_of: '[[/_Standards/WikiData/WD~chemistry,2329|WD~chemistry,2329]]'
 Basisklassifikation: 35.01
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/David%20-%20Portrait%20of%20Monsieur%20Lavoisier%20and%20His%20Wife.jpg
@@ -158,7 +158,7 @@ dv_has_:
 
 # [[History_of_Chemistry]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~History_of_chemistry,501353|WD~History_of_chemistry,501353]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~History_of_chemistry,501353|WD~History_of_chemistry,501353]] 
 
 ## #has_/text_of_/abstract 
 

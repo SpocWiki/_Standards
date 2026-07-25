@@ -67,8 +67,8 @@ aliases:
 - 诺曼征服英格兰
 - 노르만 정복
 has_id_wikidata: Q200485
-country: '[[_Standards/WikiData/WD~Kingdom_of_England,179876|WD~Kingdom_of_England,179876]]'
-instance_of: '[[_Standards/WikiData/WD~conquest,1361229|WD~conquest,1361229]]'
+country: '[[/_Standards/WikiData/WD~Kingdom_of_England,179876|WD~Kingdom_of_England,179876]]'
+instance_of: '[[/_Standards/WikiData/WD~conquest,1361229|WD~conquest,1361229]]'
 end_time: 1075-01-01T00:00:00Z
 start_time: 1066-10-04T00:00:00Z
 coordinate_location: Point(-1.3167 52.0667)
@@ -180,7 +180,7 @@ dv_has_:
 
 # [[1066-Norman_Conquest_of_England]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Norman_conquest_of_England,200485|WD~Norman_conquest_of_England,200485]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Norman_conquest_of_England,200485|WD~Norman_conquest_of_England,200485]] 
 
 ## #has_/text_of_/abstract 
 

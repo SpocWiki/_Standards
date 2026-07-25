@@ -50,16 +50,16 @@ aliases:
 - 波蘭-立陶宛-條頓戰爭
 has_id_wikidata: Q937255
 participant:
-- '[[_Standards/WikiData/WD~State_of_the_Teutonic_Order,156020|WD~State_of_the_Teutonic_Order,156020]]'
-- '[[_Standards/WikiData/WD~Duchy_of_Oleśnica,534894|WD~Duchy_of_Oleśnica,534894]]'
-- '[[_Standards/WikiData/WD~Duchy_of_Pomerania,696640|WD~Duchy_of_Pomerania,696640]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Poland,1649871|WD~Kingdom_of_Poland,1649871]]'
-- '[[_Standards/WikiData/WD~Terra_Mariana,2458532|WD~Terra_Mariana,2458532]]'
-- '[[_Standards/WikiData/WD~Denmark,35|WD~Denmark,35]]'
-- '[[_Standards/WikiData/WD~Grand_Duchy_of_Lithuania,49683|WD~Grand_Duchy_of_Lithuania,49683]]'
-location: '[[_Standards/WikiData/WD~State_of_the_Teutonic_Order,156020|WD~State_of_the_Teutonic_Order,156020]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q9843189,9843189|WD~Q9843189,9843189]]'
-instance_of: '[[_Standards/WikiData/WD~war,198|WD~war,198]]'
+- '[[/_Standards/WikiData/WD~State_of_the_Teutonic_Order,156020|WD~State_of_the_Teutonic_Order,156020]]'
+- '[[/_Standards/WikiData/WD~Duchy_of_Oleśnica,534894|WD~Duchy_of_Oleśnica,534894]]'
+- '[[/_Standards/WikiData/WD~Duchy_of_Pomerania,696640|WD~Duchy_of_Pomerania,696640]]'
+- '[[/_Standards/WikiData/WD~Kingdom_of_Poland,1649871|WD~Kingdom_of_Poland,1649871]]'
+- '[[/_Standards/WikiData/WD~Terra_Mariana,2458532|WD~Terra_Mariana,2458532]]'
+- '[[/_Standards/WikiData/WD~Denmark,35|WD~Denmark,35]]'
+- '[[/_Standards/WikiData/WD~Grand_Duchy_of_Lithuania,49683|WD~Grand_Duchy_of_Lithuania,49683]]'
+location: '[[/_Standards/WikiData/WD~State_of_the_Teutonic_Order,156020|WD~State_of_the_Teutonic_Order,156020]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Q9843189,9843189|WD~Q9843189,9843189]]'
+instance_of: '[[/_Standards/WikiData/WD~war,198|WD~war,198]]'
 point_in_time: 1411-02-10T00:00:00Z
 end_time: 1411-02-01T00:00:00Z
 start_time: 1409-08-14T00:00:00Z
@@ -141,7 +141,7 @@ dv_has_:
 
 # [[1409-Polish-Lithuanian-Teutonic_War-1411]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Polish-Lithuanian-Teutonic_War,937255|WD~Polish-Lithuanian-Teutonic_War,937255]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Polish-Lithuanian-Teutonic_War,937255|WD~Polish-Lithuanian-Teutonic_War,937255]] 
 
 ## #has_/text_of_/abstract 
 

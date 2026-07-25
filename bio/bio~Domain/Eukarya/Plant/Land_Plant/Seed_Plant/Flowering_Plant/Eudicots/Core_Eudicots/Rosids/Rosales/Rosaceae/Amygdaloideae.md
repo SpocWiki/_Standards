@@ -27,9 +27,9 @@ aliases:
 - 梅亞科
 - 벚나무아과
 has_id_wikidata: Q854082
-taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280|WD~subfamily,164280]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[/_Standards/WikiData/WD~subfamily,164280|WD~subfamily,164280]]'
+described_by_source: '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+instance_of: '[[/_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 parent_taxon: '[[../../../../../../../../../../../../WikiData/WD~Rosaceae,46299|WD~Rosaceae,46299]]'
 Commons_category: Amygdaloideae
 taxon_name: Amygdaloideae

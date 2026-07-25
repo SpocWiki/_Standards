@@ -59,13 +59,13 @@ aliases:
 - 헤르츠스프룽-러셀 도표
 has_id_wikidata: Q3270143
 named_after:
-- '[[_Standards/WikiData/WD~Henry_Norris_Russell,273159|WD~Henry_Norris_Russell,273159]]'
-- '[[_Standards/WikiData/WD~Ejnar_Hertzsprung,295099|WD~Ejnar_Hertzsprung,295099]]'
-subclass_of: '[[_Standards/WikiData/WD~diagram,959962|WD~diagram,959962]]'
-instance_of: '[[_Standards/WikiData/WD~scatter_plot,1045782|WD~scatter_plot,1045782]]'
-different_from: '[[_Standards/WikiData/WD~galaxy_color_magnitude_diagram,3025899|WD~galaxy_color_magnitude_diagram,3025899]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Star_nav,8084776|WD~Template_Star_nav,8084776]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[/_Standards/WikiData/WD~Henry_Norris_Russell,273159|WD~Henry_Norris_Russell,273159]]'
+- '[[/_Standards/WikiData/WD~Ejnar_Hertzsprung,295099|WD~Ejnar_Hertzsprung,295099]]'
+subclass_of: '[[/_Standards/WikiData/WD~diagram,959962|WD~diagram,959962]]'
+instance_of: '[[/_Standards/WikiData/WD~scatter_plot,1045782|WD~scatter_plot,1045782]]'
+different_from: '[[/_Standards/WikiData/WD~galaxy_color_magnitude_diagram,3025899|WD~galaxy_color_magnitude_diagram,3025899]]'
+topic_has_template: '[[/_Standards/WikiData/WD~Template_Star_nav,8084776|WD~Template_Star_nav,8084776]]'
+described_by_source: '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 OmegaWiki_Defined_Meaning: 1011827
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/HR-diag-no-text-2.svg
@@ -206,7 +206,7 @@ dv_has_:
 
 # [[Hertzsprung–Russell_Diagram]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hertzsprung–Russell_diagram,3270143|WD~Hertzsprung–Russell_diagram,3270143]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Hertzsprung–Russell_diagram,3270143|WD~Hertzsprung–Russell_diagram,3270143]] 
 
 ## #has_/text_of_/abstract 
 

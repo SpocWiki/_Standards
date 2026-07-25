@@ -145,36 +145,36 @@ aliases:
   - 谬误
   - 논리적 오류
 subclass_of:
-  - "[[_Standards/WikiData/WD~argument,186619]]"
-  - "[[_Standards/WikiData/WD~error,29485]]"
+  - "[[/_Standards/WikiData/WD~argument,186619]]"
+  - "[[/_Standards/WikiData/WD~error,29485]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~deprecation,280943]]"
-  - "[[_Standards/WikiData/WD~Wikibase_reason_for_deprecated_rank,27949697]]"
-  - "[[_Standards/WikiData/WD~type_of_error,110314665]]"
+  - "[[/_Standards/WikiData/WD~deprecation,280943]]"
+  - "[[/_Standards/WikiData/WD~Wikibase_reason_for_deprecated_rank,27949697]]"
+  - "[[/_Standards/WikiData/WD~type_of_error,110314665]]"
 has_contributing_factor:
-  - "[[_Standards/WikiData/WD~negligence,691101]]"
-  - "[[_Standards/WikiData/WD~ignorance,815577]]"
-  - "[[_Standards/WikiData/WD~cognitive_bias,1127759]]"
-  - "[[_Standards/WikiData/WD~faulty_reasoning,81130729]]"
+  - "[[/_Standards/WikiData/WD~negligence,691101]]"
+  - "[[/_Standards/WikiData/WD~ignorance,815577]]"
+  - "[[/_Standards/WikiData/WD~cognitive_bias,1127759]]"
+  - "[[/_Standards/WikiData/WD~faulty_reasoning,81130729]]"
 has_part_s_:
-  - "[[_Standards/WikiData/WD~non_sequitur,825737]]"
-  - "[[_Standards/WikiData/WD~informal_fallacy,3312438]]"
-handled_mitigated_or_managed_by: "[[_Standards/WikiData/WD~critical_thinking,843894]]"
-has_list: "[[_Standards/WikiData/WD~list_of_fallacies,863221]]"
+  - "[[/_Standards/WikiData/WD~non_sequitur,825737]]"
+  - "[[/_Standards/WikiData/WD~informal_fallacy,3312438]]"
+handled_mitigated_or_managed_by: "[[/_Standards/WikiData/WD~critical_thinking,843894]]"
+has_list: "[[/_Standards/WikiData/WD~list_of_fallacies,863221]]"
 has_use:
-  - "[[_Standards/WikiData/WD~manipulation,905726]]"
-  - "[[_Standards/WikiData/WD~persuasion,1231428]]"
+  - "[[/_Standards/WikiData/WD~manipulation,905726]]"
+  - "[[/_Standards/WikiData/WD~persuasion,1231428]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
+  - "[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[/_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[/_Standards/WikiData/WD~Lean_Logic,101314624]]"
 different_from:
-  - "[[_Standards/WikiData/WD~error,3847033]]"
-  - "[[_Standards/WikiData/WD~common_misconception,25345174]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Fallacies,8218825]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Fallacies,14403209]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~common_misconception,25345174]]"
+  - "[[/_Standards/WikiData/WD~error,3847033]]"
+  - "[[/_Standards/WikiData/WD~common_misconception,25345174]]"
+topic_s_main_category: "[[/_Standards/WikiData/WD~Category_Fallacies,8218825]]"
+topic_has_template: "[[/_Standards/WikiData/WD~Template_Fallacies,14403209]]"
+union_of: "[[/_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+partially_coincident_with: "[[/_Standards/WikiData/WD~common_misconception,25345174]]"
 Dewey_Decimal_Classification: "165"
 Library_of_Congress_Classification: BC175
 PhilPapers_topic: fallacies
@@ -186,7 +186,7 @@ Commons_category: Logical fallacies
 
 # [[Fallacy]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Fallacy,|WD~Fallacy,186150]]  
+#is_/same_as :: [[/_Standards/WikiData/WD~Fallacy,|WD~Fallacy,186150]]  
 #is_/used_by :: [[../../Propaganda|Propaganda]]  
 #is_/different_from :: [[../../Law/Criminal_Law/Crime/Deception/Lie|Lie]] 
 

@@ -3,26 +3,26 @@ aliases:
   - Copernicus
 has_id_wikidata: Q1531636
 research_intervention:
-  - "[[_Standards/WikiData/WD~natural_resource,188460]]"
-  - "[[_Standards/WikiData/WD~food_security,1229911]]"
-  - "[[_Standards/WikiData/WD~air_quality,56245086]]"
-  - "[[_Standards/WikiData/WD~biodiversity,47041]]"
+  - "[[/_Standards/WikiData/WD~natural_resource,188460]]"
+  - "[[/_Standards/WikiData/WD~food_security,1229911]]"
+  - "[[/_Standards/WikiData/WD~air_quality,56245086]]"
+  - "[[/_Standards/WikiData/WD~biodiversity,47041]]"
 part_of:
-  - "[[_Standards/WikiData/WD~Global_Earth_Observation_System_of_Systems,239862]]"
-  - "[[_Standards/WikiData/WD~European_Union_Space_Programme,336915]]"
-field_of_work: "[[_Standards/WikiData/WD~Earth_observation,1348989]]"
-has_goal: "[[_Standards/WikiData/WD~environmental_monitoring,1749732]]"
-different_from: "[[_Standards/WikiData/WD~GMES,3093245]]"
-item_operated: "[[_Standards/WikiData/WD~Sentinel_programme,4303731]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Copernicus_Programme,16789836]]"
+  - "[[/_Standards/WikiData/WD~Global_Earth_Observation_System_of_Systems,239862]]"
+  - "[[/_Standards/WikiData/WD~European_Union_Space_Programme,336915]]"
+field_of_work: "[[/_Standards/WikiData/WD~Earth_observation,1348989]]"
+has_goal: "[[/_Standards/WikiData/WD~environmental_monitoring,1749732]]"
+different_from: "[[/_Standards/WikiData/WD~GMES,3093245]]"
+item_operated: "[[/_Standards/WikiData/WD~Sentinel_programme,4303731]]"
+on_focus_list_of_Wikimedia_project: "[[/_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
+topic_s_main_category: "[[/_Standards/WikiData/WD~Category_Copernicus_Programme,16789836]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~subsidiary_organization,62079110]]"
-  - "[[_Standards/WikiData/WD~EU_program,137905795]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~Copernicus_Emergency_Management_Service,115659146]]"
-has_effect: "[[_Standards/WikiData/WD~Copernicus_data,136976141]]"
-funder: "[[_Standards/WikiData/WD~European_Union,458]]"
-named_after: "[[_Standards/WikiData/WD~Nicolaus_Copernicus,619]]"
+  - "[[/_Standards/WikiData/WD~subsidiary_organization,62079110]]"
+  - "[[/_Standards/WikiData/WD~EU_program,137905795]]"
+product_or_material_produced: "[[/_Standards/WikiData/WD~Copernicus_Emergency_Management_Service,115659146]]"
+has_effect: "[[/_Standards/WikiData/WD~Copernicus_data,136976141]]"
+funder: "[[/_Standards/WikiData/WD~European_Union,458]]"
+named_after: "[[/_Standards/WikiData/WD~Nicolaus_Copernicus,619]]"
 hashtag: Copernicus
 official_name: Copernicus
 aerial_view:

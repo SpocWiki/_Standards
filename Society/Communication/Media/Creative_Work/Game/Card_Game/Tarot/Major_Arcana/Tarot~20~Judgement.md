@@ -3,8 +3,8 @@ aliases:
   - 
 has_id_wikidata: Q2502624
 Unicode_character: 🃴
-part_of: "[[_Standards/WikiData/WD~Major_Arcana,11158357|WD~Major_Arcana,11158357]]"
-instance_of: "[[_Standards/WikiData/WD~playing_card,47883|WD~playing_card,47883]]"
+part_of: "[[/_Standards/WikiData/WD~Major_Arcana,11158357|WD~Major_Arcana,11158357]]"
+instance_of: "[[/_Standards/WikiData/WD~playing_card,47883|WD~playing_card,47883]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jugement%20tarot%20charles6.jpg
 Commons_category: Judgement (Major Arcana)
 ---

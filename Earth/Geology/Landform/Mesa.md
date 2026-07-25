@@ -39,14 +39,14 @@ aliases:
 - 메사
 has_id_wikidata: Q623319
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~highland,878223|WD~highland,878223]]'
-- '[[_Standards/WikiData/WD~mountain,8502|WD~mountain,8502]]'
-- '[[_Standards/WikiData/WD~mountain_range,46831|WD~mountain_range,46831]]'
-- '[[_Standards/WikiData/WD~hill,54050|WD~hill,54050]]'
-different_from: '[[_Standards/WikiData/WD~Tafelberg,7674932|WD~Tafelberg,7674932]]'
+- '[[/_Standards/WikiData/WD~highland,878223|WD~highland,878223]]'
+- '[[/_Standards/WikiData/WD~mountain,8502|WD~mountain,8502]]'
+- '[[/_Standards/WikiData/WD~mountain_range,46831|WD~mountain_range,46831]]'
+- '[[/_Standards/WikiData/WD~hill,54050|WD~hill,54050]]'
+different_from: '[[/_Standards/WikiData/WD~Tafelberg,7674932|WD~Tafelberg,7674932]]'
 Commons_category: Mesas
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000179
 GeoNames_feature_code:
@@ -149,7 +149,7 @@ dv_has_:
 
 #is_/similar_to :: [[Plateau]] 
 #is_/similar_to :: [[Guyot|Guyot]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Mesa,623319|WD~Mesa,623319]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Mesa,623319|WD~Mesa,623319]] 
 
 ## #has_/text_of_/abstract 
 

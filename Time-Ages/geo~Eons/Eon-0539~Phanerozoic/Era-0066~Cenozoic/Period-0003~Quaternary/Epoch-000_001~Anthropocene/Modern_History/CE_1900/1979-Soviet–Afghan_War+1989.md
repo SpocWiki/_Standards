@@ -100,15 +100,15 @@ aliases:
 - 소비에트 연방의 아프가니스탄 침공
 has_id_wikidata: Q83085
 participant:
-- '[[_Standards/WikiData/WD~Democratic_Republic_of_Afghanistan,476757|WD~Democratic_Republic_of_Afghanistan,476757]]'
-- '[[_Standards/WikiData/WD~Islamic_Unity_of_Afghanistan_Mujahideen,1360256|WD~Islamic_Unity_of_Afghanistan_Mujahideen,1360256]]'
-- '[[_Standards/WikiData/WD~Tehran_Eight,4523722|WD~Tehran_Eight,4523722]]'
-- '[[_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]'
-location: '[[_Standards/WikiData/WD~Democratic_Republic_of_Afghanistan,476757|WD~Democratic_Republic_of_Afghanistan,476757]]'
-order_of_battle: '[[_Standards/WikiData/WD~order_of_battle_of_the_War_in_Afghanistan,3885428|WD~order_of_battle_of_the_War_in_Afghanistan,3885428]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Soviet_Afghan_War,8784316|WD~Category_Soviet_Afghan_War,8784316]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q25721418,25721418|WD~Q25721418,25721418]]'
-instance_of: '[[_Standards/WikiData/WD~war,198|WD~war,198]]'
+- '[[/_Standards/WikiData/WD~Democratic_Republic_of_Afghanistan,476757|WD~Democratic_Republic_of_Afghanistan,476757]]'
+- '[[/_Standards/WikiData/WD~Islamic_Unity_of_Afghanistan_Mujahideen,1360256|WD~Islamic_Unity_of_Afghanistan_Mujahideen,1360256]]'
+- '[[/_Standards/WikiData/WD~Tehran_Eight,4523722|WD~Tehran_Eight,4523722]]'
+- '[[/_Standards/WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]'
+location: '[[/_Standards/WikiData/WD~Democratic_Republic_of_Afghanistan,476757|WD~Democratic_Republic_of_Afghanistan,476757]]'
+order_of_battle: '[[/_Standards/WikiData/WD~order_of_battle_of_the_War_in_Afghanistan,3885428|WD~order_of_battle_of_the_War_in_Afghanistan,3885428]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Soviet_Afghan_War,8784316|WD~Category_Soviet_Afghan_War,8784316]]'
+topic_has_template: '[[/_Standards/WikiData/WD~Q25721418,25721418|WD~Q25721418,25721418]]'
+instance_of: '[[/_Standards/WikiData/WD~war,198|WD~war,198]]'
 U_S_National_Archives_Identifier: 10645469
 start_time: 1979-12-25T00:00:00Z
 end_time: 1989-02-15T00:00:00Z

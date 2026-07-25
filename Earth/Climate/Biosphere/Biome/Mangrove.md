@@ -74,19 +74,19 @@ aliases:
 - 红树林
 - 맹그로브
 has_id_wikidata: Q19756
-subclass_of: '[[_Standards/WikiData/WD~biome,101998|WD~biome,101998]]'
+subclass_of: '[[/_Standards/WikiData/WD~biome,101998|WD~biome,101998]]'
 instance_of:
-- '[[_Standards/WikiData/WD~biome,101998|WD~biome,101998]]'
-- '[[_Standards/WikiData/WD~vegetational_formation,2083910|WD~vegetational_formation,2083910]]'
-- '[[_Standards/WikiData/WD~WWF_biome,119820518|WD~WWF_biome,119820518]]'
+- '[[/_Standards/WikiData/WD~biome,101998|WD~biome,101998]]'
+- '[[/_Standards/WikiData/WD~vegetational_formation,2083910|WD~vegetational_formation,2083910]]'
+- '[[/_Standards/WikiData/WD~WWF_biome,119820518|WD~WWF_biome,119820518]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[/_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from:
-- '[[_Standards/WikiData/WD~mangrove,1372331|WD~mangrove,1372331]]'
-- '[[_Standards/WikiData/WD~Q24878646,24878646|WD~Q24878646,24878646]]'
-has_characteristic: '[[_Standards/WikiData/WD~mangrove_forest,1817834|WD~mangrove_forest,1817834]]'
+- '[[/_Standards/WikiData/WD~mangrove,1372331|WD~mangrove,1372331]]'
+- '[[/_Standards/WikiData/WD~Q24878646,24878646|WD~Q24878646,24878646]]'
+has_characteristic: '[[/_Standards/WikiData/WD~mangrove_forest,1817834|WD~mangrove_forest,1817834]]'
 Commons_gallery: Mangrove
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Mangroves%20in%20Kannur%2C%20India.jpg
@@ -223,7 +223,7 @@ dv_has_:
 
 # [[Mangrove]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mangrove,19756|WD~Mangrove,19756]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Mangrove,19756|WD~Mangrove,19756]] 
 
 ## #has_/text_of_/abstract 
 

@@ -99,19 +99,19 @@ tags:
 - schema-org/Class
 title: is_a_radio_station Class
 type: Type
-owner_of: '[[_Standards/WikiData/WD~radio_channel,1474440|WD~radio_channel,1474440]]'
+owner_of: '[[/_Standards/WikiData/WD~radio_channel,1474440|WD~radio_channel,1474440]]'
 different_from:
-- '[[_Standards/WikiData/WD~radio_communication_station,1474493|WD~radio_communication_station,1474493]]'
-- '[[_Standards/WikiData/WD~broadcasting_station,125053629|WD~broadcasting_station,125053629]]'
+- '[[/_Standards/WikiData/WD~radio_communication_station,1474493|WD~radio_communication_station,1474493]]'
+- '[[/_Standards/WikiData/WD~broadcasting_station,125053629|WD~broadcasting_station,125053629]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~radio_personality,2722764|WD~radio_personality,2722764]]'
-- '[[_Standards/WikiData/WD~radio_people,27978310|WD~radio_people,27978310]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_radio_station,6632234|WD~Template_Infobox_radio_station,6632234]]'
+- '[[/_Standards/WikiData/WD~radio_personality,2722764|WD~radio_personality,2722764]]'
+- '[[/_Standards/WikiData/WD~radio_people,27978310|WD~radio_people,27978310]]'
+topic_has_template: '[[/_Standards/WikiData/WD~Template_Infobox_radio_station,6632234|WD~Template_Infobox_radio_station,6632234]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~broadcaster,15265344|WD~broadcaster,15265344]]'
-- '[[_Standards/WikiData/WD~mass_media,11033|WD~mass_media,11033]]'
-industry: '[[_Standards/WikiData/WD~radio_broadcasting,29584757|WD~radio_broadcasting,29584757]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_mass_media,121132955|WD~type_of_mass_media,121132955]]'
+- '[[/_Standards/WikiData/WD~broadcaster,15265344|WD~broadcaster,15265344]]'
+- '[[/_Standards/WikiData/WD~mass_media,11033|WD~mass_media,11033]]'
+industry: '[[/_Standards/WikiData/WD~radio_broadcasting,29584757|WD~radio_broadcasting,29584757]]'
+instance_of: '[[/_Standards/WikiData/WD~type_of_mass_media,121132955|WD~type_of_mass_media,121132955]]'
 properties_for_this_type:
 - radio format
 - inception

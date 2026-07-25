@@ -42,11 +42,11 @@ aliases:
 - 人名學
 - 인명학
 has_id_wikidata: Q1973833
-subclass_of: '[[_Standards/WikiData/WD~onomastics,175156|WD~onomastics,175156]]'
+subclass_of: '[[/_Standards/WikiData/WD~onomastics,175156|WD~onomastics,175156]]'
 is_the_study_of:
-- '[[_Standards/WikiData/WD~anthroponymy,4067625|WD~anthroponymy,4067625]]'
-- '[[_Standards/WikiData/WD~anthroponym,10856962|WD~anthroponym,10856962]]'
-instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[/_Standards/WikiData/WD~anthroponymy,4067625|WD~anthroponymy,4067625]]'
+- '[[/_Standards/WikiData/WD~anthroponym,10856962|WD~anthroponym,10856962]]'
+instance_of: '[[/_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
 Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/ANTROPONIMIKA.html
 dv_has_:
   name_:
@@ -115,7 +115,7 @@ dv_has_:
 
 # [[Anthroponymy]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Anthroponymy,1973833|WD~Anthroponymy,1973833]]
+#is_/same_as :: [[/_Standards/WikiData/WD~Anthroponymy,1973833|WD~Anthroponymy,1973833]]
 
 ## #has_/text_of_/abstract 
 

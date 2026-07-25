@@ -96,15 +96,15 @@ aliases:
 - 议会制
 - 의원내각제
 has_id_wikidata: Q166747
-instance_of: '[[_Standards/WikiData/WD~form_of_government,1307214|WD~form_of_government,1307214]]'
+instance_of: '[[/_Standards/WikiData/WD~form_of_government,1307214|WD~form_of_government,1307214]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-different_from: '[[_Standards/WikiData/WD~parliamentary_democracy,3043547|WD~parliamentary_democracy,3043547]]'
+- "[[/_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[/_Standards/WikiData/WD~parliamentary_democracy,3043547|WD~parliamentary_democracy,3043547]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~parliamentary_monarchy,3330103|WD~parliamentary_monarchy,3330103]]'
-- '[[_Standards/WikiData/WD~parliamentary_republic,4198907|WD~parliamentary_republic,4198907]]'
-subclass_of: '[[_Standards/WikiData/WD~political_system,28108|WD~political_system,28108]]'
+- '[[/_Standards/WikiData/WD~parliamentary_monarchy,3330103|WD~parliamentary_monarchy,3330103]]'
+- '[[/_Standards/WikiData/WD~parliamentary_republic,4198907|WD~parliamentary_republic,4198907]]'
+subclass_of: '[[/_Standards/WikiData/WD~political_system,28108|WD~political_system,28108]]'
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Sistema%20parlamentari.svg
 dv_has_:
   name_:
@@ -221,7 +221,7 @@ dv_has_:
 # [[Parliamentary_System]] 
 
 #is_/different_from :: [[Presidential_System|Presidential_System]]  
-#is_/same_as :: [[_Standards/WikiData/WD~Parliamentary_system,166747|WD~Parliamentary_system,166747]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Parliamentary_system,166747|WD~Parliamentary_system,166747]] 
 
 ## #has_/text_of_/abstract 
 

@@ -90,13 +90,13 @@ aliases:
 - 화성암
 has_id_wikidata: Q42045
 different_from:
-- '[[_Standards/WikiData/WD~sedimentary_rock,82480|WD~sedimentary_rock,82480]]'
-- '[[_Standards/WikiData/WD~metamorphic_rock,47069|WD~metamorphic_rock,47069]]'
-instance_of: '[[_Standards/WikiData/WD~rock_type,11871901|WD~rock_type,11871901]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Igneous_rocks,13400917|WD~Template_Igneous_rocks,13400917]]'
-studied_by: '[[_Standards/WikiData/WD~igneous_petrology,16000119|WD~igneous_petrology,16000119]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-subclass_of: '[[_Standards/WikiData/WD~rock,8063|WD~rock,8063]]'
+- '[[/_Standards/WikiData/WD~sedimentary_rock,82480|WD~sedimentary_rock,82480]]'
+- '[[/_Standards/WikiData/WD~metamorphic_rock,47069|WD~metamorphic_rock,47069]]'
+instance_of: '[[/_Standards/WikiData/WD~rock_type,11871901|WD~rock_type,11871901]]'
+topic_has_template: '[[/_Standards/WikiData/WD~Template_Igneous_rocks,13400917|WD~Template_Igneous_rocks,13400917]]'
+studied_by: '[[/_Standards/WikiData/WD~igneous_petrology,16000119|WD~igneous_petrology,16000119]]'
+described_by_source: '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+subclass_of: '[[/_Standards/WikiData/WD~rock,8063|WD~rock,8063]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Roques%20de%20Garia%20-%20Roque%20Cinchado.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_00002013
 Commons_gallery: Igneous rock
@@ -229,7 +229,7 @@ dv_has_:
 
 # [[Igneous_Rock]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Igneous_rock,42045|WD~Igneous_rock,42045]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Igneous_rock,42045|WD~Igneous_rock,42045]] 
 
 ## #has_/text_of_/abstract 
 

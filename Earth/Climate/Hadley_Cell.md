@@ -41,12 +41,12 @@ aliases:
 - 해들리 세포
 has_id_wikidata: Q338589
 has_part_s_:
-- '[[_Standards/WikiData/WD~trade_wind,160603|WD~trade_wind,160603]]'
-- '[[_Standards/WikiData/WD~Q52731221,52731221|WD~Q52731221,52731221]]'
-instance_of: '[[_Standards/WikiData/WD~cellular_circulation,187670|WD~cellular_circulation,187670]]'
-named_after: '[[_Standards/WikiData/WD~George_Hadley,968686|WD~George_Hadley,968686]]'
-facet_of: '[[_Standards/WikiData/WD~atmospheric_circulation,2615451|WD~atmospheric_circulation,2615451]]'
-part_of: '[[_Standards/WikiData/WD~atmospheric_circulation,2615451|WD~atmospheric_circulation,2615451]]'
+- '[[/_Standards/WikiData/WD~trade_wind,160603|WD~trade_wind,160603]]'
+- '[[/_Standards/WikiData/WD~Q52731221,52731221|WD~Q52731221,52731221]]'
+instance_of: '[[/_Standards/WikiData/WD~cellular_circulation,187670|WD~cellular_circulation,187670]]'
+named_after: '[[/_Standards/WikiData/WD~George_Hadley,968686|WD~George_Hadley,968686]]'
+facet_of: '[[/_Standards/WikiData/WD~atmospheric_circulation,2615451|WD~atmospheric_circulation,2615451]]'
+part_of: '[[/_Standards/WikiData/WD~atmospheric_circulation,2615451|WD~atmospheric_circulation,2615451]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/HadleyCross-sec.jpg
 Commons_category: Hadley cells
 dv_is_:
@@ -115,7 +115,7 @@ dv_has_:
 
 # [[Hadley_Cell]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hadley_cell,338589|WD~Hadley_cell,338589]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Hadley_cell,338589|WD~Hadley_cell,338589]] 
 
 ## #has_/text_of_/abstract 
 

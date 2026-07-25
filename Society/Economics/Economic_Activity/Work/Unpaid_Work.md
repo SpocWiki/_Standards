@@ -25,7 +25,7 @@ aliases:
 - 무급노동
 has_id_wikidata: Q7897274
 subclass_of: '[[../../../../WikiData/WD~work,268378|WD~work,268378]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+disjoint_union_of: '[[/_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 dv_has_:
   name_:
     ar: عمل غير مأجور

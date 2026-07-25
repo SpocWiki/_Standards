@@ -7,26 +7,26 @@ aliases:
   - Aga-Kröte 
   - 
 has_id_wikidata: Q321087
-IUCN_conservation_status: "[[_Standards/WikiData/WD~Least_Concern,211005]]"
-physically_interacts_with: "[[_Standards/WikiData/WD~freshwater_crocodile,319535]]"
+IUCN_conservation_status: "[[/_Standards/WikiData/WD~Least_Concern,211005]]"
+physically_interacts_with: "[[/_Standards/WikiData/WD~freshwater_crocodile,319535]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 taxon_range:
-  - "[[_Standards/WikiData/WD~Rurópolis,2009519]]"
-  - "[[_Standards/WikiData/WD~Venezuela,717]]"
-  - "[[_Standards/WikiData/WD~Brazil,155]]"
-parent_taxon: "[[_Standards/WikiData/WD~Rhinella,2363065]]"
-taxon_synonym: "[[_Standards/WikiData/WD~Bufo_marinus,13165156]]"
-original_combination: "[[_Standards/WikiData/WD~Rana_marina,24813606]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wiki_goes_Caribbean,85931561]]"
-diel_cycle: "[[_Standards/WikiData/WD~nocturnal,101029366]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Rhinella_marina,102441504]]"
-invasive_to: "[[_Standards/WikiData/WD~Australia,408]]"
-endemic_to: "[[_Standards/WikiData/WD~Americas,828]]"
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+  - "[[/_Standards/WikiData/WD~Rurópolis,2009519]]"
+  - "[[/_Standards/WikiData/WD~Venezuela,717]]"
+  - "[[/_Standards/WikiData/WD~Brazil,155]]"
+parent_taxon: "[[/_Standards/WikiData/WD~Rhinella,2363065]]"
+taxon_synonym: "[[/_Standards/WikiData/WD~Bufo_marinus,13165156]]"
+original_combination: "[[/_Standards/WikiData/WD~Rana_marina,24813606]]"
+maintained_by_WikiProject: "[[/_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
+on_focus_list_of_Wikimedia_project: "[[/_Standards/WikiData/WD~Wiki_goes_Caribbean,85931561]]"
+diel_cycle: "[[/_Standards/WikiData/WD~nocturnal,101029366]]"
+topic_s_main_category: "[[/_Standards/WikiData/WD~Category_Rhinella_marina,102441504]]"
+invasive_to: "[[/_Standards/WikiData/WD~Australia,408]]"
+endemic_to: "[[/_Standards/WikiData/WD~Americas,828]]"
+taxon_rank: "[[/_Standards/WikiData/WD~species,7432]]"
+instance_of: "[[/_Standards/WikiData/WD~taxon,16521]]"
 egg_incubation_period: 4.5
 Commons_category: Rhinella marina
 taxon_name: Rhinella marina

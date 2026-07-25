@@ -42,8 +42,8 @@ aliases:
 - 重积分
 - 중적분
 has_id_wikidata: Q844937
-subclass_of: '[[_Standards/WikiData/WD~integral,80091|WD~integral,80091]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+subclass_of: '[[/_Standards/WikiData/WD~integral,80091|WD~integral,80091]]'
+maintained_by_WikiProject: '[[/_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 dv_has_:
   name_:
     ar: تكامل متعدد
@@ -102,7 +102,7 @@ dv_has_:
 
 # [[Multiple_Integral]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Multiple_integral,844937|WD~Multiple_integral,844937]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Multiple_integral,844937|WD~Multiple_integral,844937]] 
 
 ## #has_/text_of_/abstract 
 

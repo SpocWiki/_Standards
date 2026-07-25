@@ -53,16 +53,16 @@ aliases:
 - 플리오세
 has_id_wikidata: Q76259
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
+- '[[/_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[/_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636|WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Pliocene,7344876|WD~Category_Pliocene,7344876]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[/_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636|WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Pliocene,7344876|WD~Category_Pliocene,7344876]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -2580000-01-01T00:00:00Z
-named_by: '[[_Standards/WikiData/WD~Charles_Lyell,5333|WD~Charles_Lyell,5333]]'
+named_by: '[[/_Standards/WikiData/WD~Charles_Lyell,5333|WD~Charles_Lyell,5333]]'
 Commons_category: Pliocene
 sRGB_color_hex_triplet: FFFF99
 start_time: -5333000-01-01T00:00:00Z
@@ -169,7 +169,7 @@ dv_has_:
     stopped: -2.580e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Pliocene,76259|WD~Pliocene,76259]]'
+  - '[[/_Standards/WikiData/WD~Pliocene,76259|WD~Pliocene,76259]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene|Epoch-005~Pliocene]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.public|Epoch-005~Pliocene.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.internal|Epoch-005~Pliocene.internal]]'
@@ -184,7 +184,7 @@ dv_has_duration_years: 2.753e+6
 dv_has_previous_item: '[[Epoch-023~Miocene]]'
 dv_has_next_item: '[[../Period-0003~Quaternary/Epoch-002_568~Pleistocene|Epoch~1~Pleistocene]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Pliocene,76259|WD~Pliocene,76259]]'
+- '[[/_Standards/WikiData/WD~Pliocene,76259|WD~Pliocene,76259]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene|Epoch-005~Pliocene]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.public|Epoch-005~Pliocene.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.internal|Epoch-005~Pliocene.internal]]'
@@ -228,7 +228,7 @@ has_time_stopped = `=this.dv_has_time_stopped`
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Pliocene,76259|WD~Pliocene,76259]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Pliocene,76259|WD~Pliocene,76259]] 
 
 A time period from 5.333 to 2.58 million years ago. 
 

@@ -9,20 +9,20 @@ aliases:
 - 와이어
 has_id_wikidata: Q26934461
 distributed_by:
-- '[[_Standards/WikiData/WD~Google_Play,79576|WD~Google_Play,79576]]'
-- '[[_Standards/WikiData/WD~Q368215,368215|WD~Q368215,368215]]'
-instance_of: '[[_Standards/WikiData/WD~instant_messaging_client,2462003|WD~instant_messaging_client,2462003]]'
+- '[[/_Standards/WikiData/WD~Google_Play,79576|WD~Google_Play,79576]]'
+- '[[/_Standards/WikiData/WD~Q368215,368215|WD~Q368215,368215]]'
+instance_of: '[[/_Standards/WikiData/WD~instant_messaging_client,2462003|WD~instant_messaging_client,2462003]]'
 operating_system:
 - '[[../../../../../../../../WikiData/WD~Q3251801,3251801|WD~Q3251801,3251801]]'
 - '[[../../../../../../../../WikiData/WD~Microsoft_Windows,1406|WD~Microsoft_Windows,1406]]'
 - '[[../../../../../../../../WikiData/WD~macOS,14116|WD~macOS,14116]]'
 - '[[../../../../../../../../WikiData/WD~Q94,94|WD~Q94,94]]'
 - '[[../../../../../../../../WikiData/WD~Q48493,48493|WD~Q48493,48493]]'
-developer: '[[_Standards/WikiData/WD~Wire_Swiss,18712630|WD~Wire_Swiss,18712630]]'
+developer: '[[/_Standards/WikiData/WD~Wire_Swiss,18712630|WD~Wire_Swiss,18712630]]'
 copyright_license:
-- '[[_Standards/WikiData/WD~Q27016754,27016754|WD~Q27016754,27016754]]'
-- '[[_Standards/WikiData/WD~GNU_Affero_General_Public_License,_version_3.0_or_later,27020062|WD~GNU_Affero_General_Public_License,_version_3.0_or_later,27020062]]'
-copyright_status: '[[_Standards/WikiData/WD~copyrighted,50423863|WD~copyrighted,50423863]]'
+- '[[/_Standards/WikiData/WD~Q27016754,27016754|WD~Q27016754,27016754]]'
+- '[[/_Standards/WikiData/WD~GNU_Affero_General_Public_License,_version_3.0_or_later,27020062|WD~GNU_Affero_General_Public_License,_version_3.0_or_later,27020062]]'
+copyright_status: '[[/_Standards/WikiData/WD~copyrighted,50423863|WD~copyrighted,50423863]]'
 platform:
 - '[[../../../../../../../../WikiData/WD~Microsoft_Windows,1406|WD~Microsoft_Windows,1406]]'
 - '[[../../../../../../../../WikiData/WD~macOS,14116|WD~macOS,14116]]'
@@ -82,7 +82,7 @@ dv_has_:
 
 # [[Wire(Messenger)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Wire,26934461|WD~Wire,26934461]]
+#is_/same_as :: [[/_Standards/WikiData/WD~Wire,26934461|WD~Wire,26934461]]
 
 ## #has_/text_of_/abstract 
 

@@ -3,26 +3,26 @@ aliases:
   - Hall & Oates
   - Hall and Oates
 has_id_wikidata: Q733182
-award_received: "[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]"
+award_received: "[[/_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]"
 record_label:
-  - "[[_Standards/WikiData/WD~Atlantic_Records,202440]]"
-  - "[[_Standards/WikiData/WD~RCA_Records,202585]]"
-  - "[[_Standards/WikiData/WD~Arista_Records,664167]]"
+  - "[[/_Standards/WikiData/WD~Atlantic_Records,202440]]"
+  - "[[/_Standards/WikiData/WD~RCA_Records,202585]]"
+  - "[[/_Standards/WikiData/WD~Arista_Records,664167]]"
 has_part_s_:
-  - "[[_Standards/WikiData/WD~John_Oates,326383]]"
-  - "[[_Standards/WikiData/WD~Daryl_Hall,1166988]]"
+  - "[[/_Standards/WikiData/WD~John_Oates,326383]]"
+  - "[[/_Standards/WikiData/WD~Daryl_Hall,1166988]]"
 genre:
-  - "[[_Standards/WikiData/WD~pop_rock,484641]]"
-  - "[[_Standards/WikiData/WD~blue_eyed_soul,885561]]"
-discography: "[[_Standards/WikiData/WD~Hall_&_Oates_discography,5642553]]"
-notable_work: "[[_Standards/WikiData/WD~Private_Eyes,7246089]]"
+  - "[[/_Standards/WikiData/WD~pop_rock,484641]]"
+  - "[[/_Standards/WikiData/WD~blue_eyed_soul,885561]]"
+discography: "[[/_Standards/WikiData/WD~Hall_&_Oates_discography,5642553]]"
+notable_work: "[[/_Standards/WikiData/WD~Private_Eyes,7246089]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~musical_duo,9212979]]"
-  - "[[_Standards/WikiData/WD~male_duo,109288825]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Hall_&_Oates,20191974]]"
-member_category: "[[_Standards/WikiData/WD~Category_Hall_&_Oates_members,25013979]]"
-location_of_formation: "[[_Standards/WikiData/WD~Philadelphia,1345]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[/_Standards/WikiData/WD~musical_duo,9212979]]"
+  - "[[/_Standards/WikiData/WD~male_duo,109288825]]"
+topic_s_main_category: "[[/_Standards/WikiData/WD~Category_Hall_&_Oates,20191974]]"
+member_category: "[[/_Standards/WikiData/WD~Category_Hall_&_Oates_members,25013979]]"
+location_of_formation: "[[/_Standards/WikiData/WD~Philadelphia,1345]]"
+country_of_origin: "[[/_Standards/WikiData/WD~United_States,30]]"
 start_of_work_period: 1970-01-01T00:00:00Z
 social_media_followers:
   - 815000

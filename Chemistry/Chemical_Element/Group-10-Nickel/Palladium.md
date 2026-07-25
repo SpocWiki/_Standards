@@ -101,16 +101,16 @@ CosIng_number: 86747
 CPV_Supplementary_code: AA43
 described_by_source:
 - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878|WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[/_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878|WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from:
-- '[[_Standards/WikiData/WD~Palladium,255689|WD~Palladium,255689]]'
-- '[[_Standards/WikiData/WD~palladium_as_an_investment,1669450|WD~palladium_as_an_investment,1669450]]'
-- '[[_Standards/WikiData/WD~Pallad_grenade_launcher,2033786|WD~Pallad_grenade_launcher,2033786]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~William_Hyde_Wollaston,312975|WD~William_Hyde_Wollaston,312975]]'
+- '[[/_Standards/WikiData/WD~Palladium,255689|WD~Palladium,255689]]'
+- '[[/_Standards/WikiData/WD~palladium_as_an_investment,1669450|WD~palladium_as_an_investment,1669450]]'
+- '[[/_Standards/WikiData/WD~Pallad_grenade_launcher,2033786|WD~Pallad_grenade_launcher,2033786]]'
+discoverer_or_inventor: '[[/_Standards/WikiData/WD~William_Hyde_Wollaston,312975|WD~William_Hyde_Wollaston,312975]]'
 DSSTOX_compound_identifier: DTXCID2047644
 EC_number: 231-115-6
 electronegativity: 2.2
@@ -121,7 +121,7 @@ element_symbol: Pd
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Palladium%201-noReflection.jpg
 InChI: InChI=1S/Pd
 InChIKey: KDLHZDBZIXYQEI-UHFFFAOYSA-N
-instance_of: '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+instance_of: '[[/_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 0.62
 - 0.64
@@ -132,19 +132,19 @@ MeSH_tree_code:
 - D01.268.556.680
 - D01.268.956.718
 - D01.552.544.680
-named_after: '[[_Standards/WikiData/WD~Q3002,3002|WD~Q3002,3002]]'
+named_after: '[[/_Standards/WikiData/WD~Q3002,3002|WD~Q3002,3002]]'
 OmegaWiki_Defined_Meaning: 341758
 part_of:
-- '[[_Standards/WikiData/WD~group_10,205253|WD~group_10,205253]]'
-- '[[_Standards/WikiData/WD~period_5,244982|WD~period_5,244982]]'
+- '[[/_Standards/WikiData/WD~group_10,205253|WD~group_10,205253]]'
+- '[[/_Standards/WikiData/WD~period_5,244982|WD~period_5,244982]]'
 PubChem_CID: 23938
 Reaxys_registry_number: 4937491
 SpocWebEntityId: 21944
 subclass_of:
-- '[[_Standards/WikiData/WD~platinum_group,223995|WD~platinum_group,223995]]'
-- '[[_Standards/WikiData/WD~period_5,244982|WD~period_5,244982]]'
-- '[[_Standards/WikiData/WD~precious_metal,271449|WD~precious_metal,271449]]'
-- '[[_Standards/WikiData/WD~transition_metal,19588|WD~transition_metal,19588]]'
+- '[[/_Standards/WikiData/WD~platinum_group,223995|WD~platinum_group,223995]]'
+- '[[/_Standards/WikiData/WD~period_5,244982|WD~period_5,244982]]'
+- '[[/_Standards/WikiData/WD~precious_metal,271449|WD~precious_metal,271449]]'
+- '[[/_Standards/WikiData/WD~transition_metal,19588|WD~transition_metal,19588]]'
 time_of_discovery_or_invention: 1803
 type: Element
 UMLS_CUI: C0030230

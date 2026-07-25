@@ -37,9 +37,9 @@ aliases:
 - 战役层面
 - 작전술
 has_id_wikidata: Q2287072
-subclass_of: '[[_Standards/WikiData/WD~military_science,192386|WD~military_science,192386]]'
-part_of: '[[_Standards/WikiData/WD~military_art,2560087|WD~military_art,2560087]]'
-instance_of: '[[_Standards/WikiData/WD~military_term,66740226|WD~military_term,66740226]]'
+subclass_of: '[[/_Standards/WikiData/WD~military_science,192386|WD~military_science,192386]]'
+part_of: '[[/_Standards/WikiData/WD~military_art,2560087|WD~military_art,2560087]]'
+instance_of: '[[/_Standards/WikiData/WD~military_term,66740226|WD~military_term,66740226]]'
 dv_has_:
   name_:
     ar: المستوى التشغيلي للحرب
@@ -83,7 +83,7 @@ dv_has_:
 
 # [[Operational_Level_of_War]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Operational_level_of_war,2287072|WD~Operational_level_of_war,2287072]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Operational_level_of_war,2287072|WD~Operational_level_of_war,2287072]] 
 
 ## #has_/text_of_/abstract 
 

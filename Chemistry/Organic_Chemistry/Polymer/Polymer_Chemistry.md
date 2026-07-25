@@ -58,12 +58,12 @@ aliases:
 - 고분자화학
 has_id_wikidata: Q750446
 subclass_of:
-- '[[_Standards/WikiData/WD~solid_state_chemistry,908684|WD~solid_state_chemistry,908684]]'
-- '[[_Standards/WikiData/WD~organic_chemistry,11351|WD~organic_chemistry,11351]]'
+- '[[/_Standards/WikiData/WD~solid_state_chemistry,908684|WD~solid_state_chemistry,908684]]'
+- '[[/_Standards/WikiData/WD~organic_chemistry,11351|WD~organic_chemistry,11351]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~branch_of_chemistry,11790203|WD~branch_of_chemistry,11790203]]'
-practiced_by: '[[_Standards/WikiData/WD~polymer_chemist,111018205|WD~polymer_chemist,111018205]]'
+- '[[/_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[/_Standards/WikiData/WD~branch_of_chemistry,11790203|WD~branch_of_chemistry,11790203]]'
+practiced_by: '[[/_Standards/WikiData/WD~polymer_chemist,111018205|WD~polymer_chemist,111018205]]'
 Commons_category: Polymer chemistry
 dv_is_:
   same_as:
@@ -160,7 +160,7 @@ dv_has_:
 
 # [[Polymer_Chemistry]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Polymer_chemistry,750446|WD~Polymer_chemistry,750446]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Polymer_chemistry,750446|WD~Polymer_chemistry,750446]] 
 
 ## #has_/text_of_/abstract 
 

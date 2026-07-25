@@ -22,12 +22,12 @@ aliases:
 has_id_wikidata: Q14275
 declination: -47.479472
 metallicity: -1.511
-constellation: '[[_Standards/WikiData/WD~Centaurus,8844|WD~Centaurus,8844]]'
-instance_of: '[[_Standards/WikiData/WD~globular_cluster,11276|WD~globular_cluster,11276]]'
+constellation: '[[/_Standards/WikiData/WD~Centaurus,8844|WD~Centaurus,8844]]'
+instance_of: '[[/_Standards/WikiData/WD~globular_cluster,11276|WD~globular_cluster,11276]]'
 declination_component_of_proper_motion: -6.73
 right_ascension_component_of_proper_motion: -3.24
 parallax: 0.193
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Edmond_Halley,47434|WD~Edmond_Halley,47434]]'
+discoverer_or_inventor: '[[/_Standards/WikiData/WD~Edmond_Halley,47434|WD~Edmond_Halley,47434]]'
 distance_from_Earth: 5.19
 apparent_magnitude: 5.33
 radial_velocity: 232.7
@@ -124,7 +124,7 @@ dv_has_:
 
 # [[Omega_Centauri]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Omega_Centauri,14275|WD~Omega_Centauri,14275]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Omega_Centauri,14275|WD~Omega_Centauri,14275]] 
 
 ## #has_/text_of_/abstract 
 

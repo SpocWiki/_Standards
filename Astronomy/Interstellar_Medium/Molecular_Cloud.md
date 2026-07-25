@@ -61,15 +61,15 @@ aliases:
 - 분자운
 has_id_wikidata: Q272447
 subclass_of:
-- '[[_Standards/WikiData/WD~interstellar_cloud,1054444|WD~interstellar_cloud,1054444]]'
-- '[[_Standards/WikiData/WD~nebula,42372|WD~nebula,42372]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
+- '[[/_Standards/WikiData/WD~interstellar_cloud,1054444|WD~interstellar_cloud,1054444]]'
+- '[[/_Standards/WikiData/WD~nebula,42372|WD~nebula,42372]]'
+instance_of: '[[/_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
 part_of:
-- '[[_Standards/WikiData/WD~galaxy,318|WD~galaxy,318]]'
-- '[[_Standards/WikiData/WD~star_formation,16744|WD~star_formation,16744]]'
+- '[[/_Standards/WikiData/WD~galaxy,318|WD~galaxy,318]]'
+- '[[/_Standards/WikiData/WD~star_formation,16744|WD~star_formation,16744]]'
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~hydrogen,556|WD~hydrogen,556]]'
-- '[[_Standards/WikiData/WD~carbon_monoxide,2025|WD~carbon_monoxide,2025]]'
+- '[[/_Standards/WikiData/WD~hydrogen,556|WD~hydrogen,556]]'
+- '[[/_Standards/WikiData/WD~carbon_monoxide,2025|WD~carbon_monoxide,2025]]'
 Commons_category: Molecular clouds
 dv_is_:
   same_as:
@@ -175,7 +175,7 @@ dv_has_:
 
 # [[Molecular_Cloud]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Molecular_cloud,272447|WD~Molecular_cloud,272447]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Molecular_cloud,272447|WD~Molecular_cloud,272447]] 
 
 ## #has_/text_of_/abstract 
 

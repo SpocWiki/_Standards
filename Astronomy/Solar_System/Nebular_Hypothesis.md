@@ -40,16 +40,16 @@ aliases:
 - 성운 가설
 has_id_wikidata: Q13599969
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
 instance_of:
-- '[[_Standards/WikiData/WD~scientific_hypothesis,3144351|WD~scientific_hypothesis,3144351]]'
-- '[[_Standards/WikiData/WD~encyclopedia_article,13433827|WD~encyclopedia_article,13433827]]'
-published_in: '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875|WD~The_American_Cyclopædia,19077875]]'
-part_of: '[[_Standards/WikiData/WD~Exposition_du_système_du_monde,19170514|WD~Exposition_du_système_du_monde,19170514]]'
+- '[[/_Standards/WikiData/WD~scientific_hypothesis,3144351|WD~scientific_hypothesis,3144351]]'
+- '[[/_Standards/WikiData/WD~encyclopedia_article,13433827|WD~encyclopedia_article,13433827]]'
+published_in: '[[/_Standards/WikiData/WD~The_American_Cyclopædia,19077875|WD~The_American_Cyclopædia,19077875]]'
+part_of: '[[/_Standards/WikiData/WD~Exposition_du_système_du_monde,19170514|WD~Exposition_du_système_du_monde,19170514]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Immanuel_Kant,9312|WD~Immanuel_Kant,9312]]'
-- '[[_Standards/WikiData/WD~Pierre_Simon_Laplace,44481|WD~Pierre_Simon_Laplace,44481]]'
+- '[[/_Standards/WikiData/WD~Immanuel_Kant,9312|WD~Immanuel_Kant,9312]]'
+- '[[/_Standards/WikiData/WD~Pierre_Simon_Laplace,44481|WD~Pierre_Simon_Laplace,44481]]'
 Commons_category: Nebular hypothesis
 dv_is_:
   same_as:
@@ -120,7 +120,7 @@ dv_has_:
 
 # [[Nebular_Hypothesis]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Nebular_hypothesis,13599969|WD~Nebular_hypothesis,13599969]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Nebular_hypothesis,13599969|WD~Nebular_hypothesis,13599969]] 
 
 ## #has_/text_of_/abstract 
 

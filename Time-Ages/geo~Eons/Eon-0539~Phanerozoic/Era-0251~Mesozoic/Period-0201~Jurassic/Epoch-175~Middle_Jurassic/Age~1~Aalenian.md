@@ -30,17 +30,17 @@ aliases:
 - 阿連期
 - 알렌절
 has_id_wikidata: Q300887
-named_by: '[[_Standards/WikiData/WD~Karl_Mayer_Eymar,116704|WD~Karl_Mayer_Eymar,116704]]'
+named_by: '[[/_Standards/WikiData/WD~Karl_Mayer_Eymar,116704|WD~Karl_Mayer_Eymar,116704]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-significant_place: '[[_Standards/WikiData/WD~Fuentelsaz,986555|WD~Fuentelsaz,986555]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Aalenian,21144002|WD~Category_Aalenian,21144002]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+significant_place: '[[/_Standards/WikiData/WD~Fuentelsaz,986555|WD~Fuentelsaz,986555]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Aalenian,21144002|WD~Category_Aalenian,21144002]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 coordinate_location: Point(-1.830333333 41.079138888)
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Aalenian,105753535|WD~GSSP_for_the_base_of_the_Aalenian,105753535]]'
-named_after: '[[_Standards/WikiData/WD~Aalen,3951|WD~Aalen,3951]]'
-country: '[[_Standards/WikiData/WD~Spain,29|WD~Spain,29]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_the_Aalenian,105753535|WD~GSSP_for_the_base_of_the_Aalenian,105753535]]'
+named_after: '[[/_Standards/WikiData/WD~Aalen,3951|WD~Aalen,3951]]'
+country: '[[/_Standards/WikiData/WD~Spain,29|WD~Spain,29]]'
 end_time: -170300000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Aalenian%20GSSP%20-%20Golden%20spike%20ceremony%20-%20Fuentelsaz%2C%20Guadalajara%2C%20Spain%2014.jpg
 sRGB_color_hex_triplet: 6FDAED
@@ -105,7 +105,7 @@ dv_has_:
     stopped: -170.9e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Aalenian,300887|WD~Aalenian,300887]]'
+  - '[[/_Standards/WikiData/WD~Aalenian,300887|WD~Aalenian,300887]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian|Age~1~Aalenian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.public|Age~1~Aalenian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.internal|Age~1~Aalenian.internal]]'
@@ -117,7 +117,7 @@ dv_has_duration_years: 3.800e+6
 dv_has_previous_item: '[[../Epoch-201~Early_Jurassic/Age~4~Toarcian|Age~4~Toarcian]]'
 dv_has_next_item: '[[Age~2~Bajocian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Aalenian,300887|WD~Aalenian,300887]]'
+- '[[/_Standards/WikiData/WD~Aalenian,300887|WD~Aalenian,300887]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian|Age~1~Aalenian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.public|Age~1~Aalenian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.internal|Age~1~Aalenian.internal]]'
@@ -161,7 +161,7 @@ A time period from 174.7 to 170.9 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Aalenian,300887|WD~Aalenian,300887]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Aalenian,300887|WD~Aalenian,300887]] 
 
 ## #has_/text_of_/abstract 
 

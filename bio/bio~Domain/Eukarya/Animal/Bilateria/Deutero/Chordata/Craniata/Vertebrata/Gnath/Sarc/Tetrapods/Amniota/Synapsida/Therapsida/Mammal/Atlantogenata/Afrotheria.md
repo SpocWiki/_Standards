@@ -22,9 +22,9 @@ aliases:
 - 아프로테리아상목
 has_id_wikidata: Q27399
 parent_taxon: '[[../../../../../../../../../../../../../../../../../WikiData/WD~Atlantogenata,2718670|WD~Atlantogenata,2718670]]'
-taxon_rank: '[[_Standards/WikiData/WD~superorder,5868144|WD~superorder,5868144]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Taxonomy_Afrotheria,13217714|WD~Template_Taxonomy_Afrotheria,13217714]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[/_Standards/WikiData/WD~superorder,5868144|WD~superorder,5868144]]'
+topic_has_template: '[[/_Standards/WikiData/WD~Template_Taxonomy_Afrotheria,13217714|WD~Template_Taxonomy_Afrotheria,13217714]]'
+instance_of: '[[/_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 start_time: -65000000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Afrotheria.jpg
 Commons_category: Afrotheria
@@ -102,7 +102,7 @@ dv_has_:
 
 # [[Afrotheria]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Afrotheria,27399|WD~Afrotheria,27399]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Afrotheria,27399|WD~Afrotheria,27399]] 
 
 ## #has_/text_of_/abstract 
 

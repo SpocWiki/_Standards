@@ -81,30 +81,30 @@ aliases:
 - 페니키아
 has_id_wikidata: Q41642
 basic_form_of_government:
-- '[[_Standards/WikiData/WD~city_state,133442|WD~city_state,133442]]'
-- '[[_Standards/WikiData/WD~republic,7270|WD~republic,7270]]'
-- '[[_Standards/WikiData/WD~monarchy,7269|WD~monarchy,7269]]'
-follows: '[[_Standards/WikiData/WD~Canaan,163329|WD~Canaan,163329]]'
+- '[[/_Standards/WikiData/WD~city_state,133442|WD~city_state,133442]]'
+- '[[/_Standards/WikiData/WD~republic,7270|WD~republic,7270]]'
+- '[[/_Standards/WikiData/WD~monarchy,7269|WD~monarchy,7269]]'
+follows: '[[/_Standards/WikiData/WD~Canaan,163329|WD~Canaan,163329]]'
 described_by_source:
 - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Q30059240,30059240|WD~Q30059240,30059240]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[/_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[/_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[/_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[/_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[/_Standards/WikiData/WD~Q30059240,30059240|WD~Q30059240,30059240]]'
 instance_of:
-- '[[_Standards/WikiData/WD~style,1292119|WD~style,1292119]]'
-- '[[_Standards/WikiData/WD~historical_country,3024240|WD~historical_country,3024240]]'
+- '[[/_Standards/WikiData/WD~style,1292119|WD~style,1292119]]'
+- '[[/_Standards/WikiData/WD~historical_country,3024240|WD~historical_country,3024240]]'
 coordinate_location: Point(35.65 34.116667)
 inception: -2499-01-01T00:00:00Z
 dissolved_abolished_or_demolished_date: -0063-01-01T00:00:00Z
-continent: '[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
-language_used: '[[_Standards/WikiData/WD~Phoenician,36734|WD~Phoenician,36734]]'
+continent: '[[/_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
+language_used: '[[/_Standards/WikiData/WD~Phoenician,36734|WD~Phoenician,36734]]'
 demonym:
 - Phoenician
 - פיניקים
@@ -261,7 +261,7 @@ dv_has_:
 
 # [[-2499-Phoenicia-0063]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Phoenicia,41642|WD~Phoenicia,41642]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Phoenicia,41642|WD~Phoenicia,41642]] 
 
 ## #has_/text_of_/abstract 
 

@@ -35,10 +35,10 @@ aliases:
 - 光子學
 - 광자학
 has_id_wikidata: Q467054
-instance_of: '[[_Standards/WikiData/WD~branch_of_physics,4162444|WD~branch_of_physics,4162444]]'
-part_of: '[[_Standards/WikiData/WD~photonic_and_electro_optical_devices,_sensors_and_systems,113112790|WD~photonic_and_electro_optical_devices,_sensors_and_systems,113112790]]'
-practiced_by: '[[_Standards/WikiData/WD~Q116189495,116189495|WD~Q116189495,116189495]]'
-subclass_of: '[[_Standards/WikiData/WD~physics,413|WD~physics,413]]'
+instance_of: '[[/_Standards/WikiData/WD~branch_of_physics,4162444|WD~branch_of_physics,4162444]]'
+part_of: '[[/_Standards/WikiData/WD~photonic_and_electro_optical_devices,_sensors_and_systems,113112790|WD~photonic_and_electro_optical_devices,_sensors_and_systems,113112790]]'
+practiced_by: '[[/_Standards/WikiData/WD~Q116189495,116189495|WD~Q116189495,116189495]]'
+subclass_of: '[[/_Standards/WikiData/WD~physics,413|WD~physics,413]]'
 OmegaWiki_Defined_Meaning: 1113920
 Commons_category: Photonics
 image:
@@ -111,7 +111,7 @@ dv_has_:
 
 # [[Photonics]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Photonics,467054|WD~Photonics,467054]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Photonics,467054|WD~Photonics,467054]] 
 
 ## #has_/text_of_/abstract 
 

@@ -86,12 +86,12 @@ aliases:
 - 역
 has_id_wikidata: Q146481
 different_from:
-- '[[_Standards/WikiData/WD~Domain,200975|WD~Domain,200975]]'
-- '[[_Standards/WikiData/WD~realm,62075839|WD~realm,62075839]]'
-- '[[_Standards/WikiData/WD~top_level_domain,14296|WD~top_level_domain,14296]]'
-instance_of: '[[_Standards/WikiData/WD~taxonomic_rank,427626|WD~taxonomic_rank,427626]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~superkingdom,19858692|WD~superkingdom,19858692]]'
-part_of: '[[_Standards/WikiData/WD~superdomain,22666877|WD~superdomain,22666877]]'
+- '[[/_Standards/WikiData/WD~Domain,200975|WD~Domain,200975]]'
+- '[[/_Standards/WikiData/WD~realm,62075839|WD~realm,62075839]]'
+- '[[/_Standards/WikiData/WD~top_level_domain,14296|WD~top_level_domain,14296]]'
+instance_of: '[[/_Standards/WikiData/WD~taxonomic_rank,427626|WD~taxonomic_rank,427626]]'
+said_to_be_the_same_as: '[[/_Standards/WikiData/WD~superkingdom,19858692|WD~superkingdom,19858692]]'
+part_of: '[[/_Standards/WikiData/WD~superdomain,22666877|WD~superdomain,22666877]]'
 OmegaWiki_Defined_Meaning: 885000
 Commons_category: Domains (biology)
 dv_has_:

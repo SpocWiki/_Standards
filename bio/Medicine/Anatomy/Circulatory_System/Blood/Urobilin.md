@@ -1,12 +1,12 @@
 ---
 aliases:
 has_id_wikidata: Q41353
-subclass_of: "[[_Standards/WikiData/WD~heterocyclic_compound,193430]]"
+subclass_of: "[[/_Standards/WikiData/WD~heterocyclic_compound,193430]]"
 stereoisomer_of:
-  - "[[_Standards/WikiData/WD~(4S,10Z,16R)_phycourobilin,635700]]"
-  - "[[_Standards/WikiData/WD~(+)_urobilin,27282728]]"
-subject_has_role: "[[_Standards/WikiData/WD~primary_metabolite,3333419]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
+  - "[[/_Standards/WikiData/WD~(4S,10Z,16R)_phycourobilin,635700]]"
+  - "[[/_Standards/WikiData/WD~(+)_urobilin,27282728]]"
+subject_has_role: "[[/_Standards/WikiData/WD~primary_metabolite,3333419]]"
+instance_of: "[[/_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
 mass: 590.310435064
 Commons_category: Urobilin
 PubChem_CID: "6433298"

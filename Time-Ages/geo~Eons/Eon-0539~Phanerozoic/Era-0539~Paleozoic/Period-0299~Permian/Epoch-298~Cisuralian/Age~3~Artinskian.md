@@ -28,12 +28,12 @@ aliases:
 - 阿爾丁斯剋期
 has_id_wikidata: Q713094
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-significant_place: '[[_Standards/WikiData/WD~Krasnousolsky,591613|WD~Krasnousolsky,591613]]'
-named_after: '[[_Standards/WikiData/WD~Arti,712334|WD~Arti,712334]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Artinskian,134461822|WD~GSSP_for_the_base_of_the_Artinskian,134461822]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+significant_place: '[[/_Standards/WikiData/WD~Krasnousolsky,591613|WD~Krasnousolsky,591613]]'
+named_after: '[[/_Standards/WikiData/WD~Arti,712334|WD~Arti,712334]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_the_Artinskian,134461822|WD~GSSP_for_the_base_of_the_Artinskian,134461822]]'
 end_time: -283500000-01-01T00:00:00Z
 start_time: -290100000-01-01T00:00:00Z
 sRGB_color_hex_triplet: EF8A74
@@ -90,7 +90,7 @@ dv_has_:
     stopped: -283.5e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Artinskian,713094|WD~Artinskian,713094]]'
+  - '[[/_Standards/WikiData/WD~Artinskian,713094|WD~Artinskian,713094]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~3~Artinskian|Age~3~Artinskian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~3~Artinskian.public|Age~3~Artinskian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~3~Artinskian.internal|Age~3~Artinskian.internal]]'
@@ -102,7 +102,7 @@ dv_has_duration_years: 6.600e+6
 dv_has_previous_item: '[[Age~2~Sakmarian]]'
 dv_has_next_item: '[[Age~4~Kungurian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Artinskian,713094|WD~Artinskian,713094]]'
+- '[[/_Standards/WikiData/WD~Artinskian,713094|WD~Artinskian,713094]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~3~Artinskian|Age~3~Artinskian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~3~Artinskian.public|Age~3~Artinskian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~3~Artinskian.internal|Age~3~Artinskian.internal]]'
@@ -144,7 +144,7 @@ dv_has_text_of_color: 0xE37B68
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Artinskian,713094|WD~Artinskian,713094]]  
+#is_/same_as :: [[/_Standards/WikiData/WD~Artinskian,713094|WD~Artinskian,713094]]  
 
 A time period from 290.1 to 283.5 million years ago.
 

@@ -41,10 +41,10 @@ aliases:
 - 工業型農業
 - 집약농업
 has_id_wikidata: Q1347753
-instance_of: '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
-opposite_of: '[[_Standards/WikiData/WD~family_farming,1019285|WD~family_farming,1019285]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-part_of: '[[_Standards/WikiData/WD~industrial_sector,8148|WD~industrial_sector,8148]]'
+instance_of: '[[/_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
+opposite_of: '[[/_Standards/WikiData/WD~family_farming,1019285|WD~family_farming,1019285]]'
+described_by_source: '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+part_of: '[[/_Standards/WikiData/WD~industrial_sector,8148|WD~industrial_sector,8148]]'
 Commons_category: Industrial agriculture
 dv_has_:
   name_:
@@ -98,7 +98,7 @@ dv_has_:
 
 # [[Industrial_Agriculture]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Industrial_agriculture,1347753|WD~Industrial_agriculture,1347753]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Industrial_agriculture,1347753|WD~Industrial_agriculture,1347753]] 
 
 ## #has_/text_of_/abstract 
 

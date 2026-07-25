@@ -34,7 +34,7 @@ aliases:
 - 穆斯林征服印度次大陆
 - 무슬림의 인도 아대륙 정복
 has_id_wikidata: Q2566899
-instance_of: '[[_Standards/WikiData/WD~conquest,1361229|WD~conquest,1361229]]'
+instance_of: '[[/_Standards/WikiData/WD~conquest,1361229|WD~conquest,1361229]]'
 dv_is_:
   same_as:
   - '[[../../../../../../../../WikiData/WD~Muslim_conquest_in_the_Indian_subcontinent,2566899|WD~Muslim_conquest_in_the_Indian_subcontinent,2566899]]'
@@ -92,7 +92,7 @@ dv_has_:
 
 # [[1200-Muslim_conquest_in_India+1600]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Muslim_conquest_in_the_Indian_subcontinent,2566899|WD~Muslim_conquest_in_the_Indian_subcontinent,2566899]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Muslim_conquest_in_the_Indian_subcontinent,2566899|WD~Muslim_conquest_in_the_Indian_subcontinent,2566899]] 
 
 ## #has_/text_of_/abstract 
 

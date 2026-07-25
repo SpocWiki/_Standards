@@ -104,16 +104,16 @@ Common_Procurement_Vocabulary_code: 14725000
 CPV_Supplementary_code: AA13
 described_by_source:
 - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]'
-- '[[_Standards/WikiData/WD~EB-11___Vanadium,84669050|WD~EB-11___Vanadium,84669050]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[/_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]'
+- '[[/_Standards/WikiData/WD~EB-11___Vanadium,84669050|WD~EB-11___Vanadium,84669050]]'
 Dewey_Decimal_Classification: 546.522
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Andrés_Manuel_del_Río,524465|WD~Andrés_Manuel_del_Río,524465]]'
+discoverer_or_inventor: '[[/_Standards/WikiData/WD~Andrés_Manuel_del_Río,524465|WD~Andrés_Manuel_del_Río,524465]]'
 DSSTOX_compound_identifier: DTXCID0020282
 EC_number: 231-171-1
 electronegativity: 1.63
@@ -124,8 +124,8 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Vanadium%201.jpg
 InChI: InChI=1S/V
 InChIKey: LEONUFNNVUYDNQ-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~lithophile,1130479|WD~lithophile,1130479]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+- '[[/_Standards/WikiData/WD~lithophile,1130479|WD~lithophile,1130479]]'
+- '[[/_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 0.36
 - 0.46
@@ -136,29 +136,29 @@ ionic_radius:
 - 0.72
 - 0.76
 made_from_material:
-- '[[_Standards/WikiData/WD~vanadinite,407251|WD~vanadinite,407251]]'
-- '[[_Standards/WikiData/WD~carnotite,409100|WD~carnotite,409100]]'
-- '[[_Standards/WikiData/WD~patrónite,416203|WD~patrónite,416203]]'
-- '[[_Standards/WikiData/WD~shcherbinaite,3959261|WD~shcherbinaite,3959261]]'
-- '[[_Standards/WikiData/WD~colimaite,5144828|WD~colimaite,5144828]]'
-- '[[_Standards/WikiData/WD~ardennite-(V),19799657|WD~ardennite-(V),19799657]]'
-- '[[_Standards/WikiData/WD~rhabdoborite-(V),55876690|WD~rhabdoborite-(V),55876690]]'
+- '[[/_Standards/WikiData/WD~vanadinite,407251|WD~vanadinite,407251]]'
+- '[[/_Standards/WikiData/WD~carnotite,409100|WD~carnotite,409100]]'
+- '[[/_Standards/WikiData/WD~patrónite,416203|WD~patrónite,416203]]'
+- '[[/_Standards/WikiData/WD~shcherbinaite,3959261|WD~shcherbinaite,3959261]]'
+- '[[/_Standards/WikiData/WD~colimaite,5144828|WD~colimaite,5144828]]'
+- '[[/_Standards/WikiData/WD~ardennite-(V),19799657|WD~ardennite-(V),19799657]]'
+- '[[/_Standards/WikiData/WD~rhabdoborite-(V),55876690|WD~rhabdoborite-(V),55876690]]'
 mass: 50.9415
 melting_point: 1887
 MeSH_tree_code:
 - D01.268.556.920
 - D01.268.956.886
 - D01.552.544.920
-named_after: '[[_Standards/WikiData/WD~Freyja,1647325|WD~Freyja,1647325]]'
+named_after: '[[/_Standards/WikiData/WD~Freyja,1647325|WD~Freyja,1647325]]'
 OmegaWiki_Defined_Meaning: 3940
 oxidation_state: 5
 part_of:
-- '[[_Standards/WikiData/WD~group_5,193276|WD~group_5,193276]]'
-- '[[_Standards/WikiData/WD~period_4,239825|WD~period_4,239825]]'
+- '[[/_Standards/WikiData/WD~group_5,193276|WD~group_5,193276]]'
+- '[[/_Standards/WikiData/WD~period_4,239825|WD~period_4,239825]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Vanadium-ar.ogg
 PubChem_CID: 23990
-subclass_of: '[[_Standards/WikiData/WD~transition_metal,19588|WD~transition_metal,19588]]'
-subject_has_role: '[[_Standards/WikiData/WD~trace_metal,7831165|WD~trace_metal,7831165]]'
+subclass_of: '[[/_Standards/WikiData/WD~transition_metal,19588|WD~transition_metal,19588]]'
+subject_has_role: '[[/_Standards/WikiData/WD~trace_metal,7831165|WD~trace_metal,7831165]]'
 time_of_discovery_or_invention: 1801
 type: Element
 UMLS_CUI: C0042306

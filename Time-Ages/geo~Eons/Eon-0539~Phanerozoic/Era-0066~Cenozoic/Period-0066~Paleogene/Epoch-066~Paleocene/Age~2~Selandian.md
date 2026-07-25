@@ -30,17 +30,17 @@ aliases:
 - 塞蘭特階
 - 셀란드절
 has_id_wikidata: Q503349
-significant_place: '[[_Standards/WikiData/WD~Zumaia,229659|WD~Zumaia,229659]]'
+significant_place: '[[/_Standards/WikiData/WD~Zumaia,229659|WD~Zumaia,229659]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-named_by: '[[_Standards/WikiData/WD~Alfred_Rosenkrantz,6079980|WD~Alfred_Rosenkrantz,6079980]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Selandian,24068668|WD~Category_Selandian,24068668]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Selandian,133871292|WD~GSSP_for_the_base_of_the_Selandian,133871292]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_by: '[[/_Standards/WikiData/WD~Alfred_Rosenkrantz,6079980|WD~Alfred_Rosenkrantz,6079980]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Selandian,24068668|WD~Category_Selandian,24068668]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_the_Selandian,133871292|WD~GSSP_for_the_base_of_the_Selandian,133871292]]'
 start_time: -61600000-01-01T00:00:00Z
 coordinate_location: Point(-2.25944444 43.30055556)
-named_after: '[[_Standards/WikiData/WD~Zealand,25535|WD~Zealand,25535]]'
+named_after: '[[/_Standards/WikiData/WD~Zealand,25535|WD~Zealand,25535]]'
 end_time: -59200000-01-01T00:00:00Z
 Commons_category: Selandian
 sRGB_color_hex_triplet: FEC274
@@ -103,7 +103,7 @@ dv_has_:
     stopped: -59.2e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Selandian,503349|WD~Selandian,503349]]'
+  - '[[/_Standards/WikiData/WD~Selandian,503349|WD~Selandian,503349]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian|Age~2~Selandian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.public|Age~2~Selandian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.internal|Age~2~Selandian.internal]]'
@@ -115,7 +115,7 @@ dv_has_duration_years: 2.400e+6
 dv_has_previous_item: '[[Age~1~Danian]]'
 dv_has_next_item: '[[Age~3~Thanetian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Selandian,503349|WD~Selandian,503349]]'
+- '[[/_Standards/WikiData/WD~Selandian,503349|WD~Selandian,503349]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian|Age~2~Selandian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.public|Age~2~Selandian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.internal|Age~2~Selandian.internal]]'
@@ -159,7 +159,7 @@ A time period from 61.6 to 59.2 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Selandian,503349|WD~Selandian,503349]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Selandian,503349|WD~Selandian,503349]] 
 
 ![[../../../../../../../xLarge/Earth/Geology/Earth-060_Ma_(Selandian_Age).png|Earth-060_Ma_(Selandian_Age).png]] 
 

@@ -45,8 +45,8 @@ aliases:
 - 即興喜劇
 - 즉흥극
 has_id_wikidata: Q1140700
-instance_of: '[[_Standards/WikiData/WD~theatrical_genre,7777573|WD~theatrical_genre,7777573]]'
-subclass_of: '[[_Standards/WikiData/WD~theatre_art,11635|WD~theatre_art,11635]]'
+instance_of: '[[/_Standards/WikiData/WD~theatrical_genre,7777573|WD~theatrical_genre,7777573]]'
+subclass_of: '[[/_Standards/WikiData/WD~theatre_art,11635|WD~theatre_art,11635]]'
 OmegaWiki_Defined_Meaning: 975856
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Tamahashi-improvisation%20th%C3%A9%C3%A2trale.wav
 Commons_category: Improvisational theatre
@@ -100,7 +100,7 @@ dv_has_:
 
 # [[Improvisational_Theatre]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Improvisational_theatre,1140700|WD~Improvisational_theatre,1140700]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Improvisational_theatre,1140700|WD~Improvisational_theatre,1140700]] 
 
 ## #has_/text_of_/abstract 
 

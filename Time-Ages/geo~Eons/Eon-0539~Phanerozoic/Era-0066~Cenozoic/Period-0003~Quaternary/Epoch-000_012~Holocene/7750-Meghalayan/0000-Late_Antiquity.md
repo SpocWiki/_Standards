@@ -68,10 +68,10 @@ EAGLE_id:
 end_time: http://www.wikidata.org/.well-known/genid/4fb801ba8c9f6c8f6758c284f6b841f2
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vergilius%20romanus%20234v.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~culture,11042|WD~culture,11042]]'
-- '[[_Standards/WikiData/WD~archaeological_culture,465299|WD~archaeological_culture,465299]]'
-- '[[_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Late_antiquity,10968580|WD~Portal_Late_antiquity,10968580]]'
+- '[[/_Standards/WikiData/WD~culture,11042|WD~culture,11042]]'
+- '[[/_Standards/WikiData/WD~archaeological_culture,465299|WD~archaeological_culture,465299]]'
+- '[[/_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]'
+topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Late_antiquity,10968580|WD~Portal_Late_antiquity,10968580]]'
 dv_has_:
   duration_: P500Y
   name_:

@@ -96,18 +96,18 @@ aliases:
 - 농촌
 has_id_wikidata: Q175185
 subclass_of:
-- '[[_Standards/WikiData/WD~region,82794|WD~region,82794]]'
-- '[[_Standards/WikiData/WD~human_settlement,486972|WD~human_settlement,486972]]'
-- '[[_Standards/WikiData/WD~geographic_location,2221906|WD~geographic_location,2221906]]'
+- '[[/_Standards/WikiData/WD~region,82794|WD~region,82794]]'
+- '[[/_Standards/WikiData/WD~human_settlement,486972|WD~human_settlement,486972]]'
+- '[[/_Standards/WikiData/WD~geographic_location,2221906|WD~geographic_location,2221906]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~lieu_dit,181307|WD~lieu_dit,181307]]'
-- '[[_Standards/WikiData/WD~field,188869|WD~field,188869]]'
-- '[[_Standards/WikiData/WD~village,532|WD~village,532]]'
-opposite_of: '[[_Standards/WikiData/WD~urban_area,702492|WD~urban_area,702492]]'
-has_characteristic: '[[_Standards/WikiData/WD~rurality,7380600|WD~rurality,7380600]]'
+- '[[/_Standards/WikiData/WD~lieu_dit,181307|WD~lieu_dit,181307]]'
+- '[[/_Standards/WikiData/WD~field,188869|WD~field,188869]]'
+- '[[/_Standards/WikiData/WD~village,532|WD~village,532]]'
+opposite_of: '[[/_Standards/WikiData/WD~urban_area,702492|WD~urban_area,702492]]'
+has_characteristic: '[[/_Standards/WikiData/WD~rurality,7380600|WD~rurality,7380600]]'
 studied_by:
-- '[[_Standards/WikiData/WD~rural_geography,11523535|WD~rural_geography,11523535]]'
-- '[[_Standards/WikiData/WD~rural_social_sciences,116250315|WD~rural_social_sciences,116250315]]'
+- '[[/_Standards/WikiData/WD~rural_geography,11523535|WD~rural_geography,11523535]]'
+- '[[/_Standards/WikiData/WD~rural_social_sciences,116250315|WD~rural_social_sciences,116250315]]'
 OmegaWiki_Defined_Meaning: 5697
 Commons_category: Countryside
 U_S_National_Archives_Identifier: 10641774
@@ -247,7 +247,7 @@ dv_has_:
 
 # [[Rural_Area]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Rural_area,175185|WD~Rural_area,175185]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Rural_area,175185|WD~Rural_area,175185]] 
 
 ## #has_/text_of_/abstract 
 

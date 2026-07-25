@@ -49,10 +49,10 @@ aliases:
 - 義大利戰役
 - 이탈리아 전선 (제1차 세계 대전)
 has_id_wikidata: Q659745
-instance_of: '[[_Standards/WikiData/WD~war_front,842332|WD~war_front,842332]]'
+instance_of: '[[/_Standards/WikiData/WD~war_front,842332|WD~war_front,842332]]'
 location:
-- '[[_Standards/WikiData/WD~Venetian_Plain,2309448|WD~Venetian_Plain,2309448]]'
-- '[[_Standards/WikiData/WD~Eastern_Alps,63817|WD~Eastern_Alps,63817]]'
+- '[[/_Standards/WikiData/WD~Venetian_Plain,2309448|WD~Venetian_Plain,2309448]]'
+- '[[/_Standards/WikiData/WD~Eastern_Alps,63817|WD~Eastern_Alps,63817]]'
 Commons_category: Italian Front theatre of World War I
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Vittorio%20Veneto.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Italian%20front%20%28World%20War%20I%29.jpg
@@ -132,7 +132,7 @@ dv_has_:
 
 # [[1915-Italian_Front+1918]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Italian_front,659745|WD~Italian_front,659745]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Italian_front,659745|WD~Italian_front,659745]] 
 
 ## #has_/text_of_/abstract 
 

@@ -77,12 +77,12 @@ has_id_wikidata: Q124425
 location:
 - 15.873611
 - 48.875833
-different_from: '[[_Standards/WikiData/WD~Bamboo_Curtain,1072056|WD~Bamboo_Curtain,1072056]]'
+different_from: '[[/_Standards/WikiData/WD~Bamboo_Curtain,1072056|WD~Bamboo_Curtain,1072056]]'
 instance_of:
-- '[[_Standards/WikiData/WD~political_border,1292279|WD~political_border,1292279]]'
-- '[[_Standards/WikiData/WD~catchphrase,2708515|WD~catchphrase,2708515]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~communism,6186|WD~communism,6186]]'
-country: '[[_Standards/WikiData/WD~Czechoslovakia,33946|WD~Czechoslovakia,33946]]'
+- '[[/_Standards/WikiData/WD~political_border,1292279|WD~political_border,1292279]]'
+- '[[/_Standards/WikiData/WD~catchphrase,2708515|WD~catchphrase,2708515]]'
+religion_or_worldview: '[[/_Standards/WikiData/WD~communism,6186|WD~communism,6186]]'
+country: '[[/_Standards/WikiData/WD~Czechoslovakia,33946|WD~Czechoslovakia,33946]]'
 name: Iron Curtain
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Iron%20Curtain.ogg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Iron%20Curtain%20map.svg
@@ -206,7 +206,7 @@ dv_has_:
 ﻿
 # [[1945-Iron_Curtain-1991]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Iron_Curtain,124425|WD~Iron_Curtain,124425]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Iron_Curtain,124425|WD~Iron_Curtain,124425]] 
 
 ## #has_/text_of_/abstract 
 

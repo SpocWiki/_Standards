@@ -115,18 +115,18 @@ tags:
 title: is_a_drawing Class
 type: Type
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-fabrication_method: '[[_Standards/WikiData/WD~art_of_drawing,2921001|WD~art_of_drawing,2921001]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+fabrication_method: '[[/_Standards/WikiData/WD~art_of_drawing,2921001|WD~art_of_drawing,2921001]]'
 different_from:
-- '[[_Standards/WikiData/WD~art_of_drawing,2921001|WD~art_of_drawing,2921001]]'
-- '[[_Standards/WikiData/WD~painting,3305213|WD~painting,3305213]]'
-- '[[_Standards/WikiData/WD~art_of_painting,11629|WD~art_of_painting,11629]]'
+- '[[/_Standards/WikiData/WD~art_of_drawing,2921001|WD~art_of_drawing,2921001]]'
+- '[[/_Standards/WikiData/WD~painting,3305213|WD~painting,3305213]]'
+- '[[/_Standards/WikiData/WD~art_of_painting,11629|WD~art_of_painting,11629]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~artificial_physical_object,8205328|WD~artificial_physical_object,8205328]]'
-- '[[_Standards/WikiData/WD~two_dimensional_visual_artwork,110304307|WD~two_dimensional_visual_artwork,110304307]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Drawing,19369096|WD~Portal_Drawing,19369096]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_work_of_art,116474095|WD~type_of_work_of_art,116474095]]'
+- '[[/_Standards/WikiData/WD~artificial_physical_object,8205328|WD~artificial_physical_object,8205328]]'
+- '[[/_Standards/WikiData/WD~two_dimensional_visual_artwork,110304307|WD~two_dimensional_visual_artwork,110304307]]'
+topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Drawing,19369096|WD~Portal_Drawing,19369096]]'
+instance_of: '[[/_Standards/WikiData/WD~type_of_work_of_art,116474095|WD~type_of_work_of_art,116474095]]'
 IAB_code: 251
 Nomenclature_for_Museum_Cataloging: 12903
 IMDb_keyword: drawing

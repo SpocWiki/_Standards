@@ -149,25 +149,25 @@ tags:
 title: is_a_short_story Class
 type: Type
 different_from:
-- '[[_Standards/WikiData/WD~novella,149537|WD~novella,149537]]'
-- '[[_Standards/WikiData/WD~narration,3328821|WD~narration,3328821]]'
-- '[[_Standards/WikiData/WD~short_short_story,6678252|WD~short_short_story,6678252]]'
-- '[[_Standards/WikiData/WD~Erzählung,27036528|WD~Erzählung,27036528]]'
-- '[[_Standards/WikiData/WD~novella,43334491|WD~novella,43334491]]'
-studied_by: '[[_Standards/WikiData/WD~literary_studies,208217|WD~literary_studies,208217]]'
+- '[[/_Standards/WikiData/WD~novella,149537|WD~novella,149537]]'
+- '[[/_Standards/WikiData/WD~narration,3328821|WD~narration,3328821]]'
+- '[[/_Standards/WikiData/WD~short_short_story,6678252|WD~short_short_story,6678252]]'
+- '[[/_Standards/WikiData/WD~Erzählung,27036528|WD~Erzählung,27036528]]'
+- '[[/_Standards/WikiData/WD~novella,43334491|WD~novella,43334491]]'
+studied_by: '[[/_Standards/WikiData/WD~literary_studies,208217|WD~literary_studies,208217]]'
 described_by_source:
 - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[/_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~narration,3328821|WD~narration,3328821]]'
-- '[[_Standards/WikiData/WD~work_of_fiction,87482979|WD~work_of_fiction,87482979]]'
-- '[[_Standards/WikiData/WD~prose,676|WD~prose,676]]'
-instance_of: '[[_Standards/WikiData/WD~literary_form,4263830|WD~literary_form,4263830]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_short_story,6209339|WD~Template_Infobox_short_story,6209339]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q9479889,9479889|WD~Q9479889,9479889]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Narration,60007664|WD~WikiProject_Narration,60007664]]'
-has_characteristic: '[[_Standards/WikiData/WD~short_story_award,136724856|WD~short_story_award,136724856]]'
+- '[[/_Standards/WikiData/WD~narration,3328821|WD~narration,3328821]]'
+- '[[/_Standards/WikiData/WD~work_of_fiction,87482979|WD~work_of_fiction,87482979]]'
+- '[[/_Standards/WikiData/WD~prose,676|WD~prose,676]]'
+instance_of: '[[/_Standards/WikiData/WD~literary_form,4263830|WD~literary_form,4263830]]'
+topic_has_template: '[[/_Standards/WikiData/WD~Template_Infobox_short_story,6209339|WD~Template_Infobox_short_story,6209339]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Q9479889,9479889|WD~Q9479889,9479889]]'
+on_focus_list_of_Wikimedia_project: '[[/_Standards/WikiData/WD~WikiProject_Narration,60007664|WD~WikiProject_Narration,60007664]]'
+has_characteristic: '[[/_Standards/WikiData/WD~short_story_award,136724856|WD~short_story_award,136724856]]'
 OmegaWiki_Defined_Meaning: 759121
 U_S_National_Archives_Identifier: 10629824
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Es-Cuento-article.ogg

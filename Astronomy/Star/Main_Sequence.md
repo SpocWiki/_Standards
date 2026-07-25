@@ -64,10 +64,10 @@ aliases:
 - 主系列星
 - 주계열
 has_id_wikidata: Q3450
-part_of: '[[_Standards/WikiData/WD~Hertzsprung_Russell_diagram,3270143|WD~Hertzsprung_Russell_diagram,3270143]]'
-followed_by: '[[_Standards/WikiData/WD~subgiant,6227|WD~subgiant,6227]]'
-subclass_of: '[[_Standards/WikiData/WD~stellar_evolution,6472|WD~stellar_evolution,6472]]'
-instance_of: '[[_Standards/WikiData/WD~stellar_evolution,6472|WD~stellar_evolution,6472]]'
+part_of: '[[/_Standards/WikiData/WD~Hertzsprung_Russell_diagram,3270143|WD~Hertzsprung_Russell_diagram,3270143]]'
+followed_by: '[[/_Standards/WikiData/WD~subgiant,6227|WD~subgiant,6227]]'
+subclass_of: '[[/_Standards/WikiData/WD~stellar_evolution,6472|WD~stellar_evolution,6472]]'
+instance_of: '[[/_Standards/WikiData/WD~stellar_evolution,6472|WD~stellar_evolution,6472]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/HRDiagram.png
 Commons_category: Main-sequence stars
 dv_is_:
@@ -173,7 +173,7 @@ dv_has_:
 
 # [[Main_Sequence]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Main_sequence,3450|WD~Main_sequence,3450]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Main_sequence,3450|WD~Main_sequence,3450]] 
 
 ## #has_/text_of_/abstract 
 

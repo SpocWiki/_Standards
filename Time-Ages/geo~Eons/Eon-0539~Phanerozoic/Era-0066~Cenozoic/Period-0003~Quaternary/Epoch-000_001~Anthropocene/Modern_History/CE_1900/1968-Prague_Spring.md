@@ -67,14 +67,14 @@ aliases:
 - 布拉格之春
 - 프라하의 봄
 has_id_wikidata: Q162401
-organizer: '[[_Standards/WikiData/WD~Communist_Party_of_Czechoslovakia,727724|WD~Communist_Party_of_Czechoslovakia,727724]]'
+organizer: '[[/_Standards/WikiData/WD~Communist_Party_of_Czechoslovakia,727724|WD~Communist_Party_of_Czechoslovakia,727724]]'
 instance_of:
-- '[[_Standards/WikiData/WD~social_change,1510761|WD~social_change,1510761]]'
-- '[[_Standards/WikiData/WD~historical_event,13418847|WD~historical_event,13418847]]'
-part_of: '[[_Standards/WikiData/WD~history_of_Czechoslovakia,1517186|WD~history_of_Czechoslovakia,1517186]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Encyclopedia_of_Cyril_and_Methodius,4091875|WD~Great_Encyclopedia_of_Cyril_and_Methodius,4091875]]'
-named_after: '[[_Standards/WikiData/WD~Prague,1085|WD~Prague,1085]]'
-location: '[[_Standards/WikiData/WD~Czechoslovakia,33946|WD~Czechoslovakia,33946]]'
+- '[[/_Standards/WikiData/WD~social_change,1510761|WD~social_change,1510761]]'
+- '[[/_Standards/WikiData/WD~historical_event,13418847|WD~historical_event,13418847]]'
+part_of: '[[/_Standards/WikiData/WD~history_of_Czechoslovakia,1517186|WD~history_of_Czechoslovakia,1517186]]'
+described_by_source: '[[/_Standards/WikiData/WD~Great_Encyclopedia_of_Cyril_and_Methodius,4091875|WD~Great_Encyclopedia_of_Cyril_and_Methodius,4091875]]'
+named_after: '[[/_Standards/WikiData/WD~Prague,1085|WD~Prague,1085]]'
+location: '[[/_Standards/WikiData/WD~Czechoslovakia,33946|WD~Czechoslovakia,33946]]'
 BHCL_UUID: 1c0b0a85-8530-4bc8-a621-b2940743ba29
 point_in_time: 1968-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/10%20Soviet%20Invasion%20of%20Czechoslovakia%20-%20Flickr%20-%20The%20Central%20Intelligence%20Agency.jpg
@@ -191,7 +191,7 @@ dv_has_:
 
 # [[1968-Prague_Spring]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Prague_Spring,162401|WD~Prague_Spring,162401]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Prague_Spring,162401|WD~Prague_Spring,162401]] 
 
 ## #has_/text_of_/abstract 
 

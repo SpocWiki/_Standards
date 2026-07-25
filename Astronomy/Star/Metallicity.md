@@ -46,11 +46,11 @@ aliases:
 - 金屬量
 - 중원소 함량
 has_id_wikidata: Q217030
-subclass_of: '[[_Standards/WikiData/WD~dimensionless_quantity,126818|WD~dimensionless_quantity,126818]]'
-instance_of: '[[_Standards/WikiData/WD~physical_property,4373292|WD~physical_property,4373292]]'
+subclass_of: '[[/_Standards/WikiData/WD~dimensionless_quantity,126818|WD~dimensionless_quantity,126818]]'
+instance_of: '[[/_Standards/WikiData/WD~physical_property,4373292|WD~physical_property,4373292]]'
 different_from:
-- '[[_Standards/WikiData/WD~metallism,6822850|WD~metallism,6822850]]'
-- '[[_Standards/WikiData/WD~metal,11426|WD~metal,11426]]'
+- '[[/_Standards/WikiData/WD~metallism,6822850|WD~metallism,6822850]]'
+- '[[/_Standards/WikiData/WD~metal,11426|WD~metal,11426]]'
 Wikidata_property: metallicity
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>1</mn></mstyle></mrow></math>
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20Swarm%20of%20Ancient%20Stars%20-%20GPN-2000-000930.jpg
@@ -142,7 +142,7 @@ dv_has_:
 
 # [[Metallicity]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Metallicity,217030|WD~Metallicity,217030]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Metallicity,217030|WD~Metallicity,217030]] 
 
 ## #has_/text_of_/abstract 
 

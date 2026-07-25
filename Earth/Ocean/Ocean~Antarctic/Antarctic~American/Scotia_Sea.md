@@ -68,12 +68,12 @@ location:
 - -40
 coordinate_location: Point(-40.0 -57.5)
 part_of:
-- '[[_Standards/WikiData/WD~South_Atlantic_Ocean,1482804|WD~South_Atlantic_Ocean,1482804]]'
-- '[[_Standards/WikiData/WD~Southern_Ocean,7354|WD~Southern_Ocean,7354]]'
-named_after: '[[_Standards/WikiData/WD~Scotia,20744156|WD~Scotia,20744156]]'
-instance_of: '[[_Standards/WikiData/WD~sea,165|WD~sea,165]]'
+- '[[/_Standards/WikiData/WD~South_Atlantic_Ocean,1482804|WD~South_Atlantic_Ocean,1482804]]'
+- '[[/_Standards/WikiData/WD~Southern_Ocean,7354|WD~Southern_Ocean,7354]]'
+named_after: '[[/_Standards/WikiData/WD~Scotia,20744156|WD~Scotia,20744156]]'
+instance_of: '[[/_Standards/WikiData/WD~sea,165|WD~sea,165]]'
 area: 900000
-basin_country: '[[_Standards/WikiData/WD~South_Georgia_and_the_South_Sandwich_Islands,35086|WD~South_Georgia_and_the_South_Sandwich_Islands,35086]]'
+basin_country: '[[/_Standards/WikiData/WD~South_Georgia_and_the_South_Sandwich_Islands,35086|WD~South_Georgia_and_the_South_Sandwich_Islands,35086]]'
 vertical_depth: 5840
 Commons_category: Scotia Sea
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Scotia%20Sea%201996.jpg
@@ -188,7 +188,7 @@ dv_has_:
 
 # [[Scotia_Sea]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Scotia_Sea,204703|WD~Scotia_Sea,204703]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Scotia_Sea,204703|WD~Scotia_Sea,204703]] 
 
 ## #has_/text_of_/abstract 
 

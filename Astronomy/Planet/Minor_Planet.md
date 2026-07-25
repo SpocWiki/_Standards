@@ -64,20 +64,20 @@ aliases:
 - 微型行星
 - 소행성체
 has_id_wikidata: Q1022867
-studied_by: '[[_Standards/WikiData/WD~planetary_science,104499|WD~planetary_science,104499]]'
-part_of: '[[_Standards/WikiData/WD~planetary_system,206717|WD~planetary_system,206717]]'
+studied_by: '[[/_Standards/WikiData/WD~planetary_science,104499|WD~planetary_science,104499]]'
+part_of: '[[/_Standards/WikiData/WD~planetary_system,206717|WD~planetary_system,206717]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664|WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
-subclass_of: '[[_Standards/WikiData/WD~substellar_object,3132741|WD~substellar_object,3132741]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_asteroid,7486740|WD~Template_Infobox_asteroid,7486740]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[/_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664|WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
+subclass_of: '[[/_Standards/WikiData/WD~substellar_object,3132741|WD~substellar_object,3132741]]'
+topic_has_template: '[[/_Standards/WikiData/WD~Template_Infobox_asteroid,7486740|WD~Template_Infobox_asteroid,7486740]]'
+instance_of: '[[/_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
 properties_for_this_type: asteroid family
 different_from:
-- '[[_Standards/WikiData/WD~dwarf_planet,2199|WD~dwarf_planet,2199]]'
-- '[[_Standards/WikiData/WD~asteroid,3863|WD~asteroid,3863]]'
-has_list: '[[_Standards/WikiData/WD~list_of_minor_planets,37651|WD~list_of_minor_planets,37651]]'
+- '[[/_Standards/WikiData/WD~dwarf_planet,2199|WD~dwarf_planet,2199]]'
+- '[[/_Standards/WikiData/WD~asteroid,3863|WD~asteroid,3863]]'
+has_list: '[[/_Standards/WikiData/WD~list_of_minor_planets,37651|WD~list_of_minor_planets,37651]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ceres%20Earth%20Moon%20Comparison.png
 exact_match: http://purl.obolibrary.org/obo/ENVO_01000809
 UMLS_CUI: C0242763
@@ -191,7 +191,7 @@ dv_has_:
 
 # [[Minor_Planet]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Minor_planet,1022867|WD~Minor_planet,1022867]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Minor_planet,1022867|WD~Minor_planet,1022867]] 
 #is_/similar_to :: [[Dwarf_Planet]] 
 
 ## #has_/text_of_/abstract 

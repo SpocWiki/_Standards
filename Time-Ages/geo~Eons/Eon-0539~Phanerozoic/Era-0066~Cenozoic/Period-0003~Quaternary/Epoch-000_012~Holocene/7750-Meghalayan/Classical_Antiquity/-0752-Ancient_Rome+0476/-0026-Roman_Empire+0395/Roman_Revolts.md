@@ -42,8 +42,8 @@ aliases:
 - 罗马内战
 - 로마의 내전
 has_id_wikidata: Q1747183
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Roman_civil_wars,7708534|WD~Category_Roman_civil_wars,7708534]]'
-instance_of: '[[_Standards/WikiData/WD~Wikimedia_list_article,13406463|WD~Wikimedia_list_article,13406463]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Roman_civil_wars,7708534|WD~Category_Roman_civil_wars,7708534]]'
+instance_of: '[[/_Standards/WikiData/WD~Wikimedia_list_article,13406463|WD~Wikimedia_list_article,13406463]]'
 end_time: 0476-01-01T00:00:00Z
 Commons_category: Roman civil wars
 start_time: -0508-01-01T00:00:00Z
@@ -111,7 +111,7 @@ dv_has_:
 
 # [[Roman_Revolts]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~List_of_Roman_civil_wars_and_revolts,1747183|WD~List_of_Roman_civil_wars_and_revolts,1747183]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~List_of_Roman_civil_wars_and_revolts,1747183|WD~List_of_Roman_civil_wars_and_revolts,1747183]] 
 
 ## #has_/text_of_/abstract 
 

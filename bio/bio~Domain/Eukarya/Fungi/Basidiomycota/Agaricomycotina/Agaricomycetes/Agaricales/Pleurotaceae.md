@@ -18,9 +18,9 @@ aliases:
 - 側耳科
 - 느타리과
 has_id_wikidata: Q7319414
-parent_taxon: '[[_Standards/WikiData/WD~Agaricales,221448|WD~Agaricales,221448]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
+parent_taxon: '[[/_Standards/WikiData/WD~Agaricales,221448|WD~Agaricales,221448]]'
+instance_of: '[[/_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[/_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 ITIS_TSN: 936534
 taxon_author_citation: Kühner
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Austernseitling-1.jpg
@@ -84,7 +84,7 @@ dv_has_:
 
 # [[Pleurotaceae]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pleurotaceae,7319414|WD~Pleurotaceae,7319414]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Pleurotaceae,7319414|WD~Pleurotaceae,7319414]] 
 
 ## #has_/text_of_/abstract 
 

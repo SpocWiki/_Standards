@@ -4,27 +4,27 @@ aliases:
   - Krakatau
 has_id_wikidata: Q82613
 instance_of:
-  - "[[_Standards/WikiData/WD~caldera,159954]]"
-  - "[[_Standards/WikiData/WD~former_island,52103661]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Greater_Sunda_Islands,165481]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Sunda_Strait,192790]]"
+  - "[[/_Standards/WikiData/WD~caldera,159954]]"
+  - "[[/_Standards/WikiData/WD~former_island,52103661]]"
+located_in_on_physical_feature: "[[/_Standards/WikiData/WD~Greater_Sunda_Islands,165481]]"
+located_in_or_next_to_body_of_water: "[[/_Standards/WikiData/WD~Sunda_Strait,192790]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+  - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[/_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+  - "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 replaced_by:
-  - "[[_Standards/WikiData/WD~Krakatau_Island,1245622]]"
-  - "[[_Standards/WikiData/WD~Anak_Krakatau_Island,2205302]]"
-different_from: "[[_Standards/WikiData/WD~Krakatau,2174706]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Krakatoa,7310360]]"
-significant_event: "[[_Standards/WikiData/WD~volcanic_eruption,7692360]]"
-category_for_maps_or_plans: "[[_Standards/WikiData/WD~Category_Maps_of_Krakatoa,84055632]]"
-located_in_protected_area: "[[_Standards/WikiData/WD~Pulau_Anak_Krakatau_natural_reserve,104546015]]"
+  - "[[/_Standards/WikiData/WD~Krakatau_Island,1245622]]"
+  - "[[/_Standards/WikiData/WD~Anak_Krakatau_Island,2205302]]"
+different_from: "[[/_Standards/WikiData/WD~Krakatau,2174706]]"
+topic_s_main_category: "[[/_Standards/WikiData/WD~Category_Krakatoa,7310360]]"
+significant_event: "[[/_Standards/WikiData/WD~volcanic_eruption,7692360]]"
+category_for_maps_or_plans: "[[/_Standards/WikiData/WD~Category_Maps_of_Krakatoa,84055632]]"
+located_in_protected_area: "[[/_Standards/WikiData/WD~Pulau_Anak_Krakatau_natural_reserve,104546015]]"
 coordinate_location: Point(105.423 -6.102)
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+07_00,6940]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~South_Lampung,8147]]"
-country: "[[_Standards/WikiData/WD~Indonesia,252]]"
+located_in_time_zone: "[[/_Standards/WikiData/WD~UTC+07_00,6940]]"
+located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~South_Lampung,8147]]"
+country: "[[/_Standards/WikiData/WD~Indonesia,252]]"
 elevation_above_sea_level: 813
 topographic_prominence: 814
 topographic_isolation: 21.71

@@ -92,15 +92,15 @@ aliases:
 - 경쟁
 has_id_wikidata: Q476300
 opposite_of:
-- '[[_Standards/WikiData/WD~cooperation,380962|WD~cooperation,380962]]'
-- '[[_Standards/WikiData/WD~mutual_aid,766238|WD~mutual_aid,766238]]'
+- '[[/_Standards/WikiData/WD~cooperation,380962|WD~cooperation,380962]]'
+- '[[/_Standards/WikiData/WD~mutual_aid,766238|WD~mutual_aid,766238]]'
 different_from:
-- '[[_Standards/WikiData/WD~competition,841654|WD~competition,841654]]'
-- '[[_Standards/WikiData/WD~competition,23807345|WD~competition,23807345]]'
+- '[[/_Standards/WikiData/WD~competition,841654|WD~competition,841654]]'
+- '[[/_Standards/WikiData/WD~competition,23807345|WD~competition,23807345]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~rivalry,1139327|WD~rivalry,1139327]]'
-- '[[_Standards/WikiData/WD~interaction,52948|WD~interaction,52948]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_interaction,123345464|WD~type_of_interaction,123345464]]'
+- '[[/_Standards/WikiData/WD~rivalry,1139327|WD~rivalry,1139327]]'
+- '[[/_Standards/WikiData/WD~interaction,52948|WD~interaction,52948]]'
+instance_of: '[[/_Standards/WikiData/WD~type_of_interaction,123345464|WD~type_of_interaction,123345464]]'
 properties_for_this_type: participant
 OmegaWiki_Defined_Meaning: 692
 Commons_category: Competitions

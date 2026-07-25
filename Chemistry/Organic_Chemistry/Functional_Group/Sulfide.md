@@ -36,10 +36,10 @@ aliases:
 - 硫化物
 - 황화물
 has_id_wikidata: Q221205
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Sulfides,7032503|WD~Category_Sulfides,7032503]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
-subclass_of: '[[_Standards/WikiData/WD~sulfur_compound,72073013|WD~sulfur_compound,72073013]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862|WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Sulfides,7032503|WD~Category_Sulfides,7032503]]'
+instance_of: '[[/_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
+subclass_of: '[[/_Standards/WikiData/WD~sulfur_compound,72073013|WD~sulfur_compound,72073013]]'
+described_by_source: '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862|WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
 RxNorm_CUI: 1368379
 MeSH_tree_code:
 - D01.248.497.158.874
@@ -47,7 +47,7 @@ MeSH_tree_code:
 - D02.886.520
 Commons_category: Sulfides
 dv_is_:
-  same_as: '[[_Standards/WikiData/WD~Sulfide,221205|WD~Sulfide,221205]]'
+  same_as: '[[/_Standards/WikiData/WD~Sulfide,221205|WD~Sulfide,221205]]'
 dv_has_:
   formula_:
     structural: R-S-R'
@@ -111,7 +111,7 @@ dv_has_:
     zh_hk: 硫化物
     zh_sg: 硫化物
     zh_tw: 硫化物
-dv_is_same_as: '[[_Standards/WikiData/WD~Sulfide,221205|WD~Sulfide,221205]]'
+dv_is_same_as: '[[/_Standards/WikiData/WD~Sulfide,221205|WD~Sulfide,221205]]'
 dv_has_formula_structural: R-S-R'
 ---
 

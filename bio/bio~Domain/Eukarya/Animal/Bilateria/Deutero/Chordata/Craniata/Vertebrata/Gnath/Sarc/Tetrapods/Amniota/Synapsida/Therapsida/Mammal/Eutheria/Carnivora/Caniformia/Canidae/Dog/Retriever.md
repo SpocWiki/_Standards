@@ -30,9 +30,9 @@ aliases:
 - 리트리버
 has_id_wikidata: Q39017
 instance_of:
-- '[[_Standards/WikiData/WD~type_of_hunting_dog,137222993|WD~type_of_hunting_dog,137222993]]'
-- '[[_Standards/WikiData/WD~dog_type,38672|WD~dog_type,38672]]'
-subclass_of: '[[_Standards/WikiData/WD~dog,144|WD~dog,144]]'
+- '[[/_Standards/WikiData/WD~type_of_hunting_dog,137222993|WD~type_of_hunting_dog,137222993]]'
+- '[[/_Standards/WikiData/WD~dog_type,38672|WD~dog_type,38672]]'
+subclass_of: '[[/_Standards/WikiData/WD~dog,144|WD~dog,144]]'
 Commons_category: Retrievers
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/A%20retriever%20NLW3363265.jpg
@@ -85,7 +85,7 @@ dv_has_:
 
 # [[Retriever]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Retriever,39017|WD~Retriever,39017]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Retriever,39017|WD~Retriever,39017]] 
 
 ## #has_/text_of_/abstract 
 

@@ -3,8 +3,8 @@ aliases:
   - Prentententoonstelling
   - Print Gallery
 has_id_wikidata: Q7245255
-instance_of: "[[_Standards/WikiData/WD~lithograph_print,15123870]]"
-creator: "[[_Standards/WikiData/WD~M._C._Escher,1470]]"
+instance_of: "[[/_Standards/WikiData/WD~lithograph_print,15123870]]"
+creator: "[[/_Standards/WikiData/WD~M._C._Escher,1470]]"
 ---
 
 # [[Print_Gallery(Escher)]]

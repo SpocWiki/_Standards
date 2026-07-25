@@ -23,14 +23,14 @@ aliases:
 - 羅德階
 has_id_wikidata: Q1051453
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-named_after: '[[_Standards/WikiData/WD~Road_Canyon_Formation,18158681|WD~Road_Canyon_Formation,18158681]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_after: '[[/_Standards/WikiData/WD~Road_Canyon_Formation,18158681|WD~Road_Canyon_Formation,18158681]]'
 named_by:
-- '[[_Standards/WikiData/WD~Brian_Frederick_Glenister,20739197|WD~Brian_Frederick_Glenister,20739197]]'
-- '[[_Standards/WikiData/WD~William_M._Furnish,24844363|WD~William_M._Furnish,24844363]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Roadian,134443956|WD~GSSP_for_the_base_of_the_Roadian,134443956]]'
+- '[[/_Standards/WikiData/WD~Brian_Frederick_Glenister,20739197|WD~Brian_Frederick_Glenister,20739197]]'
+- '[[/_Standards/WikiData/WD~William_M._Furnish,24844363|WD~William_M._Furnish,24844363]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_the_Roadian,134443956|WD~GSSP_for_the_base_of_the_Roadian,134443956]]'
 coordinate_location: Point(-104.877 31.8767)
 sRGB_color_hex_triplet: FE8E72
 Commons_category: Roadian
@@ -84,7 +84,7 @@ dv_has_:
     stopped: -266.90e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Roadian,1051453|WD~Roadian,1051453]]'
+  - '[[/_Standards/WikiData/WD~Roadian,1051453|WD~Roadian,1051453]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian|Age~1~Roadian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian.public|Age~1~Roadian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian.internal|Age~1~Roadian.internal]]'
@@ -96,7 +96,7 @@ dv_has_duration_years: 6.110e+6
 dv_has_previous_item: '[[../Epoch-298~Cisuralian/Age~4~Kungurian|Age~4~Kungurian]]'
 dv_has_next_item: '[[Age~2~Wordian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Roadian,1051453|WD~Roadian,1051453]]'
+- '[[/_Standards/WikiData/WD~Roadian,1051453|WD~Roadian,1051453]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian|Age~1~Roadian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian.public|Age~1~Roadian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~1~Roadian.internal|Age~1~Roadian.internal]]'
@@ -138,7 +138,7 @@ dv_has_text_of_color: 0xFB8069
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Roadian,1051453|WD~Roadian,1051453]]  
+#is_/same_as :: [[/_Standards/WikiData/WD~Roadian,1051453|WD~Roadian,1051453]]  
 
 A time period from 273.01 to 266.9 million years ago. 
 

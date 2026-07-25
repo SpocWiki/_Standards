@@ -109,27 +109,27 @@ location:
 - 76.0
 - 125.0
 inflows:
-- '[[_Standards/WikiData/WD~Anabar,82187|WD~Anabar,82187]]'
-- '[[_Standards/WikiData/WD~Khara_Ulakh,1108355|WD~Khara_Ulakh,1108355]]'
-- '[[_Standards/WikiData/WD~Omoloy,1416354|WD~Omoloy,1416354]]'
-- '[[_Standards/WikiData/WD~Chondon,2573766|WD~Chondon,2573766]]'
-- '[[_Standards/WikiData/WD~Dzhagaryn,3717049|WD~Dzhagaryn,3717049]]'
-- '[[_Standards/WikiData/WD~Muksunuokha,3866978|WD~Muksunuokha,3866978]]'
-- '[[_Standards/WikiData/WD~Sanga_Jurjach,3948363|WD~Sanga_Jurjach,3948363]]'
-- '[[_Standards/WikiData/WD~Sellyakh,3954920|WD~Sellyakh,3954920]]'
-- '[[_Standards/WikiData/WD~Uele,4006860|WD~Uele,4006860]]'
-- '[[_Standards/WikiData/WD~Bludnaya,12082974|WD~Bludnaya,12082974]]'
-- '[[_Standards/WikiData/WD~Lena_River,46841|WD~Lena_River,46841]]'
-instance_of: '[[_Standards/WikiData/WD~marginal_sea,204894|WD~marginal_sea,204894]]'
+- '[[/_Standards/WikiData/WD~Anabar,82187|WD~Anabar,82187]]'
+- '[[/_Standards/WikiData/WD~Khara_Ulakh,1108355|WD~Khara_Ulakh,1108355]]'
+- '[[/_Standards/WikiData/WD~Omoloy,1416354|WD~Omoloy,1416354]]'
+- '[[/_Standards/WikiData/WD~Chondon,2573766|WD~Chondon,2573766]]'
+- '[[/_Standards/WikiData/WD~Dzhagaryn,3717049|WD~Dzhagaryn,3717049]]'
+- '[[/_Standards/WikiData/WD~Muksunuokha,3866978|WD~Muksunuokha,3866978]]'
+- '[[/_Standards/WikiData/WD~Sanga_Jurjach,3948363|WD~Sanga_Jurjach,3948363]]'
+- '[[/_Standards/WikiData/WD~Sellyakh,3954920|WD~Sellyakh,3954920]]'
+- '[[/_Standards/WikiData/WD~Uele,4006860|WD~Uele,4006860]]'
+- '[[/_Standards/WikiData/WD~Bludnaya,12082974|WD~Bludnaya,12082974]]'
+- '[[/_Standards/WikiData/WD~Lena_River,46841|WD~Lena_River,46841]]'
+instance_of: '[[/_Standards/WikiData/WD~marginal_sea,204894|WD~marginal_sea,204894]]'
 named_after:
-- '[[_Standards/WikiData/WD~Dmitry_Laptev,467626|WD~Dmitry_Laptev,467626]]'
-- '[[_Standards/WikiData/WD~Khariton_Laptev,724263|WD~Khariton_Laptev,724263]]'
+- '[[/_Standards/WikiData/WD~Dmitry_Laptev,467626|WD~Dmitry_Laptev,467626]]'
+- '[[/_Standards/WikiData/WD~Khariton_Laptev,724263|WD~Khariton_Laptev,724263]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Q35541239,35541239|WD~Q35541239,35541239]]'
-part_of: '[[_Standards/WikiData/WD~Arctic_Ocean,788|WD~Arctic_Ocean,788]]'
-basin_country: '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
-country: '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[/_Standards/WikiData/WD~Q35541239,35541239|WD~Q35541239,35541239]]'
+part_of: '[[/_Standards/WikiData/WD~Arctic_Ocean,788|WD~Arctic_Ocean,788]]'
+basin_country: '[[/_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+country: '[[/_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
 area: 700000
 perimeter: 1300
 vertical_depth: 3385
@@ -247,7 +247,7 @@ dv_has_:
 
 # [[Laptev_Sea]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Laptev_Sea,7988|WD~Laptev_Sea,7988]]  
+#is_/same_as :: [[/_Standards/WikiData/WD~Laptev_Sea,7988|WD~Laptev_Sea,7988]]  
 
 ## #has_/map 
 

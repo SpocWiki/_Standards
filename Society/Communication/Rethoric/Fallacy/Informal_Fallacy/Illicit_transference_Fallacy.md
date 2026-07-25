@@ -10,7 +10,7 @@ aliases:
 - 分布謬誤
 - 分布谬误
 has_id_wikidata: Q2911615
-subclass_of: '[[_Standards/WikiData/WD~informal_fallacy,3312438|WD~informal_fallacy,3312438]]'
+subclass_of: '[[/_Standards/WikiData/WD~informal_fallacy,3312438|WD~informal_fallacy,3312438]]'
 dv_has_:
   name_:
     en: fallacy of distribution
@@ -27,7 +27,7 @@ dv_has_:
 
 # [[Illicit_transference_Fallacy]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Illicit_transference,2911615|WD~Illicit_transference,2911615]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Illicit_transference,2911615|WD~Illicit_transference,2911615]] 
 
 ## #has_/text_of_/abstract 
 

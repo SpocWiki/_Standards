@@ -85,10 +85,10 @@ CAS_Registry_Number: 7429-92-7
 chemical_formula: Es
 Commons_category: Einsteinium
 Commons_gallery: Einsteinium
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+described_by_source: '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Albert_Ghiorso,468345|WD~Albert_Ghiorso,468345]]'
-- '[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973|WD~Glenn_T._Seaborg,48973]]'
+- '[[/_Standards/WikiData/WD~Albert_Ghiorso,468345|WD~Albert_Ghiorso,468345]]'
+- '[[/_Standards/WikiData/WD~Glenn_T._Seaborg,48973|WD~Glenn_T._Seaborg,48973]]'
 DSSTOX_compound_identifier: DTXCID90147796
 electronegativity: 1.3
 element_symbol: Es
@@ -96,28 +96,28 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Einsteinium.jpg
 InChI: InChI=1S/Es
 InChIKey: CKBRQZNRCSJHFT-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~synthetic_element,755992|WD~synthetic_element,755992]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+- '[[/_Standards/WikiData/WD~synthetic_element,755992|WD~synthetic_element,755992]]'
+- '[[/_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Elements,11165030|WD~WikiProject_Elements,11165030]]'
-- '[[_Standards/WikiData/WD~WikiProject_California,15785976|WD~WikiProject_California,15785976]]'
-- '[[_Standards/WikiData/WD~WikiProject_University_of_California,21831035|WD~WikiProject_University_of_California,21831035]]'
+- '[[/_Standards/WikiData/WD~WikiProject_Elements,11165030|WD~WikiProject_Elements,11165030]]'
+- '[[/_Standards/WikiData/WD~WikiProject_California,15785976|WD~WikiProject_California,15785976]]'
+- '[[/_Standards/WikiData/WD~WikiProject_University_of_California,21831035|WD~WikiProject_University_of_California,21831035]]'
 MeSH_tree_code:
 - D01.268.271.100.250
 - D01.268.556.244
 - D01.496.749.305.100.250
 - D01.552.020.337
 - D01.552.544.244
-named_after: '[[_Standards/WikiData/WD~Albert_Einstein,937|WD~Albert_Einstein,937]]'
+named_after: '[[/_Standards/WikiData/WD~Albert_Einstein,937|WD~Albert_Einstein,937]]'
 OmegaWiki_Defined_Meaning: 157713
 part_of:
-- '[[_Standards/WikiData/WD~period_7,244979|WD~period_7,244979]]'
-- '[[_Standards/WikiData/WD~actinide,19577|WD~actinide,19577]]'
+- '[[/_Standards/WikiData/WD~period_7,244979|WD~period_7,244979]]'
+- '[[/_Standards/WikiData/WD~actinide,19577|WD~actinide,19577]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-einsteinium.wav
 PubChem_CID: 23913
 SpocWebEntityId: 21994
 time_of_discovery_or_invention: 1952
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_einsteinium,8085692|WD~Template_Infobox_einsteinium,8085692]]'
+topic_s_main_template: '[[/_Standards/WikiData/WD~Template_Infobox_einsteinium,8085692|WD~Template_Infobox_einsteinium,8085692]]'
 type: Element
 UMLS_CUI: C0013741
 UNII: WV8XL34X3O

@@ -81,14 +81,14 @@ aliases:
 - 日心说
 - 태양중심설
 has_id_wikidata: Q103983
-opposite_of: '[[_Standards/WikiData/WD~geocentric_model,165800|WD~geocentric_model,165800]]'
+opposite_of: '[[/_Standards/WikiData/WD~geocentric_model,165800|WD~geocentric_model,165800]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604|WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
-instance_of: '[[_Standards/WikiData/WD~scientific_theory,3239681|WD~scientific_theory,3239681]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[/_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[/_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604|WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+instance_of: '[[/_Standards/WikiData/WD~scientific_theory,3239681|WD~scientific_theory,3239681]]'
 OmegaWiki_Defined_Meaning: 666111
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Planets2013.svg
 Iconclass_notation: 4.9e+133
@@ -213,7 +213,7 @@ dv_has_:
 # [[Heliocentrism]] 
 
 is_opposite_of = `=this.dv_is_opposite_of` 
-#is_/same_as :: [[_Standards/WikiData/WD~Heliocentrism,103983|WD~Heliocentrism,103983]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Heliocentrism,103983|WD~Heliocentrism,103983]] 
 
 ## #has_/text_of_/abstract 
 

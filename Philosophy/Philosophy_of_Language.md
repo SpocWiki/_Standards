@@ -78,14 +78,14 @@ aliases:
 - 언어철학
 has_id_wikidata: Q484761
 described_by_source: '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-different_from: '[[_Standards/WikiData/WD~linguistic_philosophy,4217244|WD~linguistic_philosophy,4217244]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Philosophy_of_language,14448783|WD~Template_Philosophy_of_language,14448783]]'
-practiced_by: '[[_Standards/WikiData/WD~philosopher_of_language,18930236|WD~philosopher_of_language,18930236]]'
-instance_of: '[[_Standards/WikiData/WD~branch_of_philosophy,22811234|WD~branch_of_philosophy,22811234]]'
-is_the_study_of: '[[_Standards/WikiData/WD~language,315|WD~language,315]]'
-part_of: '[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
-subclass_of: '[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
-facet_of: '[[_Standards/WikiData/WD~linguistics,8162|WD~linguistics,8162]]'
+different_from: '[[/_Standards/WikiData/WD~linguistic_philosophy,4217244|WD~linguistic_philosophy,4217244]]'
+topic_has_template: '[[/_Standards/WikiData/WD~Template_Philosophy_of_language,14448783|WD~Template_Philosophy_of_language,14448783]]'
+practiced_by: '[[/_Standards/WikiData/WD~philosopher_of_language,18930236|WD~philosopher_of_language,18930236]]'
+instance_of: '[[/_Standards/WikiData/WD~branch_of_philosophy,22811234|WD~branch_of_philosophy,22811234]]'
+is_the_study_of: '[[/_Standards/WikiData/WD~language,315|WD~language,315]]'
+part_of: '[[/_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
+subclass_of: '[[/_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
+facet_of: '[[/_Standards/WikiData/WD~linguistics,8162|WD~linguistics,8162]]'
 Dewey_Decimal_Classification:
 - 401
 - 121.68
@@ -195,7 +195,7 @@ dv_has_:
 
 # [[Philosophy_of_Language]] 
 
-#is_/same_as  [[_Standards/WikiData/WD~Philosophy_of_language,484761|WD~Philosophy_of_language,484761]] 
+#is_/same_as  [[/_Standards/WikiData/WD~Philosophy_of_language,484761|WD~Philosophy_of_language,484761]] 
 
 ## #has_/text_of_/abstract 
 

@@ -72,24 +72,24 @@ aliases:
 has_id_wikidata: Q104168
 Commons_category: Archean
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604|WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604|WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
 - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[/_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 end_time: -2500000000
 has_time_started: -4031000000
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Archean.png
 instance_of:
-- '[[_Standards/WikiData/WD~eon,108256|WD~eon,108256]]'
-- '[[_Standards/WikiData/WD~eonothem,2669627|WD~eonothem,2669627]]'
+- '[[/_Standards/WikiData/WD~eon,108256|WD~eon,108256]]'
+- '[[/_Standards/WikiData/WD~eonothem,2669627|WD~eonothem,2669627]]'
 IPA_transcription: /ɑːrˈkiːən/
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q11039569,11039569|WD~Q11039569,11039569]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+said_to_be_the_same_as: '[[/_Standards/WikiData/WD~Q11039569,11039569|WD~Q11039569,11039569]]'
 sRGB_color_hex_triplet: F0047F
 start_time: -4031000000
-topic_s_main_template: '[[_Standards/WikiData/WD~Q100870042,100870042|WD~Q100870042,100870042]]'
+topic_s_main_template: '[[/_Standards/WikiData/WD~Q100870042,100870042|WD~Q100870042,100870042]]'
 dv_has_:
   duration_:
     years: 1.531e+9
@@ -208,7 +208,7 @@ dv_has_:
     stopped: -2.500e9
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Archean,104168|WD~Archean,104168]]'
+  - '[[/_Standards/WikiData/WD~Archean,104168|WD~Archean,104168]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-4031~Archean|Eon-4031~Archean]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-4031~Archean.public|Eon-4031~Archean.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-4031~Archean.internal|Eon-4031~Archean.internal]]'
@@ -221,7 +221,7 @@ dv_has_duration_years: 1.531e+9
 dv_has_previous_item: '[[Eon-4567~Hadean]]'
 dv_has_next_item: '[[Eon-2500~Proterozoic]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Archean,104168|WD~Archean,104168]]'
+- '[[/_Standards/WikiData/WD~Archean,104168|WD~Archean,104168]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-4031~Archean|Eon-4031~Archean]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-4031~Archean.public|Eon-4031~Archean.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-4031~Archean.internal|Eon-4031~Archean.internal]]'
@@ -269,7 +269,7 @@ has_time_stopped = `=this.dv_has_time_stopped`
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Archean,104168|WD~Archean,104168]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Archean,104168|WD~Archean,104168]] 
 
 ## #has_/text_of_/abstract 
 

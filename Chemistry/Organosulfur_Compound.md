@@ -38,10 +38,10 @@ aliases:
 - 有機硫化學
 - 有機硫黄化合物
 has_id_wikidata: Q422785
-described_by_source: '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
-different_from: '[[_Standards/WikiData/WD~organic_sulfur_compound,107392144|WD~organic_sulfur_compound,107392144]]'
-subclass_of: '[[_Standards/WikiData/WD~organic_sulfur_compound,107392144|WD~organic_sulfur_compound,107392144]]'
+described_by_source: '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+instance_of: '[[/_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
+different_from: '[[/_Standards/WikiData/WD~organic_sulfur_compound,107392144|WD~organic_sulfur_compound,107392144]]'
+subclass_of: '[[/_Standards/WikiData/WD~organic_sulfur_compound,107392144|WD~organic_sulfur_compound,107392144]]'
 Common_Procurement_Vocabulary_code: 24325000
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/SERAORGANICHESKIE_SOEDINENIYA.html
 Commons_category: Organosulfur compounds
@@ -114,7 +114,7 @@ dv_has_:
 
 # [[../Chemistry/Organosilicon_Compound|Organosilicon_Compound]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Organosulfur_compound,422785|WD~Organosulfur_compound,422785]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Organosulfur_compound,422785|WD~Organosulfur_compound,422785]] 
 
 ## #has_/text_of_/abstract 
 

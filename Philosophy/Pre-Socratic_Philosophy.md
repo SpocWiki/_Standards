@@ -77,9 +77,9 @@ aliases:
 - 前蘇格拉底哲學
 - 소크라테스 이전 철학자
 has_id_wikidata: Q178540
-topic_has_template: '[[_Standards/WikiData/WD~Template_Presocratics,8072379|WD~Template_Presocratics,8072379]]'
-instance_of: '[[_Standards/WikiData/WD~philosophical_schools_and_traditions,12765852|WD~philosophical_schools_and_traditions,12765852]]'
-named_after: '[[_Standards/WikiData/WD~Socrates,913|WD~Socrates,913]]'
+topic_has_template: '[[/_Standards/WikiData/WD~Template_Presocratics,8072379|WD~Template_Presocratics,8072379]]'
+instance_of: '[[/_Standards/WikiData/WD~philosophical_schools_and_traditions,12765852|WD~philosophical_schools_and_traditions,12765852]]'
+named_after: '[[/_Standards/WikiData/WD~Socrates,913|WD~Socrates,913]]'
 Dewey_Decimal_Classification: 182
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Presocratic%20graph.svg
 Krugosvet_article_archived_: gumanitarnye_nauki/filosofiya/DOSOKRATIKI.html
@@ -181,7 +181,7 @@ dv_has_:
 
 # [[Pre-Socratic_Philosophy]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pre-Socratic_philosophy,178540|WD~Pre-Socratic_philosophy,178540]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Pre-Socratic_philosophy,178540|WD~Pre-Socratic_philosophy,178540]] 
 
 ## #has_/text_of_/abstract 
 

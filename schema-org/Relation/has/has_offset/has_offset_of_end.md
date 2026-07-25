@@ -32,7 +32,7 @@ dv_has_:
     of_end: ""
   domain: "[[../../../../Society/Communication/Media/Creative_Work/Clip|Clip]]"
   name: has_offset_of_end
-  range: "[[_Standards/Society/Communication/Media/Creative_Work/Hyper_Toc_Entry.md|Hyper_Toc_Entry]],[[_Standards/schema-org/Class/is_a_/Data_Type/Number.md|Number]]"
+  range: "[[/_Standards/Society/Communication/Media/Creative_Work/Hyper_Toc_Entry.md|Hyper_Toc_Entry]],[[/_Standards/schema-org/Class/is_a_/Data_Type/Number.md|Number]]"
   inverse: "[[is_offset_of_end_for]]"
 dv_has_offset_of_end: ""
 dv_is_:
@@ -48,7 +48,7 @@ dv_is_:
 dv_is_part_of: "pending:"
 dv_has_domain: "[[../../../../Society/Communication/Media/Creative_Work/Clip|Clip]]"
 dv_has_name: has_offset_of_end
-dv_has_range: "[[_Standards/Society/Communication/Media/Creative_Work/Hyper_Toc_Entry.md|Hyper_Toc_Entry]],[[_Standards/schema-org/Class/is_a_/Data_Type/Number.md|Number]]"
+dv_has_range: "[[/_Standards/Society/Communication/Media/Creative_Work/Hyper_Toc_Entry.md|Hyper_Toc_Entry]],[[/_Standards/schema-org/Class/is_a_/Data_Type/Number.md|Number]]"
 dv_is_same_as:
   - "[[has_offset_of_end]]"
   - "[[/_public/schema-org/Relation/has/has_offset_of_end.public|has_offset_of_end.public]]"

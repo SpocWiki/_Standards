@@ -40,9 +40,9 @@ aliases:
 has_id_wikidata: Q101805
 subclass_of:
 - '[[../../../../../../WikiData/WD~shelter,989946|WD~shelter,989946]]'
-- '[[_Standards/WikiData/WD~snow_or_ice_construction,27966041|WD~snow_or_ice_construction,27966041]]'
-- '[[_Standards/WikiData/WD~house,3947|WD~house,3947]]'
-facet_of: '[[_Standards/WikiData/WD~snow,7561|WD~snow,7561]]'
+- '[[/_Standards/WikiData/WD~snow_or_ice_construction,27966041|WD~snow_or_ice_construction,27966041]]'
+- '[[/_Standards/WikiData/WD~house,3947|WD~house,3947]]'
+facet_of: '[[/_Standards/WikiData/WD~snow,7561|WD~snow,7561]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Eskimo%20family%20and%20their%20igloo%20cph.3c36050.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/CERL%20foam%20dome%20Ft%20McPherson%201982.png
@@ -142,7 +142,7 @@ dv_has_:
 
 # [[Igloo]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Igloo,101805|WD~Igloo,101805]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Igloo,101805|WD~Igloo,101805]] 
 
 ## #has_/text_of_/abstract 
 

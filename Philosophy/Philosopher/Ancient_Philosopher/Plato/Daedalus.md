@@ -1,27 +1,27 @@
 ---
 aliases:
 has_id_wikidata: Q134756
-father: "[[_Standards/WikiData/WD~Metion,591842]]"
+father: "[[/_Standards/WikiData/WD~Metion,591842]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
+  - "[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[/_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[/_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[/_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
 mother:
-  - "[[_Standards/WikiData/WD~Merope,1921961]]"
-  - "[[_Standards/WikiData/WD~Iphinoe,27056217]]"
-spouse: "[[_Standards/WikiData/WD~Naucrate,3337163]]"
+  - "[[/_Standards/WikiData/WD~Merope,1921961]]"
+  - "[[/_Standards/WikiData/WD~Iphinoe,27056217]]"
+spouse: "[[/_Standards/WikiData/WD~Naucrate,3337163]]"
 sibling:
-  - "[[_Standards/WikiData/WD~Metiadusa,3855596]]"
-  - "[[_Standards/WikiData/WD~Perdix,33192667]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-instance_of: "[[_Standards/WikiData/WD~mythological_Greek_character,22988604]]"
-child: "[[_Standards/WikiData/WD~Icarus,34041]]"
-worshipped_by: "[[_Standards/WikiData/WD~Greek_mythology,34726]]"
-occupation: "[[_Standards/WikiData/WD~architect,42973]]"
+  - "[[/_Standards/WikiData/WD~Metiadusa,3855596]]"
+  - "[[/_Standards/WikiData/WD~Perdix,33192667]]"
+sex_or_gender: "[[/_Standards/WikiData/WD~male,6581097]]"
+instance_of: "[[/_Standards/WikiData/WD~mythological_Greek_character,22988604]]"
+child: "[[/_Standards/WikiData/WD~Icarus,34041]]"
+worshipped_by: "[[/_Standards/WikiData/WD~Greek_mythology,34726]]"
+occupation: "[[/_Standards/WikiData/WD~architect,42973]]"
 Commons_category: Daedalus
 name_in_native_language: Δαίδαλος
 Iconclass_notation: 95A(DAEDALUS)8

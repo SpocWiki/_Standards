@@ -22,11 +22,11 @@ aliases:
 - 먀오링세
 has_id_wikidata: Q5025304
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
-named_after: '[[_Standards/WikiData/WD~Miaoling_Mountains,28798795|WD~Miaoling_Mountains,28798795]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Miaolingian,30869619|WD~Category_Miaolingian,30869619]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[/_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[/_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
+named_after: '[[/_Standards/WikiData/WD~Miaoling_Mountains,28798795|WD~Miaoling_Mountains,28798795]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Miaolingian,30869619|WD~Category_Miaolingian,30869619]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -497000000-01-01T00:00:00Z
 Commons_category: Miaolingian
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%20505%20Ma%20%28Wuliuan%20Stage%29.png
@@ -74,7 +74,7 @@ dv_has_:
     stopped: -497000000
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Miaolingian,5025304|WD~Miaolingian,5025304]]'
+  - '[[/_Standards/WikiData/WD~Miaolingian,5025304|WD~Miaolingian,5025304]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian|Epoch-509~Miaolingian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.public|Epoch-509~Miaolingian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.internal|Epoch-509~Miaolingian.internal]]'
@@ -86,7 +86,7 @@ dv_has_duration_years: 1.200e+7
 dv_has_previous_item: '[[Epoch~]]'
 dv_has_next_item: '[[Epoch~]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Miaolingian,5025304|WD~Miaolingian,5025304]]'
+- '[[/_Standards/WikiData/WD~Miaolingian,5025304|WD~Miaolingian,5025304]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian|Epoch-509~Miaolingian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.public|Epoch-509~Miaolingian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.internal|Epoch-509~Miaolingian.internal]]'
@@ -108,7 +108,7 @@ dv_has_text_of_color: 0xA6CF86
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Miaolingian,5025304|WD~Miaolingian,5025304]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Miaolingian,5025304|WD~Miaolingian,5025304]] 
 
 A time period from 509 to 497 million years ago. 
 

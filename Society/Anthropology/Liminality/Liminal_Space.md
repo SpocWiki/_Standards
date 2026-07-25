@@ -2,10 +2,10 @@
 aliases:
   - Liminal space
 has_id_wikidata: Q115470079
-different_from: "[[_Standards/WikiData/WD~liminality,1825499]]"
-subclass_of: "[[_Standards/WikiData/WD~subjective_quality,100212002]]"
-instance_of: "[[_Standards/WikiData/WD~Internet_aesthetic,113561882]]"
-facet_of: "[[_Standards/WikiData/WD~architecture,12271]]"
+different_from: "[[/_Standards/WikiData/WD~liminality,1825499]]"
+subclass_of: "[[/_Standards/WikiData/WD~subjective_quality,100212002]]"
+instance_of: "[[/_Standards/WikiData/WD~Internet_aesthetic,113561882]]"
+facet_of: "[[/_Standards/WikiData/WD~architecture,12271]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Inevitable%20end%20of%20corridor%20%282098072225%29.jpg
 Commons_category: Liminal spaces
 subreddit: LiminalSpace

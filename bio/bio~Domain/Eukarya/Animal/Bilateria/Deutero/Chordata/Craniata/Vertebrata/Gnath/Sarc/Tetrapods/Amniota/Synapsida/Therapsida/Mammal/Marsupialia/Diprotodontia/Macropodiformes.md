@@ -17,8 +17,8 @@ aliases:
 - 袋鼠亞目
 - 캥거루아목
 has_id_wikidata: Q691795
-taxon_rank: '[[_Standards/WikiData/WD~suborder,5867959|WD~suborder,5867959]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[/_Standards/WikiData/WD~suborder,5867959|WD~suborder,5867959]]'
+instance_of: '[[/_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 ITIS_TSN: 709305
 Commons_category: Macropodiformes
 taxon_name: Macropodiformes
@@ -83,7 +83,7 @@ dv_has_:
 
 # [[Macropodiformes]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Macropodiformes,691795|WD~Macropodiformes,691795]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Macropodiformes,691795|WD~Macropodiformes,691795]] 
 
 ## #has_/text_of_/abstract 
 

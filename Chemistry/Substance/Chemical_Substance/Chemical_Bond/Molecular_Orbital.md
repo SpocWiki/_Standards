@@ -40,10 +40,10 @@ aliases:
 - 분자 궤도
 has_id_wikidata: Q725417
 subclass_of:
-- '[[_Standards/WikiData/WD~orbital,3355206|WD~orbital,3355206]]'
-- '[[_Standards/WikiData/WD~function,11348|WD~function,11348]]'
-part_of: '[[_Standards/WikiData/WD~chemical_bonding_model,5090444|WD~chemical_bonding_model,5090444]]'
-has_use: '[[_Standards/WikiData/WD~electron,2225|WD~electron,2225]]'
+- '[[/_Standards/WikiData/WD~orbital,3355206|WD~orbital,3355206]]'
+- '[[/_Standards/WikiData/WD~function,11348|WD~function,11348]]'
+part_of: '[[/_Standards/WikiData/WD~chemical_bonding_model,5090444|WD~chemical_bonding_model,5090444]]'
+has_use: '[[/_Standards/WikiData/WD~electron,2225|WD~electron,2225]]'
 Commons_category: Molecular orbitals
 dv_is_:
   same_as:
@@ -121,7 +121,7 @@ dv_has_:
 
 # [[Molecular_Orbital]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Molecular_orbital,725417|WD~Molecular_orbital,725417]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Molecular_orbital,725417|WD~Molecular_orbital,725417]] 
 
 ## #has_/text_of_/abstract 
 

@@ -33,7 +33,7 @@ dv_has_:
   properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
 dv_is_:
   same_as:
-    - "[[_Standards/WikiData/WD~religious_building,24398318|WD~religious_building,24398318]]"
+    - "[[/_Standards/WikiData/WD~religious_building,24398318|WD~religious_building,24398318]]"
     - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship|Place_of_Worship]]"
     - "[[/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship.public|Place_of_Worship.public]]"
     - "[[/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship.internal|Place_of_Worship.internal]]"
@@ -45,7 +45,7 @@ dv_has_parent_class: "[[../CivicStructure|CivicStructure]]"
 dv_has_child_class: "[ BuddhistTemple, Church, HinduTemple, Mosque, Synagogue ]"
 dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
 dv_is_same_as:
-  - "[[_Standards/WikiData/WD~religious_building,24398318|WD~religious_building,24398318]]"
+  - "[[/_Standards/WikiData/WD~religious_building,24398318|WD~religious_building,24398318]]"
   - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship|Place_of_Worship]]"
   - "[[/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship.public|Place_of_Worship.public]]"
   - "[[/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship.internal|Place_of_Worship.internal]]"
@@ -70,7 +70,7 @@ has_child_class = `=this.dv_has_child_class` ]
 
 has_properties = `=this.dv_has_properties` ]
 
-#is_/same_as :: [[_Standards/WikiData/WD~religious_building,24398318|WD~religious_building,24398318]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~religious_building,24398318|WD~religious_building,24398318]] 
 
 
 ## Confidential Links & Embeds: 

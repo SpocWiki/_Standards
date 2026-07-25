@@ -35,13 +35,13 @@ aliases:
 - 카르스트 지형
 has_id_wikidata: Q16817
 subclass_of:
-- '[[_Standards/WikiData/WD~landscape,107425|WD~landscape,107425]]'
-- '[[_Standards/WikiData/WD~landform,271669|WD~landform,271669]]'
+- '[[/_Standards/WikiData/WD~landscape,107425|WD~landscape,107425]]'
+- '[[/_Standards/WikiData/WD~landform,271669|WD~landform,271669]]'
 different_from:
-- '[[_Standards/WikiData/WD~Kras,412520|WD~Kras,412520]]'
-- '[[_Standards/WikiData/WD~pseudokarst,1401173|WD~pseudokarst,1401173]]'
-studied_by: '[[_Standards/WikiData/WD~karstology,1734506|WD~karstology,1734506]]'
-described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[/_Standards/WikiData/WD~Kras,412520|WD~Kras,412520]]'
+- '[[/_Standards/WikiData/WD~pseudokarst,1401173|WD~pseudokarst,1401173]]'
+studied_by: '[[/_Standards/WikiData/WD~karstology,1734506|WD~karstology,1734506]]'
+described_by_source: '[[/_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
 Commons_category: Karst
 native_label: Karst
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Karst%20Hydrogeologie%20Schema1.jpg
@@ -163,7 +163,7 @@ dv_has_:
 
 # [[Karst]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Karst,16817|WD~Karst,16817]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Karst,16817|WD~Karst,16817]] 
 
 ## #has_/text_of_/abstract 
 

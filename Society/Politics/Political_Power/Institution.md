@@ -80,14 +80,14 @@ aliases:
 - 제도
 has_id_wikidata: Q178706
 subclass_of:
-- '[[_Standards/WikiData/WD~social_structure,211606|WD~social_structure,211606]]'
-- '[[_Standards/WikiData/WD~person_or_organization,106559804|WD~person_or_organization,106559804]]'
-- '[[_Standards/WikiData/WD~organization,43229|WD~organization,43229]]'
-different_from: '[[_Standards/WikiData/WD~institute,1664720|WD~institute,1664720]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~social_organization,4430243|WD~social_organization,4430243]]'
-subject_has_role: '[[_Standards/WikiData/WD~normative_social_influence,9370542|WD~normative_social_influence,9370542]]'
-described_by_source: '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
-has_characteristic: '[[_Standards/WikiData/WD~type_of_institution,117023459|WD~type_of_institution,117023459]]'
+- '[[/_Standards/WikiData/WD~social_structure,211606|WD~social_structure,211606]]'
+- '[[/_Standards/WikiData/WD~person_or_organization,106559804|WD~person_or_organization,106559804]]'
+- '[[/_Standards/WikiData/WD~organization,43229|WD~organization,43229]]'
+different_from: '[[/_Standards/WikiData/WD~institute,1664720|WD~institute,1664720]]'
+said_to_be_the_same_as: '[[/_Standards/WikiData/WD~social_organization,4430243|WD~social_organization,4430243]]'
+subject_has_role: '[[/_Standards/WikiData/WD~normative_social_influence,9370542|WD~normative_social_influence,9370542]]'
+described_by_source: '[[/_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
+has_characteristic: '[[/_Standards/WikiData/WD~type_of_institution,117023459|WD~type_of_institution,117023459]]'
 Dewey_Decimal_Classification: 306
 OmegaWiki_Defined_Meaning: 1627758
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Israel%20Silvestre%2C%20Coll%C3%A8ge%20des%20Quatre-Nations.jpg

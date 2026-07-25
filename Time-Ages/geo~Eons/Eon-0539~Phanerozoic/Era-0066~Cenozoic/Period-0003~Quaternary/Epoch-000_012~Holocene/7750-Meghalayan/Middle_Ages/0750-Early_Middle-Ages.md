@@ -73,11 +73,11 @@ aliases:
 - 中世纪前期
 - 중세 초기
 has_id_wikidata: Q202763
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Early_Middle_Ages,7473381|WD~Category_Early_Middle_Ages,7473381]]'
-instance_of: '[[_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Early_Middle_Ages,7473381|WD~Category_Early_Middle_Ages,7473381]]'
+instance_of: '[[/_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]'
 start_time: 0500-01-01T00:00:00Z
 end_time: 0900-01-01T00:00:00Z
-location: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
+location: '[[/_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
 OmegaWiki_Defined_Meaning: 1258174
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Meister%20der%20Reichenauer%20Schule%20004.jpg
 Basisklassifikation: 15.31
@@ -173,7 +173,7 @@ dv_has_:
     stopped: 1000-06-01T00:00:00.000+00:53
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Early_Middle-Ages,202763|WD~Early_Middle-Ages,202763]]'
+  - '[[/_Standards/WikiData/WD~Early_Middle-Ages,202763|WD~Early_Middle-Ages,202763]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages|0750-Early_Middle-Ages]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages.public|0750-Early_Middle-Ages.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages.internal|0750-Early_Middle-Ages.internal]]'
@@ -188,7 +188,7 @@ dv_has_duration_: P250Y
 dv_has_previous_item: '[[../0000-Late_Antiquity|0000-Late_Antiquity]]'
 dv_has_next_item: '[[1000-High_Middle-Ages+1300]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Early_Middle-Ages,202763|WD~Early_Middle-Ages,202763]]'
+- '[[/_Standards/WikiData/WD~Early_Middle-Ages,202763|WD~Early_Middle-Ages,202763]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages|0750-Early_Middle-Ages]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages.public|0750-Early_Middle-Ages.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages.internal|0750-Early_Middle-Ages.internal]]'
@@ -210,7 +210,7 @@ has_time_stopped = `=this.dv_has_time_stopped`
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Early_Middle-Ages,202763|WD~Early_Middle-Ages,202763]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Early_Middle-Ages,202763|WD~Early_Middle-Ages,202763]] 
 
 ## #has_/text_of_/abstract 
 

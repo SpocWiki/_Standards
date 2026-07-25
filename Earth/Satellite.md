@@ -130,15 +130,15 @@ aliases:
 - 인공위성
 has_id_wikidata: Q26540
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
-part_of: '[[_Standards/WikiData/WD~spacecraft_constellation,967145|WD~spacecraft_constellation,967145]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[/_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+part_of: '[[/_Standards/WikiData/WD~spacecraft_constellation,967145|WD~spacecraft_constellation,967145]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~satellite,1297322|WD~satellite,1297322]]'
-- '[[_Standards/WikiData/WD~spacecraft,40218|WD~spacecraft,40218]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~Q4203972,4203972|WD~Q4203972,4203972]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_artificial_satellite,26015235|WD~Template_Infobox_artificial_satellite,26015235]]'
-parent_astronomical_body: '[[_Standards/WikiData/WD~astronomical_object,6999|WD~astronomical_object,6999]]'
+- '[[/_Standards/WikiData/WD~satellite,1297322|WD~satellite,1297322]]'
+- '[[/_Standards/WikiData/WD~spacecraft,40218|WD~spacecraft,40218]]'
+partially_coincident_with: '[[/_Standards/WikiData/WD~Q4203972,4203972|WD~Q4203972,4203972]]'
+topic_has_template: '[[/_Standards/WikiData/WD~Template_Infobox_artificial_satellite,26015235|WD~Template_Infobox_artificial_satellite,26015235]]'
+parent_astronomical_body: '[[/_Standards/WikiData/WD~astronomical_object,6999|WD~astronomical_object,6999]]'
 Nomenclature_for_Museum_Cataloging: 11736
 Commons_category: Satellites
 Wolfram_Language_entity_type: Satellite
@@ -150,7 +150,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Geosynchronous%20orbit
 Colon_Classification: B97894
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Satellite,26540|WD~Satellite,26540]]'
+  - '[[/_Standards/WikiData/WD~Satellite,26540|WD~Satellite,26540]]'
   - '[[/_Standards/Earth/Satellite|Satellite]]'
   - '[[/_public/Earth/Satellite.public|Satellite.public]]'
   - '[[/_internal/Earth/Satellite.internal|Satellite.internal]]'
@@ -159,7 +159,7 @@ dv_is_:
   - '[[/_personal/Earth/Satellite.personal|Satellite.personal]]'
   - '[[/_secret/Earth/Satellite.secret|Satellite.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Satellite,26540|WD~Satellite,26540]]'
+- '[[/_Standards/WikiData/WD~Satellite,26540|WD~Satellite,26540]]'
 - '[[/_Standards/Earth/Satellite|Satellite]]'
 - '[[/_public/Earth/Satellite.public|Satellite.public]]'
 - '[[/_internal/Earth/Satellite.internal|Satellite.internal]]'
@@ -340,7 +340,7 @@ Unicode_character: 🛰
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Satellite,26540|WD~Satellite,26540]]  
+#is_/same_as :: [[/_Standards/WikiData/WD~Satellite,26540|WD~Satellite,26540]]  
 
 Moons are also sorted into this Folder, 
 because they are categorized as Satellite generically Named S###P 

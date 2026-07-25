@@ -66,9 +66,9 @@ aliases:
 - ელემენტთა პერიოდული სისტემის პირველი პერიოდი
 - 第1周期元素
 has_id_wikidata: Q191936
-instance_of: '[[_Standards/WikiData/WD~period,101843|WD~period,101843]]'
-followed_by: '[[_Standards/WikiData/WD~period_2,207712|WD~period_2,207712]]'
-has_part_s_: '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+instance_of: '[[/_Standards/WikiData/WD~period,101843|WD~period,101843]]'
+followed_by: '[[/_Standards/WikiData/WD~period_2,207712|WD~period_2,207712]]'
+has_part_s_: '[[/_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Helium%20discharge%20tube.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Hydrogen%20discharge%20tube.jpg
@@ -177,7 +177,7 @@ dv_has_:
 
 # [[Period_1]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Period_1,191936|WD~Period_1,191936]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Period_1,191936|WD~Period_1,191936]] 
 
 ## #has_/text_of_/abstract 
 

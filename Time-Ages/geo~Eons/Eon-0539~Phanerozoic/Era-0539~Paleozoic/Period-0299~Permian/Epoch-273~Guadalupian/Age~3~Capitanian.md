@@ -24,13 +24,13 @@ aliases:
 - 卡匹敦期
 has_id_wikidata: Q858203
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-named_after: '[[_Standards/WikiData/WD~El_Capitan,5350921|WD~El_Capitan,5350921]]'
-named_by: '[[_Standards/WikiData/WD~George_Burr_Richardson,23091654|WD~George_Burr_Richardson,23091654]]'
-significant_place: '[[_Standards/WikiData/WD~Nipple_Hill,31714143|WD~Nipple_Hill,31714143]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Capitanian,134425322|WD~GSSP_for_the_base_of_the_Capitanian,134425322]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_after: '[[/_Standards/WikiData/WD~El_Capitan,5350921|WD~El_Capitan,5350921]]'
+named_by: '[[/_Standards/WikiData/WD~George_Burr_Richardson,23091654|WD~George_Burr_Richardson,23091654]]'
+significant_place: '[[/_Standards/WikiData/WD~Nipple_Hill,31714143|WD~Nipple_Hill,31714143]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_the_Capitanian,134425322|WD~GSSP_for_the_base_of_the_Capitanian,134425322]]'
 start_time: -265100000-01-01T00:00:00Z
 coordinate_location: Point(-104.7892 31.9091)
 sRGB_color_hex_triplet: FEA38A
@@ -84,7 +84,7 @@ dv_has_:
     stopped: -259.51e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Capitanian,858203|WD~Capitanian,858203]]'
+  - '[[/_Standards/WikiData/WD~Capitanian,858203|WD~Capitanian,858203]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian|Age~3~Capitanian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.public|Age~3~Capitanian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.internal|Age~3~Capitanian.internal]]'
@@ -96,7 +96,7 @@ dv_has_duration_years: 4.770e+6
 dv_has_previous_item: '[[Age~2~Wordian]]'
 dv_has_next_item: '[[../Epoch-259~Lopingian/Age~1~Wuchiapingian|Age~1~Wuchiapingian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Capitanian,858203|WD~Capitanian,858203]]'
+- '[[/_Standards/WikiData/WD~Capitanian,858203|WD~Capitanian,858203]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian|Age~3~Capitanian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.public|Age~3~Capitanian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.internal|Age~3~Capitanian.internal]]'
@@ -138,7 +138,7 @@ dv_has_text_of_color: 0xFB9A85
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Capitanian,858203|WD~Capitanian,858203]]  
+#is_/same_as :: [[/_Standards/WikiData/WD~Capitanian,858203|WD~Capitanian,858203]]  
 
 A time period from 264.28 to 259.51 million years ago. 
 

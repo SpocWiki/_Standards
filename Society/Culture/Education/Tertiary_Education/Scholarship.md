@@ -67,19 +67,19 @@ aliases:
 - 장학금
 has_id_wikidata: Q188823
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~award,618779|WD~award,618779]]'
-- '[[_Standards/WikiData/WD~stipend,10968259|WD~stipend,10968259]]'
-- '[[_Standards/WikiData/WD~training_support,70440043|WD~training_support,70440043]]'
-- '[[_Standards/WikiData/WD~educational_grant,118117097|WD~educational_grant,118117097]]'
-instance_of: '[[_Standards/WikiData/WD~gift,707482|WD~gift,707482]]'
-part_of: '[[_Standards/WikiData/WD~gifted_education,814279|WD~gifted_education,814279]]'
-used_by: '[[_Standards/WikiData/WD~scholarship_holder,12003277|WD~scholarship_holder,12003277]]'
-different_from: '[[_Standards/WikiData/WD~Beurs,114346525|WD~Beurs,114346525]]'
+- '[[/_Standards/WikiData/WD~award,618779|WD~award,618779]]'
+- '[[/_Standards/WikiData/WD~stipend,10968259|WD~stipend,10968259]]'
+- '[[/_Standards/WikiData/WD~training_support,70440043|WD~training_support,70440043]]'
+- '[[/_Standards/WikiData/WD~educational_grant,118117097|WD~educational_grant,118117097]]'
+instance_of: '[[/_Standards/WikiData/WD~gift,707482|WD~gift,707482]]'
+part_of: '[[/_Standards/WikiData/WD~gifted_education,814279|WD~gifted_education,814279]]'
+used_by: '[[/_Standards/WikiData/WD~scholarship_holder,12003277|WD~scholarship_holder,12003277]]'
+different_from: '[[/_Standards/WikiData/WD~Beurs,114346525|WD~Beurs,114346525]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2015%20SRNS%20Family%20Scholarships%20%2835559759033%29.jpg
 U_S_National_Archives_Identifier: 10641005
 Commons_category: Scholarships
@@ -188,7 +188,7 @@ dv_has_:
 
 # [[Scholarship]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Scholarship,188823|WD~Scholarship,188823]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Scholarship,188823|WD~Scholarship,188823]] 
 
 ## #has_/text_of_/abstract 
 

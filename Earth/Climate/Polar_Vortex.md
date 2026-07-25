@@ -39,8 +39,8 @@ aliases:
 - 극소용돌이
 has_id_wikidata: Q1197111
 subclass_of:
-- '[[_Standards/WikiData/WD~cyclone,79602|WD~cyclone,79602]]'
-- '[[_Standards/WikiData/WD~mountain_gap_wind,3555548|WD~mountain_gap_wind,3555548]]'
+- '[[/_Standards/WikiData/WD~cyclone,79602|WD~cyclone,79602]]'
+- '[[/_Standards/WikiData/WD~mountain_gap_wind,3555548|WD~mountain_gap_wind,3555548]]'
 exact_match: https://www.metoffice.gov.uk/learning/atmosphere/polar-vortex
 Commons_category: Polar vortex
 dv_is_:
@@ -113,7 +113,7 @@ dv_has_:
 
 # [[Polar_Vortex]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Polar_vortex,1197111|WD~Polar_vortex,1197111]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Polar_vortex,1197111|WD~Polar_vortex,1197111]] 
 
 ## #has_/text_of_/abstract 
 

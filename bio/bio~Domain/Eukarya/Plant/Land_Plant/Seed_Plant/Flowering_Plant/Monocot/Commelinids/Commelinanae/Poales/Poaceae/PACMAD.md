@@ -13,7 +13,7 @@ aliases:
 - PACMAD 분지군
 - Клада PACMAD
 has_id_wikidata: Q17117466
-instance_of: '[[_Standards/WikiData/WD~clade,713623|WD~clade,713623]]'
+instance_of: '[[/_Standards/WikiData/WD~clade,713623|WD~clade,713623]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Panicum%20virgatum.jpg
 Commons_gallery: PACMAD clade
 taxon_name: PACMAD clade
@@ -49,7 +49,7 @@ dv_has_:
 
 # [[PACMAD]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~PACMAD,17117466|WD~PACMAD,17117466]]
+#is_/same_as :: [[/_Standards/WikiData/WD~PACMAD,17117466|WD~PACMAD,17117466]]
 
 ## #has_/text_of_/abstract 
 

@@ -40,9 +40,9 @@ aliases:
 - 국제관습법
 has_id_wikidata: Q1194894
 subclass_of:
-- '[[_Standards/WikiData/WD~customary_law,1479995|WD~customary_law,1479995]]'
-- '[[_Standards/WikiData/WD~law,7748|WD~law,7748]]'
-part_of: '[[_Standards/WikiData/WD~international_law,4394526|WD~international_law,4394526]]'
+- '[[/_Standards/WikiData/WD~customary_law,1479995|WD~customary_law,1479995]]'
+- '[[/_Standards/WikiData/WD~law,7748|WD~law,7748]]'
+part_of: '[[/_Standards/WikiData/WD~international_law,4394526|WD~international_law,4394526]]'
 dv_has_:
   name_:
     ar: قانون دولي عرفي
@@ -88,7 +88,7 @@ dv_has_:
 
 # [[Customary_international_Law]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Customary_international_law,1194894|WD~Customary_international_law,1194894]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Customary_international_law,1194894|WD~Customary_international_law,1194894]] 
 
 ## #has_/text_of_/abstract 
 

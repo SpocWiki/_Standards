@@ -63,10 +63,10 @@ aliases:
 - 정지 궤도
 has_id_wikidata: Q192316
 subclass_of:
-- '[[_Standards/WikiData/WD~geosynchronous_orbit,472251|WD~geosynchronous_orbit,472251]]'
-- '[[_Standards/WikiData/WD~stationary_orbit,7604345|WD~stationary_orbit,7604345]]'
-part_of: '[[_Standards/WikiData/WD~outer_space,4169|WD~outer_space,4169]]'
-parent_astronomical_body: '[[_Standards/WikiData/WD~Earth,2|WD~Earth,2]]'
+- '[[/_Standards/WikiData/WD~geosynchronous_orbit,472251|WD~geosynchronous_orbit,472251]]'
+- '[[/_Standards/WikiData/WD~stationary_orbit,7604345|WD~stationary_orbit,7604345]]'
+part_of: '[[/_Standards/WikiData/WD~outer_space,4169|WD~outer_space,4169]]'
+parent_astronomical_body: '[[/_Standards/WikiData/WD~Earth,2|WD~Earth,2]]'
 short_name: GEO
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Geostationaryjava3D.gif
 Commons_category: Geostationary orbit
@@ -174,7 +174,7 @@ dv_has_:
 
 # [[Geostationary_Orbit]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Geostationary_orbit,192316|WD~Geostationary_orbit,192316]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Geostationary_orbit,192316|WD~Geostationary_orbit,192316]] 
 ## #has_/text_of_/abstract 
 
 > A geostationary orbit, also referred to as a geosynchronous equatorial orbit (GEO), is a circular geosynchronous orbit 35,786 km (22,236 mi) in altitude above Earth's equator, 42,164 km (26,199 mi) in radius from Earth's center, and following the direction of Earth's rotation.

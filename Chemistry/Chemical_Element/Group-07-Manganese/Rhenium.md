@@ -88,11 +88,11 @@ Common_Procurement_Vocabulary_code:
 - 14793000-6
 - 14793000
 CPV_Supplementary_code: AA42
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+described_by_source: '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Ida_Noddack,77529|WD~Ida_Noddack,77529]]'
-- '[[_Standards/WikiData/WD~Otto_Berg,85727|WD~Otto_Berg,85727]]'
-- '[[_Standards/WikiData/WD~Walter_Noddack,62714|WD~Walter_Noddack,62714]]'
+- '[[/_Standards/WikiData/WD~Ida_Noddack,77529|WD~Ida_Noddack,77529]]'
+- '[[/_Standards/WikiData/WD~Otto_Berg,85727|WD~Otto_Berg,85727]]'
+- '[[/_Standards/WikiData/WD~Walter_Noddack,62714|WD~Walter_Noddack,62714]]'
 DSSTOX_compound_identifier: DTXCID7047649
 EC_number: 231-124-5
 electronegativity: 1.9
@@ -101,7 +101,7 @@ element_symbol: Re
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rhenium%20single%20crystal%20bar%20and%201cm3%20cube.jpg
 InChI: InChI=1S/Re
 InChIKey: WUAPFZMCVAUBPE-UHFFFAOYSA-N
-instance_of: '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+instance_of: '[[/_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 0.38
 - 0.53
@@ -110,22 +110,22 @@ ionic_radius:
 - 0.63
 Krugosvet_article: nauka_i_tehnika/himiya/RENI.html
 made_from_material:
-- '[[_Standards/WikiData/WD~rheniite,411587|WD~rheniite,411587]]'
-- '[[_Standards/WikiData/WD~molybdenite_mineral_group,3777754|WD~molybdenite_mineral_group,3777754]]'
+- '[[/_Standards/WikiData/WD~rheniite,411587|WD~rheniite,411587]]'
+- '[[/_Standards/WikiData/WD~molybdenite_mineral_group,3777754|WD~molybdenite_mineral_group,3777754]]'
 mass: 186.207
 MeSH_tree_code:
 - D01.268.556.787
 - D01.268.956.750
 - D01.552.544.787
-named_after: '[[_Standards/WikiData/WD~Rhine,584|WD~Rhine,584]]'
+named_after: '[[/_Standards/WikiData/WD~Rhine,584|WD~Rhine,584]]'
 OmegaWiki_Defined_Meaning: 348371
 oxidation_state:
 - 3
 - 5
 - 7
 part_of:
-- '[[_Standards/WikiData/WD~group_7,202602|WD~group_7,202602]]'
-- '[[_Standards/WikiData/WD~period_6,239813|WD~period_6,239813]]'
+- '[[/_Standards/WikiData/WD~group_7,202602|WD~group_7,202602]]'
+- '[[/_Standards/WikiData/WD~period_6,239813|WD~period_6,239813]]'
 PubChem_CID: 23947
 SpocWebEntityId: 21971
 time_of_discovery_or_invention: 1925

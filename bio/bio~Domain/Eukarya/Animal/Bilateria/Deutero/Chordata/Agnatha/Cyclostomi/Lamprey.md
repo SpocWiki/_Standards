@@ -2,19 +2,19 @@
 aliases:
   - Neunauge
 has_id_wikidata: Q261485
-award_received: "[[_Standards/WikiData/WD~Q786157,786157]]"
+award_received: "[[/_Standards/WikiData/WD~Q786157,786157]]"
 parent_taxon:
-  - "[[_Standards/WikiData/WD~Cephalaspidomorphi,857497]]"
-  - "[[_Standards/WikiData/WD~Petromyzontida,21286786]]"
-  - "[[_Standards/WikiData/WD~Petromyzonti,22109932]]"
+  - "[[/_Standards/WikiData/WD~Cephalaspidomorphi,857497]]"
+  - "[[/_Standards/WikiData/WD~Petromyzontida,21286786]]"
+  - "[[/_Standards/WikiData/WD~Petromyzonti,22109932]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-has_part_s_: "[[_Standards/WikiData/WD~parietal_eye,997891]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Lampreys,6426931]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Petromyzontiformes,14462761]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
+  - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+has_part_s_: "[[/_Standards/WikiData/WD~parietal_eye,997891]]"
+topic_s_main_category: "[[/_Standards/WikiData/WD~Category_Lampreys,6426931]]"
+topic_has_template: "[[/_Standards/WikiData/WD~Template_Petromyzontiformes,14462761]]"
+instance_of: "[[/_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: "[[/_Standards/WikiData/WD~order,36602]]"
 ITIS_TSN: "159696"
 taxon_common_name: niøyer
 image: http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B5esilmud2.jpg

@@ -44,11 +44,11 @@ aliases:
 ischart: LowerOrdovician
 has_id_wikidata: Q10739169
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
-named_after: '[[_Standards/WikiData/WD~Ordovices,768052|WD~Ordovices,768052]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Early_Ordovician,20980754|WD~Category_Early_Ordovician,20980754]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[/_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[/_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
+named_after: '[[/_Standards/WikiData/WD~Ordovices,768052|WD~Ordovices,768052]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Early_Ordovician,20980754|WD~Category_Early_Ordovician,20980754]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -486850000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%20480%20Ma%20%28Tremadocian%20Age%29.png
 sRGB_color_hex_triplet: 1A9D6F
@@ -104,7 +104,7 @@ dv_has_:
     stopped: -470.0e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Early_Ordovician,10739169|WD~Early_Ordovician,10739169]]'
+  - '[[/_Standards/WikiData/WD~Early_Ordovician,10739169|WD~Early_Ordovician,10739169]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician|Epoch-485~Early_Ordovician]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician.public|Epoch-485~Early_Ordovician.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician.internal|Epoch-485~Early_Ordovician.internal]]'
@@ -116,7 +116,7 @@ dv_has_duration_years: 1.540e+7
 dv_has_previous_item: '[[Epoch~]]'
 dv_has_next_item: '[[Epoch~]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Early_Ordovician,10739169|WD~Early_Ordovician,10739169]]'
+- '[[/_Standards/WikiData/WD~Early_Ordovician,10739169|WD~Early_Ordovician,10739169]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician|Epoch-485~Early_Ordovician]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician.public|Epoch-485~Early_Ordovician.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician.internal|Epoch-485~Early_Ordovician.internal]]'
@@ -158,7 +158,7 @@ dv_has_text_of_color: 0x1A9D6F
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Early_Ordovician,10739169|WD~Early_Ordovician,10739169]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Early_Ordovician,10739169|WD~Early_Ordovician,10739169]] 
 
 A time period from 485.4 to 470.0 million years ago. 
 

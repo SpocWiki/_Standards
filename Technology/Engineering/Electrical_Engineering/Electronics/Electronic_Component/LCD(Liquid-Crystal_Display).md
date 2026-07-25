@@ -69,12 +69,12 @@ aliases:
 - 액정 디스플레이
 has_id_wikidata: Q83341
 different_from:
-- '[[_Standards/WikiData/WD~flat_panel_display,125171|WD~flat_panel_display,125171]]'
-- '[[_Standards/WikiData/WD~LCD_technology,54003144|WD~LCD_technology,54003144]]'
-subclass_of: '[[_Standards/WikiData/WD~flat_panel_display,125171|WD~flat_panel_display,125171]]'
-uses: '[[_Standards/WikiData/WD~liquid_crystal,203989|WD~liquid_crystal,203989]]'
-manifestation_of: '[[_Standards/WikiData/WD~LCD_technology,54003144|WD~LCD_technology,54003144]]'
-instance_of: '[[_Standards/WikiData/WD~display_technology,54006339|WD~display_technology,54006339]]'
+- '[[/_Standards/WikiData/WD~flat_panel_display,125171|WD~flat_panel_display,125171]]'
+- '[[/_Standards/WikiData/WD~LCD_technology,54003144|WD~LCD_technology,54003144]]'
+subclass_of: '[[/_Standards/WikiData/WD~flat_panel_display,125171|WD~flat_panel_display,125171]]'
+uses: '[[/_Standards/WikiData/WD~liquid_crystal,203989|WD~liquid_crystal,203989]]'
+manifestation_of: '[[/_Standards/WikiData/WD~LCD_technology,54003144|WD~LCD_technology,54003144]]'
+instance_of: '[[/_Standards/WikiData/WD~display_technology,54006339|WD~display_technology,54006339]]'
 OmegaWiki_Defined_Meaning: 1220160
 Commons_category: Liquid crystal displays
 image: http://commons.wikimedia.org/wiki/Special:FilePath/LCD%20layers.png
@@ -159,7 +159,7 @@ dv_has_:
 
 # [[LCD(Liquid-Crystal_Display)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Liquid-crystal_display,83341|WD~Liquid-crystal_display,83341]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Liquid-crystal_display,83341|WD~Liquid-crystal_display,83341]] 
 
 ## #has_/text_of_/abstract 
 

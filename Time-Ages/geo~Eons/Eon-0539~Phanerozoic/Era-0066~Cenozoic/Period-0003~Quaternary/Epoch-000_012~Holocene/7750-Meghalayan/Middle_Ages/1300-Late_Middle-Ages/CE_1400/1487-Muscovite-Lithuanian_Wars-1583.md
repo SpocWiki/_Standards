@@ -41,13 +41,13 @@ aliases:
 - 莫斯科立陶宛公國之戰
 has_id_wikidata: Q1567698
 participant:
-- '[[_Standards/WikiData/WD~Grand_Principality_of_Moscow,170770|WD~Grand_Principality_of_Moscow,170770]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Poland,1649871|WD~Kingdom_of_Poland,1649871]]'
-- '[[_Standards/WikiData/WD~Grand_Duchy_of_Lithuania,49683|WD~Grand_Duchy_of_Lithuania,49683]]'
+- '[[/_Standards/WikiData/WD~Grand_Principality_of_Moscow,170770|WD~Grand_Principality_of_Moscow,170770]]'
+- '[[/_Standards/WikiData/WD~Kingdom_of_Poland,1649871|WD~Kingdom_of_Poland,1649871]]'
+- '[[/_Standards/WikiData/WD~Grand_Duchy_of_Lithuania,49683|WD~Grand_Duchy_of_Lithuania,49683]]'
 described_by_source:
 - '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-instance_of: '[[_Standards/WikiData/WD~series_of_wars,104212151|WD~series_of_wars,104212151]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+instance_of: '[[/_Standards/WikiData/WD~series_of_wars,104212151|WD~series_of_wars,104212151]]'
 start_time: 1487-01-01T00:00:00Z
 end_time: 1583-01-01T00:00:00Z
 Universal_Decimal_Classification: 355.48(47:474.5)
@@ -111,7 +111,7 @@ dv_has_:
 
 # [[Muscovite-Lithuanian_Wars]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Muscovite-Lithuanian_Wars,1567698|WD~Muscovite-Lithuanian_Wars,1567698]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Muscovite-Lithuanian_Wars,1567698|WD~Muscovite-Lithuanian_Wars,1567698]] 
 
 ## #has_/text_of_/abstract 
 

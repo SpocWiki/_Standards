@@ -53,10 +53,10 @@ aliases:
 - 宗教建築
 has_id_wikidata: Q47848
 subclass_of:
-- '[[_Standards/WikiData/WD~religious_art,2864737|WD~religious_art,2864737]]'
-- '[[_Standards/WikiData/WD~architecture,12271|WD~architecture,12271]]'
-facet_of: '[[_Standards/WikiData/WD~religion,9174|WD~religion,9174]]'
-instance_of: '[[_Standards/WikiData/WD~architectural_style,32880|WD~architectural_style,32880]]'
+- '[[/_Standards/WikiData/WD~religious_art,2864737|WD~religious_art,2864737]]'
+- '[[/_Standards/WikiData/WD~architecture,12271|WD~architecture,12271]]'
+facet_of: '[[/_Standards/WikiData/WD~religion,9174|WD~religion,9174]]'
+instance_of: '[[/_Standards/WikiData/WD~architectural_style,32880|WD~architectural_style,32880]]'
 Dewey_Decimal_Classification: 726
 Basisklassifikation:
 - 21.70
@@ -123,7 +123,7 @@ dv_has_:
 
 # [[Sacral_Architecture]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Sacred_architecture,47848|WD~Sacred_architecture,47848]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Sacred_architecture,47848|WD~Sacred_architecture,47848]] 
 
 ## #has_/text_of_/abstract 
 

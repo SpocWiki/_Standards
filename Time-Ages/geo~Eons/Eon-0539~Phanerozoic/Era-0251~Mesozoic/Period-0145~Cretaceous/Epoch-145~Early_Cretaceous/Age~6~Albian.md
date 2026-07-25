@@ -26,20 +26,20 @@ aliases:
 - 阿爾布期
 - 알비절
 has_id_wikidata: Q301728
-named_by: "[[_Standards/WikiData/WD~Alcide_d'Orbigny,344661|WD~Alcide_d'Orbigny,344661]]"
-named_after: '[[_Standards/WikiData/WD~Aube,548466|WD~Aube,548466]]'
+named_by: "[[/_Standards/WikiData/WD~Alcide_d'Orbigny,344661|WD~Alcide_d'Orbigny,344661]]"
+named_after: '[[/_Standards/WikiData/WD~Aube,548466|WD~Aube,548466]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Albian,21750186|WD~Category_Albian,21750186]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Albian,132744424|WD~GSSP_for_the_base_of_the_Albian,132744424]]'
+- '[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Albian,21750186|WD~Category_Albian,21750186]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_the_Albian,132744424|WD~GSSP_for_the_base_of_the_Albian,132744424]]'
 start_time: -113000000-01-01T00:00:00Z
 end_time: -100500000-01-01T00:00:00Z
-country: '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+country: '[[/_Standards/WikiData/WD~France,142|WD~France,142]]'
 Commons_category: Albian
 sRGB_color_hex_triplet: CDE5A8
 coordinate_location: Point(5.311766666 44.496605555)
@@ -106,7 +106,7 @@ dv_has_:
     stopped: -100.5e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Albian,301728|WD~Albian,301728]]'
+  - '[[/_Standards/WikiData/WD~Albian,301728|WD~Albian,301728]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian|Age~6~Albian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.public|Age~6~Albian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.internal|Age~6~Albian.internal]]'
@@ -118,7 +118,7 @@ dv_has_duration_years: 1.250e+7
 dv_has_previous_item: '[[Age~5~Aptian]]'
 dv_has_next_item: '[[../Epoch-101~Late_Cretaceous/Age~1~Cenomanian|Age~1~Cenomanian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Albian,301728|WD~Albian,301728]]'
+- '[[/_Standards/WikiData/WD~Albian,301728|WD~Albian,301728]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian|Age~6~Albian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.public|Age~6~Albian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.internal|Age~6~Albian.internal]]'
@@ -160,7 +160,7 @@ dv_has_text_of_color: 0xCCEA97
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Albian,301728|WD~Albian,301728]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Albian,301728|WD~Albian,301728]] 
 
 A time period from 113.0 to 100.5 million years ago. 
 

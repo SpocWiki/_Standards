@@ -32,24 +32,24 @@ aliases:
 - 人马座A*
 - 궁수자리 A*
 has_id_wikidata: Q237284
-parent_astronomical_body: '[[_Standards/WikiData/WD~Sagittarius_A,237291|WD~Sagittarius_A,237291]]'
+parent_astronomical_body: '[[/_Standards/WikiData/WD~Sagittarius_A,237291|WD~Sagittarius_A,237291]]'
 child_astronomical_body:
-- '[[_Standards/WikiData/WD~GCIRS_13E,250898|WD~GCIRS_13E,250898]]'
-- '[[_Standards/WikiData/WD~S2,1514814|WD~S2,1514814]]'
-- '[[_Standards/WikiData/WD~S0_102,4387860|WD~S0_102,4387860]]'
-- '[[_Standards/WikiData/WD~Q108759443,108759443|WD~Q108759443,108759443]]'
-- '[[_Standards/WikiData/WD~S4716,113006469|WD~S4716,113006469]]'
-- '[[_Standards/WikiData/WD~Solar_System,544|WD~Solar_System,544]]'
-part_of: '[[_Standards/WikiData/WD~Galactic_Center_of_Milky_Way,649112|WD~Galactic_Center_of_Milky_Way,649112]]'
+- '[[/_Standards/WikiData/WD~GCIRS_13E,250898|WD~GCIRS_13E,250898]]'
+- '[[/_Standards/WikiData/WD~S2,1514814|WD~S2,1514814]]'
+- '[[/_Standards/WikiData/WD~S0_102,4387860|WD~S0_102,4387860]]'
+- '[[/_Standards/WikiData/WD~Q108759443,108759443|WD~Q108759443,108759443]]'
+- '[[/_Standards/WikiData/WD~S4716,113006469|WD~S4716,113006469]]'
+- '[[/_Standards/WikiData/WD~Solar_System,544|WD~Solar_System,544]]'
+part_of: '[[/_Standards/WikiData/WD~Galactic_Center_of_Milky_Way,649112|WD~Galactic_Center_of_Milky_Way,649112]]'
 instance_of:
-- '[[_Standards/WikiData/WD~astronomical_radio_source,1931185|WD~astronomical_radio_source,1931185]]'
-- '[[_Standards/WikiData/WD~supermassive_black_hole,40392|WD~supermassive_black_hole,40392]]'
+- '[[/_Standards/WikiData/WD~astronomical_radio_source,1931185|WD~astronomical_radio_source,1931185]]'
+- '[[/_Standards/WikiData/WD~supermassive_black_hole,40392|WD~supermassive_black_hole,40392]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Robert_Hanbury_Brown,1932238|WD~Robert_Hanbury_Brown,1932238]]'
-- '[[_Standards/WikiData/WD~National_Radio_Astronomy_Observatory,1967618|WD~National_Radio_Astronomy_Observatory,1967618]]'
+- '[[/_Standards/WikiData/WD~Robert_Hanbury_Brown,1932238|WD~Robert_Hanbury_Brown,1932238]]'
+- '[[/_Standards/WikiData/WD~National_Radio_Astronomy_Observatory,1967618|WD~National_Radio_Astronomy_Observatory,1967618]]'
 declination: -29.007824972
 right_ascension: 266.416816625
-constellation: '[[_Standards/WikiData/WD~Sagittarius,8866|WD~Sagittarius,8866]]'
+constellation: '[[/_Standards/WikiData/WD~Sagittarius,8866|WD~Sagittarius,8866]]'
 distance_from_Earth: 26000
 mass: 4020000
 time_of_discovery_or_invention: 1974-02-14T00:00:00Z
@@ -148,7 +148,7 @@ dv_has_:
 
 # [[Sagittarius_A]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Sagittarius_A_,237284|WD~Sagittarius_A_,237284]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Sagittarius_A_,237284|WD~Sagittarius_A_,237284]] 
 
 The supermassive black hole at the center of the Milky Way Galaxy. 
 

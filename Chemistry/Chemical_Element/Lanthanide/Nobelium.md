@@ -90,26 +90,26 @@ UNII: 2ZRJ207R3E
 atomic_number: 102
 canonical_SMILES: '[No]'
 chemical_formula: No
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
-different_from: '[[_Standards/WikiData/WD~Nobel,224138|WD~Nobel,224138]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973|WD~Glenn_T._Seaborg,48973]]'
+described_by_source: '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+different_from: '[[/_Standards/WikiData/WD~Nobel,224138|WD~Nobel,224138]]'
+discoverer_or_inventor: '[[/_Standards/WikiData/WD~Glenn_T._Seaborg,48973|WD~Glenn_T._Seaborg,48973]]'
 electronegativity: 1.3
 element_symbol: No
 instance_of:
-- '[[_Standards/WikiData/WD~synthetic_element,755992|WD~synthetic_element,755992]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Elements,11165030|WD~WikiProject_Elements,11165030]]'
-named_after: '[[_Standards/WikiData/WD~Alfred_Nobel,23810|WD~Alfred_Nobel,23810]]'
+- '[[/_Standards/WikiData/WD~synthetic_element,755992|WD~synthetic_element,755992]]'
+- '[[/_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+maintained_by_WikiProject: '[[/_Standards/WikiData/WD~WikiProject_Elements,11165030|WD~WikiProject_Elements,11165030]]'
+named_after: '[[/_Standards/WikiData/WD~Alfred_Nobel,23810|WD~Alfred_Nobel,23810]]'
 part_of:
-- '[[_Standards/WikiData/WD~period_7,244979|WD~period_7,244979]]'
-- '[[_Standards/WikiData/WD~actinide,19577|WD~actinide,19577]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q65411346,65411346|WD~Q65411346,65411346]]'
+- '[[/_Standards/WikiData/WD~period_7,244979|WD~period_7,244979]]'
+- '[[/_Standards/WikiData/WD~actinide,19577|WD~actinide,19577]]'
+permanent_duplicated_item: '[[/_Standards/WikiData/WD~Q65411346,65411346|WD~Q65411346,65411346]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-nob%C3%A9lium.wav
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20102%20Nobelium.svg
 time_of_discovery_or_invention: 1958-01-01T00:00:00Z
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_nobelium,8085379|WD~Template_Infobox_nobelium,8085379]]'
+topic_s_main_template: '[[/_Standards/WikiData/WD~Template_Infobox_nobelium,8085379|WD~Template_Infobox_nobelium,8085379]]'
 type: Element
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_nobelium,8085379|WD~Template_Infobox_nobelium,8085379]]'
+topic_has_template: '[[/_Standards/WikiData/WD~Template_Infobox_nobelium,8085379|WD~Template_Infobox_nobelium,8085379]]'
 dv_is_:
   same_as:
   - '[[../../../WikiData/WD~Nobelium,1901|WD~Nobelium,1901]]'

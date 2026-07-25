@@ -50,13 +50,13 @@ aliases:
 - 梅子布丁模型
 - 톰슨 원자 모형
 has_id_wikidata: Q274116
-instance_of: '[[_Standards/WikiData/WD~atom_model,780649|WD~atom_model,780649]]'
+instance_of: '[[/_Standards/WikiData/WD~atom_model,780649|WD~atom_model,780649]]'
 inception:
 - 1897-01-01T00:00:00Z
 - 1904-01-01T00:00:00Z
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~electron,2225|WD~electron,2225]]'
-creator: '[[_Standards/WikiData/WD~J._J._Thomson,47285|WD~J._J._Thomson,47285]]'
-named_after: '[[_Standards/WikiData/WD~J._J._Thomson,47285|WD~J._J._Thomson,47285]]'
+has_part_s_of_the_class: '[[/_Standards/WikiData/WD~electron,2225|WD~electron,2225]]'
+creator: '[[/_Standards/WikiData/WD~J._J._Thomson,47285|WD~J._J._Thomson,47285]]'
+named_after: '[[/_Standards/WikiData/WD~J._J._Thomson,47285|WD~J._J._Thomson,47285]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Plum%20pudding%20atom.svg
 Wolfram_Language_entity_code: Entity["PhysicalEffect", "PlumPuddingModel"]
 dv_has_:
@@ -122,7 +122,7 @@ dv_has_:
 
 # [[Plum_Pudding_Model]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Plum_pudding_model,274116|WD~Plum_pudding_model,274116]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Plum_pudding_model,274116|WD~Plum_pudding_model,274116]] 
 
 ## #has_/text_of_/abstract 
 

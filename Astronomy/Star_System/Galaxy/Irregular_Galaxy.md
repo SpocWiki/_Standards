@@ -60,7 +60,7 @@ aliases:
 - 弗规则星系
 - 불규칙 은하
 has_id_wikidata: Q190397
-subclass_of: '[[_Standards/WikiData/WD~galaxy,318|WD~galaxy,318]]'
+subclass_of: '[[/_Standards/WikiData/WD~galaxy,318|WD~galaxy,318]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Irregular%20galaxy%20NGC%201427A%20%28captured%20by%20the%20Hubble%20Space%20Telescope%29.jpg
 Commons_category: Irregular galaxies
 dv_is_:
@@ -159,7 +159,7 @@ dv_has_:
 
 # [[Irregular_Galaxy]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Irregular_galaxy,190397|WD~Irregular_galaxy,190397]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Irregular_galaxy,190397|WD~Irregular_galaxy,190397]] 
 
 ## #has_/text_of_/abstract 
 

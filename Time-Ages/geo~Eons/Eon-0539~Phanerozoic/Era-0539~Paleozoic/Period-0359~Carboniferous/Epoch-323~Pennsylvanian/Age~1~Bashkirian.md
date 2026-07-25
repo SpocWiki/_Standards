@@ -36,15 +36,15 @@ aliases:
 has_id_wikidata: Q639443
 ischart: LowerPennsylvanian
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Bashkirian,30869507|WD~Category_Bashkirian,30869507]]'
-significant_place: '[[_Standards/WikiData/WD~Arrow_Canyon,49774932|WD~Arrow_Canyon,49774932]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-named_by: '[[_Standards/WikiData/WD~Sofia_Viktorovna_Semikhatova,106574396|WD~Sofia_Viktorovna_Semikhatova,106574396]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Bashkirian,134498081|WD~GSSP_for_the_base_of_the_Bashkirian,134498081]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Bashkirian,30869507|WD~Category_Bashkirian,30869507]]'
+significant_place: '[[/_Standards/WikiData/WD~Arrow_Canyon,49774932|WD~Arrow_Canyon,49774932]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+named_by: '[[/_Standards/WikiData/WD~Sofia_Viktorovna_Semikhatova,106574396|WD~Sofia_Viktorovna_Semikhatova,106574396]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_the_Bashkirian,134498081|WD~GSSP_for_the_base_of_the_Bashkirian,134498081]]'
 end_time: -315200000-01-01T00:00:00Z
-named_after: '[[_Standards/WikiData/WD~Bashkortostan,5710|WD~Bashkortostan,5710]]'
+named_after: '[[/_Standards/WikiData/WD~Bashkortostan,5710|WD~Bashkortostan,5710]]'
 Commons_category: Bashkirian
 coordinate_location: Point(-114.7778 36.7333)
 sRGB_color_hex_triplet: 99C2B5
@@ -137,7 +137,7 @@ dv_has_:
     - -315.2e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Bashkirian,639443|WD~Bashkirian,639443]]'
+  - '[[/_Standards/WikiData/WD~Bashkirian,639443|WD~Bashkirian,639443]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian|Age~1~Bashkirian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.public|Age~1~Bashkirian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.internal|Age~1~Bashkirian.internal]]'
@@ -155,7 +155,7 @@ dv_has_duration_years: NaN
 dv_has_previous_item: '[[../Epoch-359~Mississippian/Age~3~Serpukhovian|Age~3~Serpukhovian]]'
 dv_has_next_item: '[[Age~2~Moscovian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Bashkirian,639443|WD~Bashkirian,639443]]'
+- '[[/_Standards/WikiData/WD~Bashkirian,639443|WD~Bashkirian,639443]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian|Age~1~Bashkirian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.public|Age~1~Bashkirian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.internal|Age~1~Bashkirian.internal]]'
@@ -202,7 +202,7 @@ dv_has_name_abbreviated: c4
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Bashkirian,639443|WD~Bashkirian,639443]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Bashkirian,639443|WD~Bashkirian,639443]] 
 
 A time period from 323.2 to 315.2 million years ago. 
 

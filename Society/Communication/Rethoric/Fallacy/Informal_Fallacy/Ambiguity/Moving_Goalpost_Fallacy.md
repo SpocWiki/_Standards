@@ -16,9 +16,9 @@ aliases:
 - 搬龍門
 has_id_wikidata: Q3244473
 instance_of:
-- '[[_Standards/WikiData/WD~informal_fallacy,3312438|WD~informal_fallacy,3312438]]'
-- '[[_Standards/WikiData/WD~metaphor,18534|WD~metaphor,18534]]'
-named_after: '[[_Standards/WikiData/WD~goalpost,4810284|WD~goalpost,4810284]]'
+- '[[/_Standards/WikiData/WD~informal_fallacy,3312438|WD~informal_fallacy,3312438]]'
+- '[[/_Standards/WikiData/WD~metaphor,18534|WD~metaphor,18534]]'
+named_after: '[[/_Standards/WikiData/WD~goalpost,4810284|WD~goalpost,4810284]]'
 dv_has_:
   name_:
     ar: مغالطة تحريك المرمى
@@ -40,7 +40,7 @@ dv_has_:
 
 # [[Moving_Goalpost_Fallacy]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Moving_the_goalposts,3244473|WD~Moving_the_goalposts,3244473]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Moving_the_goalposts,3244473|WD~Moving_the_goalposts,3244473]] 
 #has_/examples :: By constantly testing the borders, e.g. via [[../../../../../Propaganda|Propaganda]], the [[Moving_Goalpost_Fallacy/Overton_Window|Overton_Window]] can be moved. 
 
 

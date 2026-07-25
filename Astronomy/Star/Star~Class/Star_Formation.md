@@ -54,10 +54,10 @@ aliases:
 - 항성 형성
 has_id_wikidata: Q16744
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Star_formation,13561049|WD~Template_Star_formation,13561049]]'
-- '[[_Standards/WikiData/WD~Template_Star_formation_navbox,41682079|WD~Template_Star_formation_navbox,41682079]]'
-subclass_of: '[[_Standards/WikiData/WD~astrophysical_process,15401756|WD~astrophysical_process,15401756]]'
-has_effect: '[[_Standards/WikiData/WD~star,523|WD~star,523]]'
+- '[[/_Standards/WikiData/WD~Template_Star_formation,13561049|WD~Template_Star_formation,13561049]]'
+- '[[/_Standards/WikiData/WD~Template_Star_formation_navbox,41682079|WD~Template_Star_formation_navbox,41682079]]'
+subclass_of: '[[/_Standards/WikiData/WD~astrophysical_process,15401756|WD~astrophysical_process,15401756]]'
+has_effect: '[[/_Standards/WikiData/WD~star,523|WD~star,523]]'
 Dewey_Decimal_Classification: 523.88
 Commons_category: Star formation
 dv_is_:
@@ -145,7 +145,7 @@ dv_has_:
 
 # [[Star_Formation]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Star_formation,16744|WD~Star_formation,16744]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Star_formation,16744|WD~Star_formation,16744]] 
 
 ## #has_/text_of_/abstract 
 

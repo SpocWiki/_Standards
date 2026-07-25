@@ -68,23 +68,23 @@ aliases:
 - 석탄기
 has_id_wikidata: Q133738
 instance_of:
-- '[[_Standards/WikiData/WD~period,392928|WD~period,392928]]'
-- '[[_Standards/WikiData/WD~system,403523|WD~system,403523]]'
+- '[[/_Standards/WikiData/WD~period,392928|WD~period,392928]]'
+- '[[/_Standards/WikiData/WD~system,403523|WD~system,403523]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875|WD~The_American_Cyclopædia,19077875]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664|WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
+- '[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~The_American_Cyclopædia,19077875|WD~The_American_Cyclopædia,19077875]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664|WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
 named_by:
-- '[[_Standards/WikiData/WD~William_Daniel_Conybeare,2143830|WD~William_Daniel_Conybeare,2143830]]'
-- '[[_Standards/WikiData/WD~William_Phillips,3568882|WD~William_Phillips,3568882]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Carboniferous,8343789|WD~Category_Carboniferous,8343789]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[/_Standards/WikiData/WD~William_Daniel_Conybeare,2143830|WD~William_Daniel_Conybeare,2143830]]'
+- '[[/_Standards/WikiData/WD~William_Phillips,3568882|WD~William_Phillips,3568882]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Carboniferous,8343789|WD~Category_Carboniferous,8343789]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -298900000-01-01T00:00:00Z
-different_from: '[[_Standards/WikiData/WD~carbon_fibers,5860|WD~carbon_fibers,5860]]'
-named_after: '[[_Standards/WikiData/WD~coal,24489|WD~coal,24489]]'
+different_from: '[[/_Standards/WikiData/WD~carbon_fibers,5860|WD~carbon_fibers,5860]]'
+named_after: '[[/_Standards/WikiData/WD~coal,24489|WD~coal,24489]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%20330%20Ma%20%28Serpukhovian%20Age%29.png
 IPA_transcription: /ˌkɑːrbəˈnɪfərəs/
 sRGB_color_hex_triplet: 67A599
@@ -213,7 +213,7 @@ dv_has_:
     stopped: -298.9e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Carboniferous,133738|WD~Carboniferous,133738]]'
+  - '[[/_Standards/WikiData/WD~Carboniferous,133738|WD~Carboniferous,133738]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous|Period-0359~Carboniferous]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.public|Period-0359~Carboniferous.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.internal|Period-0359~Carboniferous.internal]]'
@@ -225,7 +225,7 @@ dv_has_duration_years: 6.000e+7
 dv_has_previous_item: '[[Period-0419~Devonian]]'
 dv_has_next_item: '[[Period-0299~Permian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Carboniferous,133738|WD~Carboniferous,133738]]'
+- '[[/_Standards/WikiData/WD~Carboniferous,133738|WD~Carboniferous,133738]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous|Period-0359~Carboniferous]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.public|Period-0359~Carboniferous.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.internal|Period-0359~Carboniferous.internal]]'
@@ -267,7 +267,7 @@ dv_has_text_of_color: 0x67A599
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Carboniferous,133738|WD~Carboniferous,133738]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Carboniferous,133738|WD~Carboniferous,133738]] 
 
 A time period from 358.9 to 298.9 million years ago. 
 

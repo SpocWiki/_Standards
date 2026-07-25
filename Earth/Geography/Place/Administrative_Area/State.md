@@ -163,21 +163,21 @@ cssclasses:
 - Type
 described_by_source:
 - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 different_from:
-- '[[_Standards/WikiData/WD~federated_state,107390|WD~federated_state,107390]]'
-- '[[_Standards/WikiData/WD~nationality,231002|WD~nationality,231002]]'
-- '[[_Standards/WikiData/WD~constituent_state,1763527|WD~constituent_state,1763527]]'
-- '[[_Standards/WikiData/WD~Halth,2324272|WD~Halth,2324272]]'
-- '[[_Standards/WikiData/WD~state,3505845|WD~state,3505845]]'
-- '[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
-- '[[_Standards/WikiData/WD~self-proclaimed_state,21512251|WD~self-proclaimed_state,21512251]]'
-- '[[_Standards/WikiData/WD~country,6256|WD~country,6256]]'
-- '[[_Standards/WikiData/WD~government,7188|WD~government,7188]]'
+- '[[/_Standards/WikiData/WD~federated_state,107390|WD~federated_state,107390]]'
+- '[[/_Standards/WikiData/WD~nationality,231002|WD~nationality,231002]]'
+- '[[/_Standards/WikiData/WD~constituent_state,1763527|WD~constituent_state,1763527]]'
+- '[[/_Standards/WikiData/WD~Halth,2324272|WD~Halth,2324272]]'
+- '[[/_Standards/WikiData/WD~state,3505845|WD~state,3505845]]'
+- '[[/_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
+- '[[/_Standards/WikiData/WD~self-proclaimed_state,21512251|WD~self-proclaimed_state,21512251]]'
+- '[[/_Standards/WikiData/WD~country,6256|WD~country,6256]]'
+- '[[/_Standards/WikiData/WD~government,7188|WD~government,7188]]'
 draft: false
 expiryDate: ''
-has_part_s_: '[[_Standards/WikiData/WD~embassy,3917681|WD~embassy,3917681]]'
+has_part_s_: '[[/_Standards/WikiData/WD~embassy,3917681|WD~embassy,3917681]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Leviathan%20frontispiece%20cropped%20British%20Library.jpg
 isDeleted: false
 isReadOnly: false
@@ -187,14 +187,14 @@ Krugosvet_article: istoriya/GOSUDARSTVO.html
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_state Class
-named_after: '[[_Standards/WikiData/WD~orb,461585|WD~orb,461585]]'
+named_after: '[[/_Standards/WikiData/WD~orb,461585|WD~orb,461585]]'
 OmegaWiki_Defined_Meaning: 3609
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529|WD~WikiProject_Human_Rights,13382529]]'
+on_focus_list_of_Wikimedia_project: '[[/_Standards/WikiData/WD~WikiProject_Human_Rights,13382529|WD~WikiProject_Human_Rights,13382529]]'
 owner_of:
-- '[[_Standards/WikiData/WD~state_property,2396633|WD~state_property,2396633]]'
-- '[[_Standards/WikiData/WD~public_treasury,11953074|WD~public_treasury,11953074]]'
+- '[[/_Standards/WikiData/WD~state_property,2396633|WD~state_property,2396633]]'
+- '[[/_Standards/WikiData/WD~public_treasury,11953074|WD~public_treasury,11953074]]'
 P8979: Q12310
-part_of: '[[_Standards/WikiData/WD~nation_state,179671|WD~nation_state,179671]]'
+part_of: '[[/_Standards/WikiData/WD~nation_state,179671|WD~nation_state,179671]]'
 properties_for_this_type:
 - foundational text
 - diplomatic relation
@@ -227,19 +227,19 @@ properties_for_this_type:
 - locator map image
 publish: true
 publishDate: ''
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~country,6256|WD~country,6256]]'
+said_to_be_the_same_as: '[[/_Standards/WikiData/WD~country,6256|WD~country,6256]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~juridical_person,155076|WD~juridical_person,155076]]'
-- '[[_Standards/WikiData/WD~community,177634|WD~community,177634]]'
-- '[[_Standards/WikiData/WD~political_territorial_entity,1048835|WD~political_territorial_entity,1048835]]'
-- '[[_Standards/WikiData/WD~subject_of_international_law,1896989|WD~subject_of_international_law,1896989]]'
-- '[[_Standards/WikiData/WD~former_or_current_state,96196009|WD~former_or_current_state,96196009]]'
+- '[[/_Standards/WikiData/WD~juridical_person,155076|WD~juridical_person,155076]]'
+- '[[/_Standards/WikiData/WD~community,177634|WD~community,177634]]'
+- '[[/_Standards/WikiData/WD~political_territorial_entity,1048835|WD~political_territorial_entity,1048835]]'
+- '[[/_Standards/WikiData/WD~subject_of_international_law,1896989|WD~subject_of_international_law,1896989]]'
+- '[[/_Standards/WikiData/WD~former_or_current_state,96196009|WD~former_or_current_state,96196009]]'
 tags:
 - class/Class
 - schema-org/Class
 title: is_a_state Class
-topic_s_main_category: '[[_Standards/WikiData/WD~Q9798786,9798786|WD~Q9798786,9798786]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_country,5621162|WD~Template_Infobox_country,5621162]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Q9798786,9798786|WD~Q9798786,9798786]]'
+topic_s_main_template: '[[/_Standards/WikiData/WD~Template_Infobox_country,5621162|WD~Template_Infobox_country,5621162]]'
 type: Type
 Wikidata_property: country
 dv_is_:

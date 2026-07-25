@@ -192,7 +192,7 @@ A unique instance of a television BroadcastService on a CableOrSatelliteService 
 
 #has_/properties :: [ additionalType, alternateName, broadcastChannelId, broadcastFrequency, broadcastServiceTier, description, disambiguatingDescription, genre, identifier, image, inBroadcastLineup, mainEntityOfPage, name, potentialAction, providesBroadcastService, sameAs, subjectOf, url ]  
 
-#is_/same_as :: [[_Standards/WikiData/WD~television_channel,2001305|WD~television_channel,2001305]]
+#is_/same_as :: [[/_Standards/WikiData/WD~television_channel,2001305|WD~television_channel,2001305]]
 
 ## #has_/text_of_/abstract 
 

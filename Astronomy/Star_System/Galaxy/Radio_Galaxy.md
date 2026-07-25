@@ -53,11 +53,11 @@ aliases:
 - 전파 은하
 has_id_wikidata: Q217012
 subclass_of:
-- '[[_Standards/WikiData/WD~astronomical_radio_source,1931185|WD~astronomical_radio_source,1931185]]'
-- '[[_Standards/WikiData/WD~galaxy,318|WD~galaxy,318]]'
-- '[[_Standards/WikiData/WD~active_galactic_nucleus,46587|WD~active_galactic_nucleus,46587]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
+- '[[/_Standards/WikiData/WD~astronomical_radio_source,1931185|WD~astronomical_radio_source,1931185]]'
+- '[[/_Standards/WikiData/WD~galaxy,318|WD~galaxy,318]]'
+- '[[/_Standards/WikiData/WD~active_galactic_nucleus,46587|WD~active_galactic_nucleus,46587]]'
+described_by_source: '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+instance_of: '[[/_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Centauros%20a-spc.png
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%B0%E0%A5%87%E0%A4%A1%E0%A4%BF%E0%A4%93%20%E0%A4%A6%E0%A5%80%E0%A4%B0%E0%A5%8D%E0%A4%98%E0%A4%BF%E0%A4%95%E0%A4%BE.wav
 Krugosvet_article_archived_: nauka_i_tehnika/astronomiya/RADIOGALAKTIKI.html

@@ -26,16 +26,16 @@ aliases:
 - 바스절
 has_id_wikidata: Q791313
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-named_by: "[[_Standards/WikiData/WD~Jean_Baptiste_Julien_d'Omalius_d'Halloy,1323652|WD~Jean_Baptiste_Julien_d'Omalius_d'Halloy,1323652]]"
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Bathonian,21697523|WD~Category_Bathonian,21697523]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Bathonian,134222940|WD~GSSP_for_the_base_of_the_Bathonian,134222940]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_by: "[[/_Standards/WikiData/WD~Jean_Baptiste_Julien_d'Omalius_d'Halloy,1323652|WD~Jean_Baptiste_Julien_d'Omalius_d'Halloy,1323652]]"
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Bathonian,21697523|WD~Category_Bathonian,21697523]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_the_Bathonian,134222940|WD~GSSP_for_the_base_of_the_Bathonian,134222940]]'
 coordinate_location: Point(6.3153 43.9606)
 end_time: -166100000-01-01T00:00:00Z
-named_after: '[[_Standards/WikiData/WD~Bath,22889|WD~Bath,22889]]'
-country: '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+named_after: '[[/_Standards/WikiData/WD~Bath,22889|WD~Bath,22889]]'
+country: '[[/_Standards/WikiData/WD~France,142|WD~France,142]]'
 start_time: -168300000-01-01T00:00:00Z
 Commons_category: Bathonian
 sRGB_color_hex_triplet: 9CE2EF
@@ -93,7 +93,7 @@ dv_has_:
     stopped: -165.3e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Bathonian,791313|WD~Bathonian,791313]]'
+  - '[[/_Standards/WikiData/WD~Bathonian,791313|WD~Bathonian,791313]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~3~Bathonian|Age~3~Bathonian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~3~Bathonian.public|Age~3~Bathonian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~3~Bathonian.internal|Age~3~Bathonian.internal]]'
@@ -105,7 +105,7 @@ dv_has_duration_years: 2.900e+6
 dv_has_previous_item: '[[Age~2~Bajocian]]'
 dv_has_next_item: '[[Age~4~Callovian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Bathonian,791313|WD~Bathonian,791313]]'
+- '[[/_Standards/WikiData/WD~Bathonian,791313|WD~Bathonian,791313]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~3~Bathonian|Age~3~Bathonian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~3~Bathonian.public|Age~3~Bathonian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~3~Bathonian.internal|Age~3~Bathonian.internal]]'
@@ -149,7 +149,7 @@ A time period from 168.2 to 165.3 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Bathonian,791313|WD~Bathonian,791313]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Bathonian,791313|WD~Bathonian,791313]] 
 
 ## #has_/text_of_/abstract 
 

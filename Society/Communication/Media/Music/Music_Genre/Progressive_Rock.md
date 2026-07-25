@@ -157,7 +157,7 @@ has_/name::Progressive Rock
 
 confidential: public
 
-#is_/same_as :: [[_Standards/WikiData/WD~progressive_rock,49451|WD~progressive_rock,49451]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~progressive_rock,49451|WD~progressive_rock,49451]] 
 
 Ausprägung des [Rock](g:3) in Richtung [Avantgarde](g:115), zu dessen Pionieren in den 60er Jahren die Gruppe "[Van Der Graaf Generator](b:5859)" um [Peter Hammill](p:28563) zählte.
 

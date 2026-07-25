@@ -4,27 +4,27 @@ aliases:
   - Mount Pinatubo
   - Mount_Pinatubo
 has_id_wikidata: Q1451
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Luzon,125384]]"
-mountain_range: "[[_Standards/WikiData/WD~Zambales_Mountains,145442]]"
+located_in_on_physical_feature: "[[/_Standards/WikiData/WD~Luzon,125384]]"
+mountain_range: "[[/_Standards/WikiData/WD~Zambales_Mountains,145442]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~caldera,159954]]"
-  - "[[_Standards/WikiData/WD~summit,207326]]"
-  - "[[_Standards/WikiData/WD~somma_volcano,1491559]]"
-  - "[[_Standards/WikiData/WD~mountain,8502]]"
+  - "[[/_Standards/WikiData/WD~caldera,159954]]"
+  - "[[/_Standards/WikiData/WD~summit,207326]]"
+  - "[[/_Standards/WikiData/WD~somma_volcano,1491559]]"
+  - "[[/_Standards/WikiData/WD~mountain,8502]]"
 made_from_material:
-  - "[[_Standards/WikiData/WD~andesite,181908]]"
-  - "[[_Standards/WikiData/WD~dacite,466481]]"
-  - "[[_Standards/WikiData/WD~basaltic_andesite,809752]]"
-volcano_observatory: "[[_Standards/WikiData/WD~Philippine_Institute_of_Volcanology_and_Seismology,2435880]]"
-category_for_maps_or_plans: "[[_Standards/WikiData/WD~Category_Maps_of_Mount_Pinatubo,84057264]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Mount_Pinatubo,133842556]]"
+  - "[[/_Standards/WikiData/WD~andesite,181908]]"
+  - "[[/_Standards/WikiData/WD~dacite,466481]]"
+  - "[[/_Standards/WikiData/WD~basaltic_andesite,809752]]"
+volcano_observatory: "[[/_Standards/WikiData/WD~Philippine_Institute_of_Volcanology_and_Seismology,2435880]]"
+category_for_maps_or_plans: "[[/_Standards/WikiData/WD~Category_Maps_of_Mount_Pinatubo,84057264]]"
+topic_s_main_category: "[[/_Standards/WikiData/WD~Category_Mount_Pinatubo,133842556]]"
 coordinate_location: Point(120.35 15.13)
-country: "[[_Standards/WikiData/WD~Philippines,928]]"
+country: "[[/_Standards/WikiData/WD~Philippines,928]]"
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Central_Luzon,13617]]"
-  - "[[_Standards/WikiData/WD~Q13870,13870]]"
-  - "[[_Standards/WikiData/WD~Q13895,13895]]"
-  - "[[_Standards/WikiData/WD~Q13892,13892]]"
+  - "[[/_Standards/WikiData/WD~Central_Luzon,13617]]"
+  - "[[/_Standards/WikiData/WD~Q13870,13870]]"
+  - "[[/_Standards/WikiData/WD~Q13895,13895]]"
+  - "[[/_Standards/WikiData/WD~Q13892,13892]]"
 elevation_above_sea_level: 1486
 Commons_category: Mount Pinatubo
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Pinatubo.ogg

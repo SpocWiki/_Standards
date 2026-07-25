@@ -14,8 +14,8 @@ aliases:
 - 吉特巴
 - 지터벅
 has_id_wikidata: Q950354
-subclass_of: '[[_Standards/WikiData/WD~swing,123704|WD~swing,123704]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_dance,107357104|WD~type_of_dance,107357104]]'
+subclass_of: '[[/_Standards/WikiData/WD~swing,123704|WD~swing,123704]]'
+instance_of: '[[/_Standards/WikiData/WD~type_of_dance,107357104|WD~type_of_dance,107357104]]'
 dv_has_:
   name_:
     ar: جيتير بج
@@ -49,7 +49,7 @@ dv_has_:
 
 # [[Jitterbug]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Jitterbug,950354|WD~Jitterbug,950354]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Jitterbug,950354|WD~Jitterbug,950354]] 
 
 ## #has_/text_of_/abstract 
 

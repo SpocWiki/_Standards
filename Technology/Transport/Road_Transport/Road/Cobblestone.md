@@ -3,14 +3,14 @@ aliases:
   - Kopfsteinpflaster
 has_id_wikidata: Q2996907
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-different_from: "[[_Standards/WikiData/WD~sett,757022]]"
+  - "[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+different_from: "[[/_Standards/WikiData/WD~sett,757022]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~road_surface,1049667]]"
-  - "[[_Standards/WikiData/WD~natural_building_material,3300024]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Cobbled_streets,12083849]]"
+  - "[[/_Standards/WikiData/WD~road_surface,1049667]]"
+  - "[[/_Standards/WikiData/WD~natural_building_material,3300024]]"
+topic_s_main_category: "[[/_Standards/WikiData/WD~Category_Cobbled_streets,12083849]]"
 Commons_gallery: Cobblestone
 Commons_category: Cobblestones
 image:

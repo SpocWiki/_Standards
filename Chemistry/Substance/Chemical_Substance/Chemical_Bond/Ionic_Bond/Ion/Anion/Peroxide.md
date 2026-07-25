@@ -44,9 +44,9 @@ aliases:
 - 過酸化物
 - 과산화물
 has_id_wikidata: Q107429
-different_from: '[[_Standards/WikiData/WD~hydrogen_peroxide,171877|WD~hydrogen_peroxide,171877]]'
-subclass_of: '[[_Standards/WikiData/WD~oxygen_compound,5156940|WD~oxygen_compound,5156940]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
+different_from: '[[/_Standards/WikiData/WD~hydrogen_peroxide,171877|WD~hydrogen_peroxide,171877]]'
+subclass_of: '[[/_Standards/WikiData/WD~oxygen_compound,5156940|WD~oxygen_compound,5156940]]'
+instance_of: '[[/_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
 Gmelin_number: 486
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Peroxide%20group%20v.2.png
 canonical_SMILES: '[*]OO[*]'
@@ -159,7 +159,7 @@ dv_has_:
 
 # [[Peroxide]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Peroxide,107429|WD~Peroxide,107429]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Peroxide,107429|WD~Peroxide,107429]] 
 
 ## #has_/text_of_/abstract 
 

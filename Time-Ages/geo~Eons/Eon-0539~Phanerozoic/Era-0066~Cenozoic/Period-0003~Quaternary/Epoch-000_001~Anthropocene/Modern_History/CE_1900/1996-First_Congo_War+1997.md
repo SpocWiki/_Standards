@@ -52,26 +52,26 @@ aliases:
 - 第一次剛果戰爭
 - 제1차 콩고 전쟁
 has_id_wikidata: Q838695
-part_of: '[[_Standards/WikiData/WD~Congo_Civil_War,364610|WD~Congo_Civil_War,364610]]'
+part_of: '[[/_Standards/WikiData/WD~Congo_Civil_War,364610|WD~Congo_Civil_War,364610]]'
 participant:
-- '[[_Standards/WikiData/WD~Interahamwe,755973|WD~Interahamwe,755973]]'
-- '[[_Standards/WikiData/WD~Alliance_of_Democratic_Forces_for_the_Liberation_of_Congo,2367261|WD~Alliance_of_Democratic_Forces_for_the_Liberation_of_Congo,2367261]]'
-- '[[_Standards/WikiData/WD~Army_for_the_Liberation_of_Rwanda,2862906|WD~Army_for_the_Liberation_of_Rwanda,2862906]]'
-- '[[_Standards/WikiData/WD~Zaire,6500954|WD~Zaire,6500954]]'
-- '[[_Standards/WikiData/WD~Angola,916|WD~Angola,916]]'
-- '[[_Standards/WikiData/WD~Burundi,967|WD~Burundi,967]]'
-- '[[_Standards/WikiData/WD~Uganda,1036|WD~Uganda,1036]]'
-- '[[_Standards/WikiData/WD~Rwanda,1037|WD~Rwanda,1037]]'
-- '[[_Standards/WikiData/WD~National_Union_for_the_Total_Independence_of_Angola,28699|WD~National_Union_for_the_Total_Independence_of_Angola,28699]]'
-location: '[[_Standards/WikiData/WD~Zaire,6500954|WD~Zaire,6500954]]'
-instance_of: '[[_Standards/WikiData/WD~war,198|WD~war,198]]'
+- '[[/_Standards/WikiData/WD~Interahamwe,755973|WD~Interahamwe,755973]]'
+- '[[/_Standards/WikiData/WD~Alliance_of_Democratic_Forces_for_the_Liberation_of_Congo,2367261|WD~Alliance_of_Democratic_Forces_for_the_Liberation_of_Congo,2367261]]'
+- '[[/_Standards/WikiData/WD~Army_for_the_Liberation_of_Rwanda,2862906|WD~Army_for_the_Liberation_of_Rwanda,2862906]]'
+- '[[/_Standards/WikiData/WD~Zaire,6500954|WD~Zaire,6500954]]'
+- '[[/_Standards/WikiData/WD~Angola,916|WD~Angola,916]]'
+- '[[/_Standards/WikiData/WD~Burundi,967|WD~Burundi,967]]'
+- '[[/_Standards/WikiData/WD~Uganda,1036|WD~Uganda,1036]]'
+- '[[/_Standards/WikiData/WD~Rwanda,1037|WD~Rwanda,1037]]'
+- '[[/_Standards/WikiData/WD~National_Union_for_the_Total_Independence_of_Angola,28699|WD~National_Union_for_the_Total_Independence_of_Angola,28699]]'
+location: '[[/_Standards/WikiData/WD~Zaire,6500954|WD~Zaire,6500954]]'
+instance_of: '[[/_Standards/WikiData/WD~war,198|WD~war,198]]'
 Commons_category: First Congo War
 start_time: 1996-10-24T00:00:00Z
 end_time: 1997-05-16T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/First%20Congo%20War%20offensive%20map%20en.svg
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~First_Congo_War,838695|WD~First_Congo_War,838695]]'
+  - '[[/_Standards/WikiData/WD~First_Congo_War,838695|WD~First_Congo_War,838695]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1996-First_Congo_War+1997|1996-First_Congo_War+1997]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1996-First_Congo_War+1997.public|1996-First_Congo_War+1997.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1996-First_Congo_War+1997.internal|1996-First_Congo_War+1997.internal]]'
@@ -80,7 +80,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1996-First_Congo_War+1997.personal|1996-First_Congo_War+1997.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1996-First_Congo_War+1997.secret|1996-First_Congo_War+1997.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~First_Congo_War,838695|WD~First_Congo_War,838695]]'
+- '[[/_Standards/WikiData/WD~First_Congo_War,838695|WD~First_Congo_War,838695]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1996-First_Congo_War+1997|1996-First_Congo_War+1997]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1996-First_Congo_War+1997.public|1996-First_Congo_War+1997.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1996-First_Congo_War+1997.internal|1996-First_Congo_War+1997.internal]]'
@@ -148,7 +148,7 @@ dv_has_:
 
 # [[1996-First_Congo_War+1997]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~First_Congo_War,838695|WD~First_Congo_War,838695]]
+#is_/same_as :: [[/_Standards/WikiData/WD~First_Congo_War,838695|WD~First_Congo_War,838695]]
 
 ## #has_/text_of_/abstract 
 

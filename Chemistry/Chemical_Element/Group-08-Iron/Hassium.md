@@ -81,16 +81,16 @@ aliases:
 - "\U0002CB76"
 has_id_wikidata: Q1252
 part_of:
-- '[[_Standards/WikiData/WD~group_8,202224|WD~group_8,202224]]'
-- '[[_Standards/WikiData/WD~period_7,244979|WD~period_7,244979]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~GSI_Helmholtz_Centre_for_Heavy_Ion_Research,703993|WD~GSI_Helmholtz_Centre_for_Heavy_Ion_Research,703993]]'
+- '[[/_Standards/WikiData/WD~group_8,202224|WD~group_8,202224]]'
+- '[[/_Standards/WikiData/WD~period_7,244979|WD~period_7,244979]]'
+discoverer_or_inventor: '[[/_Standards/WikiData/WD~GSI_Helmholtz_Centre_for_Heavy_Ion_Research,703993|WD~GSI_Helmholtz_Centre_for_Heavy_Ion_Research,703993]]'
 instance_of:
-- '[[_Standards/WikiData/WD~synthetic_element,755992|WD~synthetic_element,755992]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
-different_from: '[[_Standards/WikiData/WD~Wojciech_Jerzy_Has,1095790|WD~Wojciech_Jerzy_Has,1095790]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
-named_after: '[[_Standards/WikiData/WD~Hesse,1199|WD~Hesse,1199]]'
-subclass_of: '[[_Standards/WikiData/WD~transition_metal,19588|WD~transition_metal,19588]]'
+- '[[/_Standards/WikiData/WD~synthetic_element,755992|WD~synthetic_element,755992]]'
+- '[[/_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+different_from: '[[/_Standards/WikiData/WD~Wojciech_Jerzy_Has,1095790|WD~Wojciech_Jerzy_Has,1095790]]'
+described_by_source: '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+named_after: '[[/_Standards/WikiData/WD~Hesse,1199|WD~Hesse,1199]]'
+subclass_of: '[[/_Standards/WikiData/WD~transition_metal,19588|WD~transition_metal,19588]]'
 atomic_number: 108
 OmegaWiki_Defined_Meaning: 160082
 element_symbol: Hs
@@ -283,7 +283,7 @@ Unicode_character: 𨭆
 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hassium,1252|WD~Hassium,1252]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Hassium,1252|WD~Hassium,1252]] 
 
 ## #has_/text_of_/abstract 
 

@@ -93,14 +93,14 @@ aliases:
 - 의회공화국
 has_id_wikidata: Q4198907
 subclass_of:
-- '[[_Standards/WikiData/WD~parliamentary_system,166747|WD~parliamentary_system,166747]]'
-- '[[_Standards/WikiData/WD~republic,7270|WD~republic,7270]]'
-instance_of: '[[_Standards/WikiData/WD~form_of_government,1307214|WD~form_of_government,1307214]]'
+- '[[/_Standards/WikiData/WD~parliamentary_system,166747|WD~parliamentary_system,166747]]'
+- '[[/_Standards/WikiData/WD~republic,7270|WD~republic,7270]]'
+instance_of: '[[/_Standards/WikiData/WD~form_of_government,1307214|WD~form_of_government,1307214]]'
 model_item:
-- '[[_Standards/WikiData/WD~federal_parliamentary_republic,5440547|WD~federal_parliamentary_republic,5440547]]'
-- '[[_Standards/WikiData/WD~unitary_parliamentary_republic,22909549|WD~unitary_parliamentary_republic,22909549]]'
-- '[[_Standards/WikiData/WD~Austria,40|WD~Austria,40]]'
-- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+- '[[/_Standards/WikiData/WD~federal_parliamentary_republic,5440547|WD~federal_parliamentary_republic,5440547]]'
+- '[[/_Standards/WikiData/WD~unitary_parliamentary_republic,22909549|WD~unitary_parliamentary_republic,22909549]]'
+- '[[/_Standards/WikiData/WD~Austria,40|WD~Austria,40]]'
+- '[[/_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
 described_at_URL: https://www.demokratiewebstatt.at/demokratie/lexikon/Parlamentarische%20Republik
 dv_has_:
   name_:
@@ -215,7 +215,7 @@ dv_has_:
 
 # [[Parliamentary_Republic]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Parliamentary_republic,4198907|WD~Parliamentary_republic,4198907]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Parliamentary_republic,4198907|WD~Parliamentary_republic,4198907]] 
 
 ## #has_/text_of_/abstract 
 

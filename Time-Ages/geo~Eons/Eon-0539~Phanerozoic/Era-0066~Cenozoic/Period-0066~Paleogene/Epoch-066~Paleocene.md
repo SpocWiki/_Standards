@@ -43,13 +43,13 @@ aliases:
 - 팔레오세
 has_id_wikidata: Q76252
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Paleocene,7358142|WD~Category_Paleocene,7358142]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[/_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[/_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Paleocene,7358142|WD~Category_Paleocene,7358142]]'
+described_by_source: '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -66000000-01-01T00:00:00Z
-named_by: '[[_Standards/WikiData/WD~Wilhelm_Philippe_Schimper,63251|WD~Wilhelm_Philippe_Schimper,63251]]'
+named_by: '[[/_Standards/WikiData/WD~Wilhelm_Philippe_Schimper,63251|WD~Wilhelm_Philippe_Schimper,63251]]'
 Commons_category: Paleocene
 end_time: -56000000-01-01T00:00:00Z
 coordinate_location: Point(8.6486 36.1537)
@@ -151,7 +151,7 @@ dv_has_:
     stopped: -56.0e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Paleocene,76252|WD~Paleocene,76252]]'
+  - '[[/_Standards/WikiData/WD~Paleocene,76252|WD~Paleocene,76252]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene|Epoch-066~Paleocene]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene.public|Epoch-066~Paleocene.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene.internal|Epoch-066~Paleocene.internal]]'
@@ -163,7 +163,7 @@ dv_has_duration_years: 1.000e+7
 dv_has_previous_item: '[[../../Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous|Epoch~2~Late_Cretaceous]]'
 dv_has_next_item: '[[Epoch-056~Eocene]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Paleocene,76252|WD~Paleocene,76252]]'
+- '[[/_Standards/WikiData/WD~Paleocene,76252|WD~Paleocene,76252]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene|Epoch-066~Paleocene]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene.public|Epoch-066~Paleocene.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene.internal|Epoch-066~Paleocene.internal]]'
@@ -208,7 +208,7 @@ dv_has_text_of_color: 0xFDA75F
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Paleocene,76252|WD~Paleocene,76252]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Paleocene,76252|WD~Paleocene,76252]] 
 
 A time period from 66.0 to 56.0 million years ago. 
 

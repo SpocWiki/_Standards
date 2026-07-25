@@ -3,8 +3,8 @@ aliases:
   - 
 has_id_wikidata: Q385789
 Unicode_character: 🃮
-part_of: "[[_Standards/WikiData/WD~Major_Arcana,11158357|WD~Major_Arcana,11158357]]"
-instance_of: "[[_Standards/WikiData/WD~playing_card,47883|WD~playing_card,47883]]"
+part_of: "[[/_Standards/WikiData/WD~Major_Arcana,11158357|WD~Major_Arcana,11158357]]"
+instance_of: "[[/_Standards/WikiData/WD~playing_card,47883|WD~playing_card,47883]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/1JJ%20Tarot%20-%20Trump%2014%20-%20English%20-%20Temperance.jpg
 Commons_category: Temperance (Major Arcana)
 ---

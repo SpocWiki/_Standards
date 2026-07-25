@@ -79,32 +79,32 @@ aliases:
 - 등유
 has_id_wikidata: Q76904
 has_use:
-- '[[_Standards/WikiData/WD~solvent,146505|WD~solvent,146505]]'
-- '[[_Standards/WikiData/WD~lubricant,323840|WD~lubricant,323840]]'
-- '[[_Standards/WikiData/WD~liquid_fuel,1386534|WD~liquid_fuel,1386534]]'
-- '[[_Standards/WikiData/WD~diluent,3268188|WD~diluent,3268188]]'
-- '[[_Standards/WikiData/WD~jet_fuel,5361665|WD~jet_fuel,5361665]]'
-- '[[_Standards/WikiData/WD~adhesive_remover,85739793|WD~adhesive_remover,85739793]]'
+- '[[/_Standards/WikiData/WD~solvent,146505|WD~solvent,146505]]'
+- '[[/_Standards/WikiData/WD~lubricant,323840|WD~lubricant,323840]]'
+- '[[/_Standards/WikiData/WD~liquid_fuel,1386534|WD~liquid_fuel,1386534]]'
+- '[[/_Standards/WikiData/WD~diluent,3268188|WD~diluent,3268188]]'
+- '[[/_Standards/WikiData/WD~jet_fuel,5361665|WD~jet_fuel,5361665]]'
+- '[[/_Standards/WikiData/WD~adhesive_remover,85739793|WD~adhesive_remover,85739793]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~mixture,169336|WD~mixture,169336]]'
-- '[[_Standards/WikiData/WD~petroleum_product,1059843|WD~petroleum_product,1059843]]'
-- '[[_Standards/WikiData/WD~liquid_fuel,1386534|WD~liquid_fuel,1386534]]'
-used_by: '[[_Standards/WikiData/WD~kerosene_lamp,215628|WD~kerosene_lamp,215628]]'
+- '[[/_Standards/WikiData/WD~mixture,169336|WD~mixture,169336]]'
+- '[[/_Standards/WikiData/WD~petroleum_product,1059843|WD~petroleum_product,1059843]]'
+- '[[/_Standards/WikiData/WD~liquid_fuel,1386534|WD~liquid_fuel,1386534]]'
+used_by: '[[/_Standards/WikiData/WD~kerosene_lamp,215628|WD~kerosene_lamp,215628]]'
 described_by_source:
 - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667|WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-different_from: '[[_Standards/WikiData/WD~Kerosene,1205583|WD~Kerosene,1205583]]'
+- '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[/_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667|WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+different_from: '[[/_Standards/WikiData/WD~Kerosene,1205583|WD~Kerosene,1205583]]'
 part_of:
-- '[[_Standards/WikiData/WD~Leichtöl,1814735|WD~Leichtöl,1814735]]'
-- '[[_Standards/WikiData/WD~petroleum,22656|WD~petroleum,22656]]'
-instance_of: '[[_Standards/WikiData/WD~Class_II_combustible_liquid,21009057|WD~Class_II_combustible_liquid,21009057]]'
-associated_hazard: '[[_Standards/WikiData/WD~kerosene_exposure,21174797|WD~kerosene_exposure,21174797]]'
-has_effect: '[[_Standards/WikiData/WD~kerosene_exposure,21174797|WD~kerosene_exposure,21174797]]'
+- '[[/_Standards/WikiData/WD~Leichtöl,1814735|WD~Leichtöl,1814735]]'
+- '[[/_Standards/WikiData/WD~petroleum,22656|WD~petroleum,22656]]'
+instance_of: '[[/_Standards/WikiData/WD~Class_II_combustible_liquid,21009057|WD~Class_II_combustible_liquid,21009057]]'
+associated_hazard: '[[/_Standards/WikiData/WD~kerosene_exposure,21174797|WD~kerosene_exposure,21174797]]'
+has_effect: '[[/_Standards/WikiData/WD~kerosene_exposure,21174797|WD~kerosene_exposure,21174797]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~carbon,623|WD~carbon,623]]'
-- '[[_Standards/WikiData/WD~hydrocarbon,43648|WD~hydrocarbon,43648]]'
+- '[[/_Standards/WikiData/WD~carbon,623|WD~carbon,623]]'
+- '[[/_Standards/WikiData/WD~hydrocarbon,43648|WD~hydrocarbon,43648]]'
 melting_point: -50
 time_weighted_average_exposure_limit: 100
 upper_flammable_limit: 5
@@ -266,7 +266,7 @@ dv_has_:
 
 # [[Kerosene]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Kerosene,76904|WD~Kerosene,76904]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Kerosene,76904|WD~Kerosene,76904]] 
 
 ## #has_/text_of_/abstract 
 

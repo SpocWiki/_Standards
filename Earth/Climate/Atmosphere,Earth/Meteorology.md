@@ -102,32 +102,32 @@ short_name:
 - météo
 described_by_source:
 - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664|WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- "[[/_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664|WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~atmospheric_sciences,757520|WD~atmospheric_sciences,757520]]'
-- '[[_Standards/WikiData/WD~Earth_science,8008|WD~Earth_science,8008]]'
+- '[[/_Standards/WikiData/WD~atmospheric_sciences,757520|WD~atmospheric_sciences,757520]]'
+- '[[/_Standards/WikiData/WD~Earth_science,8008|WD~Earth_science,8008]]'
 different_from:
-- '[[_Standards/WikiData/WD~mereology,1194916|WD~mereology,1194916]]'
-- '[[_Standards/WikiData/WD~metrology,394|WD~metrology,394]]'
-- '[[_Standards/WikiData/WD~climatology,52139|WD~climatology,52139]]'
-practiced_by: '[[_Standards/WikiData/WD~meteorologist,2310145|WD~meteorologist,2310145]]'
+- '[[/_Standards/WikiData/WD~mereology,1194916|WD~mereology,1194916]]'
+- '[[/_Standards/WikiData/WD~metrology,394|WD~metrology,394]]'
+- '[[/_Standards/WikiData/WD~climatology,52139|WD~climatology,52139]]'
+practiced_by: '[[/_Standards/WikiData/WD~meteorologist,2310145|WD~meteorologist,2310145]]'
 instance_of:
-- '[[_Standards/WikiData/WD~branch_of_science,2465832|WD~branch_of_science,2465832]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[/_Standards/WikiData/WD~branch_of_science,2465832|WD~branch_of_science,2465832]]'
+- '[[/_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
 is_the_study_of:
-- '[[_Standards/WikiData/WD~atmospheric_circulation,2615451|WD~atmospheric_circulation,2615451]]'
-- '[[_Standards/WikiData/WD~weather,11663|WD~weather,11663]]'
-history_of_topic: '[[_Standards/WikiData/WD~timeline_of_meteorology,2704075|WD~timeline_of_meteorology,2704075]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_meteorology,7112683|WD~outline_of_meteorology,7112683]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Meteorology,10628332|WD~Template_Meteorology,10628332]]'
-has_characteristic: '[[_Standards/WikiData/WD~meteorology_award,107494416|WD~meteorology_award,107494416]]'
-has_part_s_: '[[_Standards/WikiData/WD~branch_of_meteorology,130304502|WD~branch_of_meteorology,130304502]]'
+- '[[/_Standards/WikiData/WD~atmospheric_circulation,2615451|WD~atmospheric_circulation,2615451]]'
+- '[[/_Standards/WikiData/WD~weather,11663|WD~weather,11663]]'
+history_of_topic: '[[/_Standards/WikiData/WD~timeline_of_meteorology,2704075|WD~timeline_of_meteorology,2704075]]'
+Wikimedia_outline: '[[/_Standards/WikiData/WD~outline_of_meteorology,7112683|WD~outline_of_meteorology,7112683]]'
+topic_has_template: '[[/_Standards/WikiData/WD~Template_Meteorology,10628332|WD~Template_Meteorology,10628332]]'
+has_characteristic: '[[/_Standards/WikiData/WD~meteorology_award,107494416|WD~meteorology_award,107494416]]'
+has_part_s_: '[[/_Standards/WikiData/WD~branch_of_meteorology,130304502|WD~branch_of_meteorology,130304502]]'
 OmegaWiki_Defined_Meaning: 2331
 U_S_National_Archives_Identifier: 10644747
 GitHub_topic: meteorology
@@ -327,7 +327,7 @@ dv_has_:
 
 # [[Meteorology]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Meteorology,25261|WD~Meteorology,25261]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Meteorology,25261|WD~Meteorology,25261]] 
 
 ## #has_/text_of_/abstract 
 

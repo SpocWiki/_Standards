@@ -50,7 +50,7 @@ aliases:
 - 物理光學
 - 물리광학
 has_id_wikidata: Q942347
-subclass_of: '[[_Standards/WikiData/WD~optics,14620|WD~optics,14620]]'
+subclass_of: '[[/_Standards/WikiData/WD~optics,14620|WD~optics,14620]]'
 Commons_category: Wave mechanics
 dv_has_:
   name_:
@@ -111,7 +111,7 @@ dv_has_:
 
 # [[Wave_Optics]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Physical_optics,942347|WD~Physical_optics,942347]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Physical_optics,942347|WD~Physical_optics,942347]] 
 
 ## #has_/text_of_/abstract 
 

@@ -59,9 +59,9 @@ aliases:
 - 透镜状星系
 - 렌즈형 은하
 has_id_wikidata: Q192078
-followed_by: '[[_Standards/WikiData/WD~elliptical_galaxy,184348|WD~elliptical_galaxy,184348]]'
-subclass_of: '[[_Standards/WikiData/WD~disc_galaxy,1371025|WD~disc_galaxy,1371025]]'
-follows: '[[_Standards/WikiData/WD~spiral_galaxy,2488|WD~spiral_galaxy,2488]]'
+followed_by: '[[/_Standards/WikiData/WD~elliptical_galaxy,184348|WD~elliptical_galaxy,184348]]'
+subclass_of: '[[/_Standards/WikiData/WD~disc_galaxy,1371025|WD~disc_galaxy,1371025]]'
+follows: '[[/_Standards/WikiData/WD~spiral_galaxy,2488|WD~spiral_galaxy,2488]]'
 Commons_category: Lenticular galaxies
 dv_is_:
   same_as:
@@ -155,7 +155,7 @@ dv_has_:
 
 # [[Lenticular_Galaxy]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Lenticular_galaxy,192078|WD~Lenticular_galaxy,192078]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Lenticular_galaxy,192078|WD~Lenticular_galaxy,192078]] 
 
 ## #has_/text_of_/abstract 
 

@@ -27,14 +27,14 @@ aliases:
 - 아니주스절
 has_id_wikidata: Q549024
 named_by:
-- '[[_Standards/WikiData/WD~Carl_Diener,94065|WD~Carl_Diener,94065]]'
-- '[[_Standards/WikiData/WD~Wilhelm_Heinrich_Waagen,2655440|WD~Wilhelm_Heinrich_Waagen,2655440]]'
-named_after: '[[_Standards/WikiData/WD~Enns,217524|WD~Enns,217524]]'
+- '[[/_Standards/WikiData/WD~Carl_Diener,94065|WD~Carl_Diener,94065]]'
+- '[[/_Standards/WikiData/WD~Wilhelm_Heinrich_Waagen,2655440|WD~Wilhelm_Heinrich_Waagen,2655440]]'
+named_after: '[[/_Standards/WikiData/WD~Enns,217524|WD~Enns,217524]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Anisian,21605751|WD~Category_Anisian,21605751]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Anisian,21605751|WD~Category_Anisian,21605751]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -247000000-01-01T00:00:00Z
 Commons_category: Anisian
 sRGB_color_hex_triplet: C986B6
@@ -98,7 +98,7 @@ dv_has_:
     stopped: -242.0e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Anisian,549024|WD~Anisian,549024]]'
+  - '[[/_Standards/WikiData/WD~Anisian,549024|WD~Anisian,549024]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~1~Anisian|Age~1~Anisian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~1~Anisian.public|Age~1~Anisian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~1~Anisian.internal|Age~1~Anisian.internal]]'
@@ -110,7 +110,7 @@ dv_has_duration_years: 5.200e+6
 dv_has_previous_item: '[[../Epoch-252~Early_Triassic/Age~2~Olenekian|Age~2~Olenekian]]'
 dv_has_next_item: '[[Age~2~Ladinian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Anisian,549024|WD~Anisian,549024]]'
+- '[[/_Standards/WikiData/WD~Anisian,549024|WD~Anisian,549024]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~1~Anisian|Age~1~Anisian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~1~Anisian.public|Age~1~Anisian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~1~Anisian.internal|Age~1~Anisian.internal]]'
@@ -152,7 +152,7 @@ dv_has_text_of_color: 0xBC75B7
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Anisian,549024|WD~Anisian,549024]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Anisian,549024|WD~Anisian,549024]] 
 
 A time period from 247.2 to 242 million years ago. 
 

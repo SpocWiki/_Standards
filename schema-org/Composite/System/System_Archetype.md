@@ -1,10 +1,10 @@
 ---
 aliases:
 has_id_wikidata: Q1557866
-subclass_of: "[[_Standards/WikiData/WD~archetype,131714]]"
+subclass_of: "[[/_Standards/WikiData/WD~archetype,131714]]"
 facet_of:
-  - "[[_Standards/WikiData/WD~systems_theory,269699]]"
-  - "[[_Standards/WikiData/WD~system_dynamics,598451]]"
+  - "[[/_Standards/WikiData/WD~systems_theory,269699]]"
+  - "[[/_Standards/WikiData/WD~system_dynamics,598451]]"
 ---
 
 # [[System_Archetype]] 

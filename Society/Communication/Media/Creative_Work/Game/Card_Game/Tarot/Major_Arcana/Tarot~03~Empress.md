@@ -3,11 +3,11 @@ aliases:
   - 
 has_id_wikidata: Q524112
 Unicode_character: 🃣
-part_of: "[[_Standards/WikiData/WD~Major_Arcana,11158357|WD~Major_Arcana,11158357]]"
+part_of: "[[/_Standards/WikiData/WD~Major_Arcana,11158357|WD~Major_Arcana,11158357]]"
 depicts:
-  - "[[_Standards/WikiData/WD~woman,467|WD~woman,467]]"
-  - "[[_Standards/WikiData/WD~emperor,39018|WD~emperor,39018]]"
-instance_of: "[[_Standards/WikiData/WD~playing_card,47883|WD~playing_card,47883]]"
+  - "[[/_Standards/WikiData/WD~woman,467|WD~woman,467]]"
+  - "[[/_Standards/WikiData/WD~emperor,39018|WD~emperor,39018]]"
+instance_of: "[[/_Standards/WikiData/WD~playing_card,47883|WD~playing_card,47883]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Empress%20cary%20yale.jpg
 Commons_category: Empress (Major Arcana)
 ---

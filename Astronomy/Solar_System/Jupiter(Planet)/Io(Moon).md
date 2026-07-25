@@ -46,18 +46,18 @@ aliases:
 - 木衛一
 - 이오
 has_id_wikidata: Q3123
-named_by: '[[_Standards/WikiData/WD~Simon_Marius,76684|WD~Simon_Marius,76684]]'
-named_after: '[[_Standards/WikiData/WD~Io,179014|WD~Io,179014]]'
+named_by: '[[/_Standards/WikiData/WD~Simon_Marius,76684|WD~Simon_Marius,76684]]'
+named_after: '[[/_Standards/WikiData/WD~Io,179014|WD~Io,179014]]'
 instance_of:
-- '[[_Standards/WikiData/WD~regular_moon,1086783|WD~regular_moon,1086783]]'
-- '[[_Standards/WikiData/WD~moon_of_Jupiter,61702557|WD~moon_of_Jupiter,61702557]]'
-has_part_s_: '[[_Standards/WikiData/WD~Q2869536,2869536|WD~Q2869536,2869536]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Io,11055081|WD~Template_Io,11055081]]'
+- '[[/_Standards/WikiData/WD~regular_moon,1086783|WD~regular_moon,1086783]]'
+- '[[/_Standards/WikiData/WD~moon_of_Jupiter,61702557|WD~moon_of_Jupiter,61702557]]'
+has_part_s_: '[[/_Standards/WikiData/WD~Q2869536,2869536|WD~Q2869536,2869536]]'
+topic_has_template: '[[/_Standards/WikiData/WD~Template_Io,11055081|WD~Template_Io,11055081]]'
 time_of_discovery_or_invention: 1610-01-08T00:00:00Z
 orbital_period: 1.769137786
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Galileo_Galilei,307|WD~Galileo_Galilei,307]]'
-parent_astronomical_body: '[[_Standards/WikiData/WD~Jupiter,319|WD~Jupiter,319]]'
-part_of: '[[_Standards/WikiData/WD~Galilean_moons,3203|WD~Galilean_moons,3203]]'
+discoverer_or_inventor: '[[/_Standards/WikiData/WD~Galileo_Galilei,307|WD~Galileo_Galilei,307]]'
+parent_astronomical_body: '[[/_Standards/WikiData/WD~Jupiter,319|WD~Jupiter,319]]'
+part_of: '[[/_Standards/WikiData/WD~Galilean_moons,3203|WD~Galilean_moons,3203]]'
 temperature:
 - 90
 - 110
@@ -223,7 +223,7 @@ dv_has_:
 
 # [[Io(Moon)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Io,3123|WD~Io,3123]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Io,3123|WD~Io,3123]] 
 
 ## #has_/text_of_/abstract 
 

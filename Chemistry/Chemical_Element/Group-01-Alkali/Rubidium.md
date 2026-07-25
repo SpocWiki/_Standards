@@ -88,14 +88,14 @@ Common_Procurement_Vocabulary_code:
 CPV_Supplementary_code: AA35
 described_by_source:
 - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637|WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637|WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
 Dewey_Decimal_Classification: 546.384
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Robert_Bunsen,71031|WD~Robert_Bunsen,71031]]'
-- '[[_Standards/WikiData/WD~Gustav_Kirchhoff,60052|WD~Gustav_Kirchhoff,60052]]'
+- '[[/_Standards/WikiData/WD~Robert_Bunsen,71031|WD~Robert_Bunsen,71031]]'
+- '[[/_Standards/WikiData/WD~Gustav_Kirchhoff,60052|WD~Gustav_Kirchhoff,60052]]'
 DSSTOX_compound_identifier: DTXCID6047650
 EC_number: 231-126-6
 electronegativity: 1
@@ -106,41 +106,41 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/RbMetal.JPG
 InChI: InChI=1S/Rb
 InChIKey: IGLNJRXAVVLDKE-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~lithophile,1130479|WD~lithophile,1130479]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+- '[[/_Standards/WikiData/WD~lithophile,1130479|WD~lithophile,1130479]]'
+- '[[/_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 1.52
 - 1.61
 - 1.66
 - 1.72
 Krugosvet_article: nauka_i_tehnika/himiya/RUBIDI.html
-location_of_discovery: '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+location_of_discovery: '[[/_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~carnallite,409781|WD~carnallite,409781]]'
-- '[[_Standards/WikiData/WD~leucite,419201|WD~leucite,419201]]'
-- '[[_Standards/WikiData/WD~pollucite,419274|WD~pollucite,419274]]'
-- '[[_Standards/WikiData/WD~lepidolite,429926|WD~lepidolite,429926]]'
-- '[[_Standards/WikiData/WD~zinnwaldite,680224|WD~zinnwaldite,680224]]'
+- '[[/_Standards/WikiData/WD~carnallite,409781|WD~carnallite,409781]]'
+- '[[/_Standards/WikiData/WD~leucite,419201|WD~leucite,419201]]'
+- '[[/_Standards/WikiData/WD~pollucite,419274|WD~pollucite,419274]]'
+- '[[/_Standards/WikiData/WD~lepidolite,429926|WD~lepidolite,429926]]'
+- '[[/_Standards/WikiData/WD~zinnwaldite,680224|WD~zinnwaldite,680224]]'
 mass: 85.4678
 MeSH_tree_code:
 - D01.268.549.650
 - D01.268.556.800
 - D01.552.528.759
 - D01.552.544.800
-named_after: '[[_Standards/WikiData/WD~red,3142|WD~red,3142]]'
+named_after: '[[/_Standards/WikiData/WD~red,3142|WD~red,3142]]'
 OmegaWiki_Defined_Meaning: 158318
 oxidation_state: 1
 part_of:
-- '[[_Standards/WikiData/WD~period_5,244982|WD~period_5,244982]]'
-- '[[_Standards/WikiData/WD~group_1,10801007|WD~group_1,10801007]]'
-- '[[_Standards/WikiData/WD~alkali_metal,19557|WD~alkali_metal,19557]]'
+- '[[/_Standards/WikiData/WD~period_5,244982|WD~period_5,244982]]'
+- '[[/_Standards/WikiData/WD~group_1,10801007|WD~group_1,10801007]]'
+- '[[/_Standards/WikiData/WD~alkali_metal,19557|WD~alkali_metal,19557]]'
 PubChem_CID: 5357696
 SpocWebEntityId: 21935
 standard_molar_entropy: 69.5
 subclass_of:
-- '[[_Standards/WikiData/WD~s-block,208106|WD~s-block,208106]]'
-- '[[_Standards/WikiData/WD~metal,11426|WD~metal,11426]]'
-- '[[_Standards/WikiData/WD~alkali_metal,19557|WD~alkali_metal,19557]]'
+- '[[/_Standards/WikiData/WD~s-block,208106|WD~s-block,208106]]'
+- '[[/_Standards/WikiData/WD~metal,11426|WD~metal,11426]]'
+- '[[/_Standards/WikiData/WD~alkali_metal,19557|WD~alkali_metal,19557]]'
 time_of_discovery_or_invention: 1861
 type: Element
 UMLS_CUI: C0035930

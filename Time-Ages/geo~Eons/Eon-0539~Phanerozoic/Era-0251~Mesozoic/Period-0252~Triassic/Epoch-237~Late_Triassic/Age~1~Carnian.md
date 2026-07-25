@@ -30,17 +30,17 @@ aliases:
 - 카르니아절
 has_id_wikidata: Q911899
 named_after:
-- '[[_Standards/WikiData/WD~Carnia,369765|WD~Carnia,369765]]'
-- '[[_Standards/WikiData/WD~Carnic_Alps,660390|WD~Carnic_Alps,660390]]'
-- '[[_Standards/WikiData/WD~Carinthia,37985|WD~Carinthia,37985]]'
+- '[[/_Standards/WikiData/WD~Carnia,369765|WD~Carnia,369765]]'
+- '[[/_Standards/WikiData/WD~Carnic_Alps,660390|WD~Carnic_Alps,660390]]'
+- '[[/_Standards/WikiData/WD~Carinthia,37985|WD~Carinthia,37985]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-named_by: '[[_Standards/WikiData/WD~Johann_August_Georg_Edmund_Mojsisovics_von_Mojsvar,873571|WD~Johann_August_Georg_Edmund_Mojsisovics_von_Mojsvar,873571]]'
-significant_event: '[[_Standards/WikiData/WD~Carnian_Pluvial_Event,5044049|WD~Carnian_Pluvial_Event,5044049]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Carnian,21607948|WD~Category_Carnian,21607948]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Carnian,134351839|WD~GSSP_for_the_base_of_the_Carnian,134351839]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_by: '[[/_Standards/WikiData/WD~Johann_August_Georg_Edmund_Mojsisovics_von_Mojsvar,873571|WD~Johann_August_Georg_Edmund_Mojsisovics_von_Mojsvar,873571]]'
+significant_event: '[[/_Standards/WikiData/WD~Carnian_Pluvial_Event,5044049|WD~Carnian_Pluvial_Event,5044049]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Carnian,21607948|WD~Category_Carnian,21607948]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_the_Carnian,134351839|WD~GSSP_for_the_base_of_the_Carnian,134351839]]'
 coordinate_location: Point(11.9303 46.5269)
 end_time: -227000000-01-01T00:00:00Z
 Commons_category: Carnian
@@ -106,7 +106,7 @@ dv_has_:
     stopped: -227000000
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Carnian,911899|WD~Carnian,911899]]'
+  - '[[/_Standards/WikiData/WD~Carnian,911899|WD~Carnian,911899]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian|Age~1~Carnian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.public|Age~1~Carnian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.internal|Age~1~Carnian.internal]]'
@@ -118,7 +118,7 @@ dv_has_duration_years: 1.000e+7
 dv_has_previous_item: '[[../Epoch-247~Middle_Triassic/Age~2~Ladinian|Age~2~Ladinian]]'
 dv_has_next_item: '[[Age~2~Norian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Carnian,911899|WD~Carnian,911899]]'
+- '[[/_Standards/WikiData/WD~Carnian,911899|WD~Carnian,911899]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian|Age~1~Carnian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.public|Age~1~Carnian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.internal|Age~1~Carnian.internal]]'
@@ -160,7 +160,7 @@ dv_has_text_of_color: 0xC99BCB
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Carnian,911899|WD~Carnian,911899]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Carnian,911899|WD~Carnian,911899]] 
 
 A time period from 237 to 227 million years ago. 
 

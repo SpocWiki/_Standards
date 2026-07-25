@@ -54,13 +54,13 @@ aliases:
 has_id_wikidata: Q191031
 described_by_source:
 - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-instance_of: '[[_Standards/WikiData/WD~form_of_government,1307214|WD~form_of_government,1307214]]'
+- '[[/_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+instance_of: '[[/_Standards/WikiData/WD~form_of_government,1307214|WD~form_of_government,1307214]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~social_issue,1920219|WD~social_issue,1920219]]'
-- '[[_Standards/WikiData/WD~political_system,28108|WD~political_system,28108]]'
-part_of: '[[_Standards/WikiData/WD~crowd_psychology_terminology,77716235|WD~crowd_psychology_terminology,77716235]]'
+- '[[/_Standards/WikiData/WD~social_issue,1920219|WD~social_issue,1920219]]'
+- '[[/_Standards/WikiData/WD~political_system,28108|WD~political_system,28108]]'
+part_of: '[[/_Standards/WikiData/WD~crowd_psychology_terminology,77716235|WD~crowd_psychology_terminology,77716235]]'
 dv_has_:
   name_:
     ar: حكومة الدهماء
@@ -131,7 +131,7 @@ dv_has_:
 
 # [[Ochlocracy]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ochlocracy,191031|WD~Ochlocracy,191031]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Ochlocracy,191031|WD~Ochlocracy,191031]] 
 
 ## #has_/text_of_/abstract 
 

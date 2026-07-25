@@ -40,13 +40,13 @@ aliases:
 - 루마니아 문학
 has_id_wikidata: Q2077256
 described_by_source:
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
-studied_by: '[[_Standards/WikiData/WD~Romanian_studies,2175941|WD~Romanian_studies,2175941]]'
+- '[[/_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[/_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+studied_by: '[[/_Standards/WikiData/WD~Romanian_studies,2175941|WD~Romanian_studies,2175941]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~sub_set_of_literature,109551565|WD~sub_set_of_literature,109551565]]'
-part_of: '[[_Standards/WikiData/WD~Romance_literature,11891165|WD~Romance_literature,11891165]]'
+- '[[/_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[/_Standards/WikiData/WD~sub_set_of_literature,109551565|WD~sub_set_of_literature,109551565]]'
+part_of: '[[/_Standards/WikiData/WD~Romance_literature,11891165|WD~Romance_literature,11891165]]'
 Dewey_Decimal_Classification: 850
 Commons_category: Literature of Romania
 dv_has_:
@@ -93,7 +93,7 @@ dv_has_:
 
 # [[Romanian_Literature]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Romanian_literature,2077256|WD~Romanian_literature,2077256]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Romanian_literature,2077256|WD~Romanian_literature,2077256]] 
 
 ## #has_/text_of_/abstract 
 

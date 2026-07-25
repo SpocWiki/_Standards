@@ -35,14 +35,14 @@ aliases:
 - 恰特階
 - 카티절
 has_id_wikidata: Q502171
-named_by: '[[_Standards/WikiData/WD~Theodor_Fuchs,89937|WD~Theodor_Fuchs,89937]]'
-named_after: '[[_Standards/WikiData/WD~Chatti,164076|WD~Chatti,164076]]'
+named_by: '[[/_Standards/WikiData/WD~Theodor_Fuchs,89937|WD~Theodor_Fuchs,89937]]'
+named_after: '[[/_Standards/WikiData/WD~Chatti,164076|WD~Chatti,164076]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Chattian,24068513|WD~Category_Chattian,24068513]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Chattian,133854302|WD~GSSP_for_the_base_of_the_Chattian,133854302]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Chattian,24068513|WD~Category_Chattian,24068513]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_the_Chattian,133854302|WD~GSSP_for_the_base_of_the_Chattian,133854302]]'
 end_time: -23030000-01-01T00:00:00Z
 start_time: -28100000-01-01T00:00:00Z
 Commons_category: Chattian
@@ -107,7 +107,7 @@ dv_has_:
     stopped: -23.03e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Chattian,502171|WD~Chattian,502171]]'
+  - '[[/_Standards/WikiData/WD~Chattian,502171|WD~Chattian,502171]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian|Age~2~Chattian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian.public|Age~2~Chattian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian.internal|Age~2~Chattian.internal]]'
@@ -119,7 +119,7 @@ dv_has_duration_years: 4.790e+6
 dv_has_previous_item: '[[Age~1~Rupelian]]'
 dv_has_next_item: '[[../../Period-0023~Neogene/Epoch-023~Miocene/Age~1~Aquitanian|Age~1~Aquitanian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Chattian,502171|WD~Chattian,502171]]'
+- '[[/_Standards/WikiData/WD~Chattian,502171|WD~Chattian,502171]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian|Age~2~Chattian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian.public|Age~2~Chattian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~2~Chattian.internal|Age~2~Chattian.internal]]'
@@ -163,7 +163,7 @@ A time period from 27.82 to 23.03 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Chattian,502171|WD~Chattian,502171]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Chattian,502171|WD~Chattian,502171]] 
 
 ## #has_/text_of_/abstract 
 

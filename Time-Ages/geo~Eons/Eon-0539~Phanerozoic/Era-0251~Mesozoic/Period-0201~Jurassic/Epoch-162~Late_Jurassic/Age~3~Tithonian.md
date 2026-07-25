@@ -30,14 +30,14 @@ aliases:
 - 提通階
 - 티톤절
 has_id_wikidata: Q855125
-named_by: '[[_Standards/WikiData/WD~Albert_Oppel,66578|WD~Albert_Oppel,66578]]'
+named_by: '[[/_Standards/WikiData/WD~Albert_Oppel,66578|WD~Albert_Oppel,66578]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-named_after: '[[_Standards/WikiData/WD~Tithonus,737306|WD~Tithonus,737306]]'
-replaces: '[[_Standards/WikiData/WD~Portland_Group,3399326|WD~Portland_Group,3399326]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Tithonian,21693869|WD~Category_Tithonian,21693869]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_after: '[[/_Standards/WikiData/WD~Tithonus,737306|WD~Tithonus,737306]]'
+replaces: '[[/_Standards/WikiData/WD~Portland_Group,3399326|WD~Portland_Group,3399326]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Tithonian,21693869|WD~Category_Tithonian,21693869]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -152100000-01-01T00:00:00Z
 end_time: -145000000-01-01T00:00:00Z
 sRGB_color_hex_triplet: CFF0FC
@@ -104,7 +104,7 @@ dv_has_:
     stopped: -145.0e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Tithonian,855125|WD~Tithonian,855125]]'
+  - '[[/_Standards/WikiData/WD~Tithonian,855125|WD~Tithonian,855125]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~3~Tithonian|Age~3~Tithonian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~3~Tithonian.public|Age~3~Tithonian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~3~Tithonian.internal|Age~3~Tithonian.internal]]'
@@ -116,7 +116,7 @@ dv_has_duration_years: 4.200e+6
 dv_has_previous_item: '[[Age~2~Kimmeridgian]]'
 dv_has_next_item: '[[../../Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~1~Berriasian|Age~1~Berriasian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Tithonian,855125|WD~Tithonian,855125]]'
+- '[[/_Standards/WikiData/WD~Tithonian,855125|WD~Tithonian,855125]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~3~Tithonian|Age~3~Tithonian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~3~Tithonian.public|Age~3~Tithonian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~3~Tithonian.internal|Age~3~Tithonian.internal]]'
@@ -160,7 +160,7 @@ A time period from 149.2 to 145 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Tithonian,855125|WD~Tithonian,855125]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Tithonian,855125|WD~Tithonian,855125]] 
 
 ## #has_/text_of_/abstract 
 

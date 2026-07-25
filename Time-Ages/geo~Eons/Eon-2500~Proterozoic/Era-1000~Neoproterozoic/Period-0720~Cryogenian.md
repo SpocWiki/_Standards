@@ -51,10 +51,10 @@ aliases:
 - 크라이오제니아기
 has_id_wikidata: Q507402
 instance_of:
-- '[[_Standards/WikiData/WD~period,392928|WD~period,392928]]'
-- '[[_Standards/WikiData/WD~system,403523|WD~system,403523]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Cryogenian,9649569|WD~Category_Cryogenian,9649569]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[/_Standards/WikiData/WD~period,392928|WD~period,392928]]'
+- '[[/_Standards/WikiData/WD~system,403523|WD~system,403523]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Cryogenian,9649569|WD~Category_Cryogenian,9649569]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -635000000-01-01T00:00:00Z
 start_time: -720000000-01-01T00:00:00Z
 video: http://commons.wikimedia.org/wiki/Special:FilePath/SIM%20neoproto.ogv
@@ -136,7 +136,7 @@ dv_has_:
     stopped: -635000000
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Cryogenian,507402|WD~Cryogenian,507402]]'
+  - '[[/_Standards/WikiData/WD~Cryogenian,507402|WD~Cryogenian,507402]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian|Period-0720~Cryogenian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian.public|Period-0720~Cryogenian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian.internal|Period-0720~Cryogenian.internal]]'
@@ -148,7 +148,7 @@ dv_has_duration_years: 8.500e+7
 dv_has_previous_item: '[[Period-1000~Tonian]]'
 dv_has_next_item: '[[Period-0635~Ediacaran]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Cryogenian,507402|WD~Cryogenian,507402]]'
+- '[[/_Standards/WikiData/WD~Cryogenian,507402|WD~Cryogenian,507402]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian|Period-0720~Cryogenian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian.public|Period-0720~Cryogenian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian.internal|Period-0720~Cryogenian.internal]]'
@@ -190,7 +190,7 @@ dv_has_text_of_color: 0xFECC5C
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Cryogenian,507402|WD~Cryogenian,507402]]  
+#is_/same_as :: [[/_Standards/WikiData/WD~Cryogenian,507402|WD~Cryogenian,507402]]  
 
 A time period from 720 to 635 million years ago. 
 

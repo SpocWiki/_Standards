@@ -41,10 +41,10 @@ aliases:
 - ハイランド牛
 - 高地牛
 has_id_wikidata: Q58903
-instance_of: '[[_Standards/WikiData/WD~cattle_breed,12045585|WD~cattle_breed,12045585]]'
-subclass_of: '[[_Standards/WikiData/WD~cattle,830|WD~cattle,830]]'
-country_of_origin: '[[_Standards/WikiData/WD~Scotland,22|WD~Scotland,22]]'
-country: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
+instance_of: '[[/_Standards/WikiData/WD~cattle_breed,12045585|WD~cattle_breed,12045585]]'
+subclass_of: '[[/_Standards/WikiData/WD~cattle,830|WD~cattle,830]]'
+country_of_origin: '[[/_Standards/WikiData/WD~Scotland,22|WD~Scotland,22]]'
+country: '[[/_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Schottisches%20Hochlandrind.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/HighlandCow.01.jpg
@@ -101,7 +101,7 @@ dv_has_:
 
 # [[Highland_Cattle]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Highland_cattle,58903|WD~Highland_cattle,58903]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Highland_cattle,58903|WD~Highland_cattle,58903]] 
 
 ## #has_/text_of_/abstract 
 

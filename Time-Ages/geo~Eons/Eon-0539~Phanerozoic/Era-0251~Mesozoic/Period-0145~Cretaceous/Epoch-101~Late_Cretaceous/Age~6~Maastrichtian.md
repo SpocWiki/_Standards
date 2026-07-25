@@ -34,19 +34,19 @@ aliases:
 - 马斯特里赫特期
 - 마스트리흐트절
 has_id_wikidata: Q278141
-named_by: '[[_Standards/WikiData/WD~André_Dumont,519775|WD~André_Dumont,519775]]'
+named_by: '[[/_Standards/WikiData/WD~André_Dumont,519775|WD~André_Dumont,519775]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-significant_place: '[[_Standards/WikiData/WD~Tercis_les_Bains,674888|WD~Tercis_les_Bains,674888]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Maastrichtian,21750970|WD~Category_Maastrichtian,21750970]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Maastrichtian,133888800|WD~GSSP_for_the_base_of_the_Maastrichtian,133888800]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+significant_place: '[[/_Standards/WikiData/WD~Tercis_les_Bains,674888|WD~Tercis_les_Bains,674888]]'
+described_by_source: '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Maastrichtian,21750970|WD~Category_Maastrichtian,21750970]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_the_Maastrichtian,133888800|WD~GSSP_for_the_base_of_the_Maastrichtian,133888800]]'
 end_time: -66000000-01-01T00:00:00Z
 coordinate_location: Point(-1.1133 43.6795)
 start_time: -72100000-01-01T00:00:00Z
-named_after: '[[_Standards/WikiData/WD~Maastricht,1309|WD~Maastricht,1309]]'
+named_after: '[[/_Standards/WikiData/WD~Maastricht,1309|WD~Maastricht,1309]]'
 Commons_category: Maastrichtian
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Main%20floristic%20types%20from%20the%20Maastrichtian%20-%20journal.pone.0052455.g007-left.png
 described_at_URL: https://popups.uliege.be/1374-8505/index.php?id=1095
@@ -120,7 +120,7 @@ dv_has_:
     stopped: -66.0e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Maastrichtian,278141|WD~Maastrichtian,278141]]'
+  - '[[/_Standards/WikiData/WD~Maastrichtian,278141|WD~Maastrichtian,278141]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian|Age~6~Maastrichtian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian.public|Age~6~Maastrichtian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian.internal|Age~6~Maastrichtian.internal]]'
@@ -132,7 +132,7 @@ dv_has_duration_years: 6.100e+6
 dv_has_previous_item: '[[Age~5~Campanian]]'
 dv_has_next_item: '[[../../../Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian|Age~1~Danian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Maastrichtian,278141|WD~Maastrichtian,278141]]'
+- '[[/_Standards/WikiData/WD~Maastrichtian,278141|WD~Maastrichtian,278141]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian|Age~6~Maastrichtian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian.public|Age~6~Maastrichtian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian.internal|Age~6~Maastrichtian.internal]]'
@@ -176,7 +176,7 @@ A time period from 72.1 to 66.0 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Maastrichtian,278141|WD~Maastrichtian,278141]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Maastrichtian,278141|WD~Maastrichtian,278141]] 
 
 ## #has_/text_of_/abstract 
 

@@ -24,14 +24,14 @@ aliases:
 - 温洛克世
 has_id_wikidata: Q1064996
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
+- '[[/_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[/_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Wenlock_epoch,30869282|WD~Category_Wenlock_epoch,30869282]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[/_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Wenlock_epoch,30869282|WD~Category_Wenlock_epoch,30869282]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -433400000-01-01T00:00:00Z
 sRGB_color_hex_triplet: A4E0D0
 Commons_category: Wenlock Epoch
@@ -87,7 +87,7 @@ dv_has_:
     stopped: -427.4e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Wenlock,1064996|WD~Wenlock,1064996]]'
+  - '[[/_Standards/WikiData/WD~Wenlock,1064996|WD~Wenlock,1064996]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock|Epoch-433~Wenlock]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock.public|Epoch-433~Wenlock.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock.internal|Epoch-433~Wenlock.internal]]'
@@ -99,7 +99,7 @@ dv_has_duration_years: 6.000e+6
 dv_has_previous_item: '[[Epoch-443~Llandovery]]'
 dv_has_next_item: '[[Epoch-427~Ludlow]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Wenlock,1064996|WD~Wenlock,1064996]]'
+- '[[/_Standards/WikiData/WD~Wenlock,1064996|WD~Wenlock,1064996]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock|Epoch-433~Wenlock]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock.public|Epoch-433~Wenlock.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock.internal|Epoch-433~Wenlock.internal]]'
@@ -141,7 +141,7 @@ dv_has_text_of_color: 0xB3E1C2
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Wenlock,1064996|WD~Wenlock,1064996]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Wenlock,1064996|WD~Wenlock,1064996]] 
 
 A time period from 433.4 to 427.4 million years ago. 
 

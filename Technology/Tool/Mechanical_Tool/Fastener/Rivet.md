@@ -44,13 +44,13 @@ aliases:
 has_id_wikidata: Q212500
 described_by_source:
 - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-has_use: '[[_Standards/WikiData/WD~riveting,1470124|WD~riveting,1470124]]'
-subclass_of: '[[_Standards/WikiData/WD~fastener,2002016|WD~fastener,2002016]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_machine_element,44409287|WD~type_of_machine_element,44409287]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+has_use: '[[/_Standards/WikiData/WD~riveting,1470124|WD~riveting,1470124]]'
+subclass_of: '[[/_Standards/WikiData/WD~fastener,2002016|WD~fastener,2002016]]'
+instance_of: '[[/_Standards/WikiData/WD~type_of_machine_element,44409287|WD~type_of_machine_element,44409287]]'
 GS1_GPC_code: 10003190
 Commons_gallery: Rivet
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rivet01.jpg
@@ -112,7 +112,7 @@ dv_has_:
 
 # [[Rivet]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Rivet,212500|WD~Rivet,212500]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Rivet,212500|WD~Rivet,212500]] 
 
 ## #has_/text_of_/abstract 
 

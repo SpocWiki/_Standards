@@ -76,21 +76,21 @@ CAS_Registry_Number: 7440-01-9
 chemical_formula: Ne
 Commons_category: Neon
 Commons_gallery: Neon
-conjugate_acid: '[[_Standards/WikiData/WD~neonium_ion,64995456|WD~neonium_ion,64995456]]'
+conjugate_acid: '[[/_Standards/WikiData/WD~neonium_ion,64995456|WD~neonium_ion,64995456]]'
 density:
 - 1.204
 - 1.444
 - 0.90035
 described_by_source:
 - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
-different_from: '[[_Standards/WikiData/WD~Neon,234950|WD~Neon,234950]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- "[[/_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+different_from: '[[/_Standards/WikiData/WD~Neon,234950|WD~Neon,234950]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Morris_Travers,380209|WD~Morris_Travers,380209]]'
-- '[[_Standards/WikiData/WD~William_Ramsay,950726|WD~William_Ramsay,950726]]'
+- '[[/_Standards/WikiData/WD~Morris_Travers,380209|WD~Morris_Travers,380209]]'
+- '[[/_Standards/WikiData/WD~William_Ramsay,950726|WD~William_Ramsay,950726]]'
 DSSTOX_compound_identifier: DTXCID2047642
 EC_number: 231-110-9
 electron_configuration:
@@ -98,31 +98,31 @@ electron_configuration:
 - 1s² 2s² 2p⁶
 element_symbol: Ne
 has_characteristic:
-- '[[_Standards/WikiData/WD~colorlessness,11567495|WD~colorlessness,11567495]]'
-- '[[_Standards/WikiData/WD~odorlessness,30007162|WD~odorlessness,30007162]]'
+- '[[/_Standards/WikiData/WD~colorlessness,11567495|WD~colorlessness,11567495]]'
+- '[[/_Standards/WikiData/WD~odorlessness,30007162|WD~odorlessness,30007162]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/NeTube.jpg
 InChI: InChI=1S/Ne
 InChIKey: GKAOGPIIYCISHV-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~atmophile_element,2313842|WD~atmophile_element,2313842]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
-location_of_discovery: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
+- '[[/_Standards/WikiData/WD~atmophile_element,2313842|WD~atmophile_element,2313842]]'
+- '[[/_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+location_of_discovery: '[[/_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 mass: 20.1797
 melting_point: -248.6
 MeSH_tree_code:
 - D01.268.613.600
 - D01.362.641.592
-named_after: '[[_Standards/WikiData/WD~novelty,12544101|WD~novelty,12544101]]'
+named_after: '[[/_Standards/WikiData/WD~novelty,12544101|WD~novelty,12544101]]'
 OmegaWiki_Defined_Meaning: 159119
 part_of:
-- '[[_Standards/WikiData/WD~period_2,207712|WD~period_2,207712]]'
-- '[[_Standards/WikiData/WD~noble_gases,19609|WD~noble_gases,19609]]'
+- '[[/_Standards/WikiData/WD~period_2,207712|WD~period_2,207712]]'
+- '[[/_Standards/WikiData/WD~noble_gases,19609|WD~noble_gases,19609]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Neon-ar.ogg
 PubChem_CID: 23935
 speed_of_sound: 435
 SpocWebEntityId: 21912
 standard_molar_entropy: 146.2
-subclass_of: '[[_Standards/WikiData/WD~noble_gases,19609|WD~noble_gases,19609]]'
+subclass_of: '[[/_Standards/WikiData/WD~noble_gases,19609|WD~noble_gases,19609]]'
 time_of_discovery_or_invention: 1898
 type: Element
 UMLS_CUI: C0027608

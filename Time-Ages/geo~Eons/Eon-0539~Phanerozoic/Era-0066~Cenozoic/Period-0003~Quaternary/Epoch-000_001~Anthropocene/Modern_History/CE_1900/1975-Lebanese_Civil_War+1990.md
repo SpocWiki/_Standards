@@ -67,21 +67,21 @@ aliases:
 - 레바논 내전
 has_id_wikidata: Q208484
 participant:
-- '[[_Standards/WikiData/WD~United_Nations_Interim_Force_in_Lebanon,160805|WD~United_Nations_Interim_Force_in_Lebanon,160805]]'
-- '[[_Standards/WikiData/WD~Amal_Movement,452670|WD~Amal_Movement,452670]]'
-- '[[_Standards/WikiData/WD~Lebanese_National_Movement,913025|WD~Lebanese_National_Movement,913025]]'
-- '[[_Standards/WikiData/WD~Tigers_Militia,1779990|WD~Tigers_Militia,1779990]]'
-- '[[_Standards/WikiData/WD~Lebanese_Front,1822817|WD~Lebanese_Front,1822817]]'
-- '[[_Standards/WikiData/WD~Arab_Deterrent_Force,2293745|WD~Arab_Deterrent_Force,2293745]]'
-- '[[_Standards/WikiData/WD~Al_Tanzim,2581864|WD~Al_Tanzim,2581864]]'
-- '[[_Standards/WikiData/WD~Multinational_Force_in_Lebanon,2655595|WD~Multinational_Force_in_Lebanon,2655595]]'
-- '[[_Standards/WikiData/WD~Islamic_Unification_Movement,3326561|WD~Islamic_Unification_Movement,3326561]]'
-- '[[_Standards/WikiData/WD~Army_of_Free_Lebanon,4794304|WD~Army_of_Free_Lebanon,4794304]]'
-- '[[_Standards/WikiData/WD~Hezbollah,41053|WD~Hezbollah,41053]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Lebanon,822|WD~Lebanon,822]]'
-locations: '[[_Standards/WikiData/WD~Lebanon,822|WD~Lebanon,822]]'
-country: '[[_Standards/WikiData/WD~Lebanon,822|WD~Lebanon,822]]'
-instance_of: '[[_Standards/WikiData/WD~civil_war,8465|WD~civil_war,8465]]'
+- '[[/_Standards/WikiData/WD~United_Nations_Interim_Force_in_Lebanon,160805|WD~United_Nations_Interim_Force_in_Lebanon,160805]]'
+- '[[/_Standards/WikiData/WD~Amal_Movement,452670|WD~Amal_Movement,452670]]'
+- '[[/_Standards/WikiData/WD~Lebanese_National_Movement,913025|WD~Lebanese_National_Movement,913025]]'
+- '[[/_Standards/WikiData/WD~Tigers_Militia,1779990|WD~Tigers_Militia,1779990]]'
+- '[[/_Standards/WikiData/WD~Lebanese_Front,1822817|WD~Lebanese_Front,1822817]]'
+- '[[/_Standards/WikiData/WD~Arab_Deterrent_Force,2293745|WD~Arab_Deterrent_Force,2293745]]'
+- '[[/_Standards/WikiData/WD~Al_Tanzim,2581864|WD~Al_Tanzim,2581864]]'
+- '[[/_Standards/WikiData/WD~Multinational_Force_in_Lebanon,2655595|WD~Multinational_Force_in_Lebanon,2655595]]'
+- '[[/_Standards/WikiData/WD~Islamic_Unification_Movement,3326561|WD~Islamic_Unification_Movement,3326561]]'
+- '[[/_Standards/WikiData/WD~Army_of_Free_Lebanon,4794304|WD~Army_of_Free_Lebanon,4794304]]'
+- '[[/_Standards/WikiData/WD~Hezbollah,41053|WD~Hezbollah,41053]]'
+located_in_on_physical_feature: '[[/_Standards/WikiData/WD~Lebanon,822|WD~Lebanon,822]]'
+locations: '[[/_Standards/WikiData/WD~Lebanon,822|WD~Lebanon,822]]'
+country: '[[/_Standards/WikiData/WD~Lebanon,822|WD~Lebanon,822]]'
+instance_of: '[[/_Standards/WikiData/WD~civil_war,8465|WD~civil_war,8465]]'
 start_time: 1975-04-13T00:00:00Z
 end_time: 1990-10-13T00:00:00Z
 image:
@@ -191,7 +191,7 @@ dv_has_:
 
 # [[1975-Lebanese_Civil_War+1990]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Lebanese_Civil_War,208484|WD~Lebanese_Civil_War,208484]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Lebanese_Civil_War,208484|WD~Lebanese_Civil_War,208484]] 
 
 ## #has_/text_of_/abstract 
 

@@ -3,11 +3,11 @@ aliases:
   - 
 has_id_wikidata: Q677702
 Unicode_character: 🃤
-part_of: "[[_Standards/WikiData/WD~Major_Arcana,11158357|WD~Major_Arcana,11158357]]"
+part_of: "[[/_Standards/WikiData/WD~Major_Arcana,11158357|WD~Major_Arcana,11158357]]"
 depicts:
-  - "[[_Standards/WikiData/WD~man,8441|WD~man,8441]]"
-  - "[[_Standards/WikiData/WD~emperor,39018|WD~emperor,39018]]"
-instance_of: "[[_Standards/WikiData/WD~playing_card,47883|WD~playing_card,47883]]"
+  - "[[/_Standards/WikiData/WD~man,8441|WD~man,8441]]"
+  - "[[/_Standards/WikiData/WD~emperor,39018|WD~emperor,39018]]"
+instance_of: "[[/_Standards/WikiData/WD~playing_card,47883|WD~playing_card,47883]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cary-Yale%20Tarot%20deck%20-%20The%20Emperor.jpg
 Commons_category: Emperor (Major Arcana)
 ---

@@ -35,12 +35,12 @@ aliases:
 - 오로시리아기
 has_id_wikidata: Q597383
 instance_of:
-- '[[_Standards/WikiData/WD~period,392928|WD~period,392928]]'
-- '[[_Standards/WikiData/WD~system,403523|WD~system,403523]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Orosirian,131224984|WD~Category_Orosirian,131224984]]'
+- '[[/_Standards/WikiData/WD~period,392928|WD~period,392928]]'
+- '[[/_Standards/WikiData/WD~system,403523|WD~system,403523]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Orosirian,131224984|WD~Category_Orosirian,131224984]]'
 start_time: -2050000000-01-01T00:00:00Z
-named_after: '[[_Standards/WikiData/WD~mountain_range,46831|WD~mountain_range,46831]]'
+named_after: '[[/_Standards/WikiData/WD~mountain_range,46831|WD~mountain_range,46831]]'
 Commons_category: Orosirian
 end_time: -1800000000-01-01T00:00:00Z
 IPA_transcription: /ˌɒroʊˈsɪəriən/
@@ -104,7 +104,7 @@ dv_has_:
     stopped: -1.800e9
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Orosirian,597383|WD~Orosirian,597383]]'
+  - '[[/_Standards/WikiData/WD~Orosirian,597383|WD~Orosirian,597383]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian|Period-2050~Orosirian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.public|Period-2050~Orosirian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.internal|Period-2050~Orosirian.internal]]'
@@ -116,7 +116,7 @@ dv_has_duration_years: 2.500e+8
 dv_has_previous_item: '[[Period-2300~Rhyacian]]'
 dv_has_next_item: '[[Period-1800~Statherian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Orosirian,597383|WD~Orosirian,597383]]'
+- '[[/_Standards/WikiData/WD~Orosirian,597383|WD~Orosirian,597383]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian|Period-2050~Orosirian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.public|Period-2050~Orosirian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.internal|Period-2050~Orosirian.internal]]'
@@ -160,7 +160,7 @@ A time period from 2050 to 1800 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Orosirian,597383|WD~Orosirian,597383]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Orosirian,597383|WD~Orosirian,597383]] 
 
 ## #has_/text_of_/abstract 
 

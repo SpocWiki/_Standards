@@ -56,9 +56,9 @@ aliases:
 - 苏丹历史
 - 수단의 역사
 has_id_wikidata: Q246643
-topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Sudan,10522567|WD~Template_History_of_Sudan,10522567]]'
-instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]'
-country: '[[_Standards/WikiData/WD~Sudan,1049|WD~Sudan,1049]]'
+topic_has_template: '[[/_Standards/WikiData/WD~Template_History_of_Sudan,10522567|WD~Template_History_of_Sudan,10522567]]'
+instance_of: '[[/_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]'
+country: '[[/_Standards/WikiData/WD~Sudan,1049|WD~Sudan,1049]]'
 Dewey_Decimal_Classification:
 - 962
 - 962.4
@@ -146,7 +146,7 @@ dv_has_:
 
 # [[History_of_Sudan]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~History_of_Sudan,246643|WD~History_of_Sudan,246643]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~History_of_Sudan,246643|WD~History_of_Sudan,246643]] 
 
 ## #has_/text_of_/abstract 
 

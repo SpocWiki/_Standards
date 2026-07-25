@@ -64,9 +64,9 @@ aliases:
 - 함수형 프로그래밍
 has_id_wikidata: Q193076
 instance_of:
-- '[[_Standards/WikiData/WD~programming_paradigm,188267|WD~programming_paradigm,188267]]'
-- '[[_Standards/WikiData/WD~computer_science_term,66747126|WD~computer_science_term,66747126]]'
-subclass_of: '[[_Standards/WikiData/WD~declarative_programming,531152|WD~declarative_programming,531152]]'
+- '[[/_Standards/WikiData/WD~programming_paradigm,188267|WD~programming_paradigm,188267]]'
+- '[[/_Standards/WikiData/WD~computer_science_term,66747126|WD~computer_science_term,66747126]]'
+subclass_of: '[[/_Standards/WikiData/WD~declarative_programming,531152|WD~declarative_programming,531152]]'
 OmegaWiki_Defined_Meaning: 975428
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-Functional%20programming.ogg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Visiteur%20Journ%C3%A9e%202%20-%2014%20%28Madehub%29-programmation%20fonctionnelle.wav

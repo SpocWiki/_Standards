@@ -38,9 +38,9 @@ aliases:
 - 遷徙新大陸模型
 - 신대륙 이주설
 has_id_wikidata: Q13925462
-subclass_of: '[[_Standards/WikiData/WD~human_migration,177626|WD~human_migration,177626]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Peopling_of_the_Americas,55940737|WD~Category_Peopling_of_the_Americas,55940737]]'
-location: '[[_Standards/WikiData/WD~Americas,828|WD~Americas,828]]'
+subclass_of: '[[/_Standards/WikiData/WD~human_migration,177626|WD~human_migration,177626]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Peopling_of_the_Americas,55940737|WD~Category_Peopling_of_the_Americas,55940737]]'
+location: '[[/_Standards/WikiData/WD~Americas,828|WD~Americas,828]]'
 Commons_category: Settlement of the Americas
 dv_is_:
   same_as:
@@ -106,7 +106,7 @@ dv_has_:
 
 # [[Peopling_of_the_Americas]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Peopling_of_the_Americas,13925462|WD~Peopling_of_the_Americas,13925462]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Peopling_of_the_Americas,13925462|WD~Peopling_of_the_Americas,13925462]] 
 
 ![[../../../../../../../../../xLarge/Earth/Human_early_migrations.svg|Human_early_migrations.svg]] 
 

@@ -102,11 +102,11 @@ tags:
 title: is_a_shopping_center Class
 type: Type
 subclass_of:
-- '[[_Standards/WikiData/WD~retail_building,18760388|WD~retail_building,18760388]]'
-- '[[_Standards/WikiData/WD~retail_environment,39659371|WD~retail_environment,39659371]]'
-- '[[_Standards/WikiData/WD~organization,43229|WD~organization,43229]]'
-different_from: '[[_Standards/WikiData/WD~shopping_mall,31374404|WD~shopping_mall,31374404]]'
-instance_of: '[[_Standards/WikiData/WD~ethnological_term,129133491|WD~ethnological_term,129133491]]'
+- '[[/_Standards/WikiData/WD~retail_building,18760388|WD~retail_building,18760388]]'
+- '[[/_Standards/WikiData/WD~retail_environment,39659371|WD~retail_environment,39659371]]'
+- '[[/_Standards/WikiData/WD~organization,43229|WD~organization,43229]]'
+different_from: '[[/_Standards/WikiData/WD~shopping_mall,31374404|WD~shopping_mall,31374404]]'
+instance_of: '[[/_Standards/WikiData/WD~ethnological_term,129133491|WD~ethnological_term,129133491]]'
 Nomenclature_for_Museum_Cataloging:
 - 619
 - 620

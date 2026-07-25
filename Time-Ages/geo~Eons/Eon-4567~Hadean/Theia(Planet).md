@@ -32,16 +32,16 @@ aliases:
 - 테이아
 has_id_wikidata: Q1053432
 different_from:
-- '[[_Standards/WikiData/WD~Orpheus,174353|WD~Orpheus,174353]]'
-- '[[_Standards/WikiData/WD~Theia,10695999|WD~Theia,10695999]]'
-named_after: '[[_Standards/WikiData/WD~Theia,184232|WD~Theia,184232]]'
+- '[[/_Standards/WikiData/WD~Orpheus,174353|WD~Orpheus,174353]]'
+- '[[/_Standards/WikiData/WD~Theia,10695999|WD~Theia,10695999]]'
+named_after: '[[/_Standards/WikiData/WD~Theia,184232|WD~Theia,184232]]'
 instance_of:
-- '[[_Standards/WikiData/WD~protoplanet,849009|WD~protoplanet,849009]]'
-- '[[_Standards/WikiData/WD~hypothetical_astronomical_object,5961257|WD~hypothetical_astronomical_object,5961257]]'
-has_effect: '[[_Standards/WikiData/WD~origin_of_the_Moon,7102486|WD~origin_of_the_Moon,7102486]]'
+- '[[/_Standards/WikiData/WD~protoplanet,849009|WD~protoplanet,849009]]'
+- '[[/_Standards/WikiData/WD~hypothetical_astronomical_object,5961257|WD~hypothetical_astronomical_object,5961257]]'
+has_effect: '[[/_Standards/WikiData/WD~origin_of_the_Moon,7102486|WD~origin_of_the_Moon,7102486]]'
 orbital_period: http://www.wikidata.org/.well-known/genid/cb952761e93eae9b253e3e14c079a51c
 start_time: -4568000000-01-01T00:00:00Z
-parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525|WD~Sun,525]]'
+parent_astronomical_body: '[[/_Standards/WikiData/WD~Sun,525|WD~Sun,525]]'
 semi_major_axis_of_an_orbit: 1
 mass: 6e+23
 diameter: 6000
@@ -55,7 +55,7 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Theia%20ar
 end_time: -4520000000-01-01T00:00:00Z
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Theia,1053432|WD~Theia,1053432]]'
+  - '[[/_Standards/WikiData/WD~Theia,1053432|WD~Theia,1053432]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet)|Theia(Planet)]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet).public|Theia(Planet).public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet).internal|Theia(Planet).internal]]'
@@ -64,7 +64,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet).personal|Theia(Planet).personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet).secret|Theia(Planet).secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Theia,1053432|WD~Theia,1053432]]'
+- '[[/_Standards/WikiData/WD~Theia,1053432|WD~Theia,1053432]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet)|Theia(Planet)]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet).public|Theia(Planet).public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet).internal|Theia(Planet).internal]]'
@@ -138,7 +138,7 @@ dv_has_:
 
 # [[Theia(Planet)]]
 
-#is_/same_as :: [[_Standards/WikiData/WD~Theia,1053432|WD~Theia,1053432]]
+#is_/same_as :: [[/_Standards/WikiData/WD~Theia,1053432|WD~Theia,1053432]]
 
 ## #has_/text_of_/abstract 
 

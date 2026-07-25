@@ -67,9 +67,9 @@ aliases:
 - 戰間期
 - 전간기
 has_id_wikidata: Q154611
-instance_of: '[[_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Interwar_period,13341431|WD~Portal_Interwar_period,13341431]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~Q59078586,59078586|WD~Q59078586,59078586]]'
+instance_of: '[[/_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]'
+topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Interwar_period,13341431|WD~Portal_Interwar_period,13341431]]'
+maintained_by_WikiProject: '[[/_Standards/WikiData/WD~Q59078586,59078586|WD~Q59078586,59078586]]'
 subject_named_as: Zwischenkriegszeit
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Europe%20in%201923.jpg
 Commons_category: Interwar period
@@ -175,7 +175,7 @@ dv_has_:
 
 # [[1919-Interwar_Period+1939]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Interwar_period,154611|WD~Interwar_period,154611]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Interwar_period,154611|WD~Interwar_period,154611]] 
 
 ## #has_/text_of_/abstract 
 

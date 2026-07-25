@@ -11,9 +11,9 @@ aliases:
 - 款待俱樂部
 - 호스피털리티 클럽
 has_id_wikidata: Q744312
-instance_of: '[[_Standards/WikiData/WD~hospitality_service,123733|WD~hospitality_service,123733]]'
-headquarters_locations: '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
-country: '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+instance_of: '[[/_Standards/WikiData/WD~hospitality_service,123733|WD~hospitality_service,123733]]'
+headquarters_locations: '[[/_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+country: '[[/_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
 inception: 2000-06
 image: http://commons.wikimedia.org/wiki/Special:FilePath/HC%20monnai%202005%20banner.jpg
 official_website: http://www.hospitalityclub.org
@@ -57,7 +57,7 @@ dv_has_:
 
 # [[Hospitality_Club]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hospitality_Club,744312|WD~Hospitality_Club,744312]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Hospitality_Club,744312|WD~Hospitality_Club,744312]] 
 
 ## #has_/text_of_/abstract 
 

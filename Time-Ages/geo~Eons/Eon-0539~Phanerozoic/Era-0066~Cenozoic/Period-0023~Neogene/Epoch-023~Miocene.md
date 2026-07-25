@@ -52,18 +52,18 @@ aliases:
 - 마이오세
 has_id_wikidata: Q76267
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
+- '[[/_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[/_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Miocene,7063284|WD~Category_Miocene,7063284]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[/_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Miocene,7063284|WD~Category_Miocene,7063284]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -23030000-01-01T00:00:00Z
-named_by: '[[_Standards/WikiData/WD~Charles_Lyell,5333|WD~Charles_Lyell,5333]]'
+named_by: '[[/_Standards/WikiData/WD~Charles_Lyell,5333|WD~Charles_Lyell,5333]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%2015%20Ma%20%28Langhian%20Age%29.png
 sRGB_color_hex_triplet: FFFF00
 end_time: -5333000-01-01T00:00:00Z
@@ -168,7 +168,7 @@ dv_has_:
     stopped: -5.333e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Miocene,76267|WD~Miocene,76267]]'
+  - '[[/_Standards/WikiData/WD~Miocene,76267|WD~Miocene,76267]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene|Epoch-023~Miocene]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.public|Epoch-023~Miocene.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.internal|Epoch-023~Miocene.internal]]'
@@ -179,7 +179,7 @@ dv_is_:
 dv_has_previous_item: '[[../Period-0066~Paleogene/Epoch-034~Oligocene|Epoch-034~Oligocene]]'
 dv_has_next_item: '[[Epoch-005~Pliocene]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Miocene,76267|WD~Miocene,76267]]'
+- '[[/_Standards/WikiData/WD~Miocene,76267|WD~Miocene,76267]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene|Epoch-023~Miocene]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.public|Epoch-023~Miocene.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.internal|Epoch-023~Miocene.internal]]'
@@ -220,7 +220,7 @@ dv_has_name_zh: 中新世
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Miocene,76267|WD~Miocene,76267]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Miocene,76267|WD~Miocene,76267]] 
 
 has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 has_time_started = `=this.dv_has_time_started` 

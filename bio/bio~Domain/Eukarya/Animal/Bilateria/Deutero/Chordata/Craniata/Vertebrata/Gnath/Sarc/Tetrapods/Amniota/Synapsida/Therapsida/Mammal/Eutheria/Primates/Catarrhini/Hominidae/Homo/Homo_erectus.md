@@ -39,9 +39,9 @@ aliases:
 - 直立人
 - 호모 에렉투스
 has_id_wikidata: Q101362
-instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290|WD~fossil_taxon,23038290]]'
+instance_of: '[[/_Standards/WikiData/WD~fossil_taxon,23038290|WD~fossil_taxon,23038290]]'
 start_time: -1900000-06
-taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
+taxon_rank: '[[/_Standards/WikiData/WD~species,7432|WD~species,7432]]'
 taxon_common_name:
 - Caveman
 - Püstine inimene
@@ -176,7 +176,7 @@ dv_has_:
 
 # [[Homo_erectus]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Homo_erectus,101362|WD~Homo_erectus,101362]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Homo_erectus,101362|WD~Homo_erectus,101362]] 
 
 ## #has_/text_of_/abstract 
 

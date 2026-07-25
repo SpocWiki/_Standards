@@ -4,21 +4,21 @@ aliases:
   - カラオケ
 has_id_wikidata: Q229345
 different_from:
-  - "[[_Standards/WikiData/WD~open_mic,256869]]"
-  - "[[_Standards/WikiData/WD~korokke,1195290]]"
+  - "[[/_Standards/WikiData/WD~open_mic,256869]]"
+  - "[[/_Standards/WikiData/WD~korokke,1195290]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~party_game,839864]]"
-  - "[[_Standards/WikiData/WD~action,4026292]]"
+  - "[[/_Standards/WikiData/WD~party_game,839864]]"
+  - "[[/_Standards/WikiData/WD~action,4026292]]"
 uses:
-  - "[[_Standards/WikiData/WD~karaoke_box,910635]]"
-  - "[[_Standards/WikiData/WD~voice,17172850]]"
-  - "[[_Standards/WikiData/WD~microphone,46384]]"
+  - "[[/_Standards/WikiData/WD~karaoke_box,910635]]"
+  - "[[/_Standards/WikiData/WD~voice,17172850]]"
+  - "[[/_Standards/WikiData/WD~microphone,46384]]"
 has_part_s_:
-  - "[[_Standards/WikiData/WD~sound_recording_process,5057302]]"
-  - "[[_Standards/WikiData/WD~singing,27939]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Karaoke,8570869]]"
-subclass_of: "[[_Standards/WikiData/WD~singback,10668278]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Shigeichi_Negishi,124880053]]"
+  - "[[/_Standards/WikiData/WD~sound_recording_process,5057302]]"
+  - "[[/_Standards/WikiData/WD~singing,27939]]"
+topic_s_main_category: "[[/_Standards/WikiData/WD~Category_Karaoke,8570869]]"
+subclass_of: "[[/_Standards/WikiData/WD~singback,10668278]]"
+discoverer_or_inventor: "[[/_Standards/WikiData/WD~Shigeichi_Negishi,124880053]]"
 IMDb_keyword: karaoke
 Commons_category: Karaoke
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D9%83%D8%A7%D8%B1%D8%A7%D9%88%D9%83%D9%8A.wav

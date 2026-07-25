@@ -32,11 +32,11 @@ aliases:
 - 植物角质层
 - 식물 큐티클
 has_id_wikidata: Q1146493
-different_from: '[[_Standards/WikiData/WD~cuticle,1403158|WD~cuticle,1403158]]'
+different_from: '[[/_Standards/WikiData/WD~cuticle,1403158|WD~cuticle,1403158]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~plant_structure,20011319|WD~plant_structure,20011319]]'
-- '[[_Standards/WikiData/WD~covering,23497974|WD~covering,23497974]]'
-found_in_taxon: '[[_Standards/WikiData/WD~plant,756|WD~plant,756]]'
+- '[[/_Standards/WikiData/WD~plant_structure,20011319|WD~plant_structure,20011319]]'
+- '[[/_Standards/WikiData/WD~covering,23497974|WD~covering,23497974]]'
+found_in_taxon: '[[/_Standards/WikiData/WD~plant,756|WD~plant,756]]'
 Commons_category: Plant cuticles
 dv_has_:
   name_:
@@ -84,7 +84,7 @@ dv_has_:
 
 # [[Plant_Cuticle]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Plant_cuticle,1146493|WD~Plant_cuticle,1146493]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Plant_cuticle,1146493|WD~Plant_cuticle,1146493]] 
 
 ## #has_/text_of_/abstract 
 

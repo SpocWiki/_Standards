@@ -15,8 +15,8 @@ aliases:
 - 二重向量
 - 이중벡터
 has_id_wikidata: Q663908
-subclass_of: '[[_Standards/WikiData/WD~multivector,2377336|WD~multivector,2377336]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+subclass_of: '[[/_Standards/WikiData/WD~multivector,2377336|WD~multivector,2377336]]'
+maintained_by_WikiProject: '[[/_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wedge%20product.JPG
 Commons_category: Bivectors
 dv_has_:
@@ -43,7 +43,7 @@ dv_has_:
 
 # [[BiVector]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Bivector,663908|WD~Bivector,663908]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Bivector,663908|WD~Bivector,663908]] 
 #is_/similar_to :: [[../../Algebra/Linear_Algebra/Vector_Space/Pseudovector|Pseudovector]] 
 
 ## #has_/text_of_/abstract 

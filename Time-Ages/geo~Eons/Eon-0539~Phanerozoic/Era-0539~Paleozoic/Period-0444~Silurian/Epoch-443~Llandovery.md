@@ -25,12 +25,12 @@ aliases:
 - 슬란도버리세
 has_id_wikidata: Q1187992
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
-named_after: '[[_Standards/WikiData/WD~Llandovery,651733|WD~Llandovery,651733]]'
-named_by: '[[_Standards/WikiData/WD~Charles_Hepworth_Holland,1064829|WD~Charles_Hepworth_Holland,1064829]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Llandovery_epoch,30869550|WD~Category_Llandovery_epoch,30869550]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[/_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[/_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
+named_after: '[[/_Standards/WikiData/WD~Llandovery,651733|WD~Llandovery,651733]]'
+named_by: '[[/_Standards/WikiData/WD~Charles_Hepworth_Holland,1064829|WD~Charles_Hepworth_Holland,1064829]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Llandovery_epoch,30869550|WD~Category_Llandovery_epoch,30869550]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -433400000-01-01T00:00:00Z
 start_time: -443800000-01-01T00:00:00Z
 sRGB_color_hex_triplet: 7ED7C6
@@ -88,7 +88,7 @@ dv_has_:
     stopped: -433.4e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Llandovery,1187992|WD~Llandovery,1187992]]'
+  - '[[/_Standards/WikiData/WD~Llandovery,1187992|WD~Llandovery,1187992]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery|Epoch-443~Llandovery]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery.public|Epoch-443~Llandovery.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery.internal|Epoch-443~Llandovery.internal]]'
@@ -100,7 +100,7 @@ dv_has_duration_years: 1.040e+7
 dv_has_previous_item: '[[../Period-0485~Ordovician/Epoch-458~Late_Ordovician|Epoch~3~Late_Ordovician]]'
 dv_has_next_item: '[[Epoch-433~Wenlock]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Llandovery,1187992|WD~Llandovery,1187992]]'
+- '[[/_Standards/WikiData/WD~Llandovery,1187992|WD~Llandovery,1187992]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery|Epoch-443~Llandovery]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery.public|Epoch-443~Llandovery.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery.internal|Epoch-443~Llandovery.internal]]'
@@ -142,7 +142,7 @@ dv_has_text_of_color: 0x99D7B3
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Llandovery,1187992|WD~Llandovery,1187992]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Llandovery,1187992|WD~Llandovery,1187992]] 
 
 A time period from 443.8 to 433.4 million years ago. 
 

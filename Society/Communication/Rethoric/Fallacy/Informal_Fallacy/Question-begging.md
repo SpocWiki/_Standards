@@ -1,15 +1,15 @@
 ---
 aliases:
 has_id_wikidata: Q219429
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+described_by_source: "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 partially_coincident_with:
-  - "[[_Standards/WikiData/WD~mental_reservation,896495]]"
-  - "[[_Standards/WikiData/WD~evasion,5416089]]"
-  - "[[_Standards/WikiData/WD~circular_reasoning,6011160]]"
+  - "[[/_Standards/WikiData/WD~mental_reservation,896495]]"
+  - "[[/_Standards/WikiData/WD~evasion,5416089]]"
+  - "[[/_Standards/WikiData/WD~circular_reasoning,6011160]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~informal_fallacy,3312438]]"
-  - "[[_Standards/WikiData/WD~deceptive_communication_technique,121757905]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_fallacy,130993199]]"
+  - "[[/_Standards/WikiData/WD~informal_fallacy,3312438]]"
+  - "[[/_Standards/WikiData/WD~deceptive_communication_technique,121757905]]"
+instance_of: "[[/_Standards/WikiData/WD~type_of_fallacy,130993199]]"
 ---
 
 # [[Question-begging]] 

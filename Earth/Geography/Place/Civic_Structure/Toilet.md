@@ -131,24 +131,24 @@ tags:
 title: is_a_toilet Class
 type: Type
 made_from_material:
-- '[[_Standards/WikiData/WD~porcelain,130693|WD~porcelain,130693]]'
-- '[[_Standards/WikiData/WD~wood,287|WD~wood,287]]'
-- '[[_Standards/WikiData/WD~plastic,11474|WD~plastic,11474]]'
-- '[[_Standards/WikiData/WD~concrete,22657|WD~concrete,22657]]'
-has_use: '[[_Standards/WikiData/WD~excretion,185557|WD~excretion,185557]]'
+- '[[/_Standards/WikiData/WD~porcelain,130693|WD~porcelain,130693]]'
+- '[[/_Standards/WikiData/WD~wood,287|WD~wood,287]]'
+- '[[/_Standards/WikiData/WD~plastic,11474|WD~plastic,11474]]'
+- '[[/_Standards/WikiData/WD~concrete,22657|WD~concrete,22657]]'
+has_use: '[[/_Standards/WikiData/WD~excretion,185557|WD~excretion,185557]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~flush_toilet,268534|WD~flush_toilet,268534]]'
-- '[[_Standards/WikiData/WD~toilets_in_Japan,646411|WD~toilets_in_Japan,646411]]'
-- '[[_Standards/WikiData/WD~dry_toilet,18352682|WD~dry_toilet,18352682]]'
-facet_of: '[[_Standards/WikiData/WD~sanitation,949149|WD~sanitation,949149]]'
+- '[[/_Standards/WikiData/WD~flush_toilet,268534|WD~flush_toilet,268534]]'
+- '[[/_Standards/WikiData/WD~toilets_in_Japan,646411|WD~toilets_in_Japan,646411]]'
+- '[[/_Standards/WikiData/WD~dry_toilet,18352682|WD~dry_toilet,18352682]]'
+facet_of: '[[/_Standards/WikiData/WD~sanitation,949149|WD~sanitation,949149]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546|WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
-- '[[_Standards/WikiData/WD~Q2041543,2041543|WD~Q2041543,2041543]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-instance_of: '[[_Standards/WikiData/WD~plumbing_fixture,2024731|WD~plumbing_fixture,2024731]]'
-part_of: '[[_Standards/WikiData/WD~toilet,7813355|WD~toilet,7813355]]'
-subclass_of: '[[_Standards/WikiData/WD~facility,13226383|WD~facility,13226383]]'
-used_by: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+- '[[/_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546|WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+- '[[/_Standards/WikiData/WD~Q2041543,2041543|WD~Q2041543,2041543]]'
+- '[[/_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+instance_of: '[[/_Standards/WikiData/WD~plumbing_fixture,2024731|WD~plumbing_fixture,2024731]]'
+part_of: '[[/_Standards/WikiData/WD~toilet,7813355|WD~toilet,7813355]]'
+subclass_of: '[[/_Standards/WikiData/WD~facility,13226383|WD~facility,13226383]]'
+used_by: '[[/_Standards/WikiData/WD~human,5|WD~human,5]]'
 Nomenclature_for_Museum_Cataloging: 297
 GS1_GPC_code: 10002586
 Commons_gallery: Toilet

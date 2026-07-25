@@ -71,14 +71,14 @@ start_time: 1940-01-01
 end_time: 1960-01-01
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Irrigation1.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~agricultural_revolution,6499967|WD~agricultural_revolution,6499967]]'
+- '[[/_Standards/WikiData/WD~agricultural_revolution,6499967|WD~agricultural_revolution,6499967]]'
 OmegaWiki_Defined_Meaning: 1692
 on_focus_list_of_Wikimedia_project:
-- '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]'
+- '[[/_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]'
 participant:
-- '[[_Standards/WikiData/WD~Norman_Borlaug,154824|WD~Norman_Borlaug,154824]]'
-- '[[_Standards/WikiData/WD~Nazareno_Strampelli,1224426|WD~Nazareno_Strampelli,1224426]]'
-subclass_of: '[[_Standards/WikiData/WD~change,1150070|WD~change,1150070]]'
+- '[[/_Standards/WikiData/WD~Norman_Borlaug,154824|WD~Norman_Borlaug,154824]]'
+- '[[/_Standards/WikiData/WD~Nazareno_Strampelli,1224426|WD~Nazareno_Strampelli,1224426]]'
+subclass_of: '[[/_Standards/WikiData/WD~change,1150070|WD~change,1150070]]'
 Wolfram_Language_entity_code: Entity["Concept", "GreenRevolution::2bt99"]
 dv_has_:
   name_:

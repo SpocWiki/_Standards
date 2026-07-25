@@ -38,8 +38,8 @@ aliases:
 - 外核
 - 외핵
 has_id_wikidata: Q857867
-part_of: "[[_Standards/WikiData/WD~Earth's_core,193927|WD~Earth's_core,193927]]"
-instance_of: '[[_Standards/WikiData/WD~shell_of_an_astronomical_object,47495022|WD~shell_of_an_astronomical_object,47495022]]'
+part_of: "[[/_Standards/WikiData/WD~Earth's_core,193927|WD~Earth's_core,193927]]"
+instance_of: '[[/_Standards/WikiData/WD~shell_of_an_astronomical_object,47495022|WD~shell_of_an_astronomical_object,47495022]]'
 dv_is_:
   same_as:
   - '[[../../../WikiData/WD~Outer_core,857867|WD~Outer_core,857867]]'
@@ -113,7 +113,7 @@ dv_has_:
 
 # [[Outer_Core]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Outer_core,857867|WD~Outer_core,857867]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Outer_core,857867|WD~Outer_core,857867]] 
 
 ## #has_/text_of_/abstract 
 

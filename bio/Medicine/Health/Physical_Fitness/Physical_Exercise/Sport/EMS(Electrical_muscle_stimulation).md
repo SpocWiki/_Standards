@@ -20,7 +20,7 @@ aliases:
 - 電気的筋肉刺激
 - 전기근육자극요법
 has_id_wikidata: Q653580
-subclass_of: '[[_Standards/WikiData/WD~electrostimulation,50813117|WD~electrostimulation,50813117]]'
+subclass_of: '[[/_Standards/WikiData/WD~electrostimulation,50813117|WD~electrostimulation,50813117]]'
 Commons_category: Electrical muscle stimulation
 dv_has_:
   name_:
@@ -50,7 +50,7 @@ dv_has_:
 
 ## [[EMS(Electrical_muscle_stimulation)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Electrical_muscle_stimulation,653580|WD~Electrical_muscle_stimulation,653580]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Electrical_muscle_stimulation,653580|WD~Electrical_muscle_stimulation,653580]] 
 
 ## #has_/text_of_/abstract 
 

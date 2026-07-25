@@ -19,7 +19,7 @@ aliases:
   - Διαζευκτικές Πλάνες
   - помилки корелятивних сполучників
   - כשלי מתאם
-subclass_of: "[[_Standards/WikiData/WD~informal_fallacy,3312438]]"
+subclass_of: "[[/_Standards/WikiData/WD~informal_fallacy,3312438]]"
 ---
 
 # [[Correlative-based_Fallacy]]  

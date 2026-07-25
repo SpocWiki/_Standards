@@ -66,19 +66,19 @@ aliases:
 - 朱里亞·克勞狄王朝
 - 율리우스-클라우디우스 왕조
 has_id_wikidata: Q192841
-instance_of: '[[_Standards/WikiData/WD~dynasty,164950|WD~dynasty,164950]]'
-replaced_by: '[[_Standards/WikiData/WD~Flavian_dynasty,200565|WD~Flavian_dynasty,200565]]'
+instance_of: '[[/_Standards/WikiData/WD~dynasty,164950|WD~dynasty,164950]]'
+replaced_by: '[[/_Standards/WikiData/WD~Flavian_dynasty,200565|WD~Flavian_dynasty,200565]]'
 depicted_by:
-- '[[_Standards/WikiData/WD~Gemma_Augustea,653194|WD~Gemma_Augustea,653194]]'
-- '[[_Standards/WikiData/WD~Gemma_Claudia,2049619|WD~Gemma_Claudia,2049619]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Julio_Claudian_dynasty,14403341|WD~Template_Julio_Claudian_dynasty,14403341]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[/_Standards/WikiData/WD~Gemma_Augustea,653194|WD~Gemma_Augustea,653194]]'
+- '[[/_Standards/WikiData/WD~Gemma_Claudia,2049619|WD~Gemma_Claudia,2049619]]'
+topic_has_template: '[[/_Standards/WikiData/WD~Template_Julio_Claudian_dynasty,14403341|WD~Template_Julio_Claudian_dynasty,14403341]]'
+described_by_source: '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 schematic:
 - http://commons.wikimedia.org/wiki/Special:FilePath/JulioClaudian.svg
 - http://commons.wikimedia.org/wiki/Special:FilePath/JulioClaudian%20de.svg
 EAGLE_id: dates/lod/43
 Commons_category: Julio-Claudian dynasty
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Julio_Claudian_dynasty,8568961|WD~Category_Julio_Claudian_dynasty,8568961]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Julio_Claudian_dynasty,8568961|WD~Category_Julio_Claudian_dynasty,8568961]]'
 dv_is_:
   same_as:
   - '[[../../../../../../../../../../WikiData/WD~Julio-Claudian_dynasty,192841|WD~Julio-Claudian_dynasty,192841]]'
@@ -182,7 +182,7 @@ dv_has_:
 
 # [[Julio-Claudian_dynasty]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Julio-Claudian_dynasty,192841|WD~Julio-Claudian_dynasty,192841]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Julio-Claudian_dynasty,192841|WD~Julio-Claudian_dynasty,192841]] 
 ## #has_/text_of_/abstract 
 
 > The Julio-Claudian dynasty comprised the first five Roman emperors: 

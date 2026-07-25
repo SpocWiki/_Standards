@@ -126,10 +126,10 @@ aliases:
 has_id_wikidata: Q191768
 described_by_source: '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~red_meat,3243069|WD~red_meat,3243069]]'
-- '[[_Standards/WikiData/WD~mammal_meat,124748491|WD~mammal_meat,124748491]]'
-- '[[_Standards/WikiData/WD~meat,10990|WD~meat,10990]]'
-natural_product_of_taxon: '[[_Standards/WikiData/WD~pig,787|WD~pig,787]]'
+- '[[/_Standards/WikiData/WD~red_meat,3243069|WD~red_meat,3243069]]'
+- '[[/_Standards/WikiData/WD~mammal_meat,124748491|WD~mammal_meat,124748491]]'
+- '[[/_Standards/WikiData/WD~meat,10990|WD~meat,10990]]'
+natural_product_of_taxon: '[[/_Standards/WikiData/WD~pig,787|WD~pig,787]]'
 carbon_footprint: 10.3
 water_footprint: 5988
 OmegaWiki_Defined_Meaning: 455464
@@ -310,7 +310,7 @@ dv_has_:
 
 # [[Pork]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pork,191768|WD~Pork,191768]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Pork,191768|WD~Pork,191768]] 
 
 ## #has_/text_of_/abstract 
 

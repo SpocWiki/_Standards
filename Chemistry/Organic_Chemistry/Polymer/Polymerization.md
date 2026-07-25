@@ -53,16 +53,16 @@ aliases:
 - 重合反応
 - 중합
 has_id_wikidata: Q181898
-has_effect: '[[_Standards/WikiData/WD~polymer,81163|WD~polymer,81163]]'
-raw_material_processed: '[[_Standards/WikiData/WD~monomer,178827|WD~monomer,178827]]'
-opposite_of: '[[_Standards/WikiData/WD~depolymerization,906487|WD~depolymerization,906487]]'
-different_from: '[[_Standards/WikiData/WD~curing,2991861|WD~curing,2991861]]'
-part_of: '[[_Standards/WikiData/WD~curing,2991861|WD~curing,2991861]]'
-studied_by: '[[_Standards/WikiData/WD~polymer_science,3456979|WD~polymer_science,3456979]]'
+has_effect: '[[/_Standards/WikiData/WD~polymer,81163|WD~polymer,81163]]'
+raw_material_processed: '[[/_Standards/WikiData/WD~monomer,178827|WD~monomer,178827]]'
+opposite_of: '[[/_Standards/WikiData/WD~depolymerization,906487|WD~depolymerization,906487]]'
+different_from: '[[/_Standards/WikiData/WD~curing,2991861|WD~curing,2991861]]'
+part_of: '[[/_Standards/WikiData/WD~curing,2991861|WD~curing,2991861]]'
+studied_by: '[[/_Standards/WikiData/WD~polymer_science,3456979|WD~polymer_science,3456979]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~connection,12819913|WD~connection,12819913]]'
-- '[[_Standards/WikiData/WD~chemical_reaction,36534|WD~chemical_reaction,36534]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~polymerism,49096036|WD~polymerism,49096036]]'
+- '[[/_Standards/WikiData/WD~connection,12819913|WD~connection,12819913]]'
+- '[[/_Standards/WikiData/WD~chemical_reaction,36534|WD~chemical_reaction,36534]]'
+said_to_be_the_same_as: '[[/_Standards/WikiData/WD~polymerism,49096036|WD~polymerism,49096036]]'
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Polystyrene%20formation.PNG
 UMLS_CUI: C0314672
 MeSH_tree_code: G02.750
@@ -167,7 +167,7 @@ dv_has_:
 
 # [[Polymerization]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Polymerization,181898|WD~Polymerization,181898]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Polymerization,181898|WD~Polymerization,181898]] 
 
 ## #has_/text_of_/abstract 
 

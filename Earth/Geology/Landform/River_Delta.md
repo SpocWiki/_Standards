@@ -75,15 +75,15 @@ aliases:
 - 삼각주
 has_id_wikidata: Q43197
 subclass_of:
-- '[[_Standards/WikiData/WD~plain,160091|WD~plain,160091]]'
-- '[[_Standards/WikiData/WD~river_mouth,1233637|WD~river_mouth,1233637]]'
+- '[[/_Standards/WikiData/WD~plain,160091|WD~plain,160091]]'
+- '[[/_Standards/WikiData/WD~river_mouth,1233637|WD~river_mouth,1233637]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
-different_from: '[[_Standards/WikiData/WD~Delta,903600|WD~Delta,903600]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+different_from: '[[/_Standards/WikiData/WD~Delta,903600|WD~Delta,903600]]'
 properties_for_this_type: delta of
-named_after: '[[_Standards/WikiData/WD~delta,14390|WD~delta,14390]]'
+named_after: '[[/_Standards/WikiData/WD~delta,14390|WD~delta,14390]]'
 GeoNames_feature_code: T.DLTA
 image: http://commons.wikimedia.org/wiki/Special:FilePath/NileDelta-EO.JPG
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Cyclone%20Nargis%20flooding%20before-and-after.jpg
@@ -222,7 +222,7 @@ dv_has_:
 
 # [[River_Delta]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~River_delta,43197|WD~River_delta,43197]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~River_delta,43197|WD~River_delta,43197]] 
 
 ## #has_/text_of_/abstract 
 

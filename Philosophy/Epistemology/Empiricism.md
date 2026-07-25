@@ -66,20 +66,20 @@ aliases:
 - 경험론
 has_id_wikidata: Q83368
 opposite_of:
-- '[[_Standards/WikiData/WD~rationalism,483024|WD~rationalism,483024]]'
-- '[[_Standards/WikiData/WD~externalism,2408329|WD~externalism,2408329]]'
+- '[[/_Standards/WikiData/WD~rationalism,483024|WD~rationalism,483024]]'
+- '[[/_Standards/WikiData/WD~externalism,2408329|WD~externalism,2408329]]'
 described_by_source:
 - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760|WD~Encyclopedia_of_Political_Theory,20743760]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517|WD~Small_Soviet_Encyclopedia,66386517]]'
-instance_of: '[[_Standards/WikiData/WD~philosophical_movement,2915955|WD~philosophical_movement,2915955]]'
-practiced_by: '[[_Standards/WikiData/WD~empiric,101516256|WD~empiric,101516256]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[/_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760|WD~Encyclopedia_of_Political_Theory,20743760]]'
+- '[[/_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[/_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517|WD~Small_Soviet_Encyclopedia,66386517]]'
+instance_of: '[[/_Standards/WikiData/WD~philosophical_movement,2915955|WD~philosophical_movement,2915955]]'
+practiced_by: '[[/_Standards/WikiData/WD~empiric,101516256|WD~empiric,101516256]]'
 OmegaWiki_Defined_Meaning: 342688
 Commons_category: Empiricism
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Berkeley1-1.jpg

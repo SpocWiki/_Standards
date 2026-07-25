@@ -166,19 +166,19 @@ dv_has_:
     zh: 马歇尔计划
     zh-hans: 马歇尔计划
     zh-hk: 馬蘇計劃
-agent_of_action: "[[_Standards/WikiData/WD~George_Marshall,151414]]"
-named_after: "[[_Standards/WikiData/WD~George_Marshall,151414]]"
+agent_of_action: "[[/_Standards/WikiData/WD~George_Marshall,151414]]"
+named_after: "[[/_Standards/WikiData/WD~George_Marshall,151414]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~Act_of_Congress_in_the_United_States,476068]]"
-  - "[[_Standards/WikiData/WD~public_policy,546113]]"
-  - "[[_Standards/WikiData/WD~plan,1371819]]"
-replaces: "[[_Standards/WikiData/WD~Morgenthau_Plan,661995]]"
-different_from: "[[_Standards/WikiData/WD~United_Nations_Relief_and_Rehabilitation_Administration,699140]]"
+  - "[[/_Standards/WikiData/WD~Act_of_Congress_in_the_United_States,476068]]"
+  - "[[/_Standards/WikiData/WD~public_policy,546113]]"
+  - "[[/_Standards/WikiData/WD~plan,1371819]]"
+replaces: "[[/_Standards/WikiData/WD~Morgenthau_Plan,661995]]"
+different_from: "[[/_Standards/WikiData/WD~United_Nations_Relief_and_Rehabilitation_Administration,699140]]"
 followed_by:
-  - "[[_Standards/WikiData/WD~Mutual_Security_Act,6944182]]"
-  - "[[_Standards/WikiData/WD~Mutual_Security_Agency,18607421]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[/_Standards/WikiData/WD~Mutual_Security_Act,6944182]]"
+  - "[[/_Standards/WikiData/WD~Mutual_Security_Agency,18607421]]"
+described_by_source: "[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+country: "[[/_Standards/WikiData/WD~United_States,30]]"
 capital_cost: 103000000
 BHCL_UUID: 529e8de3-7379-44cc-8236-b55d629c17b2
 end_time: 1951-12-01T00:00:00Z

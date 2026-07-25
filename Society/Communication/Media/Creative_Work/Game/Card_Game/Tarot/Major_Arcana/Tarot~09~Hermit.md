@@ -3,8 +3,8 @@ aliases:
   - 
 has_id_wikidata: Q2502772
 Unicode_character: 🃩
-part_of: "[[_Standards/WikiData/WD~Major_Arcana,11158357|WD~Major_Arcana,11158357]]"
-instance_of: "[[_Standards/WikiData/WD~playing_card,47883|WD~playing_card,47883]]"
+part_of: "[[/_Standards/WikiData/WD~Major_Arcana,11158357|WD~Major_Arcana,11158357]]"
+instance_of: "[[/_Standards/WikiData/WD~playing_card,47883|WD~playing_card,47883]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/RWS%20Tarot%2009%20Hermit.jpg
 Commons_category: Hermit (Major Arcana)
 ---

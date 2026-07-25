@@ -119,18 +119,18 @@ has_time_started:
   '{ "date:YYYY-MM-DD": null }': ''
 lang: en
 different_from:
-- '[[_Standards/WikiData/WD~Stoff,341867|WD~Stoff,341867]]'
-- '[[_Standards/WikiData/WD~narcotic,940|WD~narcotic,940]]'
-- '[[_Standards/WikiData/WD~medication,12140|WD~medication,12140]]'
+- '[[/_Standards/WikiData/WD~Stoff,341867|WD~Stoff,341867]]'
+- '[[/_Standards/WikiData/WD~narcotic,940|WD~narcotic,940]]'
+- '[[/_Standards/WikiData/WD~medication,12140|WD~medication,12140]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~xenobiotic,409205|WD~xenobiotic,409205]]'
-- '[[_Standards/WikiData/WD~chemical_compound,11173|WD~chemical_compound,11173]]'
+- '[[/_Standards/WikiData/WD~xenobiotic,409205|WD~xenobiotic,409205]]'
+- '[[/_Standards/WikiData/WD~chemical_compound,11173|WD~chemical_compound,11173]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
-has_characteristic: '[[_Standards/WikiData/WD~dose_response_relationship,1251001|WD~dose_response_relationship,1251001]]'
-has_effect: '[[_Standards/WikiData/WD~drug_allergy,2068896|WD~drug_allergy,2068896]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12034587,12034587|WD~Q12034587,12034587]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+has_characteristic: '[[/_Standards/WikiData/WD~dose_response_relationship,1251001|WD~dose_response_relationship,1251001]]'
+has_effect: '[[/_Standards/WikiData/WD~drug_allergy,2068896|WD~drug_allergy,2068896]]'
+said_to_be_the_same_as: '[[/_Standards/WikiData/WD~Q12034587,12034587|WD~Q12034587,12034587]]'
 properties_for_this_type: route of administration
 hashtag_: drug
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Psychoactive%20Drugs.jpg

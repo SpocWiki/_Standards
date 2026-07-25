@@ -52,11 +52,11 @@ aliases:
 - 電離氫區
 - 전리수소영역
 has_id_wikidata: Q11282
-subclass_of: '[[_Standards/WikiData/WD~emission_nebula,202265|WD~emission_nebula,202265]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
-part_of: '[[_Standards/WikiData/WD~galaxy,318|WD~galaxy,318]]'
-made_from_material: '[[_Standards/WikiData/WD~hydrogen,556|WD~hydrogen,556]]'
-has_effect: '[[_Standards/WikiData/WD~star_formation,16744|WD~star_formation,16744]]'
+subclass_of: '[[/_Standards/WikiData/WD~emission_nebula,202265|WD~emission_nebula,202265]]'
+instance_of: '[[/_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
+part_of: '[[/_Standards/WikiData/WD~galaxy,318|WD~galaxy,318]]'
+made_from_material: '[[/_Standards/WikiData/WD~hydrogen,556|WD~hydrogen,556]]'
+has_effect: '[[/_Standards/WikiData/WD~star_formation,16744|WD~star_formation,16744]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nursery%20of%20New%20Stars%20-%20GPN-2000-000972.jpg
 Commons_category: H II regions
 dv_is_:
@@ -142,7 +142,7 @@ dv_has_:
 
 # [[H_II_Region]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~H_II_region,11282|WD~H_II_region,11282]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~H_II_region,11282|WD~H_II_region,11282]] 
 
 ## #has_/text_of_/abstract 
 

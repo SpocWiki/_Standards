@@ -76,18 +76,18 @@ aliases:
   - モーゲンソー・プラン
   - 摩根索計劃
   - 모건소 플랜
-named_after: "[[_Standards/WikiData/WD~Henry_Morgenthau_Jr.,450751]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Henry_Morgenthau_Jr.,450751]]"
+named_after: "[[/_Standards/WikiData/WD~Henry_Morgenthau_Jr.,450751]]"
+discoverer_or_inventor: "[[/_Standards/WikiData/WD~Henry_Morgenthau_Jr.,450751]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~memorandum,660651]]"
-  - "[[_Standards/WikiData/WD~plan,1371819]]"
-  - "[[_Standards/WikiData/WD~proposal,3918409]]"
+  - "[[/_Standards/WikiData/WD~memorandum,660651]]"
+  - "[[/_Standards/WikiData/WD~plan,1371819]]"
+  - "[[/_Standards/WikiData/WD~proposal,3918409]]"
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Allied_plans_for_German_industry_after_World_War_II,896234]]"
-  - "[[_Standards/WikiData/WD~demilitarisation,1185641]]"
-part_of: "[[_Standards/WikiData/WD~Allied_plans_for_German_industry_after_World_War_II,896234]]"
-described_by_source: "[[_Standards/WikiData/WD~Germany_is_Our_Problem,5552159]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[/_Standards/WikiData/WD~Allied_plans_for_German_industry_after_World_War_II,896234]]"
+  - "[[/_Standards/WikiData/WD~demilitarisation,1185641]]"
+part_of: "[[/_Standards/WikiData/WD~Allied_plans_for_German_industry_after_World_War_II,896234]]"
+described_by_source: "[[/_Standards/WikiData/WD~Germany_is_Our_Problem,5552159]]"
+country: "[[/_Standards/WikiData/WD~United_States,30]]"
 inception: 1944-08-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Morgenthau%27s%20Proposal%20for%20Post-War%20German%20Boundaries.png
 Commons_category: Morgenthau Plan

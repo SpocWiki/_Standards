@@ -38,7 +38,7 @@ aliases:
 - 古印地安人
 - 고인디언
 has_id_wikidata: Q888099
-instance_of: '[[_Standards/WikiData/WD~ethnic_group,41710|WD~ethnic_group,41710]]'
+instance_of: '[[/_Standards/WikiData/WD~ethnic_group,41710|WD~ethnic_group,41710]]'
 Commons_category: Lithic period
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Poblamiento%20de%20America%20-%20Teor%C3%ADa%20P%20Tard%C3%ADo.png
 dv_is_:
@@ -113,7 +113,7 @@ dv_has_:
 
 # [[Paleo-Indian]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Paleo-Indians,888099|WD~Paleo-Indians,888099]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Paleo-Indians,888099|WD~Paleo-Indians,888099]] 
 
 ## #has_/text_of_/abstract 
 

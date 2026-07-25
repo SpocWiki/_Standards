@@ -3,20 +3,20 @@ aliases:
   - Wayland the Smith
   - Wieland der Schmied
 has_id_wikidata: Q33150
-part_of: "[[_Standards/WikiData/WD~Norse_mythology,128285]]"
-child: "[[_Standards/WikiData/WD~Witege,477712]]"
+part_of: "[[/_Standards/WikiData/WD~Norse_mythology,128285]]"
+child: "[[/_Standards/WikiData/WD~Witege,477712]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-spouse: "[[_Standards/WikiData/WD~Hervör_alvitr,1115537]]"
+  - "[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[/_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+spouse: "[[/_Standards/WikiData/WD~Hervör_alvitr,1115537]]"
 sibling:
-  - "[[_Standards/WikiData/WD~Slagfiðr,3962683]]"
-  - "[[_Standards/WikiData/WD~Agilaz,11481956]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-instance_of: "[[_Standards/WikiData/WD~Norse_mythical_character,16513904]]"
+  - "[[/_Standards/WikiData/WD~Slagfiðr,3962683]]"
+  - "[[/_Standards/WikiData/WD~Agilaz,11481956]]"
+sex_or_gender: "[[/_Standards/WikiData/WD~male,6581097]]"
+instance_of: "[[/_Standards/WikiData/WD~Norse_mythical_character,16513904]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Franks%20Casket%20vorne%20links.jpg
 Commons_category: Wieland
 Iconclass_notation: 82A(WAYLAND)

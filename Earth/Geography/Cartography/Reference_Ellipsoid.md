@@ -37,13 +37,13 @@ aliases:
 - 準拠楕円体
 - 기준타원체
 has_id_wikidata: Q1335878
-part_of: '[[_Standards/WikiData/WD~spatial_reference_system,161779|WD~spatial_reference_system,161779]]'
-has_use: '[[_Standards/WikiData/WD~frame_of_reference,184876|WD~frame_of_reference,184876]]'
-subclass_of: '[[_Standards/WikiData/WD~Earth_ellipsoid,1203807|WD~Earth_ellipsoid,1203807]]'
-instance_of: '[[_Standards/WikiData/WD~model,1979154|WD~model,1979154]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q9553577,9553577|WD~Q9553577,9553577]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-different_from: '[[_Standards/WikiData/WD~Q117350763,117350763|WD~Q117350763,117350763]]'
+part_of: '[[/_Standards/WikiData/WD~spatial_reference_system,161779|WD~spatial_reference_system,161779]]'
+has_use: '[[/_Standards/WikiData/WD~frame_of_reference,184876|WD~frame_of_reference,184876]]'
+subclass_of: '[[/_Standards/WikiData/WD~Earth_ellipsoid,1203807|WD~Earth_ellipsoid,1203807]]'
+instance_of: '[[/_Standards/WikiData/WD~model,1979154|WD~model,1979154]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Q9553577,9553577|WD~Q9553577,9553577]]'
+described_by_source: '[[/_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+different_from: '[[/_Standards/WikiData/WD~Q117350763,117350763|WD~Q117350763,117350763]]'
 dv_is_:
   same_as:
   - '[[../../../WikiData/WD~Reference_ellipsoid,1335878|WD~Reference_ellipsoid,1335878]]'
@@ -111,7 +111,7 @@ dv_has_:
 
 # [[Reference_Ellipsoid]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Reference_ellipsoid,1335878|WD~Reference_ellipsoid,1335878]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Reference_ellipsoid,1335878|WD~Reference_ellipsoid,1335878]] 
 
 ## #has_/text_of_/abstract 
 

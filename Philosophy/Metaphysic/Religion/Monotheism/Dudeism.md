@@ -23,7 +23,7 @@ aliases:
 - 都得主义
 - 듀드주의
 has_id_wikidata: Q2671570
-instance_of: '[[_Standards/WikiData/WD~world_view,49447|WD~world_view,49447]]'
+instance_of: '[[/_Standards/WikiData/WD~world_view,49447|WD~world_view,49447]]'
 official_website: https://dudeism.com
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Dudeism.svg
 subreddit: Dudeism
@@ -61,7 +61,7 @@ dv_has_:
 
 # [[Dudeism]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Dudeism,2671570|WD~Dudeism,2671570]]
+#is_/same_as :: [[/_Standards/WikiData/WD~Dudeism,2671570|WD~Dudeism,2671570]]
 
 ## #has_/text_of_/abstract 
 

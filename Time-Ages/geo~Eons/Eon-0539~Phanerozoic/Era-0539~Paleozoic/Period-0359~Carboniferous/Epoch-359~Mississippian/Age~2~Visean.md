@@ -71,15 +71,15 @@ title:
   '{ newTitle: }': 
 type: private_note
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Viséan,30869523|WD~Category_Viséan,30869523]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Visean,134521388|WD~GSSP_for_the_base_of_the_Visean,134521388]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+described_by_source: '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Viséan,30869523|WD~Category_Viséan,30869523]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_the_Visean,134521388|WD~GSSP_for_the_base_of_the_Visean,134521388]]'
 end_time: -330900000-01-01T00:00:00Z
 start_time: -346700000-01-01T00:00:00Z
-named_after: '[[_Standards/WikiData/WD~Visé,49743|WD~Visé,49743]]'
+named_after: '[[/_Standards/WikiData/WD~Visé,49743|WD~Visé,49743]]'
 Commons_category: Visean
 coordinate_location: Point(109.45 24.4333)
 described_at_URL: https://popups.uliege.be/1374-8505/index.php?id=1091
@@ -137,7 +137,7 @@ dv_has_:
     stopped: -330.9e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Visean,Q647290|WD~Visean,Q647290]]'
+  - '[[/_Standards/WikiData/WD~Visean,Q647290|WD~Visean,Q647290]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean|Age~2~Visean]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.public|Age~2~Visean.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.internal|Age~2~Visean.internal]]'
@@ -149,7 +149,7 @@ dv_has_duration_years: NaN
 dv_has_previous_item: '[[Age~1~Tournaisian]]'
 dv_has_next_item: '[[Age~3~Serpukhovian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Visean,Q647290|WD~Visean,Q647290]]'
+- '[[/_Standards/WikiData/WD~Visean,Q647290|WD~Visean,Q647290]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean|Age~2~Visean]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.public|Age~2~Visean.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.internal|Age~2~Visean.internal]]'
@@ -190,7 +190,7 @@ dv_has_text_of_color: 0xA6B96C
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Visean,Q647290|WD~Visean,Q647290]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Visean,Q647290|WD~Visean,Q647290]] 
 
 A time period from 346.7 to 330.9 million years ago. 
 

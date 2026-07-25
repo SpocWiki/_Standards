@@ -79,8 +79,8 @@ aliases:
 - 赤色巨星
 - 적색거성
 has_id_wikidata: Q50081
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
-subclass_of: '[[_Standards/WikiData/WD~giant_star,5875|WD~giant_star,5875]]'
+instance_of: '[[/_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
+subclass_of: '[[/_Standards/WikiData/WD~giant_star,5875|WD~giant_star,5875]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Red%20giant%20simulation%204%20%28cropped%29.jpg
 Commons_category: Red giants
 dv_is_:
@@ -195,7 +195,7 @@ dv_has_:
 
 # [[Red_Giant]]
 
-#is_/same_as :: [[_Standards/WikiData/WD~Red_giant,50081|WD~Red_giant,50081]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Red_giant,50081|WD~Red_giant,50081]] 
 
 A Star powered by fusion of hydrogen in shell with an inactive core of helium.
 

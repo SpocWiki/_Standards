@@ -17,11 +17,11 @@ aliases:
 - 索尼音樂
 - 소니 뮤직 엔터테인먼트
 has_id_wikidata: Q330629
-operating_area: '[[_Standards/WikiData/WD~worldwide,13780930|WD~worldwide,13780930]]'
-different_from: '[[_Standards/WikiData/WD~Sony_Music,56760250|WD~Sony_Music,56760250]]'
-operator: '[[_Standards/WikiData/WD~Sony_Music,56760250|WD~Sony_Music,56760250]]'
-discography: '[[_Standards/WikiData/WD~Sony_Music_catalog,105047442|WD~Sony_Music_catalog,105047442]]'
-instance_of: '[[_Standards/WikiData/WD~record_label,18127|WD~record_label,18127]]'
+operating_area: '[[/_Standards/WikiData/WD~worldwide,13780930|WD~worldwide,13780930]]'
+different_from: '[[/_Standards/WikiData/WD~Sony_Music,56760250|WD~Sony_Music,56760250]]'
+operator: '[[/_Standards/WikiData/WD~Sony_Music,56760250|WD~Sony_Music,56760250]]'
+discography: '[[/_Standards/WikiData/WD~Sony_Music_catalog,105047442|WD~Sony_Music_catalog,105047442]]'
+instance_of: '[[/_Standards/WikiData/WD~record_label,18127|WD~record_label,18127]]'
 social_media_followers: 62071
 Labelcode: 06667
 inception: 1991-01-01T00:00:00Z
@@ -127,7 +127,7 @@ dv_has_:
     stopped: -489.5e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Jiangshanian,33062|WD~Jiangshanian,33062]]'
+  - '[[/_Standards/WikiData/WD~Jiangshanian,33062|WD~Jiangshanian,33062]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian|Age-494~Jiangshanian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.public|Age-494~Jiangshanian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.internal|Age-494~Jiangshanian.internal]]'
@@ -139,7 +139,7 @@ dv_has_duration_years: 4.500e+6
 dv_has_previous_item: '[[Age-497~Paibian]]'
 dv_has_next_item: '[[Age-490~Cambrian_Stage_10]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Jiangshanian,33062|WD~Jiangshanian,33062]]'
+- '[[/_Standards/WikiData/WD~Jiangshanian,33062|WD~Jiangshanian,33062]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian|Age-494~Jiangshanian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.public|Age-494~Jiangshanian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.internal|Age-494~Jiangshanian.internal]]'
@@ -162,7 +162,7 @@ dv_has_text_of_color: 0xD9F0BB
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Jiangshanian,33062|WD~Jiangshanian,33062]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Jiangshanian,33062|WD~Jiangshanian,33062]] 
 
 has_name_zh = `=this.dv_has_name_zh` 
 

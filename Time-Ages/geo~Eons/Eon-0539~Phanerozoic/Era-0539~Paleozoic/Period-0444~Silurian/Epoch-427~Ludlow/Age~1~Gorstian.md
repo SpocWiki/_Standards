@@ -24,11 +24,11 @@ aliases:
 - 格斯特期
 has_id_wikidata: Q752878
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-different_from: '[[_Standards/WikiData/WD~Gorst,3473536|WD~Gorst,3473536]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Gorstian,134636462|WD~GSSP_for_the_base_of_Gorstian,134636462]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+different_from: '[[/_Standards/WikiData/WD~Gorst,3473536|WD~Gorst,3473536]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_Gorstian,134636462|WD~GSSP_for_the_base_of_Gorstian,134636462]]'
 end_time: -427400000-01-01T00:00:00Z
 start_time: -427400000-01-01T00:00:00Z
 sRGB_color_hex_triplet: C3EAE6
@@ -77,7 +77,7 @@ dv_has_:
     stopped: -425.6e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Gorstian,752878|WD~Gorstian,752878]]'
+  - '[[/_Standards/WikiData/WD~Gorstian,752878|WD~Gorstian,752878]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian|Age~1~Gorstian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.public|Age~1~Gorstian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.internal|Age~1~Gorstian.internal]]'
@@ -90,7 +90,7 @@ dv_has_duration_years: 1.800e+6
 dv_has_previous_item: '[[../Epoch-433~Wenlock/Age~2~Homerian|Age~2~Homerian]]'
 dv_has_next_item: '[[Age~2~Ludfordian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Gorstian,752878|WD~Gorstian,752878]]'
+- '[[/_Standards/WikiData/WD~Gorstian,752878|WD~Gorstian,752878]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian|Age~1~Gorstian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.public|Age~1~Gorstian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.internal|Age~1~Gorstian.internal]]'
@@ -132,7 +132,7 @@ dv_has_text_of_color: 0xCCECDD
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Gorstian,752878|WD~Gorstian,752878]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Gorstian,752878|WD~Gorstian,752878]] 
 
 A time period from 427.4 to 425.6 million years ago. 
 

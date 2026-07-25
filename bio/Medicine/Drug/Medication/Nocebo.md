@@ -23,8 +23,8 @@ aliases:
 - 反安慰劑效應
 - 노시보
 has_id_wikidata: Q1332954
-instance_of: '[[_Standards/WikiData/WD~phenomenon,483247|WD~phenomenon,483247]]'
-opposite_of: '[[_Standards/WikiData/WD~placebo_effect,16303139|WD~placebo_effect,16303139]]'
+instance_of: '[[/_Standards/WikiData/WD~phenomenon,483247|WD~phenomenon,483247]]'
+opposite_of: '[[/_Standards/WikiData/WD~placebo_effect,16303139|WD~placebo_effect,16303139]]'
 UMLS_CUI: C3658218
 MeSH_tree_code:
 - N05.715.350.350.625.500
@@ -80,7 +80,7 @@ dv_has_:
 # [[Nocebo]] 
 
 #has_/complement :: [[Placebo]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Nocebo,1332954|WD~Nocebo,1332954]]
+#is_/same_as :: [[/_Standards/WikiData/WD~Nocebo,1332954|WD~Nocebo,1332954]]
 
 ## #has_/text_of_/abstract 
 

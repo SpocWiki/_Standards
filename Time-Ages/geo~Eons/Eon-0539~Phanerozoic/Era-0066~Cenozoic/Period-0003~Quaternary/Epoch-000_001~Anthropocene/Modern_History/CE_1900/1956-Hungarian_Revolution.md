@@ -79,12 +79,12 @@ aliases:
 - បដិវត្តហុងគ្រីឆ្នាំ ១៩៥៦
 - ハンガリー動乱
 has_id_wikidata: Q164348
-instance_of: '[[_Standards/WikiData/WD~rebellion,124734|WD~rebellion,124734]]'
+instance_of: '[[/_Standards/WikiData/WD~rebellion,124734|WD~rebellion,124734]]'
 participant:
-- '[[_Standards/WikiData/WD~Imre_Nagy,177917|WD~Imre_Nagy,177917]]'
-- '[[_Standards/WikiData/WD~State_Protection_Authority,250687|WD~State_Protection_Authority,250687]]'
-locations: "[[_Standards/WikiData/WD~Hungarian_People's_Republic,16410|WD~Hungarian_People's_Republic,16410]]"
-country: '[[_Standards/WikiData/WD~Hungary,28|WD~Hungary,28]]'
+- '[[/_Standards/WikiData/WD~Imre_Nagy,177917|WD~Imre_Nagy,177917]]'
+- '[[/_Standards/WikiData/WD~State_Protection_Authority,250687|WD~State_Protection_Authority,250687]]'
+locations: "[[/_Standards/WikiData/WD~Hungarian_People's_Republic,16410|WD~Hungarian_People's_Republic,16410]]"
+country: '[[/_Standards/WikiData/WD~Hungary,28|WD~Hungary,28]]'
 BHCL_UUID: baa37c5d-b648-4f78-89ec-90c8e2831a7b
 U_S_National_Archives_Identifier: 10640868
 end_time: 1956-11-10T00:00:00Z
@@ -200,7 +200,7 @@ dv_has_:
 
 # [[1956-Hungarian_Revolution]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Hungarian_Revolution_of_1956,164348|WD~Hungarian_Revolution_of_1956,164348]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Hungarian_Revolution_of_1956,164348|WD~Hungarian_Revolution_of_1956,164348]] 
 
 ## #has_/text_of_/abstract 
 

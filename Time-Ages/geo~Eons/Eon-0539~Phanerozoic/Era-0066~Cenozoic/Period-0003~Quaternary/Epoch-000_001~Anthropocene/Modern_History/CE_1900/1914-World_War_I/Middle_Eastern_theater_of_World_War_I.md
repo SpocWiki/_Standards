@@ -45,10 +45,10 @@ aliases:
 - 中東戰場
 - 중동 전역 (제1차 세계 대전)
 has_id_wikidata: Q1765465
-instance_of: '[[_Standards/WikiData/WD~theater_of_war,718893|WD~theater_of_war,718893]]'
+instance_of: '[[/_Standards/WikiData/WD~theater_of_war,718893|WD~theater_of_war,718893]]'
 location:
-- '[[_Standards/WikiData/WD~Middle_East,7204|WD~Middle_East,7204]]'
-- '[[_Standards/WikiData/WD~Central_Asia,27275|WD~Central_Asia,27275]]'
+- '[[/_Standards/WikiData/WD~Middle_East,7204|WD~Middle_East,7204]]'
+- '[[/_Standards/WikiData/WD~Central_Asia,27275|WD~Central_Asia,27275]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/G.C.%2018%20March%201915%20Gallipoli%20Campaign%20Article.jpg
 Commons_category: Middle Eastern theatre of World War I
 end_time: 1918-10-30T00:00:00Z
@@ -124,7 +124,7 @@ dv_has_:
 
 # [[Middle_Eastern_theater_of_World_War_I]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Middle_Eastern_theater_of_World_War_I,1765465|WD~Middle_Eastern_theater_of_World_War_I,1765465]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Middle_Eastern_theater_of_World_War_I,1765465|WD~Middle_Eastern_theater_of_World_War_I,1765465]] 
 
 ## #has_/text_of_/abstract 
 

@@ -21,10 +21,10 @@ aliases:
 - 暗反应
 - 암반응
 has_id_wikidata: Q22283112
-follows: '[[_Standards/WikiData/WD~light_dependent_reactions,862876|WD~light_dependent_reactions,862876]]'
-instance_of: '[[_Standards/WikiData/WD~biological_process,2996394|WD~biological_process,2996394]]'
-subclass_of: '[[_Standards/WikiData/WD~carbohydrate_biosynthetic_process,21102359|WD~carbohydrate_biosynthetic_process,21102359]]'
-part_of: '[[_Standards/WikiData/WD~photosynthesis,11982|WD~photosynthesis,11982]]'
+follows: '[[/_Standards/WikiData/WD~light_dependent_reactions,862876|WD~light_dependent_reactions,862876]]'
+instance_of: '[[/_Standards/WikiData/WD~biological_process,2996394|WD~biological_process,2996394]]'
+subclass_of: '[[/_Standards/WikiData/WD~carbohydrate_biosynthetic_process,21102359|WD~carbohydrate_biosynthetic_process,21102359]]'
+part_of: '[[/_Standards/WikiData/WD~photosynthesis,11982|WD~photosynthesis,11982]]'
 exact_match: http://purl.obolibrary.org/obo/GO_0019685
 dv_has_:
   name_:
@@ -47,7 +47,7 @@ dv_has_:
 
 # [[Photosynthesis,dark_Reaction]]  
 
-#is_/same_as :: [[_Standards/WikiData/WD~photosynthesis,_dark_reaction,22283112|WD~photosynthesis,_dark_reaction,22283112]]  
+#is_/same_as :: [[/_Standards/WikiData/WD~photosynthesis,_dark_reaction,22283112|WD~photosynthesis,_dark_reaction,22283112]]  
 #has_/previous_/state :: [[Photosynthesis,light_Reactions|Photosynthesis,light_Reactions]] 
 
 ## #has_/text_of_/abstract 

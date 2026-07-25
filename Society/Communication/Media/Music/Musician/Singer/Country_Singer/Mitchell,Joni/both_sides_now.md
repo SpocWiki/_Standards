@@ -1,16 +1,16 @@
 ---
 aliases:
 has_id_wikidata: Q2707288
-genre: "[[_Standards/WikiData/WD~folk_rock,186472]]"
-lyricist: "[[_Standards/WikiData/WD~Joni_Mitchell,205721]]"
+genre: "[[/_Standards/WikiData/WD~folk_rock,186472]]"
+lyricist: "[[/_Standards/WikiData/WD~Joni_Mitchell,205721]]"
 performer:
-  - "[[_Standards/WikiData/WD~Joni_Mitchell,205721]]"
-  - "[[_Standards/WikiData/WD~Judy_Collins,254576]]"
-composer: "[[_Standards/WikiData/WD~Joni_Mitchell,205721]]"
-different_from: "[[_Standards/WikiData/WD~Both_Sides_Now,4948604]]"
-instance_of: "[[_Standards/WikiData/WD~musical_work_composition,105543609]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
-form_of_creative_work: "[[_Standards/WikiData/WD~song,7366]]"
+  - "[[/_Standards/WikiData/WD~Joni_Mitchell,205721]]"
+  - "[[/_Standards/WikiData/WD~Judy_Collins,254576]]"
+composer: "[[/_Standards/WikiData/WD~Joni_Mitchell,205721]]"
+different_from: "[[/_Standards/WikiData/WD~Both_Sides_Now,4948604]]"
+instance_of: "[[/_Standards/WikiData/WD~musical_work_composition,105543609]]"
+language_of_work_or_name: "[[/_Standards/WikiData/WD~English,1860]]"
+form_of_creative_work: "[[/_Standards/WikiData/WD~song,7366]]"
 publication_date: 1966-01-01T00:00:00Z
 title: Both Sides Now
 ISWC: T0721333658

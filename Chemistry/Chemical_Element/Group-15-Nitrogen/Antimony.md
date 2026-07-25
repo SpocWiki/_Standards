@@ -85,7 +85,7 @@ aliases:
   - 锑
   - 안티모니
 has_id_wikidata: Q1099
-associated_hazard: "[[_Standards/WikiData/WD~antimony_exposure,3973485|WD~antimony_exposure,3973485]]"
+associated_hazard: "[[/_Standards/WikiData/WD~antimony_exposure,3973485|WD~antimony_exposure,3973485]]"
 atomic_number: 51
 boiling_point: 2975
 canonical_SMILES: "[Sb]"
@@ -93,18 +93,18 @@ CAS_Registry_Number: 7440-36-0
 chemical_formula: Sb
 Commons_category: Antimony
 Commons_gallery: Antimony
-crystal_system: "[[_Standards/WikiData/WD~trigonal_crystal_system,588274|WD~trigonal_crystal_system,588274]]"
+crystal_system: "[[/_Standards/WikiData/WD~trigonal_crystal_system,588274|WD~trigonal_crystal_system,588274]]"
 density: 6.69
 described_by_source:
   - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524|WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Antimony,84655870|WD~Antimony,84655870]]"
-different_from: "[[_Standards/WikiData/WD~Antimony,29142485|WD~Antimony,29142485]]"
+  - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[/_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524|WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]"
+  - "[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[/_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[/_Standards/WikiData/WD~Antimony,84655870|WD~Antimony,84655870]]"
+different_from: "[[/_Standards/WikiData/WD~Antimony,29142485|WD~Antimony,29142485]]"
 DSSTOX_compound_identifier: DTXCID50820078
 EC_number: 231-146-5
 electronegativity: 2.05
@@ -113,14 +113,14 @@ electron_configuration:
   - "[Kr] 5s² 5d¹⁰ 5p³"
 element_symbol: Sb
 Gmelin_number: 16305
-has_effect: "[[_Standards/WikiData/WD~antimony_exposure,3973485|WD~antimony_exposure,3973485]]"
+has_effect: "[[/_Standards/WikiData/WD~antimony_exposure,3973485|WD~antimony_exposure,3973485]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Antimony-2.jpg
 immediately_dangerous_to_life_or_health: 50
 InChI: InChI=1S/Sb
 InChIKey: WATWJIUSRGPENY-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~chalcophile_element,1929547|WD~chalcophile_element,1929547]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]"
+  - "[[/_Standards/WikiData/WD~chalcophile_element,1929547|WD~chalcophile_element,1929547]]"
+  - "[[/_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]"
 ionic_radius:
   - 0.6
   - 0.76
@@ -142,9 +142,9 @@ MeSH_tree_code:
   - D01.552.544.050
 OmegaWiki_Defined_Meaning: 155862
 part_of:
-  - "[[_Standards/WikiData/WD~group_15,106675|WD~group_15,106675]]"
-  - "[[_Standards/WikiData/WD~period_5,244982|WD~period_5,244982]]"
-  - "[[_Standards/WikiData/WD~antimony_compound,72399431|WD~antimony_compound,72399431]]"
+  - "[[/_Standards/WikiData/WD~group_15,106675|WD~group_15,106675]]"
+  - "[[/_Standards/WikiData/WD~period_5,244982|WD~period_5,244982]]"
+  - "[[/_Standards/WikiData/WD~antimony_compound,72399431|WD~antimony_compound,72399431]]"
 PubChem_CID: 5354495
 RTECS_number: CC4025000
 short_term_exposure_limit:
@@ -154,8 +154,8 @@ short_term_exposure_limit:
   - 1.5
 SpocWebEntityId: 21947
 subclass_of:
-  - "[[_Standards/WikiData/WD~period_5,244982|WD~period_5,244982]]"
-  - "[[_Standards/WikiData/WD~metalloid,19596|WD~metalloid,19596]]"
+  - "[[/_Standards/WikiData/WD~period_5,244982|WD~period_5,244982]]"
+  - "[[/_Standards/WikiData/WD~metalloid,19596|WD~metalloid,19596]]"
 time_weighted_average_exposure_limit:
   - 0.1
   - 0.2

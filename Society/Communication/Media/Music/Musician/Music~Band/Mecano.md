@@ -2,25 +2,25 @@
 aliases:
 has_id_wikidata: Q574375
 genre:
-  - "[[_Standards/WikiData/WD~electropop,188450]]"
-  - "[[_Standards/WikiData/WD~synth_pop,1298934]]"
-instance_of: "[[_Standards/WikiData/WD~musical_group,215380]]"
+  - "[[/_Standards/WikiData/WD~electropop,188450]]"
+  - "[[/_Standards/WikiData/WD~synth_pop,1298934]]"
+instance_of: "[[/_Standards/WikiData/WD~musical_group,215380]]"
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Ana_Torroja,_3rd_Marchioness_of_Torroja,270873]]"
-  - "[[_Standards/WikiData/WD~José_María_Cano,593851]]"
-  - "[[_Standards/WikiData/WD~Nacho_Cano,632678]]"
+  - "[[/_Standards/WikiData/WD~Ana_Torroja,_3rd_Marchioness_of_Torroja,270873]]"
+  - "[[/_Standards/WikiData/WD~José_María_Cano,593851]]"
+  - "[[/_Standards/WikiData/WD~Nacho_Cano,632678]]"
 record_label:
-  - "[[_Standards/WikiData/WD~Sony_Music,330629]]"
-  - "[[_Standards/WikiData/WD~Sony_BMG_Music_Entertainment,_Inc.,3001888]]"
-  - "[[_Standards/WikiData/WD~CBS_Records,3233924]]"
-notable_work: "[[_Standards/WikiData/WD~Hijo_de_la_Luna,690024]]"
-discography: "[[_Standards/WikiData/WD~Mecano_discography,6804383]]"
+  - "[[/_Standards/WikiData/WD~Sony_Music,330629]]"
+  - "[[/_Standards/WikiData/WD~Sony_BMG_Music_Entertainment,_Inc.,3001888]]"
+  - "[[/_Standards/WikiData/WD~CBS_Records,3233924]]"
+notable_work: "[[/_Standards/WikiData/WD~Hijo_de_la_Luna,690024]]"
+discography: "[[/_Standards/WikiData/WD~Mecano_discography,6804383]]"
 different_from:
-  - "[[_Standards/WikiData/WD~Meccano,16577428]]"
-  - "[[_Standards/WikiData/WD~Mecano,18142598]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Mecano_(pop_group),32445960]]"
-location_of_formation: "[[_Standards/WikiData/WD~Madrid,2807]]"
-country_of_origin: "[[_Standards/WikiData/WD~Spain,29]]"
+  - "[[/_Standards/WikiData/WD~Meccano,16577428]]"
+  - "[[/_Standards/WikiData/WD~Mecano,18142598]]"
+topic_s_main_category: "[[/_Standards/WikiData/WD~Category_Mecano_(pop_group),32445960]]"
+location_of_formation: "[[/_Standards/WikiData/WD~Madrid,2807]]"
+country_of_origin: "[[/_Standards/WikiData/WD~Spain,29]]"
 social_media_followers: 525000
 start_of_work_period: 1981-01-01T00:00:00Z
 inception: 1982-01-01T00:00:00Z

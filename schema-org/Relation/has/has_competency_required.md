@@ -29,9 +29,9 @@ type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_:
   inverse: "[[is_competency_required_for]]"
-  domain: "[[_Standards/Society/Communication/Media/Creative_Work/Educational_Occupational_Credential.md|Educational_Occupational_Credential]],[[_Standards/Society/Communication/Media/Creative_Work/Learning_Resource.md|Learning_Resource]]"
+  domain: "[[/_Standards/Society/Communication/Media/Creative_Work/Educational_Occupational_Credential.md|Educational_Occupational_Credential]],[[/_Standards/Society/Communication/Media/Creative_Work/Learning_Resource.md|Learning_Resource]]"
   name: has_competency_required
-  range: "[[_Standards/schema-org/Class/is_a_/Intangible/Defined_Term.md|Defined_Term]],[[_Standards/schema-org/Class/is_a_/Data_Type/Text.md|Text]],[[_Standards/schema-org/Class/is_a_/Data_Type/Text/Url.md|Url]]"
+  range: "[[/_Standards/schema-org/Class/is_a_/Intangible/Defined_Term.md|Defined_Term]],[[/_Standards/schema-org/Class/is_a_/Data_Type/Text.md|Text]],[[/_Standards/schema-org/Class/is_a_/Data_Type/Text/Url.md|Url]]"
 dv_is_:
   part_of: "pending:"
   same_as:
@@ -44,9 +44,9 @@ dv_is_:
     - "[[/_secret/schema-org/Relation/has/has_competency_required.secret|has_competency_required.secret]]"
 dv_has_inverse: "[[is_competency_required_for]]"
 dv_is_part_of: "pending:"
-dv_has_domain: "[[_Standards/Society/Communication/Media/Creative_Work/Educational_Occupational_Credential.md|Educational_Occupational_Credential]],[[_Standards/Society/Communication/Media/Creative_Work/Learning_Resource.md|Learning_Resource]]"
+dv_has_domain: "[[/_Standards/Society/Communication/Media/Creative_Work/Educational_Occupational_Credential.md|Educational_Occupational_Credential]],[[/_Standards/Society/Communication/Media/Creative_Work/Learning_Resource.md|Learning_Resource]]"
 dv_has_name: has_competency_required
-dv_has_range: "[[_Standards/schema-org/Class/is_a_/Intangible/Defined_Term.md|Defined_Term]],[[_Standards/schema-org/Class/is_a_/Data_Type/Text.md|Text]],[[_Standards/schema-org/Class/is_a_/Data_Type/Text/Url.md|Url]]"
+dv_has_range: "[[/_Standards/schema-org/Class/is_a_/Intangible/Defined_Term.md|Defined_Term]],[[/_Standards/schema-org/Class/is_a_/Data_Type/Text.md|Text]],[[/_Standards/schema-org/Class/is_a_/Data_Type/Text/Url.md|Url]]"
 dv_is_same_as:
   - "[[has_competency_required]]"
   - "[[/_public/schema-org/Relation/has/has_competency_required.public|has_competency_required.public]]"

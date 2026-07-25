@@ -34,18 +34,18 @@ aliases:
   - Cognitive Revolution
 has_id_wikidata: Q2706556
 facet_of:
-  - "[[_Standards/WikiData/WD~human_evolution,83944|WD~human_evolution,83944]]"
-  - "[[_Standards/WikiData/WD~human_behavior,3769299|WD~human_behavior,3769299]]"
-  - "[[_Standards/WikiData/WD~evolution_of_human_intelligence,4117055|WD~evolution_of_human_intelligence,4117055]]"
+  - "[[/_Standards/WikiData/WD~human_evolution,83944|WD~human_evolution,83944]]"
+  - "[[/_Standards/WikiData/WD~human_behavior,3769299|WD~human_behavior,3769299]]"
+  - "[[/_Standards/WikiData/WD~evolution_of_human_intelligence,4117055|WD~evolution_of_human_intelligence,4117055]]"
 has_part_s_:
-  - "[[_Standards/WikiData/WD~origin_of_language,501032|WD~origin_of_language,501032]]"
-  - "[[_Standards/WikiData/WD~origins_of_society,7102639|WD~origins_of_society,7102639]]"
-has_effect: "[[_Standards/WikiData/WD~cultural_universal,3825100|WD~cultural_universal,3825100]]"
-instance_of: "[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]"
+  - "[[/_Standards/WikiData/WD~origin_of_language,501032|WD~origin_of_language,501032]]"
+  - "[[/_Standards/WikiData/WD~origins_of_society,7102639|WD~origins_of_society,7102639]]"
+has_effect: "[[/_Standards/WikiData/WD~cultural_universal,3825100|WD~cultural_universal,3825100]]"
+instance_of: "[[/_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]"
 earliest_date: -50000-01-01T00:00:00Z
 dv_is_:
   same_as:
-    - "[[_Standards/WikiData/WD~Behavioral_modernity,2706556|WD~Behavioral_modernity,2706556]]"
+    - "[[/_Standards/WikiData/WD~Behavioral_modernity,2706556|WD~Behavioral_modernity,2706556]]"
     - "[[Behavioral_Modernity|Behavioral_Modernity]]"
     - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.public|Cognitive_Revolution.public]]"
     - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.internal|Cognitive_Revolution.internal]]"
@@ -54,7 +54,7 @@ dv_is_:
     - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.personal|Cognitive_Revolution.personal]]"
     - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.secret|Cognitive_Revolution.secret]]"
 dv_is_same_as:
-  - "[[_Standards/WikiData/WD~Behavioral_modernity,2706556|WD~Behavioral_modernity,2706556]]"
+  - "[[/_Standards/WikiData/WD~Behavioral_modernity,2706556|WD~Behavioral_modernity,2706556]]"
   - "[[Behavioral_Modernity|Behavioral_Modernity]]"
   - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.public|Cognitive_Revolution.public]]"
   - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.internal|Cognitive_Revolution.internal]]"
@@ -96,7 +96,7 @@ dv_has_:
 
 # [[Behavioral_Modernity]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Behavioral_modernity,2706556|WD~Behavioral_modernity,2706556]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Behavioral_modernity,2706556|WD~Behavioral_modernity,2706556]] 
 
 ## #has_/text_of_/abstract 
 

@@ -79,12 +79,12 @@ aliases:
 - 類金屬
 - 준금속
 has_id_wikidata: Q19596
-different_from: '[[_Standards/WikiData/WD~semimetal,2033925|WD~semimetal,2033925]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[/_Standards/WikiData/WD~semimetal,2033925|WD~semimetal,2033925]]'
+described_by_source: '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
-- '[[_Standards/WikiData/WD~metal,11426|WD~metal,11426]]'
-- '[[_Standards/WikiData/WD~nonmetal,19600|WD~nonmetal,19600]]'
+- '[[/_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+- '[[/_Standards/WikiData/WD~metal,11426|WD~metal,11426]]'
+- '[[/_Standards/WikiData/WD~nonmetal,19600|WD~nonmetal,19600]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Polycrystalline-germanium.jpg
 UMLS_CUI: C0439879
 MeSH_tree_code: D01.268.513
@@ -222,7 +222,7 @@ dv_has_:
 
 # [[Metalloid]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Metalloid,19596|WD~Metalloid,19596]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Metalloid,19596|WD~Metalloid,19596]] 
 
 ## #has_/text_of_/abstract 
 

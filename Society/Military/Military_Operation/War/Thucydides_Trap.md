@@ -2,10 +2,10 @@
 aliases:
   - Thucydides Trap
 has_id_wikidata: Q47527016
-instance_of: "[[_Standards/WikiData/WD~international_relations_theory,1785609]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Graham_T._Allison,2663882]]"
-described_by_source: "[[_Standards/WikiData/WD~Destined_for_War,115847049]]"
-named_after: "[[_Standards/WikiData/WD~Thucydides,41683]]"
+instance_of: "[[/_Standards/WikiData/WD~international_relations_theory,1785609]]"
+discoverer_or_inventor: "[[/_Standards/WikiData/WD~Graham_T._Allison,2663882]]"
+described_by_source: "[[/_Standards/WikiData/WD~Destined_for_War,115847049]]"
+named_after: "[[/_Standards/WikiData/WD~Thucydides,41683]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Thucydides%20pushkin02.jpg
 time_of_discovery_or_invention: 2012-01-01T00:00:00Z
 ---

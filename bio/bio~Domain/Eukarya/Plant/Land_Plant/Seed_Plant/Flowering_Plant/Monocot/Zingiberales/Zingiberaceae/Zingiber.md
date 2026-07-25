@@ -39,13 +39,13 @@ aliases:
 - 생강속
 has_id_wikidata: Q163563
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_16(2),112869391|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_16(2),112869391]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
-taxonomic_type: '[[_Standards/WikiData/WD~Ginger,35625|WD~Ginger,35625]]'
+- '[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[/_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_16(2),112869391|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_16(2),112869391]]'
+instance_of: '[[/_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[/_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
+taxonomic_type: '[[/_Standards/WikiData/WD~Ginger,35625|WD~Ginger,35625]]'
 subclass_of: '[[../../../../../../../../../../WikiData/WD~Zingiberaceae,37021|WD~Zingiberaceae,37021]]'
 parent_taxon: '[[../../../../../../../../../../WikiData/WD~Zingiberaceae,37021|WD~Zingiberaceae,37021]]'
 ITIS_TSN: 42400

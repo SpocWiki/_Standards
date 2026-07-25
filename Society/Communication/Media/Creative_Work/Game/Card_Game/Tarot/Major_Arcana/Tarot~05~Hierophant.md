@@ -5,11 +5,11 @@ aliases:
 has_id_wikidata: Q2502757
 Unicode_character: 🃥
 depicts:
-  - "[[_Standards/WikiData/WD~hierophant,1443775|WD~hierophant,1443775]]"
-  - "[[_Standards/WikiData/WD~man,8441|WD~man,8441]]"
-  - "[[_Standards/WikiData/WD~Pope,19546|WD~Pope,19546]]"
-part_of: "[[_Standards/WikiData/WD~Major_Arcana,11158357|WD~Major_Arcana,11158357]]"
-instance_of: "[[_Standards/WikiData/WD~playing_card,47883|WD~playing_card,47883]]"
+  - "[[/_Standards/WikiData/WD~hierophant,1443775|WD~hierophant,1443775]]"
+  - "[[/_Standards/WikiData/WD~man,8441|WD~man,8441]]"
+  - "[[/_Standards/WikiData/WD~Pope,19546|WD~Pope,19546]]"
+part_of: "[[/_Standards/WikiData/WD~Major_Arcana,11158357|WD~Major_Arcana,11158357]]"
+instance_of: "[[/_Standards/WikiData/WD~playing_card,47883|WD~playing_card,47883]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pope%20tarot%20charles6.jpg
 Commons_category: Pope (Major Arcana)
 ---

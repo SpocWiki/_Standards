@@ -50,13 +50,13 @@ aliases:
 - 異性体
 - 이성질체
 has_id_wikidata: Q127950
-different_from: '[[_Standards/WikiData/WD~nuclear_isomer,846110|WD~nuclear_isomer,846110]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-part_of: '[[_Standards/WikiData/WD~chemical_species,899336|WD~chemical_species,899336]]'
-instance_of: '[[_Standards/WikiData/WD~role,4897819|WD~role,4897819]]'
-manifestation_of: '[[_Standards/WikiData/WD~isomerism,41088690|WD~isomerism,41088690]]'
-has_characteristic: '[[_Standards/WikiData/WD~isomerism,41088690|WD~isomerism,41088690]]'
-subclass_of: '[[_Standards/WikiData/WD~molecule,11369|WD~molecule,11369]]'
+different_from: '[[/_Standards/WikiData/WD~nuclear_isomer,846110|WD~nuclear_isomer,846110]]'
+described_by_source: '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+part_of: '[[/_Standards/WikiData/WD~chemical_species,899336|WD~chemical_species,899336]]'
+instance_of: '[[/_Standards/WikiData/WD~role,4897819|WD~role,4897819]]'
+manifestation_of: '[[/_Standards/WikiData/WD~isomerism,41088690|WD~isomerism,41088690]]'
+has_characteristic: '[[/_Standards/WikiData/WD~isomerism,41088690|WD~isomerism,41088690]]'
+subclass_of: '[[/_Standards/WikiData/WD~molecule,11369|WD~molecule,11369]]'
 OmegaWiki_Defined_Meaning: 2034
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-ElsaBornFree-Isomero.wav
 Commons_category: Isomerism
@@ -177,7 +177,7 @@ dv_has_:
 
 # [[Isomer]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Isomer,127950|WD~Isomer,127950]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Isomer,127950|WD~Isomer,127950]] 
 
 ## #has_/text_of_/abstract 
 

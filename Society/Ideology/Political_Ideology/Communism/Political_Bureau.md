@@ -34,8 +34,8 @@ aliases:
 - 政治局
 - 정치국
 has_id_wikidata: Q309118
-subclass_of: '[[_Standards/WikiData/WD~panel,938236|WD~panel,938236]]'
-has_part_s_: '[[_Standards/WikiData/WD~Politburo_member,115136557|WD~Politburo_member,115136557]]'
+subclass_of: '[[/_Standards/WikiData/WD~panel,938236|WD~panel,938236]]'
+has_part_s_: '[[/_Standards/WikiData/WD~Politburo_member,115136557|WD~Politburo_member,115136557]]'
 Commons_category: Politburos
 dv_has_:
   name_:
@@ -99,7 +99,7 @@ dv_has_:
 
 # [[Political_Bureau]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Political_bureau,309118|WD~Political_bureau,309118]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Political_bureau,309118|WD~Political_bureau,309118]] 
 
 ## #has_/text_of_/abstract 
 

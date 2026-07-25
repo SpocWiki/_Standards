@@ -30,9 +30,9 @@ aliases:
 - 大規模観測計画
 - 그레이트 옵저버터리 계획
 has_id_wikidata: Q901553
-instance_of: '[[_Standards/WikiData/WD~NASA_program,21605492|WD~NASA_program,21605492]]'
-operator: '[[_Standards/WikiData/WD~National_Aeronautics_and_Space_Administration,23548|WD~National_Aeronautics_and_Space_Administration,23548]]'
-space_launch_vehicle: '[[_Standards/WikiData/WD~Space_Shuttle,48806|WD~Space_Shuttle,48806]]'
+instance_of: '[[/_Standards/WikiData/WD~NASA_program,21605492|WD~NASA_program,21605492]]'
+operator: '[[/_Standards/WikiData/WD~National_Aeronautics_and_Space_Administration,23548|WD~National_Aeronautics_and_Space_Administration,23548]]'
+space_launch_vehicle: '[[/_Standards/WikiData/WD~Space_Shuttle,48806|WD~Space_Shuttle,48806]]'
 Commons_category: Great Observatories program
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Observatories.jpg
 dv_is_:
@@ -94,7 +94,7 @@ dv_has_:
 ---
 # [[Great_Observatories_Program]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Great_Observatories_program,901553|WD~Great_Observatories_program,901553]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Great_Observatories_program,901553|WD~Great_Observatories_program,901553]] 
 
 ## #has_/text_of_/abstract 
 

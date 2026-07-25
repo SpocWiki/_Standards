@@ -31,16 +31,16 @@ aliases:
 - 폴리아미드
 has_id_wikidata: Q145273
 subclass_of:
-- '[[_Standards/WikiData/WD~polymer,81163|WD~polymer,81163]]'
-- '[[_Standards/WikiData/WD~carboxamides,355679|WD~carboxamides,355679]]'
-- '[[_Standards/WikiData/WD~organic_polymer,99600509|WD~organic_polymer,99600509]]'
+- '[[/_Standards/WikiData/WD~polymer,81163|WD~polymer,81163]]'
+- '[[/_Standards/WikiData/WD~carboxamides,355679|WD~carboxamides,355679]]'
+- '[[/_Standards/WikiData/WD~organic_polymer,99600509|WD~organic_polymer,99600509]]'
 product_or_material_produced:
-- '[[_Standards/WikiData/WD~nylon_6,109454|WD~nylon_6,109454]]'
-- '[[_Standards/WikiData/WD~nylon,177941|WD~nylon,177941]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
-different_from: '[[_Standards/WikiData/WD~polyamide_fibre,113028090|WD~polyamide_fibre,113028090]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636|WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
-has_part_s_: '[[_Standards/WikiData/WD~peptide_bond,33293|WD~peptide_bond,33293]]'
+- '[[/_Standards/WikiData/WD~nylon_6,109454|WD~nylon_6,109454]]'
+- '[[/_Standards/WikiData/WD~nylon,177941|WD~nylon,177941]]'
+instance_of: '[[/_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
+different_from: '[[/_Standards/WikiData/WD~polyamide_fibre,113028090|WD~polyamide_fibre,113028090]]'
+described_by_source: '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636|WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+has_part_s_: '[[/_Standards/WikiData/WD~peptide_bond,33293|WD~peptide_bond,33293]]'
 short_name: PA
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Polyamide-WH-1.svg
 CXSMILES: '[*][*]C(=O)N[*] |Sg:n:1,2,3,4::ht,$;R$|'

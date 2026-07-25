@@ -92,27 +92,27 @@ aliases:
 - 真皮 (料)
 - 가죽
 has_id_wikidata: Q286
-fabrication_method: '[[_Standards/WikiData/WD~tanning,211578|WD~tanning,211578]]'
+fabrication_method: '[[/_Standards/WikiData/WD~tanning,211578|WD~tanning,211578]]'
 described_by_source:
 - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Q111050693,111050693|WD~Q111050693,111050693]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[/_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[/_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[/_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[/_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[/_Standards/WikiData/WD~Q111050693,111050693|WD~Q111050693,111050693]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~animal_product,629103|WD~animal_product,629103]]'
-- '[[_Standards/WikiData/WD~clothing_material,5135573|WD~clothing_material,5135573]]'
-used_by: '[[_Standards/WikiData/WD~bag_maker,1530755|WD~bag_maker,1530755]]'
+- '[[/_Standards/WikiData/WD~animal_product,629103|WD~animal_product,629103]]'
+- '[[/_Standards/WikiData/WD~clothing_material,5135573|WD~clothing_material,5135573]]'
+used_by: '[[/_Standards/WikiData/WD~bag_maker,1530755|WD~bag_maker,1530755]]'
 different_from:
-- '[[_Standards/WikiData/WD~artificial_leather,1792537|WD~artificial_leather,1792537]]'
-- '[[_Standards/WikiData/WD~bicast_leather,2929139|WD~bicast_leather,2929139]]'
-- '[[_Standards/WikiData/WD~skin,1074|WD~skin,1074]]'
-made_from_material: '[[_Standards/WikiData/WD~hide,3291230|WD~hide,3291230]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q65437819,65437819|WD~Q65437819,65437819]]'
+- '[[/_Standards/WikiData/WD~artificial_leather,1792537|WD~artificial_leather,1792537]]'
+- '[[/_Standards/WikiData/WD~bicast_leather,2929139|WD~bicast_leather,2929139]]'
+- '[[/_Standards/WikiData/WD~skin,1074|WD~skin,1074]]'
+made_from_material: '[[/_Standards/WikiData/WD~hide,3291230|WD~hide,3291230]]'
+said_to_be_the_same_as: '[[/_Standards/WikiData/WD~Q65437819,65437819|WD~Q65437819,65437819]]'
 Dewey_Decimal_Classification:
 - 675
 - 675.2
@@ -265,9 +265,9 @@ dv_has_:
     zh_hant: 皮革
 ---
 
-# [[_Standards/WikiData/WD~Leather,286|WD~Leather,286]] 
+# [[/_Standards/WikiData/WD~Leather,286|WD~Leather,286]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Leather,286|WD~Leather,286]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Leather,286|WD~Leather,286]] 
 
 ## #has_/text_of_/abstract 
 

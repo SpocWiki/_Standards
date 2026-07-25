@@ -45,12 +45,12 @@ aliases:
 - 類星體
 - 퀘이사
 has_id_wikidata: Q83373
-part_of: '[[_Standards/WikiData/WD~galaxy_cluster,204107|WD~galaxy_cluster,204107]]'
-has_list: '[[_Standards/WikiData/WD~list_of_quasars,2984458|WD~list_of_quasars,2984458]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_quasar,8446500|WD~Template_Infobox_quasar,8446500]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q65310968,65310968|WD~Q65310968,65310968]]'
-subclass_of: '[[_Standards/WikiData/WD~active_galactic_nucleus,46587|WD~active_galactic_nucleus,46587]]'
+part_of: '[[/_Standards/WikiData/WD~galaxy_cluster,204107|WD~galaxy_cluster,204107]]'
+has_list: '[[/_Standards/WikiData/WD~list_of_quasars,2984458|WD~list_of_quasars,2984458]]'
+topic_has_template: '[[/_Standards/WikiData/WD~Template_Infobox_quasar,8446500|WD~Template_Infobox_quasar,8446500]]'
+instance_of: '[[/_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
+permanent_duplicated_item: '[[/_Standards/WikiData/WD~Q65310968,65310968|WD~Q65310968,65310968]]'
+subclass_of: '[[/_Standards/WikiData/WD~active_galactic_nucleus,46587|WD~active_galactic_nucleus,46587]]'
 Commons_gallery: Quasar
 U_S_National_Archives_Identifier: 10648241
 Commons_category: Quasars
@@ -182,7 +182,7 @@ dv_has_:
 
 # [[Quasar]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Quasar,83373|WD~Quasar,83373]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Quasar,83373|WD~Quasar,83373]] 
 
 ## #has_/text_of_/abstract 
 

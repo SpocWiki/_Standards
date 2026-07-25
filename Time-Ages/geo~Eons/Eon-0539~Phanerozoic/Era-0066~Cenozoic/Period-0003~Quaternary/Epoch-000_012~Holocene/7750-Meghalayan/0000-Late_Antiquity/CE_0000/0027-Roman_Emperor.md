@@ -80,35 +80,35 @@ aliases:
 - 羅馬皇帝
 - 로마 제국의 황제
 has_id_wikidata: Q842606
-has_list: '[[_Standards/WikiData/WD~list_of_Roman_emperors,125740|WD~list_of_Roman_emperors,125740]]'
-different_from: '[[_Standards/WikiData/WD~Holy_Roman_Emperor,181765|WD~Holy_Roman_Emperor,181765]]'
+has_list: '[[/_Standards/WikiData/WD~list_of_Roman_emperors,125740|WD~list_of_Roman_emperors,125740]]'
+different_from: '[[/_Standards/WikiData/WD~Holy_Roman_Emperor,181765|WD~Holy_Roman_Emperor,181765]]'
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Biography,4913761|WD~WikiProject_Biography,4913761]]'
-- '[[_Standards/WikiData/WD~WikiProject_Politics,5492483|WD~WikiProject_Politics,5492483]]'
-- '[[_Standards/WikiData/WD~WikiProject_History,8486462|WD~WikiProject_History,8486462]]'
-- '[[_Standards/WikiData/WD~WikiProject_European_history,8486525|WD~WikiProject_European_history,8486525]]'
-- '[[_Standards/WikiData/WD~WikiProject_Military_history,8486702|WD~WikiProject_Military_history,8486702]]'
-- '[[_Standards/WikiData/WD~WikiProject_Byzantine_world,10633530|WD~WikiProject_Byzantine_world,10633530]]'
-- '[[_Standards/WikiData/WD~WikiProject_Greece,10740384|WD~WikiProject_Greece,10740384]]'
-- '[[_Standards/WikiData/WD~WikiProject_Royalty_and_Nobility,11336485|WD~WikiProject_Royalty_and_Nobility,11336485]]'
-- '[[_Standards/WikiData/WD~WikiProject_Former_countries,15304996|WD~WikiProject_Former_countries,15304996]]'
-- '[[_Standards/WikiData/WD~WikiProject_Ancient_Near_East,15884590|WD~WikiProject_Ancient_Near_East,15884590]]'
-- '[[_Standards/WikiData/WD~WikiProject_Former_Italian_countries,21830020|WD~WikiProject_Former_Italian_countries,21830020]]'
-- '[[_Standards/WikiData/WD~National_militaries_task_force,21830400|WD~National_militaries_task_force,21830400]]'
-- '[[_Standards/WikiData/WD~WikiProject_Classical_Greece_and_Rome,26208713|WD~WikiProject_Classical_Greece_and_Rome,26208713]]'
-- '[[_Standards/WikiData/WD~WikiProject_Rome,58824487|WD~WikiProject_Rome,58824487]]'
-- '[[_Standards/WikiData/WD~Roman_and_Byzantine_military_history_task_force,60234924|WD~Roman_and_Byzantine_military_history_task_force,60234924]]'
-- '[[_Standards/WikiData/WD~WikiProject_Roman_and_Byzantine_emperors,124005020|WD~WikiProject_Roman_and_Byzantine_emperors,124005020]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Roman_emperors,6992597|WD~Category_Roman_emperors,6992597]]'
+- '[[/_Standards/WikiData/WD~WikiProject_Biography,4913761|WD~WikiProject_Biography,4913761]]'
+- '[[/_Standards/WikiData/WD~WikiProject_Politics,5492483|WD~WikiProject_Politics,5492483]]'
+- '[[/_Standards/WikiData/WD~WikiProject_History,8486462|WD~WikiProject_History,8486462]]'
+- '[[/_Standards/WikiData/WD~WikiProject_European_history,8486525|WD~WikiProject_European_history,8486525]]'
+- '[[/_Standards/WikiData/WD~WikiProject_Military_history,8486702|WD~WikiProject_Military_history,8486702]]'
+- '[[/_Standards/WikiData/WD~WikiProject_Byzantine_world,10633530|WD~WikiProject_Byzantine_world,10633530]]'
+- '[[/_Standards/WikiData/WD~WikiProject_Greece,10740384|WD~WikiProject_Greece,10740384]]'
+- '[[/_Standards/WikiData/WD~WikiProject_Royalty_and_Nobility,11336485|WD~WikiProject_Royalty_and_Nobility,11336485]]'
+- '[[/_Standards/WikiData/WD~WikiProject_Former_countries,15304996|WD~WikiProject_Former_countries,15304996]]'
+- '[[/_Standards/WikiData/WD~WikiProject_Ancient_Near_East,15884590|WD~WikiProject_Ancient_Near_East,15884590]]'
+- '[[/_Standards/WikiData/WD~WikiProject_Former_Italian_countries,21830020|WD~WikiProject_Former_Italian_countries,21830020]]'
+- '[[/_Standards/WikiData/WD~National_militaries_task_force,21830400|WD~National_militaries_task_force,21830400]]'
+- '[[/_Standards/WikiData/WD~WikiProject_Classical_Greece_and_Rome,26208713|WD~WikiProject_Classical_Greece_and_Rome,26208713]]'
+- '[[/_Standards/WikiData/WD~WikiProject_Rome,58824487|WD~WikiProject_Rome,58824487]]'
+- '[[/_Standards/WikiData/WD~Roman_and_Byzantine_military_history_task_force,60234924|WD~Roman_and_Byzantine_military_history_task_force,60234924]]'
+- '[[/_Standards/WikiData/WD~WikiProject_Roman_and_Byzantine_emperors,124005020|WD~WikiProject_Roman_and_Byzantine_emperors,124005020]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Roman_emperors,6992597|WD~Category_Roman_emperors,6992597]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Q10801483,10801483|WD~Q10801483,10801483]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_Roman_emperor,22707299|WD~Template_Infobox_Roman_emperor,22707299]]'
+- '[[/_Standards/WikiData/WD~Q10801483,10801483|WD~Q10801483,10801483]]'
+- '[[/_Standards/WikiData/WD~Template_Infobox_Roman_emperor,22707299|WD~Template_Infobox_Roman_emperor,22707299]]'
 replaced_by:
-- '[[_Standards/WikiData/WD~Byzantine_emperor,18577504|WD~Byzantine_emperor,18577504]]'
-- '[[_Standards/WikiData/WD~Western_Roman_emperor,111841409|WD~Western_Roman_emperor,111841409]]'
-instance_of: '[[_Standards/WikiData/WD~historical_position,114962596|WD~historical_position,114962596]]'
-depicted_by: '[[_Standards/WikiData/WD~Emperor_seated_as_Jupiter,126364388|WD~Emperor_seated_as_Jupiter,126364388]]'
-subclass_of: '[[_Standards/WikiData/WD~emperor,39018|WD~emperor,39018]]'
+- '[[/_Standards/WikiData/WD~Byzantine_emperor,18577504|WD~Byzantine_emperor,18577504]]'
+- '[[/_Standards/WikiData/WD~Western_Roman_emperor,111841409|WD~Western_Roman_emperor,111841409]]'
+instance_of: '[[/_Standards/WikiData/WD~historical_position,114962596|WD~historical_position,114962596]]'
+depicted_by: '[[/_Standards/WikiData/WD~Emperor_seated_as_Jupiter,126364388|WD~Emperor_seated_as_Jupiter,126364388]]'
+subclass_of: '[[/_Standards/WikiData/WD~emperor,39018|WD~emperor,39018]]'
 female_form_of_label:
 - impératrice romaine
 - réimesch Keeserin
@@ -118,7 +118,7 @@ Commons_category: Roman emperors
 equivalent_class: http://dbpedia.org/ontology/RomanEmperor
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Roman_Emperor,842606|WD~Roman_Emperor,842606]]'
+  - '[[/_Standards/WikiData/WD~Roman_Emperor,842606|WD~Roman_Emperor,842606]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor|0027-Roman_Emperor]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor.public|0027-Roman_Emperor.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor.internal|0027-Roman_Emperor.internal]]'
@@ -127,7 +127,7 @@ dv_is_:
   - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor.personal|0027-Roman_Emperor.personal]]'
   - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor.secret|0027-Roman_Emperor.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Roman_Emperor,842606|WD~Roman_Emperor,842606]]'
+- '[[/_Standards/WikiData/WD~Roman_Emperor,842606|WD~Roman_Emperor,842606]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor|0027-Roman_Emperor]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor.public|0027-Roman_Emperor.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor.internal|0027-Roman_Emperor.internal]]'
@@ -235,7 +235,7 @@ dv_has_:
 
 # [[0027-Roman_Emperor]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Roman_Emperor,842606|WD~Roman_Emperor,842606]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Roman_Emperor,842606|WD~Roman_Emperor,842606]] 
 
 ## #has_/text_of_/abstract 
 

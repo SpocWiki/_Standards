@@ -69,10 +69,10 @@ aliases:
 - 近地轨道
 - 지구 저궤도
 has_id_wikidata: Q663611
-opposite_of: '[[_Standards/WikiData/WD~high_Earth_orbit,218056|WD~high_Earth_orbit,218056]]'
-followed_by: '[[_Standards/WikiData/WD~medium_Earth_orbit,218414|WD~medium_Earth_orbit,218414]]'
-subclass_of: '[[_Standards/WikiData/WD~geocentric_orbit,1579577|WD~geocentric_orbit,1579577]]'
-part_of: '[[_Standards/WikiData/WD~outer_space,4169|WD~outer_space,4169]]'
+opposite_of: '[[/_Standards/WikiData/WD~high_Earth_orbit,218056|WD~high_Earth_orbit,218056]]'
+followed_by: '[[/_Standards/WikiData/WD~medium_Earth_orbit,218414|WD~medium_Earth_orbit,218414]]'
+subclass_of: '[[/_Standards/WikiData/WD~geocentric_orbit,1579577|WD~geocentric_orbit,1579577]]'
+part_of: '[[/_Standards/WikiData/WD~outer_space,4169|WD~outer_space,4169]]'
 OmegaWiki_Defined_Meaning: 1230285
 short_name: LEO
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Sunrise%20To%20Sunset%20Aboard%20The%20ISS.ogv
@@ -172,7 +172,7 @@ dv_has_:
 
 # [[Low_Earth_Orbit]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Low_Earth_orbit,663611|WD~Low_Earth_orbit,663611]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Low_Earth_orbit,663611|WD~Low_Earth_orbit,663611]] 
 
 ## #has_/text_of_/abstract 
 

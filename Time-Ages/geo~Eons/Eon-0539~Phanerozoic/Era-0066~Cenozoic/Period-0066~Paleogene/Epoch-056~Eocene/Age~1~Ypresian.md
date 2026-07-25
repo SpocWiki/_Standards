@@ -30,16 +30,16 @@ aliases:
 - 伊普雷斯期
 - 위프레절
 has_id_wikidata: Q508691
-named_after: '[[_Standards/WikiData/WD~Ypres,102728|WD~Ypres,102728]]'
-named_by: '[[_Standards/WikiData/WD~André_Dumont,519775|WD~André_Dumont,519775]]'
+named_after: '[[/_Standards/WikiData/WD~Ypres,102728|WD~Ypres,102728]]'
+named_by: '[[/_Standards/WikiData/WD~André_Dumont,519775|WD~André_Dumont,519775]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-significant_event: '[[_Standards/WikiData/WD~Eocene_Thermal_Maximum_2,1346260|WD~Eocene_Thermal_Maximum_2,1346260]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Ypresian,24067787|WD~Category_Ypresian,24067787]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Ypresian,133864330|WD~GSSP_for_the_base_of_the_Ypresian,133864330]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+significant_event: '[[/_Standards/WikiData/WD~Eocene_Thermal_Maximum_2,1346260|WD~Eocene_Thermal_Maximum_2,1346260]]'
+described_by_source: '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Ypresian,24067787|WD~Category_Ypresian,24067787]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_the_Ypresian,133864330|WD~GSSP_for_the_base_of_the_Ypresian,133864330]]'
 coordinate_location: Point(32.5311 25.5)
 Commons_category: Ypresian
 described_at_URL: https://popups.uliege.be/1374-8505/index.php?id=1101
@@ -111,7 +111,7 @@ dv_has_:
     stopped: -47.8e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Ypresian,508691|WD~Ypresian,508691]]'
+  - '[[/_Standards/WikiData/WD~Ypresian,508691|WD~Ypresian,508691]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~1~Ypresian|Age~1~Ypresian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~1~Ypresian.public|Age~1~Ypresian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~1~Ypresian.internal|Age~1~Ypresian.internal]]'
@@ -123,7 +123,7 @@ dv_has_duration_years: 8.200e+6
 dv_has_previous_item: '[[../Epoch-066~Paleocene/Age~3~Thanetian|Age~3~Thanetian]]'
 dv_has_next_item: '[[Age~2~Lutetian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Ypresian,508691|WD~Ypresian,508691]]'
+- '[[/_Standards/WikiData/WD~Ypresian,508691|WD~Ypresian,508691]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~1~Ypresian|Age~1~Ypresian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~1~Ypresian.public|Age~1~Ypresian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~1~Ypresian.internal|Age~1~Ypresian.internal]]'
@@ -167,7 +167,7 @@ A time period from 56.0 to 47.8 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Ypresian,508691|WD~Ypresian,508691]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Ypresian,508691|WD~Ypresian,508691]] 
 
 ## #has_/text_of_/abstract 
 

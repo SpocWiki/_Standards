@@ -77,35 +77,35 @@ location:
 - -28.630833333
 - 23
 tributary:
-- '[[_Standards/WikiData/WD~Senqunyane_River,177862|WD~Senqunyane_River,177862]]'
-- '[[_Standards/WikiData/WD~Vaal_River,209530|WD~Vaal_River,209530]]'
-- '[[_Standards/WikiData/WD~Caledon_River,509983|WD~Caledon_River,509983]]'
-- '[[_Standards/WikiData/WD~Molopo_River,546793|WD~Molopo_River,546793]]'
-- '[[_Standards/WikiData/WD~Fish_River,1143836|WD~Fish_River,1143836]]'
-- '[[_Standards/WikiData/WD~Gamkabrivier,1493009|WD~Gamkabrivier,1493009]]'
-- '[[_Standards/WikiData/WD~Kraai_River,1505586|WD~Kraai_River,1505586]]'
-- '[[_Standards/WikiData/WD~Makhaleng_River,1886345|WD~Makhaleng_River,1886345]]'
-- "[[_Standards/WikiData/WD~Malibamat'so_River,4785397|WD~Malibamat'so_River,4785397]]"
-- '[[_Standards/WikiData/WD~Tele,34961686|WD~Tele,34961686]]'
-origin_of_the_watercourse: '[[_Standards/WikiData/WD~Drakensberg,183295|WD~Drakensberg,183295]]'
+- '[[/_Standards/WikiData/WD~Senqunyane_River,177862|WD~Senqunyane_River,177862]]'
+- '[[/_Standards/WikiData/WD~Vaal_River,209530|WD~Vaal_River,209530]]'
+- '[[/_Standards/WikiData/WD~Caledon_River,509983|WD~Caledon_River,509983]]'
+- '[[/_Standards/WikiData/WD~Molopo_River,546793|WD~Molopo_River,546793]]'
+- '[[/_Standards/WikiData/WD~Fish_River,1143836|WD~Fish_River,1143836]]'
+- '[[/_Standards/WikiData/WD~Gamkabrivier,1493009|WD~Gamkabrivier,1493009]]'
+- '[[/_Standards/WikiData/WD~Kraai_River,1505586|WD~Kraai_River,1505586]]'
+- '[[/_Standards/WikiData/WD~Makhaleng_River,1886345|WD~Makhaleng_River,1886345]]'
+- "[[/_Standards/WikiData/WD~Malibamat'so_River,4785397|WD~Malibamat'so_River,4785397]]"
+- '[[/_Standards/WikiData/WD~Tele,34961686|WD~Tele,34961686]]'
+origin_of_the_watercourse: '[[/_Standards/WikiData/WD~Drakensberg,183295|WD~Drakensberg,183295]]'
 described_by_source:
 - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
-heritage_designation: '[[_Standards/WikiData/WD~Ramsar_site,19683138|WD~Ramsar_site,19683138]]'
-lake_on_watercourse: '[[_Standards/WikiData/WD~Vanderkloof_Dam_Reservoir,31982172|WD~Vanderkloof_Dam_Reservoir,31982172]]'
-drainage_basin: '[[_Standards/WikiData/WD~Orange_River_basin,46511967|WD~Orange_River_basin,46511967]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+heritage_designation: '[[/_Standards/WikiData/WD~Ramsar_site,19683138|WD~Ramsar_site,19683138]]'
+lake_on_watercourse: '[[/_Standards/WikiData/WD~Vanderkloof_Dam_Reservoir,31982172|WD~Vanderkloof_Dam_Reservoir,31982172]]'
+drainage_basin: '[[/_Standards/WikiData/WD~Orange_River_basin,46511967|WD~Orange_River_basin,46511967]]'
 country:
-- '[[_Standards/WikiData/WD~South_Africa,258|WD~South_Africa,258]]'
-- '[[_Standards/WikiData/WD~Lesotho,1013|WD~Lesotho,1013]]'
-- '[[_Standards/WikiData/WD~Namibia,1030|WD~Namibia,1030]]'
-basin_country: '[[_Standards/WikiData/WD~Lesotho,1013|WD~Lesotho,1013]]'
-instance_of: '[[_Standards/WikiData/WD~river,4022|WD~river,4022]]'
-continent: '[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
-mouth_of_the_watercourse: '[[_Standards/WikiData/WD~Atlantic_Ocean,97|WD~Atlantic_Ocean,97]]'
+- '[[/_Standards/WikiData/WD~South_Africa,258|WD~South_Africa,258]]'
+- '[[/_Standards/WikiData/WD~Lesotho,1013|WD~Lesotho,1013]]'
+- '[[/_Standards/WikiData/WD~Namibia,1030|WD~Namibia,1030]]'
+basin_country: '[[/_Standards/WikiData/WD~Lesotho,1013|WD~Lesotho,1013]]'
+instance_of: '[[/_Standards/WikiData/WD~river,4022|WD~river,4022]]'
+continent: '[[/_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
+mouth_of_the_watercourse: '[[/_Standards/WikiData/WD~Atlantic_Ocean,97|WD~Atlantic_Ocean,97]]'
 discharge: 800
 elevation_above_sea_level: 1400
 length: 2200
@@ -242,7 +242,7 @@ dv_has_:
 
 # [[Orange_River]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Orange_River,181475|WD~Orange_River,181475]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Orange_River,181475|WD~Orange_River,181475]] 
 
 ## #has_/map 
 

@@ -50,8 +50,8 @@ aliases:
 - 北方十字軍
 - 북방십자군
 has_id_wikidata: Q51662
-instance_of: '[[_Standards/WikiData/WD~religious_war,1827102|WD~religious_war,1827102]]'
-category_of_associated_people: '[[_Standards/WikiData/WD~CTSE,18248582|WD~CTSE,18248582]]'
+instance_of: '[[/_Standards/WikiData/WD~religious_war,1827102|WD~religious_war,1827102]]'
+category_of_associated_people: '[[/_Standards/WikiData/WD~CTSE,18248582|WD~CTSE,18248582]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Deutscher%20Orden%201260%2BFarb.png
 dv_is_:
   same_as:
@@ -136,7 +136,7 @@ dv_has_:
 
 # [[1147-Northern_Crusades+1410]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Northern_Crusades,51662|WD~Northern_Crusades,51662]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Northern_Crusades,51662|WD~Northern_Crusades,51662]] 
 
 ## #has_/text_of_/abstract 
 

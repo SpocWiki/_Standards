@@ -34,14 +34,14 @@ aliases:
 - 잔클레절
 has_id_wikidata: Q146094
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-named_by: '[[_Standards/WikiData/WD~Giuseppe_Seguenza,3771433|WD~Giuseppe_Seguenza,3771433]]'
-named_after: '[[_Standards/WikiData/WD~Messana,4023782|WD~Messana,4023782]]'
-significant_place: '[[_Standards/WikiData/WD~Eraclea_Minoa,18451539|WD~Eraclea_Minoa,18451539]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Zanclean,24068595|WD~Category_Zanclean,24068595]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Zanclean,133807943|WD~GSSP_for_the_base_of_the_Zanclean,133807943]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_by: '[[/_Standards/WikiData/WD~Giuseppe_Seguenza,3771433|WD~Giuseppe_Seguenza,3771433]]'
+named_after: '[[/_Standards/WikiData/WD~Messana,4023782|WD~Messana,4023782]]'
+significant_place: '[[/_Standards/WikiData/WD~Eraclea_Minoa,18451539|WD~Eraclea_Minoa,18451539]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Zanclean,24068595|WD~Category_Zanclean,24068595]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_the_Zanclean,133807943|WD~GSSP_for_the_base_of_the_Zanclean,133807943]]'
 coordinate_location: Point(13.28055556 37.39166667)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Etapa4muda.jpg
 sRGB_color_hex_triplet: FFFFB3
@@ -92,7 +92,7 @@ dv_has_:
     zh-hant: 讚克爾階
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Zanclean,146094|WD~Zanclean,146094]]'
+  - '[[/_Standards/WikiData/WD~Zanclean,146094|WD~Zanclean,146094]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean|Age~1~Zanclean]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.public|Age~1~Zanclean.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.internal|Age~1~Zanclean.internal]]'
@@ -104,7 +104,7 @@ dv_has_duration_years: 1.733e+6
 dv_has_previous_item: '[[../Epoch-023~Miocene/Age~6~Messinian|Age~6~Messinian]]'
 dv_has_next_item: '[[Age~2~Piacenzian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Zanclean,146094|WD~Zanclean,146094]]'
+- '[[/_Standards/WikiData/WD~Zanclean,146094|WD~Zanclean,146094]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean|Age~1~Zanclean]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.public|Age~1~Zanclean.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.internal|Age~1~Zanclean.internal]]'
@@ -146,7 +146,7 @@ dv_has_text_of_color: 0xFFFFB3
 
 has_previous_item = `=this.dv_has_previous_item`
 has_next_item = `=this.dv_has_next_item`
-#is_/same_as :: [[_Standards/WikiData/WD~Zanclean,146094|WD~Zanclean,146094]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Zanclean,146094|WD~Zanclean,146094]] 
 
 A time period from 5.333 to 3.6 million years ago. 
 

@@ -87,13 +87,13 @@ CPV_Supplementary_code: AA32
 density: 3.338
 described_by_source:
 - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[/_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 Dewey_Decimal_Classification: 546.395
-different_from: '[[_Standards/WikiData/WD~Bario,15004545|WD~Bario,15004545]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Humphry_Davy,131761|WD~Humphry_Davy,131761]]'
+different_from: '[[/_Standards/WikiData/WD~Bario,15004545|WD~Bario,15004545]]'
+discoverer_or_inventor: '[[/_Standards/WikiData/WD~Humphry_Davy,131761|WD~Humphry_Davy,131761]]'
 DSSTOX_compound_identifier: DTXCID80875617
 EC_number: 231-149-1
 electronegativity: 0.89
@@ -101,13 +101,13 @@ electron_configuration:
 - 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d¹⁰ 5p⁶ 6s²
 - '[Xe] 6s²'
 element_symbol: Ba
-found_in_taxon: '[[_Standards/WikiData/WD~Isaria_cicadae,10536893|WD~Isaria_cicadae,10536893]]'
+found_in_taxon: '[[/_Standards/WikiData/WD~Isaria_cicadae,10536893|WD~Isaria_cicadae,10536893]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Barium%201.jpg
 InChI: InChI=1S/Ba
 InChIKey: DSAJWYNOEDNPEQ-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~lithophile,1130479|WD~lithophile,1130479]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+- '[[/_Standards/WikiData/WD~lithophile,1130479|WD~lithophile,1130479]]'
+- '[[/_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 1.35
 - 1.42
@@ -117,7 +117,7 @@ ionization_energy:
 - 502.9
 - 965.2
 Krugosvet_article: nauka_i_tehnika/himiya/BARI.html
-location_of_discovery: '[[_Standards/WikiData/WD~Royal_Institution,2171086|WD~Royal_Institution,2171086]]'
+location_of_discovery: '[[/_Standards/WikiData/WD~Royal_Institution,2171086|WD~Royal_Institution,2171086]]'
 mass: 137.327
 MCN_code: 2805.19.20
 melting_point: 727
@@ -127,12 +127,12 @@ MeSH_tree_code:
 - D01.552.539.124
 - D01.552.544.062
 molar_fusion_enthalpy: 7.12
-named_after: '[[_Standards/WikiData/WD~weight,25288|WD~weight,25288]]'
+named_after: '[[/_Standards/WikiData/WD~weight,25288|WD~weight,25288]]'
 OmegaWiki_Defined_Meaning: 310
 oxidation_state: 2
 part_of:
-- '[[_Standards/WikiData/WD~period_6,239813|WD~period_6,239813]]'
-- '[[_Standards/WikiData/WD~alkaline_earth_metal,19563|WD~alkaline_earth_metal,19563]]'
+- '[[/_Standards/WikiData/WD~period_6,239813|WD~period_6,239813]]'
+- '[[/_Standards/WikiData/WD~alkaline_earth_metal,19563|WD~alkaline_earth_metal,19563]]'
 PubChem_CID: 5355457
 SpocWebEntityId: 21952
 subject_lexeme: L18238

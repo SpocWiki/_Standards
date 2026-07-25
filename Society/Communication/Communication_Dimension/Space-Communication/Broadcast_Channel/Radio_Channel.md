@@ -97,7 +97,7 @@ A unique instance of a [[../../../../../Agent/Community/Organization/Business/Se
 
 #has_/properties :: [ additionalType, alternateName, broadcastChannelId, broadcastFrequency, broadcastServiceTier, description, disambiguatingDescription, genre, identifier, image, inBroadcastLineup, mainEntityOfPage, name, potentialAction, providesBroadcastService, sameAs, subjectOf, url ]  
 
-#is_/same_as :: [[_Standards/WikiData/WD~radio_channel,1474440|WD~radio_channel,1474440]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~radio_channel,1474440|WD~radio_channel,1474440]] 
 
 ## #has_/text_of_/abstract 
 

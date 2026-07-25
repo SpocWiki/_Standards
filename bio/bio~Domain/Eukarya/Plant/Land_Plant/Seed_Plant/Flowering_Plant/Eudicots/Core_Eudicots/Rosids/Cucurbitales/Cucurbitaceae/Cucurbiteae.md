@@ -5,8 +5,8 @@ aliases:
 - قرعاوية
 - 南瓜族
 has_id_wikidata: Q5192459
-taxon_rank: '[[_Standards/WikiData/WD~tribe,227936|WD~tribe,227936]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[/_Standards/WikiData/WD~tribe,227936|WD~tribe,227936]]'
+instance_of: '[[/_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cucurbita%202011%20G1.jpg
 Commons_category: Cucurbiteae
 taxon_name: Cucurbiteae

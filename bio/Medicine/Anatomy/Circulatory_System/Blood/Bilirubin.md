@@ -1,17 +1,17 @@
 ---
 aliases:
 has_id_wikidata: Q104219
-subject_has_role: "[[_Standards/WikiData/WD~antioxidant,133948]]"
-subclass_of: "[[_Standards/WikiData/WD~heterocyclic_compound,193430]]"
-described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+subject_has_role: "[[/_Standards/WikiData/WD~antioxidant,133948]]"
+subclass_of: "[[/_Standards/WikiData/WD~heterocyclic_compound,193430]]"
+described_by_source: "[[/_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
 part_of:
-  - "[[_Standards/WikiData/WD~bilirubin_transmembrane_transporter_activity,22324834]]"
-  - "[[_Standards/WikiData/WD~bilirubin_secondary_active_transmembrane_transporter_activity,22324835]]"
-different_from: "[[_Standards/WikiData/WD~serum_total_bilirubin_level,55435855]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
+  - "[[/_Standards/WikiData/WD~bilirubin_transmembrane_transporter_activity,22324834]]"
+  - "[[/_Standards/WikiData/WD~bilirubin_secondary_active_transmembrane_transporter_activity,22324835]]"
+different_from: "[[/_Standards/WikiData/WD~serum_total_bilirubin_level,55435855]]"
+instance_of: "[[/_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
 has_part_s_:
-  - "[[_Standards/WikiData/WD~carbon,623]]"
-  - "[[_Standards/WikiData/WD~nitrogen,627]]"
+  - "[[/_Standards/WikiData/WD~carbon,623]]"
+  - "[[/_Standards/WikiData/WD~nitrogen,627]]"
 Reaxys_registry_number: "74376"
 PubChem_CID: "5280352"
 mass: 584.263

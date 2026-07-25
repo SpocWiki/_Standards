@@ -59,25 +59,25 @@ aliases:
 - 이누이트
 has_id_wikidata: Q189975
 religion_or_worldview:
-- '[[_Standards/WikiData/WD~Lutheranism,75809|WD~Lutheranism,75809]]'
-- '[[_Standards/WikiData/WD~Inuit_mythology,1473866|WD~Inuit_mythology,1473866]]'
-- '[[_Standards/WikiData/WD~Christianity,5043|WD~Christianity,5043]]'
-- '[[_Standards/WikiData/WD~animism,43004|WD~animism,43004]]'
-part_of: '[[_Standards/WikiData/WD~Eskimo,131242|WD~Eskimo,131242]]'
-different_from: '[[_Standards/WikiData/WD~Innu_people,497568|WD~Innu_people,497568]]'
+- '[[/_Standards/WikiData/WD~Lutheranism,75809|WD~Lutheranism,75809]]'
+- '[[/_Standards/WikiData/WD~Inuit_mythology,1473866|WD~Inuit_mythology,1473866]]'
+- '[[/_Standards/WikiData/WD~Christianity,5043|WD~Christianity,5043]]'
+- '[[/_Standards/WikiData/WD~animism,43004|WD~animism,43004]]'
+part_of: '[[/_Standards/WikiData/WD~Eskimo,131242|WD~Eskimo,131242]]'
+different_from: '[[/_Standards/WikiData/WD~Innu_people,497568|WD~Innu_people,497568]]'
 described_by_source: '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~circumpolar_peoples,3987120|WD~circumpolar_peoples,3987120]]'
-- '[[_Standards/WikiData/WD~indigenous_peoples_of_Siberia,11038987|WD~indigenous_peoples_of_Siberia,11038987]]'
-- '[[_Standards/WikiData/WD~indigenous_peoples_of_North_America,15571255|WD~indigenous_peoples_of_North_America,15571255]]'
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Inuit_Sign_Language,13360244|WD~Inuit_Sign_Language,13360244]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q25668817,25668817|WD~Q25668817,25668817]]'
-native_language: '[[_Standards/WikiData/WD~Inuit,27796|WD~Inuit,27796]]'
+- '[[/_Standards/WikiData/WD~circumpolar_peoples,3987120|WD~circumpolar_peoples,3987120]]'
+- '[[/_Standards/WikiData/WD~indigenous_peoples_of_Siberia,11038987|WD~indigenous_peoples_of_Siberia,11038987]]'
+- '[[/_Standards/WikiData/WD~indigenous_peoples_of_North_America,15571255|WD~indigenous_peoples_of_North_America,15571255]]'
+languages_spoken_written_or_signed: '[[/_Standards/WikiData/WD~Inuit_Sign_Language,13360244|WD~Inuit_Sign_Language,13360244]]'
+said_to_be_the_same_as: '[[/_Standards/WikiData/WD~Q25668817,25668817|WD~Q25668817,25668817]]'
+native_language: '[[/_Standards/WikiData/WD~Inuit,27796|WD~Inuit,27796]]'
 country:
-- '[[_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
-- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Greenland,223|WD~Greenland,223]]'
-instance_of: '[[_Standards/WikiData/WD~ethnic_group,41710|WD~ethnic_group,41710]]'
+- '[[/_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
+- '[[/_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[/_Standards/WikiData/WD~Greenland,223|WD~Greenland,223]]'
+instance_of: '[[/_Standards/WikiData/WD~ethnic_group,41710|WD~ethnic_group,41710]]'
 Commons_gallery: Inuit
 Commons_category: Inuit
 population: 110783
@@ -212,7 +212,7 @@ dv_has_:
 
 # [[Inuit]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Inuit,189975|WD~Inuit,189975]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Inuit,189975|WD~Inuit,189975]] 
 
 ## #has_/text_of_/abstract 
 

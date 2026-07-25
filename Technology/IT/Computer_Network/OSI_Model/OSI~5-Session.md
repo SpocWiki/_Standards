@@ -40,11 +40,11 @@ aliases:
 - 會話層
 - 세션 계층
 has_id_wikidata: Q216292
-part_of: '[[_Standards/WikiData/WD~OSI_model,93312|WD~OSI_model,93312]]'
-follows: '[[_Standards/WikiData/WD~transport_layer,209372|WD~transport_layer,209372]]'
-followed_by: '[[_Standards/WikiData/WD~presentation_layer,215121|WD~presentation_layer,215121]]'
-instance_of: '[[_Standards/WikiData/WD~OSI_model_layer,65054805|WD~OSI_model_layer,65054805]]'
-standards_body: '[[_Standards/WikiData/WD~International_Organization_for_Standardization,15028|WD~International_Organization_for_Standardization,15028]]'
+part_of: '[[/_Standards/WikiData/WD~OSI_model,93312|WD~OSI_model,93312]]'
+follows: '[[/_Standards/WikiData/WD~transport_layer,209372|WD~transport_layer,209372]]'
+followed_by: '[[/_Standards/WikiData/WD~presentation_layer,215121|WD~presentation_layer,215121]]'
+instance_of: '[[/_Standards/WikiData/WD~OSI_model_layer,65054805|WD~OSI_model_layer,65054805]]'
+standards_body: '[[/_Standards/WikiData/WD~International_Organization_for_Standardization,15028|WD~International_Organization_for_Standardization,15028]]'
 official_website: https://www.iso.org/ics/35.100.50/x/
 dv_has_:
   name_:
@@ -102,7 +102,7 @@ dv_has_:
 
 # [[OSI~5-Session]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Session_layer,216292|WD~Session_layer,216292]]
+#is_/same_as :: [[/_Standards/WikiData/WD~Session_layer,216292|WD~Session_layer,216292]]
 
 ## #has_/text_of_/abstract 
 

@@ -53,18 +53,18 @@ aliases:
 - 보호국
 has_id_wikidata: Q164142
 subclass_of:
-- '[[_Standards/WikiData/WD~dependent_territory,161243|WD~dependent_territory,161243]]'
-- '[[_Standards/WikiData/WD~client_state,1151405|WD~client_state,1151405]]'
-- '[[_Standards/WikiData/WD~form_of_government,1307214|WD~form_of_government,1307214]]'
+- '[[/_Standards/WikiData/WD~dependent_territory,161243|WD~dependent_territory,161243]]'
+- '[[/_Standards/WikiData/WD~client_state,1151405|WD~client_state,1151405]]'
+- '[[/_Standards/WikiData/WD~form_of_government,1307214|WD~form_of_government,1307214]]'
 described_by_source:
 - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636|WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
-position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~protector,114049706|WD~protector,114049706]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[/_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636|WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+position_held_by_head_of_the_organization: '[[/_Standards/WikiData/WD~protector,114049706|WD~protector,114049706]]'
 Library_of_Congress_Classification: KZ4061
 OmegaWiki_Defined_Meaning: 799006
 dv_is_:
@@ -194,7 +194,7 @@ dv_has_:
 # [[Protectorate]] 
 
 is_different_from = `=this.dv_is_different_from`
-#is_/same_as :: [[_Standards/WikiData/WD~Protectorate,164142|WD~Protectorate,164142]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Protectorate,164142|WD~Protectorate,164142]] 
 
 ## #has_/text_of_/abstract 
 

@@ -61,23 +61,23 @@ aliases:
 - 西班牙宗教裁判所
 - 스페인 종교재판
 has_id_wikidata: Q184725
-country: '[[_Standards/WikiData/WD~Spanish_Empire,80702|WD~Spanish_Empire,80702]]'
+country: '[[/_Standards/WikiData/WD~Spanish_Empire,80702|WD~Spanish_Empire,80702]]'
 instance_of:
-- '[[_Standards/WikiData/WD~ecclesiastical_court,1640717|WD~ecclesiastical_court,1640717]]'
-- '[[_Standards/WikiData/WD~defunct_organization,55097243|WD~defunct_organization,55097243]]'
-has_part_s_: '[[_Standards/WikiData/WD~Mexican_Inquisition,1860021|WD~Mexican_Inquisition,1860021]]'
-parent_organization_or_unit: '[[_Standards/WikiData/WD~Roman_Inquisition,3286938|WD~Roman_Inquisition,3286938]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Spanish_Inquisition,7571971|WD~Category_Spanish_Inquisition,7571971]]'
-authority: '[[_Standards/WikiData/WD~Supreme_Council_of_the_Inquisition,15695814|WD~Supreme_Council_of_the_Inquisition,15695814]]'
-replaced_by: '[[_Standards/WikiData/WD~Junta_de_Fe,16585983|WD~Junta_de_Fe,16585983]]'
-position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Grand_Inquisitor_of_Spain,24349070|WD~Grand_Inquisitor_of_Spain,24349070]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q137597555,137597555|WD~Q137597555,137597555]]'
+- '[[/_Standards/WikiData/WD~ecclesiastical_court,1640717|WD~ecclesiastical_court,1640717]]'
+- '[[/_Standards/WikiData/WD~defunct_organization,55097243|WD~defunct_organization,55097243]]'
+has_part_s_: '[[/_Standards/WikiData/WD~Mexican_Inquisition,1860021|WD~Mexican_Inquisition,1860021]]'
+parent_organization_or_unit: '[[/_Standards/WikiData/WD~Roman_Inquisition,3286938|WD~Roman_Inquisition,3286938]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Spanish_Inquisition,7571971|WD~Category_Spanish_Inquisition,7571971]]'
+authority: '[[/_Standards/WikiData/WD~Supreme_Council_of_the_Inquisition,15695814|WD~Supreme_Council_of_the_Inquisition,15695814]]'
+replaced_by: '[[/_Standards/WikiData/WD~Junta_de_Fe,16585983|WD~Junta_de_Fe,16585983]]'
+position_held_by_head_of_the_organization: '[[/_Standards/WikiData/WD~Grand_Inquisitor_of_Spain,24349070|WD~Grand_Inquisitor_of_Spain,24349070]]'
+permanent_duplicated_item: '[[/_Standards/WikiData/WD~Q137597555,137597555|WD~Q137597555,137597555]]'
 inception: 1478-01-01T00:00:00Z
 dissolved_abolished_or_demolished_date: 1834-01-01T00:00:00Z
-religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841|WD~Catholicism,1841]]'
+religion_or_worldview: '[[/_Standards/WikiData/WD~Catholicism,1841|WD~Catholicism,1841]]'
 developer:
-- '[[_Standards/WikiData/WD~Ferdinand_II_of_Aragon,12860|WD~Ferdinand_II_of_Aragon,12860]]'
-- '[[_Standards/WikiData/WD~Isabella_I_of_Castile,45859|WD~Isabella_I_of_Castile,45859]]'
+- '[[/_Standards/WikiData/WD~Ferdinand_II_of_Aragon,12860|WD~Ferdinand_II_of_Aragon,12860]]'
+- '[[/_Standards/WikiData/WD~Isabella_I_of_Castile,45859|WD~Isabella_I_of_Castile,45859]]'
 native_label: Inquisición española
 ISNI: 0000000121552056
 Commons_category: Inquisition in Spain
@@ -182,7 +182,7 @@ dv_has_:
 
 # [[1478-Spanish_Inquisition+1834]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Spanish_Inquisition,184725|WD~Spanish_Inquisition,184725]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Spanish_Inquisition,184725|WD~Spanish_Inquisition,184725]] 
 
 ## #has_/text_of_/abstract 
 

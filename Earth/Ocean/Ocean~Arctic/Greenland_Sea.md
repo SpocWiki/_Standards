@@ -89,39 +89,39 @@ aliases:
 has_id_wikidata: Q132868
 described_by_source:
 - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Q35541239,35541239|WD~Q35541239,35541239]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+- '[[/_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[/_Standards/WikiData/WD~Q35541239,35541239|WD~Q35541239,35541239]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 country:
-- '[[_Standards/WikiData/WD~Kingdom_of_Denmark,756617|WD~Kingdom_of_Denmark,756617]]'
-- '[[_Standards/WikiData/WD~Norway,20|WD~Norway,20]]'
+- '[[/_Standards/WikiData/WD~Kingdom_of_Denmark,756617|WD~Kingdom_of_Denmark,756617]]'
+- '[[/_Standards/WikiData/WD~Norway,20|WD~Norway,20]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Bellsund,816053|WD~Bellsund,816053]]'
-- '[[_Standards/WikiData/WD~Hornsund,1442928|WD~Hornsund,1442928]]'
-- '[[_Standards/WikiData/WD~Van_Mijenfjorden,1586804|WD~Van_Mijenfjorden,1586804]]'
-- '[[_Standards/WikiData/WD~Wijdefjorden,1782839|WD~Wijdefjorden,1782839]]'
-- '[[_Standards/WikiData/WD~Woodfjorden,2541605|WD~Woodfjorden,2541605]]'
-- '[[_Standards/WikiData/WD~Nioghalvfjerdsfjorden,3877267|WD~Nioghalvfjerdsfjorden,3877267]]'
-- '[[_Standards/WikiData/WD~Skærfjorden,3962672|WD~Skærfjorden,3962672]]'
-- '[[_Standards/WikiData/WD~Davy_Sund,21808580|WD~Davy_Sund,21808580]]'
-- '[[_Standards/WikiData/WD~Carlsberg_Fjord,21822129|WD~Carlsberg_Fjord,21822129]]'
-- '[[_Standards/WikiData/WD~Nathorst_Fjord,21822140|WD~Nathorst_Fjord,21822140]]'
-- '[[_Standards/WikiData/WD~Fleming_Fjord,21822419|WD~Fleming_Fjord,21822419]]'
-- '[[_Standards/WikiData/WD~Storefjord,21822478|WD~Storefjord,21822478]]'
-- '[[_Standards/WikiData/WD~Mountnorris_Fjord,21825534|WD~Mountnorris_Fjord,21825534]]'
-- '[[_Standards/WikiData/WD~Shannon_Sund,21856674|WD~Shannon_Sund,21856674]]'
-- '[[_Standards/WikiData/WD~Store_Bælt,21857484|WD~Store_Bælt,21857484]]'
-- '[[_Standards/WikiData/WD~Lille_Bælt,21880721|WD~Lille_Bælt,21880721]]'
-- '[[_Standards/WikiData/WD~Orléans_Sound,21895480|WD~Orléans_Sound,21895480]]'
-- '[[_Standards/WikiData/WD~Dijmphna_Sund,21899391|WD~Dijmphna_Sund,21899391]]'
-- '[[_Standards/WikiData/WD~Ingolf_Fjord,21901318|WD~Ingolf_Fjord,21901318]]'
-- '[[_Standards/WikiData/WD~Øresund,24818550|WD~Øresund,24818550]]'
-- '[[_Standards/WikiData/WD~Vega_Sund,24819817|WD~Vega_Sund,24819817]]'
-category_for_the_water_basin: '[[_Standards/WikiData/WD~Q9619117,9619117|WD~Q9619117,9619117]]'
-part_of: '[[_Standards/WikiData/WD~Arctic_Ocean,788|WD~Arctic_Ocean,788]]'
+- '[[/_Standards/WikiData/WD~Bellsund,816053|WD~Bellsund,816053]]'
+- '[[/_Standards/WikiData/WD~Hornsund,1442928|WD~Hornsund,1442928]]'
+- '[[/_Standards/WikiData/WD~Van_Mijenfjorden,1586804|WD~Van_Mijenfjorden,1586804]]'
+- '[[/_Standards/WikiData/WD~Wijdefjorden,1782839|WD~Wijdefjorden,1782839]]'
+- '[[/_Standards/WikiData/WD~Woodfjorden,2541605|WD~Woodfjorden,2541605]]'
+- '[[/_Standards/WikiData/WD~Nioghalvfjerdsfjorden,3877267|WD~Nioghalvfjerdsfjorden,3877267]]'
+- '[[/_Standards/WikiData/WD~Skærfjorden,3962672|WD~Skærfjorden,3962672]]'
+- '[[/_Standards/WikiData/WD~Davy_Sund,21808580|WD~Davy_Sund,21808580]]'
+- '[[/_Standards/WikiData/WD~Carlsberg_Fjord,21822129|WD~Carlsberg_Fjord,21822129]]'
+- '[[/_Standards/WikiData/WD~Nathorst_Fjord,21822140|WD~Nathorst_Fjord,21822140]]'
+- '[[/_Standards/WikiData/WD~Fleming_Fjord,21822419|WD~Fleming_Fjord,21822419]]'
+- '[[/_Standards/WikiData/WD~Storefjord,21822478|WD~Storefjord,21822478]]'
+- '[[/_Standards/WikiData/WD~Mountnorris_Fjord,21825534|WD~Mountnorris_Fjord,21825534]]'
+- '[[/_Standards/WikiData/WD~Shannon_Sund,21856674|WD~Shannon_Sund,21856674]]'
+- '[[/_Standards/WikiData/WD~Store_Bælt,21857484|WD~Store_Bælt,21857484]]'
+- '[[/_Standards/WikiData/WD~Lille_Bælt,21880721|WD~Lille_Bælt,21880721]]'
+- '[[/_Standards/WikiData/WD~Orléans_Sound,21895480|WD~Orléans_Sound,21895480]]'
+- '[[/_Standards/WikiData/WD~Dijmphna_Sund,21899391|WD~Dijmphna_Sund,21899391]]'
+- '[[/_Standards/WikiData/WD~Ingolf_Fjord,21901318|WD~Ingolf_Fjord,21901318]]'
+- '[[/_Standards/WikiData/WD~Øresund,24818550|WD~Øresund,24818550]]'
+- '[[/_Standards/WikiData/WD~Vega_Sund,24819817|WD~Vega_Sund,24819817]]'
+category_for_the_water_basin: '[[/_Standards/WikiData/WD~Q9619117,9619117|WD~Q9619117,9619117]]'
+part_of: '[[/_Standards/WikiData/WD~Arctic_Ocean,788|WD~Arctic_Ocean,788]]'
 elevation_above_sea_level: 0
-instance_of: '[[_Standards/WikiData/WD~sea,165|WD~sea,165]]'
-basin_country: '[[_Standards/WikiData/WD~Greenland,223|WD~Greenland,223]]'
+instance_of: '[[/_Standards/WikiData/WD~sea,165|WD~sea,165]]'
+basin_country: '[[/_Standards/WikiData/WD~Greenland,223|WD~Greenland,223]]'
 vertical_depth:
 - 4800
 - 5600
@@ -263,7 +263,7 @@ dv_has_:
 
 # [[../../../Society/Economics/Industry/Agriculture/Greenhouse|Greenhouse]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Greenland_Sea,132868|WD~Greenland_Sea,132868]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Greenland_Sea,132868|WD~Greenland_Sea,132868]] 
 ## #has_/text_of_/abstract 
 
 > The Greenland Sea (Danish: Grønlandshavet) is a body of water 

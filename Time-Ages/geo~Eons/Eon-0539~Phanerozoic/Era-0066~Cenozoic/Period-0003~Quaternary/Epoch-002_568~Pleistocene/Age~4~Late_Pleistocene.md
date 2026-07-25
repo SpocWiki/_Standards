@@ -39,10 +39,10 @@ aliases:
 - 플라이스토세 후기
 has_id_wikidata: Q498831
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Late_Pleistocene,24068315|WD~Category_Late_Pleistocene,24068315]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Late_Pleistocene,24068315|WD~Category_Late_Pleistocene,24068315]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -9700-01-01T00:00:00Z
 Commons_category: Late Pleistocene
 start_time: -129000-01-01T00:00:00Z
@@ -109,7 +109,7 @@ dv_has_:
     stopped: -11.7e3
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Late_Pleistocene,498831 |WD~Late_Pleistocene,498831 ]]'
+  - '[[/_Standards/WikiData/WD~Late_Pleistocene,498831 |WD~Late_Pleistocene,498831 ]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene|Age~4~Late_Pleistocene]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.public|Age~4~Late_Pleistocene.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.internal|Age~4~Late_Pleistocene.internal]]'
@@ -123,7 +123,7 @@ dv_has_duration_years: 117300
 dv_has_previous_item: '[[Age~3~Chibanian]]'
 dv_has_next_item: '[[../Epoch-000_012~Holocene/0000-Greenlandian|0000-Greenlandian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Late_Pleistocene,498831 |WD~Late_Pleistocene,498831 ]]'
+- '[[/_Standards/WikiData/WD~Late_Pleistocene,498831 |WD~Late_Pleistocene,498831 ]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene|Age~4~Late_Pleistocene]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.public|Age~4~Late_Pleistocene.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.internal|Age~4~Late_Pleistocene.internal]]'
@@ -162,7 +162,7 @@ has_time_stopped = `=this.dv_has_time_stopped`
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Late_Pleistocene,498831 |WD~Late_Pleistocene,498831 ]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Late_Pleistocene,498831 |WD~Late_Pleistocene,498831 ]] 
 
 A time period from 129 to 11.7 thousand years ago, right before the [[../../../../../../../_internal/Society/Economy/Agricultural_Revolution|Agricultural_Revolution]]. [[../../../../../../bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Homo/Homo_sapiens|Homo_sapiens]] developed and migrated out of [[../../../../../../Earth/Continent/Africa|Africa]]. 
 

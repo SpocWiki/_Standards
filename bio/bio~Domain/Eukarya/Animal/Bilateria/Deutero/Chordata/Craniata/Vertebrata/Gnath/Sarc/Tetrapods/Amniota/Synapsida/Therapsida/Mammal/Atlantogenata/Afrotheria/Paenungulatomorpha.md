@@ -2,7 +2,7 @@
 aliases:
 - Paenungulatomorpha
 has_id_wikidata: Q123509500
-instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+instance_of: '[[/_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 taxon_name: Paenungulatomorpha
 parent_taxon: '[[../Afrotheria|Afrotheria]]'
 dv_has_:
@@ -39,7 +39,7 @@ dv_has_:
 
 # [[Paenungulatomorpha]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Paenungulatomorpha,123509500|WD~Paenungulatomorpha,123509500]]
+#is_/same_as :: [[/_Standards/WikiData/WD~Paenungulatomorpha,123509500|WD~Paenungulatomorpha,123509500]]
 
 ## #has_/text_of_/abstract 
 

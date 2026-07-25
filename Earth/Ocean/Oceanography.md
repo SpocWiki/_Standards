@@ -98,28 +98,28 @@ aliases:
 has_id_wikidata: Q43518
 described_by_source:
 - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490|WD~1922_Encyclopædia_Britannica,15987490]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490|WD~1922_Encyclopædia_Britannica,15987490]]'
+- '[[/_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[/_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 instance_of:
-- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~field_of_study,2267705|WD~field_of_study,2267705]]'
-- '[[_Standards/WikiData/WD~branch_of_science,2465832|WD~branch_of_science,2465832]]'
-- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
-different_from: '[[_Standards/WikiData/WD~oceanology,3349060|WD~oceanology,3349060]]'
+- '[[/_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+- '[[/_Standards/WikiData/WD~field_of_study,2267705|WD~field_of_study,2267705]]'
+- '[[/_Standards/WikiData/WD~branch_of_science,2465832|WD~branch_of_science,2465832]]'
+- '[[/_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+different_from: '[[/_Standards/WikiData/WD~oceanology,3349060|WD~oceanology,3349060]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~oceanology,3349060|WD~oceanology,3349060]]'
-- '[[_Standards/WikiData/WD~Earth_science,8008|WD~Earth_science,8008]]'
+- '[[/_Standards/WikiData/WD~oceanology,3349060|WD~oceanology,3349060]]'
+- '[[/_Standards/WikiData/WD~Earth_science,8008|WD~Earth_science,8008]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~oceanographer,3546255|WD~oceanographer,3546255]]'
-- '[[_Standards/WikiData/WD~Ocean_Expert,124805547|WD~Ocean_Expert,124805547]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Oceanography,18857277|WD~Portal_Oceanography,18857277]]'
+- '[[/_Standards/WikiData/WD~oceanographer,3546255|WD~oceanographer,3546255]]'
+- '[[/_Standards/WikiData/WD~Ocean_Expert,124805547|WD~Ocean_Expert,124805547]]'
+topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Oceanography,18857277|WD~Portal_Oceanography,18857277]]'
 part_of:
-- '[[_Standards/WikiData/WD~engineering_studies,24962856|WD~engineering_studies,24962856]]'
-- '[[_Standards/WikiData/WD~earth_science_studies,106387954|WD~earth_science_studies,106387954]]'
-- '[[_Standards/WikiData/WD~marine_biology,7173|WD~marine_biology,7173]]'
-- '[[_Standards/WikiData/WD~hydrology,42250|WD~hydrology,42250]]'
+- '[[/_Standards/WikiData/WD~engineering_studies,24962856|WD~engineering_studies,24962856]]'
+- '[[/_Standards/WikiData/WD~earth_science_studies,106387954|WD~earth_science_studies,106387954]]'
+- '[[/_Standards/WikiData/WD~marine_biology,7173|WD~marine_biology,7173]]'
+- '[[/_Standards/WikiData/WD~hydrology,42250|WD~hydrology,42250]]'
 All_Science_Journal_Classification_Codes: 1910
 OmegaWiki_Defined_Meaning: 2613
 U_S_National_Archives_Identifier: 10641721
@@ -283,7 +283,7 @@ dv_has_:
 
 # [[Oceanography]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Oceanography,43518|WD~Oceanography,43518]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Oceanography,43518|WD~Oceanography,43518]] 
 
 ## #has_/text_of_/abstract 
 

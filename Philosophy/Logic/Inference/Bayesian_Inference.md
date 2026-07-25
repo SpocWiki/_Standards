@@ -1,13 +1,13 @@
 ---
 aliases:
 has_id_wikidata: Q812535
-named_after: "[[_Standards/WikiData/WD~Thomas_Bayes,208452]]"
-facet_of: "[[_Standards/WikiData/WD~Bayesian_probability,812534]]"
+named_after: "[[/_Standards/WikiData/WD~Thomas_Bayes,208452]]"
+facet_of: "[[/_Standards/WikiData/WD~Bayesian_probability,812534]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~statistical_inference,938438]]"
-  - "[[_Standards/WikiData/WD~statistical_method,12718609]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Bayesian_inference,8293925]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+  - "[[/_Standards/WikiData/WD~statistical_inference,938438]]"
+  - "[[/_Standards/WikiData/WD~statistical_method,12718609]]"
+topic_s_main_category: "[[/_Standards/WikiData/WD~Category_Bayesian_inference,8293925]]"
+maintained_by_WikiProject: "[[/_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>P</mi><mo stretchy="false">(</mo><mi>H</mi><mo stretchy="false">&#x2223;</mo><mi>E</mi><mo stretchy="false">)</mo><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>P</mi><mo stretchy="false">(</mo><mi>E</mi><mo stretchy="false">&#x2223;</mo><mi>H</mi><mo stretchy="false">)</mo><mo stretchy="false">&#x22C5;</mo><mi>P</mi><mo stretchy="false">(</mo><mi>H</mi><mo stretchy="false">)</mo></mrow></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>P</mi><mo stretchy="false">(</mo><mi>E</mi><mo stretchy="false">)</mo></mrow></mrow></mfrac></mrow></mstyle></mrow></math>
 ACM_Classification_Code_2012_: "10003664"
 Stack_Exchange_tag:

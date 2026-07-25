@@ -60,17 +60,17 @@ aliases:
 - 전리층
 has_id_wikidata: Q162219
 follows:
-- '[[_Standards/WikiData/WD~stratosphere,108376|WD~stratosphere,108376]]'
-- '[[_Standards/WikiData/WD~stratopause,205397|WD~stratopause,205397]]'
+- '[[/_Standards/WikiData/WD~stratosphere,108376|WD~stratosphere,108376]]'
+- '[[/_Standards/WikiData/WD~stratopause,205397|WD~stratopause,205397]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~mesosphere,162167|WD~mesosphere,162167]]'
-- '[[_Standards/WikiData/WD~thermosphere,178043|WD~thermosphere,178043]]'
-- '[[_Standards/WikiData/WD~mesopause,623451|WD~mesopause,623451]]'
-followed_by: '[[_Standards/WikiData/WD~exosphere,170332|WD~exosphere,170332]]'
+- '[[/_Standards/WikiData/WD~mesosphere,162167|WD~mesosphere,162167]]'
+- '[[/_Standards/WikiData/WD~thermosphere,178043|WD~thermosphere,178043]]'
+- '[[/_Standards/WikiData/WD~mesopause,623451|WD~mesopause,623451]]'
+followed_by: '[[/_Standards/WikiData/WD~exosphere,170332|WD~exosphere,170332]]'
 instance_of:
-- '[[_Standards/WikiData/WD~atmospheric_layer,29653271|WD~atmospheric_layer,29653271]]'
-- '[[_Standards/WikiData/WD~ionosphere,36956983|WD~ionosphere,36956983]]'
-part_of: '[[_Standards/WikiData/WD~atmosphere_of_Earth,3230|WD~atmosphere_of_Earth,3230]]'
+- '[[/_Standards/WikiData/WD~atmospheric_layer,29653271|WD~atmospheric_layer,29653271]]'
+- '[[/_Standards/WikiData/WD~ionosphere,36956983|WD~ionosphere,36956983]]'
+part_of: '[[/_Standards/WikiData/WD~atmosphere_of_Earth,3230|WD~atmosphere_of_Earth,3230]]'
 OmegaWiki_Defined_Meaning: 2022
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Aurora%20Borealis.jpg
 Dewey_Decimal_Classification:
@@ -194,7 +194,7 @@ dv_has_:
 
 # [[Ionosphere]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ionosphere,162219|WD~Ionosphere,162219]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Ionosphere,162219|WD~Ionosphere,162219]] 
 
 ## #has_/text_of_/abstract 
 

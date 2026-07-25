@@ -102,11 +102,11 @@ aliases:
 - 海面
 - 해수면
 has_id_wikidata: Q125465
-country: '[[_Standards/WikiData/WD~internationality,1072012|WD~internationality,1072012]]'
+country: '[[/_Standards/WikiData/WD~internationality,1072012|WD~internationality,1072012]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~water_level,1929501|WD~water_level,1929501]]'
-- '[[_Standards/WikiData/WD~vertical_datum,9364781|WD~vertical_datum,9364781]]'
-instance_of: '[[_Standards/WikiData/WD~vertical_datum,9364781|WD~vertical_datum,9364781]]'
+- '[[/_Standards/WikiData/WD~water_level,1929501|WD~water_level,1929501]]'
+- '[[/_Standards/WikiData/WD~vertical_datum,9364781|WD~vertical_datum,9364781]]'
+instance_of: '[[/_Standards/WikiData/WD~vertical_datum,9364781|WD~vertical_datum,9364781]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Meeresspiegel.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Israel%20Sea%20Level%20BW%201.JPG
 Commons_category: Sea level
@@ -254,7 +254,7 @@ dv_has_:
 
 # [[Sea_Level]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Sea_level,125465|WD~Sea_level,125465]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Sea_level,125465|WD~Sea_level,125465]] 
 
 ## #has_/text_of_/abstract 
 

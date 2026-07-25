@@ -12,8 +12,8 @@ aliases:
 - 茄亞科
 - 가지아과
 has_id_wikidata: Q2560968
-taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280|WD~subfamily,164280]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[/_Standards/WikiData/WD~subfamily,164280|WD~subfamily,164280]]'
+instance_of: '[[/_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Starr%20080603-5625%20Solanum%20nelsonii.jpg
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?id=2275
 UMLS_CUI: C1902776

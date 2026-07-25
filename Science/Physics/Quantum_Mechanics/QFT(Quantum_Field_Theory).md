@@ -62,12 +62,12 @@ aliases:
 - 량자마당론
 - 양자장론
 has_id_wikidata: Q54505
-part_of: '[[_Standards/WikiData/WD~quantum_physics,1144457|WD~quantum_physics,1144457]]'
-subclass_of: '[[_Standards/WikiData/WD~field_theory,1262328|WD~field_theory,1262328]]'
-instance_of: '[[_Standards/WikiData/WD~branch_of_physics,4162444|WD~branch_of_physics,4162444]]'
+part_of: '[[/_Standards/WikiData/WD~quantum_physics,1144457|WD~quantum_physics,1144457]]'
+subclass_of: '[[/_Standards/WikiData/WD~field_theory,1262328|WD~field_theory,1262328]]'
+instance_of: '[[/_Standards/WikiData/WD~branch_of_physics,4162444|WD~branch_of_physics,4162444]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Quantum_field_theory,12346573|WD~Template_Quantum_field_theory,12346573]]'
-- '[[_Standards/WikiData/WD~Template_Quantum_field_theories,14398625|WD~Template_Quantum_field_theories,14398625]]'
+- '[[/_Standards/WikiData/WD~Template_Quantum_field_theory,12346573|WD~Template_Quantum_field_theory,12346573]]'
+- '[[/_Standards/WikiData/WD~Template_Quantum_field_theories,14398625|WD~Template_Quantum_field_theories,14398625]]'
 Library_of_Congress_Classification: QC174.45-QC174.52
 Basisklassifikation: 33.24
 short_name:
@@ -182,7 +182,7 @@ dv_has_:
 
 # [[QFT(Quantum_Field_Theory)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Quantum_field_theory,54505|WD~Quantum_field_theory,54505]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Quantum_field_theory,54505|WD~Quantum_field_theory,54505]] 
 
 QFT describes particles as **excitations of corresponding quantum fields**. 
 QED, Quantum Chromodynamics (QCD) and Electroweak Theory are applications of this. 

@@ -148,32 +148,32 @@ aliases:
 - 霍閃
 - 번개
 has_id_wikidata: Q33741
-has_effect: '[[_Standards/WikiData/WD~thunder,83301|WD~thunder,83301]]'
+has_effect: '[[/_Standards/WikiData/WD~thunder,83301|WD~thunder,83301]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~electrical_breakdown,422584|WD~electrical_breakdown,422584]]'
-- '[[_Standards/WikiData/WD~electrometeor,1779241|WD~electrometeor,1779241]]'
-- '[[_Standards/WikiData/WD~meteorological_phenomenon,16332653|WD~meteorological_phenomenon,16332653]]'
-- '[[_Standards/WikiData/WD~electromagnetic_pulse,64122|WD~electromagnetic_pulse,64122]]'
+- '[[/_Standards/WikiData/WD~electrical_breakdown,422584|WD~electrical_breakdown,422584]]'
+- '[[/_Standards/WikiData/WD~electrometeor,1779241|WD~electrometeor,1779241]]'
+- '[[/_Standards/WikiData/WD~meteorological_phenomenon,16332653|WD~meteorological_phenomenon,16332653]]'
+- '[[/_Standards/WikiData/WD~electromagnetic_pulse,64122|WD~electromagnetic_pulse,64122]]'
 different_from:
-- '[[_Standards/WikiData/WD~Nino,444937|WD~Nino,444937]]'
-- '[[_Standards/WikiData/WD~Barq,26200203|WD~Barq,26200203]]'
-has_part_s_: '[[_Standards/WikiData/WD~electric_discharge,488071|WD~electric_discharge,488071]]'
+- '[[/_Standards/WikiData/WD~Nino,444937|WD~Nino,444937]]'
+- '[[/_Standards/WikiData/WD~Barq,26200203|WD~Barq,26200203]]'
+has_part_s_: '[[/_Standards/WikiData/WD~electric_discharge,488071|WD~electric_discharge,488071]]'
 described_by_source:
 - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-part_of: '[[_Standards/WikiData/WD~thunderstorm,2857578|WD~thunderstorm,2857578]]'
-measurement_scale: '[[_Standards/WikiData/WD~lightning_detector,3050846|WD~lightning_detector,3050846]]'
-immediate_cause_of: '[[_Standards/WikiData/WD~lightning_strike,15120872|WD~lightning_strike,15120872]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587|WD~type_of_meteorological_phenomenon,118733587]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[/_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[/_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[/_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[/_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+part_of: '[[/_Standards/WikiData/WD~thunderstorm,2857578|WD~thunderstorm,2857578]]'
+measurement_scale: '[[/_Standards/WikiData/WD~lightning_detector,3050846|WD~lightning_detector,3050846]]'
+immediate_cause_of: '[[/_Standards/WikiData/WD~lightning_strike,15120872|WD~lightning_strike,15120872]]'
+instance_of: '[[/_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587|WD~type_of_meteorological_phenomenon,118733587]]'
 duration: 125
 OmegaWiki_Defined_Meaning: 6811
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lightning%20Pritzerbe%2001%20%28MK%29.jpg
@@ -396,7 +396,7 @@ dv_has_:
 # [[Lightning]] ⚡ 
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Lightning,33741|WD~Lightning,33741]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Lightning,33741|WD~Lightning,33741]] 
 
 ## #has_/text_of_/abstract 
 

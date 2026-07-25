@@ -71,15 +71,15 @@ aliases:
 - 폴란드-소비에트 연방 전쟁
 has_id_wikidata: Q186284
 participant:
-- '[[_Standards/WikiData/WD~Lithuanian_Byelorussian_Soviet_Socialist_Republic,76236|WD~Lithuanian_Byelorussian_Soviet_Socialist_Republic,76236]]'
-- '[[_Standards/WikiData/WD~Ukrainian_Soviet_Socialist_Republic,133356|WD~Ukrainian_Soviet_Socialist_Republic,133356]]'
-- '[[_Standards/WikiData/WD~Second_Polish_Republic,207272|WD~Second_Polish_Republic,207272]]'
-- '[[_Standards/WikiData/WD~Polish_Socialistic_Soviet_Republic,24948646|WD~Polish_Socialistic_Soviet_Republic,24948646]]'
-- '[[_Standards/WikiData/WD~Russian_Soviet_Federative_Socialist_Republic,2184|WD~Russian_Soviet_Federative_Socialist_Republic,2184]]'
-- '[[_Standards/WikiData/WD~Byelorussian_Soviet_Socialist_Republic,2895|WD~Byelorussian_Soviet_Socialist_Republic,2895]]'
-location: '[[_Standards/WikiData/WD~Central_and_Eastern_Europe,900636|WD~Central_and_Eastern_Europe,900636]]'
-order_of_battle: '[[_Standards/WikiData/WD~Polish_Soviet_War_Polish_order_of_battle,7209808|WD~Polish_Soviet_War_Polish_order_of_battle,7209808]]'
-instance_of: '[[_Standards/WikiData/WD~war,198|WD~war,198]]'
+- '[[/_Standards/WikiData/WD~Lithuanian_Byelorussian_Soviet_Socialist_Republic,76236|WD~Lithuanian_Byelorussian_Soviet_Socialist_Republic,76236]]'
+- '[[/_Standards/WikiData/WD~Ukrainian_Soviet_Socialist_Republic,133356|WD~Ukrainian_Soviet_Socialist_Republic,133356]]'
+- '[[/_Standards/WikiData/WD~Second_Polish_Republic,207272|WD~Second_Polish_Republic,207272]]'
+- '[[/_Standards/WikiData/WD~Polish_Socialistic_Soviet_Republic,24948646|WD~Polish_Socialistic_Soviet_Republic,24948646]]'
+- '[[/_Standards/WikiData/WD~Russian_Soviet_Federative_Socialist_Republic,2184|WD~Russian_Soviet_Federative_Socialist_Republic,2184]]'
+- '[[/_Standards/WikiData/WD~Byelorussian_Soviet_Socialist_Republic,2895|WD~Byelorussian_Soviet_Socialist_Republic,2895]]'
+location: '[[/_Standards/WikiData/WD~Central_and_Eastern_Europe,900636|WD~Central_and_Eastern_Europe,900636]]'
+order_of_battle: '[[/_Standards/WikiData/WD~Polish_Soviet_War_Polish_order_of_battle,7209808|WD~Polish_Soviet_War_Polish_order_of_battle,7209808]]'
+instance_of: '[[/_Standards/WikiData/WD~war,198|WD~war,198]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Polish-soviet%20war%201920%20Polish%20defences%20near%20Milosna%2C%20August.jpg
 Universal_Decimal_Classification: 355.48(47:438)"1919/1921"
 Commons_category: Polish-Soviet War
@@ -196,7 +196,7 @@ dv_has_:
 
 # [[1919-Polish–Soviet_War+1921]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Polish–Soviet_War,186284|WD~Polish–Soviet_War,186284]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Polish–Soviet_War,186284|WD~Polish–Soviet_War,186284]] 
 
 ## #has_/text_of_/abstract 
 

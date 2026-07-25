@@ -41,7 +41,7 @@ aliases:
 - 新帝国主義
 - 신제국주의
 has_id_wikidata: Q304121
-instance_of: '[[_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]'
+instance_of: '[[/_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]'
 start_time: 1880-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/China%20imperialism%20cartoon.jpg
 end_time: 1920-01-01T00:00:00Z
@@ -111,7 +111,7 @@ dv_has_:
 
 # [[1880-New_Imperialism+1920]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~New_Imperialism,304121|WD~New_Imperialism,304121]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~New_Imperialism,304121|WD~New_Imperialism,304121]] 
 
 ## #has_/text_of_/abstract 
 

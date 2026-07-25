@@ -2,10 +2,10 @@
 aliases:
 has_id_wikidata: Q1825499
 instance_of:
-  - "[[_Standards/WikiData/WD~term,1969448]]"
-  - "[[_Standards/WikiData/WD~subjective_quality,100212002]]"
-characteristic_of: "[[_Standards/WikiData/WD~fairy,8028]]"
-subclass_of: "[[_Standards/WikiData/WD~anthropology,23404]]"
+  - "[[/_Standards/WikiData/WD~term,1969448]]"
+  - "[[/_Standards/WikiData/WD~subjective_quality,100212002]]"
+characteristic_of: "[[/_Standards/WikiData/WD~fairy,8028]]"
+subclass_of: "[[/_Standards/WikiData/WD~anthropology,23404]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Harihara%20V%26A.jpg
 ---
 

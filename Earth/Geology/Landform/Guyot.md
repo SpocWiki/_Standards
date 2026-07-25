@@ -21,10 +21,10 @@ aliases:
 - 海底平頂山
 - 평정해산
 has_id_wikidata: Q151957
-named_after: '[[_Standards/WikiData/WD~Arnaud_Henri_Guyot,124032|WD~Arnaud_Henri_Guyot,124032]]'
-named_by: '[[_Standards/WikiData/WD~Harry_Hammond_Hess,470792|WD~Harry_Hammond_Hess,470792]]'
-subclass_of: '[[_Standards/WikiData/WD~seamount,503269|WD~seamount,503269]]'
-different_from: '[[_Standards/WikiData/WD~Q19933837,19933837|WD~Q19933837,19933837]]'
+named_after: '[[/_Standards/WikiData/WD~Arnaud_Henri_Guyot,124032|WD~Arnaud_Henri_Guyot,124032]]'
+named_by: '[[/_Standards/WikiData/WD~Harry_Hammond_Hess,470792|WD~Harry_Hammond_Hess,470792]]'
+subclass_of: '[[/_Standards/WikiData/WD~seamount,503269|WD~seamount,503269]]'
+different_from: '[[/_Standards/WikiData/WD~Q19933837,19933837|WD~Q19933837,19933837]]'
 bathymetry_image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Atlantismeteorcomplex3d.png
 - http://commons.wikimedia.org/wiki/Special:FilePath/Hawaiian%20seamount%20chain.jpg
@@ -105,7 +105,7 @@ dv_has_:
 # [[Guyot]] 
 
 is_similar_to = `=this.dv_is_similar_to`
-#is_/same_as :: [[_Standards/WikiData/WD~Guyot,151957|WD~Guyot,151957]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Guyot,151957|WD~Guyot,151957]] 
 
 ## #has_/text_of_/abstract 
 

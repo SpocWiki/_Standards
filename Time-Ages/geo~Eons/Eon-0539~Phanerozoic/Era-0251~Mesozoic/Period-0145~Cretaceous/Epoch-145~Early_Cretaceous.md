@@ -48,12 +48,12 @@ aliases:
 - 백악기 전기
 ischart: LowerCretaceous
 has_id_wikidata: Q752187
-named_after: '[[_Standards/WikiData/WD~chalk,183670|WD~chalk,183670]]'
+named_after: '[[/_Standards/WikiData/WD~chalk,183670|WD~chalk,183670]]'
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Early_Cretaceous,20078603|WD~Category_Early_Cretaceous,20078603]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[/_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[/_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Early_Cretaceous,20078603|WD~Category_Early_Cretaceous,20078603]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -100500000-01-01T00:00:00Z
 start_time: -145000000-01-01T00:00:00Z
 Commons_category: Early Cretaceous
@@ -125,7 +125,7 @@ dv_has_:
     stopped: -100.5e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Early_Cretaceous,752187|WD~Early_Cretaceous,752187]]'
+  - '[[/_Standards/WikiData/WD~Early_Cretaceous,752187|WD~Early_Cretaceous,752187]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous|Epoch-145~Early_Cretaceous]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous.public|Epoch-145~Early_Cretaceous.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous.internal|Epoch-145~Early_Cretaceous.internal]]'
@@ -137,7 +137,7 @@ dv_has_duration_years: 4.450e+7
 dv_has_previous_item: '[[../Period-0201~Jurassic/Epoch-162~Late_Jurassic|Epoch~3~Late_Jurassic]]'
 dv_has_next_item: '[[Epoch-101~Late_Cretaceous]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Early_Cretaceous,752187|WD~Early_Cretaceous,752187]]'
+- '[[/_Standards/WikiData/WD~Early_Cretaceous,752187|WD~Early_Cretaceous,752187]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous|Epoch-145~Early_Cretaceous]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous.public|Epoch-145~Early_Cretaceous.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous.internal|Epoch-145~Early_Cretaceous.internal]]'
@@ -177,7 +177,7 @@ dv_has_text_of_color: 0x8CCD57
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Early_Cretaceous,752187|WD~Early_Cretaceous,752187]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Early_Cretaceous,752187|WD~Early_Cretaceous,752187]] 
 
 A time period from 145.0 to 100.5 million years ago. 
 

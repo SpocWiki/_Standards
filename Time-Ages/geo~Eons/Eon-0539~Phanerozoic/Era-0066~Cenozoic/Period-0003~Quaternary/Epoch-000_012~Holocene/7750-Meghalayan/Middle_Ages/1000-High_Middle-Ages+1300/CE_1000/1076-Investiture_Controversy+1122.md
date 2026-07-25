@@ -56,14 +56,14 @@ aliases:
 - 敘任權鬥爭
 - 서임권 투쟁
 has_id_wikidata: Q154764
-named_after: '[[_Standards/WikiData/WD~investiture,167407|WD~investiture,167407]]'
-described_by_source: '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+named_after: '[[/_Standards/WikiData/WD~investiture,167407|WD~investiture,167407]]'
+described_by_source: '[[/_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
 instance_of:
-- '[[_Standards/WikiData/WD~strife,2447975|WD~strife,2447975]]'
-- '[[_Standards/WikiData/WD~dispute,12055674|WD~dispute,12055674]]'
-part_of: '[[_Standards/WikiData/WD~Church_and_state_in_medieval_Europe,11499112|WD~Church_and_state_in_medieval_Europe,11499112]]'
+- '[[/_Standards/WikiData/WD~strife,2447975|WD~strife,2447975]]'
+- '[[/_Standards/WikiData/WD~dispute,12055674|WD~dispute,12055674]]'
+part_of: '[[/_Standards/WikiData/WD~Church_and_state_in_medieval_Europe,11499112|WD~Church_and_state_in_medieval_Europe,11499112]]'
 start_time: 1075-01-01T00:00:00Z
-locations: '[[_Standards/WikiData/WD~Holy_Roman_Empire,12548|WD~Holy_Roman_Empire,12548]]'
+locations: '[[/_Standards/WikiData/WD~Holy_Roman_Empire,12548|WD~Holy_Roman_Empire,12548]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Omer%20et%20le%20Roi%20Dagobert.jpg
 Library_of_Congress_Classification: KBR4028-KBR4030
 end_time: 1124-01-01T00:00:00Z
@@ -160,7 +160,7 @@ dv_has_:
 
 # [[1076-Investiture_Controversy+1122]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Investiture_controversy,154764|WD~Investiture_controversy,154764]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Investiture_controversy,154764|WD~Investiture_controversy,154764]] 
 
 ## #has_/text_of_/abstract 
 

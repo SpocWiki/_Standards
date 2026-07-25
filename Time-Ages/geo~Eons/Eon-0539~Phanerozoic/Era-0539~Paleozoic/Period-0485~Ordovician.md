@@ -63,15 +63,15 @@ aliases:
 - 오르도비스기
 has_id_wikidata: Q62100
 instance_of:
-- '[[_Standards/WikiData/WD~period,392928|WD~period,392928]]'
-- '[[_Standards/WikiData/WD~system,403523|WD~system,403523]]'
-named_after: '[[_Standards/WikiData/WD~Ordovices,768052|WD~Ordovices,768052]]'
+- '[[/_Standards/WikiData/WD~period,392928|WD~period,392928]]'
+- '[[/_Standards/WikiData/WD~system,403523|WD~system,403523]]'
+named_after: '[[/_Standards/WikiData/WD~Ordovices,768052|WD~Ordovices,768052]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
-named_by: '[[_Standards/WikiData/WD~Charles_Lapworth,932471|WD~Charles_Lapworth,932471]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Ordovician,8899315|WD~Category_Ordovician,8899315]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+named_by: '[[/_Standards/WikiData/WD~Charles_Lapworth,932471|WD~Charles_Lapworth,932471]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Ordovician,8899315|WD~Category_Ordovician,8899315]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -486850000-01-01T00:00:00Z
 end_time: -443100000-01-01T00:00:00Z
 sRGB_color_hex_triplet: 009270
@@ -185,7 +185,7 @@ dv_has_:
     stopped: -443.8e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Ordovician,62100|WD~Ordovician,62100]]'
+  - '[[/_Standards/WikiData/WD~Ordovician,62100|WD~Ordovician,62100]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician|Period-0485~Ordovician]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.public|Period-0485~Ordovician.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.internal|Period-0485~Ordovician.internal]]'
@@ -197,7 +197,7 @@ dv_has_duration_years: 4.160e+7
 dv_has_previous_item: '[[Period-0539~Cambrian]]'
 dv_has_next_item: '[[Period-0444~Silurian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Ordovician,62100|WD~Ordovician,62100]]'
+- '[[/_Standards/WikiData/WD~Ordovician,62100|WD~Ordovician,62100]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician|Period-0485~Ordovician]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.public|Period-0485~Ordovician.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.internal|Period-0485~Ordovician.internal]]'
@@ -239,7 +239,7 @@ dv_has_text_of_color: 0x009270
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Ordovician,62100|WD~Ordovician,62100]]  
+#is_/same_as :: [[/_Standards/WikiData/WD~Ordovician,62100|WD~Ordovician,62100]]  
 
 A time period from 485.4 to 443.8 million years ago. 
 

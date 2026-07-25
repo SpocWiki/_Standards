@@ -36,8 +36,8 @@ aliases:
 - வேதியியல் IUPAC பெயரிடும் முறை
 - การเรียกชื่อสารเคมีตามระบบไอยูแพ็ก
 has_id_wikidata: Q20826683
-different_from: '[[_Standards/WikiData/WD~chemical_nomenclature,6503924|WD~chemical_nomenclature,6503924]]'
-subclass_of: '[[_Standards/WikiData/WD~chemical_nomenclature,6503924|WD~chemical_nomenclature,6503924]]'
+different_from: '[[/_Standards/WikiData/WD~chemical_nomenclature,6503924|WD~chemical_nomenclature,6503924]]'
+subclass_of: '[[/_Standards/WikiData/WD~chemical_nomenclature,6503924|WD~chemical_nomenclature,6503924]]'
 dv_has_:
   name_:
     ar: تسمية الاتحاد الدولي للكيمياء البحتة والتطبيقية
@@ -89,7 +89,7 @@ dv_has_:
 
 # [[IUPAC_Nomenclature_of_Chemistry]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~IUPAC_nomenclature_of_chemistry,20826683|WD~IUPAC_nomenclature_of_chemistry,20826683]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~IUPAC_nomenclature_of_chemistry,20826683|WD~IUPAC_nomenclature_of_chemistry,20826683]] 
 
 ## #has_/text_of_/abstract 
 

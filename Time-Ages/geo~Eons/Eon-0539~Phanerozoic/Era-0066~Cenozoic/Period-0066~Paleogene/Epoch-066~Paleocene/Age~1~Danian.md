@@ -26,20 +26,20 @@ aliases:
 - 達寧階
 - 덴마크절
 has_id_wikidata: Q502179
-named_by: '[[_Standards/WikiData/WD~Édouard_Desor,84445|WD~Édouard_Desor,84445]]'
+named_by: '[[/_Standards/WikiData/WD~Édouard_Desor,84445|WD~Édouard_Desor,84445]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-different_from: '[[_Standards/WikiData/WD~Dan,1158949|WD~Dan,1158949]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Danian,24068488|WD~Category_Danian,24068488]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Danian,133886032|WD~GSSP_for_the_base_of_the_Danian,133886032]]'
+- '[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[/_Standards/WikiData/WD~Dan,1158949|WD~Dan,1158949]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Danian,24068488|WD~Category_Danian,24068488]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_the_Danian,133886032|WD~GSSP_for_the_base_of_the_Danian,133886032]]'
 start_time: -66000000-01-01T00:00:00Z
 end_time: -61600000-01-01T00:00:00Z
-named_after: '[[_Standards/WikiData/WD~Denmark,35|WD~Denmark,35]]'
+named_after: '[[/_Standards/WikiData/WD~Denmark,35|WD~Denmark,35]]'
 Commons_category: Danian
 sRGB_color_hex_triplet: FEB872
 coordinate_location: Point(8.6486 36.1537)
@@ -105,7 +105,7 @@ dv_has_:
     stopped: -61.6e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Danian,502179|WD~Danian,502179]]'
+  - '[[/_Standards/WikiData/WD~Danian,502179|WD~Danian,502179]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian|Age~1~Danian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.public|Age~1~Danian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.internal|Age~1~Danian.internal]]'
@@ -117,7 +117,7 @@ dv_has_duration_years: 4.400e+6
 dv_has_previous_item: '[[../../../Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian|Age~6~Maastrichtian]]'
 dv_has_next_item: '[[Age~2~Selandian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Danian,502179|WD~Danian,502179]]'
+- '[[/_Standards/WikiData/WD~Danian,502179|WD~Danian,502179]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian|Age~1~Danian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.public|Age~1~Danian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.internal|Age~1~Danian.internal]]'
@@ -161,7 +161,7 @@ A time period from 66.0 to 61.6 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Danian,502179|WD~Danian,502179]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Danian,502179|WD~Danian,502179]] 
 
 ## #has_/text_of_/abstract 
 

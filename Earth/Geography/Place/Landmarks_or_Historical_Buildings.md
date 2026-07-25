@@ -80,15 +80,15 @@ tags:
 title: is_a_landmarks_or_historical_buildings Class
 type: Type
 subclass_of:
-- '[[_Standards/WikiData/WD~tourist_attraction,570116|WD~tourist_attraction,570116]]'
-- '[[_Standards/WikiData/WD~architectural_structure,811979|WD~architectural_structure,811979]]'
-- '[[_Standards/WikiData/WD~landmark,4895393|WD~landmark,4895393]]'
-different_from: '[[_Standards/WikiData/WD~landmark,4895393|WD~landmark,4895393]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q7607402,7607402|WD~Q7607402,7607402]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q13439180,13439180|WD~Q13439180,13439180]]'
+- '[[/_Standards/WikiData/WD~tourist_attraction,570116|WD~tourist_attraction,570116]]'
+- '[[/_Standards/WikiData/WD~architectural_structure,811979|WD~architectural_structure,811979]]'
+- '[[/_Standards/WikiData/WD~landmark,4895393|WD~landmark,4895393]]'
+different_from: '[[/_Standards/WikiData/WD~landmark,4895393|WD~landmark,4895393]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Q7607402,7607402|WD~Q7607402,7607402]]'
+said_to_be_the_same_as: '[[/_Standards/WikiData/WD~Q13439180,13439180|WD~Q13439180,13439180]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Green_Map_Icons,103892210|WD~Green_Map_Icons,103892210]]'
+- '[[/_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[/_Standards/WikiData/WD~Green_Map_Icons,103892210|WD~Green_Map_Icons,103892210]]'
 properties_for_this_type:
 - plaque image
 - nighttime view
@@ -167,7 +167,7 @@ dv_has_:
   properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~architectural_landmark,2319498|WD~architectural_landmark,2319498]]'
+  - '[[/_Standards/WikiData/WD~architectural_landmark,2319498|WD~architectural_landmark,2319498]]'
   - '[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings|Landmarks_or_Historical_Buildings]]'
   - '[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings.public|Landmarks_or_Historical_Buildings.public]]'
   - '[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings.internal|Landmarks_or_Historical_Buildings.internal]]'
@@ -178,7 +178,7 @@ dv_is_:
 dv_has_parent_class: '[[../Place|Place]]'
 dv_has_properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~architectural_landmark,2319498|WD~architectural_landmark,2319498]]'
+- '[[/_Standards/WikiData/WD~architectural_landmark,2319498|WD~architectural_landmark,2319498]]'
 - '[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings|Landmarks_or_Historical_Buildings]]'
 - '[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings.public|Landmarks_or_Historical_Buildings.public]]'
 - '[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings.internal|Landmarks_or_Historical_Buildings.internal]]'
@@ -202,7 +202,7 @@ has_parent_class = `=this.dv_has_parent_class`] ]
 has_properties = `=this.dv_has_properties` ]
 
 
-#is_/same_as :: [[_Standards/WikiData/WD~architectural_landmark,2319498|WD~architectural_landmark,2319498]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~architectural_landmark,2319498|WD~architectural_landmark,2319498]] 
 
 | Name                                                                                                                  | Class                                                                                                                                                                                | Height / m |  Year | Location                                                                                                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------: | ----: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

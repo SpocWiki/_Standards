@@ -27,15 +27,15 @@ aliases:
 - 巴爾頓階
 - 바턴절
 has_id_wikidata: Q508675
-named_by: '[[_Standards/WikiData/WD~Karl_Mayer_Eymar,116704|WD~Karl_Mayer_Eymar,116704]]'
+named_by: '[[/_Standards/WikiData/WD~Karl_Mayer_Eymar,116704|WD~Karl_Mayer_Eymar,116704]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
 named_after:
-- '[[_Standards/WikiData/WD~Barton_on_Sea,3635466|WD~Barton_on_Sea,3635466]]'
-- '[[_Standards/WikiData/WD~Barton_Beds,3635464|WD~Barton_Beds,3635464]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Bartonian,24067978|WD~Category_Bartonian,24067978]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[/_Standards/WikiData/WD~Barton_on_Sea,3635466|WD~Barton_on_Sea,3635466]]'
+- '[[/_Standards/WikiData/WD~Barton_Beds,3635464|WD~Barton_Beds,3635464]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Bartonian,24067978|WD~Category_Bartonian,24067978]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -37800000-01-01T00:00:00Z
 Commons_category: Bartonian
 sRGB_color_hex_triplet: FEC498
@@ -101,7 +101,7 @@ dv_has_:
     stopped: -37.71e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Bartonian,508675|WD~Bartonian,508675]]'
+  - '[[/_Standards/WikiData/WD~Bartonian,508675|WD~Bartonian,508675]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian|Age~3~Bartonian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian.public|Age~3~Bartonian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian.internal|Age~3~Bartonian.internal]]'
@@ -113,7 +113,7 @@ dv_has_duration_years: 3.490e+6
 dv_has_previous_item: '[[Age~2~Lutetian]]'
 dv_has_next_item: '[[Age~4~Priabonian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Bartonian,508675|WD~Bartonian,508675]]'
+- '[[/_Standards/WikiData/WD~Bartonian,508675|WD~Bartonian,508675]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian|Age~3~Bartonian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian.public|Age~3~Bartonian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~3~Bartonian.internal|Age~3~Bartonian.internal]]'
@@ -157,7 +157,7 @@ A time period from 41.2 to 37.71 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Bartonian,508675|WD~Bartonian,508675]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Bartonian,508675|WD~Bartonian,508675]] 
 
 ## #has_/text_of_/abstract 
 

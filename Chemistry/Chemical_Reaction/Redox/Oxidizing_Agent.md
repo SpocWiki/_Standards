@@ -72,17 +72,17 @@ aliases:
 - 酸化剤
 - 산화제
 has_id_wikidata: Q187689
-used_by: '[[_Standards/WikiData/WD~redox,82682|WD~redox,82682]]'
-opposite_of: '[[_Standards/WikiData/WD~reducing_agent,216830|WD~reducing_agent,216830]]'
+used_by: '[[/_Standards/WikiData/WD~redox,82682|WD~redox,82682]]'
+opposite_of: '[[/_Standards/WikiData/WD~reducing_agent,216830|WD~reducing_agent,216830]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~electron_acceptor,1231592|WD~electron_acceptor,1231592]]'
-- '[[_Standards/WikiData/WD~comburent,3775643|WD~comburent,3775643]]'
-- '[[_Standards/WikiData/WD~noxa,50379880|WD~noxa,50379880]]'
-has_effect: '[[_Standards/WikiData/WD~oxidation,1786087|WD~oxidation,1786087]]'
-has_use: '[[_Standards/WikiData/WD~oxidation,1786087|WD~oxidation,1786087]]'
+- '[[/_Standards/WikiData/WD~electron_acceptor,1231592|WD~electron_acceptor,1231592]]'
+- '[[/_Standards/WikiData/WD~comburent,3775643|WD~comburent,3775643]]'
+- '[[/_Standards/WikiData/WD~noxa,50379880|WD~noxa,50379880]]'
+has_effect: '[[/_Standards/WikiData/WD~oxidation,1786087|WD~oxidation,1786087]]'
+has_use: '[[/_Standards/WikiData/WD~oxidation,1786087|WD~oxidation,1786087]]'
 instance_of:
-- '[[_Standards/WikiData/WD~role,4897819|WD~role,4897819]]'
-- '[[_Standards/WikiData/WD~class_of_chemical_substances_by_use,100434640|WD~class_of_chemical_substances_by_use,100434640]]'
+- '[[/_Standards/WikiData/WD~role,4897819|WD~role,4897819]]'
+- '[[/_Standards/WikiData/WD~class_of_chemical_substances_by_use,100434640|WD~class_of_chemical_substances_by_use,100434640]]'
 U_S_National_Archives_Identifier: 10647674
 short_name: OX
 icon:
@@ -204,7 +204,7 @@ dv_has_:
 
 # [[Oxidizing_Agent]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Oxidizing_agent,187689|WD~Oxidizing_agent,187689]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Oxidizing_agent,187689|WD~Oxidizing_agent,187689]] 
 
 ## #has_/text_of_/abstract 
 

@@ -56,12 +56,12 @@ aliases:
 - 에디아카라기
 has_id_wikidata: Q188654
 instance_of:
-- '[[_Standards/WikiData/WD~period,392928|WD~period,392928]]'
-- '[[_Standards/WikiData/WD~system,403523|WD~system,403523]]'
-named_after: '[[_Standards/WikiData/WD~Ediacara_Hills,1119841|WD~Ediacara_Hills,1119841]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Ediacaran,9863192|WD~Category_Ediacaran,9863192]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Ediacaran,112181350|WD~GSSP_for_the_base_of_the_Ediacaran,112181350]]'
+- '[[/_Standards/WikiData/WD~period,392928|WD~period,392928]]'
+- '[[/_Standards/WikiData/WD~system,403523|WD~system,403523]]'
+named_after: '[[/_Standards/WikiData/WD~Ediacara_Hills,1119841|WD~Ediacara_Hills,1119841]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Ediacaran,9863192|WD~Category_Ediacaran,9863192]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_the_Ediacaran,112181350|WD~GSSP_for_the_base_of_the_Ediacaran,112181350]]'
 coordinate_location: Point(138.6334 -31.3314)
 start_time: -635000000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%20600%20Ma%20%28Ediacaran%20Period%29.png
@@ -161,7 +161,7 @@ dv_has_:
     stopped: -538.8e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Ediacaran,188654|WD~Ediacaran,188654]]'
+  - '[[/_Standards/WikiData/WD~Ediacaran,188654|WD~Ediacaran,188654]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0635~Ediacaran|Period-0635~Ediacaran]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0635~Ediacaran.public|Period-0635~Ediacaran.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0635~Ediacaran.internal|Period-0635~Ediacaran.internal]]'
@@ -173,7 +173,7 @@ dv_has_duration_years: 9.620e+7
 dv_has_previous_item: '[[Period-0720~Cryogenian]]'
 dv_has_next_item: '[[../../Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian|Period~1~Cambrian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Ediacaran,188654|WD~Ediacaran,188654]]'
+- '[[/_Standards/WikiData/WD~Ediacaran,188654|WD~Ediacaran,188654]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0635~Ediacaran|Period-0635~Ediacaran]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0635~Ediacaran.public|Period-0635~Ediacaran.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0635~Ediacaran.internal|Period-0635~Ediacaran.internal]]'
@@ -215,7 +215,7 @@ dv_has_text_of_color: 0xFED96A
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Ediacaran,188654|WD~Ediacaran,188654]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Ediacaran,188654|WD~Ediacaran,188654]] 
 
 A time period from 635 to 538.8 million years ago. 
 Multi-cellular life develops. 

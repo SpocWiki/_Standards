@@ -16,11 +16,11 @@ aliases:
 - 小麦族
 - 밀족
 has_id_wikidata: Q148694
-taxon_rank: '[[_Standards/WikiData/WD~tribe,227936|WD~tribe,227936]]'
+taxon_rank: '[[/_Standards/WikiData/WD~tribe,227936|WD~tribe,227936]]'
 parent_taxon:
 - '[[../../../../../../../../../../../../../../WikiData/WD~Pooideae,4662262|WD~Pooideae,4662262]]'
-- '[[_Standards/WikiData/WD~Triticodae,123460083|WD~Triticodae,123460083]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+- '[[/_Standards/WikiData/WD~Triticodae,123460083|WD~Triticodae,123460083]]'
+instance_of: '[[/_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Wheat%20field.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Hordeum%20jubatum%20-%20close-up%20%28aka%29.jpg

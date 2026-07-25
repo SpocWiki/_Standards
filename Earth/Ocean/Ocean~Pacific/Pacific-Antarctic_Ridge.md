@@ -30,9 +30,9 @@ aliases:
 - 太平洋-南極海嶺
 - 太平洋南極海嶺
 has_id_wikidata: Q558800
-instance_of: '[[_Standards/WikiData/WD~mid_ocean_ridge,104698|WD~mid_ocean_ridge,104698]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Antarctic_Treaty_area,21590062|WD~Antarctic_Treaty_area,21590062]]'
-continent: '[[_Standards/WikiData/WD~Antarctica,51|WD~Antarctica,51]]'
+instance_of: '[[/_Standards/WikiData/WD~mid_ocean_ridge,104698|WD~mid_ocean_ridge,104698]]'
+located_in_the_administrative_territorial_entity: '[[/_Standards/WikiData/WD~Antarctic_Treaty_area,21590062|WD~Antarctic_Treaty_area,21590062]]'
+continent: '[[/_Standards/WikiData/WD~Antarctica,51|WD~Antarctica,51]]'
 bathymetry_image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Louisville%20seamount%20chain%20-%20bathymetry.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/East%20Pacific%20Rise.jpg
@@ -98,7 +98,7 @@ dv_has_:
 
 # [[Pacific-Antarctic_Ridge]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pacific-Antarctic_Ridge,558800|WD~Pacific-Antarctic_Ridge,558800]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Pacific-Antarctic_Ridge,558800|WD~Pacific-Antarctic_Ridge,558800]] 
 
 ## #has_/text_of_/abstract 
 

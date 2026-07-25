@@ -79,8 +79,8 @@ CAS_Registry_Number: 7440-68-8
 chemical_formula: At
 Commons_category: Astatine
 Commons_gallery: Astatine
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Emilio_G._Segrè,173028|WD~Emilio_G._Segrè,173028]]'
+described_by_source: '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+discoverer_or_inventor: '[[/_Standards/WikiData/WD~Emilio_G._Segrè,173028|WD~Emilio_G._Segrè,173028]]'
 DSSTOX_compound_identifier: DTXCID40147882
 electronegativity: 2.2
 element_symbol: At
@@ -89,26 +89,26 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20085
 InChI: InChI=1S/At
 InChIKey: RYXHOMYVWAEKHL-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~synthetic_element,755992|WD~synthetic_element,755992]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+- '[[/_Standards/WikiData/WD~synthetic_element,755992|WD~synthetic_element,755992]]'
+- '[[/_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 location_of_discovery:
-- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[/_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 MeSH_tree_code:
 - D01.268.271.110
 - D01.268.380.075
 - D01.496.749.305.110
-named_after: '[[_Standards/WikiData/WD~instability,405372|WD~instability,405372]]'
+named_after: '[[/_Standards/WikiData/WD~instability,405372|WD~instability,405372]]'
 OmegaWiki_Defined_Meaning: 155974
 part_of:
-- '[[_Standards/WikiData/WD~period_6,239813|WD~period_6,239813]]'
-- '[[_Standards/WikiData/WD~halogens,19605|WD~halogens,19605]]'
+- '[[/_Standards/WikiData/WD~period_6,239813|WD~period_6,239813]]'
+- '[[/_Standards/WikiData/WD~halogens,19605|WD~halogens,19605]]'
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20156.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-astate.wav
 PubChem_CID: 5460479
 SpocWebEntityId: 21980
 subclass_of:
-- '[[_Standards/WikiData/WD~metalloid,19596|WD~metalloid,19596]]'
-- '[[_Standards/WikiData/WD~halogens,19605|WD~halogens,19605]]'
+- '[[/_Standards/WikiData/WD~metalloid,19596|WD~metalloid,19596]]'
+- '[[/_Standards/WikiData/WD~halogens,19605|WD~halogens,19605]]'
 time_of_discovery_or_invention: 1940
 type: Element
 UMLS_CUI: C0004091

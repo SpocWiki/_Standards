@@ -46,9 +46,9 @@ aliases:
 - 轨道根数
 - 궤도 요소
 has_id_wikidata: Q272626
-subclass_of: '[[_Standards/WikiData/WD~parameter,1413083|WD~parameter,1413083]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-different_from: '[[_Standards/WikiData/WD~Keplerian_elements,78147576|WD~Keplerian_elements,78147576]]'
+subclass_of: '[[/_Standards/WikiData/WD~parameter,1413083|WD~parameter,1413083]]'
+described_by_source: '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[/_Standards/WikiData/WD~Keplerian_elements,78147576|WD~Keplerian_elements,78147576]]'
 dv_is_:
   same_as:
   - '[[../../../WikiData/WD~Orbital_elements,272626|WD~Orbital_elements,272626]]'
@@ -132,7 +132,7 @@ dv_has_:
 
 # [[Orbital_Elements]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Orbital_elements,272626|WD~Orbital_elements,272626]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Orbital_elements,272626|WD~Orbital_elements,272626]] 
 
 ## #has_/text_of_/abstract 
 

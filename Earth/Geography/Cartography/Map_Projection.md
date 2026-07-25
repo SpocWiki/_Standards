@@ -61,8 +61,8 @@ aliases:
 - 投影法
 - 지도 투영법
 has_id_wikidata: Q186386
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
-subclass_of: '[[_Standards/WikiData/WD~projection,13415428|WD~projection,13415428]]'
+maintained_by_WikiProject: '[[/_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+subclass_of: '[[/_Standards/WikiData/WD~projection,13415428|WD~projection,13415428]]'
 U_S_National_Archives_Identifier: 10640363
 Commons_category: Map projections
 dv_is_:
@@ -163,7 +163,7 @@ dv_has_:
 
 # [[Map_Projection]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Map_projection,186386|WD~Map_projection,186386]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Map_projection,186386|WD~Map_projection,186386]] 
 
 ## #has_/text_of_/abstract 
 

@@ -43,17 +43,17 @@ aliases:
 - 早侏羅世
 - 쥐라기 전기
 has_id_wikidata: Q284787
-named_after: '[[_Standards/WikiData/WD~Jura_Mountains,178611|WD~Jura_Mountains,178611]]'
+named_after: '[[/_Standards/WikiData/WD~Jura_Mountains,178611|WD~Jura_Mountains,178611]]'
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
+- '[[/_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[/_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-different_from: '[[_Standards/WikiData/WD~Black_Jura,2253989|WD~Black_Jura,2253989]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Early_Jurassic,20963454|WD~Category_Early_Jurassic,20963454]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Hettangian,134318266|WD~GSSP_for_the_base_of_the_Hettangian,134318266]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[/_Standards/WikiData/WD~Black_Jura,2253989|WD~Black_Jura,2253989]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Early_Jurassic,20963454|WD~Category_Early_Jurassic,20963454]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_the_Hettangian,134318266|WD~GSSP_for_the_base_of_the_Hettangian,134318266]]'
 Commons_category: Early Jurassic
 start_time: -201300000-01-01T00:00:00Z
 sRGB_color_hex_triplet: 00B7EA
@@ -126,7 +126,7 @@ dv_has_:
     stopped: -174.7e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Early_Jurassic,284787|WD~Early_Jurassic,284787]]'
+  - '[[/_Standards/WikiData/WD~Early_Jurassic,284787|WD~Early_Jurassic,284787]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic|Epoch-201~Early_Jurassic]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic.public|Epoch-201~Early_Jurassic.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic.internal|Epoch-201~Early_Jurassic.internal]]'
@@ -138,7 +138,7 @@ dv_has_duration_years: 2.670e+7
 dv_has_previous_item: '[[../Period-0252~Triassic/Epoch-237~Late_Triassic|Epoch~3~Late_Triassic]]'
 dv_has_next_item: '[[Epoch-175~Middle_Jurassic]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Early_Jurassic,284787|WD~Early_Jurassic,284787]]'
+- '[[/_Standards/WikiData/WD~Early_Jurassic,284787|WD~Early_Jurassic,284787]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic|Epoch-201~Early_Jurassic]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic.public|Epoch-201~Early_Jurassic.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic.internal|Epoch-201~Early_Jurassic.internal]]'
@@ -180,7 +180,7 @@ dv_has_text_of_color: 0x42AED0
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Early_Jurassic,284787|WD~Early_Jurassic,284787]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Early_Jurassic,284787|WD~Early_Jurassic,284787]] 
 
 A time period from 201.4 to 174.7 million years ago. 
 

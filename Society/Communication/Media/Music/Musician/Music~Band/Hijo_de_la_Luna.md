@@ -3,17 +3,17 @@ aliases:
   - Hijo de la luna
 has_id_wikidata: Q690024
 instance_of:
-  - "[[_Standards/WikiData/WD~single,134556]]"
-  - "[[_Standards/WikiData/WD~song,7366]]"
-performer: "[[_Standards/WikiData/WD~Mecano,574375]]"
-composer: "[[_Standards/WikiData/WD~José_María_Cano,593851]]"
-record_label: "[[_Standards/WikiData/WD~Ariola,662575]]"
-genre: "[[_Standards/WikiData/WD~piano_rock,2090023]]"
-single_taken_from_the_album_or_EP: "[[_Standards/WikiData/WD~Entre_el_cielo_y_el_suelo,3281693]]"
-follows: "[[_Standards/WikiData/WD~Une_femme_avec_une_femme,3549458]]"
-distribution_format: "[[_Standards/WikiData/WD~music_streaming,15982450]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~Spanish,1321]]"
-country_of_origin: "[[_Standards/WikiData/WD~Spain,29]]"
+  - "[[/_Standards/WikiData/WD~single,134556]]"
+  - "[[/_Standards/WikiData/WD~song,7366]]"
+performer: "[[/_Standards/WikiData/WD~Mecano,574375]]"
+composer: "[[/_Standards/WikiData/WD~José_María_Cano,593851]]"
+record_label: "[[/_Standards/WikiData/WD~Ariola,662575]]"
+genre: "[[/_Standards/WikiData/WD~piano_rock,2090023]]"
+single_taken_from_the_album_or_EP: "[[/_Standards/WikiData/WD~Entre_el_cielo_y_el_suelo,3281693]]"
+follows: "[[/_Standards/WikiData/WD~Une_femme_avec_une_femme,3549458]]"
+distribution_format: "[[/_Standards/WikiData/WD~music_streaming,15982450]]"
+language_of_work_or_name: "[[/_Standards/WikiData/WD~Spanish,1321]]"
+country_of_origin: "[[/_Standards/WikiData/WD~Spain,29]]"
 publication_date: 1986-01-01T00:00:00Z
 Wolfram_Language_entity_code: Entity["MusicWork", "Hijodelaluna::wp3st"]
 ISRC: ES5028600049

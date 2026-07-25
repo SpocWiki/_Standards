@@ -28,13 +28,13 @@ aliases:
 - 成蟲
 - 어른벌레
 has_id_wikidata: Q207254
-subclass_of: '[[_Standards/WikiData/WD~adult,80994|WD~adult,80994]]'
+subclass_of: '[[/_Standards/WikiData/WD~adult,80994|WD~adult,80994]]'
 follows:
-- '[[_Standards/WikiData/WD~pupa,170595|WD~pupa,170595]]'
-- '[[_Standards/WikiData/WD~subimago,2576688|WD~subimago,2576688]]'
-- '[[_Standards/WikiData/WD~insect_larva,15630878|WD~insect_larva,15630878]]'
-different_from: '[[_Standards/WikiData/WD~image,1659580|WD~image,1659580]]'
-instance_of: '[[_Standards/WikiData/WD~developmental_stage_of_animal,20056177|WD~developmental_stage_of_animal,20056177]]'
+- '[[/_Standards/WikiData/WD~pupa,170595|WD~pupa,170595]]'
+- '[[/_Standards/WikiData/WD~subimago,2576688|WD~subimago,2576688]]'
+- '[[/_Standards/WikiData/WD~insect_larva,15630878|WD~insect_larva,15630878]]'
+different_from: '[[/_Standards/WikiData/WD~image,1659580|WD~image,1659580]]'
+instance_of: '[[/_Standards/WikiData/WD~developmental_stage_of_animal,20056177|WD~developmental_stage_of_animal,20056177]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Polyommatus%20icarus-01%20%28xndr%29.jpg
 Commons_category: Imago (biology)
 dv_has_:
@@ -111,12 +111,12 @@ dv_has_:
 
 # [[Imago]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Imago,207254|WD~Imago,207254]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Imago,207254|WD~Imago,207254]] 
 
 ## #has_/text_of_/abstract 
 
 > In biology, the **Imago** (Latin for "image") is the last stage an insect attains 
-> during its [[_Standards/WikiData/WD~Metamorphosis,33753|WD~Metamorphosis,33753]] , its process of growth and development; 
+> during its [[/_Standards/WikiData/WD~Metamorphosis,33753|WD~Metamorphosis,33753]] , its process of growth and development; 
 > it is also called the imaginal stage ("imaginal" being "imago" in adjective form), 
 > the stage in which the insect attains maturity. 
 > It follows the final ecdysis of the immature instars.

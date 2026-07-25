@@ -28,10 +28,10 @@ aliases:
 - 特列奇階
 has_id_wikidata: Q681835
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Telychian,134698359|WD~GSSP_for_the_base_of_Telychian,134698359]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_Telychian,134698359|WD~GSSP_for_the_base_of_Telychian,134698359]]'
 start_time: -438500000-01-01T00:00:00Z
 end_time: -433400000-01-01T00:00:00Z
 sRGB_color_hex_triplet: B4E5DB
@@ -80,7 +80,7 @@ dv_has_:
     stopped: -433.4e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Telychian,681835|WD~Telychian,681835]]'
+  - '[[/_Standards/WikiData/WD~Telychian,681835|WD~Telychian,681835]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian|Age~3~Telychian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.public|Age~3~Telychian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.internal|Age~3~Telychian.internal]]'
@@ -92,7 +92,7 @@ dv_has_duration_years: 5.100e+6
 dv_has_previous_item: '[[Age~2~Aeronian]]'
 dv_has_next_item: '[[../Epoch-433~Wenlock/Age~1~Sheinwoodian|Age~1~Sheinwoodian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Telychian,681835|WD~Telychian,681835]]'
+- '[[/_Standards/WikiData/WD~Telychian,681835|WD~Telychian,681835]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian|Age~3~Telychian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.public|Age~3~Telychian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.internal|Age~3~Telychian.internal]]'
@@ -134,7 +134,7 @@ dv_has_text_of_color: 0xBFE6CF
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Telychian,681835|WD~Telychian,681835]]  
+#is_/same_as :: [[/_Standards/WikiData/WD~Telychian,681835|WD~Telychian,681835]]  
 
 A time period from 438.5 to 433.4 million years ago. 
 

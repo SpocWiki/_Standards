@@ -33,9 +33,9 @@ aliases:
 - 歐普藝術
 - 옵아트
 has_id_wikidata: Q182331
-instance_of: '[[_Standards/WikiData/WD~art_movement,968159|WD~art_movement,968159]]'
-different_from: '[[_Standards/WikiData/WD~out_of_place_artifact,1069160|WD~out_of_place_artifact,1069160]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Op_art,20372277|WD~Template_Op_art,20372277]]'
+instance_of: '[[/_Standards/WikiData/WD~art_movement,968159|WD~art_movement,968159]]'
+different_from: '[[/_Standards/WikiData/WD~out_of_place_artifact,1069160|WD~out_of_place_artifact,1069160]]'
+topic_has_template: '[[/_Standards/WikiData/WD~Template_Op_art,20372277|WD~Template_Op_art,20372277]]'
 inception: 1960-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hungary%20pecs%20-%20vasarely0.jpg
 Commons_category: Op art
@@ -105,7 +105,7 @@ dv_has_:
 
 # [[Op_Art]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Op_art,182331|WD~Op_art,182331]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Op_art,182331|WD~Op_art,182331]] 
 
 ## #has_/text_of_/abstract 
 

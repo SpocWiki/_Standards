@@ -2,10 +2,10 @@
 aliases:
   - Miracle on the Rhine
 has_id_wikidata: Q312390
-instance_of: "[[_Standards/WikiData/WD~economic_growth,189833]]"
+instance_of: "[[/_Standards/WikiData/WD~economic_growth,189833]]"
 country:
-  - "[[_Standards/WikiData/WD~West_Germany,713750]]"
-  - "[[_Standards/WikiData/WD~Austria,40]]"
+  - "[[/_Standards/WikiData/WD~West_Germany,713750]]"
+  - "[[/_Standards/WikiData/WD~Austria,40]]"
 end_time: 1970-01-01T00:00:00Z
 start_time: 1948-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/1000000th%20Beetle.jpg

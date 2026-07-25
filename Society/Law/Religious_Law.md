@@ -52,10 +52,10 @@ aliases:
 - 종교법
 has_id_wikidata: Q670732
 instance_of:
-- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~type_of_law,63718619|WD~type_of_law,63718619]]'
-has_part_s_: '[[_Standards/WikiData/WD~religious_laws,76994618|WD~religious_laws,76994618]]'
-subclass_of: '[[_Standards/WikiData/WD~law,7748|WD~law,7748]]'
+- '[[/_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[/_Standards/WikiData/WD~type_of_law,63718619|WD~type_of_law,63718619]]'
+has_part_s_: '[[/_Standards/WikiData/WD~religious_laws,76994618|WD~religious_laws,76994618]]'
+subclass_of: '[[/_Standards/WikiData/WD~law,7748|WD~law,7748]]'
 Commons_category: Religious law
 dv_has_:
   name_:
@@ -121,7 +121,7 @@ dv_has_:
 
 # [[Religious_Law]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Religious_law,670732|WD~Religious_law,670732]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Religious_law,670732|WD~Religious_law,670732]] 
 
 ## #has_/text_of_/abstract 
 

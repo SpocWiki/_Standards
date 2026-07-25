@@ -7,24 +7,24 @@ aliases:
   - Kernkraftwerk
 has_id_wikidata: Q134447
 has_part_s_:
-  - "[[_Standards/WikiData/WD~nuclear_reactor,80877]]"
-  - "[[_Standards/WikiData/WD~electrical_generator,131502]]"
-  - "[[_Standards/WikiData/WD~steam_turbine,189859]]"
-  - "[[_Standards/WikiData/WD~transformer,11658]]"
+  - "[[/_Standards/WikiData/WD~nuclear_reactor,80877]]"
+  - "[[/_Standards/WikiData/WD~electrical_generator,131502]]"
+  - "[[/_Standards/WikiData/WD~steam_turbine,189859]]"
+  - "[[/_Standards/WikiData/WD~transformer,11658]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~power_station,159719]]"
-  - "[[_Standards/WikiData/WD~nuclear_facility,1739545]]"
+  - "[[/_Standards/WikiData/WD~power_station,159719]]"
+  - "[[/_Standards/WikiData/WD~nuclear_facility,1739545]]"
 product_or_material_produced:
-  - "[[_Standards/WikiData/WD~radioactive_waste,185252]]"
-  - "[[_Standards/WikiData/WD~electricity,12725]]"
-has_list: "[[_Standards/WikiData/WD~list_of_nuclear_power_stations,1642078]]"
-source_of_energy: "[[_Standards/WikiData/WD~nuclear_binding_energy,6750062]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Nuclear_power_stations,7215587]]"
+  - "[[/_Standards/WikiData/WD~radioactive_waste,185252]]"
+  - "[[/_Standards/WikiData/WD~electricity,12725]]"
+has_list: "[[/_Standards/WikiData/WD~list_of_nuclear_power_stations,1642078]]"
+source_of_energy: "[[/_Standards/WikiData/WD~nuclear_binding_energy,6750062]]"
+topic_s_main_category: "[[/_Standards/WikiData/WD~Category_Nuclear_power_stations,7215587]]"
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Infobox_nuclear_power_station,13507303]]"
-  - "[[_Standards/WikiData/WD~Q22819870,22819870]]"
-uses: "[[_Standards/WikiData/WD~nuclear_electricity_generation,17232373]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - "[[/_Standards/WikiData/WD~Template_Infobox_nuclear_power_station,13507303]]"
+  - "[[/_Standards/WikiData/WD~Q22819870,22819870]]"
+uses: "[[/_Standards/WikiData/WD~nuclear_electricity_generation,17232373]]"
+described_by_source: "[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 carbon_footprint: 12
 Nomenclature_for_Museum_Cataloging: "805"
 OmegaWiki_Defined_Meaning: "2578"

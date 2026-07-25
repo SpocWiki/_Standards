@@ -66,13 +66,13 @@ aliases:
 - 海地革命
 - 아이티 혁명
 has_id_wikidata: Q689128
-locations: '[[_Standards/WikiData/WD~Saint_Domingue,861551|WD~Saint_Domingue,861551]]'
-country: '[[_Standards/WikiData/WD~Saint_Domingue,861551|WD~Saint_Domingue,861551]]'
+locations: '[[/_Standards/WikiData/WD~Saint_Domingue,861551|WD~Saint_Domingue,861551]]'
+country: '[[/_Standards/WikiData/WD~Saint_Domingue,861551|WD~Saint_Domingue,861551]]'
 instance_of:
-- '[[_Standards/WikiData/WD~slave_rebellion,1155622|WD~slave_rebellion,1155622]]'
-- '[[_Standards/WikiData/WD~revolution,10931|WD~revolution,10931]]'
-part_of: '[[_Standards/WikiData/WD~Atlantic_Revolutions,3108868|WD~Atlantic_Revolutions,3108868]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953|WD~WikiProject_African_diaspora,15304953]]'
+- '[[/_Standards/WikiData/WD~slave_rebellion,1155622|WD~slave_rebellion,1155622]]'
+- '[[/_Standards/WikiData/WD~revolution,10931|WD~revolution,10931]]'
+part_of: '[[/_Standards/WikiData/WD~Atlantic_Revolutions,3108868|WD~Atlantic_Revolutions,3108868]]'
+on_focus_list_of_Wikimedia_project: '[[/_Standards/WikiData/WD~WikiProject_African_diaspora,15304953|WD~WikiProject_African_diaspora,15304953]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20for%20Palm%20Tree%20Hill.jpg
 point_in_time: 1804-01-01T00:00:00Z
 end_time: 1804-01-01T00:00:00Z
@@ -179,7 +179,7 @@ dv_has_:
 
 # [[1791-Haitian_Revolution+1804]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Haitian_Revolution,689128|WD~Haitian_Revolution,689128]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Haitian_Revolution,689128|WD~Haitian_Revolution,689128]] 
 
 ## #has_/text_of_/abstract 
 

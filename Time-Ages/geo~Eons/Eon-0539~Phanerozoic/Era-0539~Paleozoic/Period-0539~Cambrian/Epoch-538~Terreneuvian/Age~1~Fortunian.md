@@ -29,17 +29,17 @@ aliases:
 - 포츈절
 has_id_wikidata: Q1424618
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-significant_place: '[[_Standards/WikiData/WD~Fortune,3078545|WD~Fortune,3078545]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+significant_place: '[[/_Standards/WikiData/WD~Fortune,3078545|WD~Fortune,3078545]]'
 named_after:
-- '[[_Standards/WikiData/WD~Fortune,3078545|WD~Fortune,3078545]]'
-- '[[_Standards/WikiData/WD~Fortune_Head_Ecological_Reserve,3457657|WD~Fortune_Head_Ecological_Reserve,3457657]]'
+- '[[/_Standards/WikiData/WD~Fortune,3078545|WD~Fortune,3078545]]'
+- '[[/_Standards/WikiData/WD~Fortune_Head_Ecological_Reserve,3457657|WD~Fortune_Head_Ecological_Reserve,3457657]]'
 type_locality_geology_:
-- '[[_Standards/WikiData/WD~Fortune_Head_Ecological_Reserve,3457657|WD~Fortune_Head_Ecological_Reserve,3457657]]'
-- '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Fortunian,63565917|WD~GSSP_for_the_base_of_the_Fortunian,63565917]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Fortunian,30869627|WD~Category_Fortunian,30869627]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[/_Standards/WikiData/WD~Fortune_Head_Ecological_Reserve,3457657|WD~Fortune_Head_Ecological_Reserve,3457657]]'
+- '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_the_Fortunian,63565917|WD~GSSP_for_the_base_of_the_Fortunian,63565917]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Fortunian,30869627|WD~Category_Fortunian,30869627]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 end_time: -529000000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fortune%20Head%20GSSP%2C%20Newfoundland.jpg
 sRGB_color_hex_triplet: 99B575
@@ -99,7 +99,7 @@ dv_has_:
     stopped: -529.0e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Fortunian,1424618|WD~Fortunian,1424618]]'
+  - '[[/_Standards/WikiData/WD~Fortunian,1424618|WD~Fortunian,1424618]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age~1~Fortunian|Age~1~Fortunian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age~1~Fortunian.public|Age~1~Fortunian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age~1~Fortunian.internal|Age~1~Fortunian.internal]]'
@@ -113,7 +113,7 @@ dv_has_duration_years:
 dv_has_previous_item: '[[../../../../Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0635~Ediacaran|Period-0635~Ediacaran]]'
 dv_has_next_item: '[[Age-529~Tommotian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Fortunian,1424618|WD~Fortunian,1424618]]'
+- '[[/_Standards/WikiData/WD~Fortunian,1424618|WD~Fortunian,1424618]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age~1~Fortunian|Age~1~Fortunian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age~1~Fortunian.public|Age~1~Fortunian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian/Age~1~Fortunian.internal|Age~1~Fortunian.internal]]'
@@ -160,7 +160,7 @@ A time period from 538.8 to 529 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Fortunian,1424618|WD~Fortunian,1424618]]  
+#is_/same_as :: [[/_Standards/WikiData/WD~Fortunian,1424618|WD~Fortunian,1424618]]  
 
 ![[../../../../../../../xLarge/Earth/Geology/Earth-530_Ma_(Fortunian_Age).png|Earth-530_Ma_(Fortunian_Age).png]] 
 

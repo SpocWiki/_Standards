@@ -24,11 +24,11 @@ aliases:
 - 러들로세
 has_id_wikidata: Q1065155
 instance_of:
-- '[[_Standards/WikiData/WD~series,312468|WD~series,312468]]'
-- '[[_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
-named_after: '[[_Standards/WikiData/WD~Ludlow,839811|WD~Ludlow,839811]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Ludlow_epoch,30869538|WD~Category_Ludlow_epoch,30869538]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[/_Standards/WikiData/WD~series,312468|WD~series,312468]]'
+- '[[/_Standards/WikiData/WD~epoch,754897|WD~epoch,754897]]'
+named_after: '[[/_Standards/WikiData/WD~Ludlow,839811|WD~Ludlow,839811]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Ludlow_epoch,30869538|WD~Category_Ludlow_epoch,30869538]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 sRGB_color_hex_triplet: B4E5DB
 Commons_category: Ludlow Epoch
 start_time: -427400000-01-01T00:00:00Z
@@ -84,7 +84,7 @@ dv_has_:
     stopped: -419.2e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Ludlow,1065155|WD~Ludlow,1065155]]'
+  - '[[/_Standards/WikiData/WD~Ludlow,1065155|WD~Ludlow,1065155]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow|Epoch-427~Ludlow]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow.public|Epoch-427~Ludlow.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow.internal|Epoch-427~Ludlow.internal]]'
@@ -96,7 +96,7 @@ dv_has_duration_years: 8.200e+6
 dv_has_previous_item: '[[Epoch-433~Wenlock]]'
 dv_has_next_item: '[[Epoch-423~Pridoli]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Ludlow,1065155|WD~Ludlow,1065155]]'
+- '[[/_Standards/WikiData/WD~Ludlow,1065155|WD~Ludlow,1065155]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow|Epoch-427~Ludlow]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow.public|Epoch-427~Ludlow.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow.internal|Epoch-427~Ludlow.internal]]'
@@ -138,7 +138,7 @@ dv_has_text_of_color: 0xBFE6CF
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Ludlow,1065155|WD~Ludlow,1065155]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Ludlow,1065155|WD~Ludlow,1065155]] 
 
 A time period from 427.4 to 419.2 million years ago. 
 

@@ -2,13 +2,13 @@
 aliases:
   - Wait But Why
 has_id_wikidata: Q22080717
-distribution_format: "[[_Standards/WikiData/WD~audio_podcast,24633474]]"
-creator: "[[_Standards/WikiData/WD~Tim_Urban,114349266]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
+distribution_format: "[[/_Standards/WikiData/WD~audio_podcast,24633474]]"
+creator: "[[/_Standards/WikiData/WD~Tim_Urban,114349266]]"
+language_of_work_or_name: "[[/_Standards/WikiData/WD~English,1860]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~blog,30849]]"
-  - "[[_Standards/WikiData/WD~website,35127]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[/_Standards/WikiData/WD~blog,30849]]"
+  - "[[/_Standards/WikiData/WD~website,35127]]"
+country: "[[/_Standards/WikiData/WD~United_States,30]]"
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Wait%20But%20Why%20Logo.png
 official_website: https://waitbutwhy.com
 domain_name: waitbutwhy.com

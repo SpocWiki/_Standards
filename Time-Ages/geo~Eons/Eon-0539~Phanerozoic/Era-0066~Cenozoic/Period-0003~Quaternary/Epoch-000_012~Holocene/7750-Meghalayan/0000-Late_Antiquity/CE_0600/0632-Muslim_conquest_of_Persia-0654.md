@@ -62,26 +62,26 @@ aliases:
 - 이슬람의 페르시아 정복
 has_id_wikidata: Q887684
 participant:
-- '[[_Standards/WikiData/WD~Sasanian_Empire,83891|WD~Sasanian_Empire,83891]]'
-- '[[_Standards/WikiData/WD~Arab_Christians,431164|WD~Arab_Christians,431164]]'
-- '[[_Standards/WikiData/WD~House_of_Karen,769552|WD~House_of_Karen,769552]]'
-- '[[_Standards/WikiData/WD~Dabuyid_dynasty,2816439|WD~Dabuyid_dynasty,2816439]]'
-- '[[_Standards/WikiData/WD~House_of_Mihrān,3313087|WD~House_of_Mihrān,3313087]]'
-- '[[_Standards/WikiData/WD~Rashidun_Caliphate,12490507|WD~Rashidun_Caliphate,12490507]]'
-- '[[_Standards/WikiData/WD~House_of_Ispahbudhan,17004913|WD~House_of_Ispahbudhan,17004913]]'
-- '[[_Standards/WikiData/WD~Byzantine_Empire,12544|WD~Byzantine_Empire,12544]]'
-- '[[_Standards/WikiData/WD~Hephthalites,26576|WD~Hephthalites,26576]]'
+- '[[/_Standards/WikiData/WD~Sasanian_Empire,83891|WD~Sasanian_Empire,83891]]'
+- '[[/_Standards/WikiData/WD~Arab_Christians,431164|WD~Arab_Christians,431164]]'
+- '[[/_Standards/WikiData/WD~House_of_Karen,769552|WD~House_of_Karen,769552]]'
+- '[[/_Standards/WikiData/WD~Dabuyid_dynasty,2816439|WD~Dabuyid_dynasty,2816439]]'
+- '[[/_Standards/WikiData/WD~House_of_Mihrān,3313087|WD~House_of_Mihrān,3313087]]'
+- '[[/_Standards/WikiData/WD~Rashidun_Caliphate,12490507|WD~Rashidun_Caliphate,12490507]]'
+- '[[/_Standards/WikiData/WD~House_of_Ispahbudhan,17004913|WD~House_of_Ispahbudhan,17004913]]'
+- '[[/_Standards/WikiData/WD~Byzantine_Empire,12544|WD~Byzantine_Empire,12544]]'
+- '[[/_Standards/WikiData/WD~Hephthalites,26576|WD~Hephthalites,26576]]'
 location:
-- '[[_Standards/WikiData/WD~Sasanian_Empire,83891|WD~Sasanian_Empire,83891]]'
-- '[[_Standards/WikiData/WD~Azerbaijan,274536|WD~Azerbaijan,274536]]'
-- '[[_Standards/WikiData/WD~Makran,695111|WD~Makran,695111]]'
-- '[[_Standards/WikiData/WD~Khorasan,2352322|WD~Khorasan,2352322]]'
-- '[[_Standards/WikiData/WD~Fars_(land),4121865|WD~Fars_(land),4121865]]'
-- '[[_Standards/WikiData/WD~Arab_Iraq,6000379|WD~Arab_Iraq,6000379]]'
-- '[[_Standards/WikiData/WD~Persian_Iraq,17043605|WD~Persian_Iraq,17043605]]'
+- '[[/_Standards/WikiData/WD~Sasanian_Empire,83891|WD~Sasanian_Empire,83891]]'
+- '[[/_Standards/WikiData/WD~Azerbaijan,274536|WD~Azerbaijan,274536]]'
+- '[[/_Standards/WikiData/WD~Makran,695111|WD~Makran,695111]]'
+- '[[/_Standards/WikiData/WD~Khorasan,2352322|WD~Khorasan,2352322]]'
+- '[[/_Standards/WikiData/WD~Fars_(land),4121865|WD~Fars_(land),4121865]]'
+- '[[/_Standards/WikiData/WD~Arab_Iraq,6000379|WD~Arab_Iraq,6000379]]'
+- '[[/_Standards/WikiData/WD~Persian_Iraq,17043605|WD~Persian_Iraq,17043605]]'
 instance_of:
-- '[[_Standards/WikiData/WD~conquest,1361229|WD~conquest,1361229]]'
-- '[[_Standards/WikiData/WD~war,198|WD~war,198]]'
+- '[[/_Standards/WikiData/WD~conquest,1361229|WD~conquest,1361229]]'
+- '[[/_Standards/WikiData/WD~war,198|WD~war,198]]'
 end_time: 0654-01-01T00:00:00Z
 start_time: 0633-01-01T00:00:00Z
 Commons_category: Muslim conquest of Persia
@@ -175,7 +175,7 @@ dv_has_:
 
 # [[0632-Muslim_conquest_of_Persia-0654]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Muslim_conquest_of_Persia,887684|WD~Muslim_conquest_of_Persia,887684]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Muslim_conquest_of_Persia,887684|WD~Muslim_conquest_of_Persia,887684]] 
 
 ## #has_/text_of_/abstract 
 

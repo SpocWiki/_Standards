@@ -37,11 +37,11 @@ aliases:
 - 시데리아기
 has_id_wikidata: Q870498
 instance_of:
-- '[[_Standards/WikiData/WD~period,392928|WD~period,392928]]'
-- '[[_Standards/WikiData/WD~system,403523|WD~system,403523]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Siderian,131224401|WD~Category_Siderian,131224401]]'
-named_after: '[[_Standards/WikiData/WD~iron,677|WD~iron,677]]'
+- '[[/_Standards/WikiData/WD~period,392928|WD~period,392928]]'
+- '[[/_Standards/WikiData/WD~system,403523|WD~system,403523]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Siderian,131224401|WD~Category_Siderian,131224401]]'
+named_after: '[[/_Standards/WikiData/WD~iron,677|WD~iron,677]]'
 end_time: -2300000000-01-01T00:00:00Z
 start_time: -2500000000-01-01T00:00:00Z
 Commons_category: Siderian
@@ -114,7 +114,7 @@ dv_has_:
     stopped: -2.3e9
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Siderian,870498|WD~Siderian,870498]]'
+  - '[[/_Standards/WikiData/WD~Siderian,870498|WD~Siderian,870498]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2500~Siderian|Period-2500~Siderian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2500~Siderian.public|Period-2500~Siderian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2500~Siderian.internal|Period-2500~Siderian.internal]]'
@@ -126,7 +126,7 @@ dv_has_duration_years: 2.000e+8
 dv_has_previous_item: '[[../../Eon-4031~Archean/Era-2800~Neoarchean|Era~4~Neoarchean]]'
 dv_has_next_item: '[[Period-2300~Rhyacian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Siderian,870498|WD~Siderian,870498]]'
+- '[[/_Standards/WikiData/WD~Siderian,870498|WD~Siderian,870498]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2500~Siderian|Period-2500~Siderian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2500~Siderian.public|Period-2500~Siderian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2500~Siderian.internal|Period-2500~Siderian.internal]]'
@@ -169,7 +169,7 @@ dv_has_text_of_color: 0xF74F7C
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Siderian,870498|WD~Siderian,870498]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Siderian,870498|WD~Siderian,870498]] 
 
 ## #has_/text_of_/abstract 
 

@@ -92,27 +92,27 @@ aliases:
 - 지하수
 has_id_wikidata: Q161598
 has_part_s_:
-- '[[_Standards/WikiData/WD~artesian_well,177734|WD~artesian_well,177734]]'
-- '[[_Standards/WikiData/WD~Q18511923,18511923|WD~Q18511923,18511923]]'
-studied_by: '[[_Standards/WikiData/WD~hydrogeology,179509|WD~hydrogeology,179509]]'
+- '[[/_Standards/WikiData/WD~artesian_well,177734|WD~artesian_well,177734]]'
+- '[[/_Standards/WikiData/WD~Q18511923,18511923|WD~Q18511923,18511923]]'
+studied_by: '[[/_Standards/WikiData/WD~hydrogeology,179509|WD~hydrogeology,179509]]'
 different_from:
-- '[[_Standards/WikiData/WD~surface_water,752112|WD~surface_water,752112]]'
-- '[[_Standards/WikiData/WD~spring_water,1881858|WD~spring_water,1881858]]'
-- '[[_Standards/WikiData/WD~groundwater_body,3335983|WD~groundwater_body,3335983]]'
-- '[[_Standards/WikiData/WD~artesian_water,11959188|WD~artesian_water,11959188]]'
-- '[[_Standards/WikiData/WD~Q18511923,18511923|WD~Q18511923,18511923]]'
-- '[[_Standards/WikiData/WD~non_drinking_water,62026522|WD~non_drinking_water,62026522]]'
-- '[[_Standards/WikiData/WD~drinking_water,7892|WD~drinking_water,7892]]'
-opposite_of: '[[_Standards/WikiData/WD~surface_water,752112|WD~surface_water,752112]]'
-followed_by: '[[_Standards/WikiData/WD~surface_water,752112|WD~surface_water,752112]]'
+- '[[/_Standards/WikiData/WD~surface_water,752112|WD~surface_water,752112]]'
+- '[[/_Standards/WikiData/WD~spring_water,1881858|WD~spring_water,1881858]]'
+- '[[/_Standards/WikiData/WD~groundwater_body,3335983|WD~groundwater_body,3335983]]'
+- '[[/_Standards/WikiData/WD~artesian_water,11959188|WD~artesian_water,11959188]]'
+- '[[/_Standards/WikiData/WD~Q18511923,18511923|WD~Q18511923,18511923]]'
+- '[[/_Standards/WikiData/WD~non_drinking_water,62026522|WD~non_drinking_water,62026522]]'
+- '[[/_Standards/WikiData/WD~drinking_water,7892|WD~drinking_water,7892]]'
+opposite_of: '[[/_Standards/WikiData/WD~surface_water,752112|WD~surface_water,752112]]'
+followed_by: '[[/_Standards/WikiData/WD~surface_water,752112|WD~surface_water,752112]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~raw_water,832131|WD~raw_water,832131]]'
-- '[[_Standards/WikiData/WD~land_waters,863944|WD~land_waters,863944]]'
-locations: '[[_Standards/WikiData/WD~subterranea,863404|WD~subterranea,863404]]'
+- '[[/_Standards/WikiData/WD~raw_water,832131|WD~raw_water,832131]]'
+- '[[/_Standards/WikiData/WD~land_waters,863944|WD~land_waters,863944]]'
+locations: '[[/_Standards/WikiData/WD~subterranea,863404|WD~subterranea,863404]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823|WD~Encyclopedia_of_Armenian_Nature,16387823]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q20551718,20551718|WD~Q20551718,20551718]]'
+- '[[/_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823|WD~Encyclopedia_of_Armenian_Nature,16387823]]'
+- '[[/_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+permanent_duplicated_item: '[[/_Standards/WikiData/WD~Q20551718,20551718|WD~Q20551718,20551718]]'
 OmegaWiki_Defined_Meaning: 1697
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Felsen%20als%20Wasserspeicher%20f%C3%BCr%20Pflanzen.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Shipot.jpg
@@ -249,7 +249,7 @@ dv_has_:
 
 # [[Groundwater]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Groundwater,161598|WD~Groundwater,161598]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Groundwater,161598|WD~Groundwater,161598]] 
 ## #has_/text_of_/abstract 
 
 > **Groundwater** is the water present beneath Earth's surface in rock and soil pore spaces 

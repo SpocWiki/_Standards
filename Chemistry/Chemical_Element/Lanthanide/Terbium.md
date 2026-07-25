@@ -74,39 +74,39 @@ chemical_formula: Tb
 Commons_category: Terbium
 Commons_gallery: Terbium
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Carl_Gustaf_Mosander,468316|WD~Carl_Gustaf_Mosander,468316]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+discoverer_or_inventor: '[[/_Standards/WikiData/WD~Carl_Gustaf_Mosander,468316|WD~Carl_Gustaf_Mosander,468316]]'
 DSSTOX_compound_identifier: DTXCID6047656
 EC_number: 231-137-6
 electronegativity: 1.2
 element_symbol: Tb
-found_in_taxon: '[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961|WD~Paris_polyphylla_var._chinensis,10905961]]'
+found_in_taxon: '[[/_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961|WD~Paris_polyphylla_var._chinensis,10905961]]'
 Gmelin_number: 16311
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Terbium%20element.jpg
 InChI: InChI=1S/Tb
 InChIKey: GZCRRIHWUXGPOV-UHFFFAOYSA-N
-instance_of: '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+instance_of: '[[/_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 0.76
 - 0.88
 - 0.92
 - 1.04
-location_of_discovery: '[[_Standards/WikiData/WD~Stockholm,1754|WD~Stockholm,1754]]'
+location_of_discovery: '[[/_Standards/WikiData/WD~Stockholm,1754|WD~Stockholm,1754]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~bastnäsite_mineral_group,3777619|WD~bastnäsite_mineral_group,3777619]]'
-- '[[_Standards/WikiData/WD~monazite_mineral_group,3777755|WD~monazite_mineral_group,3777755]]'
-- '[[_Standards/WikiData/WD~xenotime_mineral_group,3777882|WD~xenotime_mineral_group,3777882]]'
-- '[[_Standards/WikiData/WD~euxenite_mineral_group,18016084|WD~euxenite_mineral_group,18016084]]'
+- '[[/_Standards/WikiData/WD~bastnäsite_mineral_group,3777619|WD~bastnäsite_mineral_group,3777619]]'
+- '[[/_Standards/WikiData/WD~monazite_mineral_group,3777755|WD~monazite_mineral_group,3777755]]'
+- '[[/_Standards/WikiData/WD~xenotime_mineral_group,3777882|WD~xenotime_mineral_group,3777882]]'
+- '[[/_Standards/WikiData/WD~euxenite_mineral_group,18016084|WD~euxenite_mineral_group,18016084]]'
 mass: 158.925354
 MeSH_tree_code:
 - D01.268.558.362.968
 - D01.552.550.399.968
-named_after: '[[_Standards/WikiData/WD~Ytterby_mine,631733|WD~Ytterby_mine,631733]]'
+named_after: '[[/_Standards/WikiData/WD~Ytterby_mine,631733|WD~Ytterby_mine,631733]]'
 OmegaWiki_Defined_Meaning: 364226
 part_of:
-- '[[_Standards/WikiData/WD~period_6,239813|WD~period_6,239813]]'
-- '[[_Standards/WikiData/WD~lanthanide,19569|WD~lanthanide,19569]]'
+- '[[/_Standards/WikiData/WD~period_6,239813|WD~period_6,239813]]'
+- '[[/_Standards/WikiData/WD~lanthanide,19569|WD~lanthanide,19569]]'
 PubChem_CID: 23958
 SpocWebEntityId: 21961
 time_of_discovery_or_invention: 1843

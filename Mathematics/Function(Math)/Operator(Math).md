@@ -18,8 +18,8 @@ aliases:
 - 演算子
 - 运算符
 has_id_wikidata: Q3354588
-part_of: '[[_Standards/WikiData/WD~mathematical_operation,3884033|WD~mathematical_operation,3884033]]'
-subclass_of: '[[_Standards/WikiData/WD~mathematical_symbol,10376408|WD~mathematical_symbol,10376408]]'
+part_of: '[[/_Standards/WikiData/WD~mathematical_operation,3884033|WD~mathematical_operation,3884033]]'
+subclass_of: '[[/_Standards/WikiData/WD~mathematical_symbol,10376408|WD~mathematical_symbol,10376408]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Basic%20arithmetic%20operators.svg
 Commons_category: Operators (notation)
 dv_has_:
@@ -60,7 +60,7 @@ dv_has_:
 
 # [[Operator(Math)]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~operator,3354588|WD~operator,3354588]]
+#is_/same_as :: [[/_Standards/WikiData/WD~operator,3354588|WD~operator,3354588]]
 
 ## #has_/text_of_/abstract 
 

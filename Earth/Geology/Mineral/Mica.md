@@ -57,23 +57,23 @@ aliases:
 - 雲母
 - 운모
 has_id_wikidata: Q114675
-subclass_of: '[[_Standards/WikiData/WD~phyllosilicates,429681|WD~phyllosilicates,429681]]'
+subclass_of: '[[/_Standards/WikiData/WD~phyllosilicates,429681|WD~phyllosilicates,429681]]'
 described_by_source:
 - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-crystal_system: '[[_Standards/WikiData/WD~monoclinic_crystal_system,624543|WD~monoclinic_crystal_system,624543]]'
-instance_of: '[[_Standards/WikiData/WD~mineral_supergroup,3977918|WD~mineral_supergroup,3977918]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[/_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[/_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[/_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+crystal_system: '[[/_Standards/WikiData/WD~monoclinic_crystal_system,624543|WD~monoclinic_crystal_system,624543]]'
+instance_of: '[[/_Standards/WikiData/WD~mineral_supergroup,3977918|WD~mineral_supergroup,3977918]]'
 different_from:
-- '[[_Standards/WikiData/WD~Mica,11845493|WD~Mica,11845493]]'
-- '[[_Standards/WikiData/WD~Mica,15976142|WD~Mica,15976142]]'
-associated_hazard: '[[_Standards/WikiData/WD~exposure_to_mica_minerals,21174932|WD~exposure_to_mica_minerals,21174932]]'
-has_effect: '[[_Standards/WikiData/WD~exposure_to_mica_minerals,21174932|WD~exposure_to_mica_minerals,21174932]]'
+- '[[/_Standards/WikiData/WD~Mica,11845493|WD~Mica,11845493]]'
+- '[[/_Standards/WikiData/WD~Mica,15976142|WD~Mica,15976142]]'
+associated_hazard: '[[/_Standards/WikiData/WD~exposure_to_mica_minerals,21174932|WD~exposure_to_mica_minerals,21174932]]'
+has_effect: '[[/_Standards/WikiData/WD~exposure_to_mica_minerals,21174932|WD~exposure_to_mica_minerals,21174932]]'
 vapor_pressure: 0
 time_weighted_average_exposure_limit: 3
 melting_point: 700
@@ -206,7 +206,7 @@ dv_has_:
 
 # [[Mica]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mica,114675|WD~Mica,114675]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Mica,114675|WD~Mica,114675]] 
 
 ## #has_/text_of_/abstract 
 

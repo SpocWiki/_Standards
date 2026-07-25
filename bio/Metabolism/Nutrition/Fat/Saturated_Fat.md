@@ -49,12 +49,12 @@ aliases:
 - 飽和脂肪
 - 포화 지방
 has_id_wikidata: Q970537
-subclass_of: '[[_Standards/WikiData/WD~fat,127980|WD~fat,127980]]'
-opposite_of: '[[_Standards/WikiData/WD~unsaturated_fat,652555|WD~unsaturated_fat,652555]]'
-different_from: '[[_Standards/WikiData/WD~saturated_fatty_acid,11789887|WD~saturated_fatty_acid,11789887]]'
+subclass_of: '[[/_Standards/WikiData/WD~fat,127980|WD~fat,127980]]'
+opposite_of: '[[/_Standards/WikiData/WD~unsaturated_fat,652555|WD~unsaturated_fat,652555]]'
+different_from: '[[/_Standards/WikiData/WD~saturated_fatty_acid,11789887|WD~saturated_fatty_acid,11789887]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~carbon,623|WD~carbon,623]]'
-- '[[_Standards/WikiData/WD~oxygen,629|WD~oxygen,629]]'
+- '[[/_Standards/WikiData/WD~carbon,623|WD~carbon,623]]'
+- '[[/_Standards/WikiData/WD~oxygen,629|WD~oxygen,629]]'
 dv_has_:
   name_:
     ar: دهن مشبع
@@ -114,7 +114,7 @@ dv_has_:
 
 # [[Saturated_Fat]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~saturated_fat,970537|WD~saturated_fat,970537]]
+#is_/same_as :: [[/_Standards/WikiData/WD~saturated_fat,970537|WD~saturated_fat,970537]]
 
 ## #has_/text_of_/abstract 
 

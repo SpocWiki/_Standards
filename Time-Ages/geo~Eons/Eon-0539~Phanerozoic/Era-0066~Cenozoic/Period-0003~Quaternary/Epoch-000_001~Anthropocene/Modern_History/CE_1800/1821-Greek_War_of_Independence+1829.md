@@ -74,18 +74,18 @@ aliases:
 - 그리스 독립 전쟁
 has_id_wikidata: Q182062
 participant:
-- '[[_Standards/WikiData/WD~Greeks,539051|WD~Greeks,539051]]'
-- '[[_Standards/WikiData/WD~Ottoman_Empire,12560|WD~Ottoman_Empire,12560]]'
-instance_of: '[[_Standards/WikiData/WD~war_of_national_liberation,1006311|WD~war_of_national_liberation,1006311]]'
+- '[[/_Standards/WikiData/WD~Greeks,539051|WD~Greeks,539051]]'
+- '[[/_Standards/WikiData/WD~Ottoman_Empire,12560|WD~Ottoman_Empire,12560]]'
+instance_of: '[[/_Standards/WikiData/WD~war_of_national_liberation,1006311|WD~war_of_national_liberation,1006311]]'
 part_of:
-- '[[_Standards/WikiData/WD~history_of_the_Ottoman_Empire,2564225|WD~history_of_the_Ottoman_Empire,2564225]]'
-- '[[_Standards/WikiData/WD~history_of_Greece,7794|WD~history_of_Greece,7794]]'
+- '[[/_Standards/WikiData/WD~history_of_the_Ottoman_Empire,2564225|WD~history_of_the_Ottoman_Empire,2564225]]'
+- '[[/_Standards/WikiData/WD~history_of_Greece,7794|WD~history_of_Greece,7794]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-significant_event: '[[_Standards/WikiData/WD~Q18415361,18415361|WD~Q18415361,18415361]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q106222861,106222861|WD~Q106222861,106222861]]'
-locations: '[[_Standards/WikiData/WD~Ottoman_Empire,12560|WD~Ottoman_Empire,12560]]'
+- '[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+significant_event: '[[/_Standards/WikiData/WD~Q18415361,18415361|WD~Q18415361,18415361]]'
+topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Q106222861,106222861|WD~Q106222861,106222861]]'
+locations: '[[/_Standards/WikiData/WD~Ottoman_Empire,12560|WD~Ottoman_Empire,12560]]'
 end_time: 1829-01-01T00:00:00Z
 start_time: 1821-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dupre-Salona-1821.jpg
@@ -195,7 +195,7 @@ dv_has_:
 
 # [[1821-Greek_War_of_Independence+1829]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Greek_War_of_Independence,182062|WD~Greek_War_of_Independence,182062]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Greek_War_of_Independence,182062|WD~Greek_War_of_Independence,182062]] 
 
 ## #has_/text_of_/abstract 
 

@@ -26,16 +26,16 @@ aliases:
 - 巴柔期
 - 바욕절
 has_id_wikidata: Q375180
-named_after: '[[_Standards/WikiData/WD~Bayeux,183910|WD~Bayeux,183910]]'
-named_by: "[[_Standards/WikiData/WD~Alcide_d'Orbigny,344661|WD~Alcide_d'Orbigny,344661]]"
+named_after: '[[/_Standards/WikiData/WD~Bayeux,183910|WD~Bayeux,183910]]'
+named_by: "[[/_Standards/WikiData/WD~Alcide_d'Orbigny,344661|WD~Alcide_d'Orbigny,344661]]"
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-significant_place: '[[_Standards/WikiData/WD~Cabo_Mondego,655636|WD~Cabo_Mondego,655636]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Bajocian,21697525|WD~Category_Bajocian,21697525]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Bajocian,134269198|WD~GSSP_for_the_base_of_the_Bajocian,134269198]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+significant_place: '[[/_Standards/WikiData/WD~Cabo_Mondego,655636|WD~Cabo_Mondego,655636]]'
+described_by_source: '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Bajocian,21697525|WD~Category_Bajocian,21697525]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_the_Bajocian,134269198|WD~GSSP_for_the_base_of_the_Bajocian,134269198]]'
 start_time: -170300000-01-01T00:00:00Z
 end_time: -168300000-01-01T00:00:00Z
 sRGB_color_hex_triplet: 9CE2EF
@@ -94,7 +94,7 @@ dv_has_:
     stopped: -168.2e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Bajocian,375180|WD~Bajocian,375180]]'
+  - '[[/_Standards/WikiData/WD~Bajocian,375180|WD~Bajocian,375180]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian|Age~2~Bajocian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.public|Age~2~Bajocian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.internal|Age~2~Bajocian.internal]]'
@@ -106,7 +106,7 @@ dv_has_duration_years: 2.700e+6
 dv_has_previous_item: '[[Age~1~Aalenian]]'
 dv_has_next_item: '[[Age~3~Bathonian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Bajocian,375180|WD~Bajocian,375180]]'
+- '[[/_Standards/WikiData/WD~Bajocian,375180|WD~Bajocian,375180]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian|Age~2~Bajocian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.public|Age~2~Bajocian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.internal|Age~2~Bajocian.internal]]'
@@ -148,7 +148,7 @@ dv_has_text_of_color: 0xA6DDE0
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Bajocian,375180|WD~Bajocian,375180]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Bajocian,375180|WD~Bajocian,375180]] 
 
 A time period from 170.9 to 168.2 million years ago. 
 

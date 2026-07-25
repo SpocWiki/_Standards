@@ -7,8 +7,8 @@ aliases:
 - دوندهپایان
 - 走脚亜綱
 has_id_wikidata: Q5308296
-taxon_rank: '[[_Standards/WikiData/WD~subclass,5867051|WD~subclass,5867051]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[/_Standards/WikiData/WD~subclass,5867051|WD~subclass,5867051]]'
+instance_of: '[[/_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pseudoscorpion%20-%20Soil%20Fauna%20Diversity.jpeg
 taxon_name: Dromopoda
 dv_has_:

@@ -77,26 +77,26 @@ aliases:
 - 볼가 불가르
 has_id_wikidata: Q185488
 capital:
-- '[[_Standards/WikiData/WD~Bolğar,105284|WD~Bolğar,105284]]'
-- '[[_Standards/WikiData/WD~Bolghar_Gord,2486263|WD~Bolghar_Gord,2486263]]'
-- '[[_Standards/WikiData/WD~Bilär,2603563|WD~Bilär,2603563]]'
+- '[[/_Standards/WikiData/WD~Bolğar,105284|WD~Bolğar,105284]]'
+- '[[/_Standards/WikiData/WD~Bolghar_Gord,2486263|WD~Bolghar_Gord,2486263]]'
+- '[[/_Standards/WikiData/WD~Bilär,2603563|WD~Bilär,2603563]]'
 currency:
-- '[[_Standards/WikiData/WD~dinar,191830|WD~dinar,191830]]'
-- '[[_Standards/WikiData/WD~som,2361916|WD~som,2361916]]'
+- '[[/_Standards/WikiData/WD~dinar,191830|WD~dinar,191830]]'
+- '[[/_Standards/WikiData/WD~som,2361916|WD~som,2361916]]'
 official_religion:
-- '[[_Standards/WikiData/WD~Tengrism,837605|WD~Tengrism,837605]]'
-- '[[_Standards/WikiData/WD~Slavic_religion,838267|WD~Slavic_religion,838267]]'
-- '[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-different_from: '[[_Standards/WikiData/WD~Bulgarian_Empire,2067184|WD~Bulgarian_Empire,2067184]]'
-instance_of: '[[_Standards/WikiData/WD~historical_country,3024240|WD~historical_country,3024240]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q3748341,3748341|WD~Q3748341,3748341]]'
+- '[[/_Standards/WikiData/WD~Tengrism,837605|WD~Tengrism,837605]]'
+- '[[/_Standards/WikiData/WD~Slavic_religion,838267|WD~Slavic_religion,838267]]'
+- '[[/_Standards/WikiData/WD~Islam,432|WD~Islam,432]]'
+described_by_source: '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+different_from: '[[/_Standards/WikiData/WD~Bulgarian_Empire,2067184|WD~Bulgarian_Empire,2067184]]'
+instance_of: '[[/_Standards/WikiData/WD~historical_country,3024240|WD~historical_country,3024240]]'
+permanent_duplicated_item: '[[/_Standards/WikiData/WD~Q3748341,3748341|WD~Q3748341,3748341]]'
 coordinate_location: Point(49.033333333 54.966666666)
-basic_form_of_government: '[[_Standards/WikiData/WD~monarchy,7269|WD~monarchy,7269]]'
-continent: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
+basic_form_of_government: '[[/_Standards/WikiData/WD~monarchy,7269|WD~monarchy,7269]]'
+continent: '[[/_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
 population: 2000000
-language_used: '[[_Standards/WikiData/WD~Bulgar,36880|WD~Bulgar,36880]]'
-official_language: '[[_Standards/WikiData/WD~Bulgar,36880|WD~Bulgar,36880]]'
+language_used: '[[/_Standards/WikiData/WD~Bulgar,36880|WD~Bulgar,36880]]'
+official_language: '[[/_Standards/WikiData/WD~Bulgar,36880|WD~Bulgar,36880]]'
 inception: 0601-01-01T00:00:00Z
 seal_image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D1%8C%20%D0%A1%D0%B5%D0%BB%D0%B8%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%89%D0%B5.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/VolgaBulgaria1200.png
@@ -215,7 +215,7 @@ dv_has_:
 
 # [[0600-Volga_Bulgaria+1200]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Volga_Bulgaria,185488|WD~Volga_Bulgaria,185488]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Volga_Bulgaria,185488|WD~Volga_Bulgaria,185488]] 
 
 ## #has_/text_of_/abstract 
 

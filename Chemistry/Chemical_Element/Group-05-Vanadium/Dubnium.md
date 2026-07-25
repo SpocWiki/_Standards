@@ -70,29 +70,29 @@ atomic_number: 105
 CAS_Registry_Number: 53850-35-4
 Commons_category: Dubnium
 Commons_gallery: Dubnium
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+described_by_source: '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Joint_Institute_for_Nuclear_Research,259517|WD~Joint_Institute_for_Nuclear_Research,259517]]'
-- '[[_Standards/WikiData/WD~Lawrence_Berkeley_National_Laboratory,1133630|WD~Lawrence_Berkeley_National_Laboratory,1133630]]'
+- '[[/_Standards/WikiData/WD~Joint_Institute_for_Nuclear_Research,259517|WD~Joint_Institute_for_Nuclear_Research,259517]]'
+- '[[/_Standards/WikiData/WD~Lawrence_Berkeley_National_Laboratory,1133630|WD~Lawrence_Berkeley_National_Laboratory,1133630]]'
 DSSTOX_compound_identifier: DTXCID801323011
 EC_number: 611-058-7
 electron_configuration: '[Rn] 5f¹⁴ 6d³ 7s²'
 element_symbol: Db
-has_characteristic: '[[_Standards/WikiData/WD~radioactivity,11448|WD~radioactivity,11448]]'
+has_characteristic: '[[/_Standards/WikiData/WD~radioactivity,11448|WD~radioactivity,11448]]'
 instance_of:
-- '[[_Standards/WikiData/WD~synthetic_element,755992|WD~synthetic_element,755992]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+- '[[/_Standards/WikiData/WD~synthetic_element,755992|WD~synthetic_element,755992]]'
+- '[[/_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%94%D1%83%D0%B1%D0%BD%D0%B8%D0%B9.jpg
-named_after: '[[_Standards/WikiData/WD~Dubna,135466|WD~Dubna,135466]]'
+named_after: '[[/_Standards/WikiData/WD~Dubna,135466|WD~Dubna,135466]]'
 OmegaWiki_Defined_Meaning: 157650
 part_of:
-- '[[_Standards/WikiData/WD~group_5,193276|WD~group_5,193276]]'
-- '[[_Standards/WikiData/WD~period_7,244979|WD~period_7,244979]]'
+- '[[/_Standards/WikiData/WD~group_5,193276|WD~group_5,193276]]'
+- '[[/_Standards/WikiData/WD~period_7,244979|WD~period_7,244979]]'
 schematic:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20105%20Dubnium.svg
 SpocWebEntityId: 22000
 subclass_of:
-- '[[_Standards/WikiData/WD~transition_metal,19588|WD~transition_metal,19588]]'
+- '[[/_Standards/WikiData/WD~transition_metal,19588|WD~transition_metal,19588]]'
 time_of_discovery_or_invention: 1970-02-18
 type: Element
 dv_is_:

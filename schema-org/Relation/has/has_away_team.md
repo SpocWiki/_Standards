@@ -32,7 +32,7 @@ dv_has_:
     property: "[[has_competitor]]"
   domain: "[[../../Class/is_a_/Event/Sports_Event|Sports_Event]]"
   name: has_away_team
-  range: "[[_Standards/Society/Agent/Person.md|Person]],[[_Standards/Society/Agent/Community/Organization/Sports_Organization/Sports_Team.md|Sports_Team]]"
+  range: "[[/_Standards/Society/Agent/Person.md|Person]],[[/_Standards/Society/Agent/Community/Organization/Sports_Organization/Sports_Team.md|Sports_Team]]"
 dv_is_:
   same_as:
     - "[[has_away_team]]"
@@ -46,7 +46,7 @@ dv_has_inverse: "[[is_away_team_of]]"
 dv_has_parent_property: "[[has_competitor]]"
 dv_has_domain: "[[../../Class/is_a_/Event/Sports_Event|Sports_Event]]"
 dv_has_name: has_away_team
-dv_has_range: "[[_Standards/Society/Agent/Person.md|Person]],[[_Standards/Society/Agent/Community/Organization/Sports_Organization/Sports_Team.md|Sports_Team]]"
+dv_has_range: "[[/_Standards/Society/Agent/Person.md|Person]],[[/_Standards/Society/Agent/Community/Organization/Sports_Organization/Sports_Team.md|Sports_Team]]"
 dv_is_same_as:
   - "[[has_away_team]]"
   - "[[/_public/schema-org/Relation/has/has_away_team.public|has_away_team.public]]"

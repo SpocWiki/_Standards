@@ -50,9 +50,9 @@ aliases:
 has_id_wikidata: Q34018
 subclass_of: '[[../../../WikiData/WD~Papuan,236425|WD~Papuan,236425]]'
 country:
-- '[[_Standards/WikiData/WD~Papua_New_Guinea,691|WD~Papua_New_Guinea,691]]'
-- '[[_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]'
-instance_of: '[[_Standards/WikiData/WD~language_family,25295|WD~language_family,25295]]'
+- '[[/_Standards/WikiData/WD~Papua_New_Guinea,691|WD~Papua_New_Guinea,691]]'
+- '[[/_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]'
+instance_of: '[[/_Standards/WikiData/WD~language_family,25295|WD~language_family,25295]]'
 number_of_speakers_writers_or_signers: 200000
 ISO_639_5_code: ngf
 IETF_language_tag: ngf

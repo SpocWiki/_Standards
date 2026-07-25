@@ -61,17 +61,17 @@ aliases:
 - 阿拉伯塔
 - 부르즈 알 아랍
 has_id_wikidata: Q62939
-architectural_style: '[[_Standards/WikiData/WD~high_tech_architecture,845318|WD~high_tech_architecture,845318]]'
-different_from: '[[_Standards/WikiData/WD~Borg_El_Arab,1043090|WD~Borg_El_Arab,1043090]]'
-owned_by: '[[_Standards/WikiData/WD~Jumeirah,1331200|WD~Jumeirah,1331200]]'
-architect: '[[_Standards/WikiData/WD~Tom_Wright,1335131|WD~Tom_Wright,1335131]]'
-structural_engineer: '[[_Standards/WikiData/WD~Atkins,1510450|WD~Atkins,1510450]]'
-hotel_rating: '[[_Standards/WikiData/WD~5_star_hotel_rating,109248725|WD~5_star_hotel_rating,109248725]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Dubai,612|WD~Dubai,612]]'
-country: '[[_Standards/WikiData/WD~United_Arab_Emirates,878|WD~United_Arab_Emirates,878]]'
+architectural_style: '[[/_Standards/WikiData/WD~high_tech_architecture,845318|WD~high_tech_architecture,845318]]'
+different_from: '[[/_Standards/WikiData/WD~Borg_El_Arab,1043090|WD~Borg_El_Arab,1043090]]'
+owned_by: '[[/_Standards/WikiData/WD~Jumeirah,1331200|WD~Jumeirah,1331200]]'
+architect: '[[/_Standards/WikiData/WD~Tom_Wright,1335131|WD~Tom_Wright,1335131]]'
+structural_engineer: '[[/_Standards/WikiData/WD~Atkins,1510450|WD~Atkins,1510450]]'
+hotel_rating: '[[/_Standards/WikiData/WD~5_star_hotel_rating,109248725|WD~5_star_hotel_rating,109248725]]'
+located_in_the_administrative_territorial_entity: '[[/_Standards/WikiData/WD~Dubai,612|WD~Dubai,612]]'
+country: '[[/_Standards/WikiData/WD~United_Arab_Emirates,878|WD~United_Arab_Emirates,878]]'
 instance_of:
-- '[[_Standards/WikiData/WD~tower_block,18142|WD~tower_block,18142]]'
-- '[[_Standards/WikiData/WD~hotel,27686|WD~hotel,27686]]'
+- '[[/_Standards/WikiData/WD~tower_block,18142|WD~tower_block,18142]]'
+- '[[/_Standards/WikiData/WD~hotel,27686|WD~hotel,27686]]'
 number_of_elevators: 20
 floors_below_ground: 3
 floors_above_ground: 56

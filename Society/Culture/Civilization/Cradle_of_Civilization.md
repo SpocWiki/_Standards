@@ -50,9 +50,9 @@ aliases:
 - 문명의 발상지
 has_id_wikidata: Q1207629
 subclass_of:
-- '[[_Standards/WikiData/WD~cultural_region,3502482|WD~cultural_region,3502482]]'
-- '[[_Standards/WikiData/WD~civilization,8432|WD~civilization,8432]]'
-different_from: '[[_Standards/WikiData/WD~Four_Great_Ancient_Civilizations,111193196|WD~Four_Great_Ancient_Civilizations,111193196]]'
+- '[[/_Standards/WikiData/WD~cultural_region,3502482|WD~cultural_region,3502482]]'
+- '[[/_Standards/WikiData/WD~civilization,8432|WD~civilization,8432]]'
+different_from: '[[/_Standards/WikiData/WD~Four_Great_Ancient_Civilizations,111193196|WD~Four_Great_Ancient_Civilizations,111193196]]'
 dv_has_:
   name_:
     ar: مهد الحضارة
@@ -113,7 +113,7 @@ dv_has_:
 
 # [[Cradle_of_Civilization]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Cradle_of_civilization,1207629|WD~Cradle_of_civilization,1207629]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Cradle_of_civilization,1207629|WD~Cradle_of_civilization,1207629]] 
 
 ## #has_/text_of_/abstract 
 

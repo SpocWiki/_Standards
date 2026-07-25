@@ -61,18 +61,18 @@ aliases:
 - 이탄
 has_id_wikidata: Q184624
 subclass_of:
-- '[[_Standards/WikiData/WD~raw_material,192355|WD~raw_material,192355]]'
-- '[[_Standards/WikiData/WD~biogenic_sediment,864347|WD~biogenic_sediment,864347]]'
-- '[[_Standards/WikiData/WD~fossil_fuel,12748|WD~fossil_fuel,12748]]'
+- '[[/_Standards/WikiData/WD~raw_material,192355|WD~raw_material,192355]]'
+- '[[/_Standards/WikiData/WD~biogenic_sediment,864347|WD~biogenic_sediment,864347]]'
+- '[[/_Standards/WikiData/WD~fossil_fuel,12748|WD~fossil_fuel,12748]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]'
-studied_by: '[[_Standards/WikiData/WD~peat_chemistry,20097254|WD~peat_chemistry,20097254]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q61071167,61071167|WD~Q61071167,61071167]]'
+- '[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[/_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- "[[/_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[/_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+on_focus_list_of_Wikimedia_project: '[[/_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]'
+studied_by: '[[/_Standards/WikiData/WD~peat_chemistry,20097254|WD~peat_chemistry,20097254]]'
+said_to_be_the_same_as: '[[/_Standards/WikiData/WD~Q61071167,61071167|WD~Q61071167,61071167]]'
 CosIng_number: 57090
 Iconclass_notation: 25D25
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/PEATMAP.jpg
@@ -205,7 +205,7 @@ dv_has_:
 
 # [[Peat]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Peat,184624|WD~Peat,184624]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Peat,184624|WD~Peat,184624]] 
 
 ## #has_/text_of_/abstract 
 

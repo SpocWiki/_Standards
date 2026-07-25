@@ -40,8 +40,8 @@ aliases:
 - 광검출기
 has_id_wikidata: Q210765
 subclass_of:
-- '[[_Standards/WikiData/WD~detector,2066909|WD~detector,2066909]]'
-- '[[_Standards/WikiData/WD~optoelectronic_device,11585131|WD~optoelectronic_device,11585131]]'
+- '[[/_Standards/WikiData/WD~detector,2066909|WD~detector,2066909]]'
+- '[[/_Standards/WikiData/WD~optoelectronic_device,11585131|WD~optoelectronic_device,11585131]]'
 Commons_category: Optical sensors
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Light%20sensor.png
 Dewey_Decimal_Classification: 621.381542
@@ -104,7 +104,7 @@ dv_has_:
 
 # [[Photodetector]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Photodetector,210765|WD~Photodetector,210765]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Photodetector,210765|WD~Photodetector,210765]] 
 
 ## #has_/text_of_/abstract 
 

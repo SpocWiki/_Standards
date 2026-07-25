@@ -55,10 +55,10 @@ aliases:
 - 사실주의
 has_id_wikidata: Q10857409
 instance_of:
-- '[[_Standards/WikiData/WD~art_movement,968159|WD~art_movement,968159]]'
-- '[[_Standards/WikiData/WD~art_style,1792644|WD~art_style,1792644]]'
-- '[[_Standards/WikiData/WD~architectural_style,32880|WD~architectural_style,32880]]'
-described_by_source: '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~art_movement,968159|WD~art_movement,968159]]'
+- '[[/_Standards/WikiData/WD~art_style,1792644|WD~art_style,1792644]]'
+- '[[/_Standards/WikiData/WD~architectural_style,32880|WD~architectural_style,32880]]'
+described_by_source: '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 Commons_category: Realism
 dv_has_:
   name_:
@@ -155,7 +155,7 @@ dv_has_:
 # [[Realism]] 
 
 #is_/similar_to :: [[Naturalism(Art)]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Realism,10857409|WD~Realism,10857409]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Realism,10857409|WD~Realism,10857409]] 
 
 ## #has_/text_of_/abstract 
 

@@ -42,9 +42,9 @@ aliases:
 - 反應機制
 - 유기반응 메커니즘
 has_id_wikidata: Q373406
-has_part_s_: '[[_Standards/WikiData/WD~elementary_reaction,845117|WD~elementary_reaction,845117]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Reaction_mechanisms,8084830|WD~Template_Reaction_mechanisms,8084830]]'
-subclass_of: '[[_Standards/WikiData/WD~molecular_mechanism,98084272|WD~molecular_mechanism,98084272]]'
+has_part_s_: '[[/_Standards/WikiData/WD~elementary_reaction,845117|WD~elementary_reaction,845117]]'
+topic_has_template: '[[/_Standards/WikiData/WD~Template_Reaction_mechanisms,8084830|WD~Template_Reaction_mechanisms,8084830]]'
+subclass_of: '[[/_Standards/WikiData/WD~molecular_mechanism,98084272|WD~molecular_mechanism,98084272]]'
 Commons_category: Reaction mechanisms
 dv_is_:
   same_as:
@@ -112,7 +112,7 @@ dv_has_:
 
 # [[Reaction_Mechanism]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Reaction_mechanism,373406|WD~Reaction_mechanism,373406]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Reaction_mechanism,373406|WD~Reaction_mechanism,373406]] 
 
 ## #has_/text_of_/abstract 
 

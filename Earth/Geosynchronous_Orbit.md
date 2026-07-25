@@ -57,9 +57,9 @@ aliases:
 - 지구 동기 궤도
 has_id_wikidata: Q472251
 subclass_of:
-- '[[_Standards/WikiData/WD~synchronous_orbit,940979|WD~synchronous_orbit,940979]]'
-- '[[_Standards/WikiData/WD~geocentric_orbit,1579577|WD~geocentric_orbit,1579577]]'
-parent_astronomical_body: '[[_Standards/WikiData/WD~Earth,2|WD~Earth,2]]'
+- '[[/_Standards/WikiData/WD~synchronous_orbit,940979|WD~synchronous_orbit,940979]]'
+- '[[/_Standards/WikiData/WD~geocentric_orbit,1579577|WD~geocentric_orbit,1579577]]'
+parent_astronomical_body: '[[/_Standards/WikiData/WD~Earth,2|WD~Earth,2]]'
 short_name: GSO
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Geosynchronous%20orbit.gif
 Commons_category: Geosynchronous orbit
@@ -159,7 +159,7 @@ dv_has_:
 
 # [[Geosynchronous_Orbit]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Geosynchronous_orbit,472251|WD~Geosynchronous_orbit,472251]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Geosynchronous_orbit,472251|WD~Geosynchronous_orbit,472251]] 
 ## #has_/text_of_/abstract 
 
 > A geosynchronous orbit (sometimes abbreviated GSO) is an Earth-centered orbit 

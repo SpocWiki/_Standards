@@ -114,9 +114,9 @@ aliases:
 - 대항해시대
 has_id_wikidata: Q133641
 instance_of:
-- '[[_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]'
-- '[[_Standards/WikiData/WD~age,17522177|WD~age,17522177]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[/_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]'
+- '[[/_Standards/WikiData/WD~age,17522177|WD~age,17522177]]'
+described_by_source: '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Age%20of%20Discovery%20Banner.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33491%20%28hat%29-Jnermano-Gwo%20dekouv%C3%A8t.wav
 Commons_category: Age of Discovery

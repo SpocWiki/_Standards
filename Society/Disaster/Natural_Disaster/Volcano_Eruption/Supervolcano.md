@@ -3,8 +3,8 @@ aliases:
   - supervolcanic eruptions
   - super eruptions
 has_id_wikidata: Q332614
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Supervolcanoes,8826172]]"
-subclass_of: "[[_Standards/WikiData/WD~volcano,8072]]"
+topic_s_main_category: "[[/_Standards/WikiData/WD~Category_Supervolcanoes,8826172]]"
+subclass_of: "[[/_Standards/WikiData/WD~volcano,8072]]"
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Supervolcano%20World%20Map.png
 Commons_category: Supervolcanoes
 ---

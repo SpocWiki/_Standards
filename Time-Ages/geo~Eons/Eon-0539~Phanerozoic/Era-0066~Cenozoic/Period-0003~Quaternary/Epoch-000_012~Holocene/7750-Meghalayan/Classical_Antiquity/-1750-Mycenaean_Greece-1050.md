@@ -76,17 +76,17 @@ aliases:
 - 미케네 문명
 has_id_wikidata: Q181264
 instance_of:
-- '[[_Standards/WikiData/WD~archaeological_culture,465299|WD~archaeological_culture,465299]]'
-- '[[_Standards/WikiData/WD~style,1292119|WD~style,1292119]]'
-- '[[_Standards/WikiData/WD~civilization,8432|WD~civilization,8432]]'
-- '[[_Standards/WikiData/WD~culture,11042|WD~culture,11042]]'
+- '[[/_Standards/WikiData/WD~archaeological_culture,465299|WD~archaeological_culture,465299]]'
+- '[[/_Standards/WikiData/WD~style,1292119|WD~style,1292119]]'
+- '[[/_Standards/WikiData/WD~civilization,8432|WD~civilization,8432]]'
+- '[[/_Standards/WikiData/WD~culture,11042|WD~culture,11042]]'
 described_by_source:
 - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-studied_by: '[[_Standards/WikiData/WD~mycenology,26425130|WD~mycenology,26425130]]'
+- '[[/_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+studied_by: '[[/_Standards/WikiData/WD~mycenology,26425130|WD~mycenology,26425130]]'
 end_time: -1099-01-01T00:00:00Z
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Heinrich_Schliemann,57106|WD~Heinrich_Schliemann,57106]]'
+discoverer_or_inventor: '[[/_Standards/WikiData/WD~Heinrich_Schliemann,57106|WD~Heinrich_Schliemann,57106]]'
 BHCL_UUID: f163a7e8-abcb-478a-8f6d-0016b28598a0
 Wolfram_Language_entity_code: Entity["HistoricalCountry", "MycenaeanCivilization"]
 Commons_category: Mycenaean civilization
@@ -206,7 +206,7 @@ dv_has_:
 
 # [[-1750-Mycenaean_Greece-1050]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Mycenaean_Greece,181264|WD~Mycenaean_Greece,181264]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Mycenaean_Greece,181264|WD~Mycenaean_Greece,181264]] 
 
 ## #has_/text_of_/abstract 
 

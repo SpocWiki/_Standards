@@ -1,8 +1,8 @@
 ---
 aliases:
 has_id_wikidata: Q7843523
-instance_of: "[[_Standards/WikiData/WD~time_signature,155234]]"
-subclass_of: "[[_Standards/WikiData/WD~meter,630649]]"
+instance_of: "[[/_Standards/WikiData/WD~time_signature,155234]]"
+subclass_of: "[[/_Standards/WikiData/WD~meter,630649]]"
 ---
 
 # [[Triple_metre]] 

@@ -29,13 +29,13 @@ aliases:
 - 布拉格期
 has_id_wikidata: Q1089625
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-significant_place: '[[_Standards/WikiData/WD~Velká_Chuchle,84572475|WD~Velká_Chuchle,84572475]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Pragian,134605637|WD~GSSP_for_the_base_of_the_Pragian,134605637]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+significant_place: '[[/_Standards/WikiData/WD~Velká_Chuchle,84572475|WD~Velká_Chuchle,84572475]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_the_Pragian,134605637|WD~GSSP_for_the_base_of_the_Pragian,134605637]]'
 start_time: -410800000-01-01T00:00:00Z
-named_after: '[[_Standards/WikiData/WD~Prague,1085|WD~Prague,1085]]'
+named_after: '[[/_Standards/WikiData/WD~Prague,1085|WD~Prague,1085]]'
 sRGB_color_hex_triplet: EEC57B
 coordinate_location: Point(14.3726 50.0147)
 end_time: -407600000-01-01T00:00:00Z
@@ -91,7 +91,7 @@ dv_has_:
     stopped: -407.6e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Pragian,1089625|WD~Pragian,1089625]]'
+  - '[[/_Standards/WikiData/WD~Pragian,1089625|WD~Pragian,1089625]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian|Age~2~Pragian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.public|Age~2~Pragian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.internal|Age~2~Pragian.internal]]'
@@ -103,7 +103,7 @@ dv_has_duration_years: 3.200e+6
 dv_has_previous_item: '[[Age~1~Lochkovian]]'
 dv_has_next_item: '[[Age~3~Emsian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Pragian,1089625|WD~Pragian,1089625]]'
+- '[[/_Standards/WikiData/WD~Pragian,1089625|WD~Pragian,1089625]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian|Age~2~Pragian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.public|Age~2~Pragian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.internal|Age~2~Pragian.internal]]'
@@ -145,7 +145,7 @@ dv_has_text_of_color: 0xE5C468
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Pragian,1089625|WD~Pragian,1089625]]  
+#is_/same_as :: [[/_Standards/WikiData/WD~Pragian,1089625|WD~Pragian,1089625]]  
 
 A time period from 410.8 to 407.6 million years ago. 
 

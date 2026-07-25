@@ -76,16 +76,16 @@ aliases:
 - 러시아 혁명
 has_id_wikidata: Q184928
 participant:
-- '[[_Standards/WikiData/WD~Polish_Socialist_Party,210431|WD~Polish_Socialist_Party,210431]]'
-- '[[_Standards/WikiData/WD~General_Jewish_Labour_Bund_in_Lithuania,_Poland_and_Russia,647460|WD~General_Jewish_Labour_Bund_in_Lithuania,_Poland_and_Russia,647460]]'
-- '[[_Standards/WikiData/WD~Social_Democracy_of_the_Kingdom_of_Poland_and_Lithuania,967759|WD~Social_Democracy_of_the_Kingdom_of_Poland_and_Lithuania,967759]]'
-- '[[_Standards/WikiData/WD~Russian_Empire,34266|WD~Russian_Empire,34266]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q14626003,14626003|WD~Q14626003,14626003]]'
-category_of_associated_people: '[[_Standards/WikiData/WD~Q32496227,32496227|WD~Q32496227,32496227]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wikiproject_Polish_Socialist_Party,123137951|WD~Wikiproject_Polish_Socialist_Party,123137951]]'
-instance_of: '[[_Standards/WikiData/WD~revolution,10931|WD~revolution,10931]]'
-location: '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
-country: '[[_Standards/WikiData/WD~Russian_Empire,34266|WD~Russian_Empire,34266]]'
+- '[[/_Standards/WikiData/WD~Polish_Socialist_Party,210431|WD~Polish_Socialist_Party,210431]]'
+- '[[/_Standards/WikiData/WD~General_Jewish_Labour_Bund_in_Lithuania,_Poland_and_Russia,647460|WD~General_Jewish_Labour_Bund_in_Lithuania,_Poland_and_Russia,647460]]'
+- '[[/_Standards/WikiData/WD~Social_Democracy_of_the_Kingdom_of_Poland_and_Lithuania,967759|WD~Social_Democracy_of_the_Kingdom_of_Poland_and_Lithuania,967759]]'
+- '[[/_Standards/WikiData/WD~Russian_Empire,34266|WD~Russian_Empire,34266]]'
+topic_has_template: '[[/_Standards/WikiData/WD~Q14626003,14626003|WD~Q14626003,14626003]]'
+category_of_associated_people: '[[/_Standards/WikiData/WD~Q32496227,32496227|WD~Q32496227,32496227]]'
+on_focus_list_of_Wikimedia_project: '[[/_Standards/WikiData/WD~Wikiproject_Polish_Socialist_Party,123137951|WD~Wikiproject_Polish_Socialist_Party,123137951]]'
+instance_of: '[[/_Standards/WikiData/WD~revolution,10931|WD~revolution,10931]]'
+location: '[[/_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+country: '[[/_Standards/WikiData/WD~Russian_Empire,34266|WD~Russian_Empire,34266]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Russian%20Revolution%2C%201905%20Q81553.jpg
 Wolfram_Language_entity_code: Entity["MilitaryConflict", "RevolutionOf1905"]
 Krugosvet_article_archived_: gosudarstvo-i-politika/revolyuciya-1905-1907-v-rossii
@@ -205,7 +205,7 @@ dv_has_:
 
 # [[1905-Russian_Revolution]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Russian_Revolution_of_1905,184928|WD~Russian_Revolution_of_1905,184928]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Russian_Revolution_of_1905,184928|WD~Russian_Revolution_of_1905,184928]] 
 
 ## #has_/text_of_/abstract 
 

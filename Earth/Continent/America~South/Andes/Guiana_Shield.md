@@ -35,17 +35,17 @@ aliases:
 - গায়ানা শিল্ড
 - 圭亚那地盾
 has_id_wikidata: Q9309106
-different_from: '[[_Standards/WikiData/WD~Guiana_Highlands,208807|WD~Guiana_Highlands,208807]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~Guiana_Highlands,208807|WD~Guiana_Highlands,208807]]'
-highest_point: '[[_Standards/WikiData/WD~Pico_da_Neblina,739484|WD~Pico_da_Neblina,739484]]'
-instance_of: '[[_Standards/WikiData/WD~shield,852013|WD~shield,852013]]'
+different_from: '[[/_Standards/WikiData/WD~Guiana_Highlands,208807|WD~Guiana_Highlands,208807]]'
+partially_coincident_with: '[[/_Standards/WikiData/WD~Guiana_Highlands,208807|WD~Guiana_Highlands,208807]]'
+highest_point: '[[/_Standards/WikiData/WD~Pico_da_Neblina,739484|WD~Pico_da_Neblina,739484]]'
+instance_of: '[[/_Standards/WikiData/WD~shield,852013|WD~shield,852013]]'
 country:
-- '[[_Standards/WikiData/WD~Venezuela,717|WD~Venezuela,717]]'
-- '[[_Standards/WikiData/WD~Suriname,730|WD~Suriname,730]]'
-- '[[_Standards/WikiData/WD~Guyana,734|WD~Guyana,734]]'
-- '[[_Standards/WikiData/WD~Colombia,739|WD~Colombia,739]]'
-- '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
-- '[[_Standards/WikiData/WD~Brazil,155|WD~Brazil,155]]'
+- '[[/_Standards/WikiData/WD~Venezuela,717|WD~Venezuela,717]]'
+- '[[/_Standards/WikiData/WD~Suriname,730|WD~Suriname,730]]'
+- '[[/_Standards/WikiData/WD~Guyana,734|WD~Guyana,734]]'
+- '[[/_Standards/WikiData/WD~Colombia,739|WD~Colombia,739]]'
+- '[[/_Standards/WikiData/WD~France,142|WD~France,142]]'
+- '[[/_Standards/WikiData/WD~Brazil,155|WD~Brazil,155]]'
 Commons_category: Guiana Shield
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kukenan%20Tepuy%20at%20Sunset.jpg
 coordinate_location: Point(-60.7625 5.143333333)
@@ -53,7 +53,7 @@ geoshape: http://commons.wikimedia.org/data/main/Data:Guiana+Shield.map
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20the%20Guiana%20shield.png
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Guiana_Shield,9309106|WD~Guiana_Shield,9309106]]'
+  - '[[/_Standards/WikiData/WD~Guiana_Shield,9309106|WD~Guiana_Shield,9309106]]'
   - '[[/_Standards/Earth/Continent/America~South/Andes/Guiana_Shield|Guiana_Shield]]'
   - '[[/_public/Earth/Continent/America~South/Andes/Guiana_Shield.public|Guiana_Shield.public]]'
   - '[[/_internal/Earth/Continent/America~South/Andes/Guiana_Shield.internal|Guiana_Shield.internal]]'
@@ -62,7 +62,7 @@ dv_is_:
   - '[[/_personal/Earth/Continent/America~South/Andes/Guiana_Shield.personal|Guiana_Shield.personal]]'
   - '[[/_secret/Earth/Continent/America~South/Andes/Guiana_Shield.secret|Guiana_Shield.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Guiana_Shield,9309106|WD~Guiana_Shield,9309106]]'
+- '[[/_Standards/WikiData/WD~Guiana_Shield,9309106|WD~Guiana_Shield,9309106]]'
 - '[[/_Standards/Earth/Continent/America~South/Andes/Guiana_Shield|Guiana_Shield]]'
 - '[[/_public/Earth/Continent/America~South/Andes/Guiana_Shield.public|Guiana_Shield.public]]'
 - '[[/_internal/Earth/Continent/America~South/Andes/Guiana_Shield.internal|Guiana_Shield.internal]]'
@@ -108,7 +108,7 @@ dv_has_:
 
 # [[Guiana_Shield]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Guiana_Shield,9309106|WD~Guiana_Shield,9309106]]
+#is_/same_as :: [[/_Standards/WikiData/WD~Guiana_Shield,9309106|WD~Guiana_Shield,9309106]]
 [[Guiana_Shiel]]
 ## #has_/text_of_/abstract 
 

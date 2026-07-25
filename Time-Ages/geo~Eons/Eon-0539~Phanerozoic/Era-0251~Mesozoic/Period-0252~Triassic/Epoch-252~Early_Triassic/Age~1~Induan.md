@@ -25,19 +25,19 @@ aliases:
 - 인두아절
 has_id_wikidata: Q855153
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Induan,21708767|WD~Category_Induan,21708767]]'
-significant_place: '[[_Standards/WikiData/WD~Q28832371,28832371|WD~Q28832371,28832371]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Induan,21708767|WD~Category_Induan,21708767]]'
+significant_place: '[[/_Standards/WikiData/WD~Q28832371,28832371|WD~Q28832371,28832371]]'
 named_by:
-- '[[_Standards/WikiData/WD~Liubov_Dmitrievna_Kiparisova,54605830|WD~Liubov_Dmitrievna_Kiparisova,54605830]]'
-- '[[_Standards/WikiData/WD~Yuri_Nikolaevich_Popov,119138054|WD~Yuri_Nikolaevich_Popov,119138054]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Induan,134385243|WD~GSSP_for_the_base_of_the_Induan,134385243]]'
+- '[[/_Standards/WikiData/WD~Liubov_Dmitrievna_Kiparisova,54605830|WD~Liubov_Dmitrievna_Kiparisova,54605830]]'
+- '[[/_Standards/WikiData/WD~Yuri_Nikolaevich_Popov,119138054|WD~Yuri_Nikolaevich_Popov,119138054]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_the_Induan,134385243|WD~GSSP_for_the_base_of_the_Induan,134385243]]'
 coordinate_location: Point(119.70583333 31.07972222)
 start_time: -251902000-01-01T00:00:00Z
 end_time: -251200000-01-01T00:00:00Z
-named_after: '[[_Standards/WikiData/WD~Indus_River,7348|WD~Indus_River,7348]]'
+named_after: '[[/_Standards/WikiData/WD~Indus_River,7348|WD~Indus_River,7348]]'
 sRGB_color_hex_triplet: B861A0
 dv_has_:
   duration_:
@@ -93,7 +93,7 @@ dv_has_:
     stopped: -251.200e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Induan,855153|WD~Induan,855153]]'
+  - '[[/_Standards/WikiData/WD~Induan,855153|WD~Induan,855153]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan|Age~1~Induan]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.public|Age~1~Induan.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.internal|Age~1~Induan.internal]]'
@@ -105,7 +105,7 @@ dv_has_duration_years: 7.020e+5
 dv_has_previous_item: '[[../../../Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~2~Changhsingian|Age~2~Changhsingian]]'
 dv_has_next_item: '[[Age~2~Olenekian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Induan,855153|WD~Induan,855153]]'
+- '[[/_Standards/WikiData/WD~Induan,855153|WD~Induan,855153]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan|Age~1~Induan]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.public|Age~1~Induan.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.internal|Age~1~Induan.internal]]'
@@ -147,7 +147,7 @@ dv_has_text_of_color: 0xA4469F
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Induan,855153|WD~Induan,855153]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Induan,855153|WD~Induan,855153]] 
 
 A time period from 251.902 to 251.2 million years ago. 
 

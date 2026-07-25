@@ -30,11 +30,11 @@ aliases:
 - 土壤圈
 - 토양권
 has_id_wikidata: Q941094
-studied_by: '[[_Standards/WikiData/WD~pedology,215501|WD~pedology,215501]]'
+studied_by: '[[/_Standards/WikiData/WD~pedology,215501|WD~pedology,215501]]'
 instance_of:
-- '[[_Standards/WikiData/WD~geosphere,241284|WD~geosphere,241284]]'
-- '[[_Standards/WikiData/WD~geographic_envelope,2627400|WD~geographic_envelope,2627400]]'
-part_of: '[[_Standards/WikiData/WD~landscape_sphere,8535454|WD~landscape_sphere,8535454]]'
+- '[[/_Standards/WikiData/WD~geosphere,241284|WD~geosphere,241284]]'
+- '[[/_Standards/WikiData/WD~geographic_envelope,2627400|WD~geographic_envelope,2627400]]'
+part_of: '[[/_Standards/WikiData/WD~landscape_sphere,8535454|WD~landscape_sphere,8535454]]'
 OmegaWiki_Defined_Meaning: 2735
 dv_is_:
   same_as:
@@ -114,7 +114,7 @@ dv_has_:
 
 # [[Pedosphere]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pedosphere,941094|WD~Pedosphere,941094]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Pedosphere,941094|WD~Pedosphere,941094]] 
 
 ## #has_/text_of_/abstract 
 

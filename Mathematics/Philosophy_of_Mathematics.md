@@ -63,8 +63,8 @@ aliases:
 - 數學哲學
 - 수리철학
 has_id_wikidata: Q180536
-instance_of: '[[_Standards/WikiData/WD~branch_of_philosophy,22811234|WD~branch_of_philosophy,22811234]]'
-subclass_of: '[[_Standards/WikiData/WD~philosophy_of_science,59115|WD~philosophy_of_science,59115]]'
+instance_of: '[[/_Standards/WikiData/WD~branch_of_philosophy,22811234|WD~branch_of_philosophy,22811234]]'
+subclass_of: '[[/_Standards/WikiData/WD~philosophy_of_science,59115|WD~philosophy_of_science,59115]]'
 Basisklassifikation: 31.02
 Stack_Exchange_tag:
 - https://ai.stackexchange.com/tags/philosophy-of-math
@@ -146,7 +146,7 @@ dv_has_:
 
 # [[Philosophy_of_Mathematics]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Philosophy_of_mathematics,180536|WD~Philosophy_of_mathematics,180536]]  
+#is_/same_as :: [[/_Standards/WikiData/WD~Philosophy_of_mathematics,180536|WD~Philosophy_of_mathematics,180536]]  
 
 ## #has_/text_of_/abstract 
 

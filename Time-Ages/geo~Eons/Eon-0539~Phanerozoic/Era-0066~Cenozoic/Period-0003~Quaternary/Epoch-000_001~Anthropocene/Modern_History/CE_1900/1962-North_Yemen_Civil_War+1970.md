@@ -49,37 +49,37 @@ aliases:
 - 북예멘 내전
 has_id_wikidata: Q521199
 participant:
-- '[[_Standards/WikiData/WD~Hussein_I_of_Jordan,146906|WD~Hussein_I_of_Jordan,146906]]'
-- '[[_Standards/WikiData/WD~United_Arab_Republic,170468|WD~United_Arab_Republic,170468]]'
-- '[[_Standards/WikiData/WD~King_Faisal_bin_Abdulaziz_Al_Saud,217167|WD~King_Faisal_bin_Abdulaziz_Al_Saud,217167]]'
-- '[[_Standards/WikiData/WD~Yemen_Republic,267584|WD~Yemen_Republic,267584]]'
-- '[[_Standards/WikiData/WD~Abdel_Hakim_Amer,307226|WD~Abdel_Hakim_Amer,307226]]'
-- '[[_Standards/WikiData/WD~Abdullah_ibn_Husayn_al_Ahmar,307637|WD~Abdullah_ibn_Husayn_al_Ahmar,307637]]'
-- '[[_Standards/WikiData/WD~Abd_ar_Rahman_al_Iryani,317420|WD~Abd_ar_Rahman_al_Iryani,317420]]'
-- '[[_Standards/WikiData/WD~Abdullah_as_Sallal,317752|WD~Abdullah_as_Sallal,317752]]'
-- '[[_Standards/WikiData/WD~Ahmad_Numan,400701|WD~Ahmad_Numan,400701]]'
-- '[[_Standards/WikiData/WD~Ahmad_bin_Yahya,400961|WD~Ahmad_bin_Yahya,400961]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Yemen,580188|WD~Kingdom_of_Yemen,580188]]'
-- '[[_Standards/WikiData/WD~Muhammad_al_Badr,711230|WD~Muhammad_al_Badr,711230]]'
-- '[[_Standards/WikiData/WD~Salah_Nasr,1994260|WD~Salah_Nasr,1994260]]'
-- '[[_Standards/WikiData/WD~Shams_Badran,2276730|WD~Shams_Badran,2276730]]'
-- '[[_Standards/WikiData/WD~Hassan_al_Amri,2460197|WD~Hassan_al_Amri,2460197]]'
-- '[[_Standards/WikiData/WD~Hamoud_al_Gayifi,5645953|WD~Hamoud_al_Gayifi,5645953]]'
-- '[[_Standards/WikiData/WD~Mohamed_Kaid_Saif_Qubaty,6854149|WD~Mohamed_Kaid_Saif_Qubaty,6854149]]'
-- '[[_Standards/WikiData/WD~Abdul_Rahman_al_Baidhani,12222671|WD~Abdul_Rahman_al_Baidhani,12222671]]'
-- '[[_Standards/WikiData/WD~Abdul_Ghani_Motahar,12223130|WD~Abdul_Ghani_Motahar,12223130]]'
-- '[[_Standards/WikiData/WD~Ali_Abdul_Mughni,12228141|WD~Ali_Abdul_Mughni,12228141]]'
-- '[[_Standards/WikiData/WD~Muhammed_Mahmud_al_Zubayri,12240981|WD~Muhammed_Mahmud_al_Zubayri,12240981]]'
-- "[[_Standards/WikiData/WD~Sa'ka_Forces,15075906|WD~Sa'ka_Forces,15075906]]"
-- '[[_Standards/WikiData/WD~Free_Officers,16119447|WD~Free_Officers,16119447]]'
-- '[[_Standards/WikiData/WD~Saudi_Arabia,851|WD~Saudi_Arabia,851]]'
-- '[[_Standards/WikiData/WD~Gamal_Abdel_Nasser,39524|WD~Gamal_Abdel_Nasser,39524]]'
-- '[[_Standards/WikiData/WD~Anwar_Sadat,42013|WD~Anwar_Sadat,42013]]'
+- '[[/_Standards/WikiData/WD~Hussein_I_of_Jordan,146906|WD~Hussein_I_of_Jordan,146906]]'
+- '[[/_Standards/WikiData/WD~United_Arab_Republic,170468|WD~United_Arab_Republic,170468]]'
+- '[[/_Standards/WikiData/WD~King_Faisal_bin_Abdulaziz_Al_Saud,217167|WD~King_Faisal_bin_Abdulaziz_Al_Saud,217167]]'
+- '[[/_Standards/WikiData/WD~Yemen_Republic,267584|WD~Yemen_Republic,267584]]'
+- '[[/_Standards/WikiData/WD~Abdel_Hakim_Amer,307226|WD~Abdel_Hakim_Amer,307226]]'
+- '[[/_Standards/WikiData/WD~Abdullah_ibn_Husayn_al_Ahmar,307637|WD~Abdullah_ibn_Husayn_al_Ahmar,307637]]'
+- '[[/_Standards/WikiData/WD~Abd_ar_Rahman_al_Iryani,317420|WD~Abd_ar_Rahman_al_Iryani,317420]]'
+- '[[/_Standards/WikiData/WD~Abdullah_as_Sallal,317752|WD~Abdullah_as_Sallal,317752]]'
+- '[[/_Standards/WikiData/WD~Ahmad_Numan,400701|WD~Ahmad_Numan,400701]]'
+- '[[/_Standards/WikiData/WD~Ahmad_bin_Yahya,400961|WD~Ahmad_bin_Yahya,400961]]'
+- '[[/_Standards/WikiData/WD~Kingdom_of_Yemen,580188|WD~Kingdom_of_Yemen,580188]]'
+- '[[/_Standards/WikiData/WD~Muhammad_al_Badr,711230|WD~Muhammad_al_Badr,711230]]'
+- '[[/_Standards/WikiData/WD~Salah_Nasr,1994260|WD~Salah_Nasr,1994260]]'
+- '[[/_Standards/WikiData/WD~Shams_Badran,2276730|WD~Shams_Badran,2276730]]'
+- '[[/_Standards/WikiData/WD~Hassan_al_Amri,2460197|WD~Hassan_al_Amri,2460197]]'
+- '[[/_Standards/WikiData/WD~Hamoud_al_Gayifi,5645953|WD~Hamoud_al_Gayifi,5645953]]'
+- '[[/_Standards/WikiData/WD~Mohamed_Kaid_Saif_Qubaty,6854149|WD~Mohamed_Kaid_Saif_Qubaty,6854149]]'
+- '[[/_Standards/WikiData/WD~Abdul_Rahman_al_Baidhani,12222671|WD~Abdul_Rahman_al_Baidhani,12222671]]'
+- '[[/_Standards/WikiData/WD~Abdul_Ghani_Motahar,12223130|WD~Abdul_Ghani_Motahar,12223130]]'
+- '[[/_Standards/WikiData/WD~Ali_Abdul_Mughni,12228141|WD~Ali_Abdul_Mughni,12228141]]'
+- '[[/_Standards/WikiData/WD~Muhammed_Mahmud_al_Zubayri,12240981|WD~Muhammed_Mahmud_al_Zubayri,12240981]]'
+- "[[/_Standards/WikiData/WD~Sa'ka_Forces,15075906|WD~Sa'ka_Forces,15075906]]"
+- '[[/_Standards/WikiData/WD~Free_Officers,16119447|WD~Free_Officers,16119447]]'
+- '[[/_Standards/WikiData/WD~Saudi_Arabia,851|WD~Saudi_Arabia,851]]'
+- '[[/_Standards/WikiData/WD~Gamal_Abdel_Nasser,39524|WD~Gamal_Abdel_Nasser,39524]]'
+- '[[/_Standards/WikiData/WD~Anwar_Sadat,42013|WD~Anwar_Sadat,42013]]'
 country:
-- '[[_Standards/WikiData/WD~Yemen_Republic,267584|WD~Yemen_Republic,267584]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Yemen,580188|WD~Kingdom_of_Yemen,580188]]'
-location: '[[_Standards/WikiData/WD~North_Yemen,1998401|WD~North_Yemen,1998401]]'
-instance_of: '[[_Standards/WikiData/WD~civil_war,8465|WD~civil_war,8465]]'
+- '[[/_Standards/WikiData/WD~Yemen_Republic,267584|WD~Yemen_Republic,267584]]'
+- '[[/_Standards/WikiData/WD~Kingdom_of_Yemen,580188|WD~Kingdom_of_Yemen,580188]]'
+location: '[[/_Standards/WikiData/WD~North_Yemen,1998401|WD~North_Yemen,1998401]]'
+instance_of: '[[/_Standards/WikiData/WD~civil_war,8465|WD~civil_war,8465]]'
 end_time: 1970-12-01T00:00:00Z
 start_time: 1962-09-26T00:00:00Z
 Commons_category: North Yemen Civil War
@@ -153,7 +153,7 @@ dv_has_:
 
 # [[1962-North_Yemen_Civil_War+1970]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~North_Yemen_civil_war,521199|WD~North_Yemen_civil_war,521199]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~North_Yemen_civil_war,521199|WD~North_Yemen_civil_war,521199]] 
 
 ## #has_/text_of_/abstract 
 

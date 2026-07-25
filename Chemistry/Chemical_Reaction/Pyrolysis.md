@@ -39,9 +39,9 @@ aliases:
 - 열분해
 has_id_wikidata: Q176848
 described_by_source:
-- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764|WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636|WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
-subclass_of: '[[_Standards/WikiData/WD~chemical_reaction,36534|WD~chemical_reaction,36534]]'
+- '[[/_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764|WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636|WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+subclass_of: '[[/_Standards/WikiData/WD~chemical_reaction,36534|WD~chemical_reaction,36534]]'
 OmegaWiki_Defined_Meaning: 3062
 exact_match: http://purl.obolibrary.org/obo/ENVO_01000841
 UMLS_CUI: C4704760
@@ -134,7 +134,7 @@ dv_has_:
 
 # [[Pyrolysis]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pyrolysis,176848|WD~Pyrolysis,176848]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Pyrolysis,176848|WD~Pyrolysis,176848]] 
 
 ## #has_/text_of_/abstract 
 

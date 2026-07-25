@@ -90,14 +90,14 @@ aliases:
 - 전이 금속
 has_id_wikidata: Q19588
 has_part_s_:
-- '[[_Standards/WikiData/WD~d_block,214503|WD~d_block,214503]]'
-- '[[_Standards/WikiData/WD~f_block,214680|WD~f_block,214680]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
-opposite_of: '[[_Standards/WikiData/WD~main_group,428830|WD~main_group,428830]]'
+- '[[/_Standards/WikiData/WD~d_block,214503|WD~d_block,214503]]'
+- '[[/_Standards/WikiData/WD~f_block,214680|WD~f_block,214680]]'
+- '[[/_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+opposite_of: '[[/_Standards/WikiData/WD~main_group,428830|WD~main_group,428830]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~simple_substance,2512777|WD~simple_substance,2512777]]'
-- '[[_Standards/WikiData/WD~metal,11426|WD~metal,11426]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[/_Standards/WikiData/WD~simple_substance,2512777|WD~simple_substance,2512777]]'
+- '[[/_Standards/WikiData/WD~metal,11426|WD~metal,11426]]'
+described_by_source: '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 OmegaWiki_Defined_Meaning: 3841
 Dewey_Decimal_Classification: 546.6
 image:
@@ -227,7 +227,7 @@ dv_has_:
 
 # [[Transition_Metal]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Transition_metal,19588|WD~Transition_metal,19588]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Transition_metal,19588|WD~Transition_metal,19588]] 
 
 ## #has_/text_of_/abstract 
 

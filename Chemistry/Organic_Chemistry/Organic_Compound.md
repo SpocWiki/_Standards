@@ -103,13 +103,13 @@ aliases:
 - 유기 화합물
 has_id_wikidata: Q174211
 opposite_of:
-- '[[_Standards/WikiData/WD~inorganic_compound,190065|WD~inorganic_compound,190065]]'
-- '[[_Standards/WikiData/WD~inorganic_substance,3361209|WD~inorganic_substance,3361209]]'
-has_use: '[[_Standards/WikiData/WD~organic_reaction,648191|WD~organic_reaction,648191]]'
-subclass_of: '[[_Standards/WikiData/WD~carbon_compound,2901852|WD~carbon_compound,2901852]]'
-described_by_source: '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
-studied_by: '[[_Standards/WikiData/WD~organic_chemistry,11351|WD~organic_chemistry,11351]]'
+- '[[/_Standards/WikiData/WD~inorganic_compound,190065|WD~inorganic_compound,190065]]'
+- '[[/_Standards/WikiData/WD~inorganic_substance,3361209|WD~inorganic_substance,3361209]]'
+has_use: '[[/_Standards/WikiData/WD~organic_reaction,648191|WD~organic_reaction,648191]]'
+subclass_of: '[[/_Standards/WikiData/WD~carbon_compound,2901852|WD~carbon_compound,2901852]]'
+described_by_source: '[[/_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+instance_of: '[[/_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
+studied_by: '[[/_Standards/WikiData/WD~organic_chemistry,11351|WD~organic_chemistry,11351]]'
 OmegaWiki_Defined_Meaning: 2666
 MeSH_tree_code: D02
 UMLS_CUI: C0029224
@@ -258,7 +258,7 @@ dv_has_:
 
 # [[Organic_Compound]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Organic_compound,174211|WD~Organic_compound,174211]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Organic_compound,174211|WD~Organic_compound,174211]] 
 
 ## #has_/text_of_/abstract 
 

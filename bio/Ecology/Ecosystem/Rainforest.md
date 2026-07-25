@@ -105,7 +105,7 @@ aliases:
 - 雨林
 - 우림
 has_id_wikidata: Q9444
-subclass_of: '[[_Standards/WikiData/WD~moist_forest,93734705|WD~moist_forest,93734705]]'
+subclass_of: '[[/_Standards/WikiData/WD~moist_forest,93734705|WD~moist_forest,93734705]]'
 OmegaWiki_Defined_Meaning: 3101
 U_S_National_Archives_Identifier: 10675925
 Commons_category: Rainforests
@@ -250,7 +250,7 @@ dv_has_:
 
 # [[Rainforest]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Rainforest,9444|WD~Rainforest,9444]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Rainforest,9444|WD~Rainforest,9444]] 
 
 ## #has_/text_of_/abstract 
 

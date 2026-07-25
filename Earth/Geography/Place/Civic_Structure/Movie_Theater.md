@@ -107,16 +107,16 @@ tags:
 - schema-org/Class
 title: is_a_movie_theater Class
 type: Type
-different_from: '[[_Standards/WikiData/WD~Kino,650555|WD~Kino,650555]]'
-has_use: '[[_Standards/WikiData/WD~film_screening,2295790|WD~film_screening,2295790]]'
+different_from: '[[/_Standards/WikiData/WD~Kino,650555|WD~Kino,650555]]'
+has_use: '[[/_Standards/WikiData/WD~film_screening,2295790|WD~film_screening,2295790]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~venue,17350442|WD~venue,17350442]]'
-- '[[_Standards/WikiData/WD~event_venue,18674739|WD~event_venue,18674739]]'
-- '[[_Standards/WikiData/WD~building,41176|WD~building,41176]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27131943,27131943|WD~Q27131943,27131943]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q113157462,113157462|WD~Q113157462,113157462]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~cinema_hall,126727687|WD~cinema_hall,126727687]]'
+- '[[/_Standards/WikiData/WD~venue,17350442|WD~venue,17350442]]'
+- '[[/_Standards/WikiData/WD~event_venue,18674739|WD~event_venue,18674739]]'
+- '[[/_Standards/WikiData/WD~building,41176|WD~building,41176]]'
+permanent_duplicated_item: '[[/_Standards/WikiData/WD~Q27131943,27131943|WD~Q27131943,27131943]]'
+said_to_be_the_same_as: '[[/_Standards/WikiData/WD~Q113157462,113157462|WD~Q113157462,113157462]]'
+described_by_source: '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+has_part_s_of_the_class: '[[/_Standards/WikiData/WD~cinema_hall,126727687|WD~cinema_hall,126727687]]'
 properties_for_this_type:
 - coordinate location
 - Theatres Trust Database ID

@@ -46,12 +46,12 @@ aliases:
 - 경찰국가
 has_id_wikidata: Q217405
 uses:
-- '[[_Standards/WikiData/WD~secret_police,214183|WD~secret_police,214183]]'
-- '[[_Standards/WikiData/WD~political_repression,1899269|WD~political_repression,1899269]]'
-different_from: '[[_Standards/WikiData/WD~state_police,460336|WD~state_police,460336]]'
-opposite_of: '[[_Standards/WikiData/WD~Mafia_state,604883|WD~Mafia_state,604883]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~counterintelligence_state,17007978|WD~counterintelligence_state,17007978]]'
-subclass_of: '[[_Standards/WikiData/WD~state,7275|WD~state,7275]]'
+- '[[/_Standards/WikiData/WD~secret_police,214183|WD~secret_police,214183]]'
+- '[[/_Standards/WikiData/WD~political_repression,1899269|WD~political_repression,1899269]]'
+different_from: '[[/_Standards/WikiData/WD~state_police,460336|WD~state_police,460336]]'
+opposite_of: '[[/_Standards/WikiData/WD~Mafia_state,604883|WD~Mafia_state,604883]]'
+partially_coincident_with: '[[/_Standards/WikiData/WD~counterintelligence_state,17007978|WD~counterintelligence_state,17007978]]'
+subclass_of: '[[/_Standards/WikiData/WD~state,7275|WD~state,7275]]'
 IMDb_keyword: police-state
 dv_has_:
   name_:
@@ -115,7 +115,7 @@ dv_has_:
 
 # [[Police_State]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Police_state,217405|WD~Police_state,217405]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Police_state,217405|WD~Police_state,217405]] 
 
 ## #has_/text_of_/abstract 
 

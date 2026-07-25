@@ -34,15 +34,15 @@ aliases:
 - 莫斯科期
 has_id_wikidata: Q1179385
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-named_by: '[[_Standards/WikiData/WD~Sergei_Nikolaevič_Nikitin,17333360|WD~Sergei_Nikolaevič_Nikitin,17333360]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Moscovian_(Carboniferous),30826329|WD~Category_Moscovian_(Carboniferous),30826329]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_by: '[[/_Standards/WikiData/WD~Sergei_Nikolaevič_Nikitin,17333360|WD~Sergei_Nikolaevič_Nikitin,17333360]]'
+described_by_source: '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Moscovian_(Carboniferous),30826329|WD~Category_Moscovian_(Carboniferous),30826329]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
 start_time: -315200000-01-01T00:00:00Z
-named_after: '[[_Standards/WikiData/WD~Moscow,649|WD~Moscow,649]]'
-different_from: '[[_Standards/WikiData/WD~moscovium,1303|WD~moscovium,1303]]'
+named_after: '[[/_Standards/WikiData/WD~Moscow,649|WD~Moscow,649]]'
+different_from: '[[/_Standards/WikiData/WD~moscovium,1303|WD~moscovium,1303]]'
 end_time: -307000000-01-01T00:00:00Z
 sRGB_color_hex_triplet: B3CBB9
 Commons_category: Moscovian
@@ -134,7 +134,7 @@ dv_has_:
     - -307.0e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Moscovian,1179385|WD~Moscovian,1179385]]'
+  - '[[/_Standards/WikiData/WD~Moscovian,1179385|WD~Moscovian,1179385]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian|Age~2~Moscovian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.public|Age~2~Moscovian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.internal|Age~2~Moscovian.internal]]'
@@ -152,7 +152,7 @@ dv_has_duration_years: NaN
 dv_has_previous_item: '[[Age~1~Bashkirian]]'
 dv_has_next_item: '[[Age~3~Kasimovian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Moscovian,1179385|WD~Moscovian,1179385]]'
+- '[[/_Standards/WikiData/WD~Moscovian,1179385|WD~Moscovian,1179385]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian|Age~2~Moscovian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.public|Age~2~Moscovian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.internal|Age~2~Moscovian.internal]]'
@@ -199,7 +199,7 @@ dv_has_name_abbreviated: c5
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Moscovian,1179385|WD~Moscovian,1179385]]  
+#is_/same_as :: [[/_Standards/WikiData/WD~Moscovian,1179385|WD~Moscovian,1179385]]  
 
 A time period from 315.2 to 307.0 million years ago. 
 

@@ -125,19 +125,19 @@ title: is_a_reservoir Class
 type: Type
 described_by_source:
 - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 different_from:
-- '[[_Standards/WikiData/WD~reservoir,1047832|WD~reservoir,1047832]]'
-- '[[_Standards/WikiData/WD~water_reservoir,2551525|WD~water_reservoir,2551525]]'
-- '[[_Standards/WikiData/WD~water_storage,7973769|WD~water_storage,7973769]]'
-- '[[_Standards/WikiData/WD~Q25424259,25424259|WD~Q25424259,25424259]]'
+- '[[/_Standards/WikiData/WD~reservoir,1047832|WD~reservoir,1047832]]'
+- '[[/_Standards/WikiData/WD~water_reservoir,2551525|WD~water_reservoir,2551525]]'
+- '[[/_Standards/WikiData/WD~water_storage,7973769|WD~water_storage,7973769]]'
+- '[[/_Standards/WikiData/WD~Q25424259,25424259|WD~Q25424259,25424259]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~water_reservoir,2551525|WD~water_reservoir,2551525]]'
-- '[[_Standards/WikiData/WD~artificial_lake,3215290|WD~artificial_lake,3215290]]'
-- '[[_Standards/WikiData/WD~Q11727010,11727010|WD~Q11727010,11727010]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_reservoir,13411749|WD~Template_Infobox_reservoir,13411749]]'
+- '[[/_Standards/WikiData/WD~water_reservoir,2551525|WD~water_reservoir,2551525]]'
+- '[[/_Standards/WikiData/WD~artificial_lake,3215290|WD~artificial_lake,3215290]]'
+- '[[/_Standards/WikiData/WD~Q11727010,11727010|WD~Q11727010,11727010]]'
+topic_has_template: '[[/_Standards/WikiData/WD~Template_Infobox_reservoir,13411749|WD~Template_Infobox_reservoir,13411749]]'
 properties_for_this_type:
 - Code for China Reservoir Name
 - SNCZI-IPE reservoir ID

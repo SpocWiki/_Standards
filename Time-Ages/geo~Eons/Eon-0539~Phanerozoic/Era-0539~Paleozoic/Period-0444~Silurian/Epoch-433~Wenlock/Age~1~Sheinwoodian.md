@@ -24,11 +24,11 @@ aliases:
 - 申伍德期
 has_id_wikidata: Q582801
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Sheinwoodian,30869539|WD~Category_Sheinwoodian,30869539]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_Sheinwoodian,134691344|WD~GSSP_for_the_base_of_Sheinwoodian,134691344]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Sheinwoodian,30869539|WD~Category_Sheinwoodian,30869539]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_Sheinwoodian,134691344|WD~GSSP_for_the_base_of_Sheinwoodian,134691344]]'
 start_time: -433400000-01-01T00:00:00Z
 end_time: -430500000-01-01T00:00:00Z
 sRGB_color_hex_triplet: B6E4D0
@@ -77,7 +77,7 @@ dv_has_:
     stopped: -430.5e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Sheinwoodian,582801|WD~Sheinwoodian,582801]]'
+  - '[[/_Standards/WikiData/WD~Sheinwoodian,582801|WD~Sheinwoodian,582801]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~1~Sheinwoodian|Age~1~Sheinwoodian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~1~Sheinwoodian.public|Age~1~Sheinwoodian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~1~Sheinwoodian.internal|Age~1~Sheinwoodian.internal]]'
@@ -89,7 +89,7 @@ dv_has_duration_years: 2.900e+6
 dv_has_previous_item: '[[../Epoch-443~Llandovery/Age~3~Telychian|Age~3~Telychian]]'
 dv_has_next_item: '[[Age~2~Homerian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Sheinwoodian,582801|WD~Sheinwoodian,582801]]'
+- '[[/_Standards/WikiData/WD~Sheinwoodian,582801|WD~Sheinwoodian,582801]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~1~Sheinwoodian|Age~1~Sheinwoodian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~1~Sheinwoodian.public|Age~1~Sheinwoodian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~1~Sheinwoodian.internal|Age~1~Sheinwoodian.internal]]'
@@ -131,7 +131,7 @@ dv_has_text_of_color: 0xBFE6C3
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Sheinwoodian,582801|WD~Sheinwoodian,582801]]  
+#is_/same_as :: [[/_Standards/WikiData/WD~Sheinwoodian,582801|WD~Sheinwoodian,582801]]  
 
 A time period from 433.4 to 430.5 million years ago. 
 

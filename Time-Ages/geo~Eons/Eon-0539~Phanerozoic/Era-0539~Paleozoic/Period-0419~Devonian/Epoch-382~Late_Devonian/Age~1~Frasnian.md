@@ -29,15 +29,15 @@ aliases:
 - 弗拉斯階
 has_id_wikidata: Q264200
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
-named_by: '[[_Standards/WikiData/WD~Jules_Gosselet,572826|WD~Jules_Gosselet,572826]]'
-named_after: '[[_Standards/WikiData/WD~Frasnes_lez_Couvin,1451367|WD~Frasnes_lez_Couvin,1451367]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Frasnian,21708748|WD~Category_Frasnian,21708748]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Frasnian,134562255|WD~GSSP_for_the_base_of_the_Frasnian,134562255]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+named_by: '[[/_Standards/WikiData/WD~Jules_Gosselet,572826|WD~Jules_Gosselet,572826]]'
+named_after: '[[/_Standards/WikiData/WD~Frasnes_lez_Couvin,1451367|WD~Frasnes_lez_Couvin,1451367]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Frasnian,21708748|WD~Category_Frasnian,21708748]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_the_Frasnian,134562255|WD~GSSP_for_the_base_of_the_Frasnian,134562255]]'
 coordinate_location: Point(3.0868 43.5032)
-country: '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+country: '[[/_Standards/WikiData/WD~France,142|WD~France,142]]'
 start_time: -382700000-01-01T00:00:00Z
 Commons_category: Frasnian
 described_at_URL: https://popups.uliege.be/1374-8505/index.php?id=1071
@@ -93,7 +93,7 @@ dv_has_:
     stopped: -372.2e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Frasnian,264200|WD~Frasnian,264200]]'
+  - '[[/_Standards/WikiData/WD~Frasnian,264200|WD~Frasnian,264200]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian|Age~1~Frasnian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.public|Age~1~Frasnian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.internal|Age~1~Frasnian.internal]]'
@@ -105,7 +105,7 @@ dv_has_duration_years: 1.050e+7
 dv_has_previous_item: '[[../Epoch-393~Middle_Devonian/Age~2~Givetian|Age~2~Givetian]]'
 dv_has_next_item: '[[Age~2~Famennian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Frasnian,264200|WD~Frasnian,264200]]'
+- '[[/_Standards/WikiData/WD~Frasnian,264200|WD~Frasnian,264200]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian|Age~1~Frasnian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.public|Age~1~Frasnian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.internal|Age~1~Frasnian.internal]]'
@@ -147,7 +147,7 @@ dv_has_text_of_color: 0xF2EDAD
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Frasnian,264200|WD~Frasnian,264200]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Frasnian,264200|WD~Frasnian,264200]] 
 
 
 A time period from 382.7 to 372.2 million years ago. 

@@ -57,16 +57,16 @@ aliases:
 - 오르가슴
 has_id_wikidata: Q5887
 different_from:
-- '[[_Standards/WikiData/WD~Orgasm,1204901|WD~Orgasm,1204901]]'
-- '[[_Standards/WikiData/WD~ejaculation,14820885|WD~ejaculation,14820885]]'
-part_of: '[[_Standards/WikiData/WD~human_sexual_response_cycle,1361002|WD~human_sexual_response_cycle,1361002]]'
-facet_of: '[[_Standards/WikiData/WD~sexuality,3043188|WD~sexuality,3043188]]'
-has_cause: '[[_Standards/WikiData/WD~sexual_stimulation,3490562|WD~sexual_stimulation,3490562]]'
+- '[[/_Standards/WikiData/WD~Orgasm,1204901|WD~Orgasm,1204901]]'
+- '[[/_Standards/WikiData/WD~ejaculation,14820885|WD~ejaculation,14820885]]'
+part_of: '[[/_Standards/WikiData/WD~human_sexual_response_cycle,1361002|WD~human_sexual_response_cycle,1361002]]'
+facet_of: '[[/_Standards/WikiData/WD~sexuality,3043188|WD~sexuality,3043188]]'
+has_cause: '[[/_Standards/WikiData/WD~sexual_stimulation,3490562|WD~sexual_stimulation,3490562]]'
 has_effect:
-- '[[_Standards/WikiData/WD~ejaculation,14820885|WD~ejaculation,14820885]]'
-- '[[_Standards/WikiData/WD~sexual_pleasure,20851021|WD~sexual_pleasure,20851021]]'
-subclass_of: '[[_Standards/WikiData/WD~physiological_process,30892994|WD~physiological_process,30892994]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720|WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+- '[[/_Standards/WikiData/WD~ejaculation,14820885|WD~ejaculation,14820885]]'
+- '[[/_Standards/WikiData/WD~sexual_pleasure,20851021|WD~sexual_pleasure,20851021]]'
+subclass_of: '[[/_Standards/WikiData/WD~physiological_process,30892994|WD~physiological_process,30892994]]'
+on_focus_list_of_Wikimedia_project: '[[/_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720|WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
 IMDb_keyword: orgasm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Franciszek%20%C5%BBmurko%20-%20Sinnenrausch.png
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Orgasmus2.ogg
@@ -187,7 +187,7 @@ dv_has_:
 
 # [[Orgasm]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Orgasm,5887|WD~Orgasm,5887]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Orgasm,5887|WD~Orgasm,5887]] 
 
 ## #has_/text_of_/abstract 
 

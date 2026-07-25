@@ -1,10 +1,10 @@
 ---
 aliases:
 has_id_wikidata: Q619449
-named_after: "[[_Standards/WikiData/WD~Apollonius_of_Perga,180109]]"
-instance_of: "[[_Standards/WikiData/WD~mathematical_problem,1166625]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Problem_of_Apollonius,55307931]]"
+named_after: "[[/_Standards/WikiData/WD~Apollonius_of_Perga,180109]]"
+instance_of: "[[/_Standards/WikiData/WD~mathematical_problem,1166625]]"
+maintained_by_WikiProject: "[[/_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+topic_s_main_category: "[[/_Standards/WikiData/WD~Category_Problem_of_Apollonius,55307931]]"
 Commons_gallery: Problem of Apollonius
 Commons_category: Problem of Apollonius
 ---

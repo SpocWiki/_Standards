@@ -53,15 +53,15 @@ aliases:
 - 악덕
 - "\U00011005\U00011013\U0001103C\U00011032\U0001102E"
 has_id_wikidata: Q1411242
-opposite_of: '[[_Standards/WikiData/WD~virtue,157811|WD~virtue,157811]]'
+opposite_of: '[[/_Standards/WikiData/WD~virtue,157811|WD~virtue,157811]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Vices,6328058|WD~Category_Vices,6328058]]'
-different_from: '[[_Standards/WikiData/WD~bad_habit,17004554|WD~bad_habit,17004554]]'
-subclass_of: '[[_Standards/WikiData/WD~moral_quality,31172650|WD~moral_quality,31172650]]'
-depicted_by: '[[_Standards/WikiData/WD~Jupiter_striking_down_vices,131823355|WD~Jupiter_striking_down_vices,131823355]]'
-has_characteristic: '[[_Standards/WikiData/WD~sin,60227|WD~sin,60227]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Vices,6328058|WD~Category_Vices,6328058]]'
+different_from: '[[/_Standards/WikiData/WD~bad_habit,17004554|WD~bad_habit,17004554]]'
+subclass_of: '[[/_Standards/WikiData/WD~moral_quality,31172650|WD~moral_quality,31172650]]'
+depicted_by: '[[/_Standards/WikiData/WD~Jupiter_striking_down_vices,131823355|WD~Jupiter_striking_down_vices,131823355]]'
+has_characteristic: '[[/_Standards/WikiData/WD~sin,60227|WD~sin,60227]]'
 Library_of_Congress_Classification: BJ1534
 Dewey_Decimal_Classification: 179.8
 Commons_category: Vices
@@ -125,7 +125,7 @@ dv_has_:
 
 # [[Vice]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~vice,1411242|WD~vice,1411242]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~vice,1411242|WD~vice,1411242]] 
 #has_/complement :: [[../../../Philosophy/Ethics/Virtue|Virtue]] 
 
 | Vice             | Category   |    % | Source     | Typical Description                                 |

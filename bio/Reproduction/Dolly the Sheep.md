@@ -2,22 +2,22 @@
 aliases:
   - Dolly the Sheep
 has_id_wikidata: Q171433
-fabrication_method: "[[_Standards/WikiData/WD~cloning,120877]]"
-named_after: "[[_Standards/WikiData/WD~Dolly_Parton,180453]]"
-given_name: "[[_Standards/WikiData/WD~Dolly,1235797]]"
-place_of_death: "[[_Standards/WikiData/WD~The_Roslin_Institute,1633976]]"
-place_of_birth: "[[_Standards/WikiData/WD~The_Roslin_Institute,1633976]]"
+fabrication_method: "[[/_Standards/WikiData/WD~cloning,120877]]"
+named_after: "[[/_Standards/WikiData/WD~Dolly_Parton,180453]]"
+given_name: "[[/_Standards/WikiData/WD~Dolly,1235797]]"
+place_of_death: "[[/_Standards/WikiData/WD~The_Roslin_Institute,1633976]]"
+place_of_birth: "[[/_Standards/WikiData/WD~The_Roslin_Institute,1633976]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~ewe,2409684]]"
-  - "[[_Standards/WikiData/WD~individual_animal,26401003]]"
-  - "[[_Standards/WikiData/WD~cloned_mammal,57813806]]"
-animal_breed: "[[_Standards/WikiData/WD~Finnish_Dorset,5450768]]"
-individual_of_taxon: "[[_Standards/WikiData/WD~Ovis_aries,29350771]]"
+  - "[[/_Standards/WikiData/WD~ewe,2409684]]"
+  - "[[/_Standards/WikiData/WD~individual_animal,26401003]]"
+  - "[[/_Standards/WikiData/WD~cloned_mammal,57813806]]"
+animal_breed: "[[/_Standards/WikiData/WD~Finnish_Dorset,5450768]]"
+individual_of_taxon: "[[/_Standards/WikiData/WD~Ovis_aries,29350771]]"
 mother:
-  - "[[_Standards/WikiData/WD~mitochondrial_mother_of_Dolly_the_Sheep,135022244]]"
-  - "[[_Standards/WikiData/WD~chromosomal_mother_of_Dolly_the_Sheep,135022401]]"
-  - "[[_Standards/WikiData/WD~birth_mother_of_Dolly_the_Sheep,135023612]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female_organism,43445]]"
+  - "[[/_Standards/WikiData/WD~mitochondrial_mother_of_Dolly_the_Sheep,135022244]]"
+  - "[[/_Standards/WikiData/WD~chromosomal_mother_of_Dolly_the_Sheep,135022401]]"
+  - "[[/_Standards/WikiData/WD~birth_mother_of_Dolly_the_Sheep,135023612]]"
+sex_or_gender: "[[/_Standards/WikiData/WD~female_organism,43445]]"
 name_in_native_language: Dolly
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dolly%20face%20closeup.jpg
 Commons_category: Dolly (sheep)

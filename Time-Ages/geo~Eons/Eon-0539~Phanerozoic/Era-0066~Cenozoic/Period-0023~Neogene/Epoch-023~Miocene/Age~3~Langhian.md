@@ -24,22 +24,22 @@ aliases:
 - 蘭海階
 - 랑에절
 has_id_wikidata: Q167254
-different_from: '[[_Standards/WikiData/WD~Lang,232182|WD~Lang,232182]]'
+different_from: '[[/_Standards/WikiData/WD~Lang,232182|WD~Lang,232182]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age,568683|WD~age,568683]]'
-- '[[_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
+- '[[/_Standards/WikiData/WD~age,568683|WD~age,568683]]'
+- '[[/_Standards/WikiData/WD~stage,1123245|WD~stage,1123245]]'
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~Astaracian,746788|WD~Astaracian,746788]]'
-- '[[_Standards/WikiData/WD~Orleanian,2031089|WD~Orleanian,2031089]]'
-named_by: '[[_Standards/WikiData/WD~Lorenzo_Pareto,3259491|WD~Lorenzo_Pareto,3259491]]'
-replaces: '[[_Standards/WikiData/WD~Q16641518,16641518|WD~Q16641518,16641518]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Langhian,21607905|WD~Category_Langhian,21607905]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Langhian,133835732|WD~GSSP_for_the_base_of_the_Langhian,133835732]]'
+- '[[/_Standards/WikiData/WD~Astaracian,746788|WD~Astaracian,746788]]'
+- '[[/_Standards/WikiData/WD~Orleanian,2031089|WD~Orleanian,2031089]]'
+named_by: '[[/_Standards/WikiData/WD~Lorenzo_Pareto,3259491|WD~Lorenzo_Pareto,3259491]]'
+replaces: '[[/_Standards/WikiData/WD~Q16641518,16641518|WD~Q16641518,16641518]]'
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Langhian,21607905|WD~Category_Langhian,21607905]]'
+part_of: '[[/_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770|WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+type_locality_geology_: '[[/_Standards/WikiData/WD~GSSP_for_the_base_of_the_Langhian,133835732|WD~GSSP_for_the_base_of_the_Langhian,133835732]]'
 coordinate_location: Point(13.56229 43.59193)
 end_time: -13820000-01-01T00:00:00Z
-significant_place: '[[_Standards/WikiData/WD~Ancona,3415|WD~Ancona,3415]]'
-named_after: '[[_Standards/WikiData/WD~Langhe,19865|WD~Langhe,19865]]'
+significant_place: '[[/_Standards/WikiData/WD~Ancona,3415|WD~Ancona,3415]]'
+named_after: '[[/_Standards/WikiData/WD~Langhe,19865|WD~Langhe,19865]]'
 sRGB_color_hex_triplet: FFFF4D
 Commons_category: Langhian
 start_time: -15980000-01-01T00:00:00Z
@@ -103,7 +103,7 @@ dv_has_:
     stopped: -13.82e6
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Langhian,167254|WD~Langhian,167254]]'
+  - '[[/_Standards/WikiData/WD~Langhian,167254|WD~Langhian,167254]]'
   - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~3~Langhian|Age~3~Langhian]]'
   - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~3~Langhian.public|Age~3~Langhian.public]]'
   - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~3~Langhian.internal|Age~3~Langhian.internal]]'
@@ -115,7 +115,7 @@ dv_has_duration_years: 2.160e+6
 dv_has_previous_item: '[[Age~2~Burdigalian]]'
 dv_has_next_item: '[[Age~4~Serravallian]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Langhian,167254|WD~Langhian,167254]]'
+- '[[/_Standards/WikiData/WD~Langhian,167254|WD~Langhian,167254]]'
 - '[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~3~Langhian|Age~3~Langhian]]'
 - '[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~3~Langhian.public|Age~3~Langhian.public]]'
 - '[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~3~Langhian.internal|Age~3~Langhian.internal]]'
@@ -159,7 +159,7 @@ A time period from 15.98 to 13.82 million years ago.
 
 has_previous_item = `=this.dv_has_previous_item` 
 has_next_item = `=this.dv_has_next_item` 
-#is_/same_as :: [[_Standards/WikiData/WD~Langhian,167254|WD~Langhian,167254]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Langhian,167254|WD~Langhian,167254]] 
 
 ![[../../../../../../../xLarge/Earth/Geology/Earth-015_Ma_(Langhian_Age).png|Earth-015_Ma_(Langhian_Age).png]] 
 

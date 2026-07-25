@@ -61,8 +61,8 @@ aliases:
 - 范艾倫輻射帶
 - 밴 앨런대
 has_id_wikidata: Q188533
-named_after: '[[_Standards/WikiData/WD~James_A._Van_Allen,271963|WD~James_A._Van_Allen,271963]]'
-instance_of: '[[_Standards/WikiData/WD~astrophysical_process,15401756|WD~astrophysical_process,15401756]]'
+named_after: '[[/_Standards/WikiData/WD~James_A._Van_Allen,271963|WD~James_A._Van_Allen,271963]]'
+instance_of: '[[/_Standards/WikiData/WD~astrophysical_process,15401756|WD~astrophysical_process,15401756]]'
 time_of_discovery_or_invention: 1958-01-01T00:00:00Z
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Allen%20Belts.ogv
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Allen%20radiation%20belt.svg
@@ -161,7 +161,7 @@ dv_has_:
 
 # [[Van_Allen_Radiation_Belt]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Van_Allen_radiation_belt,188533|WD~Van_Allen_radiation_belt,188533]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Van_Allen_radiation_belt,188533|WD~Van_Allen_radiation_belt,188533]] 
 
 ## #has_/text_of_/abstract 
 

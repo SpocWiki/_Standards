@@ -5,20 +5,20 @@ aliases:
   - jaunisse
 has_id_wikidata: Q133244
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+  - "[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~clinical_sign,1441305]]"
-  - "[[_Standards/WikiData/WD~abnormal_skin_coloration,47085690]]"
-  - "[[_Standards/WikiData/WD~skin_and_integumentary_tissue_symptom,100751718]]"
+  - "[[/_Standards/WikiData/WD~clinical_sign,1441305]]"
+  - "[[/_Standards/WikiData/WD~abnormal_skin_coloration,47085690]]"
+  - "[[/_Standards/WikiData/WD~skin_and_integumentary_tissue_symptom,100751718]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~clinical_sign,1441305]]"
-  - "[[_Standards/WikiData/WD~health_problem,2057971]]"
-  - "[[_Standards/WikiData/WD~symptom_or_sign,112965645]]"
-different_from: "[[_Standards/WikiData/WD~viral_hepatitis,1983841]]"
-health_specialty: "[[_Standards/WikiData/WD~internal_medicine,11180]]"
+  - "[[/_Standards/WikiData/WD~clinical_sign,1441305]]"
+  - "[[/_Standards/WikiData/WD~health_problem,2057971]]"
+  - "[[/_Standards/WikiData/WD~symptom_or_sign,112965645]]"
+different_from: "[[/_Standards/WikiData/WD~viral_hepatitis,1983841]]"
+health_specialty: "[[/_Standards/WikiData/WD~internal_medicine,11180]]"
 DiseasesDB: "7038"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jaundice%20eye.jpg
 OmegaWiki_Defined_Meaning: "723743"

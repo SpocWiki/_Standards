@@ -46,24 +46,24 @@ aliases:
 - 흑요석
 has_id_wikidata: Q53754
 subclass_of:
-- '[[_Standards/WikiData/WD~volcanic_glass,107749|WD~volcanic_glass,107749]]'
-- '[[_Standards/WikiData/WD~volcanic_rock,108689|WD~volcanic_rock,108689]]'
+- '[[/_Standards/WikiData/WD~volcanic_glass,107749|WD~volcanic_glass,107749]]'
+- '[[/_Standards/WikiData/WD~volcanic_rock,108689|WD~volcanic_rock,108689]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~feldspar,170258|WD~feldspar,170258]]'
-- '[[_Standards/WikiData/WD~quartz,43010|WD~quartz,43010]]'
+- '[[/_Standards/WikiData/WD~feldspar,170258|WD~feldspar,170258]]'
+- '[[/_Standards/WikiData/WD~quartz,43010|WD~quartz,43010]]'
 described_by_source:
 - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-mineral_fracture: '[[_Standards/WikiData/WD~conchoidal_fracture,2747476|WD~conchoidal_fracture,2747476]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[/_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+mineral_fracture: '[[/_Standards/WikiData/WD~conchoidal_fracture,2747476|WD~conchoidal_fracture,2747476]]'
 color:
-- '[[_Standards/WikiData/WD~red,3142|WD~red,3142]]'
-- '[[_Standards/WikiData/WD~black,23445|WD~black,23445]]'
-- '[[_Standards/WikiData/WD~brown,47071|WD~brown,47071]]'
+- '[[/_Standards/WikiData/WD~red,3142|WD~red,3142]]'
+- '[[/_Standards/WikiData/WD~black,23445|WD~black,23445]]'
+- '[[/_Standards/WikiData/WD~brown,47071|WD~brown,47071]]'
 Mohs_hardness: 5.5
 Commons_gallery: Obsidian
 Commons_category: Obsidian
@@ -177,7 +177,7 @@ dv_has_:
 
 # [[Obsidian]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Obsidian,53754|WD~Obsidian,53754]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Obsidian,53754|WD~Obsidian,53754]] 
 
 ## #has_/text_of_/abstract 
 

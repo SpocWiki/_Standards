@@ -69,8 +69,8 @@ aliases:
 - 纳－德内语系
 - 나데네어족
 has_id_wikidata: Q26986
-subclass_of: '[[_Standards/WikiData/WD~indigenous_language_of_North_America,4200688|WD~indigenous_language_of_North_America,4200688]]'
-instance_of: '[[_Standards/WikiData/WD~language_family,25295|WD~language_family,25295]]'
+subclass_of: '[[/_Standards/WikiData/WD~indigenous_language_of_North_America,4200688|WD~indigenous_language_of_North_America,4200688]]'
+instance_of: '[[/_Standards/WikiData/WD~language_family,25295|WD~language_family,25295]]'
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Na-Dene%20langs.png
 Glottolog_code: atha1245
 WALS_family_code: nadene
@@ -156,7 +156,7 @@ dv_has_:
 
 # [[LangFamily-Nadene]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Na-Dene,26986|WD~Na-Dene,26986]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Na-Dene,26986|WD~Na-Dene,26986]] 
 
 ## #has_/text_of_/abstract 
 
