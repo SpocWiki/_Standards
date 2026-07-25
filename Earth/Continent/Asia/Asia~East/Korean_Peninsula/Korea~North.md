@@ -329,7 +329,7 @@ dv_Area-Total: 120538
 dv_Area-Land: 120410
 dv_has_place_continent: '[[../../../Asia|Asia]]'
 dv_VehicleCode: KP
-dv_Capital: '[[Korea~North/City/Pyongyang|Pyongyang]] ]'
+dv_Capital: '[[Korea~North/City/Pyongyang|Pyongyang]]'
 dv_Alcohol-l: 3.5
 dv_Language-Id: 459
 dv_is_a_: '[[../../../../Geography/Place/Administrative_Area/City|City]]'

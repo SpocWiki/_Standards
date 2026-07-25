@@ -11,15 +11,24 @@
 # Relative Markdown links/images and multi-segment WikiLinks 
 # are automatically re-based whenever content crosses the 
 # directory-level boundary between F\ReadMe.md and F.md, so 
-# links keep pointing at the same target file. 
+# links keep pointing at the same target file. Rooted paths 
+# ("/...") are left untouched, since they reference a fixed 
+# root that does not shift with the directory-level change. 
+# 
+# All content-hash comparisons (both the "already identical" 
+# check and the common-ancestor search across history) are 
+# performed AFTER translating links into a single common 
+# frame of reference. Without this, two files that are 
+# logically identical except for their relative link paths 
+# would never be recognized as matching, and every merge 
+# would degrade into a whole-file conflict. 
 # 
 # When git merge-file cannot resolve a merge cleanly, the 
 # conflict is also registered in each repository's index 
 # (stages 1/2/3) via git update-index --index-info, so 
 # `git status` (and GUI tools such as TortoiseGitMerge) 
-# correctly report the file as unmerged (UU) in both the 
-# sub-repo and the parent repo, instead of as an ordinary 
-# modification or a malformed delete/modify conflict. 
+# correctly report the file as unmerged (UU) instead of an 
+# ordinary modification or a malformed delete/modify conflict. 
 # 
 # No git add / git commit is performed otherwise - this 
 # script only updates the working-tree files and (on 
@@ -59,6 +68,9 @@ function Get-ContentHash([string]$text) {
 # ------------------------------------------------------------ 
 # Reads the full commit history of a single file within a 
 # repo and returns, per version (newest first): Hash, Text. 
+# Hashes here are of the RAW, untranslated text; callers that 
+# need to compare across two different directory frames must 
+# first run this through Convert-VersionHistoryToFrame. 
 # ------------------------------------------------------------ 
 function Get-FileVersionHistory([string]$repoPath, [string]$relativeFile) { 
     Push-Location $repoPath 
@@ -83,15 +95,34 @@ function Get-FileVersionHistory([string]$repoPath, [string]$relativeFile) {
 } 
 
 # ------------------------------------------------------------ 
+# Returns $true when $text already contains Git conflict 
+# markers. Used to guard against treating a not-yet-resolved 
+# conflicted file as clean input to a new merge or history 
+# scan, which would otherwise nest markers inside markers. 
+# ------------------------------------------------------------ 
+function Test-ContainsConflictMarkers([string]$text) { 
+    return $text -match '(?m)^(<{7}|={7}|>{7})' 
+} 
+
+# ------------------------------------------------------------ 
 # Scans two independent version histories and returns the text 
 # of the most recent version with an identical content hash in 
-# both. Treated as the "last common ancestor" for the 3-way 
+# both, skipping any version that already contains conflict 
+# markers. Treated as the "last common ancestor" for the 3-way 
 # merge, since no shared commit exists. Returns $null if none 
-# was found (i.e. the files have no known common ancestor). 
+# was found. 
+# 
+# Both histories passed in MUST already be expressed in the 
+# same directory frame of reference (see 
+# Convert-VersionHistoryToFrame), otherwise relative-link 
+# differences alone would prevent any real match from ever 
+# being found. 
 # ------------------------------------------------------------ 
 function Find-LastCommonVersionText($historyA, $historyB) { 
     foreach ($versionA in $historyA) { 
+        if (Test-ContainsConflictMarkers $versionA.Text) { continue } 
         foreach ($versionB in $historyB) { 
+            if (Test-ContainsConflictMarkers $versionB.Text) { continue } 
             if ($versionA.Hash -eq $versionB.Hash) { 
                 return $versionA.Text 
             } 
@@ -101,13 +132,41 @@ function Find-LastCommonVersionText($historyA, $historyB) {
 } 
 
 # ------------------------------------------------------------ 
-# Returns $true for links that must NOT be rewritten: a URL 
-# scheme (http:, mailto:, obsidian:, ...), a Windows drive 
-# letter (C:\...), a root-relative path (starting with /), or 
-# a same-document anchor (starting with #). 
+# Returns $true when two texts differ so much in line count 
+# that an empty-base 3-way merge would only produce one giant, 
+# unresolvable whole-file conflict rather than a useful partial 
+# merge. $maxSizeRatio is the largest tolerated ratio between 
+# the longer and shorter text's line counts. 
+# ------------------------------------------------------------ 
+function Test-AreTooDissimilarForEmptyBaseMerge([string]$textA, [string]$textB, [double]$maxSizeRatio = 3.0) { 
+    $lineCountA = ($textA -split "`n").Count 
+    $lineCountB = ($textB -split "`n").Count 
+    $longer  = [Math]::Max($lineCountA, $lineCountB) 
+    $shorter = [Math]::Max([Math]::Min($lineCountA, $lineCountB), 1) 
+    return ($longer / $shorter) -gt $maxSizeRatio 
+} 
+
+# ------------------------------------------------------------ 
+# Returns $true for a path that is rooted (starts with "/"). 
+# Rooted paths are assumed to reference a fixed root (e.g. an 
+# Obsidian vault root) that does not shift when content moves 
+# between F\ReadMe.md and F.md, so they must NEVER be rewritten 
+# by Convert-RelativeLink - only non-rooted (relative) paths 
+# are adjusted for the directory-level change. 
+# ------------------------------------------------------------ 
+function Test-IsRootedPath([string]$path) { 
+    return $path.StartsWith('/') 
+} 
+
+# ------------------------------------------------------------ 
+# Returns $true for links that must NOT be rewritten because 
+# they are not a plain filesystem-relative path at all: a URL 
+# scheme (http:, mailto:, obsidian:, ...), or a same-document 
+# anchor (starting with #). Rooted paths ("/...") are handled 
+# separately by Test-IsRootedPath. 
 # ------------------------------------------------------------ 
 function Test-IsLinkExempt([string]$path) { 
-    return $path -match '^([a-zA-Z][a-zA-Z0-9+.\-]*:|/|#)' 
+    return $path -match '^([a-zA-Z][a-zA-Z0-9+.\-]*:|#)' 
 } 
 
 # ------------------------------------------------------------ 
@@ -126,10 +185,12 @@ function Get-RelativePath([string]$fromDir, [string]$toPath) {
 # ------------------------------------------------------------ 
 # Rewrites a single relative link path so that, when moved from 
 # $sourceDir to $targetDir, it still resolves to the same file. 
-# A trailing "#anchor" is preserved untouched. 
+# A trailing "#anchor" is preserved untouched. Rooted paths 
+# ("/...") and non-path links (URLs, anchors) are returned 
+# unchanged - only genuine relative paths are re-based. 
 # ------------------------------------------------------------ 
 function Convert-RelativeLink([string]$linkPath, [string]$sourceDir, [string]$targetDir) { 
-    if ([string]::IsNullOrWhiteSpace($linkPath) -or (Test-IsLinkExempt $linkPath)) { 
+    if ([string]::IsNullOrWhiteSpace($linkPath) -or (Test-IsRootedPath $linkPath) -or (Test-IsLinkExempt $linkPath)) { 
         return $linkPath 
     } 
 
@@ -154,10 +215,9 @@ function Convert-RelativeLink([string]$linkPath, [string]$sourceDir, [string]$ta
 # `![alt](path)`) and every multi-segment WikiLink 
 # (`[[folder/page]]`, `[[folder/page|alias]]`) in $text so 
 # links keep pointing at the same target after content moves 
-# from $sourceDir to $targetDir. Single-segment WikiLinks 
-# (e.g. `[[Page]]`) are left untouched, since tools such as 
-# Obsidian commonly resolve those by filename lookup across 
-# the whole vault rather than by folder-relative path. 
+# from $sourceDir to $targetDir. Rooted paths (starting with 
+# "/") and single-segment WikiLinks (e.g. `[[Page]]`) are left 
+# untouched. 
 # ------------------------------------------------------------ 
 function Convert-RelativeLinksInText([string]$text, [string]$sourceDir, [string]$targetDir) { 
 
@@ -180,6 +240,26 @@ function Convert-RelativeLinksInText([string]$text, [string]$sourceDir, [string]
 } 
 
 # ------------------------------------------------------------ 
+# Translates every version in a file-history list into a 
+# different directory frame of reference (via 
+# Convert-RelativeLinksInText) and recomputes each version's 
+# content hash accordingly. Required before comparing two 
+# histories that natively live in different frames (e.g. a 
+# sub-repo's ReadMe.md vs. its parent's F.md companion), so 
+# link-path differences alone don't prevent a real content 
+# match from being found. 
+# ------------------------------------------------------------ 
+function Convert-VersionHistoryToFrame($history, [string]$sourceDir, [string]$targetDir) { 
+    return $history | ForEach-Object { 
+        $translatedText = Convert-RelativeLinksInText $_.Text $sourceDir $targetDir 
+        [PSCustomObject]@{ 
+            Hash = Get-ContentHash $translatedText 
+            Text = $translatedText 
+        } 
+    } 
+} 
+
+# ------------------------------------------------------------ 
 # Writes $text to a repo's object database as a blob and 
 # returns its object hash. Assumes the caller has already set 
 # the current location to the target repository. 
@@ -199,10 +279,7 @@ function Write-GitBlob([string]$text) {
 # Each call is a separate invocation so the record is always 
 # a single, unambiguous, newline-terminated line - avoiding 
 # any risk of a trailing line being dropped when multiple 
-# records are joined into one multi-line pipe payload (which 
-# was observed to sometimes silently drop stage 3, producing 
-# a malformed delete/modify conflict instead of a proper 
-# unmerged (UU) state). 
+# records are joined into one multi-line pipe payload. 
 # ------------------------------------------------------------ 
 function Write-IndexInfoRecord([string]$mode, [string]$objectHash, [int]$stage, [string]$repoRelativePath) { 
     $record = "$mode $objectHash $stage`t$repoRelativePath`n" 
@@ -214,9 +291,7 @@ function Write-IndexInfoRecord([string]$mode, [string]$objectHash, [int]$stage, 
 # Explicitly removes a stage entry (if any) for a path, using 
 # Git's documented "mode 0 / all-zero object name" record. 
 # Used to represent "no common ancestor" as a proper add/add 
-# conflict, instead of fabricating an empty-content base 
-# (which Git and GUI tools could otherwise misread as a 
-# delete/modify situation). 
+# conflict, instead of fabricating an empty-content base. 
 # ------------------------------------------------------------ 
 function Clear-IndexInfoRecord([int]$stage, [string]$repoRelativePath) { 
     $zeroHash = "0" * 40 
@@ -233,8 +308,8 @@ function Clear-IndexInfoRecord([int]$stage, [string]$repoRelativePath) {
 # $baseText must be $null when no common ancestor was found; 
 # in that case stage 1 is explicitly cleared, correctly 
 # producing an add/add conflict instead of a fake empty-file 
-# base. Pass an empty string only when the ancestor genuinely 
-# was an empty file. 
+# base. $baseText, $oursText and $theirsText must already be 
+# expressed in $repoPath's own directory frame. 
 # ------------------------------------------------------------ 
 function Register-ConflictInIndex([string]$repoPath, [string]$fileNameInRepoDir, $baseText, [string]$oursText, [string]$theirsText) { 
 
@@ -276,11 +351,14 @@ function Register-ConflictInIndex([string]$repoPath, [string]$fileNameInRepoDir,
 
 # ------------------------------------------------------------ 
 # Merges F\ReadMe.md with the parent folder's F.md using a 
-# 3-way merge (git merge-file). Relative links are re-based 
-# via Convert-RelativeLinksInText whenever content crosses the 
-# directory-level boundary. If the merge produces conflict 
+# 3-way merge (git merge-file). All content-hash comparisons 
+# (the "already identical" check and the common-ancestor 
+# search) are performed on link-translated text, so relative- 
+# link differences between the two frames never masquerade as 
+# a real content difference. If the merge produces conflict 
 # markers, the conflict is additionally registered in both 
-# repositories' indexes via Register-ConflictInIndex. 
+# repositories' indexes via Register-ConflictInIndex, using 
+# base/ours/theirs text translated into each repo's own frame. 
 # ------------------------------------------------------------ 
 function Merge-ReadmeWithCompanion([string]$subRepoDirectory, [string]$parentOfSubRepo, [string]$subFolderName) { 
 
@@ -298,38 +376,60 @@ function Merge-ReadmeWithCompanion([string]$subRepoDirectory, [string]$parentOfS
     if ($readmeExists -and -not $companionExists) { 
         $translated = Convert-RelativeLinksInText (Get-Content $readmePath -Raw) $subRepoDirectory $parentOfSubRepo 
         Set-Content -Path $companionPath -Value $translated -NoNewline 
-        Write-Host "  Initialized $subFolderName.md from ReadMe.md (links adjusted for directory level)" -ForegroundColor Cyan 
+        Write-Host "  Initialized $subFolderName.md from ReadMe.md (non-rooted links adjusted for directory level)" -ForegroundColor Cyan 
         return 
     } 
 
     if (-not $readmeExists -and $companionExists) { 
         $translated = Convert-RelativeLinksInText (Get-Content $companionPath -Raw) $parentOfSubRepo $subRepoDirectory 
         Set-Content -Path $readmePath -Value $translated -NoNewline 
-        Write-Host "  Initialized ReadMe.md from $subFolderName.md (links adjusted for directory level)" -ForegroundColor Cyan 
+        Write-Host "  Initialized ReadMe.md from $subFolderName.md (non-rooted links adjusted for directory level)" -ForegroundColor Cyan 
         return 
     } 
 
     $readmeOriginalText    = Get-Content $readmePath -Raw 
     $companionOriginalText = Get-Content $companionPath -Raw 
 
-    if ($readmeOriginalText -eq $companionOriginalText) { 
-        Write-Host "  ReadMe.md and $subFolderName.md are already identical" -ForegroundColor Green 
+    if (Test-ContainsConflictMarkers $readmeOriginalText) { 
+        Write-Host "  Skipping (ReadMe.md already contains unresolved conflict markers - resolve manually first)" -ForegroundColor Red 
         return 
     } 
 
-    $readmeHistory    = Get-FileVersionHistory $subRepoDirectory "ReadMe.md" 
-    $companionHistory = Get-FileVersionHistory $parentOfSubRepo "$subFolderName.md" 
-
-    $commonBaseText = Find-LastCommonVersionText $readmeHistory $companionHistory 
-
-    if ($null -eq $commonBaseText) { 
-        Write-Host "  No common ancestor version found - will register as an add/add conflict if unresolved" -ForegroundColor Yellow 
+    if (Test-ContainsConflictMarkers $companionOriginalText) { 
+        Write-Host "  Skipping ($subFolderName.md already contains unresolved conflict markers - resolve manually first)" -ForegroundColor Red 
+        return 
     } 
 
-    # Translate the companion's links into ReadMe.md's frame before the 
-    # 3-way merge, so a directory-level difference never shows up as a 
-    # false conflict. 
+    # Translate the companion's non-rooted links into ReadMe.md's frame 
+    # up front, and reuse this single translation for BOTH the "already 
+    # identical" check below AND the merge-file input further down - this 
+    # is the key fix: without it, link-path differences alone would make 
+    # even logically identical files appear different forever. 
     $companionTextInReadmeFrame = Convert-RelativeLinksInText $companionOriginalText $parentOfSubRepo $subRepoDirectory 
+
+    if ($readmeOriginalText -eq $companionTextInReadmeFrame) { 
+        Write-Host "  ReadMe.md and $subFolderName.md are already identical (after link-frame translation)" -ForegroundColor Green 
+        return 
+    } 
+
+    $readmeHistory       = Get-FileVersionHistory $subRepoDirectory "ReadMe.md" 
+    $companionHistoryRaw = Get-FileVersionHistory $parentOfSubRepo "$subFolderName.md" 
+
+    # Normalize the companion's entire history into ReadMe.md's frame 
+    # before searching for a common ancestor - same reasoning as above, 
+    # applied across every historical version rather than just the 
+    # current one. 
+    $companionHistoryInReadmeFrame = Convert-VersionHistoryToFrame $companionHistoryRaw $parentOfSubRepo $subRepoDirectory 
+
+    $commonBaseText = Find-LastCommonVersionText $readmeHistory $companionHistoryInReadmeFrame 
+
+    if ($null -eq $commonBaseText) { 
+        if (Test-AreTooDissimilarForEmptyBaseMerge $readmeOriginalText $companionTextInReadmeFrame) { 
+            Write-Host "  Skipping (no common ancestor AND files are too dissimilar in size - $subFolderName.md and ReadMe.md likely serve different purposes; resolve manually)" -ForegroundColor Red 
+            return 
+        } 
+        Write-Host "  No common ancestor version found - will register as an add/add conflict if unresolved" -ForegroundColor Yellow 
+    } 
 
     # git merge-file requires a real file on disk for the base, even when 
     # there is no known common ancestor; an empty file is used there only 
@@ -358,18 +458,19 @@ function Merge-ReadmeWithCompanion([string]$subRepoDirectory, [string]$parentOfS
         Set-Content -Path $companionPath -Value $mergedTextInParentFrame -NoNewline 
 
         if ($mergeExitCode -eq 0) { 
-            Write-Host "  Merged ReadMe.md <-> $subFolderName.md without conflicts (links re-based per file location)" -ForegroundColor Green 
+            Write-Host "  Merged ReadMe.md <-> $subFolderName.md without conflicts (non-rooted links re-based per file location)" -ForegroundColor Green 
         } else { 
             Write-Host "  CONFLICT merging ReadMe.md <-> $subFolderName.md ($mergeExitCode conflict block(s))" -ForegroundColor Red 
 
-            # Register the conflict in the sub-repo's own index for ReadMe.md. 
+            # Register the conflict in the sub-repo's own index for ReadMe.md - 
+            # base/ours/theirs are all already in the sub-repo (ReadMe) frame. 
             Register-ConflictInIndex $subRepoDirectory "ReadMe.md" $commonBaseText $readmeOriginalText $companionTextInReadmeFrame 
 
             # Register the same conflict in the parent repo's own index for 
-            # F.md, using each side's content translated into the parent's 
-            # frame of reference. 
+            # F.md, translating base/ours/theirs into the parent's frame first. 
+            $commonBaseTextInParentFrame = if ($null -eq $commonBaseText) { $null } else { Convert-RelativeLinksInText $commonBaseText $subRepoDirectory $parentOfSubRepo } 
             $readmeOriginalTextInParentFrame = Convert-RelativeLinksInText $readmeOriginalText $subRepoDirectory $parentOfSubRepo 
-            Register-ConflictInIndex $parentOfSubRepo "$subFolderName.md" $commonBaseText $companionOriginalText $readmeOriginalTextInParentFrame 
+            Register-ConflictInIndex $parentOfSubRepo "$subFolderName.md" $commonBaseTextInParentFrame $companionOriginalText $readmeOriginalTextInParentFrame 
         } 
     } finally { 
         Remove-Item $baseFile, $otherFile -ErrorAction SilentlyContinue 
