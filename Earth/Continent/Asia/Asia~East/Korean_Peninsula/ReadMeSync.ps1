@@ -1,5 +1,5 @@
 # ============================================================ 
-# GitMerge.ps1 
+# ReadMeSync.ps1 
 # 
 # For each sub-repository folder F (a folder containing .git), 
 # merges F\ReadMe.md with the parent folder's F.md companion 
@@ -15,10 +15,11 @@
 # repositories and silently rewrite line endings on 
 # add/commit/checkout, which was found to make two working- 
 # tree-identical files hash differently once committed. Every 
-# git add / git commit / git hash-object call in this script 
-# is run with "-c core.autocrlf=false" so Git commits exactly 
-# the bytes this script wrote, without re-applying its own 
-# conversion on top. 
+# git add / git commit call in this script is run with 
+# "-c core.autocrlf=false" so Git commits exactly the 
+# normalized bytes this script wrote, without re-applying its 
+# own conversion on top. git hash-object uses --no-filters for 
+# the same reason. 
 # 
 # All text written to disk uses Set-FileContentUtf8NoBom (raw 
 # UTF-8, no BOM, no forced line-ending conversion by Git). 
@@ -27,6 +28,13 @@
 # which uses .NET's Process class directly instead of 
 # PowerShell's native `$var = & git ...` capture, to preserve 
 # exact byte fidelity before normalization. 
+# 
+# A TEMPORARY diagnostic block (Write-HistoryDiagnostics) is 
+# included below the "no common baseline" path, to surface the 
+# exact hash/length values being compared when a baseline 
+# cannot be found, since several prior hypotheses (BOM, line 
+# endings) did not fully resolve this on their own. Remove once 
+# root-caused. 
 # 
 # Relative Markdown links/images and multi-segment WikiLinks 
 # are automatically re-based whenever content crosses the 
@@ -88,9 +96,7 @@ function Remove-Utf8Bom([string]$text) {
 } 
 
 # ------------------------------------------------------------ 
-# Normalizes all line endings in $text to a single "\n". See 
-# the header comment at the top of this file for why this is 
-# necessary. 
+# Normalizes all line endings in $text to a single "\n". 
 # ------------------------------------------------------------ 
 function Convert-ToUnixLineEndings([string]$text) { 
     return ($text -replace "`r`n", "`n") -replace "`r", "`n" 
@@ -205,6 +211,28 @@ function Find-LastCommonVersionText($historyA, $historyB) {
         } 
     } 
     return $null 
+} 
+
+# ------------------------------------------------------------ 
+# TEMPORARY DIAGNOSTIC - prints exactly what the history search 
+# is working with, so a real mismatch can be pinpointed instead 
+# of guessed at. Remove once the root cause is confirmed. 
+# ------------------------------------------------------------ 
+function Write-HistoryDiagnostics($readmeHistory, $companionHistoryRaw, [string]$readmeOriginalText, [string]$companionTextInReadmeFrame) { 
+    Write-Host "  [DIAG] ReadMe.md history entries: $($readmeHistory.Count)" -ForegroundColor Magenta 
+    foreach ($v in $readmeHistory) { 
+        Write-Host "  [DIAG]   hash=$($v.Hash) length=$($v.Text.Length)" -ForegroundColor Magenta 
+    } 
+
+    Write-Host "  [DIAG] Companion history entries: $($companionHistoryRaw.Count)" -ForegroundColor Magenta 
+    foreach ($v in $companionHistoryRaw) { 
+        Write-Host "  [DIAG]   hash=$($v.Hash) length=$($v.Text.Length)" -ForegroundColor Magenta 
+    } 
+
+    $currentReadmeHash    = Get-ContentHash $readmeOriginalText 
+    $currentCompanionHash = Get-ContentHash $companionTextInReadmeFrame 
+    Write-Host "  [DIAG] Current ReadMe.md (working tree) hash:              $currentReadmeHash length=$($readmeOriginalText.Length)" -ForegroundColor Magenta 
+    Write-Host "  [DIAG] Current companion (translated, working tree) hash:  $currentCompanionHash length=$($companionTextInReadmeFrame.Length)" -ForegroundColor Magenta 
 } 
 
 # ------------------------------------------------------------ 
@@ -456,7 +484,9 @@ function Initialize-CommonBaselineWithCompanion([string]$subRepoDirectory, [stri
 # ------------------------------------------------------------ 
 # Merges F\ReadMe.md with the parent folder's F.md. See the 
 # header comment at the top of this file for the full decision 
-# logic. 
+# logic. Includes a temporary Write-HistoryDiagnostics call 
+# right before the "no common baseline" branch, to surface the 
+# actual hash/length values being compared. 
 # ------------------------------------------------------------ 
 function Merge-ReadmeWithCompanion([string]$subRepoDirectory, [string]$parentOfSubRepo, [string]$subFolderName) { 
 
@@ -516,6 +546,7 @@ function Merge-ReadmeWithCompanion([string]$subRepoDirectory, [string]$parentOfS
     } 
 
     if ($null -eq $commonBaseText) { 
+        Write-HistoryDiagnostics $readmeHistory $companionHistoryRaw $readmeOriginalText $companionTextInReadmeFrame 
         Write-Host "  No common baseline found - bootstrapping one from $subFolderName.md instead of attempting a whole-file merge" -ForegroundColor Yellow 
         Initialize-CommonBaselineWithCompanion $subRepoDirectory $readmePath $companionOriginalText $companionTextInReadmeFrame $parentOfSubRepo $companionPath $subFolderName 
         return 

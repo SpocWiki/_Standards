@@ -1105,8 +1105,6 @@ has_place_latitude = `=this.dv_has_place_latitude`
 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South|Korea~South]] 
