@@ -1,4 +1,230 @@
 ---
+aliases:
+  - An Ruis
+  - an Rúis
+  - Arusia
+  - Biʼééʼ Łichííʼí Bikéyah
+  - Errusia
+  - Ezlozswh
+  - Federación de Rusia
+  - Federación de Rusia (la)
+  - Fédération de Russie
+  - Gárjjel
+  - I-Russia
+  - IRashiya
+  - Krievija
+  - Krīevõmō
+  - Krīveja
+  - la Federación de Rusia
+  - Lusia
+  - Lō͘-se-a
+  - Lūsia
+  - ma Losi
+  - Mackālija
+  - Nga
+  - Ngò-lò-sṳ̂
+  - Ngò̤-lò̤-sṳ̆
+  - Oroszország
+  - Portiko them
+  - Rasha
+  - Rashia
+  - Rasia
+  - Ratsiya
+  - Riisi
+  - Risi
+  - Risila
+  - Roosiya
+  - Rosha
+  - Roshya
+  - Rosia
+  - Rosja
+  - Rossia
+  - Rossiya
+  - Rosėjė
+  - Roushie
+  - Rrus
+  - Rrúsia
+  - Ruccia
+  - rukygu'e
+  - Ruošša
+  - Ruoššâ
+  - Ruscia
+  - Rusha
+  - Rusi
+  - Rusia
+  - Rusija
+  - Rusio
+  - Rusiya
+  - Rusiye
+  - Rusiä
+  - Ruska
+  - Ruska federacija
+  - Rusko
+  - Ruskô
+  - Ruslaand
+  - Ruslan
+  - Rusland
+  - Ruslandi
+  - Ruslound
+  - Ruslun
+  - Ruslân
+  - Rusojska
+  - Russi
+  - Russia
+  - Russian
+  - Russian Federation
+  - Russian Federation (the)
+  - Russie
+  - Russiýa
+  - Russja
+  - Russlaante
+  - Russland
+  - Russlond
+  - Rusya
+  - Rusyjo
+  - Rusän
+  - Rusí
+  - Rusïi
+  - Ruushka
+  - Ruusii
+  - Ruõššjânnam
+  - Rußland
+  - Rwasha
+  - Rwsia
+  - Ryssland
+  - Rùsia
+  - Rùssia
+  - Rús
+  - Rúsia
+  - Rússia
+  - Rússland
+  - Rûsseye
+  - Rûsya
+  - Rūhia
+  - Rūsia
+  - Rūtia
+  - Rọ́síà
+  - Rọṣia
+  - the Russian Federation
+  - Uburusiya
+  - Urusi
+  - Urusijət
+  - Urusiye
+  - Ven'a
+  - Venemaa
+  - Venäjä
+  - Venäma
+  - Vinnemaa
+  - y Roosh
+  - Ρουσία
+  - Ρωσία
+  - Арассыыйа
+  - Аьрасат
+  - Оросой холбоото улас
+  - Оросын Холбооны Улс
+  - Орсин Ниицән
+  - Орусия
+  - Раççей Патшалăхĕ
+  - Расія
+  - Расея
+  - Ресей
+  - Росія
+  - Росси
+  - Россий
+  - Российская Федерация
+  - Россия
+  - Россия Мастор
+  - Россиялъул Федерация
+  - Рочму
+  - Русија
+  - Русия
+  - Рѡсїꙗ
+  - Рәсәй
+  - Рӯшш е̄ммьне
+  - Уæрæсе
+  - Урусат
+  - Урысей
+  - Урыстәыла
+  - Урысые
+  - Эрсече
+  - Ռուսաստան
+  - Ռուսիա
+  - רוסיה
+  - רוסלאנד
+  - الاتحاد الروسي
+  - روس
+  - روسىيە
+  - روسيا
+  - روسیه
+  - روٗس
+  - رۊسیه
+  - ڕووسیا
+  - ܪܘܣܝܐ
+  - ރޫސީވިލާތް
+  - रशिया
+  - रुस
+  - रूस
+  - রাশিয়া
+  - ৰাছিয়া
+  - ਰੂਸ
+  - રશિયા
+  - ଋଷିଆ
+  - உருசியா
+  - రష్యా
+  - ರಷ್ಯಾ
+  - റഷ്യ
+  - රුසියාව
+  - ประเทศรัสเซีย
+  - ລັດເຊັຽ
+  - ར་ཤི་ཡཱན་ཕེ་ཌི་རེ་ཤཱན
+  - ཨུ་རུ་སུ།
+  - မိူင်းရတ်ႈသျႃး
+  - ရသျားခမ်းထီ
+  - ရုရှာ
+  - ရုရှားနိုင်ငံ
+  - რუსეთი
+  - ሩሲያ
+  - ሩስያ
+  - ᏲᏂᏱ
+  - ᐅᓛᓴ
+  - ᐊᓯᐊ
+  - រុស្ស៊ី
+  - ᠣᡵᠣᠰ
+  - ᱨᱟᱥᱤᱭᱟ
+  - Ṛrus
+  - ⵔⵓⵙⵢⴰ
+  - ロシア
+  - 俄罗斯
+  - 俄罗斯联邦
+  - 俄羅斯
+  - ꠞꠣꠡꠤꠀ
+  - ꯔꯁꯤꯌꯥ
+  - 러시아
+  - 로씨야
+  - 𐍂𐌿𐍃𐌰𐌻𐌰𐌽𐌳
+has_id_wikidata: Q159
+location:
+  - "52.6418"
+  - "47.4574"
+SpocWebEntityId: 27007
+type: Country
+tags:
+  - geo/Country
+isDeleted: false
+confidential: public
+license: CC BY-SA 4.0
+isReadOnly: false
+source: https://datahub.io/core/country-codes
+cssclasses:
+  - Country
+publish: true
+title: Russia
+linkTitle: ""
+keywords: ""
+layout: ""
+draft: false
+publishDate: ""
+expiryDate: ""
 dv_has_:
   name_:
     ab: Урыстәыла
@@ -474,232 +700,6 @@ dv_is_same_as:
   - "[[/_personal/Earth/Continent/Europe/Europe~East/Russia.personal|Russia.personal]]"
   - "[[/_secret/Earth/Continent/Europe/Europe~East/Russia.secret|Russia.secret]]"
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Russia
-aliases:
-  - An Ruis
-  - an Rúis
-  - Arusia
-  - Biʼééʼ Łichííʼí Bikéyah
-  - Errusia
-  - Ezlozswh
-  - Federación de Rusia
-  - Federación de Rusia (la)
-  - Fédération de Russie
-  - Gárjjel
-  - I-Russia
-  - IRashiya
-  - Krievija
-  - Krīevõmō
-  - Krīveja
-  - la Federación de Rusia
-  - Lusia
-  - Lō͘-se-a
-  - Lūsia
-  - ma Losi
-  - Mackālija
-  - Nga
-  - Ngò-lò-sṳ̂
-  - Ngò̤-lò̤-sṳ̆
-  - Oroszország
-  - Portiko them
-  - Rasha
-  - Rashia
-  - Rasia
-  - Ratsiya
-  - Riisi
-  - Risi
-  - Risila
-  - Roosiya
-  - Rosha
-  - Roshya
-  - Rosia
-  - Rosja
-  - Rossia
-  - Rossiya
-  - Rosėjė
-  - Roushie
-  - Rrus
-  - Rrúsia
-  - Ruccia
-  - rukygu'e
-  - Ruošša
-  - Ruoššâ
-  - Ruscia
-  - Rusha
-  - Rusi
-  - Rusia
-  - Rusija
-  - Rusio
-  - Rusiya
-  - Rusiye
-  - Rusiä
-  - Ruska
-  - Ruska federacija
-  - Rusko
-  - Ruskô
-  - Ruslaand
-  - Ruslan
-  - Rusland
-  - Ruslandi
-  - Ruslound
-  - Ruslun
-  - Ruslân
-  - Rusojska
-  - Russi
-  - Russia
-  - Russian
-  - Russian Federation
-  - Russian Federation (the)
-  - Russie
-  - Russiýa
-  - Russja
-  - Russlaante
-  - Russland
-  - Russlond
-  - Rusya
-  - Rusyjo
-  - Rusän
-  - Rusí
-  - Rusïi
-  - Ruushka
-  - Ruusii
-  - Ruõššjânnam
-  - Rußland
-  - Rwasha
-  - Rwsia
-  - Ryssland
-  - Rùsia
-  - Rùssia
-  - Rús
-  - Rúsia
-  - Rússia
-  - Rússland
-  - Rûsseye
-  - Rûsya
-  - Rūhia
-  - Rūsia
-  - Rūtia
-  - Rọ́síà
-  - Rọṣia
-  - the Russian Federation
-  - Uburusiya
-  - Urusi
-  - Urusijət
-  - Urusiye
-  - Ven'a
-  - Venemaa
-  - Venäjä
-  - Venäma
-  - Vinnemaa
-  - y Roosh
-  - Ρουσία
-  - Ρωσία
-  - Арассыыйа
-  - Аьрасат
-  - Оросой холбоото улас
-  - Оросын Холбооны Улс
-  - Орсин Ниицән
-  - Орусия
-  - Раççей Патшалăхĕ
-  - Расія
-  - Расея
-  - Ресей
-  - Росія
-  - Росси
-  - Россий
-  - Российская Федерация
-  - Россия
-  - Россия Мастор
-  - Россиялъул Федерация
-  - Рочму
-  - Русија
-  - Русия
-  - Рѡсїꙗ
-  - Рәсәй
-  - Рӯшш е̄ммьне
-  - Уæрæсе
-  - Урусат
-  - Урысей
-  - Урыстәыла
-  - Урысые
-  - Эрсече
-  - Ռուսաստան
-  - Ռուսիա
-  - רוסיה
-  - רוסלאנד
-  - الاتحاد الروسي
-  - روس
-  - روسىيە
-  - روسيا
-  - روسیه
-  - روٗس
-  - رۊسیه
-  - ڕووسیا
-  - ܪܘܣܝܐ
-  - ރޫސީވިލާތް
-  - रशिया
-  - रुस
-  - रूस
-  - রাশিয়া
-  - ৰাছিয়া
-  - ਰੂਸ
-  - રશિયા
-  - ଋଷିଆ
-  - உருசியா
-  - రష్యా
-  - ರಷ್ಯಾ
-  - റഷ്യ
-  - රුසියාව
-  - ประเทศรัสเซีย
-  - ລັດເຊັຽ
-  - ར་ཤི་ཡཱན་ཕེ་ཌི་རེ་ཤཱན
-  - ཨུ་རུ་སུ།
-  - မိူင်းရတ်ႈသျႃး
-  - ရသျားခမ်းထီ
-  - ရုရှာ
-  - ရုရှားနိုင်ငံ
-  - რუსეთი
-  - ሩሲያ
-  - ሩስያ
-  - ᏲᏂᏱ
-  - ᐅᓛᓴ
-  - ᐊᓯᐊ
-  - រុស្ស៊ី
-  - ᠣᡵᠣᠰ
-  - ᱨᱟᱥᱤᱭᱟ
-  - Ṛrus
-  - ⵔⵓⵙⵢⴰ
-  - ロシア
-  - 俄罗斯
-  - 俄罗斯联邦
-  - 俄羅斯
-  - ꠞꠣꠡꠤꠀ
-  - ꯔꯁꯤꯌꯥ
-  - 러시아
-  - 로씨야
-  - 𐍂𐌿𐍃𐌰𐌻𐌰𐌽𐌳
-has_id_wikidata: Q159
-location:
-  - "52.6418"
-  - "47.4574"
-SpocWebEntityId: 27007
-type: Country
-tags:
-  - geo/Country
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses:
-  - Country
-publish: true
-title: Russia
-linkTitle: ""
-keywords: ""
-layout: ""
-draft: false
-publishDate: ""
-expiryDate: ""
 Languages:
   - ru
   - tt
@@ -725,6 +725,115 @@ Languages:
   - sah
   - nog
 icon: flag-ru
+language_used:
+  - "[[/_Standards/WikiData/WD~Kerek,332792|WD~Kerek,332792]]"
+  - "[[/_Standards/WikiData/WD~Karelian_Proper,747153|WD~Karelian_Proper,747153]]"
+  - "[[/_Standards/WikiData/WD~Pannonian_Avar,791623|WD~Pannonian_Avar,791623]]"
+  - "[[/_Standards/WikiData/WD~Mari,973685|WD~Mari,973685]]"
+  - "[[/_Standards/WikiData/WD~Hill_Mari,1776032|WD~Hill_Mari,1776032]]"
+  - "[[/_Standards/WikiData/WD~Medny_Aleut,1977419|WD~Medny_Aleut,1977419]]"
+  - "[[/_Standards/WikiData/WD~Southern_Altai,1991779|WD~Southern_Altai,1991779]]"
+  - "[[/_Standards/WikiData/WD~Northern_Altai,2640863|WD~Northern_Altai,2640863]]"
+  - "[[/_Standards/WikiData/WD~Meadow_Mari,3906614|WD~Meadow_Mari,3906614]]"
+  - "[[/_Standards/WikiData/WD~Siberian_Tatar,4418344|WD~Siberian_Tatar,4418344]]"
+  - "[[/_Standards/WikiData/WD~Dargin,5222637|WD~Dargin,5222637]]"
+  - "[[/_Standards/WikiData/WD~Khalkha_Mongolian,6399808|WD~Khalkha_Mongolian,6399808]]"
+  - "[[/_Standards/WikiData/WD~Finnish,1412|WD~Finnish,1412]]"
+  - "[[/_Standards/WikiData/WD~Russian,7737|WD~Russian,7737]]"
+  - "[[/_Standards/WikiData/WD~Russian_Sign_Language,13210|WD~Russian_Sign_Language,13210]]"
+  - "[[/_Standards/WikiData/WD~Udege,13235|WD~Udege,13235]]"
+  - "[[/_Standards/WikiData/WD~Udmurt,13238|WD~Udmurt,13238]]"
+  - "[[/_Standards/WikiData/WD~Ulch,13239|WD~Ulch,13239]]"
+  - "[[/_Standards/WikiData/WD~Skolt_Sami,13271|WD~Skolt_Sami,13271]]"
+  - "[[/_Standards/WikiData/WD~Nanai,13303|WD~Nanai,13303]]"
+  - "[[/_Standards/WikiData/WD~Moksha,13343|WD~Moksha,13343]]"
+  - "[[/_Standards/WikiData/WD~Bashkir,13389|WD~Bashkir,13389]]"
+  - "[[/_Standards/WikiData/WD~Tatar,25285|WD~Tatar,25285]]"
+  - "[[/_Standards/WikiData/WD~Abaza,27567|WD~Abaza,27567]]"
+  - "[[/_Standards/WikiData/WD~Adyghe,27776|WD~Adyghe,27776]]"
+  - "[[/_Standards/WikiData/WD~Naukan_Yupik,27963|WD~Naukan_Yupik,27963]]"
+  - "[[/_Standards/WikiData/WD~Central_Siberian_Yupik,27993|WD~Central_Siberian_Yupik,27993]]"
+  - "[[/_Standards/WikiData/WD~Sirenik,28156|WD~Sirenik,28156]]"
+  - "[[/_Standards/WikiData/WD~Alyutor,28213|WD~Alyutor,28213]]"
+  - "[[/_Standards/WikiData/WD~Avar,29561|WD~Avar,29561]]"
+  - "[[/_Standards/WikiData/WD~Erzya,29952|WD~Erzya,29952]]"
+  - "[[/_Standards/WikiData/WD~Even,29960|WD~Even,29960]]"
+  - "[[/_Standards/WikiData/WD~Lezgian,31746|WD~Lezgian,31746]]"
+  - "[[/_Standards/WikiData/WD~Dargwa,32332|WD~Dargwa,32332]]"
+  - "[[/_Standards/WikiData/WD~Veps,32747|WD~Veps,32747]]"
+  - "[[/_Standards/WikiData/WD~Votic,32858|WD~Votic,32858]]"
+  - "[[/_Standards/WikiData/WD~Dolgan,32878|WD~Dolgan,32878]]"
+  - "[[/_Standards/WikiData/WD~Bezhta,33054|WD~Bezhta,33054]]"
+  - "[[/_Standards/WikiData/WD~Buryat,33120|WD~Buryat,33120]]"
+  - "[[/_Standards/WikiData/WD~Chulym,33125|WD~Chulym,33125]]"
+  - "[[/_Standards/WikiData/WD~Chukchi,33170|WD~Chukchi,33170]]"
+  - "[[/_Standards/WikiData/WD~Church_Slavonic,33251|WD~Church_Slavonic,33251]]"
+  - "[[/_Standards/WikiData/WD~Hinuq,33283|WD~Hinuq,33283]]"
+  - "[[/_Standards/WikiData/WD~Chechen,33350|WD~Chechen,33350]]"
+  - "[[/_Standards/WikiData/WD~Chuvash,33348|WD~Chuvash,33348]]"
+  - "[[/_Standards/WikiData/WD~Ket,33485|WD~Ket,33485]]"
+  - "[[/_Standards/WikiData/WD~Ingush,33509|WD~Ingush,33509]]"
+  - "[[/_Standards/WikiData/WD~Kabardian,33522|WD~Kabardian,33522]]"
+  - "[[/_Standards/WikiData/WD~Ingrian,33559|WD~Ingrian,33559]]"
+  - "[[/_Standards/WikiData/WD~Karelian,33557|WD~Karelian,33557]]"
+  - "[[/_Standards/WikiData/WD~Khanty,33563|WD~Khanty,33563]]"
+  - "[[/_Standards/WikiData/WD~Khakas,33575|WD~Khakas,33575]]"
+  - "[[/_Standards/WikiData/WD~Itelmen,33624|WD~Itelmen,33624]]"
+  - "[[/_Standards/WikiData/WD~Kalmyk,33634|WD~Kalmyk,33634]]"
+  - "[[/_Standards/WikiData/WD~Oroch,33650|WD~Oroch,33650]]"
+  - "[[/_Standards/WikiData/WD~Kildin_Sami,33656|WD~Kildin_Sami,33656]]"
+  - "[[/_Standards/WikiData/WD~Negidal,33676|WD~Negidal,33676]]"
+  - "[[/_Standards/WikiData/WD~Karachay-Balkar,33714|WD~Karachay-Balkar,33714]]"
+  - "[[/_Standards/WikiData/WD~Karagas,33751|WD~Karagas,33751]]"
+  - "[[/_Standards/WikiData/WD~Mansi,33759|WD~Mansi,33759]]"
+  - "[[/_Standards/WikiData/WD~Nogai,33871|WD~Nogai,33871]]"
+  - "[[/_Standards/WikiData/WD~Ludic,33918|WD~Ludic,33918]]"
+  - "[[/_Standards/WikiData/WD~Orok,33928|WD~Orok,33928]]"
+  - "[[/_Standards/WikiData/WD~Ossetian,33968|WD~Ossetian,33968]]"
+  - "[[/_Standards/WikiData/WD~Selkup,34008|WD~Selkup,34008]]"
+  - "[[/_Standards/WikiData/WD~Tsez,34033|WD~Tsez,34033]]"
+  - "[[/_Standards/WikiData/WD~Tabasaran,34079|WD~Tabasaran,34079]]"
+  - "[[/_Standards/WikiData/WD~Komi-Zyryan,34114|WD~Komi-Zyryan,34114]]"
+  - "[[/_Standards/WikiData/WD~Tuvan,34119|WD~Tuvan,34119]]"
+  - "[[/_Standards/WikiData/WD~Shor,34139|WD~Shor,34139]]"
+  - "[[/_Standards/WikiData/WD~Yakut,34299|WD~Yakut,34299]]"
+  - "[[/_Standards/WikiData/WD~Andi,34849|WD~Andi,34849]]"
+  - "[[/_Standards/WikiData/WD~Archi,34915|WD~Archi,34915]]"
+  - "[[/_Standards/WikiData/WD~Akkala_Sami,35241|WD~Akkala_Sami,35241]]"
+  - "[[/_Standards/WikiData/WD~Old_Church_Slavonic,35499|WD~Old_Church_Slavonic,35499]]"
+  - "[[/_Standards/WikiData/WD~Kamassian,35991|WD~Kamassian,35991]]"
+  - "[[/_Standards/WikiData/WD~Komi,36126|WD~Komi,36126]]"
+  - "[[/_Standards/WikiData/WD~Koryak,36199|WD~Koryak,36199]]"
+  - "[[/_Standards/WikiData/WD~Lak,36206|WD~Lak,36206]]"
+  - "[[/_Standards/WikiData/WD~Kumyk,36209|WD~Kumyk,36209]]"
+  - "[[/_Standards/WikiData/WD~Nenets,36452|WD~Nenets,36452]]"
+  - "[[/_Standards/WikiData/WD~Nivkh,36464|WD~Nivkh,36464]]"
+  - "[[/_Standards/WikiData/WD~Aghul,36498|WD~Aghul,36498]]"
+  - "[[/_Standards/WikiData/WD~Livvi-Karelian,36584|WD~Livvi-Karelian,36584]]"
+  - "[[/_Standards/WikiData/WD~Ter_Sami,36656|WD~Ter_Sami,36656]]"
+  - "[[/_Standards/WikiData/WD~Nganasan,36743|WD~Nganasan,36743]]"
+  - "[[/_Standards/WikiData/WD~Rutulian,36757|WD~Rutulian,36757]]"
+  - "[[/_Standards/WikiData/WD~Tofa,36848|WD~Tofa,36848]]"
+  - "[[/_Standards/WikiData/WD~Tsakhur,36853|WD~Tsakhur,36853]]"
+  - "[[/_Standards/WikiData/WD~Tindi,36860|WD~Tindi,36860]]"
+  - "[[/_Standards/WikiData/WD~Yugh,56311|WD~Yugh,56311]]"
+  - "[[/_Standards/WikiData/WD~Permyak,56318|WD~Permyak,56318]]"
+  - "[[/_Standards/WikiData/WD~Tundra_Yukaghir,56319|WD~Tundra_Yukaghir,56319]]"
+  - "[[/_Standards/WikiData/WD~Akhvakh,56423|WD~Akhvakh,56423]]"
+  - "[[/_Standards/WikiData/WD~Khwarshi,56425|WD~Khwarshi,56425]]"
+  - "[[/_Standards/WikiData/WD~Tat,56489|WD~Tat,56489]]"
+  - "[[/_Standards/WikiData/WD~Judeo-Tat,56495|WD~Judeo-Tat,56495]]"
+  - "[[/_Standards/WikiData/WD~Godoberi,56515|WD~Godoberi,56515]]"
+  - "[[/_Standards/WikiData/WD~Southern_Yukaghir,56545|WD~Southern_Yukaghir,56545]]"
+  - "[[/_Standards/WikiData/WD~Botlikh,56560|WD~Botlikh,56560]]"
+  - "[[/_Standards/WikiData/WD~Chamalal,56567|WD~Chamalal,56567]]"
+  - "[[/_Standards/WikiData/WD~Hunzib,56564|WD~Hunzib,56564]]"
+  - "[[/_Standards/WikiData/WD~Bagvalal,56638|WD~Bagvalal,56638]]"
+  - "[[/_Standards/WikiData/WD~Karata-Tukita,56636|WD~Karata-Tukita,56636]]"
+  - "[[/_Standards/WikiData/WD~Oirat,56959|WD~Oirat,56959]]"
+  - "[[/_Standards/WikiData/WD~Russia_Buriat,16116629|WD~Russia_Buriat,16116629]]"
+  - "[[/_Standards/WikiData/WD~Tundra_Enets,25559411|WD~Tundra_Enets,25559411]]"
+  - "[[/_Standards/WikiData/WD~Forest_Enets,30249597|WD~Forest_Enets,30249597]]"
 member_of:
   - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
   - "[[/_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656|WD~International_Civil_Defence_Organisation,162656]]"
@@ -931,6 +1040,9 @@ diplomatic_relation:
   - "[[/_Standards/WikiData/WD~Luhansk_People's_Republic,16746854|WD~Luhansk_People's_Republic,16746854]]"
   - "[[/_Standards/WikiData/WD~Republic_of_Abkhazia,31354462|WD~Republic_of_Abkhazia,31354462]]"
 history_of_topic: "[[/_Standards/WikiData/WD~history_of_Russia,161414|WD~history_of_Russia,161414]]"
+studied_in: "[[/_Standards/WikiData/WD~Russian_studies,375470|WD~Russian_studies,375470]]"
+legislative_body: "[[/_Standards/WikiData/WD~Federal_Assembly_of_the_Russian_Federation,457869|WD~Federal_Assembly_of_the_Russian_Federation,457869]]"
+economy_of_topic: "[[/_Standards/WikiData/WD~economy_of_Russia,461731|WD~economy_of_Russia,461731]]"
 public_holiday:
   - "[[/_Standards/WikiData/WD~Defender_of_the_Fatherland_Day,163708|WD~Defender_of_the_Fatherland_Day,163708]]"
   - "[[/_Standards/WikiData/WD~New_Year's_Day,196627|WD~New_Year's_Day,196627]]"
@@ -973,118 +1085,6 @@ described_by_source:
   - "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[/_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]"
   - "[[/_Standards/WikiData/WD~Meyer_s_Universum,_Neunter_Band,131719188|WD~Meyer_s_Universum,_Neunter_Band,131719188]]"
-language_used:
-  - "[[/_Standards/WikiData/WD~Kerek,332792|WD~Kerek,332792]]"
-  - "[[/_Standards/WikiData/WD~Karelian_Proper,747153|WD~Karelian_Proper,747153]]"
-  - "[[/_Standards/WikiData/WD~Pannonian_Avar,791623|WD~Pannonian_Avar,791623]]"
-  - "[[/_Standards/WikiData/WD~Mari,973685|WD~Mari,973685]]"
-  - "[[/_Standards/WikiData/WD~Hill_Mari,1776032|WD~Hill_Mari,1776032]]"
-  - "[[/_Standards/WikiData/WD~Medny_Aleut,1977419|WD~Medny_Aleut,1977419]]"
-  - "[[/_Standards/WikiData/WD~Southern_Altai,1991779|WD~Southern_Altai,1991779]]"
-  - "[[/_Standards/WikiData/WD~Northern_Altai,2640863|WD~Northern_Altai,2640863]]"
-  - "[[/_Standards/WikiData/WD~Meadow_Mari,3906614|WD~Meadow_Mari,3906614]]"
-  - "[[/_Standards/WikiData/WD~Siberian_Tatar,4418344|WD~Siberian_Tatar,4418344]]"
-  - "[[/_Standards/WikiData/WD~Dargin,5222637|WD~Dargin,5222637]]"
-  - "[[/_Standards/WikiData/WD~Khalkha_Mongolian,6399808|WD~Khalkha_Mongolian,6399808]]"
-  - "[[/_Standards/WikiData/WD~Finnish,1412|WD~Finnish,1412]]"
-  - "[[/_Standards/WikiData/WD~Russian,7737|WD~Russian,7737]]"
-  - "[[/_Standards/WikiData/WD~Russian_Sign_Language,13210|WD~Russian_Sign_Language,13210]]"
-  - "[[/_Standards/WikiData/WD~Udege,13235|WD~Udege,13235]]"
-  - "[[/_Standards/WikiData/WD~Udmurt,13238|WD~Udmurt,13238]]"
-  - "[[/_Standards/WikiData/WD~Ulch,13239|WD~Ulch,13239]]"
-  - "[[/_Standards/WikiData/WD~Skolt_Sami,13271|WD~Skolt_Sami,13271]]"
-  - "[[/_Standards/WikiData/WD~Nanai,13303|WD~Nanai,13303]]"
-  - "[[/_Standards/WikiData/WD~Moksha,13343|WD~Moksha,13343]]"
-  - "[[/_Standards/WikiData/WD~Bashkir,13389|WD~Bashkir,13389]]"
-  - "[[/_Standards/WikiData/WD~Tatar,25285|WD~Tatar,25285]]"
-  - "[[/_Standards/WikiData/WD~Abaza,27567|WD~Abaza,27567]]"
-  - "[[/_Standards/WikiData/WD~Adyghe,27776|WD~Adyghe,27776]]"
-  - "[[/_Standards/WikiData/WD~Naukan_Yupik,27963|WD~Naukan_Yupik,27963]]"
-  - "[[/_Standards/WikiData/WD~Central_Siberian_Yupik,27993|WD~Central_Siberian_Yupik,27993]]"
-  - "[[/_Standards/WikiData/WD~Sirenik,28156|WD~Sirenik,28156]]"
-  - "[[/_Standards/WikiData/WD~Alyutor,28213|WD~Alyutor,28213]]"
-  - "[[/_Standards/WikiData/WD~Avar,29561|WD~Avar,29561]]"
-  - "[[/_Standards/WikiData/WD~Erzya,29952|WD~Erzya,29952]]"
-  - "[[/_Standards/WikiData/WD~Even,29960|WD~Even,29960]]"
-  - "[[/_Standards/WikiData/WD~Lezgian,31746|WD~Lezgian,31746]]"
-  - "[[/_Standards/WikiData/WD~Dargwa,32332|WD~Dargwa,32332]]"
-  - "[[/_Standards/WikiData/WD~Veps,32747|WD~Veps,32747]]"
-  - "[[/_Standards/WikiData/WD~Votic,32858|WD~Votic,32858]]"
-  - "[[/_Standards/WikiData/WD~Dolgan,32878|WD~Dolgan,32878]]"
-  - "[[/_Standards/WikiData/WD~Bezhta,33054|WD~Bezhta,33054]]"
-  - "[[/_Standards/WikiData/WD~Buryat,33120|WD~Buryat,33120]]"
-  - "[[/_Standards/WikiData/WD~Chulym,33125|WD~Chulym,33125]]"
-  - "[[/_Standards/WikiData/WD~Chukchi,33170|WD~Chukchi,33170]]"
-  - "[[/_Standards/WikiData/WD~Church_Slavonic,33251|WD~Church_Slavonic,33251]]"
-  - "[[/_Standards/WikiData/WD~Hinuq,33283|WD~Hinuq,33283]]"
-  - "[[/_Standards/WikiData/WD~Chechen,33350|WD~Chechen,33350]]"
-  - "[[/_Standards/WikiData/WD~Chuvash,33348|WD~Chuvash,33348]]"
-  - "[[/_Standards/WikiData/WD~Ket,33485|WD~Ket,33485]]"
-  - "[[/_Standards/WikiData/WD~Ingush,33509|WD~Ingush,33509]]"
-  - "[[/_Standards/WikiData/WD~Kabardian,33522|WD~Kabardian,33522]]"
-  - "[[/_Standards/WikiData/WD~Ingrian,33559|WD~Ingrian,33559]]"
-  - "[[/_Standards/WikiData/WD~Karelian,33557|WD~Karelian,33557]]"
-  - "[[/_Standards/WikiData/WD~Khanty,33563|WD~Khanty,33563]]"
-  - "[[/_Standards/WikiData/WD~Khakas,33575|WD~Khakas,33575]]"
-  - "[[/_Standards/WikiData/WD~Itelmen,33624|WD~Itelmen,33624]]"
-  - "[[/_Standards/WikiData/WD~Kalmyk,33634|WD~Kalmyk,33634]]"
-  - "[[/_Standards/WikiData/WD~Oroch,33650|WD~Oroch,33650]]"
-  - "[[/_Standards/WikiData/WD~Kildin_Sami,33656|WD~Kildin_Sami,33656]]"
-  - "[[/_Standards/WikiData/WD~Negidal,33676|WD~Negidal,33676]]"
-  - "[[/_Standards/WikiData/WD~Karachay-Balkar,33714|WD~Karachay-Balkar,33714]]"
-  - "[[/_Standards/WikiData/WD~Karagas,33751|WD~Karagas,33751]]"
-  - "[[/_Standards/WikiData/WD~Mansi,33759|WD~Mansi,33759]]"
-  - "[[/_Standards/WikiData/WD~Nogai,33871|WD~Nogai,33871]]"
-  - "[[/_Standards/WikiData/WD~Ludic,33918|WD~Ludic,33918]]"
-  - "[[/_Standards/WikiData/WD~Orok,33928|WD~Orok,33928]]"
-  - "[[/_Standards/WikiData/WD~Ossetian,33968|WD~Ossetian,33968]]"
-  - "[[/_Standards/WikiData/WD~Selkup,34008|WD~Selkup,34008]]"
-  - "[[/_Standards/WikiData/WD~Tsez,34033|WD~Tsez,34033]]"
-  - "[[/_Standards/WikiData/WD~Tabasaran,34079|WD~Tabasaran,34079]]"
-  - "[[/_Standards/WikiData/WD~Komi-Zyryan,34114|WD~Komi-Zyryan,34114]]"
-  - "[[/_Standards/WikiData/WD~Tuvan,34119|WD~Tuvan,34119]]"
-  - "[[/_Standards/WikiData/WD~Shor,34139|WD~Shor,34139]]"
-  - "[[/_Standards/WikiData/WD~Yakut,34299|WD~Yakut,34299]]"
-  - "[[/_Standards/WikiData/WD~Andi,34849|WD~Andi,34849]]"
-  - "[[/_Standards/WikiData/WD~Archi,34915|WD~Archi,34915]]"
-  - "[[/_Standards/WikiData/WD~Akkala_Sami,35241|WD~Akkala_Sami,35241]]"
-  - "[[/_Standards/WikiData/WD~Old_Church_Slavonic,35499|WD~Old_Church_Slavonic,35499]]"
-  - "[[/_Standards/WikiData/WD~Kamassian,35991|WD~Kamassian,35991]]"
-  - "[[/_Standards/WikiData/WD~Komi,36126|WD~Komi,36126]]"
-  - "[[/_Standards/WikiData/WD~Koryak,36199|WD~Koryak,36199]]"
-  - "[[/_Standards/WikiData/WD~Lak,36206|WD~Lak,36206]]"
-  - "[[/_Standards/WikiData/WD~Kumyk,36209|WD~Kumyk,36209]]"
-  - "[[/_Standards/WikiData/WD~Nenets,36452|WD~Nenets,36452]]"
-  - "[[/_Standards/WikiData/WD~Nivkh,36464|WD~Nivkh,36464]]"
-  - "[[/_Standards/WikiData/WD~Aghul,36498|WD~Aghul,36498]]"
-  - "[[/_Standards/WikiData/WD~Livvi-Karelian,36584|WD~Livvi-Karelian,36584]]"
-  - "[[/_Standards/WikiData/WD~Ter_Sami,36656|WD~Ter_Sami,36656]]"
-  - "[[/_Standards/WikiData/WD~Nganasan,36743|WD~Nganasan,36743]]"
-  - "[[/_Standards/WikiData/WD~Rutulian,36757|WD~Rutulian,36757]]"
-  - "[[/_Standards/WikiData/WD~Tofa,36848|WD~Tofa,36848]]"
-  - "[[/_Standards/WikiData/WD~Tsakhur,36853|WD~Tsakhur,36853]]"
-  - "[[/_Standards/WikiData/WD~Tindi,36860|WD~Tindi,36860]]"
-  - "[[/_Standards/WikiData/WD~Yugh,56311|WD~Yugh,56311]]"
-  - "[[/_Standards/WikiData/WD~Permyak,56318|WD~Permyak,56318]]"
-  - "[[/_Standards/WikiData/WD~Tundra_Yukaghir,56319|WD~Tundra_Yukaghir,56319]]"
-  - "[[/_Standards/WikiData/WD~Akhvakh,56423|WD~Akhvakh,56423]]"
-  - "[[/_Standards/WikiData/WD~Khwarshi,56425|WD~Khwarshi,56425]]"
-  - "[[/_Standards/WikiData/WD~Tat,56489|WD~Tat,56489]]"
-  - "[[/_Standards/WikiData/WD~Judeo-Tat,56495|WD~Judeo-Tat,56495]]"
-  - "[[/_Standards/WikiData/WD~Godoberi,56515|WD~Godoberi,56515]]"
-  - "[[/_Standards/WikiData/WD~Southern_Yukaghir,56545|WD~Southern_Yukaghir,56545]]"
-  - "[[/_Standards/WikiData/WD~Botlikh,56560|WD~Botlikh,56560]]"
-  - "[[/_Standards/WikiData/WD~Chamalal,56567|WD~Chamalal,56567]]"
-  - "[[/_Standards/WikiData/WD~Hunzib,56564|WD~Hunzib,56564]]"
-  - "[[/_Standards/WikiData/WD~Bagvalal,56638|WD~Bagvalal,56638]]"
-  - "[[/_Standards/WikiData/WD~Karata-Tukita,56636|WD~Karata-Tukita,56636]]"
-  - "[[/_Standards/WikiData/WD~Oirat,56959|WD~Oirat,56959]]"
-  - "[[/_Standards/WikiData/WD~Russia_Buriat,16116629|WD~Russia_Buriat,16116629]]"
-  - "[[/_Standards/WikiData/WD~Tundra_Enets,25559411|WD~Tundra_Enets,25559411]]"
-  - "[[/_Standards/WikiData/WD~Forest_Enets,30249597|WD~Forest_Enets,30249597]]"
-studied_in: "[[/_Standards/WikiData/WD~Russian_studies,375470|WD~Russian_studies,375470]]"
-legislative_body: "[[/_Standards/WikiData/WD~Federal_Assembly_of_the_Russian_Federation,457869|WD~Federal_Assembly_of_the_Russian_Federation,457869]]"
-economy_of_topic: "[[/_Standards/WikiData/WD~economy_of_Russia,461731|WD~economy_of_Russia,461731]]"
 highest_judicial_authority:
   - "[[/_Standards/WikiData/WD~Constitutional_Court_of_Russia,584759|WD~Constitutional_Court_of_Russia,584759]]"
   - "[[/_Standards/WikiData/WD~Supreme_Court_of_Russia,2622450|WD~Supreme_Court_of_Russia,2622450]]"

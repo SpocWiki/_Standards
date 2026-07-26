@@ -453,13 +453,29 @@ dv_has_:
 
 > **Politics** (from Ancient Greek  πολιτικά (politiká) 'affairs of the cities') 
 > is the set of activities that are associated with making decisions in groups, 
-> or other forms of power relations among individuals, such as the distribution of status or resources.
+> or other forms of power relations among individuals, 
+> such as the distribution of status or resources.
 >
-> The branch of social science that studies politics and government is referred to as political science.
+> The branch of social science that studies politics and government is referred to as 
+> [[Anthropology/Sociology/Political_Science|Political_Science]], while this Topic groups actual Instances of Policies.
 >
-> Politics may be used positively in the context of a "political solution" which is compromising and non-violent, or descriptively as "the art or science of government", but the word often also carries a negative connotation. The concept has been defined in various ways, and different approaches have fundamentally differing views on whether it should be used extensively or in a limited way, empirically or normatively, and on whether conflict or co-operation is more essential to it.
+> Politics may be used 
+> - positively in the context of a "political solution" which is compromising and non-violent, or 
+> - descriptively as "the art or science of government", 
+> - but the word often also carries a negative connotation. 
+> 
+> The concept has been defined in various ways, 
+> and different approaches have fundamentally differing views on 
+> whether it should be used extensively or in a limited way, empirically or normatively, 
+> and on whether conflict or co-operation is more essential to it.
 >
-> A variety of methods are deployed in politics, which include promoting one's own political views among people, negotiation with other political subjects, making laws, and exercising internal and external force, including warfare against adversaries. Politics is exercised on a wide range of social levels, from clans and tribes of traditional societies, through modern local governments, companies and institutions up to sovereign states, to the international level.
+> A variety of methods are deployed in politics, which include 
+> - promoting one's own political views among people, 
+> - negotiation with other political subjects, 
+> - making laws, and exercising internal and external force, 
+>   including warfare against adversaries. 
+> 
+> Politics is exercised on a wide range of social levels, from clans and tribes of traditional societies, through modern local governments, companies and institutions up to sovereign states, to the international level.
 >
 > In modern states, people often form political parties to represent their ideas. Members of a party often agree to take the same position on many issues and agree to support the same changes to law and the same leaders. An election is usually a competition between different parties.
 >
