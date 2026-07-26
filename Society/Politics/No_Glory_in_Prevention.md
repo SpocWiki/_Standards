@@ -10,7 +10,7 @@ The saying that there is [[No Glory in Prevention]] can be applied in any number
 - [[../../schema-org/Enumeration/Government_Benefits_Type/Health_Care|HealthCare]] 
 	- e.g. [[../../bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination|Vaccination]] 
 - [[../../../IT/Programming/Refactoring|Refactoring]] 
-- [[Reform]] vs [[../../../_protect/Society/Sociology/Revolution|Revolution]] 
+- [[Reform]] vs [[Government/Revolution|Revolution]] 
 - etc. 
 
 ## Counter-Argument 

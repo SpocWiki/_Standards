@@ -36,7 +36,6 @@ aliases:
 - Sojfabo
 - Soojaa
 - Soojabuan
-- soy bean, or soya bean (Glycine max
 - Soya
 - Soya bean
 - Soya Fasülyesi
@@ -122,6 +121,7 @@ aliases:
 - 黑豆衣
 - 콩
 has_id_wikidata: Q11006
+instance_of: '[[/_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 taxon_author_citation:
 - (L.) Merr.
 - L. Merr.
@@ -137,28 +137,24 @@ taxon_name: Glycine max
 NBN_System_Key: NBNSYS0000014913
 UNII: NID9NUV93F
 taxon_common_name:
+- soja
 - Sojaboon
 - Соя
 - sója
 - ffeuen soia
 - Sojabønne
 - Sojfabo
-- Soja
 - peltosoijapapu
 - Soijapapu
-- Soja
 - Soojabuan
 - ダイズ
-- Soja
 - Kacang soya hijau
 - Soyabønne
 - Sojaboon
 - Soyabønne
 - feijão-chinês
 - feijão-soja
-- Soja
 - Соевые бобы
-- soja
 - Sojaböna
 - Soya Fasülyesi
 - 大豆根
@@ -387,7 +383,9 @@ dv_has_:
     za: Duhhenj
     zh: 大豆
     zh-cn: 大豆
+    zh_cn: 大豆
     zh_tw: 大豆
+    zh-tw: 大豆
 ---
 
 # [[Soybean]]

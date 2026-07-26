@@ -1,142 +1,145 @@
 ---
 aliases:
-- Bylting
-- chwyldro
-- cách mạng
-- devrim
-- dispac'h
-- domhwelans
-- forradalom
-- Himagsikan
-- Inqilob
-- iraultza
-- Juyin Juya Hali
-- Kacdoon
-- Kek-bēng
-- Mapinduzi
-- Mbóngwáná
-- Pachakutiy
-- Politesch Revolutioun
-- res novae
-- Revintreye
-- revoliucija
-- revoluce
-- revolucija
-- revolucio
-- Revolucion
-- Revolucioni
-- revolució
-- revolución
-- revolushon
-- revolusi
-- revolusjon
-- Revolusyon
-- revolutie
-- revolution
-- Revolutions
-- Revolutsioon
-- revolução
-- revoluție
-- revolúcia
-- Revolúsje
-- revolūcija
-- revołusion
-- rewolucija
-- rewolucja
-- rewolusie
-- Rewolutsion
-- Rivolutzione
-- rivoluzione
-- Rèabhlaid
-- réabhlóid
-- Révolusi
-- révolution
-- sutra binxo
-- Tagrawla
-- vallankumous
-- İnqilab
-- şoreş
-- επανάσταση
-- инкыйлаб
-- револуција
-- револуция
-- революція
-- Революци
-- революций
-- революция
-- рэвалюцыя
-- Төңкеріс
-- Төңкөрүш
-- Хубисхал
-- Хувьсгал
-- Өрөбөлүүссүйэ
-- հեղափոխություն
-- מהפכה
-- רעוואלוציע
-- انقلاب
-- اوښتون
-- ثورة
-- ثوره
-- شۆڕش
-- क्रांति
-- क्रान्ति
-- বিপ্লব
-- ਇਨਕਲਾਬ
-- ક્રાંતિ
-- புரட்சி
-- విప్లవం
-- ಕ್ರಾಂತಿ
-- വിപ്ലവം
-- ปฏิวัติ
-- တော်လှန်ရေး
-- რევოლუცია
-- 革命
-- 혁명
+  - Bylting
+  - chwyldro
+  - cách mạng
+  - devrim
+  - dispac'h
+  - domhwelans
+  - forradalom
+  - Himagsikan
+  - Inqilob
+  - iraultza
+  - Juyin Juya Hali
+  - Kacdoon
+  - Kek-bēng
+  - Mapinduzi
+  - Mbóngwáná
+  - Pachakutiy
+  - Politesch Revolutioun
+  - res novae
+  - Revintreye
+  - revoliucija
+  - revoluce
+  - revolucija
+  - revolucio
+  - Revolucion
+  - Revolucioni
+  - revolució
+  - revolución
+  - revolushon
+  - revolusi
+  - revolusjon
+  - Revolusyon
+  - revolutie
+  - revolution
+  - Revolutions
+  - Revolutsioon
+  - revolução
+  - revoluție
+  - revolúcia
+  - Revolúsje
+  - revolūcija
+  - revołusion
+  - rewolucija
+  - rewolucja
+  - rewolusie
+  - Rewolutsion
+  - Rivolutzione
+  - rivoluzione
+  - Rèabhlaid
+  - réabhlóid
+  - Révolusi
+  - révolution
+  - sutra binxo
+  - Tagrawla
+  - vallankumous
+  - İnqilab
+  - şoreş
+  - επανάσταση
+  - инкыйлаб
+  - револуција
+  - револуция
+  - революція
+  - Революци
+  - революций
+  - революция
+  - рэвалюцыя
+  - Төңкеріс
+  - Төңкөрүш
+  - Хубисхал
+  - Хувьсгал
+  - Өрөбөлүүссүйэ
+  - հեղափոխություն
+  - מהפכה
+  - רעוואלוציע
+  - انقلاب
+  - اوښتون
+  - ثورة
+  - ثوره
+  - شۆڕش
+  - क्रांति
+  - क्रान्ति
+  - বিপ্লব
+  - ਇਨਕਲਾਬ
+  - ક્રાંતિ
+  - புரட்சி
+  - విప్లవం
+  - ಕ್ರಾಂತಿ
+  - വിപ്ലവം
+  - ปฏิวัติ
+  - တော်လှန်ရေး
+  - რევოლუცია
+  - 革命
+  - 혁명
+  - Revolution
 confidential: private
 cssclasses:
-- private
-- note
+  - private
+  - note
 draft: true
-expiryDate: 
-has_Template: '[[Extract~Note~Template]]'
-has_time_started: 2024-10-03
+expiryDate:
+has_Template: "[[Extract~Note~Template]]"
+has_time_started: 2026-07-26
 isDeleted: false
 isReadOnly: false
-keywords: Revolution
+keywords:
+  - Revolution
 lang: en
-layout: 
+layout:
 license: (c)copyrighted
 linkTitle: Revolution
 publish: false
-publishDate: 
+publishDate:
 tags:
-- Revolution
-- 
+  - Revolution
+  - 
+  - excalidraw
 title: Revolution
 type: private_note
 has_id_wikidata: Q10931
 subclass_of:
-- '[[/_Standards/WikiData/WD~conflict,180684|WD~conflict,180684]]'
-- '[[/_Standards/WikiData/WD~social_change,1510761|WD~social_change,1510761]]'
-- '[[/_Standards/WikiData/WD~regime_change,1673271|WD~regime_change,1673271]]'
+  - "[[/_Standards/WikiData/WD~conflict,180684|WD~conflict,180684]]"
+  - "[[/_Standards/WikiData/WD~social_change,1510761|WD~social_change,1510761]]"
+  - "[[/_Standards/WikiData/WD~regime_change,1673271|WD~regime_change,1673271]]"
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[/_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-opposite_of: '[[/_Standards/WikiData/WD~counter_revolution,755138|WD~counter_revolution,755138]]'
-practiced_by: '[[/_Standards/WikiData/WD~revolutionary,3242115|WD~revolutionary,3242115]]'
-has_cause: '[[/_Standards/WikiData/WD~social_inequality,5431887|WD~social_inequality,5431887]]'
-has_characteristic: '[[/_Standards/WikiData/WD~gun_violence,5618454|WD~gun_violence,5618454]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[/_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+opposite_of: "[[/_Standards/WikiData/WD~counter_revolution,755138|WD~counter_revolution,755138]]"
+practiced_by: "[[/_Standards/WikiData/WD~revolutionary,3242115|WD~revolutionary,3242115]]"
+has_cause: "[[/_Standards/WikiData/WD~social_inequality,5431887|WD~social_inequality,5431887]]"
+has_characteristic: "[[/_Standards/WikiData/WD~gun_violence,5618454|WD~gun_violence,5618454]]"
 topic_has_template:
-- '[[/_Standards/WikiData/WD~Template_Revolution_sidebar,10979213|WD~Template_Revolution_sidebar,10979213]]'
-- '[[/_Standards/WikiData/WD~Template_Infobox_revolutionary,13420668|WD~Template_Infobox_revolutionary,13420668]]'
-union_of: '[[/_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+  - "[[/_Standards/WikiData/WD~Template_Revolution_sidebar,10979213|WD~Template_Revolution_sidebar,10979213]]"
+  - "[[/_Standards/WikiData/WD~Template_Infobox_revolutionary,13420668|WD~Template_Infobox_revolutionary,13420668]]"
+union_of: "[[/_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]"
 different_from:
-- '[[/_Standards/WikiData/WD~Q24265246,24265246|WD~Q24265246,24265246]]'
-- '[[/_Standards/WikiData/WD~Revolution,49122026|WD~Revolution,49122026]]'
-- '[[/_Standards/WikiData/WD~Q54894708,54894708|WD~Q54894708,54894708]]'
-instance_of: '[[/_Standards/WikiData/WD~type_of_process,116505632|WD~type_of_process,116505632]]'
+  - "[[/_Standards/WikiData/WD~Q24265246,24265246|WD~Q24265246,24265246]]"
+  - "[[/_Standards/WikiData/WD~Revolution,49122026|WD~Revolution,49122026]]"
+  - "[[/_Standards/WikiData/WD~Q54894708,54894708|WD~Q54894708,54894708]]"
+instance_of: "[[/_Standards/WikiData/WD~type_of_process,116505632|WD~type_of_process,116505632]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Roman%20soldiers%20fighting%20against%20Dacians%2C%20battle%20scene%20in%20shallow%20depth%20with%20horses%20and%20horn-players%20%28after%20a%20bas-relief%20on%20the%20Arch%20of%20Constantine%2C%20Rome%29%20MET%20DP827716.jpg
 Colon_Classification: W81
 PhilPapers_topic: revolution
@@ -276,6 +279,9 @@ dv_has_:
     zh_hant: 革命
     zh_hk: 革命
     zh_tw: 革命
+excalidraw-autoexport: none
+excalidraw-open-md: true
+excalidraw-plugin: parsed
 ---
 
 # [[Revolution]] 
@@ -424,3 +430,22 @@ Each of these revolutions contributed to the conditions that made the Industrial
 
 ### #is_/same_as :: [[/_secret/Society/Politics/Government/Revolution.secret|Revolution.secret]] 
 
+
+# [[Revolution]] 
+
+#is_/part_of :: [[Revolution]] 
+
+![[Revolution.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[Revolution.md]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```
