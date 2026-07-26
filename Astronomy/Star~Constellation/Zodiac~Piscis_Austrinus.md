@@ -77,6 +77,8 @@ isDeleted: false
 isReadOnly: false
 tags:
   - astro/Zodiac
+  - Zodiac~Piscis_Austrinus
+  - excalidraw
 type: Zodiac
 described_by_source:
   - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
@@ -215,6 +217,25 @@ dv_is_same_as:
   - "[[/_private/Astronomy/Star~Constellation/Zodiac~Piscis_Austrinus.private|Zodiac~Piscis_Austrinus.private]]"
   - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Piscis_Austrinus.personal|Zodiac~Piscis_Austrinus.personal]]"
   - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Piscis_Austrinus.secret|Zodiac~Piscis_Austrinus.secret]]"
+license: (c)copyrighted
+linkTitle: Zodiac~Piscis_Austrinus
+title: Zodiac~Piscis_Austrinus
+cssclasses:
+  - private
+  - note
+draft: true
+excalidraw-autoexport: none
+excalidraw-open-md: true
+excalidraw-plugin: parsed
+expiryDate:
+has_Template: "[[Extract~Note~Template]]"
+has_time_started: 2026-07-26
+keywords:
+  - Zodiac~Piscis_Austrinus
+lang: en
+layout:
+publish: false
+publishDate:
 ---
 
 # [[Zodiac~Piscis_Austrinus]] 
@@ -255,6 +276,15 @@ has_name_de = `=this.dv_has_name_de`
 > [Wikipedia](https://en.wikipedia.org/wiki/Piscis%20Austrinus) 
 
 
+![[Zodiac~Piscis_Austrinus.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[Zodiac~Piscis_Austrinus.md]] 
+
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[Zodiac~Piscis_Austrinus|Zodiac~Piscis_Austrinus]] 
@@ -271,3 +301,10 @@ has_name_de = `=this.dv_has_name_de`
 
 ### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Piscis_Austrinus.secret|Zodiac~Piscis_Austrinus.secret]] 
 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

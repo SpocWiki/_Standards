@@ -33,6 +33,7 @@ aliases:
 - Revolusyon
 - revolutie
 - revolution
+- Revolutions
 - Revolutsioon
 - revolução
 - revoluție
@@ -91,6 +92,28 @@ aliases:
 - რევოლუცია
 - 革命
 - 혁명
+confidential: private
+cssclasses:
+- private
+- note
+draft: true
+expiryDate: 
+has_Template: '[[Extract~Note~Template]]'
+has_time_started: 2024-10-03
+isDeleted: false
+isReadOnly: false
+keywords: Revolution
+lang: en
+layout: 
+license: (c)copyrighted
+linkTitle: Revolution
+publish: false
+publishDate: 
+tags:
+- Revolution
+- 
+title: Revolution
+type: private_note
 has_id_wikidata: Q10931
 subclass_of:
 - '[[/_Standards/WikiData/WD~conflict,180684|WD~conflict,180684]]'
@@ -131,6 +154,7 @@ dv_has_:
     ast: Revolución
     az: İnqilab
     be: рэвалюцыя
+    be-tarask: рэвалюцыя
     be_tarask: рэвалюцыя
     bg: революция
     bn: বিপ্লব
@@ -231,6 +255,7 @@ dv_has_:
     tl: Himagsikan
     tr: devrim
     tt: инкыйлаб
+    tt-cyrl: инкыйлаб
     tt_cyrl: инкыйлаб
     tyv: революция
     udm: революция
@@ -245,6 +270,9 @@ dv_has_:
     yi: רעוואלוציע
     yue: 革命
     zh: 革命
+    zh-hant: 革命
+    zh-hk: 革命
+    zh-tw: 革命
     zh_hant: 革命
     zh_hk: 革命
     zh_tw: 革命
@@ -252,35 +280,40 @@ dv_has_:
 
 # [[Revolution]] 
 
+#is_/part_of :: [[Futurology]] 
+#has_/complement :: [[Reform]]  
+
 #is_/same_as :: [[/_Standards/WikiData/WD~Revolution,10931|WD~Revolution,10931]] 
 
 ## #has_/text_of_/abstract 
 
 > In political science, a **Revolution** (Latin: revolutio, 'a turn around') 
-> is a rapid, fundamental transformation of a society's class, state, ethnic or religious structures. 
+> is a **rapid, fundamental transformation** of a society's class, state, ethnic or religious structures. 
 > 
 > According to sociologist Jack Goldstone, 
 > all revolutions contain "a common set of elements at their core: 
-> (a) efforts to change the political regime that draw on a competing vision (or visions) of a just order, 
-> (b) a notable degree of informal or formal mass mobilization, and 
-> (c) efforts to force change through noninstitutionalized actions such as mass demonstrations, protests, strikes, or violence."
+> - efforts to change the political regime that draw on __competing visions__ of a just order, 
+> - a notable degree of informal or formal __mass mobilization__, and 
+> - efforts to force change through __noninstitutionalized actions__ such as mass demonstrations, protests, strikes, or **violence**. 
 >
 > Revolutions have occurred throughout human history 
 > and varied in their methods, durations and outcomes. 
 > 
-> Some revolutions started with peasant uprisings 
-> or guerrilla warfare on the periphery of a country; 
+> Similar to War, Revolutions offer the chance for unchecked violence, 
+> which often hurts innocent people. It should therefore be avoided by early [[Reform]]s. 
+> 
+> Some revolutions started with peasant uprisings or guerrilla warfare on the periphery of a country; 
 > others started with urban insurrection aimed at seizing the country's capital city. 
 > 
-> Revolutions can be inspired by the rising popularity of certain 
-> political ideologies, moral principles, or models of governance such as nationalism, republicanism, egalitarianism, self-determination, human rights, democracy, liberalism, fascism, or socialism. 
+> Revolutions can be inspired by the rising popularity of certain political ideologies, 
+> moral principles, or models of governance such as nationalism, republicanism, egalitarianism, 
+> self-determination, human rights, democracy, liberalism, fascism or socialism.
 > 
-> A regime may become vulnerable to revolution due to a recent military defeat, 
+> A regime may become **vulnerable to revolution** due to a recent military defeat, 
 > or economic chaos, or an affront to national pride and identity, 
-> or persistent  repression and corruption. 
+> or pervasive repression and corruption. 
 > 
-> Revolutions typically trigger counter-revolutions 
-> which seek to halt revolutionary momentum, 
+> Revolutions typically **trigger counterrevolutions** which seek to halt revolutionary momentum, 
 > or to reverse the course of an ongoing revolutionary transformation.
 >
 > Notable revolutions in recent centuries include the 
@@ -288,18 +321,91 @@ dv_has_:
 > - French Revolution (1789–1799), 
 > - Haitian Revolution (1791–1804), 
 > - Spanish American wars of independence (1808–1826), 
-> - Revolutions of 1848 in Europe, Mexican Revolution (1910–1920), 
+> - Revolutions of 1848 in Europe, 
+> - Mexican Revolution (1910–1920), 
 > - Xinhai Revolution in China in 1911, 
-> - Revolutions of 1917–1923 in Europe (including the Russian Revolution and German Revolution), 
+> - Revolutions of 1917–1923 in Europe (Russia, Germany), 
 > - Chinese Communist Revolution (1927–1949), 
 > - decolonization of Africa (mid-1950s to 1975), 
 > - Algerian War of Independence (1954-1962), 
 > - Cuban Revolution in 1959, 
-> - Iranian Revolution and 
+> - Iranian Revolution in 1979  
 > - Nicaraguan Revolution in 1979, 
-> - worldwide Revolutions of 1989, and Arab Spring in the early 2010s.
+> - worldwide Revolutions of 1989, and 
+> - Arab Spring in the early 2010s.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Revolution) 
+
+
+## Revolution 
+
+Before the Industrial Revolution, several other significant revolutions 
+laid the foundation for societal, technological, and economic transformations. 
+These earlier revolutions were largely agricultural, political, and intellectual in nature. 
+Below are the key revolutions that preceded the Industrial Revolution:
+
+## The Agricultural Revolution (circa 10,000 BCE - 18th century)
+   
+### Early Agricultural Revolution (Neolithic Revolution)
+- Time Period: Began around 10,000 BCE, also known as the Neolithic Revolution.
+- Description: This revolution marked the transition from a nomadic, hunter-gatherer lifestyle to settled agricultural communities. The domestication of plants and animals allowed humans to establish permanent settlements, which led to the growth of population, cities, and the development of early civilizations.
+  
+### Second Agricultural Revolution (17th - 18th century)
+- Time Period: Around the 17th to 18th centuries in Europe, just before the Industrial Revolution.
+- Description: This later phase of the Agricultural Revolution involved innovations in farming techniques, crop rotation, and the introduction of new machinery, such as the seed drill invented by Jethro Tull. The improvements in agricultural productivity allowed fewer farmers to feed larger populations, freeing up labor for industrial work and contributing to urbanization.
+
+## Scientific Revolution (16th - 18th century)
+
+- Time Period: 16th century to the 18th century (1500s - 1700s).
+- Description: The Scientific Revolution was a period of significant advances in science, mathematics, and astronomy. Key figures like Galileo Galilei, Isaac Newton, and Johannes Kepler developed groundbreaking theories that fundamentally changed how humans understood the natural world. This intellectual revolution laid the groundwork for technological innovations that would later fuel the Industrial Revolution.
+  
+- Key Contributions: Developments in physics, mechanics, and chemistry were essential for the creation of technologies that powered the Industrial Revolution, such as the steam engine.
+
+## Enlightenment (17th - 18th century)
+
+- Time Period: Late 17th century to the 18th century (around the 1600s - 1700s).
+- Description: The Enlightenment, also known as the Age of Reason, was an intellectual movement that emphasized reason, science, and skepticism of traditional authority, including monarchies and the church. Philosophers like John Locke, Voltaire, and Immanuel Kant advocated for ideas like individual liberty, democracy, and free markets.
+  
+- Impact on Industry: The Enlightenment fostered an intellectual environment that encouraged innovation, experimentation, and the pursuit of knowledge, all of which were vital in the development of new industrial technologies. The rise of capitalism and free markets during this period also provided the economic framework for the Industrial Revolution.
+
+## Commercial Revolution (11th - 18th century)
+
+- Time Period: Roughly from the 11th century to the early 18th century.
+- Description: The Commercial Revolution refers to the expansion of trade and commerce in Europe, driven by the Age of Exploration and the establishment of colonial empires. It saw the rise of banking, joint-stock companies, and the beginnings of modern finance.
+  
+- Impact on Industry: The wealth generated by global trade fueled investment in new industrial enterprises, while the growth of international markets created demand for mass-produced goods. This economic shift was a key precursor to the Industrial Revolution.
+
+## Glorious Revolution (1688)
+
+- Time Period: 1688
+- Description: This was a political revolution in England that resulted in the overthrow of King James II and the establishment of a constitutional monarchy under William III and Mary II. While not directly related to industrialization, it solidified the role of Parliament and the rule of law, creating political stability and a more conducive environment for economic growth and innovation.
+  
+- Impact on Industry: Political stability and property rights ensured by the Glorious Revolution helped create an environment where entrepreneurs and innovators could thrive, paving the way for the Industrial Revolution in Britain.
+
+## Overview Table
+
+| Revolution                     | Time Start | Time End | Key Characteristics                                                                           | Impact on Industrial Revolution                                             |
+| ------------------------------ | ---------- | -------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| First Agricultural Revolution  | -10000-06  | -8000-06 | Transition from hunting-gathering to settled farming, later innovations in farming techniques | Freed up labor for industry, increased population and food supply           |
+| Scientific Revolution          | 1550-06    | 1770-06  | Advances in science and mathematics (Newton, Galileo), discovery of natural laws              | Provided technological knowledge and scientific basis for industrialization |
+| Enlightenment                  | 1650-06    | 1770-06  | Intellectual movement emphasizing reason, democracy, and economic freedom                     | Encouraged innovation, free markets, and a spirit of progress               |
+| Second Agricultural Revolution | 1670-06    | 1750-06  | crop rotation, Selective breeding, new tools and machinery                                    | Freed up labor for industry, increased population and food supply           |
+| Commercial Revolution          | 1060-06    | 1750-06  | Expansion of global trade, rise of capitalism, banking, and modern finance                    | Created wealth and demand for goods, which spurred investment in industry   |
+| [[Politics/UK_Politics/Glorious_Revolution|Glorious_Revolution]]        | 1688-07    | 1688-12  | Political change in England, constitutional monarchy established                              | Provided __political stability__ and protection of __property rights__      |
+| Third  Agricultural Revolution | 1940-06    | 1970-06  | high-yield crop, chemical fertilizers, irrigation infrastructure, Mechanization               |                                                                             |
+
+From then on, Industrial and political Revolutions took over: 
+
+| Time Start | Time End | Primary Power Source      | Key Industries                   | Major Technologies              | Societal Changes                          |
+| ---------- | -------- | ------------------------- | -------------------------------- | ------------------------------- | ----------------------------------------- |
+| 1760       | 1840     | Steam                     | Textiles, Iron                   | Steam Engine, Spinning Jenny    | Urbanization, Factory Work                |
+| 1870       | 1914     | Electricity               | Steel, Chemicals, Railroads      | Electric Light, Telephone       | Mass Production, Global Trade             |
+| 1960       | 2024     | Digital Technologies (IT) | IT, Robotics, Telecommunications | Computers, Internet, Automation | Global Communication, Information Economy |
+| 2024       |          | Solar                     | AI                               |                                 |                                           |
+
+
+
+Each of these revolutions contributed to the conditions that made the Industrial Revolution possible. Agricultural efficiency provided labor and food, scientific discoveries enabled technological advances, Enlightenment ideals encouraged innovation, and the Commercial Revolution created the economic framework for large-scale industrial enterprises.
 
 
 ## Confidential Links & Embeds: 
