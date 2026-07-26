@@ -112,7 +112,7 @@ dv_has_properties:
   - "[[smokingAllowed]]"
   - "[[../../schema-org/Relation/has/has_special_opening_hours_specification|has_special_opening_hours]]"
   - "[[subjectOf]]"
-  - "[[telephone]]"
+  - "[[../../../_internal/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication/Telephone.internal]]"
   - "[[tourBookingPage]]"
   - "[[url]]"
 dv_is_same_as:
