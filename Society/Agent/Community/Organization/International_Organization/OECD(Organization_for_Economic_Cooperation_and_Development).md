@@ -1,106 +1,106 @@
 ---
 location:
-- 2.269235555
-- 48.861673888
+  - 2.269235555
+  - 48.861673888
 aliases:
-- Aozadur evit ar C'henober hag an Diorren Ekonomikel
-- Eagraíocht um Chomhar agus Fhorbairt Eacnamaíochta
-- Efnahags- og framfarastofnunin
-- Ekonomia Lankidetza eta Garapenerako Antolakundea
-- Ekonomiskās sadarbības un attīstības organizācija
-- Gazdasági Együttműködési és Fejlesztési Szervezet
-- Iqtisodiy hamkorlik va taraqqiyot tashkiloti
-- Majanduskoostöö ja Arengu Organisatsioon
-- Majanduskuuntüü ja Arõngu Organisats'uun
-- OCDE
-- OECD
-- OECD(Organization for Economic Cooperation and Development)
-- OECD(Organization_for_Economic_Cooperation_and_Development)
-- OESO
-- Organisasi pikeun Sabilulungan jeung Pamekaran Ékonomi
-- Organisasi untuk Kerjasama dan Pengembangan Ekonomi
-- Organisasjonen for økonomisk samarbeid og utvikling
-- Organisatie voor Economische Samenwerking en Ontwikkeling
-- Organisation de coopération et de développement économiques
-- Organisation for Economic Co-operation an Development
-- Organisation for Economic Co-operation and Development
-- Organisation for Economic Cooperation and Development
-- Organisation für wirtschaftliche Zusammenarbeit und Entwicklung
-- Organisatioun fir Ekonomesch Zesummenaarbecht an Europa
-- Organització de Cooperació i Desenvolupament Econòmic
-- Organizace pro hospodářskou spolupráci a rozvoj
-- Organizacija za ekonomsku saradnju i razvoj
-- Organizacija za ekonomsku suradnju i razvoj
-- Organizacija za gospodarsko sodelovanje in razvoj
-- Organizacion de cooperacion e de desvolopament economics
-- Organización pa la Cooperación y el Desarrollu Económicos
-- Organización para a Cooperación e o Desenvolvemento Económico
-- Organización para la Cooperación y el Desarrollo Económico
-- Organizacja Współpracy Gospodarczej i Rozwoju
-- Organizasion par ła Cooperasion e Desviłupo Econòmego
-- Organizatio co-operationis oeconomicae et evolutionis
-- Organization for Economic Cooperation and Development
-- Organization_for_Economic_Cooperation_and_Development
-- Organizatzione pro sa Cooperatzione e s'Isvilupu Econòmicu
-- Organização para a Cooperação e Desenvolvimento Económico
-- Organização para a Cooperação e Desenvolvimento Econômico
-- Organizaĵo pri Ekonomiaj Kunlaboro kaj Evoluigo
-- Organizația pentru Cooperare și Dezvoltare Economică
-- Organizuro por Kunlaboro ed Ekonomiala Developo
-- Organizzazione per la cooperazione e lo sviluppo economico
-- Organizzazzioni pâ Coopirazzioni e lu Sviluppu Ecunòmicu
-- Organizácia pre hospodársku spoluprácu a rozvoj
-- Ourganizaçon para la Coperaçon i Zambolbimiento Eiconómico
-- Pertubuhan Kerjasama dan Pembangunan Ekonomi
-- Reagheydys ry hoi Co-obbraghey Tarmaynys as Lhiasaghey
-- Tarptautinė ekonominio bendradarbiavimo ir plėtros organizacija
-- Tổ chức Hợp tác và Phát triển Kinh tế
-- Ururka Iskaashiga Horumarka Dhaqaale
-- İqtisadi Əməkdaşlıq və İnkişaf Təşkilatı
-- Οργανισμός Οικονομικής Συνεργασίας και Ανάπτυξης
-- Арганізацыя эканамічнага супрацоўніцтва і развіцця
-- Арганізацыя эканамічнага супрацоўніцтва і разьвіцьця
-- Еуропа экономикалық ынтымақтастық және даму ұйымы
-- Иҡтисад үсеш һәм бәйләнеш ойошмаһы
-- Організація економічного співробітництва та розвитку
-- Организација за економска соработка и развој
-- Организација за економску сарадњу и развој
-- Организация за икономическо сътрудничество и развитие
-- Организация экономического сотрудничества и развития
-- Халыкара икътисадый хезмәттәшлек һәм үсеш оешмасы
-- Эдийн засгийн хамтын ажиллагаа, хөгжлийн байгууллага
-- Տնտեսական համագործակցության և զարգացման կազմակերպություն
-- ארגאניזאציע פאר עקאנאמישע קאאפעראציע און אנטוויקלונג
-- הארגון לשיתוף פעולה ולפיתוח כלכלי
-- انجمن اقتصادی تعاون و ترقی
-- د اقتصادي همکارۍ او پراختیا سازمان OECD
-- سازمان همکاری اقتصادی و توسعه
-- منظمة التعاون الاقتصادي والتنمية
-- منظمة التعاون و التنميه الاقتصاديه
-- आर्थिक समन्वय व विकासया गुठि
-- आर्थिक सहयोग और विकास संगठन
-- आर्थिक सहयोग व विकास संघटना
-- অর্থনৈতিক সহযোগিতা ও উন্নয়ন সংস্থা
-- பொருளியல் கூட்டுறவு மற்றும் வளர்ச்சிக்கான அமைப்பு
-- องค์การเพื่อความร่วมมือทางเศรษฐกิจและการพัฒนา
-- အိုအီးစီဒီ
-- ეკონომიკური თანამშრომლობისა და განვითარების ორგანიზაცია
-- 経済協力開発機構
-- 經濟合作暨發展組織
-- 经济合作与发展组织
-- 经济合作搭发展组织
-- 경제협력개발기구
+  - Aozadur evit ar C'henober hag an Diorren Ekonomikel
+  - Eagraíocht um Chomhar agus Fhorbairt Eacnamaíochta
+  - Efnahags- og framfarastofnunin
+  - Ekonomia Lankidetza eta Garapenerako Antolakundea
+  - Ekonomiskās sadarbības un attīstības organizācija
+  - Gazdasági Együttműködési és Fejlesztési Szervezet
+  - Iqtisodiy hamkorlik va taraqqiyot tashkiloti
+  - Majanduskoostöö ja Arengu Organisatsioon
+  - Majanduskuuntüü ja Arõngu Organisats'uun
+  - OCDE
+  - OECD
+  - OECD(Organization for Economic Cooperation and Development)
+  - OECD(Organization_for_Economic_Cooperation_and_Development)
+  - OESO
+  - Organisasi pikeun Sabilulungan jeung Pamekaran Ékonomi
+  - Organisasi untuk Kerjasama dan Pengembangan Ekonomi
+  - Organisasjonen for økonomisk samarbeid og utvikling
+  - Organisatie voor Economische Samenwerking en Ontwikkeling
+  - Organisation de coopération et de développement économiques
+  - Organisation for Economic Co-operation an Development
+  - Organisation for Economic Co-operation and Development
+  - Organisation for Economic Cooperation and Development
+  - Organisation für wirtschaftliche Zusammenarbeit und Entwicklung
+  - Organisatioun fir Ekonomesch Zesummenaarbecht an Europa
+  - Organització de Cooperació i Desenvolupament Econòmic
+  - Organizace pro hospodářskou spolupráci a rozvoj
+  - Organizacija za ekonomsku saradnju i razvoj
+  - Organizacija za ekonomsku suradnju i razvoj
+  - Organizacija za gospodarsko sodelovanje in razvoj
+  - Organizacion de cooperacion e de desvolopament economics
+  - Organización pa la Cooperación y el Desarrollu Económicos
+  - Organización para a Cooperación e o Desenvolvemento Económico
+  - Organización para la Cooperación y el Desarrollo Económico
+  - Organizacja Współpracy Gospodarczej i Rozwoju
+  - Organizasion par ła Cooperasion e Desviłupo Econòmego
+  - Organizatio co-operationis oeconomicae et evolutionis
+  - Organization for Economic Cooperation and Development
+  - Organization_for_Economic_Cooperation_and_Development
+  - Organizatzione pro sa Cooperatzione e s'Isvilupu Econòmicu
+  - Organização para a Cooperação e Desenvolvimento Económico
+  - Organização para a Cooperação e Desenvolvimento Econômico
+  - Organizaĵo pri Ekonomiaj Kunlaboro kaj Evoluigo
+  - Organizația pentru Cooperare și Dezvoltare Economică
+  - Organizuro por Kunlaboro ed Ekonomiala Developo
+  - Organizzazione per la cooperazione e lo sviluppo economico
+  - Organizzazzioni pâ Coopirazzioni e lu Sviluppu Ecunòmicu
+  - Organizácia pre hospodársku spoluprácu a rozvoj
+  - Ourganizaçon para la Coperaçon i Zambolbimiento Eiconómico
+  - Pertubuhan Kerjasama dan Pembangunan Ekonomi
+  - Reagheydys ry hoi Co-obbraghey Tarmaynys as Lhiasaghey
+  - Tarptautinė ekonominio bendradarbiavimo ir plėtros organizacija
+  - Tổ chức Hợp tác và Phát triển Kinh tế
+  - Ururka Iskaashiga Horumarka Dhaqaale
+  - İqtisadi Əməkdaşlıq və İnkişaf Təşkilatı
+  - Οργανισμός Οικονομικής Συνεργασίας και Ανάπτυξης
+  - Арганізацыя эканамічнага супрацоўніцтва і развіцця
+  - Арганізацыя эканамічнага супрацоўніцтва і разьвіцьця
+  - Еуропа экономикалық ынтымақтастық және даму ұйымы
+  - Иҡтисад үсеш һәм бәйләнеш ойошмаһы
+  - Організація економічного співробітництва та розвитку
+  - Организација за економска соработка и развој
+  - Организација за економску сарадњу и развој
+  - Организация за икономическо сътрудничество и развитие
+  - Организация экономического сотрудничества и развития
+  - Халыкара икътисадый хезмәттәшлек һәм үсеш оешмасы
+  - Эдийн засгийн хамтын ажиллагаа, хөгжлийн байгууллага
+  - Տնտեսական համագործակցության և զարգացման կազմակերպություն
+  - ארגאניזאציע פאר עקאנאמישע קאאפעראציע און אנטוויקלונג
+  - הארגון לשיתוף פעולה ולפיתוח כלכלי
+  - انجمن اقتصادی تعاون و ترقی
+  - د اقتصادي همکارۍ او پراختیا سازمان OECD
+  - سازمان همکاری اقتصادی و توسعه
+  - منظمة التعاون الاقتصادي والتنمية
+  - منظمة التعاون و التنميه الاقتصاديه
+  - आर्थिक समन्वय व विकासया गुठि
+  - आर्थिक सहयोग और विकास संगठन
+  - आर्थिक सहयोग व विकास संघटना
+  - অর্থনৈতিক সহযোগিতা ও উন্নয়ন সংস্থা
+  - பொருளியல் கூட்டுறவு மற்றும் வளர்ச்சிக்கான அமைப்பு
+  - องค์การเพื่อความร่วมมือทางเศรษฐกิจและการพัฒนา
+  - အိုအီးစီဒီ
+  - ეკონომიკური თანამშრომლობისა და განვითარების ორგანიზაცია
+  - 経済協力開発機構
+  - 經濟合作暨發展組織
+  - 经济合作与发展组织
+  - 经济合作搭发展组织
+  - 경제협력개발기구
 has_id_wikidata: Q41550
 TableByName:
   OECD.tsv:
     columns:
-    - country
-    - year
-    headings: ''
+      - country
+      - year
+    headings: ""
 official_website: https://www.oecd.org/
 ISNI:
-- 0000000121590079
-- 0000000123082158
+  - "0000000123082158"
+  - "0000000121590079"
 UMLS_CUI: C3850013
 MeSH_tree_code: N03.540.514.481
 ISO_9362_SWIFT_BIC_code: OCDCFRP1
@@ -111,108 +111,108 @@ Libris_URI: qn258bk83k0l8v4
 Instagram_username: the_oecd
 Facebook_username: theOECD
 motto_text:
-- Lepší politiky pro lepší životy
-- Better policies for better lives
-- Mejores políticas para una vida mejor
-- De meilleures politiques pour de meilleures vies
+  - Mejores políticas para una vida mejor
+  - De meilleures politiques pour de meilleures vies
+  - Lepší politiky pro lepší životy
+  - Better policies for better lives
 official_name:
-- Organisation für Wirtschaftliche Zusammenarbeit und Entwicklung
-- Organization for Economic Co-operation and Development
-- Organización para la Cooperación y el Desarrollo Económicos
-- ORGANIS COOPERATION DEVELOPP ECONOMIQUE
-- Organisation de coopération et de développement économiques
+  - Organización para la Cooperación y el Desarrollo Económicos
+  - ORGANIS COOPERATION DEVELOPP ECONOMIQUE
+  - Organisation de coopération et de développement économiques
+  - Organisation für Wirtschaftliche Zusammenarbeit und Entwicklung
+  - Organization for Economic Co-operation and Development
 short_name:
-- OECD
-- OCDE
-- ОЭСР
+  - OCDE
+  - ОЭСР
+  - OECD
 member_of:
-- '[[/_Standards/WikiData/WD~International_Statistical_Institute,139020|WD~International_Statistical_Institute,139020]]'
-- '[[/_Standards/WikiData/WD~Couperin_Consortium,2994760|WD~Couperin_Consortium,2994760]]'
-- '[[/_Standards/WikiData/WD~Association_of_Learned_and_Professional_Society_Publishers,4809891|WD~Association_of_Learned_and_Professional_Society_Publishers,4809891]]'
-- '[[/_Standards/WikiData/WD~ORCID,_Inc.,19861084|WD~ORCID,_Inc.,19861084]]'
-- '[[/_Standards/WikiData/WD~Network_for_Greening_the_Financial_System,104872529|WD~Network_for_Greening_the_Financial_System,104872529]]'
-- '[[/_Standards/WikiData/WD~UNESCO_Global_Open_Science_Partnership,112828800|WD~UNESCO_Global_Open_Science_Partnership,112828800]]'
-different_from: '[[/_Standards/WikiData/WD~Economic_Cooperation_Organization,225950|WD~Economic_Cooperation_Organization,225950]]'
+  - "[[_Standards/WikiData/WD~International_Statistical_Institute,139020]]"
+  - "[[_Standards/WikiData/WD~Couperin_Consortium,2994760]]"
+  - "[[_Standards/WikiData/WD~Association_of_Learned_and_Professional_Society_Publishers,4809891]]"
+  - "[[_Standards/WikiData/WD~ORCID,_Inc.,19861084]]"
+  - "[[_Standards/WikiData/WD~Network_for_Greening_the_Financial_System,104872529]]"
+  - "[[_Standards/WikiData/WD~UNESCO_Global_Open_Science_Partnership,112828800]]"
+different_from: "[[_Standards/WikiData/WD~Economic_Cooperation_Organization,225950]]"
 instance_of:
-- '[[/_Standards/WikiData/WD~intergovernmental_organization,245065|WD~intergovernmental_organization,245065]]'
-- '[[/_Standards/WikiData/WD~international_organization,484652|WD~international_organization,484652]]'
-- '[[/_Standards/WikiData/WD~organization,43229|WD~organization,43229]]'
+  - "[[_Standards/WikiData/WD~intergovernmental_organization,245065]]"
+  - "[[_Standards/WikiData/WD~international_organization,484652]]"
+  - "[[_Standards/WikiData/WD~organization,43229]]"
 child_organization_or_unit:
-- '[[/_Standards/WikiData/WD~Nuclear_Energy_Agency,369760|WD~Nuclear_Energy_Agency,369760]]'
-- '[[/_Standards/WikiData/WD~European_Conference_of_Ministers_of_Transport,629504|WD~European_Conference_of_Ministers_of_Transport,629504]]'
-- '[[/_Standards/WikiData/WD~International_Energy_Agency,826700|WD~International_Energy_Agency,826700]]'
-- '[[/_Standards/WikiData/WD~International_Transport_Forum,1337904|WD~International_Transport_Forum,1337904]]'
-- '[[/_Standards/WikiData/WD~OECD_Development_Centre,7072444|WD~OECD_Development_Centre,7072444]]'
+  - "[[_Standards/WikiData/WD~Nuclear_Energy_Agency,369760]]"
+  - "[[_Standards/WikiData/WD~European_Conference_of_Ministers_of_Transport,629504]]"
+  - "[[_Standards/WikiData/WD~International_Energy_Agency,826700]]"
+  - "[[_Standards/WikiData/WD~International_Transport_Forum,1337904]]"
+  - "[[_Standards/WikiData/WD~OECD_Development_Centre,7072444]]"
 official_observer_status_in_organization:
-- '[[/_Standards/WikiData/WD~International_Organization_for_Migration,472311|WD~International_Organization_for_Migration,472311]]'
-- '[[/_Standards/WikiData/WD~International_Union_for_the_Protection_of_New_Varieties_of_Plants,690318|WD~International_Union_for_the_Protection_of_New_Varieties_of_Plants,690318]]'
-- '[[/_Standards/WikiData/WD~United_Nations_General_Assembly,47423|WD~United_Nations_General_Assembly,47423]]'
+  - "[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]"
+  - "[[_Standards/WikiData/WD~International_Union_for_the_Protection_of_New_Varieties_of_Plants,690318]]"
+  - "[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]"
 partnership_with:
-- '[[/_Standards/WikiData/WD~International_Fund_for_Agricultural_Development,689859|WD~International_Fund_for_Agricultural_Development,689859]]'
-- '[[/_Standards/WikiData/WD~United_Cities_and_Local_Governments,2974854|WD~United_Cities_and_Local_Governments,2974854]]'
-funder: '[[/_Standards/WikiData/WD~Open_Society_Foundations,786194|WD~Open_Society_Foundations,786194]]'
-general_secretary: '[[/_Standards/WikiData/WD~Mathias_Cormann,1813692|WD~Mathias_Cormann,1813692]]'
-owner_of: '[[/_Standards/WikiData/WD~Château_de_la_Muette,2971342|WD~Château_de_la_Muette,2971342]]'
-replaces: '[[/_Standards/WikiData/WD~Organisation_for_European_Economic_Co_operation,3057312|WD~Organisation_for_European_Economic_Co_operation,3057312]]'
-foundational_text: '[[/_Standards/WikiData/WD~Convention_on_the_Organisation_for_Economic_Co_operation_and_Development,5166298|WD~Convention_on_the_Organisation_for_Economic_Co_operation_and_Development,5166298]]'
-topic_has_template: '[[/_Standards/WikiData/WD~Template_Member_states_of_the_OECD,6584309|WD~Template_Member_states_of_the_OECD,6584309]]'
-copyright_license: '[[/_Standards/WikiData/WD~Creative_Commons_Attribution_4.0_International,20007257|WD~Creative_Commons_Attribution_4.0_International,20007257]]'
-position_held_by_head_of_the_organization: '[[/_Standards/WikiData/WD~Secretary_General_of_the_Organisation_for_Economic_Co_operation_and_Development,27929540|WD~Secretary_General_of_the_Organisation_for_Economic_Co_operation_and_Development,27929540]]'
-industry: '[[/_Standards/WikiData/WD~activities_of_extraterritorial_organizations_and_bodies,112166212|WD~activities_of_extraterritorial_organizations_and_bodies,112166212]]'
-legal_form: '[[/_Standards/WikiData/WD~Q112176659,112176659|WD~Q112176659,112176659]]'
-on_focus_list_of_Wikimedia_project: '[[/_Standards/WikiData/WD~Wikidata_WikiProject_Academic_Publisher,117222928|WD~Wikidata_WikiProject_Academic_Publisher,117222928]]'
-described_by_source: '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664|WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
+  - "[[_Standards/WikiData/WD~International_Fund_for_Agricultural_Development,689859]]"
+  - "[[_Standards/WikiData/WD~United_Cities_and_Local_Governments,2974854]]"
+funder: "[[_Standards/WikiData/WD~Open_Society_Foundations,786194]]"
+general_secretary: "[[_Standards/WikiData/WD~Mathias_Cormann,1813692]]"
+owner_of: "[[_Standards/WikiData/WD~Château_de_la_Muette,2971342]]"
+replaces: "[[_Standards/WikiData/WD~Organisation_for_European_Economic_Co_operation,3057312]]"
+foundational_text: "[[_Standards/WikiData/WD~Convention_on_the_Organisation_for_Economic_Co_operation_and_Development,5166298]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Member_states_of_the_OECD,6584309]]"
+copyright_license: "[[_Standards/WikiData/WD~Creative_Commons_Attribution_4.0_International,20007257]]"
+position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Secretary_General_of_the_Organisation_for_Economic_Co_operation_and_Development,27929540]]"
+industry: "[[_Standards/WikiData/WD~activities_of_extraterritorial_organizations_and_bodies,112166212]]"
+legal_form: "[[_Standards/WikiData/WD~international_organization,112176659]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wikidata_WikiProject_Academic_Publisher,117222928]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]"
 coordinate_location: Point(2.269235555 48.861673888)
 official_language:
-- '[[/_Standards/WikiData/WD~English,1860|WD~English,1860]]'
-- '[[/_Standards/WikiData/WD~French,150|WD~French,150]]'
-headquarters_location: '[[/_Standards/WikiData/WD~Paris,90|WD~Paris,90]]'
-country: '[[/_Standards/WikiData/WD~France,142|WD~France,142]]'
+  - "[[_Standards/WikiData/WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~French,150]]"
+headquarters_location: "[[_Standards/WikiData/WD~Paris,90]]"
+country: "[[_Standards/WikiData/WD~France,142]]"
 member_count: 38
 social_media_followers:
-- 50200
-- 694072
+  - 50200
+  - 694072
 Legal_Entity_Identifier: 969500Y2NFIMDP5MO798
-SIREN_number: 775687957
-PermID: 5058655899
+SIREN_number: "775687957"
+PermID: "5058655899"
 X_Twitter_username: OECD
 Commons_category: OECD
 EU_Corporate_body_code: OECD
 inception:
-- 1961-09-30T00:00:00Z
-- 1948-04-16T00:00:00Z
+  - 1961-09-30T00:00:00Z
+  - 1948-04-16T00:00:00Z
 DPLA_subject_term: Organisation for Economic Co-operation and Development
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Au%C3%9Fenministerin%20Karin%20Kneissl%20nimmt%20am%20Ministerial%20Council%20Meeting%20der%20OECD%20in%20Paris%20teil.%20%2827619529467%29.jpg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/OECD%20logo.svg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/OECD%20member%20states%20map.svg
 confidential: private
 cssclasses:
-- private
-- note
+  - private
+  - note
 draft: true
 excalidraw-autoexport: none
 excalidraw-open-md: true
 excalidraw-plugin: parsed
-expiryDate: ''
-has_Template: '[[Extract~Note~Template]]'
+expiryDate: ""
+has_Template: "[[Extract~Note~Template]]"
 has_time_started:
-  '{ "date:YYYY-MM-DD": }': ''
+  '{ "date:YYYY-MM-DD": }': ""
 isDeleted: false
 isReadOnly: false
 keywords:
-  '{ newTitle: }': ''
+  "{ newTitle: }": ""
 lang: en
-layout: ''
+layout: ""
 license: (c)copyrighted
 linkTitle:
-  '{ newTitle: }': ''
+  "{ newTitle: }": ""
 publish: false
-publishDate: ''
+publishDate: ""
 tags:
-- '{ newTitle: }': ''
-- excalidraw
+  - "{ newTitle: }": ""
+  - excalidraw
 title:
-  '{ newTitle: }': ''
+  "{ newTitle: }": ""
 type: private_note
 dv_has_:
   name_:
