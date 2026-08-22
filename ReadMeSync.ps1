@@ -2,71 +2,67 @@
 # ReadMeSync.ps1 
 # 
 # For each sub-repository folder F (a folder containing .git), 
-# merges F\ReadMe.md with the parent folder's F.md companion 
-# file. The two files live in separate, unrelated Git 
-# histories, so the "last common version" is found by 
-# comparing file *content* hashes across both histories 
-# rather than comparing commit IDs. 
+# merges F\ReadMe.md with the parent folder's F.md companion file. 
 # 
-# CONFIRMED ROOT CAUSE (previously): `git show <rev>:<path>` 
-# requires <path> to be relative to the REPOSITORY ROOT, unlike 
-# most other git commands (e.g. `git log -- <path>`), which are 
-# relative to the current working directory. Whenever a 
-# repository (e.g. the parent folder) is itself a subdirectory 
-# of a larger enclosing repository rather than that repo's own 
-# root, a bare filename fails with "exists, but not '<file>'". 
-# Get-RepoRootRelativePath resolves the correct root-relative 
-# path via `git rev-parse --show-prefix` before every 
-# `git show` call. 
+# Run this as often as possible, when either F.md or ReadMe.md changes. 
 # 
-# All text read from disk or from git history has any leading 
-# UTF-8 BOM (U+FEFF) stripped, and all line endings normalized 
-# to "\n", before being hashed or compared. Every git add / 
-# git commit call uses "-c core.autocrlf=false", and 
-# git hash-object uses --no-filters, so Git never re-applies 
-# its own line-ending conversion on top of what this script 
-# already normalized. 
+# The two files live in separate, unrelated Git histories, 
+# so the "last common version" is found by comparing file *content* 
+# hashes across both histories rather than comparing commit IDs. 
 # 
-# All text written to disk uses Set-FileContentUtf8NoBom (raw 
-# UTF-8, no BOM). Historical file content is read via 
-# Invoke-GitCaptureRawText, using .NET's Process class directly 
-# instead of PowerShell's native `$var = & git ...` capture, to 
-# preserve exact byte fidelity before normalization. 
+# CONFIRMED ROOT CAUSE (previously): 
+# `git show <rev>:<path>` requires <path> to be relative to the REPOSITORY ROOT, 
+# unlike most other git commands (e.g. `git log -- <path>`), 
+# which are relative to the current working directory. 
 # 
-# A TEMPORARY diagnostic block (Write-HistoryDiagnostics, plus 
-# inline [DIAG] messages in Get-FileVersionHistory) is included 
-# to confirm the fix above actually resolves the issue. Remove 
-# once confirmed. 
+# Whenever a repository (e.g. the parent folder) is itself a 
+# subdirectory of a larger enclosing repository rather than that repo's own root, 
+# a bare filename fails with "exists, but not '<file>'". 
+# Get-RepoRootRelativePath resolves the correct root-relative path via 
+# `git rev-parse --show-prefix` before every `git show` call. 
 # 
-# Relative Markdown links/images and multi-segment WikiLinks 
-# are automatically re-based whenever content crosses the 
-# directory-level boundary between F\ReadMe.md and F.md, so 
-# links keep pointing at the same target file. Rooted paths 
-# ("/...") are left untouched. 
+# All text read from disk or from git history has any leading UTF-8 BOM (U+FEFF) stripped, 
+# and all line endings normalized to "\n", before being hashed or compared. 
+# Every git add / git commit call uses "-c core.autocrlf=false", and git hash-object uses --no-filters, 
+# so Git never re-applies its own line-ending conversion 
+# on top of what this script already normalized. 
 # 
-# The common-ancestor search checks history in TWO ways: a 
-# literal (untranslated) match, then a link-frame-translated 
-# match. 
+# All text written to disk uses Set-FileContentUtf8NoBom (raw UTF-8, no BOM). 
+# Historical file content is read via Invoke-GitCaptureRawText, using .NET's Process class directly 
+# instead of PowerShell's native `$var = & git ...` capture, 
+# to preserve exact byte fidelity before normalization. 
 # 
-# If NO common baseline exists in EITHER file's committed 
-# history, a common baseline is bootstrapped on BOTH sides: 
-#   1. ReadMe.md (sub-repo) is overwritten with a literal, raw 
-#      copy of the companion's current content and committed. 
-#   2. The companion file itself (parent repo) is committed 
-#      as-is if it has any uncommitted changes, so its OWN 
-#      history also contains this exact content. 
-#   3. ReadMe.md is then overwritten a second time with the 
-#      link-adjusted version and left UNCOMMITTED for review. 
+# A TEMPORARY diagnostic block (Write-HistoryDiagnostics, 
+# plus inline [DIAG] messages in Get-FileVersionHistory) 
+# is included to confirm the fix above actually resolves the issue. 
+# Remove once confirmed. 
 # 
-# If a common baseline DOES exist, a genuine 3-way merge is 
-# performed via git merge-file. On conflict, it is registered 
-# in each repository's index (stages 1/2/3) via raw UTF-8 bytes 
-# written directly to `git update-index --index-info`'s stdin, 
+# Relative Markdown links/images and multi-segment WikiLinks are 
+# automatically re-based whenever content crosses the directory-level boundary between F\ReadMe.md and F.md, 
+# so links keep pointing at the same target file. 
+# Rooted paths ("/...") are left untouched. 
+# 
+# The common-ancestor search checks history in TWO ways: 
+# 1. a literal (untranslated) match, 
+# 2. then a link-frame-translated match. 
+# 
+# If NO common baseline exists in EITHER file's committed history, 
+# a common baseline is bootstrapped on BOTH sides: 
+#   1. ReadMe.md (sub-repo) is overwritten with a literal, 
+#      raw copy of the companion's current content and committed. 
+#   2. The companion file itself (parent repo) is committed as-is if it has any uncommitted changes, 
+#      so its OWN history also contains this exact content. 
+#   3. ReadMe.md is then overwritten a second time with the link-adjusted version 
+#      and left UNCOMMITTED for review. 
+# 
+# If a common baseline DOES exist, 
+# a genuine 3-way merge is performed via git merge-file. 
+# On conflict, it is registered in each repository's index (stages 1/2/3) 
+# via raw UTF-8 bytes written directly to `git update-index --index-info`'s stdin, 
 # so `git status`/TortoiseGitMerge report it as unmerged (UU). 
 # 
-# Other than the bootstrap commits described above, no 
-# git add / git commit is performed - this script only updates 
-# working-tree files and (on conflict) index stage entries. 
+# Other than the bootstrap commits described above, no git add / git commit is performed - 
+# this script only updates working-tree files and (on conflict) index stage entries. 
 # ============================================================ 
 
 $parent_directory = Get-Location 

@@ -199,6 +199,8 @@ dv_has_:
 
 #is_/same_as :: [[../WikiData/WD~Innovation,174165|WD~Innovation,174165]] 
 
+#is_/different_from :: [[Exnovation]]
+
 ## #has_/text_of_/abstract 
 
 > **Innovation** is the practical implementation of ideas 

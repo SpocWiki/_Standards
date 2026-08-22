@@ -52,7 +52,7 @@ title: Eastern Palearctic water frogs
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Eastern_Water_Frogs|Eastern_Water_Frogs]] 
+### #is_/same_as :: [[Eastern_Water_Frogs|Eastern_Water_Frogs]] 
 
 ### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid/Rana/Pelophylax/Eastern_Water_Frogs.public|Eastern_Water_Frogs.public]] 
 

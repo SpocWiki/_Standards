@@ -362,7 +362,8 @@ dv_has_:
 ## #has_/text_of_/abstract 
 
 > **One Thousand and One Nights** (Arabic: أَلْفُ لَيْلَةٍ وَلَيْلَةٌ,Alf Laylah wa-Laylah), 
-> is a collection of Middle Eastern folktales compiled in the Arabic language during the Islamic Golden Age. 
+> is a collection of Middle Eastern folktales 
+> compiled in the Arabic language during the Islamic Golden Age. 
 > 
 > It is often known in English as the Arabian Nights, 
 > from the first English-language edition (c. 1706–1721), 
@@ -371,10 +372,12 @@ dv_has_:
 > The work was collected over many centuries by various authors, translators, 
 > and scholars across West Asia, Central Asia, South Asia, and North Africa.  
 > 
-> Some tales trace their roots back to ancient and medieval Arabic, Persian, and Mesopotamian literature. 
+> Some tales trace their roots back to 
+> ancient and medieval Arabic, Persian, and Mesopotamian literature. 
 > Most tales, however, were originally folk stories from the Abbasid and Mamluk eras, 
-> while others, especially the frame story, are probably drawn from the Pahlavi Persian work Hezār Afsān 
-> (Persian: هزار افسان, lit. 'A Thousand Tales'), which in turn may be translations of older Indian texts.
+> while others, especially the frame story, are 
+> probably drawn from the Pahlavi Persian work Hezār Afsān (Persian: هزار افسان, 
+> lit. 'A Thousand Tales'), which in turn may be translations of older Indian texts.
 >
 > Common to all the editions of the Nights is the framing device of the story of the ruler Shahryar 
 > being narrated the tales by his wife Scheherazade, with one tale told over each night of storytelling. 

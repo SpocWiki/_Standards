@@ -1,137 +1,137 @@
 ---
 aliases:
-- aitosammakot
-- Anura
-- Anuro
-- Arikic
-- Bangkong
-- Baqa
-- Beq
-- Bretkosa
-- Broască
-- Bộ Không đuôi
-- Chura
-- Chúi-ke
-- Chʼał
-- Crot
-- Datya
-- Echte Frösche
-- echte kikkers
-- Echte kwakkers
-- ekte frosker
-- Frog
-- Frosch
-- Froskaætt
-- Frøer
-- Halelause padder
-- Hobelfasker
-- K'ayra
-- Katak
-- kikvors
-- Kodhok
-- kodok dan katak
-- Konlased
-- Krapo
-- Kuyruksuz kurbağalar
-- Kúai-é
-- Kọ̀nkọ̀
-- Llyffant
-- Marajòttole
-- Medhak
-- Pakla
-- Palaka
-- Ph́id
-- prave žabe
-- Puut
-- Puut'n
-- Rainne
-- Rana
-- Ranid
-- Ranidae
-- Rannag
-- Raînotte
-- Rinne
-- Rànid
-- Segwagwa
-- skokanovití
-- True Frog
-- True Frogs
-- valódi békafélék
-- Varlie
-- Varlės
-- varžu dzimta
-- Xaronca
-- Äkta grodor
-- żabowate
-- Žaba
-- Žabe
-- Əsl qurbağalar
-- Βάτραχος
-- φορφάκα
-- Бакалар
-- Баҕа
-- Ватракш
-- вистински жаби
-- водни жаби
-- жаб'ячі
-- Жаба
-- жабе
-- звычайныя жабы
-- Меклә
-- Мэлхий
-- настоящие лягушки
-- Тәлмәрйендәр
-- Чăн шапасем
-- Қурбоққа
-- Құйрықсыз қосмекенділер
-- գորտեր
-- זשאבע
-- צפרדעיים
-- رښتياني چونگښې
-- شوبوک
-- ضفادع حقيقية
-- ضفادع حقيقيه
-- قورباغههای اصلی
-- مینڈک
-- وک
-- ڈڈو
-- बेडूक
-- भ्यागुतो
-- मेंढक
-- ব্যাঙ
-- தவளை
-- కప్ప
-- തവള
-- วงศ์กบนา
-- ဖား
-- ბაყაყისებრნი
-- ᏩᎶᏏ
-- ᓈᕌᔩᖅ
-- アカガエル科
-- 田鸡
-- 蛙科
-- 蝦蟆
-- 개구리목
+  - aitosammakot
+  - Anura
+  - Anuro
+  - Arikic
+  - Bangkong
+  - Baqa
+  - Beq
+  - Bretkosa
+  - Broască
+  - Bộ Không đuôi
+  - Chura
+  - Chúi-ke
+  - Chʼał
+  - Crot
+  - Datya
+  - Echte Frösche
+  - echte kikkers
+  - Echte kwakkers
+  - ekte frosker
+  - Frog
+  - Frosch
+  - Froskaætt
+  - Frøer
+  - Halelause padder
+  - Hobelfasker
+  - K'ayra
+  - Katak
+  - kikvors
+  - Kodhok
+  - kodok dan katak
+  - Konlased
+  - Krapo
+  - Kuyruksuz kurbağalar
+  - Kúai-é
+  - Kọ̀nkọ̀
+  - Llyffant
+  - Marajòttole
+  - Medhak
+  - Pakla
+  - Palaka
+  - Ph́id
+  - prave žabe
+  - Puut
+  - Puut'n
+  - Rainne
+  - Rana
+  - Ranid
+  - Ranidae
+  - Rannag
+  - Raînotte
+  - Rinne
+  - Rànid
+  - Segwagwa
+  - skokanovití
+  - True Frog
+  - True Frogs
+  - valódi békafélék
+  - Varlie
+  - Varlės
+  - varžu dzimta
+  - Xaronca
+  - Äkta grodor
+  - żabowate
+  - Žaba
+  - Žabe
+  - Əsl qurbağalar
+  - Βάτραχος
+  - φορφάκα
+  - Бакалар
+  - Баҕа
+  - Ватракш
+  - вистински жаби
+  - водни жаби
+  - жаб'ячі
+  - Жаба
+  - жабе
+  - звычайныя жабы
+  - Меклә
+  - Мэлхий
+  - настоящие лягушки
+  - Тәлмәрйендәр
+  - Чăн шапасем
+  - Қурбоққа
+  - Құйрықсыз қосмекенділер
+  - գորտեր
+  - זשאבע
+  - צפרדעיים
+  - رښتياني چونگښې
+  - شوبوک
+  - ضفادع حقيقية
+  - ضفادع حقيقيه
+  - قورباغههای اصلی
+  - مینڈک
+  - وک
+  - ڈڈو
+  - बेडूक
+  - भ्यागुतो
+  - मेंढक
+  - ব্যাঙ
+  - தவளை
+  - కప్ప
+  - തവള
+  - วงศ์กบนา
+  - ဖား
+  - ბაყაყისებრნი
+  - ᏩᎶᏏ
+  - ᓈᕌᔩᖅ
+  - アカガエル科
+  - 田鸡
+  - 蛙科
+  - 蝦蟆
+  - 개구리목
 has_id_wikidata: Q6408
-title: Ranidae
-topic_s_main_category: '[[/_Standards/WikiData/WD~Q9095885,9095885|WD~Q9095885,9095885]]'
-described_by_source: '[[/_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-instance_of: '[[/_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
-taxon_rank: '[[/_Standards/WikiData/WD~family,35409|WD~family,35409]]'
+title: Frog 🐸
+topic_s_main_category: "[[/_Standards/WikiData/WD~Q9095885,9095885|WD~Q9095885,9095885]]"
+described_by_source: "[[/_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+instance_of: "[[/_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]"
+taxon_rank: "[[/_Standards/WikiData/WD~family,35409|WD~family,35409]]"
 OmegaWiki_Defined_Meaning: 1570
 ITIS_TSN: 173433
 image:
-- http://commons.wikimedia.org/wiki/Special:FilePath/RanaRidibundaFemale.jpg
-- http://commons.wikimedia.org/wiki/Special:FilePath/Hylarana%20Wynaad.jpg
-- http://commons.wikimedia.org/wiki/Special:FilePath/RanaTemporaria.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/RanaRidibundaFemale.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Hylarana%20Wynaad.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/RanaTemporaria.jpg
 Commons_category: Ranidae
 taxon_name: Ranidae
 EPPO_Code: 1RANSF
 MeSH_tree_code: B01.050.150.900.090.180.708
 NBN_System_Key: NHMSYS0000375314
 taxon_common_name:
-- ekte frosker
-- prave žabe
+  - ekte frosker
+  - prave žabe
 dv_has_:
   name_:
     an: Ranidae
@@ -273,16 +273,17 @@ dv_has_:
     zh_cn: 蛙科
     zh_hans: 蛙科
     zh_tw: 蛙科
+Unicode_character: 🐸
 ---
 
-# [[Ranid]] 
+# [[Frog]] 🐸 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../WikiData/WD~Ranidae,6408|WD~Ranidae,6408]] 
 
 True Frogs 
 
-![Rana erythrea](Ranid/Rana_erythrea.jpg) 
-![Rana erythrea](Ranid/rana.jpg)
+![Rana erythrea](Frog/Rana_erythrea.jpg) 
+![Rana erythrea](Frog/rana.jpg)
 
 ## #has_/text_of_/abstract 
 
@@ -301,11 +302,11 @@ True Frogs
 
 ### Additional Photographs
 
-![Occidozyga](Ranid/occidozyga.jpg)\
+![Occidozyga](Frog/occidozyga.jpg)\
 Occidozyga sp; photo © 1995 David Cannatella\
 \
 
-![ ](Ranid/rana_003.jpg)\
+![ ](Frog/rana_003.jpg)\
 Rana Palustris; photo © David T. Roberts, Nature\'s Images, Inc.\
 
 ## Phylogeny 
@@ -348,7 +349,7 @@ Rana Palustris; photo © David T. Roberts, Nature\'s Images, Inc.\
     -   [Rhacophoridae](Rhacophoridae.md)
 
 -   » Sub-Groups
-    -   [Rana](Ranid/Rana.md)
+    -   [Rana](Frog/Rana.md)
 	-   *Raninae*
 	    -   *Altirana*
 	    -   *Amolops*
@@ -370,7 +371,7 @@ Rana Palustris; photo © David T. Roberts, Nature\'s Images, Inc.\
 	    -   *Platymantis*
 	    -   *Ptychadena*
 	    -   *Pyxicephalus*
-	    -   *[Rana](Ranid/Rana.md "go to ToL page")*
+	    -   *[Rana](Frog/Rana.md "go to ToL page")*
 	    -   *Staurois*
 	    -   *Strongylopus*
 	    -   *Tomopterna*
@@ -395,16 +396,16 @@ Rana Palustris; photo © David T. Roberts, Nature\'s Images, Inc.\
 
 ------------------------------------------------------------------------
 1. Rana vibicaria, Costa Rica; photo © 1995 David Cannatella\
-![Rana vibicaria](Ranid/rana.jpg)
+![Rana vibicaria](Frog/rana.jpg)
 
 ------------------------------------------------------------------------
 2. Rana erythrea; photo © 1995 David Cannatella\
-![Rana erythrea](Ranid/Rana_erythrea.jpg) 
+![Rana erythrea](Frog/Rana_erythrea.jpg) 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid|Ranid]] 
+### #is_/same_as :: [[Frog|Frog]] 
 
 ### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Salientia/Neobatrachia/Ranid.public|Ranid.public]] 
 
