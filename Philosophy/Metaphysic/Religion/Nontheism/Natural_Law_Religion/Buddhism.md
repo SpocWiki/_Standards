@@ -487,7 +487,7 @@ dv_has_:
 # [[Buddhism]] ☸︎ 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Buddhism,748|WD~Buddhism,748]] 
-#has_/complement :: [[../../../../../bio/Psychology/Mind/Meditation/FOMO|FOMO]]  
+#has_/complement :: [[../../../../../bio/Psychology/Mind/Mental_State/Meditation/FOMO|FOMO]]  
 
 ## #has_/text_of_/abstract 
 

@@ -71,7 +71,7 @@ dv_has_:
 # [[FOMO]] 
 
 #is_/same_as :: [[/_Standards/WikiData/WD~FOMO,16753510|WD~FOMO,16753510]] 
-#has_/complement :: [[../../../../../bio/Psychology/Mind/Meditation|Meditation]]  
+#has_/complement :: [[../Meditation|Meditation]]  
 
 ## #has_/text_of_/abstract 
 
@@ -86,7 +86,7 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/bio/Psychology/Mind/Meditation/FOMO|FOMO]] 
+### #is_/same_as :: [[FOMO|FOMO]] 
 
 ### #is_/same_as :: [[/_public/bio/Psychology/Mind/Meditation/FOMO.public|FOMO.public]] 
 

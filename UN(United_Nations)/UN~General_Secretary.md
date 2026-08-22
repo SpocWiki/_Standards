@@ -245,7 +245,7 @@ dv_has_:
 
 # [[UN~General_Secretary]] 
 
-#is_/same_as :: [[../_Standards/WikiData/WD~United_Nations_Secretary_General,81066|WD~United_Nations_Secretary_General,81066]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~United_Nations_Secretary_General,81066|WD~United_Nations_Secretary_General,81066]] 
 
 ## #has_/text_of_/abstract 
 

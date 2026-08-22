@@ -221,7 +221,7 @@ dv_has_:
 
 #is_/same_as :: [[/_Standards/WikiData/WD~Meditation,108458|WD~Meditation,108458]] 
 
-Meditation tries to clear the [[../Mind|Mind]] from [[../Affect/Emotion/Fear|Fear]], also [[Meditation/FOMO|FOMO]], [[../../../Philosophy/Ethics/Vice|Vice]]s and [[Desire]]s.  
+Meditation tries to clear the [[../../Mind|Mind]] from [[../../Affect/Emotion/Fear|Fear]], also [[Meditation/FOMO|FOMO]], [[../../../../Philosophy/Ethics/Vice|Vice]]s and [[Desire]]s.  
 
 ## #has_/text_of_/abstract 
 
@@ -263,7 +263,7 @@ Meditation tries to clear the [[../Mind|Mind]] from [[../Affect/Emotion/Fear|Fea
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/bio/Psychology/Mind/Meditation|Meditation]] 
+### #is_/same_as :: [[Meditation|Meditation]] 
 
 ### #is_/same_as :: [[/_public/bio/Psychology/Mind/Meditation.public|Meditation.public]] 
 
