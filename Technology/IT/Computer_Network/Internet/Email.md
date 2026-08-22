@@ -383,6 +383,284 @@ Unicode_character: 📧
 > [Wikipedia](https://en.wikipedia.org/wiki/Email) 
 
 
+
+## How to prevent EMail Faking 
+
+The ability to fake the sender depends on which aspect of the sender you're referring to.
+
+|Aspect|Can it be faked?|Protection|
+|---|--:|---|
+|SMTP envelope sender (`MAIL FROM`)|Yes|SPF, DMARC|
+|`From:` header shown in mail clients|Yes|DKIM, DMARC|
+|Display name (e.g. "Microsoft")|Yes|User awareness, mail client indicators|
+|Domain (e.g. `example.com`)|Difficult if properly protected|SPF + DKIM + DMARC|
+|Entire email from a compromised account|No (it's genuine)|MFA, account security|
+
+### Domain spoofing
+
+Traditionally, SMTP allowed anyone to send:
+```
+From: ceo@example.com
+```
+
+even if they had no connection to `example.com`.
+
+Today, three standards make this much harder.
+
+#### SPF(Sender Policy Framework)
+
+SPF specifies which mail servers are allowed to send mail for a domain.
+```
+example.com TXT
+v=spf1 ip4:203.0.113.10 include:_spf.google.com -all
+```
+
+Receiving servers can reject mail coming from unauthorized servers.
+
+**Limitation:** SPF only validates the sending server. 
+It breaks when mail is forwarded.
+
+#### DKIM (DomainKeys Identified Mail)
+
+DKIM digitally signs parts of the email using the sender's private key.
+The recipient verifies the signature using the sender's public key published in DNS.
+
+This proves:
+- the message wasn't modified
+- the sender controlled the domain
+
+It does **not** prove who wrote the email.
+
+#### DMARC (Domain-based Message Authentication, Reporting, and Conformance)
+
+DMARC combines SPF and DKIM and tells receivers what to do when validation fails.
+
+##### Typical policies:
+
+```
+p=none
+```
+Only monitor.
+
+```
+p=quarantine
+```
+Put suspicious mail into spam.
+
+```
+p=reject
+```
+Reject spoofed mail.
+
+A strict DMARC policy (`p=reject`) prevents most successful spoofing of the protected domain.
+
+### Why spoofing still exists
+
+- Not every domain publishes SPF, DKIM, and DMARC correctly.
+- Many receiving mail systems also choose not to reject mail with failed authentication.
+
+As a result:
+- spoofing is still possible for poorly configured domains
+- spoofing a well-configured domain is usually unsuccessful
+
+### What cannot be prevented
+
+Even with perfect email authentication:
+- an attacker can register a **similar-looking domain**:
+    - `micr0soft.com`
+    - `example-mail.com`
+    - `paypaI.com` (capital "I" instead of lowercase "l")
+- an attacker can compromise a legitimate mailbox and send authenticated email
+- the **display name** can still be misleading:
+```
+From: Microsoft Support <attacker@gmail.com>
+```
+
+Many mail clients prominently display only "Microsoft Support."
+
+### Best practice
+
+For organizations sending email:
+
+| Measure                                       |                   Importance |
+| --------------------------------------------- | ---------------------------: |
+| SPF                                           |                         High |
+| DKIM                                          |                         High |
+| DMARC (`p=reject`)                            |                    Very High |
+| DNSSEC (optional)                             |                       Medium |
+| BIMI (brand logos)                            | Low (security), High (trust) |
+| Multi-factor authentication for mail accounts |                    Very High |
+
+### Overall effectiveness
+
+For a domain that correctly implements **SPF**, **DKIM**, and **DMARC** with a **`p=reject`** policy, 
+successful spoofing of that domain is rare because major email providers 
+typically reject unauthenticated messages claiming to be from it. 
+
+
+# EMail security 
+
+Email security spans several independent problems. No single technology solves them all. 
+
+| Threat                          | Description                               | Typical attack               | Primary remedies                              | Effectiveness |
+| ------------------------------- | ----------------------------------------- | ---------------------------- | --------------------------------------------- | ------------: |
+| Sender spoofing                 | Forged sender address                     | CEO fraud                    | SPF, DKIM, DMARC                              |          High |
+| Display-name spoofing           | Fake display name                         | "Microsoft Support"          | Mail client warnings, user training           |        Medium |
+| Look-alike domains              | Similar domain names                      | `paypaI.com`                 | Domain monitoring, user awareness, BIMI       |        Medium |
+| Compromised accounts            | Legitimate account hijacked               | Phishing from real mailbox   | MFA, Conditional Access, anomaly detection    |          High |
+| Message tampering               | Email modified in transit                 | Altered payment details      | DKIM, S/MIME, PGP                             |          High |
+| Eavesdropping                   | Reading email during transport            | Network interception         | TLS                                           |          High |
+| Mailbox compromise              | Reading stored email                      | Stolen credentials           | MFA, encryption at rest, endpoint security    |          High |
+| Malware attachments             | Malicious documents                       | Office macros, executables   | AV scanning, sandboxing, attachment filtering |          High |
+| Phishing                        | Credential theft                          | Fake login pages             | User training, Safe Links, browser protection |        Medium |
+| Business Email Compromise (BEC) | Financial fraud                           | Fake invoice                 | Approval workflows, payment verification      |   Medium–High |
+| Spam                            | Unsolicited email                         | Advertising                  | Spam filters, reputation systems              |          High |
+| Ransomware delivery             | Malicious attachments/links               | Encrypted systems            | Filtering, sandboxing, EDR                    |          High |
+| Zero-day malware                | Unknown malware                           | New exploit                  | Behavioral detection, sandboxing              |        Medium |
+| Supply-chain attacks            | Trusted sender compromised                | Malicious software update    | Vendor monitoring, signing                    |        Medium |
+| Forwarding abuse                | Auto-forwarding to attacker               | Silent data theft            | Disable external forwarding, auditing         |          High |
+| Data leakage                    | Sensitive information leaves organization | Misaddressed email           | DLP, encryption, approval workflows           |          High |
+| Insider threats                 | Malicious employee                        | Data theft                   | Least privilege, auditing                     |        Medium |
+| Metadata leakage                | Headers reveal information                | Internal topology disclosure | Header sanitization, gateway configuration    |        Medium |
+| Replay attacks                  | Reuse of legitimate email                 | Duplicate requests           | DKIM with replay detection, monitoring        |    Low–Medium |
+
+# Identity and authenticity
+
+These technologies answer the question:
+> **"Did this email really come from this domain?"**
+
+|Technology|Protects|Does not protect|
+|---|---|---|
+|SPF|Authorized sending servers|Message modification|
+|DKIM|Message integrity and domain ownership|Stolen accounts|
+|DMARC|Enforces SPF/DKIM policy|Look-alike domains|
+|BIMI|Brand recognition|Security by itself|
+|DNSSEC|DNS record authenticity|Email content|
+
+# Transport security
+
+These technologies protect email while it travels between servers.
+
+|Technology|Purpose|Scope|
+|---|---|---|
+|SMTP STARTTLS|Encrypts SMTP connections|Hop-by-hop|
+|MTA-STS|Requires TLS for specific domains|Between mail servers|
+|DANE|TLS validation using DNSSEC|Between mail servers|
+|TLS Reporting (TLS-RPT)|Reports TLS failures|Monitoring|
+
+## Limitations
+
+Transport encryption protects only while messages are in transit. 
+Once delivered, the recipient's server can read the message 
+unless **end-to-end encryption** is used.
+
+# End-to-end encryption
+
+These technologies protect the email content itself.
+
+| Technology                     | Encryption | Signature |      Ease |
+| ------------------------------ | ---------: | --------: | --------: |
+| S/MIME                         |        Yes |       Yes |    Medium |
+| OpenPGP                        |        Yes |       Yes | Difficult |
+| Password-protected attachments |    Partial |        No |      Easy |
+
+They protect against:
+- Mail server compromise
+- Network interception
+- Unauthorized administrators
+
+They do **not** protect after the recipient decrypts the message.
+
+# Authentication
+
+Protecting accounts is just as important as protecting messages.
+
+| Measure                           | Purpose                     |
+| --------------------------------- | --------------------------- |
+| Multi-factor authentication (MFA) | Prevent credential theft    |
+| Passkeys                          | Eliminate password phishing |
+| Conditional Access                | Restrict risky logins       |
+| Risk-based authentication         | Detect unusual behavior     |
+| Hardware security keys (FIDO2)    | Strong phishing resistance  |
+
+# Malware protection
+
+Modern email gateways typically perform multiple checks.
+- Reputation filtering
+- Antivirus scanning
+- Attachment sandboxing
+- URL rewriting
+- Time-of-click URL scanning
+- File-type restrictions
+- Macro blocking
+- Executable blocking
+
+# Data protection
+
+Prevent accidental or malicious disclosure of sensitive information.
+
+| Technology                 | Purpose                                   |
+| -------------------------- | ----------------------------------------- |
+| Data Loss Prevention (DLP) | Detect sensitive content                  |
+| Rights Management (IRM)    | Restrict forwarding and printing          |
+| Automatic classification   | Label confidential data                   |
+| Email encryption           | Protect sensitive messages                |
+| Retention policies         | Preserve or delete messages appropriately |
+
+# Operational security
+
+Processes are as important as technology.
+
+- Separate approval for large payments
+- Verify bank-account changes by phone or another trusted channel
+- Dual approval for wire transfers
+- Regular phishing simulations
+- Security awareness training
+- Mailbox auditing and alerting
+- Regular software updates
+- Backup and recovery testing
+- Incident-response procedures
+
+# Email security protocols at a glance
+
+| Protocol | Confidentiality | Integrity | Auth(Sender) | Anti-spoofing | End-to-end |
+| -------- | --------------: | --------: | -----------: | ------------: | ---------: |
+| SPF      |              No |        No |          Yes |           Yes |         No |
+| DKIM     |              No |       Yes |          Yes |           Yes |         No |
+| DMARC    |              No |        No |       Policy |           Yes |         No |
+| STARTTLS |             Yes |        No |           No |            No |         No |
+| MTA-STS  |             Yes |        No |           No |            No |         No |
+| DANE     |             Yes |        No |    Yes (TLS) |            No |         No |
+| S/MIME   |             Yes |       Yes |          Yes |            No |        Yes |
+| OpenPGP  |             Yes |       Yes |          Yes |            No |        Yes |
+
+# Recommended baseline for organizations
+
+For most organizations, the following **layered approach** provides strong protection:
+
+| Priority | Measure                                                         |
+| -------: | --------------------------------------------------------------- |
+|        1 | SPF                                                             |
+|        2 | DKIM                                                            |
+|        3 | DMARC (`p=reject`)                                              |
+|        4 | MFA or passkeys for all users                                   |
+|        5 | STARTTLS with MTA-STS (or DANE where supported)                 |
+|        6 | Advanced spam and phishing filtering                            |
+|        7 | Attachment sandboxing                                           |
+|        8 | Data Loss Prevention (DLP)                                      |
+|        9 | S/MIME for sensitive communications                             |
+|       10 | Security awareness training and payment verification procedures |
+
+No single control is sufficient. 
+Organizations with the strongest email security combine 
+- **identity verification (SPF/DKIM/DMARC)**, 
+- **encrypted transport (TLS/MTA-STS)**, 
+- **end-to-end encryption where appropriate (S/MIME or OpenPGP)**, 
+- **strong user authentication (MFA or passkeys)**, 
+- **advanced filtering**, and 
+- **well-defined operational procedures**. 
+This defense-in-depth approach addresses both technical attacks and social engineering.
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Network/Internet/Email|Email]] 

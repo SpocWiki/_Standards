@@ -158,6 +158,8 @@ aliases:
 # [[Dopamine]]
 
 
+Dopamine plays a significant role in Addiction and infatuation. 
+
 ## #has_/text_of_/abstract 
 
 > **Dopamine** (DA, a contraction of 3,4-dihydroxyphenethylamine) 

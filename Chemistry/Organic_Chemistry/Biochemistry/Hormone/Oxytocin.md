@@ -166,13 +166,15 @@ aliases:
 
 # [[Oxytocin]]  
 
+Oxytocin creates social Bonding. 
+
 ## #has_/text_of_/abstract 
 
 > **Oxytocin** is a peptide hormone and neuropeptide 
 > normally produced in the hypothalamus and released by the posterior pituitary. 
 > 
 > Present in animals since early stages of evolution, 
-> in humans it plays roles in behavior that include social bonding, love, reproduction, childbirth, 
+> in humans it plays roles in behavior that include **social bonding**, love, reproduction, childbirth, 
 > and the period after childbirth. 
 > 
 > Oxytocin is released into the bloodstream as a hormone in response to sexual activity and during childbirth. 
