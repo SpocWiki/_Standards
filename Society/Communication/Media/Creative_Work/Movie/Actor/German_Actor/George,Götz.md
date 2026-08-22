@@ -72,7 +72,7 @@ dv_has_:
 #has_/time_/stopped ::  2016-06-19 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 
-#has_/place_/started :: [[../../../../../../../Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City|Berlin]]  
+#has_/place_/started :: [[../../../../../../../Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Berlin,State/cities~Berlin/Berlin,City|Berlin]]  
 #has_/place_/stopped ::  [[../../../../../../../Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Hamburg,State/cities~Hamburg/Hamburg,City|Hamburg,City]]  
 
 

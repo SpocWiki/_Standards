@@ -1527,7 +1527,7 @@ Major Cities with Population in 1000s as of @2020
 
 | Name       | Region                 | Pop/k |
 | ---------- | ---------------------- | ----: |
-| [[Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City\|Berlin]]     | Berlin                 |  3769 |
+| [[Germany/Germany~East/Berlin,State/cities~Berlin/Berlin,City\|Berlin]]     | Berlin                 |  3769 |
 | [[Germany/Germany~West/Hamburg,State/cities~Hamburg/Hamburg,City\|Hamburg]]    | Hamburg                |  1841 |
 | Munich     | [[Germany/Germany~West/Bayern\|Bavaria]]                |  1488 |
 | [[Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln,City\|Cologne]]    | [[Germany/Germany~West/Nordrhein-Westfalen\|North Rhine-Westphalia]] |  1085 |
@@ -1548,7 +1548,7 @@ with numbers as of 2023-06
 | ----------------------------------------------------------------------- | ---------: | ----------: | -------: | ----------: | ----- | ---------------------------------------------------------------------- |
 | [[Germany/Germany~West/Baden-Wuerttemberg\|Baden-Württemberg]]          |     11.230 |      35.748 |      544 |      54.339 | 0.963 | Strong automotive industry; home to companies like Daimler and Porsche |
 | [[Germany/Germany~West/Bayern\|Bavaria]]                                |     13.176 |      70.541 |      756 |      57.343 | 0.958 | Largest state by area; economic powerhouse with diverse industries     |
-| [[Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City\|Berlin]]      |      3.662 |       0.891 |      187 |      51.209 | 0.967 | Capital city; cultural and political center                            |
+| [[Germany/Germany~East/Berlin,State/cities~Berlin/Berlin,City\|Berlin]]      |      3.662 |       0.891 |      187 |      51.209 | 0.967 | Capital city; cultural and political center                            |
 | [[Germany/Germany~East/Brandenburg\|Brandenburg]]                       |      2.554 |      29.654 |       97 |      37.814 | 0.926 | Surrounds Berlin; known for its lakes and natural reserves             |
 | [[Germany/Germany~West/Bremen,State/cities~Bremen/Bremen,City\|Bremen]]      |       .702 |       0.419 |       40 |      56.981 | 0.954 | Smallest state; major port city                                        |
 | [[Germany/Germany~West/Hamburg,State/cities~Hamburg/Hamburg,City\|Hamburg]]  |      1.851 |       0.755 |      146 |      79.167 | 0.975 | Major port and commercial hub                                          |
@@ -1581,7 +1581,7 @@ with numbers as of 2023-06
 > [[Austria]] and [[Switzerland]] to the south, and [[France]], [[Luxembourg]], [[Belgium]], 
 > and the [[Netherlands]] to the west. 
 > 
-> The nation's capital and most populous city is [[Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City|Berlin]] 
+> The nation's capital and most populous city is [[Germany/Germany~East/Berlin,State/cities~Berlin/Berlin,City|Berlin]] 
 > and its main financial center is [[Frankfurt]]; the largest urban area is [[Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr|Essen,Ruhr]].
 >
 > Settlement in what is now Germany began in the Lower [[../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Paleolithic|Paleolithic]], 
@@ -1612,7 +1612,7 @@ with numbers as of 2023-06
 > Germany as a whole was organized into two separate polities with limited sovereignty: 
 > the [[Germany/Germany~West|Federal Republic of Germany]], generally known as West Germany, 
 > and the [[Germany/Germany~East|German Democratic Republic]], known as [[Germany/Germany~East|East Germany]], 
-> while [[Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City|Berlin]] continued its de jure Four Power status. 
+> while [[Germany/Germany~East/Berlin,State/cities~Berlin/Berlin,City|Berlin]] continued its de jure Four Power status. 
 > 
 > The Federal Republic of Germany was 
 > a founding member of the European Economic Community and the [[../EU(European_Union)|European Union]], 
