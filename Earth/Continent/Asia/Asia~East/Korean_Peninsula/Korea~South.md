@@ -1163,7 +1163,6 @@ has_place_latitude = `=this.dv_has_place_latitude`
 > [Wikipedia](https://en.wikipedia.org/wiki/South%20Korea) 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South|Korea~South]] 
