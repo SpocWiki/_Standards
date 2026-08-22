@@ -534,6 +534,8 @@ Especially a [Phylogenetic tree](https://en.wikipedia.org/wiki/Phylogenetic_tree
 arranged in a Folder-Hierarchy with Species Name as Folder Names in [[bio/bio~Domain|bio~Domain]]. 
 
 The Folder Names are kept brief, to allow for the necessary deep Directory Structures. 
+For the same Reason, this top-level Folder itself is deliberately named `bio` instead of `Biology`: 
+the deeply nested phylogenetic Folder Tree below it would otherwise exceed the Windows Filesystem Path-Length Limit. 
 
 Although Biology is primarily realized as [[Chemistry/Organic_Chemistry|Organic_Chemistry]],
 it is placed at top level due to its depth and importance. 

@@ -72,6 +72,23 @@ Therefore the Modules should typically be cloned into a temporary Folder and ver
 Nonetheless, private Repositories may find it useful to include this Repository as a Sub-Module for ease of use. 
 
 
+## Language Convention
+
+Contents of the `_Standards` and `_public` Folders are generally written in English, 
+regardless of the Author's native Language, to keep the shared/public Layers broadly accessible. 
+Multilingual Aliases (e.g. in Frontmatter) are still encouraged. 
+More confidential Layers (`_internal`, `_protect`, `_private`, `_personal`, `_secret`) may use any Language. 
+
+## Naming Suffix Conventions
+
+- `~` (Tilde) is used instead of `\` to disambiguate a Super~Sub Relationship within a single Name, 
+  e.g. `Dim~Time` encodes `Dimension\Time`. This avoids creating an actual nested Folder 
+  just to express a Parent~Child Type Relation. 
+- `(...)` (Parentheses) may be used for both Purposes: expanding an Acronym (e.g. `UN(United_Nations)`) 
+  and disambiguating a Term from other Meanings of the same Name (e.g. `Function(Math)`). 
+  When used for Disambiguation, the Order is often the Reverse of the Tilde Notation: 
+  `Super~Sub-Topic` is equivalent to `Sub-Topic(Super)`, e.g. `Math~Function` ≡ `Function(Math)`. 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Wiki-Growth-Process|Wiki-Growth-Process]] 
