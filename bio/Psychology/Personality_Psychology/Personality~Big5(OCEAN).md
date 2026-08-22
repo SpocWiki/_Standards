@@ -155,7 +155,7 @@ correlations:
 
 #is_/similar_to :: [[./Personality~HEXACO|Personality~HEXACO]] 
 
-Cross-cultural linguistic Analysis **adds the Honesty-Humility** Dimension 
+Cross-cultural linguistic Analysis **adds the Honesty-Humility** Dimension [[Personality~Big5(OCEAN)/Big6~HEXACO-Honesty_Humility|Big6~HEXACO-Honesty_Humility]]
 to the Big5 which were derived from English and related languages. 
 
 | Attribute\                     | Honesty–<br>Humility    | Emotionality               | Extraversion            | Agreeableness              | Conscientious        | Openness                |

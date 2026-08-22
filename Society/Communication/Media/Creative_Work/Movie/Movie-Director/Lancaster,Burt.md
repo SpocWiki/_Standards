@@ -206,7 +206,7 @@ dv_has_:
 > In the early 1960s, Lancaster starred in a string of critically successful films, each in very disparate roles. 
 > Playing a charismatic biblical con-man in Elmer Gantry in 1960 won him the Academy Award and the Golden Globe for Best Actor. 
 > He played a Nazi war criminal in 1961 in the all-star, war-crime-trial film, Judgment at Nuremberg. 
-> Playing a bird expert prisoner in [[Birdman of Alcatraz]] in 1962, 
+> Playing a bird expert prisoner in [[../../../../../../../assets/Books/Philosophy/SelfDevelopment/Butler-Bowdon,Tom/Butler-Bowdon~Self-Help/Butler-Bowdon~Change_your_thoughts/Birdman_of_Alcatraz]] in 1962, 
 > he earned the BAFTA Award for Best Foreign Actor and his third Oscar nomination. 
 > In 1963, Lancaster traveled to Italy to star as an Italian prince in Visconti's epic period drama The Leopard. 
 > In 1964, he played a US Air Force General who, opposed by a Colonel played by Douglas, 

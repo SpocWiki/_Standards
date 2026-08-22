@@ -584,7 +584,7 @@ dv_has_:
 ## #has_/text_of_/abstract 
 
 > **Venus** is the second planet from the Sun. 
-> It is a terrestrial planet and is the closest in mass and size to its orbital neighbour [[../_Standards/Earth|Earth]]. 
+> It is a terrestrial planet and is the closest in mass and size to its orbital neighbour [[/_Standards/Earth|Earth]]. 
 > Venus is notable for having the densest atmosphere of the terrestrial planets, 
 > composed mostly of carbon dioxide with a thick, global sulfuric acid cloud cover. 
 >

@@ -277,11 +277,48 @@ dv_has_:
 
 #is_/same_as :: [[/_Standards/WikiData/WD~System,58778|WD~System,58778]] 
 
+
+## Physical System 
+
+### Isolated System 
+
+An isolated System has no Boundary. 
+Its behavior is completely determined by its inner structure. 
+
+### Closed System 
+
+A closed System allows the Exchange of Energy, 
+typically Low-Entropy Energy entering the system (high Temperature)
+and dissipating High-Entropy Energy (at a lower Temperature as Heat). 
+
+### Open System 
+
+A closed System allows the Exchange of Energy and Matter. 
+The most simple case is a streaming Process, 
+where Matter and Energy are supplied continuously in a quasi-static Process. 
+I.e. the macroscopic Parameters are static, 
+while the microscopic Parameters are extremely dynamic, 
+but that can be ignored. 
+
+
 ## #has_/text_of_/abstract 
 
-> A **System** is a group of interacting or interrelated elements that act according to a set of rules to form a unified whole. A system, surrounded and influenced by its environment, is described by its boundaries, structure and purpose and is expressed in its functioning. Systems are the subjects of study of systems theory and other systems sciences.
+> A **System** is a group of interacting or interrelated **elements** 
+> that act according to a set of rules to form a unified whole. 
+> 
+> A system, surrounded and influenced by its environment, is described by its 
+> - boundaries, 
+> - structure and 
+> - purpose 
+> and is expressed in its functioning. 
+> Systems are the subjects of study of systems theory and other systems sciences.
 >
-> Systems have several common properties and characteristics, including structure, function(s), behavior and interconnectivity.
+> Systems have several common properties and characteristics, including 
+> - structure, 
+> - function(s), 
+> - behavior and 
+> - interconnectivity 
+> - boundaries 
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/System) 
 

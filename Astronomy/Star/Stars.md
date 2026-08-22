@@ -5,7 +5,7 @@ Shared astronomical Facts
 
 
 ## Confidential Links & Embeds: 
-- [[../_Standards/astro/README|README]] 
+- [[/_Standards/astro/README|README]] 
 - [[../_public/astro/README.public|README.public]] 
 - [[../_internal/astro/README.internal|README.internal]] 
 - [[../_protect/astro/README.protect|README.protect]] 
