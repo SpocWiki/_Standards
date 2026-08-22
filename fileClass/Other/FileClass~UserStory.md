@@ -61,7 +61,7 @@ version: 2.12
 ---
 
 This is the structured Analog to [[../../../IT/Programming/Prog~Process/User-Story|User-Story]]. 
-It is a textual Description of a [[../../../IT/Programming/Prog~Process/BDD(Behavior-Driven_Design)/BDD~Feature|BDD~Feature]] together with its [[../../../IT/Programming/Prog~Process/BDD(Behavior-Driven_Design)/BDD~Scenario|BDD~Scenario]]s. 
+It is a textual Description of a [[../../../IT/Programming/Prog~Process/BDD(Behavior-Driven_Development)/BDD~Feature|BDD~Feature]] together with its [[../../../IT/Programming/Prog~Process/BDD(Behavior-Driven_Development)/BDD~Scenario|BDD~Scenario]]s. 
 
 You can generate a SpecFlow Document from this. 
 

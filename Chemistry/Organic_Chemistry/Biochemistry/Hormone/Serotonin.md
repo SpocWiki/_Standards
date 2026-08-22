@@ -151,19 +151,23 @@ aliases:
 
 ## #has_/text_of_/abstract 
 
-> **Serotonin** () or 5-hydroxytryptamine (5-HT) is a monoamine neurotransmitter. 
-> Its biological function is complex, touching on diverse functions including mood, cognition, reward, learning, memory, 
+> **Serotonin** or 5-hydroxytryptamine (5-HT) is a monoamine neurotransmitter. 
+> Its biological function is complex, touching on diverse functions including 
+> **mood, cognition, reward, learning, memory**, 
 > and numerous physiological processes such as vomiting and vasoconstriction.
 >
 > Serotonin is produced in the central nervous system (CNS), 
-> specifically in the brainstem's raphe nuclei, the skin's Merkel cells, pulmonary neuroendocrine cells 
+> specifically in the brainstem's raphe nuclei, the skin's Merkel cells, 
+> pulmonary neuroendocrine cells 
 > and the tongue's taste receptor cells. 
 > 
-> Approximately 90% of the serotonin the human body produces is in the gastrointestinal tract's enterochromaffin cells, 
+> Approximately 90% of the serotonin the human body produces is 
+> in the **gastrointestinal tract**'s enterochromaffin cells, 
 > where it regulates intestinal movements. 
 > 
-> Additionally, it is stored in blood platelets and is released during agitation and vasoconstriction, 
-> where it then acts as an agonist to other platelets. About 8% is found in platelets and 1–2% in the CNS.
+> Additionally, it is **stored in blood platelets** and is released during agitation and vasoconstriction, 
+> where it then acts as an agonist to other platelets. 
+> About 8% is found in platelets and 1–2% in the CNS.
 >
 > The serotonin is secreted luminally and basolaterally, 
 > which leads to increased serotonin uptake by circulating platelets and activation after stimulation, 

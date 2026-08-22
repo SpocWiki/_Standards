@@ -288,14 +288,15 @@ dv_has_:
 
 # [[Winfrey,Oprah]] 
 
-#is_/same_as :: [[/_Standards/WikiData/WD~Oprah_Winfrey,55800|WD~Oprah_Winfrey,55800]]
+#is_/same_as :: [[/_Standards/WikiData/WD~Oprah_Winfrey,55800|WD~Oprah_Winfrey,55800]] 
+#has_/created :: [[Winfrey,Oprah/Oprah_Winfrey_Show|Oprah_Winfrey_Show]] 
 
 ## #has_/text_of_/abstract 
 
 > Oprah Gail Winfrey (born Orpah Gail Winfrey; January 29, 1954) 
 > is an American talk show host, television producer, actress, author, and media proprietor. 
 > 
-> She is best known for her talk show, The Oprah Winfrey Show, broadcast from Chicago, 
+> She is best known for her talk show, The [[Winfrey,Oprah/Oprah_Winfrey_Show|Oprah_Winfrey_Show]], broadcast from Chicago, 
 > which ran in national syndication for 25 years, from 1986 to 2011. 
 > Globally, she is the richest Black woman and the wealthiest female celebrity. 
 > Dubbed the "Queen of All Media", she was the richest African-American of the 20th century 
@@ -305,33 +306,37 @@ dv_has_:
 > Winfrey was born into poverty in rural Mississippi to a single teenage mother 
 > and later raised in inner-city Milwaukee. 
 > She has stated that she was molested during her childhood and early teenage years 
-> and became pregnant at 14; her son was born prematurely and died in infancy. 
+> and became **pregnant at 14**; her son was born prematurely and died in infancy. 
 > Winfrey was then sent to live with the man she calls her father, Vernon Winfrey, 
-> a barber in Nashville, Tennessee, and landed a job in radio while still in high school. 
+> a barber in Nashville, Tennessee, and landed a **job in radio while still in high school**. 
 > 
 > By 19, she was a co-anchor for the local evening news. 
 > Winfrey's often emotional, extemporaneous delivery 
 > eventually led to her transfer to the daytime talk show arena, 
 > and after boosting a third-rated local Chicago talk show to first place, 
-> she launched her own production company.
+> **she launched her own production company**.
 >
 > Credited with creating a more intimate, confessional form of media communication, 
-> Winfrey popularized and revolutionized the tabloid talk show genre pioneered by Phil Donahue. 
+> Winfrey popularized and revolutionized the tabloid talk show genre 
+> pioneered by Phil Donahue. 
 > 
-> By the mid-1990s, Winfrey had reinvented her show 
-> with a focus on literature, self-improvement, mindfulness, and spirituality. 
+> By the mid-1990s, Winfrey had reinvented her show with a focus on 
+> - literature, 
+> - self-improvement, 
+> - mindfulness, and 
+> - spirituality. 
 > She has been criticized for unleashing a confession culture, 
 > promoting controversial self-help ideas, and having an emotion-centered approach, 
 > and has also been praised for overcoming adversity to become a benefactor to others. 
 > 
 > Winfrey also emerged as a political force in the 2008 presidential race, 
-> with her endorsement of Barack Obama estimated to have been worth about one million votes 
-> during the 2008 Democratic primaries.  
+> with her **endorsement of Barack Obama** estimated to have been 
+> worth about one million votes during the 2008 Democratic primaries.  
 > In the same year, she formed her own network, the Oprah Winfrey Network (OWN). 
 > In 2013, Winfrey was awarded the Presidential Medal of Freedom by President Barack Obama.
 >
 > In 1994, Winfrey was inducted into the National Women's Hall of Fame. 
-> Then in October, she finished the Marine Corps Marathon in less than four and a half hours. 
+> Then in October, **she finished the Marine Corps Marathon** in less than four and a half hours. 
 > She has received honorary doctorate degrees from multiple universities. 
 > Winfrey has won many awards throughout her career, including 19 Daytime Emmy Awards 
 > (including the Lifetime Achievement Award and the Chairman's Award), 

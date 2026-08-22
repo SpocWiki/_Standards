@@ -1,6 +1,20 @@
 
 # [[Antelope_Evolution]] 
 
+
+## Pricing 
+
+
+#has_/cost_/repair :: 180 
+#has_/cost_/new :: 400 
+
+Long Legs are 20% more expensive 
+Long Sleeves are 100% more expensive !
+
+Long Full body is reduced to 1100 from 1700 = 600+800+300 booster individual
+
+## Gebrauchsanweisung 
+
 Lies diese Gebrauchsanweisung sorgfältig durch und beachte die Hinweise. 
 Bewahre sie für den späteren Gebrauch auf und mache sie anderen Benutzern zugänglich. 
 

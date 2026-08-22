@@ -420,19 +420,75 @@ dv_has_:
 
 #is_/same_as :: [[../../WikiData/WD~Global_warming,7942|WD~Global_warming,7942]]  
 
+## #has_/examples 
+
+- [[Heatwave,Europe,2003]] 
+- 
+
 ## #has_/text_of_/abstract 
 
-> Present-day climate change includes both **Global warming**—the ongoing increase in global average temperature—and its wider effects on Earth’s climate system. Climate change in a broader sense also includes previous long-term changes to Earth's climate. The current rise in global temperatures is driven by human activities, especially fossil fuel burning since the Industrial Revolution. Fossil fuel use, deforestation, and some agricultural and industrial practices release greenhouse gases. These gases absorb some of the heat that the Earth radiates after it warms from sunlight, warming the lower atmosphere. Carbon dioxide, the primary gas driving global warming, has increased in concentration by about 50% since the pre-industrial era to levels not seen for millions of years.
->
-> Climate change has an increasingly large impact on the environment. Deserts are expanding, while heat waves and wildfires are becoming more common. Amplified warming in the Arctic has contributed to thawing permafrost, retreat of glaciers and sea ice decline. Higher temperatures are also causing more intense storms, droughts, and other weather extremes. Rapid environmental change in mountains, coral reefs, and the Arctic is forcing many species to relocate or become extinct. Even if efforts to minimize future warming are successful, some effects will continue for centuries. These include ocean heating, ocean acidification and sea level rise.
->
-> Climate change threatens people with increased flooding, extreme heat, increased food and water scarcity, more disease, and economic loss. Human migration and conflict can also be a result. The World Health Organization calls climate change one of the biggest threats to global health in the 21st century. Societies and ecosystems will experience more severe risks without action to limit warming. Adapting to climate change through efforts like flood control measures or drought-resistant crops partially reduces climate change risks, although some limits to adaptation have already been reached. Poorer communities are responsible for a small share of global emissions, yet have the least ability to adapt and are most vulnerable to climate change.
->
+> Present-day climate change includes both **Global warming**—
+> the ongoing increase in global average temperature—
+> and its wider effects on Earth’s climate system. 
 > 
+> Climate change in a broader sense 
+> also includes previous long-term changes to Earth's climate. 
+> 
+> The current rise in global temperatures is driven by human activities, 
+> especially fossil fuel burning since the Industrial Revolution. 
+> 
+> Fossil fuel use, deforestation, 
+> and some agricultural and industrial practices release greenhouse gases. 
+> These gases absorb some of the heat that the Earth radiates after it warms from sunlight, 
+> warming the lower atmosphere. 
+> Carbon dioxide, the primary gas driving global warming, 
+> has increased in concentration by about 50% since the pre-industrial era 
+> to levels not seen for millions of years.
 >
-> Many climate change impacts have been observed in the first decades of the 21st century, with 2024 the warmest on record at +1.60 °C (2.88 °F) since regular tracking began in 1850. Additional warming will increase these impacts and can trigger tipping points, such as melting all of the Greenland ice sheet. Under the 2015 Paris Agreement, nations collectively agreed to keep warming "well under 2 °C". However, with pledges made under the Agreement, global warming would still reach about 2.8 °C (5.0 °F) by the end of the century. Limiting warming to 1.5 °C would require halving emissions by 2030 and achieving net-zero emissions by 2050.
+> Climate change has an increasingly large impact on the environment. 
+> Deserts are expanding, while heat waves and wildfires are becoming more common. 
+> Amplified warming in the Arctic has contributed to 
+> thawing permafrost, retreat of glaciers and sea ice decline. 
+> 
+> Higher temperatures are also causing more intense storms, droughts, 
+> and other weather extremes. Rapid environmental change in mountains, coral reefs, and the Arctic is forcing many species to relocate or become extinct. Even if efforts to minimize future warming are successful, some effects will continue for centuries. These include ocean heating, ocean acidification and sea level rise.
 >
-> Fossil fuel use can be phased out by conserving energy and switching to energy sources that do not produce significant carbon pollution. These energy sources include wind, solar, hydro, and nuclear power. Cleanly generated electricity can replace fossil fuels for powering transportation, heating buildings, and running industrial processes. Carbon can also be removed from the atmosphere, for instance by increasing forest cover and farming with methods that capture carbon in soil.
+> Climate change threatens people with increased flooding, extreme heat, 
+> increased food and water scarcity, more disease, and economic loss. 
+> 
+> Human migration and conflict can also be a result. 
+> 
+> The World Health Organization calls climate change 
+> one of the biggest threats to global health in the 21st century. 
+> 
+> Societies and ecosystems will experience more severe risks without action to limit warming. 
+> Adapting to climate change through efforts like flood control measures 
+> or drought-resistant crops partially reduces climate change risks, 
+> although some limits to adaptation have already been reached. 
+> 
+> Poorer communities are responsible for a small share of global emissions, 
+> yet have the least ability to adapt and are most vulnerable to climate change.
+>
+> Many climate change impacts have been observed in the first decades of the 21st century, 
+> with 2024 the warmest on record at +1.60 °C (2.88 °F) since regular tracking began in 1850. 
+> 
+> Additional warming will increase these impacts and can trigger tipping points, 
+> such as melting all of the Greenland ice sheet. 
+> 
+> Under the 2015 Paris Agreement, nations collectively agreed to keep warming "well under 2 °C". However, with pledges made under the Agreement, 
+> global warming would still reach about 2.8 °C (5.0 °F) by the end of the century. 
+> Limiting warming to 1.5 °C would require halving emissions by 2030 
+> and achieving net-zero emissions by 2050.
+>
+> Fossil fuel use can be phased out by conserving energy 
+> and switching to energy sources that do not produce significant carbon pollution. 
+> These energy sources include wind, solar, hydro, and nuclear power. 
+> 
+> Cleanly generated electricity can replace fossil fuels for powering transportation, 
+> heating buildings, and running industrial processes. 
+> 
+> Carbon can also be removed from the atmosphere, for instance 
+> by increasing forest cover and farming with methods that capture carbon in soil.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Climate%20change) 
 

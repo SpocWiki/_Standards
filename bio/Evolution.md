@@ -370,6 +370,9 @@ dv_has_:
 
 # [[Evolution]]  
 
+
+#is_/instance_of :: [[../Society/Anthropology/Sociology/Path_Dependence|Path_Dependence]] 
+
 ## #has_/text_of_/abstract 
 
 > **Evolution** is the change in the heritable characteristics of biological populations 

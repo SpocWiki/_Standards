@@ -55,7 +55,7 @@ Use it like this:
 - #has_/examples : : `=this.dv_has_range` 
 - has_example : : `=this.dv_has_range` 
 - is_example_of : : `=this.dv_has_domain` 
-- #is_/example_for : : `=this.dv_has_domain` 
+- #is_/example_of : : `=this.dv_has_domain` 
 
 Relation describes that: 
 

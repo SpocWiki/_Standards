@@ -262,12 +262,14 @@ dv_has_:
 
 ## #has_/text_of_/abstract 
 
-> The endocrine system is a messenger system in an organism comprising feedback loops of hormones 
+> The endocrine system is a messenger system in an organism comprising 
+> **feedback loops of hormones** 
 > that are released by internal glands directly into the circulatory system 
 > and that target and regulate distant organs. 
 > In vertebrates, the hypothalamus is the neural control center for all endocrine systems.
 >
-> In humans, the major endocrine glands are the thyroid, parathyroid, pituitary, pineal, and adrenal glands, 
+> In humans, the major endocrine glands are the 
+> thyroid, parathyroid, pituitary, pineal, and adrenal glands, 
 > and the (male) testis and (female) ovaries. 
 > 
 > The hypothalamus, pancreas, and thymus also function as endocrine glands, among other functions. 

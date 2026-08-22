@@ -1,86 +1,87 @@
 ---
 aliases:
-- biebbmoduodde
-- biebmolasáhus
-- Chế phẩm bổ sung
-- complement dietètic
-- complément alimentaire
-- dieta suplemento
-- dietary supplement
-- Dietary_Supplement
-- Dijetetski suplement
-- Dijetetski suplementi
-- diëet aanvulling
-- Dodaci prehrani
-- doplněk stravy
-- elikadura-osagarri
-- gıda takviyesi
-- integratore alimentare
-- kosttillskott
-- Kosttilskot
-- kosttilskud
-- kosttilskudd
-- laseraavâdaamnâs
-- lisäravintoaine
-- Maisto papildas
-- makanan tambahan
-- Nahrungsergänzung
-- Nahrungsergänzungsmittel
-- Prehrambeni suplement
-- prehransko dopolnilo
-- Suplemen makanan
-- Suplemen panganan
-- suplement diety
-- suplemento alimentar
-- suplemento dietético
-- Suplementu dietéticu
-- supliment alimentar
-- táplálékkiegészítő
-- uztura bagātinātāji
-- voedingssupplement
-- Συμπλήρωμα διατροφής
-- біологічно активні добавки
-- біялягічна актыўны дадатак
-- биологически активные добавки
-- Биологиялық белсенді қоспалар
-- дијететски суплемент
-- Дијететски суплементи
-- додаток во исхраната
-- Սննդառական Լրացուցիչներ
-- תוסף תזונה
-- تەواوکەری خۆراکی
-- مكمل غذائي
-- مکملهای غذایی طبیعی
-- खाद्य पूरक
-- খাদ্য পরিপূরক
-- உணவுக் குறைநிரப்பி
-- อาหารเสริม
-- サプリメント
-- 保健品
-- 膳食补充剂
-- 膳食補充劑
-- 식이 보충제
+  - biebbmoduodde
+  - biebmolasáhus
+  - Chế phẩm bổ sung
+  - complement dietètic
+  - complément alimentaire
+  - dieta suplemento
+  - dietary supplement
+  - Dietary_Supplement
+  - Dijetetski suplement
+  - Dijetetski suplementi
+  - diëet aanvulling
+  - Dodaci prehrani
+  - doplněk stravy
+  - elikadura-osagarri
+  - gıda takviyesi
+  - integratore alimentare
+  - kosttillskott
+  - Kosttilskot
+  - kosttilskud
+  - kosttilskudd
+  - laseraavâdaamnâs
+  - lisäravintoaine
+  - Maisto papildas
+  - makanan tambahan
+  - Nahrungsergänzung
+  - Nahrungsergänzungsmittel
+  - Prehrambeni suplement
+  - prehransko dopolnilo
+  - Suplemen makanan
+  - Suplemen panganan
+  - suplement diety
+  - suplemento alimentar
+  - suplemento dietético
+  - Suplementu dietéticu
+  - supliment alimentar
+  - táplálékkiegészítő
+  - uztura bagātinātāji
+  - voedingssupplement
+  - Συμπλήρωμα διατροφής
+  - біологічно активні добавки
+  - біялягічна актыўны дадатак
+  - биологически активные добавки
+  - Биологиялық белсенді қоспалар
+  - дијететски суплемент
+  - Дијететски суплементи
+  - додаток во исхраната
+  - Սննդառական Լրացուցիչներ
+  - תוסף תזונה
+  - تەواوکەری خۆراکی
+  - مكمل غذائي
+  - مکملهای غذایی طبیعی
+  - खाद्य पूरक
+  - খাদ্য পরিপূরক
+  - உணவுக் குறைநிரப்பி
+  - อาหารเสริม
+  - サプリメント
+  - 保健品
+  - 膳食补充剂
+  - 膳食補充劑
+  - 식이 보충제
+  - Supplement
 has_id_wikidata: Q645858
 has_use:
-- '[[/_Standards/WikiData/WD~medical_nutrition_therapy,4116495|WD~medical_nutrition_therapy,4116495]]'
-- '[[/_Standards/WikiData/WD~diet,26869695|WD~diet,26869695]]'
-topic_has_template: '[[/_Standards/WikiData/WD~Template_Dietary_supplement,14445235|WD~Template_Dietary_supplement,14445235]]'
+  - "[[/_Standards/WikiData/WD~medical_nutrition_therapy,4116495|WD~medical_nutrition_therapy,4116495]]"
+  - "[[/_Standards/WikiData/WD~diet,26869695|WD~diet,26869695]]"
+topic_has_template: "[[/_Standards/WikiData/WD~Template_Dietary_supplement,14445235|WD~Template_Dietary_supplement,14445235]]"
 subclass_of:
-- '[[/_Standards/WikiData/WD~pharmaceutical_product,28885102|WD~pharmaceutical_product,28885102]]'
-- '[[/_Standards/WikiData/WD~drug,8386|WD~drug,8386]]'
+  - "[[/_Standards/WikiData/WD~pharmaceutical_product,28885102|WD~pharmaceutical_product,28885102]]"
+  - "[[/_Standards/WikiData/WD~drug,8386|WD~drug,8386]]"
 instance_of:
-- '[[/_Standards/WikiData/WD~class_of_chemical_substances_by_use,100434640|WD~class_of_chemical_substances_by_use,100434640]]'
-- '[[/_Standards/WikiData/WD~regulatory_class_of_chemical_substances,133177856|WD~regulatory_class_of_chemical_substances,133177856]]'
+  - "[[/_Standards/WikiData/WD~class_of_chemical_substances_by_use,100434640|WD~class_of_chemical_substances_by_use,100434640]]"
+  - "[[/_Standards/WikiData/WD~regulatory_class_of_chemical_substances,133177856|WD~regulatory_class_of_chemical_substances,133177856]]"
 social_media_followers: 282985
 equivalent_class: https://schema.org/DietarySupplement
 UMLS_CUI:
-- C0242295
-- C1518478
+  - C0242295
+  - C1518478
 Commons_category: Dietary supplements
 Wolfram_Language_entity_code: Entity["FoodType", "NutritionalSupplement"]
 MeSH_tree_code:
-- G07.203.300.456
-- J02.500.456
+  - G07.203.300.456
+  - J02.500.456
 IPTC_NewsCode: mediatopic/20000466
 subreddit: Supplements
 Baidu_Tieba_name: 保健品
