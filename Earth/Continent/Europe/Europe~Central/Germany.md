@@ -1494,14 +1494,27 @@ darkMode: false
 
 ```geojson
 {
-  "type": "Polygon",
-  "coordinates": [[
-    [5.9, 47.3],
-    [15.1, 47.3],
-    [15.1, 55.1],
-    [5.9, 55.1],
-    [5.9, 47.3]
-  ]]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Germany",
+        "note": "Approximate bounding box (WGS84 lon/lat); not a political boundary",
+        "source": "Approximate extent; replace with an authoritative boundary dataset if used as a border"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [5.9, 47.3],
+          [15.1, 47.3],
+          [15.1, 55.1],
+          [5.9, 55.1],
+          [5.9, 47.3]
+        ]]
+      }
+    }
+  ]
 }
 ```
 
