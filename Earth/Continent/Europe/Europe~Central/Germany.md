@@ -1491,12 +1491,10 @@ scale: 1
 darkMode: false
 ```
 
+### #has_map_/bounding 
 
 ```geojson
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
       "type": "Feature",
       "properties": {
         "name": "Germany",
@@ -1513,8 +1511,6 @@ darkMode: false
           [5.9, 47.3]
         ]]
       }
-    }
-  ]
 }
 ```
 
