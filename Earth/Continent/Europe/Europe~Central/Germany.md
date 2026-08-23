@@ -1472,22 +1472,6 @@ defaultZoom: 5
 
 ### #has_map_/topologic 
 
-
-<script src="https://embed.github.com/view/geojson/USER/REPO/main/Germany/Germany.geojson"></script>
-
-```geojson
-{
-  "type": "Polygon",
-  "coordinates": [[
-    [5.9, 47.3],
-    [15.1, 47.3],
-    [15.1, 55.1],
-    [5.9, 55.1],
-    [5.9, 47.3]
-  ]]
-}
-```
-
 ```leaflet
 id: Germany_Topological
 image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
@@ -1505,6 +1489,20 @@ markerFile: [[Germany]]
 unit: px
 scale: 1
 darkMode: false
+```
+
+
+```geojson
+{
+  "type": "Polygon",
+  "coordinates": [[
+    [5.9, 47.3],
+    [15.1, 47.3],
+    [15.1, 55.1],
+    [5.9, 55.1],
+    [5.9, 47.3]
+  ]]
+}
 ```
 
 
