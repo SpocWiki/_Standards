@@ -329,6 +329,7 @@ dv_has_:
 # [[Major_depressive_Disorder]] 
 
 #is_/same_as :: [[/_Standards/WikiData/WD~Major_depressive_disorder,42844|WD~Major_depressive_disorder,42844]] 
+#is_/more_than :: [[../Mind/Mental_State/Depression|Depression]] 
 
 ## #has_/text_of_/abstract 
 
@@ -342,11 +343,39 @@ dv_has_:
 > (DSM-III), and has become widely used since. 
 > The disorder causes the second-most years lived with disability, after low back pain.
 >
-> The diagnosis of major depressive disorder is based on the person's reported experiences, behavior reported by family or friends, and a mental status examination. There is no laboratory test for the disorder, but testing may be done to rule out physical conditions that can cause similar symptoms. The most common time of onset is in a person's 20s, with females affected about three times as often as males. The course of the disorder varies widely, from one episode lasting months to a lifelong disorder with recurrent major depressive episodes.
+> The diagnosis of major depressive disorder is based on the person's reported experiences, 
+> behavior reported by family or friends, and a mental status examination. 
+> There is no laboratory test for the disorder, but testing may be done to 
+> rule out physical conditions that can cause similar symptoms. 
+> 
+> The most common time of onset is in a person's 20s, 
+> with **females affected about three times as often as males**. 
+> The course of the disorder varies widely, from one episode lasting months 
+> to a lifelong disorder with recurrent major depressive episodes.
 >
-> Those with major depressive disorder are typically treated with psychotherapy and antidepressant medication. While a mainstay of treatment, the clinical efficacy of antidepressants is controversial. Hospitalization (which may be involuntary) may be necessary in cases with associated self-neglect or a significant risk of harm to self or others. Electroconvulsive therapy, ketamine, esketamine, and psilocybin are the most effective and safe first-line treatments for treatment-resistant depression, though regulatory approval and clinical availability vary by country.
+> Those with major depressive disorder are typically treated 
+> with psychotherapy and antidepressant medication. 
+> While a mainstay of treatment, the clinical efficacy of antidepressants is controversial. 
+> Hospitalization (which may be involuntary) may be necessary 
+> in cases with associated self-neglect or a significant risk of harm to self or others. 
+> Electroconvulsive therapy, ketamine, esketamine, and psilocybin are the 
+> most effective and safe first-line treatments for treatment-resistant depression, 
+> though regulatory approval and clinical availability vary by country.
 >
-> Major depressive disorder is believed to be caused by a combination of genetic, environmental, and psychological factors, with about 40% of the risk being genetic. Risk factors include a family history of the condition, major life changes, childhood traumas, environmental lead exposure, certain medications, chronic health problems, and substance use disorders. It can negatively affect a person's personal life, work life, or education, and cause issues with a person's sleeping habits, eating habits, and general health.
+> Major depressive disorder is believed to be caused by a combination of 
+> genetic, environmental, and psychological factors, with about 40% of the risk being genetic. 
+> 
+> Risk factors include a 
+> - family history of the condition, 
+> - major life changes, 
+> - childhood traumas, 
+> - environmental lead exposure, 
+> - certain medications, 
+> - chronic health problems, and 
+> - substance use disorders. 
+> 
+> It can negatively affect a person's personal life, work life, or education, 
+> and cause issues with a person's sleeping habits, eating habits, and general health.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Major%20depressive%20disorder) 
 
