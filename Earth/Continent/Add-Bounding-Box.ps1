@@ -1,6 +1,9 @@
 Get-ChildItem -Recurse -Filter *.md | ForEach-Object {
     $path = $_.FullName
-    $text = Get-Content $path -Raw
+
+    # Read UTF-8 without relying on PowerShell's default encoding
+    $bytes = [System.IO.File]::ReadAllBytes($path)
+    $text = [System.Text.Encoding]::UTF8.GetString($bytes)
 
     # Extract all four extreme points
     $points = @{}
@@ -56,11 +59,22 @@ Get-ChildItem -Recurse -Filter *.md | ForEach-Object {
         '### #has_map_/topologic'
     ) -join "`r`n"
 
-    # Replace the topologic heading
     $newText = $text -replace '### #has_map_/topologic', $replacement
 
     if ($newText -ne $text) {
-        Set-Content $path $newText -Encoding UTF8
+
+        # Explicit UTF-8 without BOM
+        $encoding = New-Object System.Text.UTF8Encoding($false)
+
+        # Explicit CRLF
+        $newText = $newText -replace "`r?`n", "`r`n"
+
+        [System.IO.File]::WriteAllText(
+            $path,
+            $newText,
+            $encoding
+        )
+
         Write-Host "Updated: $path"
     }
 }
