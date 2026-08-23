@@ -46,6 +46,9 @@ Get-ChildItem -Recurse -Directory | ForEach-Object {
             return
         }
 
+
+        Resolve-Rebase $directory  
+
         git add .
 
         # Double-check conflicts after staging (edge case safety)
@@ -69,6 +72,7 @@ if (Has-Upstream) {
         Write-Host "Skipping root (merge conflicts present)" -ForegroundColor Red
     }
     elseif (Has-Changes) {
+Resolve-Rebase $directory  
         git add .
 
         if (Has-Conflicts) {
@@ -82,7 +86,7 @@ if (Has-Upstream) {
     }
 
 } else {
-    Write-Host "Root repo has no upstream → skipping" -ForegroundColor Yellow
+    Write-Host "Root repo has no upstream ? skipping" -ForegroundColor Yellow
 }
 
 Set-Location $parent_directory

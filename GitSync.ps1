@@ -20,6 +20,9 @@ if ($LASTEXITCODE -ne 0) { exit }
 
 Write-Host "Pushing" -ForegroundColor Green
 
+
+Write-Host "Pushing" -ForegroundColor Green
+
 .\GitPush.ps1
 
 Set-Location -Path $parent_directory

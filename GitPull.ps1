@@ -9,6 +9,8 @@ if (-not $parent_directory) {
 	$parent_directory = Split-Path -Path $MyInvocation.MyCommand.Path -Parent # or $PWD
 }
 
+. .\Resolve-Rebase.ps1 
+
 Set-Location -Path $parent_directory
 Resolve-Rebase $parent_directory   
 Invoke-SafePull $parent_directory
@@ -30,6 +32,5 @@ Get-ChildItem -Path $parent_directory -Recurse -Directory | ForEach-Object {
 			Pop-Location
 		}
 	}
-}
 
 Set-Location -Path $parent_directory
