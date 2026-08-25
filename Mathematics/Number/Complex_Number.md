@@ -334,18 +334,22 @@ dv_has_:
     zh_tw: 複數
 ---
 
-# [[Complex_Number]]  
+# [[Complex_Number]] 
+
+#is_/same_as :: [[../../WikiData/WD~Complex_number,11567|WD~Complex_number,11567]] 
 
 ## #has_/text_of_/abstract 
 
-> In mathematics, a **Complex number** is an element of a number system that extends the real numbers with a specific element denoted i, called the imaginary unit and satisfying the equation 
->     {\displaystyle i^{2}=-1}
-> ; every complex number can be expressed in the form 
->     {\displaystyle a+bi}
-> , where a and b are real numbers. Because no real number satisfies the above equation, i was called an imaginary number by René Descartes. For the complex number 
->     {\displaystyle a+bi}
-> , a is called the real part, and b is called the imaginary part. The set of complex numbers is denoted by either of the symbols 
->     {\displaystyle \mathbb {C} }
+> In mathematics, a complex number is an element of a number system 
+> that extends the real numbers with a specific element denoted i, 
+> called the imaginary unit and satisfying the equation i²=-1
+> Every complex number can be expressed in the form a + b i 
+> , where a and b are real numbers. 
+> 
+> Because no real number satisfies the above equation, 
+> i was called an imaginary number by René Descartes. 
+> a is called the real part, and b is called the imaginary part. 
+> The set of complex numbers is denoted by either of the symbols 
 >  or C. Despite the historical nomenclature, "imaginary" complex numbers have a mathematical existence as firm as that of the real numbers, and they are fundamental tools in the scientific description of the natural world.
 >
 > Complex numbers allow solutions to all polynomial equations, even those that have no solutions in real numbers. More precisely, the fundamental theorem of algebra asserts that every non-constant polynomial equation with real or complex coefficients has a solution which is a complex number. For example, the equation
