@@ -46,7 +46,7 @@ dv_has_:
 
 #is_/similar_to :: [[IMDb(Internet_Movie_Database)]] 
 
-Used for the [[Obsidian Plugin]] [[../../../../../../Knowledge/PKM(Personal_Knowledge_Management)/Obsidian-SW/Obsidian~PlugIn/Obsidian~Media_DB|Obsidian~Media_DB]] 
+Used for the [[Obsidian Plugin]] [[../../../../../../_internal/Philosophy/Epistemology/Knowledge/PKM(Personal_Knowledge_Management)/Obsidian(SW).internal/Obsidian~PlugIn/Obsidian~Media_DB|Obsidian~Media_DB]] 
 
 
 ## Confidential Links & Embeds: 
