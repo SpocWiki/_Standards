@@ -283,6 +283,7 @@ dv_has_:
     zh-my: 眼镜
     zh-tw: 眼鏡
 Unicode_character: 👓
+title: 👓 Glasses
 ---
 
 # [[Glasses]] 👓 

@@ -302,6 +302,7 @@ dv_has_:
     zh-my: 食水
     zh_sg: 食水
 Unicode_character: 🚰
+title: 🚰 Drinking_Water
 ---
 
 # [[Drinking_Water]] 🚰 

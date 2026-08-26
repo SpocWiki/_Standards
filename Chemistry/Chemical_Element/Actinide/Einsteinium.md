@@ -350,6 +350,7 @@ dv_has_number_of_period: 7
 dv_has_number_of_group: 33
 dv_has_number_of_electrons: 99
 Unicode_character: 鑀
+title: 鑀 Einsteinium
 ---
 
 # [[Einsteinium]] 鑀 

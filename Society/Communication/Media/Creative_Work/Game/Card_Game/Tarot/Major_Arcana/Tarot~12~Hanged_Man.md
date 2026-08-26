@@ -7,6 +7,7 @@ part_of: "[[/_Standards/WikiData/WD~Major_Arcana,11158357|WD~Major_Arcana,111583
 instance_of: "[[/_Standards/WikiData/WD~playing_card,47883|WD~playing_card,47883]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pendu%20tarot%20charles6.jpg
 Commons_category: Hanged Man (Major Arcana)
+title: 🃬 Tarot~12~Hanged_Man
 ---
 
 # [[Tarot~12~Hanged_Man]] 🃬 

@@ -211,6 +211,7 @@ dv_has_:
     zh_tw: 河貍屬
     zu: Ibhiva
 Unicode_character: 🦫
+title: 🦫 Beaver
 ---
 
 # [[Beaver]] 🦫 

@@ -482,6 +482,7 @@ dv_has_:
     zh_hk: 佛教
     zh_tw: 佛教
     zu: UbuBudha
+title: ☸︎ Buddhism
 ---
 
 # [[Buddhism]] ☸︎ 

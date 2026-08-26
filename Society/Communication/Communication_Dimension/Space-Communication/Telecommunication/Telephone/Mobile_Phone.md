@@ -417,6 +417,7 @@ dv_has_:
     zh_tw: 行動電話
     zu: umakhalekhukhwini
 Unicode_character: 📱
+title: 📱 Mobile_Phone
 ---
 
 # [[Mobile_Phone]] 📱 

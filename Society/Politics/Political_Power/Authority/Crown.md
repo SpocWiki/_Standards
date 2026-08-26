@@ -207,6 +207,7 @@ dv_has_:
     zh_sg: 冠冕
     zh_tw: 冠冕
 Unicode_character: 👑
+title: 👑 Crown
 ---
 
 # [[Crown]] 👑 

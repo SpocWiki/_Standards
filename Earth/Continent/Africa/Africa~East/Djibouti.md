@@ -753,7 +753,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
 - Country
 publish: true
-title: Djibouti
+title: 🇩🇯 Djibouti
 linkTitle: ''
 keywords: ''
 layout: ''

@@ -307,6 +307,7 @@ dv_has_:
     za: dou
     zh: 門
 Unicode_character: 🚪
+title: 🚪 Door
 ---
 
 # [[Door]] 🚪 

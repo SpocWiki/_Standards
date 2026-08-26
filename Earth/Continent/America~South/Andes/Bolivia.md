@@ -143,7 +143,7 @@ isReadOnly: false
 source: https://datahub.io/core/country-codes
 cssclasses: Country
 publish: true
-title: Bolivia
+title: 🇧🇴 Bolivia
 linkTitle: ""
 keywords: ""
 layout: ""

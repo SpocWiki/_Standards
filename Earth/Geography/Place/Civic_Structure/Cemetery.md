@@ -155,7 +155,7 @@ publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
-title: is_a_cemetery Class
+title: ⛼ is_a_cemetery Class
 type: Type
 P8189: 987007284977505200
 UMLS_CUI: C0007662

@@ -995,7 +995,7 @@ subreddit: Thailand
 suicide_rate: 8
 tags:
 - geo/Country
-title: Thailand
+title: 🇹🇭 Thailand
 topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Thailand,14644364|WD~Portal_Thailand,14644364]]'
 top_level_Internet_domain: '[[/_Standards/WikiData/WD~.th,43133|WD~.th,43133]]'
 total_fertility_rate: 1.54

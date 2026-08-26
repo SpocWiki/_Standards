@@ -345,6 +345,7 @@ dv_has_:
     zh_hant: 新教
     zh_hk: 新教
     zh_tw: 新教
+title: ✝ Protestantism
 ---
 
 # [[Protestantism]] ✝ 

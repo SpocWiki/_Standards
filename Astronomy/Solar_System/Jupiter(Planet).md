@@ -610,6 +610,7 @@ dv_has_:
     zh_sg: 木星
     zh_tw: 木星
     zu: UJupitheri
+title: ♃ Jupiter(Planet)
 ---
 
 # [[Jupiter(Planet)]] ♃ 

@@ -353,6 +353,7 @@ dv_has_number_of_period: 7
 dv_has_number_of_group: 37
 dv_has_number_of_electrons: 103
 Unicode_character: 鐒
+title: 鐒 Lawrencium
 ---
 
 # [[Lawrencium]] 鐒 

@@ -1580,7 +1580,7 @@ suicide_rate: 6.7
 tags:
   - geo/Country
 territory_claimed_by: "[[/_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]"
-title: China
+title: 🇨🇳 China
 topic_s_main_template:
   - "[[/_Standards/WikiData/WD~Template_China_topics,8005471|WD~Template_China_topics,8005471]]"
   - "[[/_Standards/WikiData/WD~Q10801119,10801119|WD~Q10801119,10801119]]"

@@ -1017,6 +1017,7 @@ territory_claimed_by: "[[/_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,
 country: "[[/_Standards/WikiData/WD~South_Korea,884|WD~South_Korea,884]]"
 icon: flag-kr
 Unicode_character: 🇰🇷
+title: 🇰🇷 Korea~South
 ---
 
 # [[Korea~South]] 🇰🇷 

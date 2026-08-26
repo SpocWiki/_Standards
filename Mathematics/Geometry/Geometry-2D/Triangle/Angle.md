@@ -322,6 +322,7 @@ dv_has_:
     yue: 角
     zh: 角
     zu: ingoni
+title: ∠ Angle
 ---
 
 # [[Angle]] ∠ 

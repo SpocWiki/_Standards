@@ -180,6 +180,7 @@ dv_has_:
     zh-sg: 高速铁路
     zh-tw: 高速鐵路
 Unicode_character: 🚄
+title: 🚄 High-Speed_Rail
 ---
 
 # [[High-Speed_Rail]] 🚄 

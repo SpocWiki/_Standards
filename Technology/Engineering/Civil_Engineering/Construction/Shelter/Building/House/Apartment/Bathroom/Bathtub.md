@@ -181,6 +181,7 @@ dv_has_:
     zh_hk: 浴缸
     zh_sg: 浴缸
     zh_tw: 浴缸
+title: 🛁 Bathtub
 ---
 
 # [[Bathtub]] 🛁 

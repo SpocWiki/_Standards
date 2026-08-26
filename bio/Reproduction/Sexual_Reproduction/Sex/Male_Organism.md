@@ -310,6 +310,7 @@ dv_has_:
     zh_sg: 雄性
     zh_tw: 雄性
 Unicode_character: ♂
+title: ♂ Male_Organism
 ---
 
 # [[Male_Organism]] ♂ 

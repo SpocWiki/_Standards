@@ -395,6 +395,7 @@ dv_has_:
     zh_hans: 豌豆
     zh_tw: 豌豆
 Unicode_character: 🫛
+title: 🫛 Pea
 ---
 
 # [[Pea]] 🫛 

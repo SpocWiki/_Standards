@@ -105,7 +105,7 @@ publishDate: ''
 tags:
 - class/Class
 - schema-org/Class
-title: is_a_movie_theater Class
+title: 🎦 is_a_movie_theater Class
 type: Type
 different_from: '[[/_Standards/WikiData/WD~Kino,650555|WD~Kino,650555]]'
 has_use: '[[/_Standards/WikiData/WD~film_screening,2295790|WD~film_screening,2295790]]'

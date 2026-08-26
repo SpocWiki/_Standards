@@ -232,6 +232,7 @@ dv_has_:
     zh_hk: 舉重
     zh_tw: 舉重
 Unicode_character: 🏋
+title: 🏋 Weightlifting
 ---
 
 # [[Weightlifting]] 🏋  

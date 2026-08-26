@@ -255,6 +255,7 @@ dv_has_:
     zh_hk: 鏌
     zh_tw: 鏌
     zu: UMcombi
+title: 鏌 Moscovium
 ---
 
 # [[Moscovium]] 鏌 

@@ -536,7 +536,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
 - Country
 publish: true
-title: Morocco
+title: 🇲🇦 Morocco
 linkTitle: ''
 keywords: ''
 layout: ''

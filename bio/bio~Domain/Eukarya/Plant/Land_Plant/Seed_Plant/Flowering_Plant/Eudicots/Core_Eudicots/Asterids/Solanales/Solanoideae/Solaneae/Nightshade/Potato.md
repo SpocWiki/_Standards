@@ -642,6 +642,7 @@ dv_has_:
     zh_tw: 馬鈴薯
     zu: Izambane
 Unicode_character: 🥔
+title: 🥔 Potato
 ---
 
 # [[Potato]] 🥔 

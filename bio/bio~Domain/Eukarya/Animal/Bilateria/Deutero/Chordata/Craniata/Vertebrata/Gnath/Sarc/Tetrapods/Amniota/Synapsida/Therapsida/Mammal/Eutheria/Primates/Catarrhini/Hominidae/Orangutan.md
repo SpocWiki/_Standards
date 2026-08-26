@@ -77,7 +77,7 @@ aliases:
 - 紅毛猩猩
 - 오랑우탄
 has_id_wikidata: Q41050
-title: Pongo
+title: 🦧 Pongo
 different_from: '[[/_Standards/WikiData/WD~Pongo,403861|WD~Pongo,403861]]'
 has_part_s_: '[[/_Standards/WikiData/WD~Sumatran_orangutan,543424|WD~Sumatran_orangutan,543424]]'
 described_by_source:

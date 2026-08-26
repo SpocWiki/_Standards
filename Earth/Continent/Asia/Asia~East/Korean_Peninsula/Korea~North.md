@@ -1083,6 +1083,7 @@ Krugosvet_article_archived_: strany-mira/koreiskaya-narodno-demokraticheskaya-re
 UNDP_country_code: DRK
 telephone_country_code: 850
 Unicode_character: 🇰🇵
+title: 🇰🇵 Korea~North
 ---
 
 # [[Korea~North]] 🇰🇵 

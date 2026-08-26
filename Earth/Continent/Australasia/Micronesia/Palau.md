@@ -403,7 +403,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
 - Country
 publish: true
-title: Palau
+title: 🇵🇼 Palau
 linkTitle: ''
 keywords: ''
 layout: ''

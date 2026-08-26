@@ -521,6 +521,7 @@ dv_has_:
     zh-sg: 自行车
     zh-tw: 腳踏車
 Unicode_character: 🚲
+title: 🚲 Bicycle
 ---
 
 # [[Bicycle]] 🚲 

@@ -207,7 +207,7 @@ taxon_common_name:
 - 节肢动物门
 taxon_name: Arthropoda
 taxon_rank: '[[/_Standards/WikiData/WD~phylum,38348|WD~phylum,38348]]'
-title: Arthropoda
+title: \U0001F41B Arthropoda
 topic_s_main_template: '[[/_Standards/WikiData/WD~Template_Arthropods,6687029|WD~Template_Arthropods,6687029]]'
 topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Arthropods,13365765|WD~Portal_Arthropods,13365765]]'
 UMLS_CUI: C0003903

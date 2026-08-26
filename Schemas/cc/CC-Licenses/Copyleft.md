@@ -103,6 +103,7 @@ aliases:
 - コピーレフト
 - 카피레프트
 Unicode_character: 🄯
+title: 🄯 Copyleft
 ---
 
 # [[Copyleft]] 🄯 

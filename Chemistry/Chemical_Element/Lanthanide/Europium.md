@@ -352,6 +352,7 @@ dv_is_same_as:
 - '[[/_secret/Chemistry/Chemical_Element/Lanthanide/Europium.secret|Europium.secret]]'
 dv_has_name_abbreviated: Eu
 dv_has_number_of_electrons: 63
+title: 銪 Europium
 ---
 
 # [[Europium]] 銪 

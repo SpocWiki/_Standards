@@ -981,7 +981,7 @@ subreddit:
 suicide_rate: 4.7
 tags:
   - geo/Country
-title: Afghanistan
+title: 🇦🇫 Afghanistan
 topic_s_main_template: "[[/_Standards/WikiData/WD~Template_Provinces_of_Afghanistan,6398011|WD~Template_Provinces_of_Afghanistan,6398011]]"
 topic_s_main_Wikimedia_portal: "[[/_Standards/WikiData/WD~Portal_Afghanistan,10863089|WD~Portal_Afghanistan,10863089]]"
 top_level_Internet_domain: "[[/_Standards/WikiData/WD~.af,37407|WD~.af,37407]]"

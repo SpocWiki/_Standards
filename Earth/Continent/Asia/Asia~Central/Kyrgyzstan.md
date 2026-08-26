@@ -852,7 +852,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
 - Country
 publish: true
-title: Kyrgyzstan
+title: 🇰🇬 Kyrgyzstan
 linkTitle: ''
 keywords: ''
 layout: ''

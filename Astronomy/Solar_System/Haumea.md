@@ -248,6 +248,7 @@ dv_has_:
     zh_hans: 妊神星
     zh_hant: 妊神星
     zu: UNohunga
+title: \U0001F77B Haumea
 ---
 
 # [[Haumea]] 🝻 

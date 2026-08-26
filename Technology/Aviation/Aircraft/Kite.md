@@ -274,6 +274,7 @@ dv_has_:
     zea: Vliegere
     zh: 风筝
 Unicode_character: 🪁
+title: 🪁 Kite
 ---
 
 # [[Kite]] 🪁 

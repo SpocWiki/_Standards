@@ -361,6 +361,7 @@ dv_has_number_of_period: 4
 dv_has_number_of_group: 17
 dv_has_name_abbreviated: Br
 dv_has_number_of_electrons: 35
+title: 溴 Bromine
 ---
 
 # [[Bromine]] 溴 

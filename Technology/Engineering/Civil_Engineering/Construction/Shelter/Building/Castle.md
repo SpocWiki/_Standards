@@ -307,6 +307,7 @@ dv_has_:
     zh-my: 城堡
     zh_sg: 城堡
     zh_tw: 城堡
+title: 🏰 Castle
 ---
 
 # [[Castle]] 🏰 

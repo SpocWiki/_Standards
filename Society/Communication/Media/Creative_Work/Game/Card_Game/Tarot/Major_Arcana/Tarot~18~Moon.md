@@ -7,6 +7,7 @@ part_of: "[[/_Standards/WikiData/WD~Major_Arcana,11158357|WD~Major_Arcana,111583
 instance_of: "[[/_Standards/WikiData/WD~playing_card,47883|WD~playing_card,47883]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Dodal%20Tarot%20trump%2018.jpg
 Commons_category: Moon (Major Arcana)
+title: 🃲 Tarot~18~Moon
 ---
 
 # [[Tarot~18~Moon]] 🃲 

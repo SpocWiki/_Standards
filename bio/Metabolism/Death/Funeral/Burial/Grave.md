@@ -232,6 +232,7 @@ aliases:
 - 墳墓
 - 묘소
 Unicode_character: 🪦
+title: 🪦 Grave
 ---
 
 # [[Grave]] 🪦 

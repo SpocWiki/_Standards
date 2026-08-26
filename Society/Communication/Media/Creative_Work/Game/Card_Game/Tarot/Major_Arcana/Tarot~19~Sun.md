@@ -8,6 +8,7 @@ different_from: "[[/_Standards/WikiData/WD~La_suno_brilas,132254794|WD~La_suno_b
 instance_of: "[[/_Standards/WikiData/WD~playing_card,47883|WD~playing_card,47883]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/T19%20Tarot.png
 Commons_category: Sun (Major Arcana)
+title: 🃳 Tarot~19~Sun
 ---
 
 # [[Tarot~19~Sun]] 🃳 

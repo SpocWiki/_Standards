@@ -484,6 +484,7 @@ dv_has_:
     zh_hans: 火
     zh_hant: 火
 Unicode_character: 🔥
+title: 🔥 Fire
 ---
 
 # [[Fire]] 🔥 

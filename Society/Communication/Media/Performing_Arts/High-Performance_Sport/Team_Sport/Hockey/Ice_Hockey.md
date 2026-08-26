@@ -273,6 +273,7 @@ dv_has_:
     zh_hant: 冰球
     zh_tw: 冰球
 Unicode_character: 🏒
+title: 🏒 Ice_Hockey
 ---
 
 # [[Ice_Hockey]] 🏒 

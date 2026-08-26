@@ -116,7 +116,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
 - Country
 publish: true
-title: Honduras
+title: 🇭🇳 Honduras
 linkTitle: ''
 keywords: ''
 layout: ''

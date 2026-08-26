@@ -464,6 +464,7 @@ dv_has_:
     zh_hk: 卵
     zu: iqanda
 Unicode_character: 🥚
+title: 🥚 Egg
 ---
 
 # [[Egg]] 🥚 

@@ -390,6 +390,7 @@ dv_is_same_as:
 dv_has_name_abbreviated: Pt
 dv_has_number_of_electrons: 78
 Unicode_character: 鉑
+title: 鉑 Platinum
 ---
 
 # [[Platinum]] 鉑 

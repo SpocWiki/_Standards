@@ -368,6 +368,7 @@ dv_has_:
     zh_tw: 陰莖
     zu: Umthondo
 Unicode_character: 𓂸
+title: 𓂸 Penis
 ---
 
 # [[Penis]] 𓂸 

@@ -349,6 +349,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Actinide/Curium.personal|Curium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Actinide/Curium.secret|Curium.secret]]'
 Unicode_character: 鋦
+title: 鋦 Curium
 ---
 
 # [[Curium]] 鋦 

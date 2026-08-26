@@ -574,6 +574,7 @@ dv_has_:
     zh_sg: 火星
     zh_tw: 火星
     zu: UMarzi
+title: ♂ Mars(Planet)
 ---
 
 # [[Mars(Planet)]] ♂ 

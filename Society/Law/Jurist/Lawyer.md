@@ -423,6 +423,7 @@ dv_has_:
     zh_sg: 律师
     zh_tw: 律師
     zu: ummeli
+title: ⚖️ Lawyer
 ---
 
 # [[Lawyer]] ⚖️ 

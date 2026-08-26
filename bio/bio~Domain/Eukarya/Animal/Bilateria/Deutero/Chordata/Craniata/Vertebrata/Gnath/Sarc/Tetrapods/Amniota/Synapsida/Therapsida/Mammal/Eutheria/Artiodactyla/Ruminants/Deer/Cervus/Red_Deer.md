@@ -282,6 +282,7 @@ dv_has_:
     zh_hans: 马鹿
     zh_tw: 馬鹿
 Unicode_character: 🦌
+title: 🦌 Red_Deer
 ---
 
 # [[Red_Deer]] 🦌 

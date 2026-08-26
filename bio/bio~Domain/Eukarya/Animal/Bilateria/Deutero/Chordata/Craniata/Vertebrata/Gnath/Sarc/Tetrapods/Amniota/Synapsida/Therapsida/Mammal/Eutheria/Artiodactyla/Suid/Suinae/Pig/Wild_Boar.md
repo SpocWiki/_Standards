@@ -154,7 +154,7 @@ aliases:
 - 野豬
 - 멧돼지
 has_id_wikidata: Q58697
-title: Sus scrofa
+title: 🐗 Sus scrofa
 IUCN_conservation_status: '[[/_Standards/WikiData/WD~Least_Concern,211005|WD~Least_Concern,211005]]'
 described_by_source:
 - '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'

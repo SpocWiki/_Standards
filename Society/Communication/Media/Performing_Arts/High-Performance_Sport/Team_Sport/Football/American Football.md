@@ -262,6 +262,7 @@ dv_has_:
     zh_hk: 美式足球
     zh_tw: 美式足球
 Unicode_character: 🏈
+title: 🏈 American Football
 ---
 
 # [[American Football]] 🏈 

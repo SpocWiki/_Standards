@@ -231,6 +231,7 @@ dv_has_:
     zh_cn: 单峰骆驼
     zh_hans: 单峰骆驼
 Unicode_character: 🐪
+title: 🐪 Dromedary
 ---
 
 # [[Dromedary]] 🐪 

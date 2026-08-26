@@ -403,6 +403,7 @@ dv_has_number_of_group: 2
 dv_has_name_abbreviated: Sr
 dv_has_number_of_electrons: 38
 Unicode_character: 鍶
+title: 鍶 Strontium
 ---
 
 # [[Strontium]] 鍶 

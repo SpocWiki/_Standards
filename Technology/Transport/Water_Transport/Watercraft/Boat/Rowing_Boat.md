@@ -93,6 +93,7 @@ dv_has_:
     yue: 撑艇
     zh: 手划船
 Unicode_character: 🚣
+title: 🚣 Rowing_Boat
 ---
 
 # [[Rowing_Boat]] 🚣 

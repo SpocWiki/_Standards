@@ -201,6 +201,7 @@ dv_has_:
     yue: 六邊形
     zh: 六边形
     zh_hant: 六邊形
+title: ⬡ Hexagon
 ---
 
 # [[Hexagon]] ⬡ 

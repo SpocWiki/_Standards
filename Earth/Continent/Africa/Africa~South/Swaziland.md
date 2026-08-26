@@ -675,6 +675,7 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/Africa/Africa~South/Swaziland.personal|Swaziland.personal]]'
 - '[[/_secret/Earth/Continent/Africa/Africa~South/Swaziland.secret|Swaziland.secret]]'
 Unicode_character: 🇸🇿
+title: 🇸🇿 Swaziland
 ---
 
 # [[Swaziland]] 🇸🇿 

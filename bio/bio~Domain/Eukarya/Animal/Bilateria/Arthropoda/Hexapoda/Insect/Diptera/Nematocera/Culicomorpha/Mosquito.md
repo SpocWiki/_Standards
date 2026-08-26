@@ -164,7 +164,7 @@ aliases:
   - ꯀꯥꯡ
   - 모기
 has_id_wikidata: Q7367
-title: Culicidae
+title: 🦟 Culicidae
 described by source:
   - "[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"

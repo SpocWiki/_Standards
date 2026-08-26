@@ -94,7 +94,7 @@ publishDate: ''
 tags:
 - class/Class
 - schema-org/Class
-title: is_a_stadium_or_arena Class
+title: 🏟 is_a_stadium_or_arena Class
 type: Type
 described_by_source:
 - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'

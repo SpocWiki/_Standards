@@ -211,6 +211,7 @@ dv_has_:
     yi: פארענהייט
     yue: 華氏
     zh: 华氏温标
+title: ℉ Degree_Fahrenheit
 ---
 
 # [[Degree_Fahrenheit]] ℉ 

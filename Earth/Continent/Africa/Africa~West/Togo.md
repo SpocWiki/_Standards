@@ -752,7 +752,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
 - Country
 publish: true
-title: Togo
+title: 🇹🇬 Togo
 linkTitle: ''
 keywords: ''
 layout: ''

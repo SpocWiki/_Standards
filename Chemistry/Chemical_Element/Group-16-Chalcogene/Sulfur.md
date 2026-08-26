@@ -534,6 +534,7 @@ dv_has_number_of_period: 3
 dv_has_number_of_group: 16
 dv_has_name_abbreviated: S
 dv_has_number_of_electrons: 16
+title: 硫 Sulfur
 ---
 
 # [[Sulfur]] 硫 

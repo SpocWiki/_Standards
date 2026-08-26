@@ -1015,7 +1015,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
 - Country
 publish: true
-title: Saudi Arabia
+title: 🇸🇦 Saudi Arabia
 linkTitle: ''
 keywords: ''
 layout: ''

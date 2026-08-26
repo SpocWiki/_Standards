@@ -229,6 +229,7 @@ dv_has_:
     zh-sg: 奖章
     zh-tw: 獎章
 Unicode_character: 🏅
+title: 🏅 Medallion
 ---
 
 # [[Medallion]] 🏅 

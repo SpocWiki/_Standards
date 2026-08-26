@@ -163,7 +163,7 @@ source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26966
 tags:
 - geo/Country
-title: Northern Mariana Islands
+title: 🇲🇵 Northern Mariana Islands
 type: Country
 dv_ISO4217-currency_alphabetic: USD
 dv_ISO4217-currency_name: US Dollar

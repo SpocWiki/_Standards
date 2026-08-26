@@ -97,6 +97,7 @@ dv_has_:
     zh_hans: 青龙
     zh_hant: 青龍
 Unicode_character: 🐉
+title: 🐉 Azure_Dragon
 ---
 
 # [[Azure_Dragon]] 🐉 

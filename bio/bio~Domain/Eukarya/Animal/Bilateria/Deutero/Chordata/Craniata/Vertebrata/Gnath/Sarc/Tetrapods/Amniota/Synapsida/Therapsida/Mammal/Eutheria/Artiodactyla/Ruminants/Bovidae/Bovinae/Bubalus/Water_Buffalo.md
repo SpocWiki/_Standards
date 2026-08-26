@@ -358,6 +358,7 @@ dv_has_:
     zh_tw: 水牛
     zu: Bubalus bubalis
 Unicode_character: 🐃
+title: 🐃 Water_Buffalo
 ---
 
 # [[Water_Buffalo]] 🐃 

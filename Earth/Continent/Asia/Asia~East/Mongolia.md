@@ -845,7 +845,7 @@ SpocWebEntityId: 26964
 subreddit: mongolia
 tags:
 - geo/Country
-title: Mongolia
+title: 🇲🇳 Mongolia
 topic_s_main_template: '[[/_Standards/WikiData/WD~Template_First-level_divisions_of_Mongolia,5612146|WD~Template_First-level_divisions_of_Mongolia,5612146]]'
 topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Mongolia,11232884|WD~Portal_Mongolia,11232884]]'
 top_level_Internet_domain: '[[/_Standards/WikiData/WD~.mn,42873|WD~.mn,42873]]'

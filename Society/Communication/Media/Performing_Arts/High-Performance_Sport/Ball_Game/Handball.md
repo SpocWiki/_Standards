@@ -275,6 +275,7 @@ dv_has_:
     zh_hk: 手球
     zh_tw: 手球
 Unicode_character: 🤾
+title: 🤾 Handball
 ---
 
 # [[Handball]] 🤾 

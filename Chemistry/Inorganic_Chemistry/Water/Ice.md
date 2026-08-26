@@ -396,6 +396,7 @@ dv_has_:
     zh_tw: 冰
     zu: Iqhwa
 Unicode_character: 🧊
+title: 🧊 Ice
 ---
 
 # [[Ice]] 🧊 

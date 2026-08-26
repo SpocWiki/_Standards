@@ -349,6 +349,7 @@ dv_has_:
     zh_hans: 鲨总目
     zh_hant: 鯊魚
     zh_hk: 鯊魚
+title: \U0001F988 Shark
 ---
 
 # [[Shark]] 🦈 

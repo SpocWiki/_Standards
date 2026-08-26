@@ -827,7 +827,7 @@ tags:
 - geo/Country
 - Lebanon
 - excalidraw
-title: Lebanon
+title: 🇱🇧 Lebanon
 topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Lebanon,14614974|WD~Portal_Lebanon,14614974]]'
 top_level_Internet_domain: '[[/_Standards/WikiData/WD~.lb,41835|WD~.lb,41835]]'
 total_fertility_rate: 1.714

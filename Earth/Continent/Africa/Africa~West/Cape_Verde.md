@@ -461,7 +461,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
   - Country
 publish: true
-title: Cape Verde
+title: 🇨🇻 Cape Verde
 linkTitle: ""
 keywords: ""
 layout: ""

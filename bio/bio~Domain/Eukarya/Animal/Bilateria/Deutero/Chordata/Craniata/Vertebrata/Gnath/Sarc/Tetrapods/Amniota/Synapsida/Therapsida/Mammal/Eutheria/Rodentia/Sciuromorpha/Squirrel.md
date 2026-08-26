@@ -138,7 +138,7 @@ aliases:
 - 다람쥐과
 - "\U00010330\U00010339\U00010335\U00010330\U00010339\U00010342\U0001033D\U00010330"
 has_id_wikidata: Q9482
-title: Sciuridae
+title: 🐿 Sciuridae
 described_by_source:
 - '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'

@@ -136,6 +136,7 @@ dv_has_:
     wuu: 分贝
     yue: 分貝
     zh: 分貝
+title: ㏈ Decibel
 ---
 
 # [[Decibel]] ㏈ 

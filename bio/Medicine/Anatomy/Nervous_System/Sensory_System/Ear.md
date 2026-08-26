@@ -479,6 +479,7 @@ dv_has_:
     zh_hk: 耳
     zh_tw: 耳
 Unicode_character: 👂
+title: 👂 Ear
 ---
 # Ear 👂 
 

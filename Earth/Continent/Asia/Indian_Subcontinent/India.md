@@ -1848,7 +1848,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
 - Country
 publish: true
-title: India
+title: 🇮🇳 India
 linkTitle: ''
 keywords: ''
 layout: ''

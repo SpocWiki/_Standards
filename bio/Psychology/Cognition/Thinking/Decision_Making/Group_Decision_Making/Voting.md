@@ -234,6 +234,7 @@ dv_has_:
     zh_tw: 投票
     zu: Ukuvota
 Unicode_character: 🗳
+title: 🗳 Voting
 ---
 
 # [[Voting]] 🗳 

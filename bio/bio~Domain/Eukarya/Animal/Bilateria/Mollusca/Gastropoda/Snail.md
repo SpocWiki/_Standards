@@ -273,6 +273,7 @@ dv_has_:
     zh_sg: 蜗牛
     zh_tw: 蝸牛
 Unicode_character: 🐌
+title: 🐌 Snail
 ---
 
 # [[Snail]] 🐌 

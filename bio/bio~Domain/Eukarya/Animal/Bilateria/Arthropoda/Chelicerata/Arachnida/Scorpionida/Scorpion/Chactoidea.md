@@ -131,7 +131,7 @@ aliases:
 - 蠍子
 - 蠍目
 - 전갈
-title: Chactoidea
+title: 🦂 Chactoidea
 has_id_wikidata: Q19125
 dv_has_:
   name_:

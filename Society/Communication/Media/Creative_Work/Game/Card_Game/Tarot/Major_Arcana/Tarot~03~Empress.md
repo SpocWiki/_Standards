@@ -10,6 +10,7 @@ depicts:
 instance_of: "[[/_Standards/WikiData/WD~playing_card,47883|WD~playing_card,47883]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Empress%20cary%20yale.jpg
 Commons_category: Empress (Major Arcana)
+title: 🃣 Tarot~03~Empress
 ---
 
 

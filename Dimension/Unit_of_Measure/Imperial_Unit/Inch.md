@@ -265,6 +265,7 @@ dv_has_:
     zh-my: 吋
     zh_sg: 吋
     zh_tw: 英吋
+title: ㏌ Inch
 ---
 
 # [[Inch]] ㏌ 

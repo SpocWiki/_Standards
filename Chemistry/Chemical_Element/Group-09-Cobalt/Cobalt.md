@@ -400,6 +400,7 @@ dv_has_number_of_group: 9
 dv_has_name_abbreviated: Co
 dv_has_number_of_electrons: 27
 Unicode_character: 鈷
+title: 鈷 Cobalt
 ---
 
 # [[Cobalt]] 鈷 

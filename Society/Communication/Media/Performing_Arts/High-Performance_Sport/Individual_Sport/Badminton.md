@@ -266,6 +266,7 @@ dv_has_:
     zh-my: 羽毛球
     zh_sg: 羽毛球
     zh_tw: 羽球
+title: 🏸 Badminton
 ---
 
 # [[Badminton]] 🏸 

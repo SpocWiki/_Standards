@@ -167,7 +167,7 @@ taxon_common_name:
 taxon_name: Scorpiones
 taxon_rank: '[[/_Standards/WikiData/WD~order,36602|WD~order,36602]]'
 this_taxon_is_source_of: '[[/_Standards/WikiData/WD~scorpion_as_food,124746868|WD~scorpion_as_food,124746868]]'
-title: Scorpiones
+title: \U0001F982 Scorpiones
 UMLS_CUI: C0036451
 Unicode_character: "\U0001F982"
 WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/scorpion

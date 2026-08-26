@@ -323,6 +323,7 @@ aliases:
 - 鞋子
 - 신발
 Unicode_character: 👞
+title: 👞 Shoe
 ---
 
 # [[Shoe]] 👞 

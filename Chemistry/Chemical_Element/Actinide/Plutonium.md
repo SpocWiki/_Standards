@@ -370,6 +370,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Actinide/Plutonium.personal|Plutonium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Actinide/Plutonium.secret|Plutonium.secret]]'
 Unicode_character: 鈽
+title: 鈽 Plutonium
 ---
 
 # [[Plutonium]] 鈽 

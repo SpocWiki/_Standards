@@ -436,7 +436,7 @@ SpocWebEntityId: 27021
 subreddit: Senegal
 tags:
 - geo/Country
-title: Senegal
+title: 🇸🇳 Senegal
 topic_s_main_template: '[[/_Standards/WikiData/WD~Template_Regions_of_Senegal,10726672|WD~Template_Regions_of_Senegal,10726672]]'
 topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Senegal,14616261|WD~Portal_Senegal,14616261]]'
 top_level_Internet_domain: '[[/_Standards/WikiData/WD~.sn,60117|WD~.sn,60117]]'

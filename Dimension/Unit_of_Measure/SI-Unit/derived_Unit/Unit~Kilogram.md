@@ -339,6 +339,7 @@ dv_has_:
     zh-my: 千克
     zh_sg: 千克
     zh_tw: 公斤
+title: ㎏ Unit~Kilogram
 ---
 
 # [[Unit~Kilogram]] ㎏ 

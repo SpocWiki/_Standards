@@ -12,6 +12,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/U%2B2665.svg
 TeX_string: \heartsuit
 Commons_category: Hearts (playing cards)
 Unicode_character: ♥
+title: ♥ Suit~Hearts
 ---
 
 # [[Suit~Hearts]] <span style=color:red>♥</span> 

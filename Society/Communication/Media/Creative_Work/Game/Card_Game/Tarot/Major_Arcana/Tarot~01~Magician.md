@@ -13,6 +13,7 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Magician%20visconti.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/RWS%20Tarot%2001%20Magician.jpg
 Commons_category: Magician (Major Arcana)
+title: 🃡 Tarot~01~Magician
 ---
 
 # [[Tarot~01~Magician]] 🃡 

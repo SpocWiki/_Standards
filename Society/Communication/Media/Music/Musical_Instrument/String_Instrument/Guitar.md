@@ -379,6 +379,7 @@ dv_has_:
     zh_tw: 吉他
     zu: Isigingci
 Unicode_character: 🎸
+title: 🎸 Guitar
 ---
 
 # [[Guitar]] 🎸 

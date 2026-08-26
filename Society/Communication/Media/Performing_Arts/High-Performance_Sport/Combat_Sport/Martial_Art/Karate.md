@@ -222,6 +222,7 @@ dv_has_:
     zh_hant: 空手道
     zh_tw: 空手道
 Unicode_character: 🥋
+title: 🥋 Karate
 ---
 
 # [[Karate]]  🥋

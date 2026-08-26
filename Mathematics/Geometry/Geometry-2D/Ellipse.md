@@ -209,6 +209,7 @@ dv_has_:
     zh: 椭圆
     zh_hant: 橢圓
     zh_hk: 橢圓
+title: ⬭ Ellipse
 ---
 
 # [[Ellipse]] ⬭ 

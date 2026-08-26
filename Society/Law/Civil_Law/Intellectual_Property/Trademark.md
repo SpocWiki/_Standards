@@ -230,6 +230,7 @@ dv_has_:
     zh_hk: 商標
     zh_sg: 商标
     zh_tw: 商標
+title: ™ Trademark
 ---
 
 # [[Trademark]] ™ 

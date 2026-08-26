@@ -17,6 +17,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/SuitClubs.svg
 TeX_string: \clubsuit
 Commons_category: Clubs (playing cards)
 Unicode_character: ♣
+title: ♣ Suit~Clubs
 ---
 
 # [[Suit~Clubs]] ♣ 

@@ -323,6 +323,7 @@ dv_has_:
     zh_tw: 虎鯨
     zu: I-Orca
 Unicode_character: 🫍
+title: 🫍 Orca
 ---
 
 # [[Orca]] 🫍 

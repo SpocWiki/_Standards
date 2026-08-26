@@ -518,7 +518,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
 - Country
 publish: true
-title: Singapore
+title: 🇸🇬 Singapore
 linkTitle: ''
 keywords: ''
 layout: ''

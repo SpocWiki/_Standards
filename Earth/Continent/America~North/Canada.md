@@ -602,7 +602,7 @@ suicide_rate: 12.5
 tags:
   - geo/Country
 tartan: "[[/_Standards/WikiData/WD~maple_leaf_tartan,127271557|WD~maple_leaf_tartan,127271557]]"
-title: Canada
+title: 🇨🇦 Canada
 topic_s_main_template: "[[/_Standards/WikiData/WD~Template_Canada_topics,10592980|WD~Template_Canada_topics,10592980]]"
 topic_s_main_Wikimedia_portal: "[[/_Standards/WikiData/WD~Portal_Canada,8133009|WD~Portal_Canada,8133009]]"
 top_level_Internet_domain:

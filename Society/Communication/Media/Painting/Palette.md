@@ -100,6 +100,7 @@ dv_has_:
     zh_hans: 調色板
     zh_hant: 調色盤
 Unicode_character: 🎨
+title: 🎨 Palette
 ---
 
 # [[Palette]] 🎨  

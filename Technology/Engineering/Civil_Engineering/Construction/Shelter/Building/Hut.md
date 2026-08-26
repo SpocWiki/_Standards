@@ -138,6 +138,7 @@ aliases:
 - 屋仔
 - 오두막
 Unicode_character: 🛖
+title: 🛖 Hut
 ---
 
 # [[Hut]] 🛖 

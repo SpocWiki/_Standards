@@ -386,6 +386,7 @@ dv_is_same_as:
 dv_has_name_abbreviated: Pd
 dv_has_number_of_electrons: 46
 Unicode_character: 鈀
+title: 鈀 Palladium
 ---
 
 # [[Palladium]] 鈀 

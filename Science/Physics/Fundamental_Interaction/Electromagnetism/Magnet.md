@@ -246,6 +246,7 @@ aliases:
 - 磁铁
 - 자석
 Unicode_character: 🧲
+title: 🧲 Magnet
 ---
 
 # [[Magnet]] 🧲 

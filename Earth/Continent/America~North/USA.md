@@ -999,7 +999,7 @@ subreddit: usa
 suicide_rate: 14.5
 tags:
 - geo/Country
-title: United States of America
+title: 🇺🇸 United States of America
 topic_s_main_template:
 - '[[/_Standards/WikiData/WD~Template_United_States_topics,8171085|WD~Template_United_States_topics,8171085]]'
 - '[[/_Standards/WikiData/WD~Model__United_States,63992256|WD~Model__United_States,63992256]]'

@@ -495,6 +495,7 @@ dv_is_same_as:
 - '[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Tin.secret|Tin.secret]]'
 dv_has_name_abbreviated: Sn
 dv_has_number_of_electrons: 50
+title: 錫 Tin
 ---
 
 # [[Tin]] 錫 

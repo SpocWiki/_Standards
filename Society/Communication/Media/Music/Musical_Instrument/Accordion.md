@@ -239,6 +239,7 @@ dv_has_:
     zh_hans: 手风琴
     zh_hant: 手風琴
 Unicode_character: 🪗
+title: 🪗 Accordion
 ---
 
 # [[Accordion]] 🪗 

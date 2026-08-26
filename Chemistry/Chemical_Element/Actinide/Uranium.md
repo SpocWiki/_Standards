@@ -424,6 +424,7 @@ dv_has_number_of_period: 7
 dv_has_number_of_group: 26
 dv_has_number_of_electrons: 92
 Unicode_character: 鈾
+title: 鈾 Uranium
 ---
 
 # [[Uranium]] 鈾 

@@ -376,6 +376,7 @@ dv_has_number_of_period: 6
 dv_has_number_of_group: 26
 dv_has_name_abbreviated: Nd
 dv_has_number_of_electrons: 60
+title: 釹 Neodymium
 ---
 
 # [[Neodymium]] 釹 

@@ -72,7 +72,7 @@ aliases:
 - 长颈鹿
 - 长颈鹿属
 - 기린
-title: Giraffa
+title: 🦒 Giraffa
 has_id_wikidata: Q862089
 dv_has_:
   name_:

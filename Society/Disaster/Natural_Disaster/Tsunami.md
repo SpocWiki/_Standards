@@ -149,7 +149,7 @@ publishDate: ''
 tags:
 - '{ newTitle: }': ''
 - excalidraw
-title:
+title:🌊 Tsunami
   '{ newTitle: }': ''
 type: private_note
 dv_has_:

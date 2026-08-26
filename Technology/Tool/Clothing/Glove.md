@@ -227,6 +227,7 @@ dv_has_:
     zh-sg: 手套
     zh-tw: 手套
 Unicode_character: 🧤
+title: 🧤 Glove
 ---
 
 # [[Glove]] 🧤 

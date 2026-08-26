@@ -146,6 +146,7 @@ dv_has_:
     zh_hant: 電子連接器
     zh_tw: 電子連接器
 Unicode_character: 🔌
+title: 🔌 Electrical_Connector
 ---
 
 # [[Electrical_Connector]] 🔌 

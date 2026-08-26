@@ -853,7 +853,7 @@ suicide_rate: 6.4
 tags:
   - geo/Country
 time_of_discovery_or_invention: 1500-05-02
-title: Brazil
+title: 🇧🇷 Brazil
 topic_s_main_template: "[[/_Standards/WikiData/WD~Q10514331,10514331|WD~Q10514331,10514331]]"
 topic_s_main_Wikimedia_portal: "[[/_Standards/WikiData/WD~Portal_Brazil,6062964|WD~Portal_Brazil,6062964]]"
 top_level_Internet_domain: "[[/_Standards/WikiData/WD~.br,39889|WD~.br,39889]]"

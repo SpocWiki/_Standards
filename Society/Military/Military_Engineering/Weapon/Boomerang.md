@@ -161,6 +161,7 @@ dv_has_:
     zh_hk: 回力棒
     zh_sg: 回力棒
     zh_tw: 回力棒
+title: 🪃 Boomerang
 ---
 
 # [[Boomerang]] 🪃 

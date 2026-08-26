@@ -720,6 +720,7 @@ dv_has_:
     zh_sg: 鱼
     zh_tw: 魚
     zu: inhlanzi
+title: \U0001F41F Fish
 ---
 
 # [[Fish]] 🐟 

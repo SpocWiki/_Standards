@@ -417,6 +417,7 @@ dv_has_:
     zh_hant: 血液
     zu: Igazi
 Unicode_character: 🩸
+title: 🩸 Blood
 ---
 
 # [[Blood]] 🩸 

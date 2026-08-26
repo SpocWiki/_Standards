@@ -424,7 +424,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
   - Country
 publish: true
-title: Namibia
+title: 🇳🇦 Namibia
 linkTitle: ""
 keywords: ""
 layout: ""

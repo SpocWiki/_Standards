@@ -400,6 +400,7 @@ dv_has_:
     zh_tw: 木材
     zu: ukhuni
 Unicode_character: 🪵
+title: 🪵 Wood
 ---
 
 # [[Wood]] 🪵 

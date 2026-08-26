@@ -600,6 +600,7 @@ dv_is_same_as:
 dv_has_name_abbreviated: Ag
 dv_has_number_of_electrons: 47
 Unicode_character: 銀
+title: 銀 Silver
 ---
 
 # [[Silver]] 銀 

@@ -204,6 +204,7 @@ dv_has_:
     zh-sg: 连衣裙
     zh-tw: 連衣裙
 Unicode_character: 👗
+title: 👗 Dress
 ---
 
 # [[Dress]] 👗 

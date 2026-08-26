@@ -170,6 +170,7 @@ dv_has_:
     zh-my: 坎德拉
     zh_sg: 坎德拉
     zh_tw: 燭光
+title: ㏅ Unit~Candela
 ---
 
 # [[Unit~Candela]] ㏅ 

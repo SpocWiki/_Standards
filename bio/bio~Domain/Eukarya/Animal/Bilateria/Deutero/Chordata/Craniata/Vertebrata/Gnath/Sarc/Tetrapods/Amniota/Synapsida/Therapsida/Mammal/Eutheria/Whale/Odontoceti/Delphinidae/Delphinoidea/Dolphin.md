@@ -287,6 +287,7 @@ dv_has_:
     zh_hk: 海豚
     zh_tw: 海豚
 Unicode_character: 🐬
+title: 🐬 Dolphin
 ---
 
 # [[Dolphin]] 🐬 

@@ -272,7 +272,7 @@ structural_engineer: '[[/_Standards/WikiData/WD~Gustave_Eiffel,20882|WD~Gustave_
 tags:
 - Statue_of_Liberty
 - excalidraw
-title: Statue_of_Liberty
+title: 🗽 Statue_of_Liberty
 topic_s_main_template: '[[/_Standards/WikiData/WD~Template_Statue_of_Liberty,106618517|WD~Template_Statue_of_Liberty,106618517]]'
 type: private_note
 U_S_National_Archives_Identifier: 10643327

@@ -469,6 +469,7 @@ dv_has_:
     zh_tw: 印度教
     zu: UbuHindu
 Unicode_character: 🕉
+title: 🕉 Hinduism
 ---
 
 # [[Hinduism]] 🕉 

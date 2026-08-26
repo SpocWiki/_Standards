@@ -605,7 +605,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
 - Country
 publish: true
-title: Algeria
+title: 🇩🇿 Algeria
 linkTitle: ''
 keywords: ''
 layout: ''

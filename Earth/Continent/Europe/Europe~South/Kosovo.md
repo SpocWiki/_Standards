@@ -638,6 +638,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Geb%C3%A4ude%20der%20U
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Kosovo.ogg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Velika%20Livada%20banner.jpg
 Unicode_character: 🇽🇰
+title: 🇽🇰 Kosovo
 ---
 
 # [[Kosovo]] 🇽🇰 

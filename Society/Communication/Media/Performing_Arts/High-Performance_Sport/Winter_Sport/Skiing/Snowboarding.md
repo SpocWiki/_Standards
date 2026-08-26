@@ -161,6 +161,7 @@ dv_has_:
     zh_sg: 单板滑雪
     zh_tw: 單板滑雪
 Unicode_character: 🏂
+title: 🏂 Snowboarding
 ---
 
 # [[Snowboarding]] 🏂 

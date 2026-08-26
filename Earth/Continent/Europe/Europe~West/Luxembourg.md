@@ -910,7 +910,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
 - Country
 publish: true
-title: Luxembourg
+title: 🇱🇺 Luxembourg
 linkTitle: ''
 keywords: ''
 layout: ''

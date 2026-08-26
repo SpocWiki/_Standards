@@ -846,7 +846,7 @@ inception: 2011-07-09
 has_time_started: 2011-07-09
 coordinates_of_easternmost_point: Point(35.949 4.63103)
 coordinates_of_northernmost_point: Point(32.73159 12.23638)
-title: South Sudan
+title: 🇸🇸 South Sudan
 type: Country
 license: CC BY-SA 4.0
 confidential: public

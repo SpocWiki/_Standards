@@ -281,6 +281,7 @@ dv_has_:
     zh_tw: 電子計算機
     zu: IsiQaqululi
 Unicode_character: 🖩
+title: 🖩 Calculator
 ---
 
 # [[Calculator]] 🖩 

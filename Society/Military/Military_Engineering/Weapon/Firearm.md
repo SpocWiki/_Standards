@@ -307,6 +307,7 @@ dv_has_:
     zh_hans: 火器
     zh_hant: 火器
 Unicode_character: 🔫
+title: 🔫 Firearm
 ---
 
 # [[Firearm]] 🔫 

@@ -266,6 +266,7 @@ dv_has_:
     zh_cn: 考拉
     zh_hans: 考拉
 Unicode_character: 🐨
+title: 🐨 Koala
 ---
 
 # [[Koala]]  🐨

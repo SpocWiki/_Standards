@@ -480,6 +480,7 @@ dv_has_:
     zh_hant: 豹
     zh_tw: 豹
 Unicode_character: 🐆
+title: 🐆 Leopard
 ---
 
 # [[Leopard]] 🐆 

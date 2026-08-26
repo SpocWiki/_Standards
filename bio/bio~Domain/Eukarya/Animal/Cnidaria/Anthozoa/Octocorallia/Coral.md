@@ -220,6 +220,7 @@ dv_has_:
     zh_sg: 珊瑚
     zh_tw: 珊瑚
 Unicode_character: 🪸
+title: 🪸 Coral
 ---
 
 # [[Coral]] 🪸 

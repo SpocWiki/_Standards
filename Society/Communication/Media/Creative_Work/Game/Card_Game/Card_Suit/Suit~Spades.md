@@ -13,6 +13,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Spades.svg
 TeX_string: \spadesuit
 Commons_category: Spades (playing cards)
 Unicode_character: ♠
+title: ♠ Suit~Spades
 ---
 
 # [[Suit~Spades]] ♠ 

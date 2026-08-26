@@ -829,7 +829,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
 - Country
 publish: true
-title: Syria
+title: 🇸🇾 Syria
 linkTitle: ''
 keywords: ''
 layout: ''

@@ -260,6 +260,7 @@ dv_has_:
     zh_sg: 鿭
     zh_tw: 鉨
     zu: UmNihombi
+title: 鉨 Nihonium
 ---
 
 # [[Nihonium]] 鉨 

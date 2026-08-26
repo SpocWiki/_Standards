@@ -277,6 +277,7 @@ dv_has_:
     zh_hant: 捕魚
     zu: Ukudoba
 Unicode_character: 🎣
+title: 🎣 Fishing
 ---
 
 # [[Fishing]] 🎣 

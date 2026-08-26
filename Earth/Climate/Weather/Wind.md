@@ -415,6 +415,7 @@ dv_has_:
     zh: 風
     zh_hant: 風
 Unicode_character: 🌬
+title: 🌬 Wind
 ---
 
 # [[Wind]] 🌬 

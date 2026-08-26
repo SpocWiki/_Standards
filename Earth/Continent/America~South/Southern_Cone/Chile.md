@@ -138,7 +138,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
   - Country
 publish: true
-title: Chile
+title: 🇨🇱 Chile
 linkTitle: ""
 keywords: ""
 layout: ""

@@ -530,7 +530,7 @@ top_level_Internet_domain: '[[/_Standards/WikiData/WD~.ec,41113|WD~.ec,41113]]'
 type: Country
 tags:
 - geo/Country
-title: Ecuador
+title: 🇪🇨 Ecuador
 unemployment_rate: 5
 urban_population:
 - 11097565

@@ -210,6 +210,7 @@ dv_has_:
     zh_hans: 树懒亚目
     zh_tw: 樹懶亞目
 Unicode_character: 🦥
+title: 🦥 Sloth
 ---
 
 # [[Sloth]] 🦥 

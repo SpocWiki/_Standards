@@ -151,6 +151,7 @@ dv_has_:
     zh: 自然底数
     zh_hans: 自然底数
 Unicode_character: 𝑒
+title: 𝑒 Euler's_Number
 ---
 
 # [[Euler's_Number]] 𝑒 

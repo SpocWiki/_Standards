@@ -259,6 +259,7 @@ dv_has_:
     zh_hant: 高爾夫球
     zh_tw: 高爾夫球
 Unicode_character: 🏌
+title: 🏌 Golf
 ---
 
 # [[Golf]] 🏌 

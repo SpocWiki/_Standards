@@ -201,6 +201,7 @@ dv_has_:
     zh_cn: 管魷目
     zh_hans: 管鱿目
 Unicode_character: 🦑
+title: 🦑 Squid
 ---
 
 # [[Squid]] 🦑 

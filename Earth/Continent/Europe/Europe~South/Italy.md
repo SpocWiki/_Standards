@@ -622,7 +622,7 @@ aliases:
   - 이탈리아
   - 𐌹𐍄𐌰𐌻𐌹𐌰
 has_id_wikidata: Q38
-title: Italy
+title: 🇮🇹 Italy
 linkTitle: ""
 type: Country
 location:

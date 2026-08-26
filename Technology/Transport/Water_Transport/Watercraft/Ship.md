@@ -401,6 +401,7 @@ dv_has_:
     zh-hk: 船
     zh-tw: 船
 Unicode_character: 🚢
+title: 🚢 Ship
 ---
 
 # [[Ship]] 🚢 

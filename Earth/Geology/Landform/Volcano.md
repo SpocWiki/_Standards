@@ -152,7 +152,7 @@ publishDate: ''
 tags:
 - class/Class
 - schema-org/Class
-title: is_a_volcano Class
+title: 🌋 is_a_volcano Class
 type: Type
 dv_is_:
   same_as:

@@ -368,6 +368,7 @@ dv_has_number_of_group: 8
 dv_has_name_abbreviated: Ru
 dv_has_number_of_electrons: 44
 Unicode_character: 釕
+title: 釕 Ruthenium
 ---
 
 # [[Ruthenium]] 釕 

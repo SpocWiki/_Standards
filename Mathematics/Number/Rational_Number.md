@@ -285,6 +285,7 @@ dv_has_:
     zh-my: 有理数
     zh_sg: 有理数
     zh_tw: 有理數
+title: ℚ Rational_Number
 ---
 
 # [[Rational_Number]] ℚ 

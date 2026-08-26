@@ -128,7 +128,7 @@ publishDate: ''
 tags:
 - class/Class
 - schema-org/Class
-title: is_a_toilet Class
+title: 🚽 is_a_toilet Class
 type: Type
 made_from_material:
 - '[[/_Standards/WikiData/WD~porcelain,130693|WD~porcelain,130693]]'

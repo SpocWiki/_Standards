@@ -196,6 +196,7 @@ dv_has_:
     zh_sg: 冲浪
     zh_tw: 衝浪
 Unicode_character: 🏄
+title: 🏄 Surfing
 ---
 
 # [[Surfing]] 🏄 

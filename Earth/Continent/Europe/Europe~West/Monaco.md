@@ -485,7 +485,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
 - Country
 publish: true
-title: Monaco
+title: 🇲🇨 Monaco
 linkTitle: ''
 keywords: ''
 layout: ''

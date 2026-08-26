@@ -131,7 +131,7 @@ aliases:
 - 蠍子
 - 蠍目
 - 전갈
-title: Scorpionoidea
+title: 🦂 Scorpionoidea
 has_id_wikidata: Q19125
 dv_has_:
   name_:

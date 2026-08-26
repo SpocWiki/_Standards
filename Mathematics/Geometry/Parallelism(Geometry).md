@@ -140,6 +140,7 @@ dv_has_:
     vi: Song song
     yue: 平行
     zh: 平行
+title: ∥ Parallelism(Geometry)
 ---
 
 # [[Parallelism(Geometry)]] ∥ 

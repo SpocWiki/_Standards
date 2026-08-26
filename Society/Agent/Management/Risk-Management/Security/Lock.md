@@ -175,6 +175,7 @@ aliases:
 - 锁
 - 자물쇠
 Unicode_character: 🔏
+title: 🔏 Lock
 ---
 
 # [[Lock]] 🔏 

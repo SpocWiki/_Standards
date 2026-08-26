@@ -309,6 +309,7 @@ dv_has_:
     zh_mo: 燈塔
     zh_sg: 灯塔
     zh_tw: 燈塔
+title: ⛯ Lighthouse
 ---
 
 # [[Lighthouse]] ⛯ 

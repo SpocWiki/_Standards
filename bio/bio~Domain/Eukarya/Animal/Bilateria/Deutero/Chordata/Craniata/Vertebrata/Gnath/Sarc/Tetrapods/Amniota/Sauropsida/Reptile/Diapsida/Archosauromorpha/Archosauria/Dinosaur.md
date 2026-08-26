@@ -131,7 +131,7 @@ aliases:
 - ꯗꯥꯢꯅꯣꯁꯣꯔ
 - 공룡
 has_id_wikidata: Q430
-title: Dinosauria
+title: \U0001F995 Dinosauria
 Commons_category: Dinosauria
 Commons_gallery: Dinosauria
 described_by_source:

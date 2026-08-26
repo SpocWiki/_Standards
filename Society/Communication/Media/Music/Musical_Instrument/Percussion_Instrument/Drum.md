@@ -308,6 +308,7 @@ dv_has_:
     zh_hant: 鼓
     zu: Isigubhu
 Unicode_character: 🥁
+title: 🥁 Drum
 ---
 
 # [[Drum]] 🥁 

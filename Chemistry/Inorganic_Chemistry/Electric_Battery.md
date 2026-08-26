@@ -300,6 +300,7 @@ dv_has_:
     zh_tw: 電池
     zu: IsiPhathanzuba
 Unicode_character: 🔋
+title: 🔋 Electric_Battery
 ---
 
 # [[Electric_Battery]] 🔋 

@@ -805,6 +805,7 @@ VAT_rate: 17
 Wikimedia_outline: '[[/_Standards/WikiData/WD~outline_of_Sudan,7112466|WD~outline_of_Sudan,7112466]]'
 WIPO_ST_3: SD
 Unicode_character: 🇸🇩
+title: 🇸🇩 Sudan~North
 ---
 
 # [[Sudan~North]] 🇸🇩 

@@ -149,6 +149,7 @@ dv_has_:
     zh_hans: 梁龍
     zh_hant: 梁龍
     zh_tw: 梁龍屬
+title: \U0001F995 Diplodocus
 ---
 
 # [[Diplodocus]] 🦕 

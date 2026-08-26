@@ -413,7 +413,7 @@ studied_in: '[[/_Standards/WikiData/WD~Ghana_studies,115669458|WD~Ghana_studies,
 subreddit: ghana
 tags:
 - geo/Country
-title: Ghana
+title: 🇬🇭 Ghana
 topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Ghana,14615755|WD~Portal_Ghana,14615755]]'
 top_level_Internet_domain: '[[/_Standards/WikiData/WD~.gh,41634|WD~.gh,41634]]'
 total_fertility_rate: 4.168

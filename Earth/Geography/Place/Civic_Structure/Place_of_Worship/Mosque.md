@@ -143,7 +143,7 @@ publishDate: ''
 tags:
 - class/Class
 - schema-org/Class
-title: is_a_mosque Class
+title: 🕌 is_a_mosque Class
 type: Type
 has_part_s_:
 - '[[/_Standards/WikiData/WD~mihrab,173907|WD~mihrab,173907]]'

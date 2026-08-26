@@ -253,6 +253,7 @@ dv_has_:
     zh-my: 摄氏度
     zh_sg: 摄氏度
     zh_tw: 攝氏度
+title: ℃ Unit~Celsius
 ---
 
 # [[Unit~Celsius]] ℃ 

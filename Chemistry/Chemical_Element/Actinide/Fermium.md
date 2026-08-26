@@ -333,6 +333,7 @@ dv_has_number_of_period: 7
 dv_has_number_of_group: 34
 dv_has_number_of_electrons: 100
 Unicode_character: 鐨
+title: 鐨 Fermium
 ---
 
 # [[Fermium]] 鐨 

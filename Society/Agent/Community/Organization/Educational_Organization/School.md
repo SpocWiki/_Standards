@@ -196,7 +196,7 @@ tags:
 - schema-org/Class
 - School: ''
 - excalidraw
-title:
+title:🏫 School
   School: ''
 type: private_note
 excalidraw-autoexport: none

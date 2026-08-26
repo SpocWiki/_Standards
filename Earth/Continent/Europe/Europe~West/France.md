@@ -687,7 +687,7 @@ aliases:
   - 프랑스
   - 𐍆𐍂𐌰𐌲𐌺𐌰𐍂𐌴𐌹𐌺𐌹
 has_id_wikidata: Q142
-title: France
+title: 🇫🇷 France
 linkTitle: ""
 type: Country
 location:

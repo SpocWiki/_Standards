@@ -595,6 +595,7 @@ dv_has_:
     zh_sg: 恒星
     zh_tw: 恆星
     zu: inkanyezi
+title: ⭐ Star
 ---
 # [[Star]] ⭐ 
 

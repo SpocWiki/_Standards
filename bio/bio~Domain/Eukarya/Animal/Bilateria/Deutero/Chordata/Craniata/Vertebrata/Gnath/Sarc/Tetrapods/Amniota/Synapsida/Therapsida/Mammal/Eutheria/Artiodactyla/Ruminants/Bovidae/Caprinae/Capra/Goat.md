@@ -462,6 +462,7 @@ dv_has_:
     yue: 草羊
     zh: 家山羊
 Unicode_character: 🐐
+title: 🐐 Goat
 ---
 
 # [[Goat]] 🐐  

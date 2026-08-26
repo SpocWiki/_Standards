@@ -1046,7 +1046,7 @@ total_fertility_rate: 3.338
 type: Country
 tags:
 - geo/Country
-title: Egypt
+title: 🇪🇬 Egypt
 urban_population:
 - 45130858
 - 45976808

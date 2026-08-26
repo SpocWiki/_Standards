@@ -445,7 +445,7 @@ SpocWebEntityId: 26976
 subreddit: Mozambique
 tags:
 - geo/Country
-title: Mozambique
+title: 🇲🇿 Mozambique
 topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Mozambique,11132857|WD~Portal_Mozambique,11132857]]'
 top_level_Internet_domain: '[[/_Standards/WikiData/WD~.mz,43131|WD~.mz,43131]]'
 total_fertility_rate: 5.359

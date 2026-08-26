@@ -137,6 +137,7 @@ dv_has_:
     zh_sg: 保龄球
     zh_tw: 保齡球
 Unicode_character: 🎳
+title: 🎳 Ten-pin_Bowling
 ---
 
 # [[Ten-pin_Bowling]] 🎳 

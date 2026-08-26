@@ -479,6 +479,7 @@ dv_has_:
     zh_hant: 稻米
     zu: ilayisi
 Unicode_character: 🍚
+title: 🍚 Rice
 ---
 
 # [[Rice]] 🍚 

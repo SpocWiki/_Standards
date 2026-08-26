@@ -186,6 +186,7 @@ dv_has_:
     zh-sg: 独木舟
     zh-tw: 獨木舟
 Unicode_character: 🛶
+title: 🛶 Canoe
 ---
 
 # [[Canoe]] 🛶  

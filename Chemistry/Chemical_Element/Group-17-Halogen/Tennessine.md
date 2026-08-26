@@ -255,6 +255,7 @@ dv_has_:
     zh_hk: 鿬
     zh_tw: 鿬
     zu: IThesimbi
+title: 鿬 Tennessine
 ---
 
 # [[Tennessine]] 鿬 

@@ -385,6 +385,7 @@ bathymetry_image: http://commons.wikimedia.org/wiki/Special:FilePath/Saint-Pierr
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Saint-PierreEtMiquelonFromTheISS.jpg
 location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Pierre%20and%20Miquelon-CIA%20WFB%20Map.png
 Unicode_character: 🇵🇲
+title: 🇵🇲 Saint-Pierre-et-Miquelon
 ---
 
 # [[Saint-Pierre-et-Miquelon]] 🇵🇲 

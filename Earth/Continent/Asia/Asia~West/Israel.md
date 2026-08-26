@@ -1025,7 +1025,7 @@ TikTok_username:
 - israel
 - israelarabic
 - israelinspanish
-title: Israel
+title: 🇮🇱 Israel
 topic_s_main_template:
 - '[[/_Standards/WikiData/WD~Template_Districts_of_Israel,6199746|WD~Template_Districts_of_Israel,6199746]]'
 - '[[/_Standards/WikiData/WD~Template_Israel_topics,10563945|WD~Template_Israel_topics,10563945]]'

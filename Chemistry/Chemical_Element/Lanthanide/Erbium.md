@@ -347,6 +347,7 @@ dv_has_number_of_period: 6
 dv_has_number_of_group: 34
 dv_has_name_abbreviated: Er
 dv_has_number_of_electrons: 68
+title: 鉺 Erbium
 ---
 
 # [[Erbium]] 鉺 

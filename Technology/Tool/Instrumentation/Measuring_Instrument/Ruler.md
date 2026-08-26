@@ -202,6 +202,7 @@ dv_has_:
     zh-sg: 尺子
     zh-tw: 尺子
 Unicode_character: 📏
+title: 📏 Ruler
 ---
 
 # [[Ruler]] 📏 

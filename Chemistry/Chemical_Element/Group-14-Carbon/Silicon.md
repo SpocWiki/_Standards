@@ -459,6 +459,7 @@ dv_is_different_from: '[[../../Organic_Chemistry/Polymer/Silicone|Silicone]]'
 dv_has_name_abbreviated: Si
 dv_has_number_of_electrons: 14
 dv_has_number_of_group: 14
+title: 矽 Silicon
 ---
 
 # [[Silicon]] 矽 

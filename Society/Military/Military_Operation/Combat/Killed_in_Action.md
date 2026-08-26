@@ -198,6 +198,7 @@ dv_has_:
     zh_hk: 陣亡
     zh_sg: 阵亡
     zh_tw: 陣亡
+title: ⚔ Killed_in_Action
 ---
 
 # [[Killed_in_Action]] ⚔ 

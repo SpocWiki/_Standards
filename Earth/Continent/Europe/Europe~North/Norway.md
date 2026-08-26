@@ -1066,7 +1066,7 @@ subreddit:
 suicide_rate: 11.8
 tags:
 - geo/Country
-title: Norway
+title: 🇳🇴 Norway
 topic_s_main_template: '[[/_Standards/WikiData/WD~Template_Counties_of_Norway,20202037|WD~Template_Counties_of_Norway,20202037]]'
 topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Norway,8253880|WD~Portal_Norway,8253880]]'
 top_level_Internet_domain: '[[/_Standards/WikiData/WD~.no,41060|WD~.no,41060]]'

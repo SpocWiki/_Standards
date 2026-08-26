@@ -193,6 +193,7 @@ dv_has_:
     zh: 豎琴
     zh_hant: 豎琴
 Unicode_character: 🪉
+title: 🪉 Harp
 ---
 
 # [[Harp]] 🪉 

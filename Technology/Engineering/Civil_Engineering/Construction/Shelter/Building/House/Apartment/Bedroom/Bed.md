@@ -321,6 +321,7 @@ dv_has_:
     zh: 床
     zh_hant: 床
     zh_hk: 牀
+title: 🛏 Bed
 ---
 
 # [[Bed]] 🛏 

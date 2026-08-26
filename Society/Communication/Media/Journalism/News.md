@@ -314,6 +314,7 @@ dv_has_:
     zh_hant: 新聞
     zh_tw: 新聞
 Unicode_character: 📡
+title: 📡 News
 ---
 
 # [[News]] 📡 

@@ -446,7 +446,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
 - Country
 publish: true
-title: Mauritius
+title: 🇲🇺 Mauritius
 linkTitle: ''
 keywords: ''
 layout: ''

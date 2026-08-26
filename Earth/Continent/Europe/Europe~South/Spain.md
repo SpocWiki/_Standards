@@ -697,7 +697,7 @@ subreddit:
 - spain
 tags:
 - geo/Country
-title: Spain
+title: 🇪🇸 Spain
 topic_s_main_template:
 - '[[/_Standards/WikiData/WD~Template_Administrative_divisions_of_Spain,7158352|WD~Template_Administrative_divisions_of_Spain,7158352]]'
 - '[[/_Standards/WikiData/WD~Template_Spain_topics,10975148|WD~Template_Spain_topics,10975148]]'

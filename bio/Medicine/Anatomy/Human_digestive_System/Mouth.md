@@ -393,6 +393,7 @@ dv_has_:
     zh: 口腔
     zu: umlomo
 Unicode_character: 👄
+title: 👄 Mouth
 ---
 
 # [[Mouth]] 👄 

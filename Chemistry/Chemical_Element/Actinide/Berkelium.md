@@ -352,6 +352,7 @@ dv_has_number_of_period: 7
 dv_has_number_of_group: 31
 dv_has_number_of_electrons: 97
 Unicode_character: 鉳
+title: 鉳 Berkelium
 ---
 
 # [[Berkelium]] 鉳 

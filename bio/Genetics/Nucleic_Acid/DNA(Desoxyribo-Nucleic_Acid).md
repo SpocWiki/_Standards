@@ -286,6 +286,7 @@ dv_has_:
     zh_tw: 去氧核糖核酸
     zu: uLibofuzo
 Unicode_character: 🧬
+title: 🧬 DNA(Desoxyribo-Nucleic_Acid)
 ---
 
 # [[DNA(Desoxyribo-Nucleic_Acid)]] 🧬 

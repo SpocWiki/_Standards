@@ -472,7 +472,7 @@ subreddit: Timor
 type: Country
 tags:
 - geo/Country
-title: Timor-Leste
+title: 🇹🇱 Timor-Leste
 top_level_Internet_domain: '[[/_Standards/WikiData/WD~.tl,43153|WD~.tl,43153]]'
 total_fertility_rate: 3.98
 topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_East_Timor,14615754|WD~Portal_East_Timor,14615754]]'

@@ -179,6 +179,7 @@ dv_has_:
     vi: Xích
     yue: 鎖鏈
     zh: 鎖鏈
+title: ⛓ Chain
 ---
 
 # [[Chain]] ⛓ 

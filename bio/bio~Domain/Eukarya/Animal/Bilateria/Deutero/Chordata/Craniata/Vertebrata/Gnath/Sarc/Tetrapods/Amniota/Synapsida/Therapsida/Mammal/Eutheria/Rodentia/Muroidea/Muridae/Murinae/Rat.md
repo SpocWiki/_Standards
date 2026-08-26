@@ -147,7 +147,7 @@ Dewey_Decimal_Classification:
 - 599.352
 - 616.02733
 - 636.9352
-title: Rattus group
+title: \U0001F400 Rattus group
 dv_has_:
   name_:
     af: Rattus

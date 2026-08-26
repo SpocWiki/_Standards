@@ -484,6 +484,7 @@ dv_has_:
     zh_hk: 行星
     zh_tw: 行星
     zu: iplanethi
+title: \U0001FA90 Planet
 ---
 # [[Planet]] 🪐 
 

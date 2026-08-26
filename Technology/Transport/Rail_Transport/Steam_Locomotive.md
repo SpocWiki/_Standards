@@ -160,6 +160,7 @@ aliases:
 - 蒸汽火車
 - 증기 기관차
 Unicode_character: 🚂
+title: 🚂 Steam_Locomotive
 ---
 
 # [[Steam_Locomotive]] 🚂 

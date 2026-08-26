@@ -230,6 +230,7 @@ dv_has_:
     zh_hk: 滑雪
     zh_sg: 滑雪
     zh_tw: 滑雪
+title: ⛷ Skiing
 ---
 
 # [[Skiing]] ⛷ 

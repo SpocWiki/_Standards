@@ -368,7 +368,7 @@ SpocWebEntityId: 26915
 subreddit: Guyana
 tags:
 - geo/Country
-title: Guyana
+title: 🇬🇾 Guyana
 topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Guyana,10815225|WD~Portal_Guyana,10815225]]'
 top_level_Internet_domain: '[[/_Standards/WikiData/WD~.gy,41448|WD~.gy,41448]]'
 total_fertility_rate: 2.558

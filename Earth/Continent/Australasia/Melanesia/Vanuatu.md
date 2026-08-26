@@ -95,7 +95,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
 - Country
 publish: true
-title: Vanuatu
+title: 🇻🇺 Vanuatu
 linkTitle: ''
 keywords: ''
 layout: ''

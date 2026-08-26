@@ -230,6 +230,7 @@ dv_has_:
     zh_hant: 手槍
     zh_hk: 手槍
 Unicode_character: 🔫
+title: 🔫 Pistol
 ---
 
 # [[Pistol]] 🔫 

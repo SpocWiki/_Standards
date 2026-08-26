@@ -358,6 +358,7 @@ dv_has_:
     zh-hant: 斧
     zu: ngembazo
 Unicode_character: 🪓
+title: 🪓 Axe
 ---
 
 # [[Axe]] 🪓 

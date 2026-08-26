@@ -237,6 +237,7 @@ dv_has_:
     yi: ארטאדאקסע קריסטנטום
     zh: 正教
     zh_hant: 正教
+title: ☦ Eastern_Orthodoxy
 ---
 
 # [[Eastern_Orthodoxy]] ☦ 

@@ -1052,7 +1052,7 @@ subreddit: VietNam
 suicide_rate: 7.2
 tags:
 - geo/Country
-title: Vietnam
+title: 🇻🇳 Vietnam
 topic_s_main_template: '[[/_Standards/WikiData/WD~Q26109041,26109041|WD~Q26109041,26109041]]'
 topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Vietnam,10815250|WD~Portal_Vietnam,10815250]]'
 top_level_Internet_domain: '[[/_Standards/WikiData/WD~.vn,42683|WD~.vn,42683]]'

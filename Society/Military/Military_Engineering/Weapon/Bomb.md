@@ -172,6 +172,7 @@ aliases:
 - 爆彈
 - 폭탄
 Unicode_character: 💣
+title: 💣 Bomb
 ---
 
 # [[Bomb]] 💣 

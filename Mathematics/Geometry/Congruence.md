@@ -122,6 +122,7 @@ dv_has_:
     wuu: 全等
     yue: 全等
     zh: 全等_(幾何)
+title: ≅ Congruence
 ---
 
 # [[Congruence]] ≅ 

@@ -77,7 +77,7 @@ aliases:
 - 長毛象
 - 맘모스
 - 매머드
-title: Mammuthus
+title: 🦣 Mammuthus
 has_id_wikidata: Q36715
 dv_has_:
   name_:

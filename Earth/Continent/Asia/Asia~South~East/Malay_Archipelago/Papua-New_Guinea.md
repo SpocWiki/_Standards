@@ -227,7 +227,7 @@ source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26993
 tags:
 - geo/Country
-title: Papua New Guinea
+title: 🇵🇬 Papua New Guinea
 type: Country
 dv_ISO4217-currency_alphabetic: PGK
 dv_ISO4217-currency_name: Kina

@@ -10,6 +10,7 @@ depicts:
   - "[[/_Standards/WikiData/WD~man,8441|WD~man,8441]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Excuse.png
 Commons_category: Fool (Major Arcana)
+title: 🃠 Tarot~00~Fool
 ---
 
 # [[Tarot~00~Fool]] 🃠 

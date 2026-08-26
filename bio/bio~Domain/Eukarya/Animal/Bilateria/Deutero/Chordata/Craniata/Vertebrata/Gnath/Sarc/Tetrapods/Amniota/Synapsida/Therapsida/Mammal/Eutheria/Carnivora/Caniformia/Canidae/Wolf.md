@@ -533,6 +533,7 @@ dv_has_:
     zh_hant: 狼
     zh_tw: 狼
 Unicode_character: 🐺
+title: 🐺 Wolf
 ---
 
 # [[Wolf]] 🐺 

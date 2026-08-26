@@ -92,6 +92,7 @@ dv_has_:
     yue: 夾鉗
     zh: 自動式夾子
 Unicode_character: 🗜
+title: 🗜 Clamp(tool)
 ---
 
 # [[Clamp(tool)]] 🗜 

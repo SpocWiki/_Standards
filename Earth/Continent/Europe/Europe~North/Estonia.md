@@ -953,7 +953,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
 - Country
 publish: true
-title: Estonia
+title: \U0001F1EA\U0001F1EA Estonia
 linkTitle: ''
 keywords: ''
 layout: ''

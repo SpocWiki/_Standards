@@ -502,7 +502,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
   - Country
 publish: true
-title: Bahrain
+title: 🇧🇭 Bahrain
 linkTitle: ""
 keywords: ""
 layout: ""

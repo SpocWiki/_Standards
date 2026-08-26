@@ -579,7 +579,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
   - Country
 publish: true
-title: Armenia
+title: 🇦🇲 Armenia
 linkTitle: ""
 keywords: ""
 layout: ""

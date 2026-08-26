@@ -238,6 +238,7 @@ dv_has_:
     yue: 行雷閃電
     zh: 雷暴
     zh_hant: 雷暴
+title: ⛈ Thunderstorm
 ---
 
 # [[Thunderstorm]] ⛈ 

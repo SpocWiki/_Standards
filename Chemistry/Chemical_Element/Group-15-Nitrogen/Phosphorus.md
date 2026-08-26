@@ -447,6 +447,7 @@ dv_is_same_as:
 - '[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus.secret|Phosphorus.secret]]'
 dv_has_name_abbreviated: P
 dv_has_number_of_electrons: 15
+title: 磷 Phosphorus
 ---
 
 # [[Phosphorus]] 磷 

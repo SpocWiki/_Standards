@@ -241,6 +241,7 @@ dv_has_:
     zh_hans: 暴龙属
     zh_hant: 暴龍屬
     zh_tw: 暴龍屬
+title: \U0001F996 Tyrannosaurus
 ---
 
 # [[Tyrannosaurus]] 🦖 

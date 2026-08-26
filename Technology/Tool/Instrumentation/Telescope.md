@@ -271,6 +271,7 @@ dv_has_:
     zh: 望远镜
     zu: I-telescope
 Unicode_character: 🔭
+title: 🔭 Telescope
 ---
 
 # [[Telescope]] 🔭 

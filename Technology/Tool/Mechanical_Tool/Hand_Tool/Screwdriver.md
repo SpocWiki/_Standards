@@ -233,6 +233,7 @@ dv_has_:
     zh-sg: 螺丝起子
     zh-tw: 螺絲起子
 Unicode_character: 🪛
+title: 🪛 Screwdriver
 ---
 
 # [[Screwdriver]] 🪛 

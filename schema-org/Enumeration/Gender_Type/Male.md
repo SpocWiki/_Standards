@@ -22,7 +22,7 @@ publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
-title: is_a_male Class
+title: ♂️ is_a_male Class
 type: Type
 dv_has_:
   parent_: 

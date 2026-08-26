@@ -272,6 +272,7 @@ dv_has_:
     zh_tw: "\U00028B4E"
     zu: ISigamchibi
 Unicode_character: 𨭎
+title: 𨭎 Seaborgium
 ---
 
 # [[Seaborgium]] 𨭎 

@@ -422,6 +422,7 @@ dv_has_value_for_temperature_melt_c: 3422
 dv_has_value_for_temperature_boil_c: 5930
 dv_has_number_of_group: 6
 Unicode_character: 鎢
+title: 鎢 Tungsten
 ---
 
 # [[Tungsten]] 鎢 

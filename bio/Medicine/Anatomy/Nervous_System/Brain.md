@@ -458,6 +458,7 @@ dv_has_:
     zh_hant: 腦
     zh_tw: 腦
     zu: ubuchopho
+title: 🧠 Brain
 ---
 
 # [[Brain]] 🧠 

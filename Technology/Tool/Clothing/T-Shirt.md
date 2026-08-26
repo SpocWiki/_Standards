@@ -23,6 +23,7 @@ booru_tag:
   - t-shirt!
   - short_sleeve_shirt
   - t-_shirt
+title: 👕 T-Shirt
 ---
 
 # [[T-Shirt]] 👕 

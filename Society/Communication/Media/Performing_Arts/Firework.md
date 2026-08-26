@@ -252,6 +252,7 @@ dv_has_:
     zh_sg: 烟火
     zh_tw: 煙火
 Unicode_character: 🎆
+title: 🎆 Firework
 ---
 
 # [[Firework]] 🎆 

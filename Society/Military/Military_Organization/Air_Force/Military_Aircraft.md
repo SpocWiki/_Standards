@@ -159,6 +159,7 @@ dv_has_:
     zh_sg: 军用航空器
     zh_tw: 軍用航空器
 Unicode_character: 🛦
+title: 🛦 Military_Aircraft
 ---
 
 # [[Military_Aircraft]] 🛦 

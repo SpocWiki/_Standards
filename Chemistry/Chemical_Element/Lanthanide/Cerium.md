@@ -499,6 +499,7 @@ dv_is_same_as:
 - '[[/_secret/Chemistry/Chemical_Element/Lanthanide/Cerium.secret|Cerium.secret]]'
 dv_has_name_abbreviated: Ce
 dv_has_number_of_electrons: 58
+title: 鈰 Cerium
 ---
 
 # [[Cerium]] 鈰 

@@ -194,7 +194,7 @@ aliases:
 - 양
 - "\U0001033B\U00010330\U0001033C\U00010331"
 has_id_wikidata: Q7368
-title: Ovis
+title: 🐏 Ovis
 dv_has_:
   name_:
     ace: bubiri

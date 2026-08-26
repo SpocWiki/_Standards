@@ -206,6 +206,7 @@ dv_has_:
     zh-hans: 梯子
     zh-hant: 梯子
 Unicode_character: 🪜
+title: 🪜 Ladder
 ---
 
 # [[Ladder]] 🪜 

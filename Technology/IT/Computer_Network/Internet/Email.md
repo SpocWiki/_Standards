@@ -359,6 +359,7 @@ dv_has_:
     zh_tw: 電子郵件
     zu: Incwazuba
 Unicode_character: 📧
+title: 📧 Email
 ---
 
 # [[Email]] 📧 

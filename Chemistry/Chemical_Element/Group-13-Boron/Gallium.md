@@ -394,6 +394,7 @@ dv_has_number_of_period: 4
 dv_has_name_abbreviated: Ga
 dv_has_number_of_electrons: 31
 dv_has_number_of_group: 13
+title: 鎵 Gallium
 ---
 
 # [[Gallium]] 鎵 
