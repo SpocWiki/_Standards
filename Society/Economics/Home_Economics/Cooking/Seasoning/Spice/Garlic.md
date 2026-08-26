@@ -216,6 +216,7 @@ dv_has_:
     zh: 大蒜
     zh_hant: 大蒜
 Unicode_character: 🧄
+title: 🧄 Garlic
 ---
 
 # [[Garlic]] 🧄 

@@ -257,6 +257,7 @@ dv_has_:
     zh_hant: 工廠
     zu: Umkhando
 Unicode_character: 🏭
+title: 🏭 Factory
 ---
 
 # [[Factory]] 🏭 

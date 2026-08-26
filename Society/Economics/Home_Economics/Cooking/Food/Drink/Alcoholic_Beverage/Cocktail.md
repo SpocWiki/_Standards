@@ -174,6 +174,7 @@ dv_has_:
     zh_sg: 鸡尾酒
     zh_tw: 雞尾酒
 Unicode_character: 🍸
+title: 🍸 Cocktail
 ---
 
 # [[Cocktail]] 🍸 

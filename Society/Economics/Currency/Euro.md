@@ -392,6 +392,7 @@ dv_has_:
     zh_hk: 歐元
     zh_tw: 歐元
     zu: Euro
+title: € Euro
 ---
 
 # [[Euro]] € 

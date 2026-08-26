@@ -288,6 +288,7 @@ dv_has_:
     zh-my: 披萨
     zh_tw: 披薩
 Unicode_character: 🍕
+title: 🍕 Pizza
 ---
 
 # [[Pizza]] 🍕 

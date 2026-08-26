@@ -130,6 +130,7 @@ dv_has_:
     zh_sg: 气泡酒
     zh_tw: 氣泡酒
 Unicode_character: 🍾
+title: 🍾 Sparkling_wine
 ---
 
 # [[Sparkling_wine]] 🍾 

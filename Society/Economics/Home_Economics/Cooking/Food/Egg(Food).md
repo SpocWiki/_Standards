@@ -392,6 +392,7 @@ dv_has_:
     zh_tw: 蛋
     zu: Amaqanda
 Unicode_character: 🥚
+title: 🥚 Egg(Food)
 ---
 
 # [[Egg(Food)]] 🥚 

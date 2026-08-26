@@ -449,6 +449,7 @@ dv_has_:
     zh_hk: 牛油
     zh_tw: 奶油
     zu: ibhotela
+title: 🧈 Butter
 ---
 
 # [[Butter]] 🧈

@@ -221,6 +221,7 @@ dv_has_:
     zh_tw: 壽司
     zu: Isushi
 Unicode_character: 🍣
+title: 🍣 Sushi
 ---
 
 # [[Sushi]] 🍣 

@@ -179,6 +179,7 @@ dv_has_:
     za: hing
     zh: 生姜
 Unicode_character: 🫚
+title: 🫚 Ginger(Spice)
 ---
 
 # [[Ginger(Spice)]] 🫚 

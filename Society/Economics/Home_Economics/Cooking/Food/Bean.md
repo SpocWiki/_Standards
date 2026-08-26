@@ -255,6 +255,7 @@ dv_has_:
     zh_sg: 豆类
     zh_tw: 豆類
     zu: ubhontshisi
+title: 🫘 Bean
 ---
 
 # [[Bean]] 🫘 

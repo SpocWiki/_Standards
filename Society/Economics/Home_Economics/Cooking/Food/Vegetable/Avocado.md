@@ -315,6 +315,7 @@ dv_has_:
     zh-cn: 鳄梨
     zh_hans: 鳄梨
     zh_tw: 酪梨
+title: 🥑 Avocado
 ---
 
 # [[Avocado]] 🥑 

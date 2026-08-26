@@ -436,6 +436,7 @@ dv_has_:
     zh_hant: 食鹽
     zh_tw: 食鹽
 Unicode_character: 🧂
+title: 🧂 Table_Salt
 ---
 
 # [[Table_Salt]] 🧂 

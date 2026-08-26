@@ -218,6 +218,7 @@ dv_has_:
     zh_hans: 筷子
     zh_hant: 筷子
     zh_tw: 筷子
+title: 🥢 Chopsticks
 ---
 
 # [[Chopsticks]] 🥢 

@@ -521,6 +521,7 @@ dv_has_:
     zh_sg: 咖啡
     zh_tw: 咖啡
     zu: ikhofi
+title: ☕ Coffee
 ---
 
 # [[Coffee]] ☕ 

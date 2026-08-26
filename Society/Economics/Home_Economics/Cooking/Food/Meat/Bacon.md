@@ -170,6 +170,7 @@ dv_has_:
     zh_hant: 培根肉
     zh_sg: 培根
 Unicode_character: 🥓
+title: 🥓 Bacon
 ---
 
 # [[Bacon]] 🥓 

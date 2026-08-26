@@ -544,6 +544,7 @@ dv_has_:
     zh_sg: 面包
     zh_tw: 麵包
     zu: isinkwa
+title: 🍞 Bread
 ---
 
 # [[Bread]] 🍞 

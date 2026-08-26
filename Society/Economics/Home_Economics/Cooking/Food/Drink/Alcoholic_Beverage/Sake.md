@@ -145,6 +145,7 @@ dv_has_:
     zh_sg: 日本清酒
     zh_tw: 日本酒
 Unicode_character: 🍶
+title: 🍶 Sake
 ---
 
 # [[Sake]] 🍶 

@@ -177,6 +177,7 @@ dv_has_:
     zh: 西方餐具
     zh_hant: 西方餐具
 Unicode_character: 🍴
+title: 🍴 Cutlery
 ---
 
 # [[Cutlery]] 🍴 

@@ -314,6 +314,7 @@ dv_has_:
     zh_hk: 硬幣
     zh_tw: 硬幣
 Unicode_character: 🪙
+title: 🪙 Coin
 ---
 
 # [[Coin]] 🪙 

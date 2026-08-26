@@ -135,6 +135,7 @@ dv_has_:
     zh_hant: 瑪黛
     zh_tw: 瑪黛
 Unicode_character: 🧉
+title: 🧉 Mate(Drink)
 ---
 
 # [[Mate(Drink)]] 🧉 

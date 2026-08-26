@@ -236,6 +236,7 @@ dv_has_:
     zh_sg: 马铃薯条
     zh_tw: 馬鈴薯條
 Unicode_character: 🍟
+title: 🍟 Fries
 ---
 
 # [[Fries]] 🍟 

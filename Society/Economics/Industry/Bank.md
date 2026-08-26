@@ -273,6 +273,7 @@ aliases:
 - 银行
 - 은행
 Unicode_character: 🏦
+title: 🏦 Bank
 ---
 
 # [[Bank]] 🏦 

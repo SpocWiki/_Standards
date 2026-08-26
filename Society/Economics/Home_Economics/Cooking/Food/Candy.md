@@ -221,6 +221,7 @@ dv_has_:
     zh_hant: 糖果
     zh_tw: 糖果
 Unicode_character: 🍬
+title: 🍬 Candy
 ---
 
 # [[Candy]] 🍬 

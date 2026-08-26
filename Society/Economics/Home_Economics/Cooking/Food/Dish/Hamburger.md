@@ -258,6 +258,7 @@ dv_has_:
     zh_sg: 汉堡
     zh_tw: 漢堡
 Unicode_character: 🍔
+title: 🍔 Hamburger
 ---
 
 # [[Hamburger]] 🍔 

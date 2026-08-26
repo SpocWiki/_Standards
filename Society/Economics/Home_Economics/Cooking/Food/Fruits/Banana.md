@@ -484,6 +484,7 @@ dv_has_:
     zh_sg: 蕉
     zh_tw: 蕉
     zu: ubhanana
+title: 🍌 Banana
 ---
 
 # [[Banana]] 🍌 

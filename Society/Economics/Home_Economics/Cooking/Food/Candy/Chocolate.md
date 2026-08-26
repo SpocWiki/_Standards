@@ -409,6 +409,7 @@ dv_has_:
     zh_sg: 巧克力
     zh_tw: 巧克力
     zu: shokoledi
+title: 🍫 Chocolate
 ---
 
 # [[Chocolate]] 🍫 

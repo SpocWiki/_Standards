@@ -159,6 +159,7 @@ dv_has_:
     zh_hant: 西式餡餅
     zh_tw: 西式餡餅
 Unicode_character: 🥧
+title: 🥧 Pie
 ---
 
 # [[Pie]] 🥧 

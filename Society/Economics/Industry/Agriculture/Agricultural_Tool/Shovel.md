@@ -214,6 +214,7 @@ dv_has_:
     yue: 鏟
     zh: 鏟子
 Unicode_character: 🪏
+title: 🪏 Shovel
 ---
 
 # [[Shovel]] 🪏 

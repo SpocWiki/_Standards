@@ -170,6 +170,7 @@ dv_has_:
     zh_hans: 根菜
     zh_hant: 根菜
 Unicode_character: 🫜
+title: 🫜 Root_Vegetable
 ---
 
 # [[Root_Vegetable]] 🫜 

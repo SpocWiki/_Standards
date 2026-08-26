@@ -271,6 +271,7 @@ dv_has_:
     zh_sg: 三明治
     zh_tw: 三明治
 Unicode_character: 🥪
+title: 🥪 Sandwich(Dish)
 ---
 
 # [[Sandwich(Dish)]] 🥪 

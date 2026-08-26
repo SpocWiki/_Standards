@@ -491,6 +491,7 @@ dv_has_:
     zh_sg: 起士
     zh_tw: 起司
     zu: ushizi
+title: 🧀 Cheese
 ---
 
 # [[Cheese]] 🧀 

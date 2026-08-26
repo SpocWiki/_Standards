@@ -342,6 +342,7 @@ dv_has_:
     zh_sg: 烹饪
     zh_tw: 烹飪
 Unicode_character: 🍳
+title: 🍳 Cooking
 ---
 
 # [[Cooking]] 🍳 

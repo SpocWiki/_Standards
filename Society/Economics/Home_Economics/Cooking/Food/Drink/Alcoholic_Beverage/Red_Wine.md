@@ -158,6 +158,7 @@ dv_has_:
     zh_sg: 红葡萄酒
     zh_tw: 紅葡萄酒
 Unicode_character: 🍷
+title: 🍷 Red_Wine
 ---
 
 # [[Red_Wine]] 🍷 

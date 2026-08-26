@@ -298,6 +298,7 @@ dv_has_:
     yo: ata ṣọ̀mbọ̀
     yue: 辣椒
     zh: 辣椒
+title: 🌶 Chili_Pepper
 ---
 
 # [[Chili_Pepper]] 🌶 

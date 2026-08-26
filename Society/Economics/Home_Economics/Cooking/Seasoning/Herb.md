@@ -216,6 +216,7 @@ dv_has_:
     yue: 香草
     zh: 香草植物
 Unicode_character: 🌿
+title: 🌿 Herb
 ---
 
 # [[Herb]] 🌿 

@@ -235,6 +235,7 @@ dv_has_:
     yue: 拖拉機
     zh: 拖拉机
 Unicode_character: 🚜
+title: 🚜 Tractor
 ---
 
 # [[Tractor]] 🚜 

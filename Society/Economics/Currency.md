@@ -364,6 +364,7 @@ dv_has_:
     zh_sg: 通貨
     zh_tw: 通貨
 Unicode_character: 💵
+title: 💵 Currency
 ---
 
 # [[Currency]] 💵 

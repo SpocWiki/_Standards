@@ -407,6 +407,7 @@ dv_has_:
     zh_sg: 胡萝卜
     zh_tw: 胡蘿蔔
     zu: izaqathe
+title: 🥕 Carrot
 ---
 
 # [[Carrot]] 🥕 

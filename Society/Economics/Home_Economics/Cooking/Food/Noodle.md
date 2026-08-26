@@ -223,6 +223,7 @@ dv_has_:
     zh_sg: 面条
     zh_tw: 麵條
 Unicode_character: 🍜
+title: 🍜 Noodle
 ---
 
 # [[Noodle]] 🍜 

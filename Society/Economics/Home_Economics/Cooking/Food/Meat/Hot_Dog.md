@@ -188,6 +188,7 @@ dv_has_:
     zh_sg: 热狗
     zh_tw: 熱狗
 Unicode_character: 🌭
+title: 🌭 Hot_Dog
 ---
 
 # [[Hot_Dog]] 🌭 

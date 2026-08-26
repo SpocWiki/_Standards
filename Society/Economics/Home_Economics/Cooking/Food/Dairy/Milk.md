@@ -597,6 +597,7 @@ dv_has_:
     zh_tw: 奶
     zu: ubisi
 Unicode_character: 🥛
+title: 🥛 Milk
 ---
 
 # [[Milk]] 🥛 

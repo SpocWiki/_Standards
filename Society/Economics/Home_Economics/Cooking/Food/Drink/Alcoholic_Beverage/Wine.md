@@ -449,6 +449,7 @@ dv_has_:
     zh_hans: 葡萄酒
     zh_hant: 葡萄酒
 Unicode_character: 🍷
+title: 🍷 Wine
 ---
 
 # [[Wine]] 🍷 

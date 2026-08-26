@@ -198,6 +198,7 @@ dv_has_:
     zh_tw: 奇異果
     zu: Kiwifruit
 Unicode_character: 🥝
+title: 🥝 Kiwifruit
 ---
 
 # [[Kiwifruit]] 🥝 
