@@ -1063,7 +1063,7 @@ subreddit: switzerland
 suicide_rate: 9.8
 tags:
   - geo/Country
-title: Switzerland
+title: 🇨🇭 Switzerland
 topic_s_main_template: "[[/_Standards/WikiData/WD~Template_Cantons_of_Switzerland,6489173|WD~Template_Cantons_of_Switzerland,6489173]]"
 topic_s_main_Wikimedia_portal: "[[/_Standards/WikiData/WD~Portal_Switzerland,3247839|WD~Portal_Switzerland,3247839]]"
 top_level_Internet_domain:

@@ -624,7 +624,7 @@ aliases:
 - 폴란드
 - "\U00010340\U00010349\U0001033B\U00010330\U0001033B\U00010330\U0001033D\U00010333"
 has_id_wikidata: Q36
-title: Poland
+title: 🇵🇱 Poland
 linkTitle: ''
 type: Country
 SpocWebEntityId: 26996

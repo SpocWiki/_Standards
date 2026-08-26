@@ -955,7 +955,7 @@ studied_in: '[[/_Standards/WikiData/WD~Ukrainian_studies,491679|WD~Ukrainian_stu
 subreddit: ukraine
 tags:
 - geo/Country
-title: Ukraine
+title: 🇺🇦 Ukraine
 topic_s_main_template:
 - '[[/_Standards/WikiData/WD~Template_Administrative_divisions_of_Ukraine,6668922|WD~Template_Administrative_divisions_of_Ukraine,6668922]]'
 - '[[/_Standards/WikiData/WD~Template_Ukraine_topics,13365928|WD~Template_Ukraine_topics,13365928]]'

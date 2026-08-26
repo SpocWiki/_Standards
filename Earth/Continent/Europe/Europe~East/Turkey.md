@@ -1201,7 +1201,7 @@ isReadOnly: false
 source: https://datahub.io/core/country-codes
 cssclasses: Country
 publish: true
-title: Turkey
+title: 🇹🇷 Turkey
 linkTitle: ''
 keywords: ''
 layout: ''

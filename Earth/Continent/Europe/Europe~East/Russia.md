@@ -218,7 +218,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
   - Country
 publish: true
-title: Russia
+title: 🇷🇺 Russia
 linkTitle: ""
 keywords: ""
 layout: ""

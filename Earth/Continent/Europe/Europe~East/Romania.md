@@ -953,7 +953,7 @@ subreddit: Romania
 suicide_rate: 7.3
 tags:
 - geo/Country
-title: Romania
+title: 🇷🇴 Romania
 topic_s_main_template: '[[/_Standards/WikiData/WD~Q10723826,10723826|WD~Q10723826,10723826]]'
 topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Romania,8132332|WD~Portal_Romania,8132332]]'
 top_level_Internet_domain: '[[/_Standards/WikiData/WD~.ro,42677|WD~.ro,42677]]'

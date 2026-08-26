@@ -957,7 +957,7 @@ subreddit: bulgaria
 suicide_rate: 6.5
 tags:
   - geo/Country
-title: Bulgaria
+title: 🇧🇬 Bulgaria
 topic_s_main_template: "[[/_Standards/WikiData/WD~Template_Provinces_of_Bulgaria,5981641|WD~Template_Provinces_of_Bulgaria,5981641]]"
 topic_s_main_Wikimedia_portal: "[[/_Standards/WikiData/WD~Portal_Bulgaria,8133376|WD~Portal_Bulgaria,8133376]]"
 top_level_Internet_domain:

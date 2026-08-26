@@ -613,7 +613,7 @@ aliases:
   - 오스트리아
   - 𐌰𐌿𐍃𐍄𐍂𐌰𐍂𐌴𐌹𐌺𐌹
 has_id_wikidata: Q40
-title: Austria 🇦🇹
+title: 🇦🇹 Austria 
 linkTitle: ""
 type: Country
 location:

@@ -611,7 +611,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
 - Country
 publish: true
-title: Hungary
+title: 🇭🇺 Hungary
 linkTitle: ''
 keywords: ''
 layout: ''

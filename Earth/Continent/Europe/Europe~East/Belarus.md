@@ -960,7 +960,7 @@ subreddit: belarus
 suicide_rate: 16.5
 tags:
   - geo/Country
-title: Belarus
+title: 🇧🇾 Belarus
 topic_s_main_template:
   - "[[/_Standards/WikiData/WD~Template_First-level_administrative_divisions_of_Belarus,4973|WD~Template_First-level_administrative_divisions_of_Belarus,4973]]"
   - "[[/_Standards/WikiData/WD~Template_Belarus_topics,6714449|WD~Template_Belarus_topics,6714449]]"

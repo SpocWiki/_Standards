@@ -1326,7 +1326,7 @@ suicide_rate: 8.3
 tags:
   - geo/Country
 time_of_earliest_written_record: 0919-01-01T00:00:00Z
-title: Deutschland (Germany)
+title: 🇩🇪 Germany (Deutschland)
 topic_s_main_template: "[[../../../../WikiData/WD~Template:Germany topics|WD~Template:Germany topics]]"
 topic_s_main_Wikimedia_portal: "[[/_Standards/WikiData/WD~Portal_Germany,3802786|WD~Portal_Germany,3802786]]"
 top_level_Internet_domain: "[[/_Standards/WikiData/WD~.de,37251|WD~.de,37251]]"
