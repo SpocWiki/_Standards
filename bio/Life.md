@@ -469,7 +469,7 @@ dv_has_:
     zu: Impilo
 ---
 
-# [[Life]] 
+# [[../../_internal/Society/Agent/Management/Life_Skills.internal]] 
 
 Material structure, capable of extracting energy from the environment for replication, 
 reducing Entropy locally. 
