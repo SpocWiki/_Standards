@@ -32,5 +32,6 @@ Get-ChildItem -Path $parent_directory -Recurse -Directory | ForEach-Object {
 			Pop-Location
 		}
 	}
+}
 
 Set-Location -Path $parent_directory
