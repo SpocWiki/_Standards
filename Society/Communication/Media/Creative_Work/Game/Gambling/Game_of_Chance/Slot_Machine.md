@@ -122,6 +122,7 @@ dv_has_:
     zh: 角子機
     zh_tw: 吃角子老虎
 Unicode_character: 🎰
+title: 🎰 Slot_Machine
 ---
 
 # [[Slot_Machine]] 🎰 

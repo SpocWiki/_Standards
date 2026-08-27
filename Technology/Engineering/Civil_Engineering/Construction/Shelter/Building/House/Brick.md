@@ -312,6 +312,7 @@ dv_has_:
     zh_cn: 砖
     zh_hans: 砖
     zh_hant: 磚
+title: 🧱 Brick
 ---
 
 # [[Brick]] 🧱 

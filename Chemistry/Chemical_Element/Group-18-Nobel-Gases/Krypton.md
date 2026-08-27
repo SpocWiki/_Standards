@@ -366,6 +366,7 @@ dv_is_same_as:
 - '[[/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Krypton.secret|Krypton.secret]]'
 dv_has_name_abbreviated: Kr
 dv_has_number_of_electrons: 36
+title: 氪 Krypton
 ---
 
 # [[Krypton]] 氪 

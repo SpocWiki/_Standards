@@ -299,6 +299,7 @@ dv_has_:
     zh_sg: 颅骨
     zh_tw: 顱骨
 Unicode_character: 💀
+title: 💀 Skull
 ---
 
 # [[Skull]] 💀 

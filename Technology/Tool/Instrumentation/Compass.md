@@ -257,6 +257,7 @@ dv_has_:
     zh-sg: 指南针
     zh-tw: 指南針
 Unicode_character: 🧭
+title: 🧭 Compass
 ---
 
 # [[Compass]] 🧭 

@@ -1205,6 +1205,7 @@ dv_has_:
     zh_sg: 太阳
     zh_tw: 太陽
     zu: Ilanga
+title: ☉ Sun
 ---
 
 # [[Sun]] ☉ 

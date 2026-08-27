@@ -232,6 +232,7 @@ dv_has_:
     zh_tw: 青花菜
     zu: umBumane
 Unicode_character: 🥦
+title: 🥦 Broccoli
 ---
 
 # [[Broccoli]] 🥦 

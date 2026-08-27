@@ -501,6 +501,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.personal|Lithium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.secret|Lithium.secret]]'
 Unicode_character: 鋰
+title: 鋰 Lithium
 ---
 
 # [[Lithium]] 鋰 

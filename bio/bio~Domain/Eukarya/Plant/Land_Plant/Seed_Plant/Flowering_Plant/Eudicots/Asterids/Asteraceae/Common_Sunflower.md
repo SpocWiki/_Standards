@@ -406,6 +406,7 @@ dv_has_:
     zh_hant: 向日葵
     zh_tw: 向日葵
 Unicode_character: 🌻
+title: 🌻 Common_Sunflower
 ---
 
 # [[Common_Sunflower]] 🌻 

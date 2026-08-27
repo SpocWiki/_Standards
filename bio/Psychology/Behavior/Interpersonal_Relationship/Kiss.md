@@ -219,6 +219,7 @@ aliases:
 - 키스
 - "\U00010346\U00010342\U00010339\U0001033E\U00010349\U0001033D\U00010343"
 Unicode_character: 💏
+title: 💏 Kiss
 ---
 
 # [[Kiss]] 💏 

@@ -281,6 +281,7 @@ dv_has_:
     zh-hant: 卡車
     zh-tw: 卡車
 Unicode_character: 🚚
+title: 🚚 Truck
 ---
 
 # [[Truck]] 🚚 

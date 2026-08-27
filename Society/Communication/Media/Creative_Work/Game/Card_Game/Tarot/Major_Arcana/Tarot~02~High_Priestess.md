@@ -14,6 +14,7 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/PAPESSE.%20Papisa%2C%20Tarot%20Marsella.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Visconti-sforza-02-popess.jpg
 Commons_category: Popess (Major Arcana)
+title: 🃢 Tarot~02~High_Priestess
 ---
 
 # [[Tarot~02~High_Priestess]] 🃢 

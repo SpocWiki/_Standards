@@ -409,7 +409,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
 - Country
 publish: true
-title: Sierra Leone
+title: 🇸🇱 Sierra Leone
 linkTitle: ''
 keywords: ''
 layout: ''

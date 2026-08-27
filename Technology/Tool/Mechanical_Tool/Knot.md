@@ -171,6 +171,7 @@ aliases:
 - 绳结
 - 매듭
 Unicode_character: 🪢
+title: 🪢 Knot
 ---
 
 # [[Knot]] 🪢 

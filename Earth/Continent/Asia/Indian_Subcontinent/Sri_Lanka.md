@@ -781,7 +781,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
 - Country
 publish: true
-title: Sri Lanka
+title: 🇱🇰 Sri Lanka
 linkTitle: ''
 keywords: ''
 layout: ''

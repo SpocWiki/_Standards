@@ -271,6 +271,7 @@ dv_has_:
     zh_tw: 鎶
     zu: IChusinimbi
 Unicode_character: 鎶
+title: 鎶 Copernicium
 ---
 
 # [[Copernicium]] 鎶 

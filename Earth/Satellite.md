@@ -334,6 +334,7 @@ dv_has_:
     zh_tw: 人造衛星
     zu: Isivoko
 Unicode_character: 🛰
+title: 🛰 Satellite
 ---
 
 # [[Satellite]] 🛰 

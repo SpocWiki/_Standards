@@ -83,7 +83,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
 - Country
 publish: true
-title: Panama
+title: 🇵🇦 Panama
 linkTitle: ''
 keywords: ''
 layout: ''

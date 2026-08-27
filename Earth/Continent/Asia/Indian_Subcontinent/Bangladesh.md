@@ -552,7 +552,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
   - Country
 publish: true
-title: Bangladesh
+title: 🇧🇩 Bangladesh
 linkTitle: ""
 keywords: ""
 layout: ""

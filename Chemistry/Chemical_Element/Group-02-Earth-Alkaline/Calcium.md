@@ -475,6 +475,7 @@ dv_has_number_of_group: 2
 dv_has_name_abbreviated: Ca
 dv_has_number_of_electrons: 20
 Unicode_character: 鈣
+title: 鈣 Calcium
 ---
 
 # [[Calcium]] 鈣 

@@ -208,6 +208,7 @@ aliases:
 - 表演藝術
 - 공연 예술
 Unicode_character: 🎭
+title: 🎭 Performing_Arts
 ---
 
 # [[Performing_Arts]] 🎭 

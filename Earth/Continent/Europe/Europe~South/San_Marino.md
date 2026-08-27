@@ -129,7 +129,7 @@ source: https://datahub.io/core/country-codes
 SpocWebEntityId: 27020
 tags:
   - geo/Country
-title: San Marino
+title: 🇸🇲 San Marino
 type: Country
 dv_ISO4217-currency_alphabetic: EUR
 dv_ISO4217-currency_name: Euro

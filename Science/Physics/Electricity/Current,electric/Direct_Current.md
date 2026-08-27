@@ -210,6 +210,7 @@ dv_has_:
     zh_hk: 直流電
     zh_sg: 直流电
     zh_tw: 直流電
+title: ⎓ Direct_Current
 ---
 
 # [[Direct_Current]] ⎓ 

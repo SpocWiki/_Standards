@@ -599,6 +599,7 @@ dv_has_:
     zh_tw: 太陽
     zu: Ilanga
 Unicode_character: ☉
+title: ☉ The_Sun
 ---
 
 # [[The_Sun]] ☉ 

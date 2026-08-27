@@ -311,6 +311,7 @@ dv_has_:
     zh_sg: 雌性
     zh_tw: 雌性
 Unicode_character: ♀
+title: ♀ Female_Organism
 ---
 
 # [[Female_Organism]] ♀ 

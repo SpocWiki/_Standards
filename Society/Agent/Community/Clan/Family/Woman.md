@@ -541,6 +541,7 @@ dv_has_:
     zh_sg: 女人
     zh_tw: 女人
 Unicode_character: 👩
+title: 👩 Woman
 ---
 
 # [[Woman]] 👩 

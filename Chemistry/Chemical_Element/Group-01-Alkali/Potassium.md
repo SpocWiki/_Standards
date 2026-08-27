@@ -466,6 +466,7 @@ dv_has_number_of_group: 1
 dv_has_name_abbreviated: K
 dv_has_number_of_electrons: 19
 Unicode_character: 鉀
+title: 鉀 Potassium
 ---
 
 # [[Potassium]] 鉀 

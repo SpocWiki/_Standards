@@ -407,6 +407,7 @@ dv_has_number_of_period: 5
 dv_has_number_of_group: 15
 dv_has_name_abbreviated: Sb
 dv_has_number_of_electrons: 51
+title: 銻 Antimony
 ---
 
 # [[Antimony]] 銻 

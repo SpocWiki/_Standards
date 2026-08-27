@@ -81,7 +81,7 @@ aliases:
   - 大猩猩屬
   - 고릴라
   - "{ newTitle: }":
-title:
+title:🦍 Gorilla
   "{ newTitle: }":
 has_id_wikidata: Q36611
 described_by_source:

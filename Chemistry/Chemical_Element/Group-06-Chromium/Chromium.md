@@ -447,6 +447,7 @@ dv_has_name_abbreviated: Cr
 dv_has_number_of_electrons: 24
 dv_has_number_of_group: 6
 Unicode_character: 鉻
+title: 鉻 Chromium
 ---
 
 # [[Chromium]] 鉻 

@@ -334,6 +334,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Actinide/Mendelevium.personal|Mendelevium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Actinide/Mendelevium.secret|Mendelevium.secret]]'
 Unicode_character: 鍆
+title: 鍆 Mendelevium
 ---
 
 # [[Mendelevium]] 鍆 

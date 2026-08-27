@@ -125,7 +125,7 @@ dv_has_:
 # [[Aging]] 
 
 
-#see :: [[../../../../Knowledge/Science/Escape-Velocity/Immortality-Escape-Velocity|Immortality-Escape-Velocity]] 
+#see :: [[../../../../_internal/Mathematics/Algorithm/Process/Escape-Velocity/Immortality-Escape-Velocity|Immortality-Escape-Velocity]] 
 [[/_Standards/WikiData/WD~age,568683|WD~age,568683]] 
 [[/_Standards/WikiData/WD~aging-associated_disease,438962|WD~aging-associated_disease,438962]] 
 [[../../../../_Standards/WikiData/WD~Longevity,1066907|WD~Longevity,1066907]] 

@@ -568,6 +568,7 @@ dv_is_same_as:
   - "[[/_private/Earth/Continent/Antarctica.private|Antarctica.private]]"
   - "[[/_personal/Earth/Continent/Antarctica.personal|Antarctica.personal]]"
   - "[[/_secret/Earth/Continent/Antarctica.secret|Antarctica.secret]]"
+title: 🇦🇶 Antarctica
 ---
 
 # [[Antarctica]] 🇦🇶 

@@ -324,6 +324,7 @@ dv_has_number_of_group: 5
 dv_has_name_abbreviated: Db
 dv_has_number_of_electrons: 105
 Unicode_character: 𨧀
+title: 𨧀 Dubnium
 ---
 
 # [[Dubnium]] 𨧀 

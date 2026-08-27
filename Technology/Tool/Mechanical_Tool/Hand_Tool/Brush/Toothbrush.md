@@ -232,6 +232,7 @@ dv_has_:
     zh-sg: 牙刷
     zh-tw: 牙刷
 Unicode_character: 🪥
+title: 🪥 Toothbrush
 ---
 
 # [[Toothbrush]] 🪥 

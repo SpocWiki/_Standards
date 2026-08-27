@@ -202,6 +202,7 @@ dv_has_:
     zh_sg: 桌球
     zh_tw: 撞球
 Unicode_character: 🎱
+title: 🎱 Cue_Sports
 ---
 
 # [[Cue_Sports]] 🎱 

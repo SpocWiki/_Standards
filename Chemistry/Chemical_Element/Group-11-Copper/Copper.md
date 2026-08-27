@@ -601,6 +601,7 @@ dv_has_number_of_group: 11
 dv_has_name_abbreviated: Cu
 dv_has_number_of_electrons: 29
 Unicode_character: 銅
+title: 銅 Copper
 ---
 
 # [[Copper]] 銅 

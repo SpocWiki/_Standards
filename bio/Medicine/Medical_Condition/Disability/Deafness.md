@@ -328,6 +328,7 @@ dv_has_:
     zh_hant: 聾
     zu: abayizithulu
 Unicode_character: 🧏
+title: 🧏 Deafness
 ---
 
 # [[Deafness]] 🧏 

@@ -350,6 +350,7 @@ dv_has_:
     zh_hans: 河马
     zh_hant: 河馬
     zu: Imvubu
+title: \U0001F99B Hippopotamus
 ---
 
 # [[Hippopotamus]] 🦛 

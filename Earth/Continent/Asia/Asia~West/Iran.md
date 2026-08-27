@@ -1025,7 +1025,7 @@ subreddit:
 suicide_rate: 5.1
 tags:
   - geo/Country
-title: Iran
+title: 🇮🇷 Iran
 topic_s_main_template:
   - "[[/_Standards/WikiData/WD~Template_Provinces_of_Iran,5626766|WD~Template_Provinces_of_Iran,5626766]]"
 topic_s_main_Wikimedia_portal: "[[/_Standards/WikiData/WD~Portal_Iran,10815236|WD~Portal_Iran,10815236]]"

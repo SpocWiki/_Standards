@@ -244,6 +244,7 @@ dv_has_:
     zh_hans: 鬼
     zh_hant: 鬼
 Unicode_character: 👻
+title: 👻 Ghost
 ---
 
 # [[Ghost]] 👻 

@@ -373,6 +373,7 @@ dv_is_same_as:
 - '[[/_secret/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.secret|Tellurium.secret]]'
 dv_has_name_abbreviated: Te
 dv_has_number_of_electrons: 53
+title: 碲 Tellurium
 ---
 
 # [[Tellurium]] 碲 

@@ -180,6 +180,7 @@ dv_has_:
     zh_sg: 滑雪板
     zh_tw: 滑雪板
 Unicode_character: 🎿
+title: 🎿 Ski
 ---
 
 # [[Ski]] 🎿 

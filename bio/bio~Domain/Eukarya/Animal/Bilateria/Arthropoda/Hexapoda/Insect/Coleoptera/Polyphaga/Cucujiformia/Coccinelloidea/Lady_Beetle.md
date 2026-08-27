@@ -277,6 +277,7 @@ dv_has_:
     zh_cn: 瓢虫科
     zh_hans: 瓢虫科
     zh_tw: 瓢蟲科
+title: \U0001F41E Lady_Beetle
 ---
 
 # [[Lady_Beetle]]  🐞 

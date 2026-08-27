@@ -163,7 +163,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
 - Country
 publish: true
-title: Mexico
+title: 🇲🇽 Mexico
 linkTitle: ''
 keywords: ''
 layout: ''

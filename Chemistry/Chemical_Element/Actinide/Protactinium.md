@@ -354,6 +354,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Actinide/Protactinium.personal|Protactinium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Actinide/Protactinium.secret|Protactinium.secret]]'
 Unicode_character: 鏷
+title: 鏷 Protactinium
 ---
 
 # [[Protactinium]] 鏷 

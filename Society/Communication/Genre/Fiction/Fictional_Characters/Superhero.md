@@ -229,6 +229,7 @@ dv_has_:
     zh_tw: 超級英雄
     zu: IMbudle
 Unicode_character: 🦸
+title: 🦸 Superhero
 ---
 
 # [[Superhero]] 🦸 

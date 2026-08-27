@@ -241,6 +241,7 @@ dv_has_:
     zh_hans: 愤怒
     zh_hant: 憤怒
 Unicode_character: 💢
+title: 💢 Anger
 ---
 
 # [[Anger]] 💢 

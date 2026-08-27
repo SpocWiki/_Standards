@@ -198,6 +198,7 @@ dv_has_:
     yue: 牙轆
     za: Loekgawq
     zh: 齿轮
+title: ⚙ Cogwheel
 ---
 
 # [[Cogwheel]] ⚙ 

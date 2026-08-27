@@ -242,6 +242,7 @@ dv_has_:
     zh_hk: 平方根
     zh_sg: 平方根
     zh_tw: 平方根
+title: √ Square_Root
 ---
 
 # [[Square_Root]] √ 

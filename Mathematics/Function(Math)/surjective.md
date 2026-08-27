@@ -127,7 +127,7 @@ dv_has_:
 
 # [[surjective]]  
 
-#is_/same_as :: [[Epimorphism]]
+#is_/same_as :: [[../../../_internal/Mathematics/Category_Theory/Epimorphism]]
 
 Any function can be decomposed into a [[surjection]] composed with an [[injective]].
 

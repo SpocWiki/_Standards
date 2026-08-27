@@ -172,7 +172,7 @@ publishDate: ''
 tags:
 - class/Class
 - schema-org/Class
-title: is_a_hospital Class
+title: 🏥 is_a_hospital Class
 type: Type
 dv_has_:
   name_:

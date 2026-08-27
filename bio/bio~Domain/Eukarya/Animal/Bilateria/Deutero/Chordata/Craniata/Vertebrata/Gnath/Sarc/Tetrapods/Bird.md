@@ -310,7 +310,7 @@ this_taxon_is_source_of:
   - "[[/_Standards/WikiData/WD~feather,50998618|WD~feather,50998618]]"
   - "[[/_Standards/WikiData/WD~bird_faeces,118868277|WD~bird_faeces,118868277]]"
   - "[[/_Standards/WikiData/WD~meat,10990|WD~meat,10990]]"
-title: Aves
+title: 🐦 Aves
 topic_s_main_template: "[[/_Standards/WikiData/WD~Template_Birds,6719357|WD~Template_Birds,6719357]]"
 topic_s_main_Wikimedia_portal: "[[/_Standards/WikiData/WD~Portal_Birds,4162252|WD~Portal_Birds,4162252]]"
 UMLS_CUI: C0005595

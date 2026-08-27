@@ -486,6 +486,7 @@ dv_has_:
     zh_tw: 愛
     zu: Uthando
 Unicode_character: ❤
+title: ❤ Love
 ---
 
 # [[Love]] ❤ 

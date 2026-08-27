@@ -822,7 +822,7 @@ studied_in: '[[/_Standards/WikiData/WD~Libyan_studies,115669714|WD~Libyan_studie
 subreddit: Libya
 tags:
 - geo/Country
-title: Libya
+title: 🇱🇾 Libya
 topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Libya,4753798|WD~Portal_Libya,4753798]]'
 top_level_Internet_domain: '[[/_Standards/WikiData/WD~.ly,42035|WD~.ly,42035]]'
 total_fertility_rate: 2.467

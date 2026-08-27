@@ -337,6 +337,7 @@ dv_has_:
     zh_hant: 龍捲風
     zh_hk: 龍捲風
 Unicode_character: 🌪
+title: 🌪 Tornado
 ---
 
 # [[Tornado]] 🌪 

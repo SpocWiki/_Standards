@@ -136,6 +136,7 @@ dv_has_:
     wa: Djeu d' beyes
     yue: 保齡
     zh: 保齡球運動
+title: 🎳 Bowling
 ---
 
 # [[Bowling]] 🎳 

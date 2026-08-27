@@ -343,6 +343,7 @@ dv_has_number_of_group: 4
 dv_has_number_of_electrons: 104
 dv_has_name_abbreviated: Ru
 Unicode_character: 鑪
+title: 鑪 Rutherfordium
 ---
 
 # [[Rutherfordium]] 鑪 

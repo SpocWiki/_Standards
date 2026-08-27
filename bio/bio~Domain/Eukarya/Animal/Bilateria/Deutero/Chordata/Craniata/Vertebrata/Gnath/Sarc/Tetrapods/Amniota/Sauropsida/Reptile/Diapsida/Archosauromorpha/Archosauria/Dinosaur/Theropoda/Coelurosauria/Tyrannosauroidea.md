@@ -128,7 +128,7 @@ taxon_common_name:
 taxon_name: Tyrannosaurus
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/T.%20rex%20Distribution%20PBDB.png
 taxon_rank: '[[/_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
-title: Tyrannosauroidea
+title: \U0001F996 Tyrannosauroidea
 UMLS_CUI: C1910436
 Unicode_character: "\U0001F996"
 Wolfram_Language_entity_code: Entity["Dinosaur", "Genus:Tyrannosaurus"]

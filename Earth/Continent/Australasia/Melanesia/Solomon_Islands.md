@@ -224,7 +224,7 @@ source: https://datahub.io/core/country-codes
 SpocWebEntityId: 27010
 tags:
 - geo/Country
-title: Solomon Islands
+title: 🇸🇧 Solomon Islands
 type: Country
 dv_ISO4217-currency_alphabetic: SBD
 dv_ISO4217-currency_name: Solomon Islands Dollar

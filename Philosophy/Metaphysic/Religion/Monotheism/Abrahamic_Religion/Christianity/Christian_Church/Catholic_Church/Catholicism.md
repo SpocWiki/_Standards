@@ -332,6 +332,7 @@ dv_has_:
     zh-my: 天主教
     zh_sg: 天主教
     zh_tw: 天主教
+title: ✝ Catholicism
 ---
 
 # [[Catholicism]] ✝ 

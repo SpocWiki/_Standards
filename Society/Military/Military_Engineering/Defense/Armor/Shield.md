@@ -221,6 +221,7 @@ dv_has_:
     zh_sg: 盾
     zh_tw: 盾
 Unicode_character: 🛡
+title: 🛡 Shield
 ---
 
 # [[Shield]] 🛡 

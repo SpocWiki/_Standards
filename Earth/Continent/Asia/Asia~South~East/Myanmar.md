@@ -148,7 +148,7 @@ source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26963
 tags:
 - geo/Country
-title: Myanmar
+title: 🇲🇲 Myanmar
 type: Country
 dv_ISO4217-currency_alphabetic: MMK
 dv_ISO4217-currency_name: Kyat

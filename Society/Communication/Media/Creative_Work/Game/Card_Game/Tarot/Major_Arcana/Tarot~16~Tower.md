@@ -11,6 +11,7 @@ depicts:
 instance_of: "[[/_Standards/WikiData/WD~playing_card,47883|WD~playing_card,47883]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/RWS%20Tarot%2016%20Tower.jpg
 Commons_category: Tower (Major Arcana)
+title: 🃰 Tarot~16~Tower
 ---
 
 # [[Tarot~16~Tower]] 🃰 

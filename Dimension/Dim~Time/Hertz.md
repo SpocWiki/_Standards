@@ -187,6 +187,7 @@ dv_has_:
     zh: 赫兹
     zh_hant: 赫茲
     zh_tw: 赫茲
+title: ㎐ Hertz
 ---
 
 # [[Hertz]] ㎐ 

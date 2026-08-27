@@ -1090,7 +1090,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
 - Country
 publish: true
-title: Malaysia
+title: 🇲🇾 Malaysia
 linkTitle: ''
 keywords: ''
 layout: ''

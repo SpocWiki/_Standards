@@ -223,6 +223,7 @@ dv_has_:
     zh_hans: 王爵
     zh_hant: 王爵
 Unicode_character: 🤴
+title: 🤴 Prince
 ---
 
 # [[Prince]] 🤴 

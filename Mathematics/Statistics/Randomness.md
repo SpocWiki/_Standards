@@ -124,6 +124,7 @@ aliases:
 - 隨機性
 - 무작위
 Unicode_character: 🔀
+title: 🔀 Randomness
 ---
 
 # [[Randomness]] 🔀 

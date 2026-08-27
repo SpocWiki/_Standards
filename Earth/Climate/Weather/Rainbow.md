@@ -455,6 +455,7 @@ dv_has_:
     zh_hk: 彩虹
     zh_tw: 彩虹
 Unicode_character: 🌈
+title: 🌈 Rainbow
 ---
 
 # [[Rainbow]] 🌈 

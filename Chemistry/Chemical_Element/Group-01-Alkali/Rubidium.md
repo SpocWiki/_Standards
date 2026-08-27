@@ -387,6 +387,7 @@ dv_has_number_of_group: 1
 dv_has_name_abbreviated: Rb
 dv_has_number_of_electrons: 37
 Unicode_character: 銣
+title: 銣 Rubidium
 ---
 
 # [[Rubidium]] 銣 

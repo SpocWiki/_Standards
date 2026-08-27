@@ -359,7 +359,7 @@ studied_in: '[[/_Standards/WikiData/WD~Gambian_studies,115669443|WD~Gambian_stud
 subreddit: Gambia
 tags:
 - geo/Country
-title: Gambia
+title: 🇬🇲 Gambia
 topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_The_Gambia,11288146|WD~Portal_The_Gambia,11288146]]'
 top_level_Internet_domain: '[[/_Standards/WikiData/WD~.gm,41758|WD~.gm,41758]]'
 total_fertility_rate: 5.717

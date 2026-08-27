@@ -208,6 +208,7 @@ dv_has_:
     zh_hk: 帳篷
     zh_sg: 帐篷
     zh_tw: 帳篷
+title: ⛺ Tent
 ---
 
 # [[Tent]] ⛺ 

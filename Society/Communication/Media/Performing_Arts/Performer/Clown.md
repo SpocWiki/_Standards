@@ -229,6 +229,7 @@ dv_has_:
     zh_sg: 小丑
     zh_tw: 小丑
 Unicode_character: 🤡
+title: 🤡 Clown
 ---
 
 # [[Clown]] 🤡 

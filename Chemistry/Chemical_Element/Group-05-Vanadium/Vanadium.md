@@ -414,6 +414,7 @@ dv_has_number_of_group: 5
 dv_has_name_abbreviated: V
 dv_has_number_of_electrons: 23
 Unicode_character: 釩
+title: 釩 Vanadium
 ---
 
 # [[Vanadium]] 釩 

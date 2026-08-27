@@ -229,6 +229,7 @@ dv_has_:
     zh_cn: 鸟神星
     zh_hans: 鸟神星
     zh_hant: 鸟神星
+title: \U0001F77C Makemake
 ---
 
 # [[Makemake]] 🝼 

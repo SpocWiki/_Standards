@@ -192,6 +192,7 @@ dv_has_:
     yue: 雪橇
     zh: 雪橇
 Unicode_character: 🛷
+title: 🛷 Sled
 ---
 
 # [[Sled]] 🛷 

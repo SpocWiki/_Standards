@@ -951,6 +951,7 @@ Commons_gallery: Bosna i Hercegovina / Босна и Херцеговина
 GitHub_topic: bosnia-and-herzegovina
 CIVICUS_Monitor_country_entry: bosnia-herzegovina
 hashtag: BosniaandHerzegovina
+title: 🇧🇦 Bosnia-Herzegovina
 ---
 
 # [[Bosnia-Herzegovina]] 🇧🇦 
