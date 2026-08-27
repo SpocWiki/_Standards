@@ -334,6 +334,7 @@ dv_has_number_of_period: 7
 dv_has_number_of_group: 36
 dv_has_name_abbreviated: No
 dv_has_number_of_electrons: 102
+title: 鍩 Nobelium
 ---
 
 # [[Nobelium]] 鍩 

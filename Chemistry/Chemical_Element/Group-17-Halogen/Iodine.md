@@ -413,6 +413,7 @@ dv_has_number_of_period: 5
 dv_has_number_of_group: 17
 dv_has_name_abbreviated: I
 dv_has_number_of_electrons: 52
+title: 碘 Iodine
 ---
 
 # [[Iodine]] 碘 

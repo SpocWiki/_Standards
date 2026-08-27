@@ -218,6 +218,7 @@ dv_has_:
     zh_hk: 磅
     zh_sg: 磅
     zh_tw: 磅
+title: ℔ Unit~Pound
 ---
 
 # [[Unit~Pound]] ℔ 

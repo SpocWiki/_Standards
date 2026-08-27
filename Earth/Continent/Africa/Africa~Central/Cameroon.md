@@ -1068,7 +1068,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
   - Country
 publish: true
-title: Cameroon
+title: 🇨🇲 Cameroon
 linkTitle: ""
 keywords: ""
 layout: ""

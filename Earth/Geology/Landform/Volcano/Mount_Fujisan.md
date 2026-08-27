@@ -97,6 +97,7 @@ nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Night%20view%
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Position%20of%20Mount%20Fuji.png
 panoramic_view: http://commons.wikimedia.org/wiki/Special:FilePath/Sommet-Fuji.jpg
 official_website: https://www.fujisan.ne.jp/
+title: 🗻 Mount_Fujisan
 ---
 
 # [[Mount_Fujisan]] 

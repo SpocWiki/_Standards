@@ -217,6 +217,7 @@ dv_has_:
     zh_hans: 独角兽
     zh_hant: 獨角獸
 Unicode_character: 🦄
+title: 🦄 Unicorn
 ---
 
 # [[Unicorn]] 🦄 

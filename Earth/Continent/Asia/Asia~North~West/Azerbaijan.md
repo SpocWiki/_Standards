@@ -211,7 +211,7 @@ source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26840
 tags:
 - geo/Country
-title: Azerbaijan
+title: 🇦🇿 Azerbaijan
 type: Country
 dv_has_:
   name_:

@@ -351,6 +351,7 @@ dv_has_:
     zh_hans: 窗
     zh_hant: 窗
 Unicode_character: 🪟
+title: 🪟 Window
 ---
 
 # [[Window]] 🪟 

@@ -177,6 +177,7 @@ dv_has_:
     zh-sg: 无轨电车
     zh-tw: 無軌電車
 Unicode_character: 🚎
+title: 🚎 Trolleybus
 ---
 
 # [[Trolleybus]] 🚎 

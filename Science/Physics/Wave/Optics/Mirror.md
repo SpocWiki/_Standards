@@ -281,6 +281,7 @@ aliases:
 - 镜
 - 거울
 Unicode_character: 🪞
+title: 🪞 Mirror
 ---
 
 # [[Mirror]] 🪞 

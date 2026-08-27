@@ -381,6 +381,7 @@ aliases:
 - 사막
 - "\U00010330\U0001033F\U00010338\U00010339\U00010333\U00010330"
 Unicode_character: 🏜
+title: 🏜 Desert
 ---
 
 # [[Desert]] 🏜 

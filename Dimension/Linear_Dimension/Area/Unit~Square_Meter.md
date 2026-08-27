@@ -293,6 +293,7 @@ dv_has_:
     zh-my: 平方米
     zh_sg: 平方米
     zh_tw: 平方公尺
+title: ㎡ Unit~Square_Meter
 ---
 
 # [[Unit~Square_Meter]] ㎡ 

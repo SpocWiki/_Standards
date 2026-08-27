@@ -523,7 +523,7 @@ isReadOnly: false
 source: https://datahub.io/core/country-codes
 cssclasses: Country
 publish: true
-title: Marshall Islands
+title: 🇲🇭 Marshall Islands
 linkTitle: ''
 keywords: ''
 layout: ''

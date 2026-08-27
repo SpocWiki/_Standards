@@ -866,6 +866,7 @@ dv_has_:
     zh_tw: 聯合國
     zu: Amazwe Ohlangeneyo
 Unicode_character: 🇺🇳
+title: 🇺🇳 UN(United_Nations)
 ---
 # [[UN(United_Nations)]] 🇺🇳
 

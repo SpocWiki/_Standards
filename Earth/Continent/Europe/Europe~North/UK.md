@@ -275,7 +275,7 @@ aliases:
 - ꯌꯨꯅꯥꯢꯇꯦꯗ ꯀꯤꯡꯗꯝ
 - 영국
 has_id_wikidata: Q145
-title: UK
+title: 🇬🇧 UK
 type: Country
 location:
 - 52.8829

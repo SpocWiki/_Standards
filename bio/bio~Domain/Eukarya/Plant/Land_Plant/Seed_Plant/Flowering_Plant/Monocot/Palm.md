@@ -98,7 +98,7 @@ aliases:
 - 棕櫚科
 - 종려과
 has_id_wikidata: Q14080
-title: Arecanae
+title: 🌴 Arecanae
 dv_has_:
   name_:
     af: Arecaceae

@@ -354,6 +354,7 @@ dv_has_number_of_period: 6
 dv_has_number_of_group: 32
 dv_has_name_abbreviated: Dy
 dv_has_number_of_electrons: 66
+title: 鏑 Dysprosium
 ---
 
 # [[Dysprosium]] 鏑 

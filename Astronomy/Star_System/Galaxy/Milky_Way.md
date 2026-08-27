@@ -586,6 +586,7 @@ dv_has_:
     zh_sg: 银河系
     zh_tw: 銀河系
     zu: UmZilafasimbe
+title: \U0001F30C Milky_Way
 ---
 
 # [[Milky_Way]] 🌌 

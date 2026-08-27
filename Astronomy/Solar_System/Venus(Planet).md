@@ -571,6 +571,7 @@ dv_has_:
     zh_sg: 金星
     zh_tw: 金星
     zu: UVenusi
+title: ♀ Venus(Planet)
 ---
 
 # [[Venus(Planet)]] ♀ 

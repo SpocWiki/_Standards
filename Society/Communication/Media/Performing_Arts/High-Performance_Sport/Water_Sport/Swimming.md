@@ -279,6 +279,7 @@ dv_has_:
     zh: 人類游泳
     zh_hans: 游泳
 Unicode_character: 🏊
+title: 🏊 Swimming
 ---
 
 # [[Swimming]] 🏊 

@@ -408,7 +408,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
 - Country
 publish: true
-title: Guinea-Bissau
+title: 🇬🇼 Guinea-Bissau
 linkTitle: ''
 keywords: ''
 layout: ''

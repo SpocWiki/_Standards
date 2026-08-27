@@ -283,6 +283,7 @@ dv_has_:
     zh-sg: 显微镜
     zh-tw: 顯微鏡
 Unicode_character: 🔬
+title: 🔬 Microscope
 ---
 
 # [[Microscope]] 🔬 

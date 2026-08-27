@@ -408,6 +408,7 @@ dv_has_number_of_period: 2
 dv_has_number_of_group: 13
 dv_has_name_abbreviated: B
 dv_has_number_of_electrons: 5
+title: 硼 Boron
 ---
 
 # [[Boron]] 硼 

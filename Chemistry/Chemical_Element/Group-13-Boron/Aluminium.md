@@ -546,6 +546,7 @@ dv_has_number_of_group: 13
 dv_has_name_abbreviated: Al
 dv_has_number_of_electrons: 13
 Unicode_character: 鋁
+title: 鋁 Aluminium
 ---
 
 # [[Aluminium]] 鋁 

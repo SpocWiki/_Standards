@@ -230,6 +230,7 @@ dv_has_:
     zh_cn: 水母
     zh_hans: 水母
 Unicode_character: 🪼
+title: 🪼 Jellyfish
 ---
 
 # [[Jellyfish]] 🪼 

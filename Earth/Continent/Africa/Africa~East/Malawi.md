@@ -369,7 +369,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
 - Country
 publish: true
-title: Malawi
+title: 🇲🇼 Malawi
 linkTitle: ''
 keywords: ''
 layout: ''

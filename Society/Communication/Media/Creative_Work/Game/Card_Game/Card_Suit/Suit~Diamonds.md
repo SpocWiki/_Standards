@@ -18,6 +18,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/SuitDiamonds.svg
 TeX_string: \diamondsuit
 Commons_category: Diamonds (playing cards)
 Unicode_character: ♦
+title: ♦ Suit~Diamonds
 ---
 
 # [[Suit~Diamonds]] <span style=color:red>♦</span> 

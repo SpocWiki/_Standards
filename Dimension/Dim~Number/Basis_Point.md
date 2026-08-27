@@ -99,6 +99,7 @@ dv_has_:
     zh_hant: 萬分率
     zh_hk: 萬分率
     zh_tw: 基本點
+title: ‱ Basis_Point
 ---
 
 # [[Basis_Point]] ‱ 

@@ -386,6 +386,7 @@ dv_is_same_as:
 - '[[/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.secret|Argon.secret]]'
 dv_has_name_abbreviated: Ar
 dv_has_number_of_electrons: 18
+title: 氬 Argon
 ---
 
 # [[Argon]] 氬 

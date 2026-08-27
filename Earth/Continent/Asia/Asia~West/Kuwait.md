@@ -501,7 +501,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
 - Country
 publish: true
-title: Kuwait
+title: 🇰🇼 Kuwait
 linkTitle: ''
 keywords: ''
 layout: ''

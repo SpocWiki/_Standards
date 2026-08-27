@@ -423,6 +423,7 @@ dv_has_:
     zh_hk: 鼻
     zh_tw: 鼻
 Unicode_character: 👃
+title: 👃 Nose
 ---
 
 # [[Nose]] 👃 

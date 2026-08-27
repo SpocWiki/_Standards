@@ -231,6 +231,7 @@ dv_has_:
     zh-sg: 高速公路
     zh-tw: 高速公路
 Unicode_character: 🛣
+title: 🛣 Controlled-Access_Highway
 ---
 
 # [[Controlled-Access_Highway]] 🛣 

@@ -159,6 +159,7 @@ dv_has_:
     war: Rasyo
     zh: 率
     zh_hant: 比率
+title: ∶ Dim~Ratio
 ---
 
 # [[Dim~Ratio]] ∶ 

@@ -156,6 +156,7 @@ dv_has_:
     zh_sg: 千分比
     zh_tw: 千分比
 Unicode_character: ‰
+title: ‰ Unit~Permille
 ---
 
 # [[Unit~Permille]] ‰ 

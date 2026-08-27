@@ -360,6 +360,7 @@ dv_is_same_as:
 - '[[/_private/Chemistry/Chemical_Element/Actinide/Thorium.private|Thorium.private]]'
 - '[[/_personal/Chemistry/Chemical_Element/Actinide/Thorium.personal|Thorium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Actinide/Thorium.secret|Thorium.secret]]'
+title: 釷 Thorium
 ---
 
 # [[Thorium]] 釷 

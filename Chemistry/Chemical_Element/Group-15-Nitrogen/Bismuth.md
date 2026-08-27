@@ -366,6 +366,7 @@ dv_has_number_of_period: 6
 dv_has_number_of_group: 15
 dv_has_name_abbreviated: Bi
 dv_has_number_of_electrons: 83
+title: 鉍 Bismuth
 ---
 
 # [[Bismuth]] 鉍 

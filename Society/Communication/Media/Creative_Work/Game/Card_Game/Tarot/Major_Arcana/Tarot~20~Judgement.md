@@ -7,6 +7,7 @@ part_of: "[[/_Standards/WikiData/WD~Major_Arcana,11158357|WD~Major_Arcana,111583
 instance_of: "[[/_Standards/WikiData/WD~playing_card,47883|WD~playing_card,47883]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jugement%20tarot%20charles6.jpg
 Commons_category: Judgement (Major Arcana)
+title: 🃴 Tarot~20~Judgement
 ---
 
 # [[Tarot~20~Judgement]] 🃴 

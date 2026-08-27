@@ -520,6 +520,7 @@ dv_has_:
     zh_sg: 犹太教
     zh_tw: 猶太教
     zu: UbuJuda
+title: ✡ Judaism
 ---
 
 # [[Judaism]] ✡ 

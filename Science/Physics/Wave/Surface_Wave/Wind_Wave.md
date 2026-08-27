@@ -203,6 +203,7 @@ dv_has_:
     zh_sg: 海浪
     zh_tw: 海浪
 Unicode_character: 🌊
+title: 🌊 Wind_Wave
 ---
 
 # [[Wind_Wave]] 🌊 

@@ -1117,7 +1117,7 @@ short_name: AUS
 type: Country
 tags:
   - geo/Country
-title: Australia
+title: 🇦🇺 Australia
 topic_s_main_Wikimedia_portal: "[[/_Standards/WikiData/WD~Portal_Australia,3248546|WD~Portal_Australia,3248546]]"
 topic_s_main_template: "[[/_Standards/WikiData/WD~Template_Australia_topics,11010674|WD~Template_Australia_topics,11010674]]"
 top_level_Internet_domain: "[[/_Standards/WikiData/WD~.au,37420|WD~.au,37420]]"

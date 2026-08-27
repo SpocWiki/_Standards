@@ -331,6 +331,7 @@ dv_has_:
     zh_hk: 熊貓
     zh_tw: 大貓熊
 Unicode_character: 🐼
+title: 🐼 Giant_Panda
 ---
 
 # [[Giant_Panda]] 🐼 

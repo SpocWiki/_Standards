@@ -393,6 +393,7 @@ dv_has_:
     zh_hans: 北极熊
     zh_tw: 北極熊
 Unicode_character: 🐻❄️
+title: 🐻❄️ Polar_Bear
 ---
 
 # [[Polar_Bear]] 🐻❄️ 

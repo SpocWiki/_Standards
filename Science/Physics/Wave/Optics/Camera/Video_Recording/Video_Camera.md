@@ -134,6 +134,7 @@ dv_has_:
     zh_hk: 攝影機
     zh_tw: 攝影機
 Unicode_character: 📹
+title: 📹 Video_Camera
 ---
 
 # [[Video_Camera]] 📹 

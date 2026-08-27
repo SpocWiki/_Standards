@@ -62,7 +62,7 @@ aliases:
 - 小蝙蝠亞目
 - 작은박쥐류
 has_id_wikidata: Q971343
-title: Microchiroptera
+title: 🦇 Microchiroptera
 taxon_rank: '[[/_Standards/WikiData/WD~suborder,5867959|WD~suborder,5867959]]'
 described_by_source:
 - '[[/_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'

@@ -266,6 +266,7 @@ dv_has_:
     zh_mo: 公頃
     zh-my: 公顷
     zh_sg: 公顷
+title: ㏊ Hectare
 ---
 
 # [[Hectare]] ㏊ 

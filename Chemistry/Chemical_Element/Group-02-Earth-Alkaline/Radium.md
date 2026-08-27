@@ -371,6 +371,7 @@ dv_is_same_as:
 dv_has_name_abbreviated: Ra
 dv_has_number_of_electrons: 88
 Unicode_character: 鐳
+title: 鐳 Radium
 ---
 
 # [[Radium]] 鐳 

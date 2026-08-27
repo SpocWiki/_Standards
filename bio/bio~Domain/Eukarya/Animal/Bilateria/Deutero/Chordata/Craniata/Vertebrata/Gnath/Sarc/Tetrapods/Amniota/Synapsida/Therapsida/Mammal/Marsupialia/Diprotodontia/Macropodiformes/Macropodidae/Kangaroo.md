@@ -265,6 +265,7 @@ aliases:
 - ꯀꯪꯒꯥꯔꯨ
 - 캥거루
 Unicode_character: 🦘
+title: 🦘 Kangaroo
 ---
 
 # [[Kangaroo]] 🦘 

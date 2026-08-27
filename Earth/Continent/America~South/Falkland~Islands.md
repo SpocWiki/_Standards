@@ -476,6 +476,7 @@ MeSH_tree_code: Z01.639.040.695
 booru_tag: falkland_islands
 hashtag_: falklands
 Unicode_character: 🇫🇰
+title: 🇫🇰 Falkland~Islands
 ---
 
 # [[Falkland~Islands]] 🇫🇰 

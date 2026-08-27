@@ -681,7 +681,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
 - Country
 publish: true
-title: South Africa
+title: 🇿🇦 South Africa
 linkTitle: ''
 keywords: ''
 layout: ''

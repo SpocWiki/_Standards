@@ -85,7 +85,7 @@ publishDate: ''
 tags:
 - class/Class
 - schema-org/Class
-title: is_a_synagogue Class
+title: 🕍 is_a_synagogue Class
 type: Type
 religion_or_worldview:
 - '[[/_Standards/WikiData/WD~Samaritan,182651|WD~Samaritan,182651]]'

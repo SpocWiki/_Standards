@@ -589,7 +589,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
 - Country
 publish: true
-title: Colombia
+title: 🇨🇴 Colombia
 linkTitle: ''
 keywords: ''
 layout: ''

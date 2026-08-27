@@ -100,7 +100,7 @@ publishDate: ''
 tags:
 - class/Class
 - schema-org/Class
-title: is_a_hotel Class
+title: 🏨 is_a_hotel Class
 type: Type
 dv_has_:
   name_:

@@ -220,6 +220,7 @@ dv_has_:
     yue: 吸血鬼
     zh: 吸血鬼
 Unicode_character: 🧛
+title: 🧛 Vampire
 ---
 
 # [[Vampire]] 🧛 

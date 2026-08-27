@@ -224,6 +224,7 @@ dv_has_:
     yue: 算盤
     zh: 算盘
 Unicode_character: 🧮
+title: 🧮 Abacus
 ---
 
 # [[Abacus]] 🧮 

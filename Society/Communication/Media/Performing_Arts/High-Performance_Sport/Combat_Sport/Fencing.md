@@ -252,6 +252,7 @@ dv_has_:
     zh_sg: 击剑
     zh_tw: 擊劍
 Unicode_character: 🤺
+title: 🤺 Fencing
 ---
 
 # [[Fencing]] 🤺 

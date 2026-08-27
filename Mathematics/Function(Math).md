@@ -346,9 +346,9 @@ unary Functions can also be used to represent (upward-navigable) Trees.
 
 ## Relations are List-Valued Functions 
 
-[[Relation(Math)]]s can be represented as List-Valued Functions e.g. in [[Category_Theory.internal/LINQ|LINQ]] and [[../../IT/Data/DataBase/DB~Design/DB~Relations|DB~Relations]], 
+[[Relation(Math)]]s can be represented as List-Valued Functions e.g. in [[../../_internal/Mathematics/Category_Theory/LINQ|LINQ]] and [[../../IT/Data/DataBase/DB~Design/DB~Relations|DB~Relations]], 
 unifying both, except that Functions take a single, scalar Argument and not a variadic List, 
-so that Relations and list-valued Functions are chained using [[Category_Theory.internal/LINQ/SelectMany|SelectMany]]. 
+so that Relations and list-valued Functions are chained using [[../../_internal/Mathematics/Category_Theory/LINQ/SelectMany|SelectMany]]. 
 
 They are usually represented using IDictionary{TKey, IList{TValue}}, 
 or equivalently ILookup{TKey, TValue}. 

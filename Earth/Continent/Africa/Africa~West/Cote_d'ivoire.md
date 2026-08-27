@@ -913,6 +913,7 @@ dv_is_same_as:
 - "[[/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.personal|Cote_d'ivoire.personal]]"
 - "[[/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.secret|Cote_d'ivoire.secret]]"
 Unicode_character: 🇨🇮
+title: 🇨🇮 Cote_d'ivoire
 ---
 
 # [[Cote_d'ivoire]] 🇨🇮 

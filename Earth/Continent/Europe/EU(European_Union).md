@@ -589,6 +589,7 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/Europe/EU(European_Union).personal|EU(European_Union).personal]]'
 - '[[/_secret/Earth/Continent/Europe/EU(European_Union).secret|EU(European_Union).secret]]'
 Unicode_character: 🇪🇺
+title: 🇪🇺 EU(European_Union)
 ---
 
 # [[EU(European_Union)]] 🇪🇺 

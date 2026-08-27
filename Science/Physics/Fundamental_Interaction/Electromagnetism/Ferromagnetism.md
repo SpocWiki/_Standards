@@ -156,6 +156,7 @@ dv_has_:
     zh_sg: 铁磁性
     zh_tw: 鐵磁性
 Unicode_character: 🧲
+title: 🧲 Ferromagnetism
 ---
 
 # [[Ferromagnetism]] 🧲 

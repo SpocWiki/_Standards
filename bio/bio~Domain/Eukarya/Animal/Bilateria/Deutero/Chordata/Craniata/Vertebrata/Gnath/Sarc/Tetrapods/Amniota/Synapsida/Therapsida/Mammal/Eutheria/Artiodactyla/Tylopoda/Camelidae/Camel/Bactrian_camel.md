@@ -315,6 +315,7 @@ dv_has_:
     zh_sg: 双峰骆驼
     zh_tw: 雙峰駱駝
 Unicode_character: 🐫
+title: 🐫 Bactrian_camel
 ---
 
 # [[Bactrian_camel]] 🐫 

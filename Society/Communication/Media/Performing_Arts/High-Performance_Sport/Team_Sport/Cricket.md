@@ -284,6 +284,7 @@ dv_has_:
     zh_tw: 板球
     zu: Ikhilikithi
 Unicode_character: 🏏
+title: 🏏 Cricket
 ---
 
 # [[Cricket]] 🏏 

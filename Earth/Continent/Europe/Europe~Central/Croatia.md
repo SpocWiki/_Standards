@@ -954,7 +954,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
 - Country
 publish: true
-title: Croatia
+title: 🇭🇷 Croatia
 linkTitle: ''
 keywords: ''
 layout: ''

@@ -336,6 +336,7 @@ dv_has_:
     zh-my: 锡克教
     zh_sg: 锡克教
     zh_tw: 錫克教
+title: ☬ Sikhism
 ---
 
 # [[Sikhism]] ☬ 

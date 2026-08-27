@@ -392,6 +392,7 @@ dv_has_:
     zgh: ⴰⴱⵍⴽⵉⵎ
     zh: 原子
     zu: IChwe
+title: ⚛ Atom
 ---
 
 # [[Atom]] ⚛ 

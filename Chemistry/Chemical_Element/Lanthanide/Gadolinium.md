@@ -337,6 +337,7 @@ dv_has_number_of_period: 6
 dv_has_number_of_group: 30
 dv_has_name_abbreviated: Gd
 dv_has_number_of_electrons: 64
+title: 釓 Gadolinium
 ---
 
 # [[Gadolinium]] 釓 

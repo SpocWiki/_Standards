@@ -332,6 +332,7 @@ dv_has_:
     zh_sg: 网球
     zh_tw: 網球
 Unicode_character: 🎾
+title: 🎾 Tennis
 ---
 
 # [[Tennis]] 🎾 

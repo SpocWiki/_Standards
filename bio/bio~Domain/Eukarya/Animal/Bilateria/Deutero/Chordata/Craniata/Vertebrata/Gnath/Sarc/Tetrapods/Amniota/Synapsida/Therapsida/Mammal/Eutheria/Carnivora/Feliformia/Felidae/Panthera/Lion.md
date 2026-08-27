@@ -672,6 +672,7 @@ dv_has_:
     zh_tw: 獅
     zu: ibhubesi
 Unicode_character: 🦁
+title: 🦁 Lion
 ---
 
 # [[Lion]] 🦁 

@@ -357,6 +357,7 @@ dv_has_:
     zh: 輪
     zu: isondo
 Unicode_character: 🛞
+title: 🛞 Wheel
 ---
 
 # [[Wheel]] 🛞 

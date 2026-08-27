@@ -31,7 +31,7 @@ tags:
   - schema-org/Property/Durations
   - "{ newTitle: }":
   - excalidraw
-title:
+title:⏱️ has_duration
   "{ newTitle: }":
 type: private_note
 dv_is_:

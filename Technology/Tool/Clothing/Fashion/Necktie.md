@@ -225,6 +225,7 @@ dv_has_:
     zh-hant: 領帶
     zh-tw: 領帶
 Unicode_character: 👔
+title: 👔 Necktie
 ---
 
 # [[Necktie]] 👔 

@@ -10,6 +10,7 @@ depicts:
 instance_of: "[[/_Standards/WikiData/WD~playing_card,47883|WD~playing_card,47883]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cary-Yale%20Tarot%20deck%20-%20The%20Emperor.jpg
 Commons_category: Emperor (Major Arcana)
+title: 🃤 Tarot~04~Emperor
 ---
 
 # [[Tarot~04~Emperor]] 🃤 

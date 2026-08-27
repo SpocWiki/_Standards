@@ -228,6 +228,7 @@ aliases:
 - 棕櫚科
 - 종려과
 Unicode_character: 🌴
+title: 🌴 Arecaceae
 ---
 
 # [[Arecaceae]] 🌴 

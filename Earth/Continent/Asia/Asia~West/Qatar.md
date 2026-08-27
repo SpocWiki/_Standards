@@ -738,7 +738,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
 - Country
 publish: true
-title: Qatar
+title: 🇶🇦 Qatar
 linkTitle: ''
 keywords: ''
 layout: ''

@@ -199,6 +199,7 @@ dv_has_:
     zh-hans: 渡轮
     zh-hant: 渡輪
     zh-tw: 渡輪
+title: ⛴ Ferry
 ---
 
 # [[Ferry]] ⛴ 

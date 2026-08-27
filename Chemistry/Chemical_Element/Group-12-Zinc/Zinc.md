@@ -462,6 +462,7 @@ dv_has_number_of_group: 12
 dv_has_name_abbreviated: Zn
 dv_has_number_of_electrons: 30
 Unicode_character: 鋅
+title: 鋅 Zinc
 ---
 
 # [[Zinc]] 鋅 

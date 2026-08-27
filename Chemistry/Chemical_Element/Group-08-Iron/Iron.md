@@ -606,6 +606,7 @@ dv_has_name_abbreviated: Fe
 dv_has_number_of_electrons: 26
 dv_has_number_of_group: 8
 Unicode_character: 鐵
+title: 鐵 Iron
 ---
 
 # [[Iron]] 鐵 

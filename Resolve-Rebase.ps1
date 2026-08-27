@@ -46,7 +46,7 @@ function Invoke-SafePull {
             git merge --abort
         } else {
             Write-Host "Merged $repoPath"
-        }
+    }
     }
 
     if ($stashed) {

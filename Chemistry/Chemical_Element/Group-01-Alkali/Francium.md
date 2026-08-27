@@ -380,6 +380,7 @@ dv_has_number_of_group: 1
 dv_has_name_abbreviated: Fr
 dv_has_number_of_electrons: 87
 Unicode_character: 鍅
+title: 鍅 Francium
 ---
 
 # [[Francium]] 鍅 

@@ -701,6 +701,7 @@ dv_has_:
     zh_hk: 粟米
     zh_tw: 玉蜀黍
 Unicode_character: 🌽
+title: 🌽 Maize
 ---
 
 # [[Maize]] 🌽 

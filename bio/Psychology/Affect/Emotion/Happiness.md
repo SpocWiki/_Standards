@@ -314,6 +314,7 @@ aliases:
 - 開心
 - 행복
 Unicode_character: 😃
+title: 😃 Happiness
 ---
 
 # [[Happiness]] 😃 

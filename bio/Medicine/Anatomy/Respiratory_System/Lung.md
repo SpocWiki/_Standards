@@ -394,6 +394,7 @@ dv_has_:
     zh_hans: 肺
     zh_hant: 肺
 Unicode_character: 🫁
+title: 🫁 Lung
 ---
 
 # [[Lung]] 🫁 

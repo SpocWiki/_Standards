@@ -220,6 +220,7 @@ dv_has_:
     yue: 大話
     zh: 谎言
 Unicode_character: 🤥
+title: 🤥 Lie
 ---
 
 # [[Lie]] 🤥 

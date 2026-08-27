@@ -358,7 +358,7 @@ isReadOnly: false
 source: https://datahub.io/core/country-codes
 cssclasses: Country
 publish: true
-title: Rwanda
+title: 🇷🇼 Rwanda
 linkTitle: ''
 keywords: ''
 layout: ''

@@ -747,6 +747,7 @@ Commons_gallery: اليمن
 official_name: الجمهورية اليمنية
 native_label: الجمهوريّة اليمنية
 Unicode_character: 🇾🇪
+title: 🇾🇪 Yemen~Republic
 ---
 
 # [[Yemen~Republic]] 🇾🇪 

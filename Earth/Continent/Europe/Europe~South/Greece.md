@@ -1074,7 +1074,7 @@ subreddit: greece
 suicide_rate: 3.6
 tags:
 - geo/Country
-title: Greece
+title: 🇬🇷 Greece
 topic_s_main_template: '[[/_Standards/WikiData/WD~Template_Administrative_regions_of_Greece,6839551|WD~Template_Administrative_regions_of_Greece,6839551]]'
 topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Greece,6218181|WD~Portal_Greece,6218181]]'
 top_level_Internet_domain: '[[/_Standards/WikiData/WD~.gr,37893|WD~.gr,37893]]'

@@ -329,6 +329,7 @@ dv_has_number_of_period: 6
 dv_has_number_of_group: 35
 dv_has_name_abbreviated: Tm
 dv_has_number_of_electrons: 69
+title: 銩 Thulium
 ---
 
 # [[Thulium]] 銩 

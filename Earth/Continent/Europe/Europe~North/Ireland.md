@@ -537,7 +537,7 @@ subreddit: ireland
 suicide_rate: 8.9
 tags:
 - geo/Country
-title: Ireland
+title: 🇮🇪 Ireland
 topic_s_main_template: '[[/_Standards/WikiData/WD~Template_Counties_of_Ireland,5614052|WD~Template_Counties_of_Ireland,5614052]]'
 topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Ireland,10815282|WD~Portal_Ireland,10815282]]'
 top_level_Internet_domain: '[[/_Standards/WikiData/WD~.ie,39382|WD~.ie,39382]]'

@@ -264,6 +264,7 @@ dv_has_:
     zh_tw: 鐽
     zu: IDamasimbi
 Unicode_character: 鐽
+title: 鐽 Darmstadtium
 ---
 
 # [[Darmstadtium]] 鐽 

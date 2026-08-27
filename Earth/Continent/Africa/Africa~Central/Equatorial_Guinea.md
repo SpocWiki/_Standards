@@ -579,7 +579,7 @@ isReadOnly: false
 source: https://datahub.io/core/country-codes
 cssclasses: Country
 publish: true
-title: Equatorial Guinea
+title: 🇬🇶 Equatorial Guinea
 linkTitle: ''
 keywords: ''
 layout: ''
