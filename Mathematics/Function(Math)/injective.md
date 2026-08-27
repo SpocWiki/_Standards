@@ -133,7 +133,7 @@ dv_has_:
 
 # [[injective]]  
 
-#is_/same_as :: [[Monomorphism]] 
+#is_/same_as :: [[../../../_internal/Mathematics/Category_Theory/Monomorphism]] 
 
 ## #has_/text_of_/abstract 
 
