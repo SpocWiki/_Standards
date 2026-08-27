@@ -39,7 +39,7 @@ function Invoke-SafePull {
         git merge --ff-only "@{u}"
     }
     else {
-        Write-Host "Diverged → skipping $repoPath" -ForegroundColor Yellow
+        Write-Host "Diverged; skipping $repoPath" -ForegroundColor Yellow
     }
 
     if ($stashed) {
