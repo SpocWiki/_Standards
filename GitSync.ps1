@@ -11,12 +11,12 @@ Set-Location -Path $parent_directory
 Write-Host "Pulling" -ForegroundColor Green
 
 .\GitPull.ps1
-if ($LASTEXITCODE -ne 0) { exit }
+#if ($LASTEXITCODE -ne 0) { exit }
 
 Write-Host "Committing" -ForegroundColor Green
 
 .\GitCommit.ps1
-if ($LASTEXITCODE -ne 0) { exit }
+#if ($LASTEXITCODE -ne 0) { exit }
 
 Write-Host "Pushing" -ForegroundColor Green
 
