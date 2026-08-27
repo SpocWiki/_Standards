@@ -287,6 +287,7 @@ dv_has_:
     zh: 蜡烛
     zh_hant: 蠟燭
     zh_tw: 蠟燭
+title: 🕯 Candle
 ---
 
 # [[Candle]] 🕯 

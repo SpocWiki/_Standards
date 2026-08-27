@@ -259,6 +259,7 @@ dv_has_:
     zh_tw: 小號
     zu: Icilongo
 Unicode_character: 🎺
+title: 🎺 Trumpet
 ---
 
 # [[Trumpet]] 🎺 

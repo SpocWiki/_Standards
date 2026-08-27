@@ -349,6 +349,7 @@ dv_has_:
     zh_hant: 鑽石
     zh_tw: 鑽石
 Unicode_character: 💎
+title: 💎 Diamond
 ---
 
 # [[Diamond]] 💎 

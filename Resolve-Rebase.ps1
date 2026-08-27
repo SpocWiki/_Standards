@@ -39,7 +39,14 @@ function Invoke-SafePull {
         git merge --ff-only "@{u}"
     }
     else {
-        Write-Host "Diverged; skipping $repoPath" -ForegroundColor Yellow
+        Write-Host "Diverged; merging $repoPath" -ForegroundColor Yellow
+        git merge "@{u}" --no-edit
+        if ($LASTEXITCODE -ne 0) {
+            Write-Host "Merge conflict in $repoPath - aborting merge, resolve manually" -ForegroundColor Red
+            git merge --abort
+        } else {
+            Write-Host "Merged $repoPath"
+    }
     }
 
     if ($stashed) {

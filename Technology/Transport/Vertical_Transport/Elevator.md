@@ -239,6 +239,7 @@ dv_has_:
     zh-sg: 升降机
     zh-tw: 電梯
 Unicode_character: 🛗
+title: 🛗 Elevator
 ---
 
 # [[Elevator]] 🛗 

@@ -311,6 +311,7 @@ dv_has_:
     zh-my: 圆周率
     zh_sg: 圆周率
     zh_tw: 圓周率
+title: π Pi
 ---
 
 # [[Pi]] π 

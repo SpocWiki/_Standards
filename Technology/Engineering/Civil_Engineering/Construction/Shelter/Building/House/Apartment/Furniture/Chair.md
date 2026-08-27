@@ -361,6 +361,7 @@ dv_has_:
     zh: 椅
     zh_hans: 椅
     zh_hant: 椅
+title: 🪑 Chair
 ---
 
 # [[Chair]] 🪑 

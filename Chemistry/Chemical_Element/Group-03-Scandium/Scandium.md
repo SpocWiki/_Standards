@@ -394,6 +394,7 @@ dv_has_number_of_group: 3
 dv_has_name_abbreviated: Sc
 dv_has_number_of_electrons: 21
 Unicode_character: 鈧
+title: 鈧 Scandium
 ---
 
 # [[Scandium]] 鈧 

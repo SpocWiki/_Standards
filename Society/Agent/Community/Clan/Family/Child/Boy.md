@@ -286,6 +286,7 @@ dv_has_:
     zh-my: 男孩
     zh_sg: 男孩
     zh_tw: 男孩
+title: 👦 Boy
 ---
 
 # [[Boy]] 👦 

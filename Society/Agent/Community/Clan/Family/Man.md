@@ -448,6 +448,7 @@ dv_has_:
     zh_tw: 男人
     zu: indoda
 Unicode_character: 👨
+title: 👨 Man
 ---
 
 # [[Man]] 👨 

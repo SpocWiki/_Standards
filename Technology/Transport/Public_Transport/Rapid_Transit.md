@@ -253,6 +253,7 @@ dv_has_:
     zh-sg: 地铁
     zh-tw: 地鐵
 Unicode_character: 🚇
+title: 🚇 Rapid_Transit
 ---
 
 # [[Rapid_Transit]] 🚇 

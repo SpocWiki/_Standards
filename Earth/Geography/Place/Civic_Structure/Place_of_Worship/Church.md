@@ -199,7 +199,7 @@ publishDate: ''
 tags:
 - class/Class
 - schema-org/Class
-title: is_a_church Class
+title: ⛪ is_a_church Class
 type: Type
 has_part_s_:
 - '[[/_Standards/WikiData/WD~altar,101687|WD~altar,101687]]'

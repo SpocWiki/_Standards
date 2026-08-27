@@ -268,7 +268,7 @@ tags:
 territory_claimed_by:
 - '[[/_Standards/WikiData/WD~Morocco,1028|WD~Morocco,1028]]'
 - '[[/_Standards/WikiData/WD~Sahrawi_Arab_Democratic_Republic,40362|WD~Sahrawi_Arab_Democratic_Republic,40362]]'
-title: Western Sahara
+title: 🇪🇭 Western Sahara
 topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Western_Sahara,14614952|WD~Portal_Western_Sahara,14614952]]'
 top_level_Internet_domain: '[[/_Standards/WikiData/WD~.eh,433562|WD~.eh,433562]]'
 type: Country

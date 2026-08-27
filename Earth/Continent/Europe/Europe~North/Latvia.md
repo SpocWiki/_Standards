@@ -1008,7 +1008,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
 - Country
 publish: true
-title: Latvia
+title: 🇱🇻 Latvia
 linkTitle: ''
 keywords: ''
 layout: ''

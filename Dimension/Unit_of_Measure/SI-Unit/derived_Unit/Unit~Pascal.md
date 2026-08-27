@@ -195,6 +195,7 @@ dv_has_:
     zh-my: 帕斯卡
     zh_sg: 帕斯卡
     zh_tw: 帕斯卡
+title: ㎩ Unit~Pascal
 ---
 
 # [[Unit~Pascal]] ㎩ 

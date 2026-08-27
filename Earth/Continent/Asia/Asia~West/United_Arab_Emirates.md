@@ -1031,7 +1031,7 @@ subreddit:
 suicide_rate: 5.2
 tags:
 - geo/Country
-title: United Arab Emirates
+title: 🇦🇪 United Arab Emirates
 topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_United_Arab_Emirates,14616373|WD~Portal_United_Arab_Emirates,14616373]]'
 top_level_Internet_domain:
 - '[[/_Standards/WikiData/WD~.امارات,136728|WD~.امارات,136728]]'

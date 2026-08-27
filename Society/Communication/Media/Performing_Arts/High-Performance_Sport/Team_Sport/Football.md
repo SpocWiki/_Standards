@@ -552,6 +552,7 @@ dv_has_:
     zh_sg: 足球
     zh_tw: 足球
     zu: Ibhola
+title: ⚽ Football
 ---
 
 # [[Football]] ⚽ 

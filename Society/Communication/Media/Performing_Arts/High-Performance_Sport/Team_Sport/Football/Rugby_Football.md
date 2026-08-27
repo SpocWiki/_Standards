@@ -103,7 +103,7 @@ publishDate: ''
 tags:
 - '{ newTitle: }': ''
 - excalidraw
-title:
+title:🏉 Rugby_Football
   '{ newTitle: }': ''
 type: private_note
 country_of_origin: '[[/_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193|WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'

@@ -380,6 +380,7 @@ dv_has_:
     zh_hans: 狐
     zh_hant: 狐狸
 Unicode_character: 🦊
+title: 🦊 Fox
 ---
 
 # [[Fox]] 🦊 

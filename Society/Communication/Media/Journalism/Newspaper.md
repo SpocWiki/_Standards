@@ -265,7 +265,7 @@ tags:
 - Newspaper
 - excalidraw
 time_of_discovery_or_invention: 1605-01-01T00:00:00Z
-title: Newspaper
+title: 📰 Newspaper
 topic_s_main_template:
 - '[[/_Standards/WikiData/WD~Template_Infobox_newspaper,9460683|WD~Template_Infobox_newspaper,9460683]]'
 - '[[/_Standards/WikiData/WD~Template_Greek_Newspapers,20319551|WD~Template_Greek_Newspapers,20319551]]'

@@ -195,6 +195,7 @@ dv_has_:
     zh_hant: 吸煙
     zu: Ukubhema
 Unicode_character: 🚬
+title: 🚬 Smoking
 ---
 
 # [[Smoking]] 🚬 

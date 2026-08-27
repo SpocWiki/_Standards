@@ -10,6 +10,7 @@ instance_of:
 part_of: "[[/_Standards/WikiData/WD~Major_Arcana,11158357|WD~Major_Arcana,11158357]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Visconti-sforza-08-justice.jpg
 Commons_category: Justice (Major Arcana)
+title: 🃨 Tarot~11~Justice
 ---
 
 # [[Tarot~11~Justice]] 🃨 

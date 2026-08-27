@@ -168,6 +168,7 @@ dv_has_:
     zh_sg: 匕首
     zh_tw: 匕首
 Unicode_character: 🗡
+title: 🗡 Dagger
 ---
 
 # [[Dagger]] 🗡 

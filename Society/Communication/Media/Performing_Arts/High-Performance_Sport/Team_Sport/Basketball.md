@@ -417,6 +417,7 @@ dv_has_:
     zh_hant: 籃球
     zh_hk: 籃球
     zh_tw: 籃球
+title: 🏀 Basketball
 ---
 
 # [[Basketball]] 🏀 

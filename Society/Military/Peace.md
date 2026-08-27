@@ -379,6 +379,7 @@ dv_has_:
     zh-my: 和平
     zh_sg: 和平
     zh_tw: 和平
+title: ☮ Peace
 ---
 
 # [[Peace]] ☮︎ 

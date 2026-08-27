@@ -247,6 +247,7 @@ dv_has_:
     zh_hant: 羽毛
     zh_tw: 羽毛
 Unicode_character: 🪶
+title: 🪶 Feather
 ---
 
 # [[Feather]] 🪶 

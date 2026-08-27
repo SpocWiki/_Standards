@@ -124,7 +124,7 @@ source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26959
 tags:
 - geo/Country
-title: Madagascar
+title: 🇲🇬 Madagascar
 type: Country
 dv_ISO4217-currency_alphabetic: MGA
 dv_ISO4217-currency_name: Malagasy Ariary

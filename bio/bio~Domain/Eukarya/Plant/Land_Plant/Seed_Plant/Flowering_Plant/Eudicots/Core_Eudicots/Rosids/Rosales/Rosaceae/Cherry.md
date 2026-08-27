@@ -346,6 +346,7 @@ dv_has_:
     zh_hk: 車厘子
     zh_mo: 車厘子
 Unicode_character: 🍒
+title: 🍒 Cherry
 ---
 
 # [[Cherry]] 🍒 

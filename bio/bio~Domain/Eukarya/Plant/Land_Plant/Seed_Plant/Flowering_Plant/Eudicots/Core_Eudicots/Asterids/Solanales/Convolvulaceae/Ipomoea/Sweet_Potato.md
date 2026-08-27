@@ -374,6 +374,7 @@ dv_has_:
     zh_hant: 番薯
     zh_tw: 甘藷
 Unicode_character: 🍠
+title: 🍠 Sweet_Potato
 ---
 
 # [[Sweet_Potato]] 🍠 

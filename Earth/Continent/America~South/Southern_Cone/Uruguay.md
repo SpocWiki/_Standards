@@ -484,7 +484,7 @@ subreddit: uruguay
 suicide_rate: 18.8
 tags:
 - geo/Country
-title: Uruguay
+title: 🇺🇾 Uruguay
 topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Uruguay,8253631|WD~Portal_Uruguay,8253631]]'
 top_level_Internet_domain: '[[/_Standards/WikiData/WD~.uy,41848|WD~.uy,41848]]'
 total_fertility_rate: 2.02

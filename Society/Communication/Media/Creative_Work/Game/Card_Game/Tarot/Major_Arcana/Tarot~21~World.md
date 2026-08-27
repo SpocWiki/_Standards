@@ -7,6 +7,7 @@ part_of: "[[/_Standards/WikiData/WD~Major_Arcana,11158357|WD~Major_Arcana,111583
 instance_of: "[[/_Standards/WikiData/WD~playing_card,47883|WD~playing_card,47883]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/1JJ%20Tarot%20-%20Trump%2021%20-%20French%20-%20Le%20Monde.jpg
 Commons_category: The World (Major Arcana)
+title: 🃵 Tarot~21~World
 ---
 
 # [[Tarot~21~World]] 🃵

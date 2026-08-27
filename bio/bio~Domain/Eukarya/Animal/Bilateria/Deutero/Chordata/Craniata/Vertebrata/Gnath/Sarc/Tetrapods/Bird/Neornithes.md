@@ -244,7 +244,7 @@ aliases:
 - ꯎꯆꯦꯛ
 - 새
 - "\U00010346\U0001033F\U00010332\U0001033B\U00010343"
-title: Neornithes
+title: 🐦 Neornithes
 has_id_wikidata: Q5113
 dv_has_:
   name_:

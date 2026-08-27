@@ -254,6 +254,7 @@ dv_has_:
     zh_hant: 異性戀
     zh_tw: 異性戀
 Unicode_character: ⚤
+title: ⚤ Heterosexuality
 ---
 
 # [[Heterosexuality]] ⚤ 

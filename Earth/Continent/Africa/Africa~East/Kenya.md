@@ -879,7 +879,7 @@ subreddit: Kenya
 suicide_rate: 11
 tags:
 - geo/Country
-title: Kenya
+title: 🇰🇪 Kenya
 topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Kenya,11247426|WD~Portal_Kenya,11247426]]'
 top_level_Internet_domain: '[[/_Standards/WikiData/WD~.ke,42695|WD~.ke,42695]]'
 total_fertility_rate: 4.334

@@ -258,6 +258,7 @@ dv_has_:
     zh_hant: 毒物
     zh_tw: 毒物
 Unicode_character: ☠
+title: ☠ Poison
 ---
 
 # [[Poison]] ☠ 

@@ -347,6 +347,7 @@ dv_is_same_as:
 - '[[/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon.secret|Radon.secret]]'
 dv_has_name_abbreviated: Rn
 dv_has_number_of_electrons: 86
+title: 氡 Radon
 ---
 
 # [[Radon]] 氡 

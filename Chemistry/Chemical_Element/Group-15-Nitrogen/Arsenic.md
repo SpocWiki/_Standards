@@ -451,6 +451,7 @@ dv_is_same_as:
 - '[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Arsenic.secret|Arsenic.secret]]'
 dv_has_name_abbreviated: As
 dv_has_number_of_electrons: 33
+title: 砷 Arsenic
 ---
 
 # [[Arsenic]] 砷 

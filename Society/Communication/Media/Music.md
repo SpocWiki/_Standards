@@ -207,7 +207,7 @@ publishDate: ''
 tags:
 - Music
 - excalidraw
-title: Music
+title: 🎵 Music
 type: private_note
 dv_has_:
   name_:

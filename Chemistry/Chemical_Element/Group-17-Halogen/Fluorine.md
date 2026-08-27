@@ -419,6 +419,7 @@ dv_has_number_of_period: 2
 dv_has_number_of_group: 17
 dv_has_name_abbreviated: F
 dv_has_number_of_electrons: 9
+title: 氟 Fluorine
 ---
 
 # [[Fluorine]] 氟 

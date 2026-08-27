@@ -282,6 +282,7 @@ dv_has_:
     zh_hk: 穀神星
     zh_tw: 穀神星
     zu: UNomadwala
+title: ⚳ Ceres(Asteroid)
 ---
 
 # [[Ceres(Asteroid)]] ⚳ 

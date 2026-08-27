@@ -1181,7 +1181,7 @@ subreddit: Philippines
 suicide_rate: 2.5
 tags:
   - geo/Country
-title: Philippines
+title: 🇵🇭 Philippines
 topic_s_main_template:
   - "[[/_Standards/WikiData/WD~Template_Administrative_divisions_of_the_Philippines,6291793|WD~Template_Administrative_divisions_of_the_Philippines,6291793]]"
   - "[[/_Standards/WikiData/WD~Template_Philippines_topics,10977281|WD~Template_Philippines_topics,10977281]]"

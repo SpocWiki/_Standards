@@ -181,6 +181,7 @@ dv_has_:
     zh_sg: 泳衣
     zh_tw: 泳衣
 Unicode_character: 🩱
+title: 🩱 Swimsuit
 ---
 
 # [[Swimsuit]] 🩱 

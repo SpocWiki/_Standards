@@ -164,6 +164,7 @@ dv_has_:
     zh-tw: 通訊衛星
     zu: Isivoko sokuxhumana
 Unicode_character: 🛰
+title: 🛰 Communications_Satellite
 ---
 
 # [[Communications_Satellite]] 🛰 

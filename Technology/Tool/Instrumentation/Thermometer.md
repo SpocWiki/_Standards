@@ -240,6 +240,7 @@ dv_has_:
     zh-tw: 溫度計
     zu: Inhlolamshiso
 Unicode_character: 🌡
+title: 🌡 Thermometer
 ---
 
 # [[Thermometer]] 🌡 

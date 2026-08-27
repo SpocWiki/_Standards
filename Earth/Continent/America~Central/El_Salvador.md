@@ -410,7 +410,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
 - Country
 publish: true
-title: El Salvador
+title: 🇸🇻 El Salvador
 linkTitle: ''
 keywords: ''
 layout: ''

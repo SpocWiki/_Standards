@@ -184,6 +184,7 @@ dv_has_:
     zh-sg: 围巾
     zh-tw: 圍巾
 Unicode_character: 🧣
+title: 🧣 Scarf
 ---
 
 # [[Scarf]] 🧣 

@@ -547,6 +547,7 @@ dv_has_:
     zh_tw: 心臟
     zu: inhliziyo
 Unicode_character: 🫀
+title: 🫀 Heart
 ---
 
 # [[Heart]] 🫀 

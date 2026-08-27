@@ -108,7 +108,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
   - Country
 publish: true
-title: Angola
+title: 🇦🇴 Angola
 linkTitle: ""
 keywords: ""
 layout: ""

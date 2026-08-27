@@ -162,7 +162,7 @@ source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26905
 tags:
 - geo/Country
-title: Greenland
+title: 🇬🇱 Greenland
 type: Country
 dv_ISO4217-currency_alphabetic: DKK
 dv_ISO4217-currency_name: Danish Krone

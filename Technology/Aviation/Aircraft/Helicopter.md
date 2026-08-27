@@ -283,6 +283,7 @@ dv_has_:
     zh_hant: 直升機
     zh_tw: 直升機
 Unicode_character: 🚁
+title: 🚁 Helicopter
 ---
 
 # [[Helicopter]] 🚁 

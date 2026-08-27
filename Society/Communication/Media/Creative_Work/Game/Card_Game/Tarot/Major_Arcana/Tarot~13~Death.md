@@ -9,6 +9,7 @@ subclass_of: "[[/_Standards/WikiData/WD~playing_card,47883|WD~playing_card,47883
 instance_of: "[[/_Standards/WikiData/WD~playing_card,47883|WD~playing_card,47883]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Troccas-13-der-tod.jpg
 Commons_category: Death (Major Arcana)
+title: 🃭 Tarot~13~Death
 ---
 
 # [[Tarot~13~Death]] 🃭 

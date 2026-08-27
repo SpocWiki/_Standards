@@ -264,6 +264,7 @@ dv_has_:
     zh-hk: 計重秤
     zh-sg: 计重秤
     zh-tw: 計重秤
+title: ⚖️ Weighing_Scale
 ---
 
 # [[Weighing_Scale]] ⚖️ 

@@ -288,6 +288,7 @@ dv_has_:
     zh_hans: 婚礼
     zh_hant: 婚禮
 Unicode_character: 💒
+title: 💒 Wedding
 ---
 
 # [[Wedding]] 💒 

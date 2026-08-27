@@ -759,7 +759,7 @@ subreddit:
 suicide_rate: 7.9
 tags:
 - geo/Country
-title: Eritrea
+title: 🇪🇷 Eritrea
 topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Eritrea,11305210|WD~Portal_Eritrea,11305210]]'
 top_level_Internet_domain: '[[/_Standards/WikiData/WD~.er,41019|WD~.er,41019]]'
 total_fertility_rate: 4.284

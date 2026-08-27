@@ -318,6 +318,7 @@ dv_has_:
     zh-hans: 帽子
     zh-hant: 帽子
 Unicode_character: 👒
+title: 👒 Hat
 ---
 
 # [[Hat]] 👒 

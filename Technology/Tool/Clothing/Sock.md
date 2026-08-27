@@ -255,6 +255,7 @@ dv_has_:
     yue: 襪
     zh: 短襪
 Unicode_character: 🧦
+title: 🧦 Sock
 ---
 
 # [[Sock]] 🧦 

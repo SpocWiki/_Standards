@@ -9,6 +9,7 @@ instance_of:
 part_of: "[[/_Standards/WikiData/WD~Major_Arcana,11158357|WD~Major_Arcana,11158357]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Visconti-sforza-17-star.jpg
 Commons_category: Star (Major Arcana)
+title: 🃱 Tarot~17~Star
 ---
 
 # [[Tarot~17~Star]] 🃱 

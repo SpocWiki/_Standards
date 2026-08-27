@@ -236,6 +236,7 @@ dv_has_:
     zh_sg: 人鱼
     zh_tw: 人魚
 Unicode_character: 🧜
+title: 🧜 Mermaid
 ---
 
 # [[Mermaid]] 🧜 

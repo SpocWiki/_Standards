@@ -398,6 +398,7 @@ dv_is_same_as:
 - '[[/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.secret|Neon.secret]]'
 dv_has_name_abbreviated: Ne
 dv_has_number_of_electrons: 10
+title: 氖 Neon
 ---
 
 # [[Neon]] 氖 

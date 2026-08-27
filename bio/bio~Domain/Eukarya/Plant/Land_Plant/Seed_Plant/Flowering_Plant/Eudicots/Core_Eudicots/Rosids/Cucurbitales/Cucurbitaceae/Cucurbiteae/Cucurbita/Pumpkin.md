@@ -304,6 +304,7 @@ aliases:
 - ꯃꯥꯢꯔꯦꯟ
 - 호박
 Unicode_character: 🎃
+title: 🎃 Pumpkin
 ---
 
 # [[Pumpkin]] 🎃 

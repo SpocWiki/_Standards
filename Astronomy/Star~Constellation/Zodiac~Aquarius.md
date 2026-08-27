@@ -264,6 +264,7 @@ dv_is_same_as:
 - '[[/_private/Astronomy/Star~Constellation/Zodiac~Aquarius.private|Zodiac~Aquarius.private]]'
 - '[[/_personal/Astronomy/Star~Constellation/Zodiac~Aquarius.personal|Zodiac~Aquarius.personal]]'
 - '[[/_secret/Astronomy/Star~Constellation/Zodiac~Aquarius.secret|Zodiac~Aquarius.secret]]'
+title: ♒ Zodiac~Aquarius
 ---
 
 # [[Zodiac~Aquarius]] ♒ 

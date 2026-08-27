@@ -332,6 +332,7 @@ dv_has_number_of_period: 6
 dv_has_number_of_group: 31
 dv_has_name_abbreviated: Tb
 dv_has_number_of_electrons: 65
+title: 鋱 Terbium
 ---
 
 # [[Terbium]] 鋱 

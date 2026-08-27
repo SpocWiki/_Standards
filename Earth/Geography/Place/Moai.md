@@ -146,6 +146,7 @@ dv_has_:
     zh_hans: 摩艾石像
     zh_hant: 摩艾石像
 Unicode_character: 🗿
+title: 🗿 Moai
 ---
 
 # [[Moai]] 🗿 

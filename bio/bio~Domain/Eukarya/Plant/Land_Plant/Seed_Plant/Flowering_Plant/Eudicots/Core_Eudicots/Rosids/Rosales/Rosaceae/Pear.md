@@ -300,6 +300,7 @@ dv_has_:
     zh_sg: 梨
     zh_tw: 梨屬
 Unicode_character: 🍐
+title: 🍐 Pear
 ---
 
 # [[Pear]] 🍐 

@@ -362,6 +362,7 @@ dv_has_number_of_electrons: 75
 dv_has_number_of_group: 7
 dv_has_value_for_temperature_boil_c: 5869
 Unicode_character: 錸
+title: 錸 Rhenium
 ---
 
 # [[Rhenium]] 錸 

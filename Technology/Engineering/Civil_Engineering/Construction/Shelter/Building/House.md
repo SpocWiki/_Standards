@@ -216,7 +216,7 @@ publishDate: ''
 tags:
 - class/Class
 - schema-org/Class
-title: is_a_house Class
+title: 🏡 is_a_house Class
 type: Type
 Commons_category: Houses
 described_by_source:

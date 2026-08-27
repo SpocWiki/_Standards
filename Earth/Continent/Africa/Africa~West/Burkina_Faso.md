@@ -470,7 +470,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
   - Country
 publish: true
-title: Burkina Faso
+title: 🇧🇫 Burkina Faso
 linkTitle: ""
 keywords: ""
 layout: ""

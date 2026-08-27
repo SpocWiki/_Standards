@@ -180,6 +180,7 @@ aliases:
 - 積分
 - 적분
 Unicode_character: ∫
+title: ∫ Integral
 ---
 
 # [[Integral]] ∫ 

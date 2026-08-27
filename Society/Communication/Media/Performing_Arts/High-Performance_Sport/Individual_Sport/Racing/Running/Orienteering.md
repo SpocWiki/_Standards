@@ -144,6 +144,7 @@ dv_has_:
     zh_hant: 定向運動
     zh_tw: 定向運動
 Unicode_character: 🧭
+title: 🧭 Orienteering
 ---
 
 # [[Orienteering]] 🧭 

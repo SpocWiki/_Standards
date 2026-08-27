@@ -9,6 +9,7 @@ instance_of:
 part_of: "[[/_Standards/WikiData/WD~Major_Arcana,11158357|WD~Major_Arcana,11158357]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/L%27Amoureux%20tarot%20charles6.jpg
 Commons_category: Lovers (Major Arcana)
+title: 🃦 Tarot~06~Lovers
 ---
 
 # [[Tarot~06~Lovers]] 🃦 

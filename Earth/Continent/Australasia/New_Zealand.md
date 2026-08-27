@@ -577,7 +577,7 @@ subreddit: newzealand
 suicide_rate: 10.3
 tags:
 - geo/Country
-title: New Zealand
+title: 🇳🇿 New Zealand
 topic_s_main_template:
 - '[[/_Standards/WikiData/WD~Template_Regions_of_New_Zealand,10972220|WD~Template_Regions_of_New_Zealand,10972220]]'
 - '[[/_Standards/WikiData/WD~Q63992254,63992254|WD~Q63992254,63992254]]'

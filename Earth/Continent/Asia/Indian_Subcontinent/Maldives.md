@@ -774,7 +774,7 @@ SpocWebEntityId: 26972
 subreddit: maldives
 tags:
 - geo/Country
-title: Maldives
+title: 🇲🇻 Maldives
 topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Maldives,14615866|WD~Portal_Maldives,14615866]]'
 top_level_Internet_domain: '[[/_Standards/WikiData/WD~.mv,43753|WD~.mv,43753]]'
 total_fertility_rate: 1.71

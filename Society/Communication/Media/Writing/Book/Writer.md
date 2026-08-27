@@ -549,6 +549,7 @@ dv_has_:
     zh_sg: 作家
     zh_tw: 作家
     zu: umbhali
+title: ✍️ Writer
 ---
 
 # [[Writer]] ✍️ 

@@ -541,7 +541,7 @@ suicide_rate: 2.1
 Swedish_Anbytarforum: 22028
 tags:
 - geo/Country
-title: Venezuela
+title: 🇻🇪 Venezuela
 topic_s_main_template: '[[/_Standards/WikiData/WD~Template_Venezuela_topics,10793489|WD~Template_Venezuela_topics,10793489]]'
 topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Venezuela,11217203|WD~Portal_Venezuela,11217203]]'
 top_level_Internet_domain: '[[/_Standards/WikiData/WD~.ve,42760|WD~.ve,42760]]'

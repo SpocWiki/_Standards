@@ -316,6 +316,7 @@ dv_has_:
     zh-tw: 槌
     zu: Kombisa
 Unicode_character: 🔨
+title: 🔨 Hammer
 ---
 
 # [[Hammer]] 🔨 

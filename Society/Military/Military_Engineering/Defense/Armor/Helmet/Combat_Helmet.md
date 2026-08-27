@@ -108,6 +108,7 @@ dv_has_:
     yue: 軍用頭盔
     zh: 戰術頭盔
 Unicode_character: 🪖
+title: 🪖 Combat_Helmet
 ---
 
 # [[Combat_Helmet]] 🪖 

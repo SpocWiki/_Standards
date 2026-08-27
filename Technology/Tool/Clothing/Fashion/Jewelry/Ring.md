@@ -21,6 +21,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Roman%20-%20Crouching%
 Unicode_character: 💍
 Commons_category: Rings (jewellery)
 Dewey_Decimal_Classification: "391.72"
+title: 💍 Ring
 ---
 
 # [[Ring]] 💍 

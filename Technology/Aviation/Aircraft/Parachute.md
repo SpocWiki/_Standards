@@ -225,6 +225,7 @@ dv_has_:
     zh_sg: 降落伞
     zh_tw: 降落傘
 Unicode_character: 🪂
+title: 🪂 Parachute
 ---
 
 # [[Parachute]] 🪂 

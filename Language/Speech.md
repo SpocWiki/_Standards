@@ -249,6 +249,7 @@ dv_has_:
     zh: 說話
     zh_hant: 說話
 Unicode_character: 🗣
+title: 🗣 Speech
 ---
 
 # [[Speech]] 🗣 

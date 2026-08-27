@@ -183,6 +183,7 @@ aliases:
 - 赛马
 - 경마
 Unicode_character: 🏇
+title: 🏇 Horse_Racing
 ---
 
 # [[Horse_Racing]] 🏇 

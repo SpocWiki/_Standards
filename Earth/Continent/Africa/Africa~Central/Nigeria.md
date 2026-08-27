@@ -1431,7 +1431,7 @@ source: https://datahub.io/core/country-codes
 cssclasses:
 - Country
 publish: true
-title: Nigeria
+title: 🇳🇬 Nigeria
 linkTitle: ''
 keywords: ''
 layout: ''

@@ -551,7 +551,7 @@ isReadOnly: false
 source: https://datahub.io/core/country-codes
 cssclasses: Country
 publish: true
-title: Tanzania
+title: 🇹🇿 Tanzania
 linkTitle: ''
 keywords: ''
 layout: ''

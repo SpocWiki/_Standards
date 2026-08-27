@@ -454,6 +454,7 @@ dv_has_:
     zh_hans: 蛇
     zh_hant: 蛇
     zh_tw: 蛇
+title: \U0001F40D Snake
 ---
 
 # [[Snake]] 🐍 

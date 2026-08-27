@@ -102,7 +102,7 @@ aliases:
 - 章鱼目
 - 문어목
 has_id_wikidata: Q40152
-title: Octopoda
+title: 🐙 Octopoda
 uses:
 - '[[/_Standards/WikiData/WD~mimicry,192627|WD~mimicry,192627]]'
 - '[[/_Standards/WikiData/WD~physical_object,223557|WD~physical_object,223557]]'

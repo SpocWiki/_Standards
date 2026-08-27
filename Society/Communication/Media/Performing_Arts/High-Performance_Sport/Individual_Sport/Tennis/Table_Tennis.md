@@ -280,6 +280,7 @@ dv_has_:
     zh_sg: 乒乓球
     zh_tw: 桌球
 Unicode_character: 🏓
+title: 🏓 Table_Tennis
 ---
 
 # [[Table_Tennis]] 🏓 

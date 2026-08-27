@@ -252,6 +252,7 @@ dv_has_:
     zh_hant: 白熾燈
     zh_tw: 白熾燈
 Unicode_character: 💡
+title: 💡 Incandescent_Light_Bulb
 ---
 
 # [[Incandescent_Light_Bulb]] 💡 
