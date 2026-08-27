@@ -82,7 +82,7 @@ if (Has-Upstream) {
     }
 
 } else {
-    Write-Host "Root repo has no upstream → skipping" -ForegroundColor Yellow
+    Write-Host "Root repo has no upstream; skipping" -ForegroundColor Yellow
 }
 
 Set-Location $parent_directory
