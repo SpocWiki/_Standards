@@ -17,7 +17,7 @@ if ($LASTEXITCODE -ne 0) {
 Get-ChildItem -Path $parent_directory -Recurse -Directory | ForEach-Object {
     $directory = $_.FullName
     if (Test-Path "$directory\.git") {
-        Write-Host "Updating repository in $directory"
+        Write-Host "Pushing repository in $directory"
         Set-Location -Path $directory
         Resolve-Rebase $directory
         git push
