@@ -23,7 +23,7 @@ Get-ChildItem -Recurse -Directory | ForEach-Object {
     $directory = $_.FullName
 
     if (Test-Path "$directory\.git") {
-        Write-Host "Processing $directory"
+        Write-Host "Committing $directory"
         Set-Location $directory
 
         Resolve-Rebase $directory
