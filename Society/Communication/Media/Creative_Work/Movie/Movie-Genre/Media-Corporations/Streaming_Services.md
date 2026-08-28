@@ -18,7 +18,7 @@
 | 2014  | Slack                             | Communication tool with integrated file sharing.                 |
 | 2015  | [[MS_OneDrive]]                   | Cloud storage and file sharing integrated with Microsoft Office. |
 | 2020  | Resilio Sync                      | Peer-to-peer file synchronization using BitTorrent.              |
-| 2020s | Nextcloud/[[OwnCloud]]            | Open-source platforms for private cloud storage solutions.       |
+| 2020s | Nextcloud/[[../../../../../../../../_internal/Technology/IT/Software/Software_Category/Productivity-SW/OwnCloud]]            | Open-source platforms for private cloud storage solutions.       |
 |       |                                   |                                                                  |
 
 ## Payout 

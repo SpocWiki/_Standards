@@ -131,7 +131,7 @@ aliases:
 
 # [[Virtual_Machine]] 
 
-#is_/similar_to :: [[../../../../IT/Operations/Hosting/Docker(SW)|Docker(SW)]] 
+#is_/similar_to :: [[../../../../_internal/Technology/IT/Computer_Network/Cloud-Computing/Hosting/Docker(SW)|Docker(SW)]] 
 #is_/same_as :: [[Virtual_Machine,]]
 
 

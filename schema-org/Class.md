@@ -105,14 +105,14 @@ In Category Theory **large types** (analog of proper classes) can be **elements 
 | **Type Theory (MLTT, Coq, Lean)** | Type in lowest considered universe | A : Type_i with minimal i | Universe index i            | “Small type” means it lives in Type0 relative to context; higher universes are larger. |
 | **Category Theory**               | Set or type with cardinality < κ   |                           | S                           | < κ                                                                                    |
 
-## Classes in [[OO-Design]] 
+## Classes in [[../../_internal/Technology/IT/Software/SW~Programming/Prog~Process/OO-Design]] 
 
 Techniques to find [[Class]]es are: 
 - Search Nouns in the textual Description 
 - From [[Design-Patterns]] 
 - Domain-Knowledge and Documentation 
-- Analysis of [[../../IT/Programming/Prog~Process/BDD(Behavior-Driven_Development)/BDD~Scenario|BDD~Scenario]]s 
-- [[CRC-Card]]s  
+- Analysis of [[../../_internal/Technology/IT/Software/SW~Programming/Prog~Process/BDD(Behavior-Driven_Development)/BDD~Scenario|BDD~Scenario]]s 
+- [[../../_internal/Technology/IT/Software/SW~Programming/Prog~Process/CRC-Card]]s  
 
 Domain Experts have 'invented' most Classes long ago 
 and use them throughout their Communication and Documentation. 
@@ -123,7 +123,7 @@ If different Domains use __alternative Names__, there should be a __mapping__.
 Domain-Classes are often unstructured: Indicate [[Synonym]]s or accidental [[Homonym]]s.
 Also Instances and Classes are usually not distinguished. 
 Different States of the same Object are sometimes modeled as different Objects, 
-but that may well be a concrete instance of the [[Pattern~Strategy|Strategy-Pattern]] or [[Pattern~State|State-Pattern]]
+but that may well be a concrete instance of the [[../../_internal/Technology/IT/Software/SW~Programming/Patterns/Patterns~Java.1/Patterns~Behavioral/Pattern~Strategy|Strategy-Pattern]] or [[../../_internal/Technology/IT/Software/SW~Programming/Patterns/Patterns~Java.1/Patterns~Behavioral/Pattern~State|State-Pattern]]
 
 [[Nominalization]] (the process of turning a verb or adjective into a noun) makes this more difficult. 
 

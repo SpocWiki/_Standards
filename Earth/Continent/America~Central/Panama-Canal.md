@@ -332,7 +332,7 @@ aliases:
 > it was much more of an engineering challenge 
 > because of the combination of tropical rain forests, debilitating climate, 
 > the need for canal locks, and the lack of any ancient route to follow.
-> In 1887, [[Eiffel,Gustave]] became involved. The French Panama Canal Company, 
+> In 1887, [[../../../../_internal/Technology/IT/Software/SW~Programming/Logging/Eiffel,Gustave]] became involved. The French Panama Canal Company, 
 > headed by [Ferdinand de Lesseps](https://en.wikipedia.org/wiki/Ferdinand_de_Lesseps "Ferdinand de Lesseps"), had been attempting to build a __sea-level canal__, 
 > but came to the realization that this was impractical. 
 > The plan was changed to one using [locks](https://en.wikipedia.org/wiki/Lock_(water_transport) "Lock (water transport)"), 

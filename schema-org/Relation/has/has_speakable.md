@@ -83,7 +83,7 @@ The <em>speakable</em> property can be repeated an arbitrary number of times, wi
 
 
 
-3.)  XPaths - addresses content via XPaths (assuming an XML view of the content). Use the [[xpath]] property.
+3.)  XPaths - addresses content via XPaths (assuming an XML view of the content). Use the [[../../../../_internal/Technology/IT/Computer_Network/URL/xPath]] property.
 
 
 

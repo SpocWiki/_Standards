@@ -214,8 +214,8 @@ here is a reference for common conversions:
 
 These steps will help you automate the 
 
-[[../../../../../IT/Data/Data~Software/Aspose|Aspose]] decodes only the first PDF Encoding when converting to HTML and none when converting to MD 
-[[../../../../../IT/Data/Data~Text/Pandoc|Pandoc]] can convert among many Formats 
+[[../../../../../_internal/Technology/IT/Data/Data~Software/Aspose|Aspose]] decodes only the first PDF Encoding when converting to HTML and none when converting to MD 
+[[../../../../../_internal/Technology/IT/Data/Data~Text/Pandoc|Pandoc]] can convert among many Formats 
 [[Calibre(SW)]] can convert even protected PDFs to eBook Formats.
 
 Aspose PDF => HTML decodes only the first Fragments. 

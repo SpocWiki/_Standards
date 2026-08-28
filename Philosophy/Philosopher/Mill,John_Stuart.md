@@ -284,7 +284,7 @@ dv_has_:
 > The Columbia Encyclopedia 5th ed. says of him 
 > "at times Mill came close to socialism, a theory repugnant to his predecessors." 
 > 
-> He was a proponent of utilitarianism, an ethical theory developed by his predecessor [[Bentham,Jeremy]]. 
+> He was a proponent of utilitarianism, an ethical theory developed by his predecessor [[../../../_internal/Technology/IT/Software/SW~Programming/Patterns/Patterns~Java.2/Patterns~GRASP/Bentham,Jeremy]]. 
 > He contributed to the investigation of scientific methodology, though his knowledge of the topic was based on the writings of others, notably William Whewell, John Herschel, and Auguste Comte, and research carried out for Mill by Alexander Bain. He engaged in written debate with Whewell.
 >
 > A member of the Liberal Party and author of the early feminist work The Subjection of Women, Mill was also the second member of Parliament to call for women's suffrage after Henry Hunt in 1832.

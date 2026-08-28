@@ -491,7 +491,7 @@ dv_has_:
 
 Modern OS run in 2 Hardware-supported Modes: 
 
-- [[Kernel-Mode]] has access to the full Hardware and Memory, which gives it top Speed and Control 
+- [[../../../../_internal/Technology/IT/Computer_Network/IT~Security/Kernel-Mode]] has access to the full Hardware and Memory, which gives it top Speed and Control 
 - [[User-Mode]]  having access only to the allocated Memory and abstracted Hardware. 
 
 ## #has_/text_of_/abstract 
@@ -499,7 +499,7 @@ Modern OS run in 2 Hardware-supported Modes:
 > An operating system (OS) is system software that manages computer hardware and software resources, and provides common services for computer programs and Developers.
 > 
 > They typically access the Hardware directly or via a virtual Abstraction. 
-> The [[BIOS]] is often only used to bootstrap the [[OS(Operating-System)|OS]]  and yield Control.  
+> The [[../../../../_internal/Technology/IT/Software/Software_Category/BIOS]] is often only used to bootstrap the [[OS(Operating-System)|OS]]  and yield Control.  
 >
 > Time-sharing operating systems schedule tasks for efficient use of the system and may also include accounting software for cost allocation of processor time, mass storage, peripherals, and other resources.
 >

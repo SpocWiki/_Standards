@@ -445,7 +445,7 @@ dv_has_:
 
 This refers to physical Architecture. 
 
-#is_/different_from :: [[../../../../../IT/SW~Architecture|SW~Architecture]] 
+#is_/different_from :: [[../../../../../_internal/Technology/IT/Software/SW~Architecture|SW~Architecture]] 
 
 
 ## #has_/text_of_/abstract 

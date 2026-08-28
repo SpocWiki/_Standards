@@ -31,7 +31,7 @@ type: private note
 
 # StackOverflow-Question 
 
-#is_/part_of :: [[Issue~Mgmt]] 
+#is_/part_of :: [[../../../../../../../../../_internal/Technology/IT/Software/SW-Process/Issue~Mgmt]] 
 
 ### StackOverflow-Question 
 

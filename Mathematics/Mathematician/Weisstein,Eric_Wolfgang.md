@@ -79,7 +79,7 @@ aliases:
 > Eric Wolfgang Weisstein (born 1969-03-18) is an American scientist, mathematician, and encyclopedist 
 > who created and maintains the encyclopedias [[MathWorld]] and [[ScienceWorld]]. 
 > In addition, he is the author of the CRC Concise Encyclopedia of Mathematics. 
-> He works for [[Wolfram_Research]] with [[../../../IT/Data/Data~Tools/Mathematica|Mathematica]].
+> He works for [[Wolfram_Research]] with [[../../../_internal/Technology/IT/Data/Data~Tools/Mathematica|Mathematica]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Eric%20W.%20Weisstein) 
 

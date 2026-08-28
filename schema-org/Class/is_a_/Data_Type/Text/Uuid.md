@@ -1,44 +1,44 @@
 ---
 aliases:
-- egyetemesen egyedi azonosító
-- Evrensel Olarak Benzersiz Tanımlayıcı
-- Global unikal identifikator
-- globalt unik identifikator
-- GUID
-- identificador únic universal
-- identificador único universal
-- Universaalne unikaalne identifikaator
-- Universal Unique Identifier
-- Universaliai unikalus identifikatorius
-- Universally Unique Identifier
-- universe unika identigilo
-- universell unik identifikator
-- universellt unik identifierare
-- univerzalni enotni identifikator
-- Univerzálny základný identifikátor
-- Univerzálně unikátní identifikátor
-- Uuid
-- καθολικά μοναδικό αναγνωριστικό
-- сеопшта единствена назнака
-- унівэрсальна ўнікальны ідэнтыфікатар
-- מזהה ייחודי אוניברסלי
-- شناسهٔ ویژهٔ جهانی
-- معرف فريد عام
-- 通用唯一识别码
-- 범용 고유 식별자
+  - egyetemesen egyedi azonosító
+  - Evrensel Olarak Benzersiz Tanımlayıcı
+  - Global unikal identifikator
+  - globalt unik identifikator
+  - GUID
+  - identificador únic universal
+  - identificador único universal
+  - Universaalne unikaalne identifikaator
+  - Universal Unique Identifier
+  - Universaliai unikalus identifikatorius
+  - Universally Unique Identifier
+  - universe unika identigilo
+  - universell unik identifikator
+  - universellt unik identifierare
+  - univerzalni enotni identifikator
+  - Univerzálny základný identifikátor
+  - Univerzálně unikátní identifikátor
+  - Uuid
+  - καθολικά μοναδικό αναγνωριστικό
+  - сеопшта единствена назнака
+  - унівэрсальна ўнікальны ідэнтыфікатар
+  - מזהה ייחודי אוניברסלי
+  - شناسهٔ ویژهٔ جهانی
+  - معرف فريد عام
+  - 通用唯一识别码
+  - 범용 고유 식별자
 dv_is_:
   worse_than:
-  - '[[../../../../../../IT/SW~Architecture/Snowflake-ID|Snowflake-ID]]]'
-  - '[[Cuid2]]'
+    - "[[../../../../../../_internal/Technology/IT/Software/SW~Architecture/Snowflake-ID|Snowflake-ID]]]"
+    - "[[Cuid2]]"
   same_as:
-  - '[[/_Standards/schema-org/Class/is_a_/Data_Type/Text/Uuid|Uuid]]'
-  - '[[/_public/schema-org/Class/is_a_/Data_Type/Text/Uuid.public|Uuid.public]]'
-  - '[[/_internal/schema-org/Class/is_a_/Data_Type/Text/Uuid.internal|Uuid.internal]]'
-  - '[[/_protect/schema-org/Class/is_a_/Data_Type/Text/Uuid.protect|Uuid.protect]]'
-  - '[[/_private/schema-org/Class/is_a_/Data_Type/Text/Uuid.private|Uuid.private]]'
-  - '[[/_personal/schema-org/Class/is_a_/Data_Type/Text/Uuid.personal|Uuid.personal]]'
-  - '[[/_secret/schema-org/Class/is_a_/Data_Type/Text/Uuid.secret|Uuid.secret]]'
-  - '[[Uuid]]'
+    - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Text/Uuid|Uuid]]"
+    - "[[/_public/schema-org/Class/is_a_/Data_Type/Text/Uuid.public|Uuid.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Data_Type/Text/Uuid.internal|Uuid.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Data_Type/Text/Uuid.protect|Uuid.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Data_Type/Text/Uuid.private|Uuid.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Data_Type/Text/Uuid.personal|Uuid.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Data_Type/Text/Uuid.secret|Uuid.secret]]"
+    - "[[Uuid]]"
 dv_has_:
   name_:
     ar: معرف فريد عام
@@ -83,24 +83,24 @@ dv_has_:
   url_for_:
     description: https://uuid.ramsey.dev
 dv_is_worse_than:
-- '[[../../../../../../IT/SW~Architecture/Snowflake-ID|Snowflake-ID]]]'
-- '[[Cuid2]]'
+  - "[[../../../../../../_internal/Technology/IT/Software/SW~Architecture/Snowflake-ID|Snowflake-ID]]]"
+  - "[[Cuid2]]"
 dv_has_url_for_description: https://uuid.ramsey.dev
 dv_is_same_as:
-- '[[Uuid]]'
-- '[[/_public/schema-org/Class/is_a_/Data_Type/Text/Uuid.public|Uuid.public]]'
-- '[[/_internal/schema-org/Class/is_a_/Data_Type/Text/Uuid.internal|Uuid.internal]]'
-- '[[/_protect/schema-org/Class/is_a_/Data_Type/Text/Uuid.protect|Uuid.protect]]'
-- '[[/_private/schema-org/Class/is_a_/Data_Type/Text/Uuid.private|Uuid.private]]'
-- '[[/_personal/schema-org/Class/is_a_/Data_Type/Text/Uuid.personal|Uuid.personal]]'
-- '[[/_secret/schema-org/Class/is_a_/Data_Type/Text/Uuid.secret|Uuid.secret]]'
+  - "[[Uuid]]"
+  - "[[/_public/schema-org/Class/is_a_/Data_Type/Text/Uuid.public|Uuid.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Data_Type/Text/Uuid.internal|Uuid.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Data_Type/Text/Uuid.protect|Uuid.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Data_Type/Text/Uuid.private|Uuid.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Data_Type/Text/Uuid.personal|Uuid.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Data_Type/Text/Uuid.secret|Uuid.secret]]"
 has_id_wikidata: Q195284
 ---
 
 # [[UUID]] 
 
 Better Alternatives are: 
-#is_/worse_than ::[[../../../../../../IT/SW~Architecture/Snowflake-ID|Snowflake-ID]]] 
+#is_/worse_than ::[[../../../../../../_internal/Technology/IT/Software/SW~Architecture/Snowflake-ID|Snowflake-ID]]] 
 #is_/worse_than :: [[Cuid2]]
 NanoID 
 

@@ -108,7 +108,7 @@ title: 🄯 Copyleft
 
 # [[Copyleft]] 🄯 
 
-#has_/creator :: [[../../../Technology/IT/Software/Computer_Programming/Programmers/Stallman,Richard|Stallman,Richard]] 
+#has_/creator :: [[../../../Technology/IT/Software/SW~Programming/Programmers/Stallman,Richard|Stallman,Richard]] 
 
 Copyleft is a Reaction to the [[US_Copyright_Act,1976]] on Software, 
 which was followed up by the [[DMCA(Digital Millennium Copyright Act)]] of 1998. 

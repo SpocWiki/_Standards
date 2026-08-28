@@ -231,7 +231,7 @@ dv_has_:
 > At 21, he eloped with a Quaker and converted to Unitarianism, causing estrangement from his family. 
 > He made his fortune financing government borrowing and later retired to an estate in Gloucestershire. 
 > Ricardo served as High Sheriff of Gloucestershire and bought a seat in Parliament as a reformer. 
-> He was friends with prominent figures like James Mill, [[../../../../IT/Programming/Patterns/Patterns~Java.2/Patterns~GRASP/Bentham,Jeremy|Jeremy Bentham]], and Thomas Malthus, 
+> He was friends with prominent figures like James Mill, [[../../../../_internal/Technology/IT/Software/SW~Programming/Patterns/Patterns~Java.2/Patterns~GRASP/Bentham,Jeremy|Jeremy Bentham]], and Thomas Malthus, 
 > engaging in debates over various topics. 
 > Ricardo was also a member of The Geological Society, and his youngest sister was an author.
 >

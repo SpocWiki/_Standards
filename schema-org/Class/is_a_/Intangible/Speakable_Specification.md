@@ -86,7 +86,7 @@ Class of all speakable_specifications.
 Tag Instances like this: 
 #is_a_/speakable_specification
 
-A SpeakableSpecification indicates (typically via [[xpath]] or [[cssSelector]]) sections of a document that are highlighted as particularly [[speakable]]. Instances of this type are expected to be used primarily as values of the [[speakable]] property.
+A SpeakableSpecification indicates (typically via [[../../../../../_internal/Technology/IT/Computer_Network/URL/xPath]] or [[cssSelector]]) sections of a document that are highlighted as particularly [[speakable]]. Instances of this type are expected to be used primarily as values of the [[speakable]] property.
 
 has_parent_class = `=this.dv_has_parent_class` 
 

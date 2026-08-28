@@ -33,7 +33,7 @@ version: 2.0
 # SpeakableSpecification
 This is a kind of [[FileClass~Intangible]]
 
-A SpeakableSpecification indicates (typically via [[xpath]] or [[cssSelector]]) sections of a document that are highlighted as particularly [[speakable]]. Instances of this type are expected to be used primarily as values of the [[speakable]] property.
+A SpeakableSpecification indicates (typically via [[../../../../_internal/Technology/IT/Computer_Network/URL/xPath]] or [[cssSelector]]) sections of a document that are highlighted as particularly [[speakable]]. Instances of this type are expected to be used primarily as values of the [[speakable]] property.
 
 
 ## Use one of these Tags for Objects of this Type:

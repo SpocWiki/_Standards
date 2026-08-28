@@ -457,7 +457,7 @@ dv_has_:
 
 #is_/same_as :: [[../../WikiData/WD~Gregorian_calendar,12138|WD~Gregorian_calendar,12138]] 
 
-The new [[Gregorian_Calendar]] better approximates the[[../../../IT/Programming/Patterns/Patterns~Java.2/Patterns~GRASP/Julian_calendar|Julian_calendar]]], 
+The new [[Gregorian_Calendar]] better approximates the[[../../../_internal/Technology/IT/Software/SW~Programming/Patterns/Patterns~Java.2/Patterns~GRASP/Julian_calendar|Julian_calendar]]], 
 which accumulated 10 days (11 minutes per year; 1 day every 129 years) 
 between its introduction -0045-01-01 and the reform in 1582-10-15. 
 

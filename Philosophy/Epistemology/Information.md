@@ -351,7 +351,7 @@ dv_has_:
 # [[Information]] 
 
 
-#is_/better_than :: [[../../../IT/Data|Data]]  
+#is_/better_than :: [[../../../_internal/Technology/IT/Data.internal|Data]]  
 #is_/worse_than :: [[./Knowledge|Knowledge]]   
 #is_/same_as :: [[../../WikiData/WD~Information,11028|WD~Information,11028]] 
 

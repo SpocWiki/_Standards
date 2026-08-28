@@ -223,7 +223,7 @@ dv_has_:
 # [[McCarthy,John]]
 
 #is_a_/Person 
-#has_/created :: [[../../Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP|LISP]] 
+#has_/created :: [[../../Software/SW~Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP|LISP]] 
 #is_/same_as :: [[/_Standards/WikiData/WD~John_McCarthy,92739|WD~John_McCarthy,92739]] 
 
 ## #has_/text_of_/abstract  

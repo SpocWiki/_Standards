@@ -23,7 +23,7 @@ has_id_wikidata: Q852592
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Reverse%20onus)  
 
-This is analogous to queries in [[../../../../IT/Data/DataBase/Sql/Logic~Ternary|Logic~Ternary]], 
+This is analogous to queries in [[../../../../_internal/Technology/IT/Data/DataBase/Sql/Logic~Ternary|Logic~Ternary]], 
 where 3 Domains are distinguished: True, False and Null 
 and the unknown/null Domain may be the largest. 
 

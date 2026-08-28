@@ -34,15 +34,15 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Data_Type/Text.personal|Text.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Data_Type/Text.secret|Text.secret]]"
     - "[[Text]]"
-  similar_to: "[[../../../../../IT/Data/Data~Text/JSON(JavaScript_Object_Notation)/Type~primitive/Type~String|Type~String]]"
+  similar_to: "[[../../../../../_internal/Technology/IT/Data/Data~Text/JSON(JavaScript_Object_Notation)/Type~primitive/Type~String|Type~String]]"
 dv_has_:
   child_:
     class:
-    - "[[Text/Css_Selector_Type|Css_Selector_Type]]"
-    - "[[Text/Pronounceable_Text|Pronounceable_Text]]"
-    - "[[Text/Url|Url]]"
-    - "[[Text/X_Path_Type|X_Path_Type]]"
-dv_is_similar_to: "[[../../../../../IT/Data/Data~Text/JSON(JavaScript_Object_Notation)/Type~primitive/Type~String|Type~String]]"
+      - "[[Text/Css_Selector_Type|Css_Selector_Type]]"
+      - "[[Text/Pronounceable_Text|Pronounceable_Text]]"
+      - "[[Text/Url|Url]]"
+      - "[[Text/X_Path_Type|X_Path_Type]]"
+dv_is_similar_to: "[[../../../../../_internal/Technology/IT/Data/Data~Text/JSON(JavaScript_Object_Notation)/Type~primitive/Type~String|Type~String]]"
 dv_has_child_class:
   - "[[Text/Css_Selector_Type|Css_Selector_Type]]"
   - "[[Text/Pronounceable_Text|Pronounceable_Text]]"

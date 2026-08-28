@@ -53,10 +53,10 @@ aliases:
 
 # [[Discord]] 
 
-#has_/Frameworks :: [[../../../../../../../Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Erlang|Prog~Erlang]], [[../../../../../../../Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~Go|Prog~Go]] 
+#has_/Frameworks :: [[../../../../../../../Technology/IT/Software/SW~Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Erlang|Prog~Erlang]], [[../../../../../../../Technology/IT/Software/SW~Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~Go|Prog~Go]] 
 #is_/different_from :: [[SW~Discourse|SW~Discourse]]  
 
-Discord is rewritten in [[../../../../../../../Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust|Prog~Rust]] because of the [[Garbage Collection]] pauses.  
+Discord is rewritten in [[../../../../../../../Technology/IT/Software/SW~Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust|Prog~Rust]] because of the [[Garbage Collection]] pauses.  
 
 > **Discord** is an instant messaging and VoIP social platform which allows communication through voice calls, video calls, text messaging, and media and files. 
 > 

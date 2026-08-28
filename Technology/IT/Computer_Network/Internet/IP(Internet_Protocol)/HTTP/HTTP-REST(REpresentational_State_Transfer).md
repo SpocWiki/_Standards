@@ -35,7 +35,7 @@ independent of the Server Semantics.
 
 REST-ful HTTP APIs assign a URL to any Entity/Resource. 
  Queries can be performed 
- - by extending the Path in 1 dimension (the [[../../../../../../../IT/Programming/Patterns/Patterns~Java.3/Patterns~Distributed_Computing/Pattern~Object-Identifier|Primary Key]] ) and 
+ - by extending the Path in 1 dimension (the [[../../../../../../../_internal/Technology/IT/Software/SW~Programming/Patterns/Patterns~Java.3/Patterns~Distributed_Computing/Pattern~Object-Identifier|Primary Key]] ) and 
  - with Query-Parameters for multiple Dimensions 
 
 ```cs
