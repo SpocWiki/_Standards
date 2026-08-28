@@ -221,7 +221,7 @@ dv_has_:
 #has_/time_/started : 1990-06 
 #has_/next_/item ::[[../Taxon_Rank/bio~Kingdom|bio~Kingdom]]] 
 
-Top-Level Distinction of [[Life]], rooted at the [[LUCA(Last_Universal_Common_Ancestor)]] . 
+Top-Level Distinction of [[../../../_internal/Society/Agent/Management/Life_Skills.internal]], rooted at the [[LUCA(Last_Universal_Common_Ancestor)]] . 
 
 ## #has_/text_of_/abstract 
 
