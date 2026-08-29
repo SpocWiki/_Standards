@@ -102,7 +102,7 @@ dv_is_same_as:
 # [[has_location]] 
 
 Predicate to describe the geo:lat_long of an Action, Event, InteractionCounter, Organization.
-For [[../../../../_internal/Philosophy/Epistemology/Knowledge/PKM(Personal_Knowledge_Management)/Obsidian(SW).internal/Obsidian~PlugIn/Obsidian~Leaflet|Obsidian~Leaflet]] the location Predicate must be a JSON-Array of 2 or 3 float-point Numbers, 
+For [[../../../../_internal/Philosophy/Epistemology/Knowledge/PKM(Personal_Knowledge_Management)/Obsidian(SW)/Obsidian~PlugIn/Obsidian~Leaflet|Obsidian~Leaflet]] the location Predicate must be a JSON-Array of 2 or 3 float-point Numbers, 
 but otherwise the square brackets may be omitted. 
 [[../../../Earth|Earth]]  
 The Units are defaulted to degrees and meters for the optional elevation, 

@@ -147,7 +147,7 @@ aliases:
 > The term comes from the French acrostiche from post-classical Latin acrostichis, 
 > from Koine Greek ἀκροστιχίς, from Ancient Greek ἄκρος "highest, topmost" and στίχος "verse". 
 > 
-> As a form of constrained writing, an acrostic can be used as a [[Mnemonic_Device]] to aid memory retrieval.  
+> As a form of constrained writing, an acrostic can be used as a [[../../_internal/Technology/Design/Mnemonic_Device]] to aid memory retrieval.  
 > When the last letter of each new line (or other recurring feature) forms a word it is called a telestich (or telestic); 
 > the combination of an acrostic and a telestich in the same composition is called a double acrostic 
 > (e.g. the first-century Latin [[Sator_Square]]).

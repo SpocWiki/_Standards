@@ -30,7 +30,7 @@ type: Type
 Class of all treatment_indications.
 
 Tag Instances like this: 
-#is_a_/treatment_indication
+#is_an_/indication_/for_treatment 
 
 An indication for treating an underlying condition, symptom, etc.
 

@@ -30,9 +30,12 @@ type: Type
 Class of all approved_indications.
 
 Tag Instances like this: 
-#is_an_/approved_indication
+#is_an_/indication_/approved  
 
-An indication for a medical therapy that has been formally specified or approved by a regulatory body that regulates use of the therapy; for example, the US FDA approves indications for most drugs in the US.
+An indication for a medical therapy 
+that has been formally specified or approved by a regulatory body 
+that regulates use of the therapy; 
+for example, the US FDA approves indications for most drugs in the US.
 
 #has_/parent_class :: [[../MedicalIndication|MedicalIndication]]  
 

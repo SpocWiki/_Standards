@@ -1,5 +1,5 @@
 
-OO __adds Behavior__ to the common [[Modularity]] of  stateful Records/Structs,
+OO __adds Behavior__ to the common [[../../../../../../../../_internal/Technology/Design/Modularity]] of  stateful Records/Structs,
 creating more powerful (and typically also __polymorphic__) Modules. 
 
 Encapsulation works double: 

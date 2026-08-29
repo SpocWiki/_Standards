@@ -161,7 +161,7 @@ dv_has_:
 
 ### #is_/same_as :: [[/_public/Mathematics/Algebra/Linear_Algebra/Vector_Space/Tensor.public|Tensor.public]] 
 
-### #is_/same_as :: [[/_internal/Mathematics/Algebra/Linear_Algebra/Vector_Space/Tensor.internal|Tensor.internal]] 
+### #is_/same_as :: [[../../../../../_internal/Mathematics/Algebra/Linear_Algebra/Vector_Space/Tensor|Tensor.internal]] 
 
 ### #is_/same_as :: [[/_protect/Mathematics/Algebra/Linear_Algebra/Vector_Space/Tensor.protect|Tensor.protect]] 
 

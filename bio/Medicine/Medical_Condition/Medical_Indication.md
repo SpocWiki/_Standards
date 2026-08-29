@@ -30,7 +30,7 @@ type: Type
 Class of all medical_indications.
 
 Tag Instances like this: 
-#is_a_/medical_indication
+#is_an_/indication_/medical 
 
 A condition or factor that indicates use of a medical therapy, including signs, symptoms, risk factors, anatomical states, etc.
 

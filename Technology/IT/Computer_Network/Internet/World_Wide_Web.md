@@ -306,9 +306,17 @@ dv_has_:
 > Web navigation, or web surfing, 
 > is the common practice of following such hyperlinks across multiple websites. 
 > 
-> Web applications are web pages that function as application software. The information in the Web is transferred across the Internet using HTTP. Multiple web resources with a common theme and usually a common domain name make up a website. A single web server may provide multiple websites, while some websites, especially the most popular ones, may be provided by multiple servers. Website content is provided by a myriad of companies, organizations, government agencies, and individual users; and comprises an enormous amount of educational, entertainment, commercial, and government information.
+> Web applications are web pages that function as application software. 
+> The information in the Web is transferred across the Internet using HTTP. 
+> Multiple web resources with a 
+> common theme and usually a common domain name make up a website. 
+> A single web server may provide multiple websites, 
+> while some websites, especially the most popular ones, may be provided by multiple servers. 
+> 
+> Website content is provided by a myriad of companies, organizations, government agencies, and individual users; and comprises an enormous amount of educational, entertainment, commercial, and government information.
 >
-> The Web has become the world's dominant information systems platform. It is the primary tool that billions of people worldwide use to interact with the Internet.
+> The Web has become the world's dominant information systems platform. 
+> It is the primary tool that billions of people worldwide use to interact with the Internet.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/World%20Wide%20Web) 
 

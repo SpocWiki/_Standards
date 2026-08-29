@@ -325,7 +325,7 @@ dv_has_:
 
 ### #is_/same_as :: [[/_public/Technology/Energy-Technology/Renewable_Energy/Solar_Energy.public|Solar_Energy.public]] 
 
-### #is_/same_as :: [[/_internal/Technology/Energy-Technology/Renewable_Energy/Solar_Energy.internal|Solar_Energy.internal]] 
+### #is_/same_as :: [[../../../../_internal/Technology/Energy-Technology/Renewable_Energy/Solar_Energy|Solar_Energy.internal]] 
 
 ### #is_/same_as :: [[/_protect/Technology/Energy-Technology/Renewable_Energy/Solar_Energy.protect|Solar_Energy.protect]] 
 

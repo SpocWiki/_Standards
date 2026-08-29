@@ -108,7 +108,7 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Open-source%20intelligence)  
 
-## #has_/example 
+## #has_/examples 
 
 [[2014-Shooting_of_Flight_MH17]] by [[Bellingcat]] 
 

@@ -1,12 +1,13 @@
 ---
 aliases:
+- Robert Allen Zimmerman
+- Robert Zimmerman
 - Bob Dilan
 - Bob Dylan
 - Bobs Dilans
 - Dilan Bob
 - Dylan Bob
 - Dylan,Bob
-- Robert Allen Zimmerman
 - Robert Dylan
 - Robertus Dylan
 - Μπομπ Ντίλαν

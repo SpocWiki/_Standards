@@ -54,7 +54,7 @@ dv_has_:
 
 #is_/same_as :: [[WD~Path_dependence,1093521]] 
 
-## #has_/example  
+## #has_/examples  
 
 - [[../../../bio/Evolution|Evolution]] 
 - [[Videotape Format War]] 

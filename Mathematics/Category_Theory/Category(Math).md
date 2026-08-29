@@ -197,7 +197,7 @@ dv_has_:
 
 ### #is_/same_as :: [[/_public/Mathematics/Category_Theory/Category(Math).public|Category(Math).public]] 
 
-### #is_/same_as :: [[/_internal/Mathematics/Category_Theory/Category(Math).internal|Category(Math).internal]] 
+### #is_/same_as :: [[../../../_internal/Mathematics/Category_Theory/Category(Math)|Category(Math).internal]] 
 
 ### #is_/same_as :: [[/_protect/Mathematics/Category_Theory/Category(Math).protect|Category(Math).protect]] 
 
