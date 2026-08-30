@@ -332,12 +332,16 @@ dv_has_:
 > He moved to New York City in 1961 to pursue a career in music. 
 > Following his 1962 debut album, Bob Dylan, featuring traditional folk and blues material, 
 > he released his breakthrough album The Freewheelin' Bob Dylan (1963), 
-> which included "Girl from the North Country" and "A Hard Rain's a-Gonna Fall", adapting older folk songs. 
+> which included "Girl from the North Country" and "A Hard Rain's a-Gonna Fall", 
+> adapting older folk songs. 
 > 
 > His songs "Blowin' in the Wind" (1963) and "The Times They Are a-Changin'" (1964) 
 > became anthems for the civil rights and antiwar movements. 
-> In 1965 and 1966, Dylan created controversy when he used electrically amplified rock instrumentation 
-> for his albums Bringing It All Back Home, Highway 61 Revisited (both 1965), and Blonde on Blonde (1966). 
+> In 1965 and 1966, Dylan created controversy 
+> when he used electrically amplified rock instrumentation for his albums 
+> - Bringing It All Back Home, 
+> - Highway 61 Revisited (both 1965), and 
+> - Blonde on Blonde (1966). 
 > 
 > His six-minute single "Like a Rolling Stone" (1965) 
 > expanded commercial and creative boundaries in popular music.
@@ -347,7 +351,9 @@ dv_has_:
 > which produced the album The Basement Tapes (1975). 
 > 
 > Dylan explored country music and rural themes on the albums 
-> John Wesley Harding (1967), Nashville Skyline (1969) and New Morning (1970). 
+> - John Wesley Harding (1967), 
+> - Nashville Skyline (1969) and 
+> - New Morning (1970). 
 > 
 > He gained acclaim for Blood on the Tracks (1975) and Time Out of Mind (1997), 
 > the latter of which earned him the Grammy Award for Album of the Year. 
@@ -357,14 +363,23 @@ dv_has_:
 > 
 > Since 1994, Dylan has published ten books of paintings and drawings, 
 > and his work has been exhibited in major art galleries. 
-> His life has been profiled in several films, including the biopic A Complete Unknown (2024).
+> His life has been profiled in several films, including the 
+> biopic A Complete Unknown (2024).
 >
-> Dylan's accolades include an Academy Award, ten Grammy Awards and a Golden Globe Award. 
-> He was honored with the Kennedy Center Honors in 1997, National Medal of Arts in 2009, 
-> and the Presidential Medal of Freedom in 2012. 
+> Dylan's accolades include an 
+> - Academy Award, 
+> - ten Grammy Awards and a 
+> - Golden Globe Award. 
+> He was honored with the 
+> - Kennedy Center Honors in 1997, 
+> - National Medal of Arts in 2009, and the 
+> - Presidential Medal of Freedom in 2012. 
 > 
-> Dylan has been inducted into the Rock and Roll Hall of Fame, 
-> the Nashville Songwriters Hall of Fame and the Songwriters Hall of Fame. 
+> Dylan has been inducted into 
+> - the Rock and Roll Hall of Fame, 
+> - the Nashville Songwriters Hall of Fame and 
+> - the Songwriters Hall of Fame. 
+> 
 > He was awarded a Pulitzer Prize special citation in 2008, 
 > and the 2016 Nobel Prize in Literature 
 > "for having created new poetic expressions within the great American song tradition".

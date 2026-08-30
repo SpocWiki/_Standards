@@ -66,10 +66,12 @@ Use it like this:
 - #is_/legislation_transpose_of : : `=this.dv_has_range`   
 - is_legislation_transpose_of : : `=this.dv_has_range`   
 
-Indicates that this legislation (or part of legislation) fulfills the objectives set by another legislation,
+Indicates that this legislation (or part of legislation) 
+fulfills the objectives set by another legislation,
 by passing appropriate implementation measures.
 
-Typically, some legislations of European Union's member states or regions transpose European Directives.
+Typically, 
+legislations of European Union's member states or regions transpose European Directives.
 This indicates a legally binding link between the 2 legislations.
 
 Relation describes that: 
