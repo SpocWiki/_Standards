@@ -223,7 +223,7 @@ entry_in_abbreviations_table: Hom. Il.
 Commons_category: Iliad
 Archive_of_Our_Own_tag: The Iliad - Homer
 Gujarati_Vishwakosh_entry: ઇલિયડ
-title: Ἰλιάς
+title: Iliad
 first_line: μῆνιν ἄειδε, θεά, Πηληϊάδεω Ἀχιλῆος
 last_line: Ὣς οἵ γ᾽ ἀμφίεπον τάφον Ἕκτορος ἱπποδάμοιο.
 inception: -0800

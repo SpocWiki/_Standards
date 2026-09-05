@@ -81,7 +81,8 @@ dv_has_:
 
 ## #has_/text_of_/abstract 
 
-> The Boy Who Cried Wolf is one of Aesop's Fables, numbered 210 in the Perry Index. 
+> The Boy Who Cried Wolf is one of [[../Aesop's_Fables|Aesop's Fables]], numbered 210 in the Perry Index. 
+> 
 > From it is derived the English idiom "to cry wolf", 
 > defined as "to give a false alarm" in Brewer's Dictionary of Phrase and Fable 
 > and glossed by the Oxford English Dictionary as meaning to make false claims, 
@@ -92,7 +93,7 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Modern_Philosopher/Cry_Wolf|Cry_Wolf]] 
+### #is_/same_as :: [[Cry_Wolf|Cry_Wolf]] 
 
 ### #is_/same_as :: [[/_public/Philosophy/Philosopher/Modern_Philosopher/Cry_Wolf.public|Cry_Wolf.public]] 
 

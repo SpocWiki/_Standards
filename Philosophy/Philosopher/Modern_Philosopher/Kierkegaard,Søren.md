@@ -337,7 +337,7 @@ dv_has_:
 #is_/same_as :: [[../../../WikiData/WD~Søren_Kierkegaard,6512|WD~Søren_Kierkegaard,6512]]  
 
 #has_/created :: Clown reporting the Circus being on Fire 
-#is_/similar_to :: [[Cry_Wolf]] 
+#is_/similar_to :: [[../../../Society/Communication/Media/Writing/Book/Literature/Greek_Literature/Aesop's_Fables/Cry_Wolf]] 
 
 ## #has_/text_of_/abstract 
 

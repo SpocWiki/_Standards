@@ -202,7 +202,7 @@ Dewey_Decimal_Classification: 883.01
 Libris_URI: fcrv304z5hxf162
 entry_in_abbreviations_table: Hom. Od.
 Library_of_Congress_Classification: PA4021-PA4022
-title: Ὀδύσσεια
+title: Odyssey 
 dv_has_:
   name_:
     af: Odussee
