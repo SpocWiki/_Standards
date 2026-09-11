@@ -226,6 +226,7 @@ title: 🤥 Lie
 # [[Lie]] 🤥 
 
 #is_/same_as :: [[/_Standards/WikiData/WD~Lie,4925193|WD~Lie,4925193]] 
+#has_/opponent :: [[../../../../../Philosophy/Epistemology/Truth|Truth]] 
 
 ## #has_/text_of_/abstract 
 

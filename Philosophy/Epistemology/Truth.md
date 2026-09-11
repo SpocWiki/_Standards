@@ -336,7 +336,8 @@ dv_has_:
 # [[Truth]] 
 
 #is_/same_as :: [[../../WikiData/WD~Truth,7949|WD~Truth,7949]] 
-
+#has_/opponent :: [[../../Society/Law/Criminal_Law/Crime/Deception/Lie|Lie]] 
+#has_/opponent :: [[../../Society/Communication/Genre/Fiction|Fiction]] 
 
 ## #has_/text_of_/abstract 
 
@@ -368,6 +369,20 @@ dv_has_:
 > and, if truth is always absolute or if it can be relative to one's perspective.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Truth) 
+
+
+## #has_/Cons 
+
+Truth has/is 
+- expensive to obtain 
+- sometimes inconvenient 
+- expensive to handle 
+	- often complicated 
+
+## #has_/institution  
+
+- [[../../Society/Communication/Media/Journalism|Journalism]] 
+- [[../../Science|Science]]  
 
 
 ## Confidential Links & Embeds: 

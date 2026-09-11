@@ -306,6 +306,7 @@ dv_has_:
 
 #is_/same_as :: [[../../../WikiData/WD~Fiction,8253|WD~Fiction,8253]] 
 #has_/complement :: [[Non-Fiction]] 
+#has_/complement :: [[../../../Philosophy/Epistemology/Truth|Truth]]  
 
 ## #has_/text_of_/abstract 
 
@@ -322,6 +323,8 @@ dv_has_:
 > radio dramas, comics, role-playing games, and video games.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fiction) 
+
+
 
 
 ## Confidential Links & Embeds: 

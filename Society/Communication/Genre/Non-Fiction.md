@@ -184,7 +184,8 @@ dv_has_:
 
 # [[Non-Fiction]] 
 
-#is_/same_as :: [[/_Standards/WikiData/WD~non-fiction,213051|WD~non-fiction,213051]]
+#is_/same_as :: [[/_Standards/WikiData/WD~non-fiction,213051|WD~non-fiction,213051]] 
+#is_/part_of :: [[../../../Philosophy/Epistemology/Truth|Truth]] 
 
 ## #has_/text_of_/abstract 
 
