@@ -252,6 +252,10 @@ dv_has_:
 # [[Goebbels,Joseph]] 
 
 #is_/same_as :: [[/_Standards/WikiData/WD~Joseph_Goebbels,41749|WD~Joseph_Goebbels,41749]] 
+#has_/created_/quote :: Das wird immer einer der besten Witze der Demokratie bleiben, dass sie ihren Todfeinden die Mittel selbst stellte, durch die sie vernichtet wurde. 
+#has_/created_/quote :: Wir werden Reichstagsabgeordnete, um die Weimarer Gesinnung mit ihrer eigenen Unterstützung lahmzulegen. 
+#has_/created_/quote :: Wir kommen nicht als Freunde, auch nicht als Neutrale. Wir kommen als Feinde! Wie der Wolf in die Schafherde einbricht, so kommen wir. 
+
 
 ## #has_/text_of_/abstract 
 

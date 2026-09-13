@@ -118,6 +118,17 @@ dv_has_:
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Cranberries) 
 
 
+## Discography
+
+Artist page:: [[Cranberries, The (Artist)]]
+
+```dataview
+TABLE year AS Year, trackCount AS Tracks, rating AS Rating
+FROM "Media_DB/music"
+WHERE contains(artists, "Cranberries, The")
+SORT year ASC
+```
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Cranberries(Band)|Cranberries(Band)]] 

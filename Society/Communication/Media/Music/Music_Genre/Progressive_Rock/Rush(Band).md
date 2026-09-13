@@ -66,6 +66,17 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Rush%20(band)) 
 
 
+## Discography
+
+Artist page:: [[Rush (Artist)]]
+
+```dataview
+TABLE year AS Year, trackCount AS Tracks, rating AS Rating
+FROM "Media_DB/music"
+WHERE contains(artists, "Rush")
+SORT year ASC
+```
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Rush(Band)|Rush(Band)]] 

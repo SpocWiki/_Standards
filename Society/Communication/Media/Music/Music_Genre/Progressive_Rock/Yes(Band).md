@@ -68,6 +68,17 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Yes%20(band)) 
 
 
+## Discography
+
+Artist page:: [[Yes (Artist)]]
+
+```dataview
+TABLE year AS Year, trackCount AS Tracks, rating AS Rating
+FROM "Media_DB/music"
+WHERE contains(artists, "Yes")
+SORT year ASC
+```
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Yes(Band)|Yes(Band)]] 

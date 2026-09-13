@@ -61,6 +61,17 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Queen%20(band)) 
 
 
+## Discography
+
+Artist page:: [[Queen (Artist)]]
+
+```dataview
+TABLE year AS Year, trackCount AS Tracks, rating AS Rating
+FROM "Media_DB/music"
+WHERE contains(artists, "Queen")
+SORT year ASC
+```
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)|Queen(Band)]] 

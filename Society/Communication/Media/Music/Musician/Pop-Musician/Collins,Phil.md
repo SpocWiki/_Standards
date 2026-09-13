@@ -371,6 +371,17 @@ dv_has_:
 > [Wikipedia](https://en.wikipedia.org/wiki/Phil%20Collins) 
 
 
+## Discography
+
+Artist page:: [[Phil Collins (Artist)]]
+
+```dataview
+TABLE year AS Year, trackCount AS Tracks, rating AS Rating
+FROM "Media_DB/music"
+WHERE contains(artists, "Phil Collins")
+SORT year ASC
+```
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Collins,Phil|Collins,Phil]] 

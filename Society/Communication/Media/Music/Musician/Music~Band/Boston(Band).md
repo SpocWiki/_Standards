@@ -39,6 +39,17 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Boston%20(band)) 
 
 
+## Discography
+
+Artist page:: [[Boston (Artist)]]
+
+```dataview
+TABLE year AS Year, trackCount AS Tracks, rating AS Rating
+FROM "Media_DB/music"
+WHERE contains(artists, "Boston")
+SORT year ASC
+```
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Boston(Band)|Boston(Band)]] 

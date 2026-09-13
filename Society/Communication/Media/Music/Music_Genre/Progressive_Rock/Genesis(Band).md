@@ -56,6 +56,17 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Genesis%20(band)) 
 
 
+## Discography
+
+Artist page:: [[Genesis (Artist)]]
+
+```dataview
+TABLE year AS Year, trackCount AS Tracks, rating AS Rating
+FROM "Media_DB/music"
+WHERE contains(artists, "Genesis")
+SORT year ASC
+```
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Genesis(Band)|Genesis(Band)]] 

@@ -287,11 +287,14 @@ dv_has_:
 # [[Brecht,Bertolt]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Bertolt_Brecht,38757|WD~Bertolt_Brecht,38757]] 
+#has_/created_/quote :: Wer zu Hause bleibt, wenn der Kampf beginnt … der wird teilen die Niederlage. 
 
 ## #has_/text_of_/abstract 
 
 > Eugen Berthold Friedrich Brecht (10 February 1898 – 14 August 1956), 
-> known as Bertolt Brecht and Bert Brecht, was a German theatre practitioner, playwright, and poet. 
+> known as Bertolt Brecht and Bert Brecht, 
+> was a German theatre practitioner, playwright, and poet. 
+> 
 > Coming of age during the Weimar Republic, 
 > he had his first successes as a playwright in Munich and moved to Berlin in 1924, 
 > where he wrote The Threepenny Opera with Elisabeth Hauptmann and Kurt Weill 

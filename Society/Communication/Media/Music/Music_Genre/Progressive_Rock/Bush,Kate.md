@@ -183,6 +183,17 @@ dv_has_:
 > [Wikipedia](https://en.wikipedia.org/wiki/Kate%20Bush) 
 
 
+## Discography
+
+Artist page:: [[Kate Bush (Artist)]]
+
+```dataview
+TABLE year AS Year, trackCount AS Tracks, rating AS Rating
+FROM "Media_DB/music"
+WHERE contains(artists, "Kate Bush")
+SORT year ASC
+```
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Bush,Kate|Bush,Kate]] 
