@@ -35,6 +35,8 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kardashev%20scale)  
 
+#has_/text_of_/description 
+#has_/file_/path 
 
 ### Barrow's microdimensional mastering
 
