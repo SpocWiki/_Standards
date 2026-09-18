@@ -547,6 +547,31 @@ dv_has_:
 - Verify Theses 
 - Aggregate Data 
 
+### AI Security 
+
+#### Factors 
+
+##### Continuous, even exponential Improvement 
+
+RSI(Recursive Self-Improvement) 
+
+Yes, Models come ever faster. 
+
+##### Observability and Alignment 
+
+- 2026 Latest OpenAI Models modify weights instead of generating readable Reasoning Text. 
+- Models provably "know" they are being tested and adjust their behavior 
+
+##### AI builds its own Successor and modifies Goals 
+
+- 2026 Not done yet. The Incidents were a consequence of the goal given. 
+- even an unaligned model pursued the given goals. 
+
+##### We need to be able to pull the Plug 
+
+- 2026 AI require a global infrastructure, that is run 98% by people. 
+
+
 ### AI as Source of Inspiration 
 
 ### AI as a Teacher 
