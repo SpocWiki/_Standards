@@ -52,6 +52,17 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Styx%20(band)) 
 
 
+## Discography
+
+Artist page:: [[Styx (Artist)]]
+
+```dataview
+TABLE year AS Year, trackCount AS Tracks, rating AS Rating
+FROM "Media_DB/music"
+WHERE contains(artists, "Styx")
+SORT year ASC
+```
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Styx(Band)|Styx(Band)]] 

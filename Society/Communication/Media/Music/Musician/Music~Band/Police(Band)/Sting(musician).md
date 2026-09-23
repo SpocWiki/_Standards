@@ -52,6 +52,17 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Sting%20(musician)) 
 
 
+## Discography
+
+Artist page:: [[Sting (Artist)]]
+
+```dataview
+TABLE year AS Year, trackCount AS Tracks, rating AS Rating
+FROM "Media_DB/music"
+WHERE contains(artists, "Sting")
+SORT year ASC
+```
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Police(Band)/Sting(musician)|Sting(musician)]] 

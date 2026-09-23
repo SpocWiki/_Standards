@@ -209,6 +209,17 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Aerosmith) 
 
 
+## Discography
+
+Artist page:: [[AeroSmith (Artist)]]
+
+```dataview
+TABLE year AS Year, trackCount AS Tracks, rating AS Rating
+FROM "Media_DB/music"
+WHERE contains(artists, "AeroSmith")
+SORT year ASC
+```
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[Aerosmith|Aerosmith]] 

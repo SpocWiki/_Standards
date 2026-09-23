@@ -274,6 +274,17 @@ dv_has_:
 > [Wikipedia](https://en.wikipedia.org/wiki/Peter%20Gabriel) 
 
 
+## Discography
+
+Artist page:: [[Peter Gabriel (Artist)]]
+
+```dataview
+TABLE year AS Year, trackCount AS Tracks, rating AS Rating
+FROM "Media_DB/music"
+WHERE contains(artists, "Peter Gabriel")
+SORT year ASC
+```
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Singer/Gabriel,Peter|Gabriel,Peter]] 
