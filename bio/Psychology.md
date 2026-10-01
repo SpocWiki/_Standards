@@ -1,230 +1,230 @@
 ---
 aliases:
-- apytu'ũkuaaty
-- bredoniezh
-- brysonieth
-- cilminafsi
-- elimunafsia
-- eòlas-inntinn
-- Ilimin halin dan Adam
-- maɣzɩm kpɛlɛkʊʊ tʊmɩyɛ
-- mbũgĩ
-- menske
-- mātauranga hinengaro
-- nuna yachay
-- piööcëkuɛ̈nnhom
-- psichologie
-- psichologija
-- psicolochía
-- psicologgia
-- psicologia
-- psicologie
-- psicologjie
-- psicologìa
-- psicología
-- psicolojia
-- psicoloxía
-- psicoluggìa
-- psicołozia
-- psihologie
-- psihologii
-- psihologija
-- psiholoģija
-- psikolociye
-- psikolodjie
-- Psikologi
-- psikologia
-- psikologio
-- psikologji
-- psikolohiya
-- psikoloji
-- psikolojia
-- psikolojiya
-- psikoloġija
-- psikoluogėjė
-- psixologiya
-- psychologia
-- psychologie
-- psychologija
-- psychologijŏ
-- psychology
-- psychológia
-- psychòlogijô
-- psyholohie
-- psykologi
-- psykologia
-- psykologiija
-- psykologija
-- psykologije
-- pszichológia
-- psîkolojî
-- Psüchologii
-- psühholoogia
-- psükoloogia
-- ruhiyat
-- saayikoloojii
-- saekholoji
-- saekɔlɔgye
-- saikalaji
-- saikolaji
-- saikolosi
-- seicoleg
-- shicklaage
-- sicologia
-- sicoloxía
-- sielkunde
-- sikologia
-- sikolohia
-- sikolohiya
-- sikolohía
-- sikoloji
-- sim-lí-ha̍k
-- simleixhag
-- sona pi lawa jan
-- sálarfrøði
-- sálfræði
-- sáyẹ́nsì ọ̀rọ̀-inúọkàn
-- síceolaíocht
-- sîm-lî-ho̍k
-- tarnip ilinniarnera
-- tasnafsit
-- toe-tsaina
-- tâm lý học
-- uronzapfungwa
-- āpana kau
-- ψυχολογία
-- псіхалогія
-- псіхолоґія
-- психологія
-- психологи
-- психологијa
-- психологија
-- психологий
-- психология
-- псыхалёгія
-- равоншиносӣ
-- сэдьхэл шудалал
-- сэтгэл судлал
-- ѱѷхологїꙗ
-- հոգեբանութիւն
-- հոգեբանություն
-- פסיכאלאגיע
-- פסיכולוגיה
-- دەروونناسی
-- روانشناسی
-- سايكولوجيا
-- ساپوهنه
-- سایکولوژی
-- علم النفس
-- نفسيات
-- نفسیات
-- نَفسِیات
-- پسيكولوجيا
-- ڤسيکولوݢي
-- चिन्तनशास्त्र
-- मनोबिज्ञान
-- मनोविज्ञान
-- मनोविज्ञानम्
-- मानस शास्त्र
-- मानसशास्त्र
-- साइकोलोजी
-- মনোবিজ্ঞান
-- ਮਨੋਵਿਗਿਆਨ
-- મનોવિજ્ઞાન
-- ମନୋବିଜ୍ଞାନ
-- உளவியல்
-- మానసిక శాస్త్రము
-- ಮನೋಶಾಸ್ತ್ರ
-- മനഃശാസ്ത്രം
-- මනෝවේදය
-- จิตวิทยา
-- ຈິດຕະວິທະຍາ
-- སེམས་ཁམས་རིག་པ།
-- စိတ်ပညာ
-- ပညာစိုတ်
-- ფსიქოლოგია
-- የሥነ፡ልቡና ትምህርት
-- ចិត្តវិទ្យា
-- ᱢᱚᱱ ᱥᱟᱬᱮᱥ
-- ⵜⴰⵙⵏⵉⵎⴰⵏⵜ
-- 心理学
-- 心理學
-- 심리학
+  - apytu'ũkuaaty
+  - bredoniezh
+  - brysonieth
+  - cilminafsi
+  - elimunafsia
+  - eòlas-inntinn
+  - Ilimin halin dan Adam
+  - maɣzɩm kpɛlɛkʊʊ tʊmɩyɛ
+  - mbũgĩ
+  - menske
+  - mātauranga hinengaro
+  - nuna yachay
+  - piööcëkuɛ̈nnhom
+  - psichologie
+  - psichologija
+  - psicolochía
+  - psicologgia
+  - psicologia
+  - psicologie
+  - psicologjie
+  - psicologìa
+  - psicología
+  - psicolojia
+  - psicoloxía
+  - psicoluggìa
+  - psicołozia
+  - psihologie
+  - psihologii
+  - psihologija
+  - psiholoģija
+  - psikolociye
+  - psikolodjie
+  - Psikologi
+  - psikologia
+  - psikologio
+  - psikologji
+  - psikolohiya
+  - psikoloji
+  - psikolojia
+  - psikolojiya
+  - psikoloġija
+  - psikoluogėjė
+  - psixologiya
+  - psychologia
+  - psychologie
+  - psychologija
+  - psychologijŏ
+  - psychology
+  - psychológia
+  - psychòlogijô
+  - psyholohie
+  - psykologi
+  - psykologia
+  - psykologiija
+  - psykologija
+  - psykologije
+  - pszichológia
+  - psîkolojî
+  - Psüchologii
+  - psühholoogia
+  - psükoloogia
+  - ruhiyat
+  - saayikoloojii
+  - saekholoji
+  - saekɔlɔgye
+  - saikalaji
+  - saikolaji
+  - saikolosi
+  - seicoleg
+  - shicklaage
+  - sicologia
+  - sicoloxía
+  - sielkunde
+  - sikologia
+  - sikolohia
+  - sikolohiya
+  - sikolohía
+  - sikoloji
+  - sim-lí-ha̍k
+  - simleixhag
+  - sona pi lawa jan
+  - sálarfrøði
+  - sálfræði
+  - sáyẹ́nsì ọ̀rọ̀-inúọkàn
+  - síceolaíocht
+  - sîm-lî-ho̍k
+  - tarnip ilinniarnera
+  - tasnafsit
+  - toe-tsaina
+  - tâm lý học
+  - uronzapfungwa
+  - āpana kau
+  - ψυχολογία
+  - псіхалогія
+  - псіхолоґія
+  - психологія
+  - психологи
+  - психологијa
+  - психологија
+  - психологий
+  - психология
+  - псыхалёгія
+  - равоншиносӣ
+  - сэдьхэл шудалал
+  - сэтгэл судлал
+  - ѱѷхологїꙗ
+  - հոգեբանութիւն
+  - հոգեբանություն
+  - פסיכאלאגיע
+  - פסיכולוגיה
+  - دەروونناسی
+  - روانشناسی
+  - سايكولوجيا
+  - ساپوهنه
+  - سایکولوژی
+  - علم النفس
+  - نفسيات
+  - نفسیات
+  - نَفسِیات
+  - پسيكولوجيا
+  - ڤسيکولوݢي
+  - चिन्तनशास्त्र
+  - मनोबिज्ञान
+  - मनोविज्ञान
+  - मनोविज्ञानम्
+  - मानस शास्त्र
+  - मानसशास्त्र
+  - साइकोलोजी
+  - মনোবিজ্ঞান
+  - ਮਨੋਵਿਗਿਆਨ
+  - મનોવિજ્ઞાન
+  - ମନୋବିଜ୍ଞାନ
+  - உளவியல்
+  - మానసిక శాస్త్రము
+  - ಮನೋಶಾಸ್ತ್ರ
+  - മനഃശാസ്ത്രം
+  - මනෝවේදය
+  - จิตวิทยา
+  - ຈິດຕະວິທະຍາ
+  - སེམས་ཁམས་རིག་པ།
+  - စိတ်ပညာ
+  - ပညာစိုတ်
+  - ფსიქოლოგია
+  - የሥነ፡ልቡና ትምህርት
+  - ចិត្តវិទ្យា
+  - ᱢᱚᱱ ᱥᱟᱬᱮᱥ
+  - ⵜⴰⵙⵏⵉⵎⴰⵏⵜ
+  - 心理学
+  - 心理學
+  - 심리학
 has_id_wikidata: Q9418
 has_part_s_:
-- '[[/_Standards/WikiData/WD~social_psychology,161272|WD~social_psychology,161272]]'
-- '[[/_Standards/WikiData/WD~sexology,170912|WD~sexology,170912]]'
-- '[[/_Standards/WikiData/WD~developmental_psychology,175002|WD~developmental_psychology,175002]]'
-- '[[/_Standards/WikiData/WD~psycholinguistics,179488|WD~psycholinguistics,179488]]'
-- '[[/_Standards/WikiData/WD~clinical_psychology,199906|WD~clinical_psychology,199906]]'
-- '[[/_Standards/WikiData/WD~personality_psychology,271716|WD~personality_psychology,271716]]'
-- '[[/_Standards/WikiData/WD~psychology_of_religion,368498|WD~psychology_of_religion,368498]]'
-- '[[/_Standards/WikiData/WD~experimental_psychology,475042|WD~experimental_psychology,475042]]'
-- '[[/_Standards/WikiData/WD~music_psychology,476590|WD~music_psychology,476590]]'
-- '[[/_Standards/WikiData/WD~engineering_psychology,490354|WD~engineering_psychology,490354]]'
-- '[[/_Standards/WikiData/WD~psychometrics,506132|WD~psychometrics,506132]]'
-- '[[/_Standards/WikiData/WD~applied_psychology,538904|WD~applied_psychology,538904]]'
-- '[[/_Standards/WikiData/WD~psychopathology,624758|WD~psychopathology,624758]]'
-- '[[/_Standards/WikiData/WD~sport_psychology,632190|WD~sport_psychology,632190]]'
-- '[[/_Standards/WikiData/WD~psychology_of_art,1064195|WD~psychology_of_art,1064195]]'
-- '[[/_Standards/WikiData/WD~differential_psychology,1224394|WD~differential_psychology,1224394]]'
-- '[[/_Standards/WikiData/WD~psychodiagnostics,1322052|WD~psychodiagnostics,1322052]]'
-- '[[/_Standards/WikiData/WD~general_psychology,1361345|WD~general_psychology,1361345]]'
-- '[[/_Standards/WikiData/WD~health_psychology,1403186|WD~health_psychology,1403186]]'
-- '[[/_Standards/WikiData/WD~gerontopsychology,1514684|WD~gerontopsychology,1514684]]'
-- '[[/_Standards/WikiData/WD~psychopharmacology,1515727|WD~psychopharmacology,1515727]]'
-- '[[/_Standards/WikiData/WD~political_psychology,1596387|WD~political_psychology,1596387]]'
-- '[[/_Standards/WikiData/WD~chess_psychology,1727025|WD~chess_psychology,1727025]]'
-- '[[/_Standards/WikiData/WD~psychology_of_money,2386890|WD~psychology_of_money,2386890]]'
-- '[[/_Standards/WikiData/WD~legal_psychology,2479662|WD~legal_psychology,2479662]]'
-- '[[/_Standards/WikiData/WD~cyberpsychology,2905785|WD~cyberpsychology,2905785]]'
-- '[[/_Standards/WikiData/WD~practical_psychology,4376413|WD~practical_psychology,4376413]]'
-- '[[/_Standards/WikiData/WD~feminist_psychology,5442885|WD~feminist_psychology,5442885]]'
-- '[[/_Standards/WikiData/WD~psychology_of_dance,7256416|WD~psychology_of_dance,7256416]]'
-- '[[/_Standards/WikiData/WD~theoretical_psychology,7782373|WD~theoretical_psychology,7782373]]'
-- '[[/_Standards/WikiData/WD~gender_psychology,11830699|WD~gender_psychology,11830699]]'
-- '[[/_Standards/WikiData/WD~organizational_psychology,16270338|WD~organizational_psychology,16270338]]'
-- '[[/_Standards/WikiData/WD~neuropsychology,3872|WD~neuropsychology,3872]]'
-- '[[/_Standards/WikiData/WD~cognitive_psychology,23373|WD~cognitive_psychology,23373]]'
+  - "[[/_Standards/WikiData/WD~social_psychology,161272|WD~social_psychology,161272]]"
+  - "[[/_Standards/WikiData/WD~sexology,170912|WD~sexology,170912]]"
+  - "[[/_Standards/WikiData/WD~developmental_psychology,175002|WD~developmental_psychology,175002]]"
+  - "[[/_Standards/WikiData/WD~psycholinguistics,179488|WD~psycholinguistics,179488]]"
+  - "[[/_Standards/WikiData/WD~clinical_psychology,199906|WD~clinical_psychology,199906]]"
+  - "[[/_Standards/WikiData/WD~personality_psychology,271716|WD~personality_psychology,271716]]"
+  - "[[/_Standards/WikiData/WD~psychology_of_religion,368498|WD~psychology_of_religion,368498]]"
+  - "[[/_Standards/WikiData/WD~experimental_psychology,475042|WD~experimental_psychology,475042]]"
+  - "[[/_Standards/WikiData/WD~music_psychology,476590|WD~music_psychology,476590]]"
+  - "[[/_Standards/WikiData/WD~engineering_psychology,490354|WD~engineering_psychology,490354]]"
+  - "[[/_Standards/WikiData/WD~psychometrics,506132|WD~psychometrics,506132]]"
+  - "[[/_Standards/WikiData/WD~applied_psychology,538904|WD~applied_psychology,538904]]"
+  - "[[/_Standards/WikiData/WD~psychopathology,624758|WD~psychopathology,624758]]"
+  - "[[/_Standards/WikiData/WD~sport_psychology,632190|WD~sport_psychology,632190]]"
+  - "[[/_Standards/WikiData/WD~psychology_of_art,1064195|WD~psychology_of_art,1064195]]"
+  - "[[/_Standards/WikiData/WD~differential_psychology,1224394|WD~differential_psychology,1224394]]"
+  - "[[/_Standards/WikiData/WD~psychodiagnostics,1322052|WD~psychodiagnostics,1322052]]"
+  - "[[/_Standards/WikiData/WD~general_psychology,1361345|WD~general_psychology,1361345]]"
+  - "[[/_Standards/WikiData/WD~health_psychology,1403186|WD~health_psychology,1403186]]"
+  - "[[/_Standards/WikiData/WD~gerontopsychology,1514684|WD~gerontopsychology,1514684]]"
+  - "[[/_Standards/WikiData/WD~psychopharmacology,1515727|WD~psychopharmacology,1515727]]"
+  - "[[/_Standards/WikiData/WD~political_psychology,1596387|WD~political_psychology,1596387]]"
+  - "[[/_Standards/WikiData/WD~chess_psychology,1727025|WD~chess_psychology,1727025]]"
+  - "[[/_Standards/WikiData/WD~psychology_of_money,2386890|WD~psychology_of_money,2386890]]"
+  - "[[/_Standards/WikiData/WD~legal_psychology,2479662|WD~legal_psychology,2479662]]"
+  - "[[/_Standards/WikiData/WD~cyberpsychology,2905785|WD~cyberpsychology,2905785]]"
+  - "[[/_Standards/WikiData/WD~practical_psychology,4376413|WD~practical_psychology,4376413]]"
+  - "[[/_Standards/WikiData/WD~feminist_psychology,5442885|WD~feminist_psychology,5442885]]"
+  - "[[/_Standards/WikiData/WD~psychology_of_dance,7256416|WD~psychology_of_dance,7256416]]"
+  - "[[/_Standards/WikiData/WD~theoretical_psychology,7782373|WD~theoretical_psychology,7782373]]"
+  - "[[/_Standards/WikiData/WD~gender_psychology,11830699|WD~gender_psychology,11830699]]"
+  - "[[/_Standards/WikiData/WD~organizational_psychology,16270338|WD~organizational_psychology,16270338]]"
+  - "[[/_Standards/WikiData/WD~neuropsychology,3872|WD~neuropsychology,3872]]"
+  - "[[/_Standards/WikiData/WD~cognitive_psychology,23373|WD~cognitive_psychology,23373]]"
 is_the_study_of:
-- '[[/_Standards/WikiData/WD~psyche,194034|WD~psyche,194034]]'
-- '[[/_Standards/WikiData/WD~psychological_traits,3491351|WD~psychological_traits,3491351]]'
-- '[[/_Standards/WikiData/WD~human_behavior,3769299|WD~human_behavior,3769299]]'
-- '[[/_Standards/WikiData/WD~mental_state,3968640|WD~mental_state,3968640]]'
-- '[[/_Standards/WikiData/WD~psychism,10355314|WD~psychism,10355314]]'
-- '[[/_Standards/WikiData/WD~psychological_phenomenon,12047512|WD~psychological_phenomenon,12047512]]'
-practiced_by: '[[/_Standards/WikiData/WD~psychologist,212980|WD~psychologist,212980]]'
-history_of_topic: '[[/_Standards/WikiData/WD~history_of_psychology,261215|WD~history_of_psychology,261215]]'
+  - "[[/_Standards/WikiData/WD~psyche,194034|WD~psyche,194034]]"
+  - "[[/_Standards/WikiData/WD~psychological_traits,3491351|WD~psychological_traits,3491351]]"
+  - "[[/_Standards/WikiData/WD~human_behavior,3769299|WD~human_behavior,3769299]]"
+  - "[[/_Standards/WikiData/WD~mental_state,3968640|WD~mental_state,3968640]]"
+  - "[[/_Standards/WikiData/WD~psychism,10355314|WD~psychism,10355314]]"
+  - "[[/_Standards/WikiData/WD~psychological_phenomenon,12047512|WD~psychological_phenomenon,12047512]]"
+practiced_by: "[[/_Standards/WikiData/WD~psychologist,212980|WD~psychologist,212980]]"
+history_of_topic: "[[/_Standards/WikiData/WD~history_of_psychology,261215|WD~history_of_psychology,261215]]"
 described_by_source:
-- '[[/_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
-- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[/_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[/_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+  - "[[/_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]"
+  - "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[/_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[/_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
 subclass_of:
-- '[[/_Standards/WikiData/WD~health_sciences,843601|WD~health_sciences,843601]]'
-- '[[/_Standards/WikiData/WD~human_science,1587903|WD~human_science,1587903]]'
-- '[[/_Standards/WikiData/WD~behavioral_sciences,3919817|WD~behavioral_sciences,3919817]]'
+  - "[[/_Standards/WikiData/WD~health_sciences,843601|WD~health_sciences,843601]]"
+  - "[[/_Standards/WikiData/WD~human_science,1587903|WD~human_science,1587903]]"
+  - "[[/_Standards/WikiData/WD~behavioral_sciences,3919817|WD~behavioral_sciences,3919817]]"
 topic_has_template:
-- '[[/_Standards/WikiData/WD~Template_Psychology_sidebar,8084152|WD~Template_Psychology_sidebar,8084152]]'
-- '[[/_Standards/WikiData/WD~Template_Psychology,8085019|WD~Template_Psychology,8085019]]'
-topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Psychology,8287968|WD~Portal_Psychology,8287968]]'
+  - "[[/_Standards/WikiData/WD~Template_Psychology_sidebar,8084152|WD~Template_Psychology_sidebar,8084152]]"
+  - "[[/_Standards/WikiData/WD~Template_Psychology,8085019|WD~Template_Psychology,8085019]]"
+topic_s_main_Wikimedia_portal: "[[/_Standards/WikiData/WD~Portal_Psychology,8287968|WD~Portal_Psychology,8287968]]"
 maintained_by_WikiProject:
-- '[[/_Standards/WikiData/WD~WikiProject_Psychology,10858450|WD~WikiProject_Psychology,10858450]]'
-- '[[/_Standards/WikiData/WD~WikiProject_Neuroscience,15298430|WD~WikiProject_Neuroscience,15298430]]'
+  - "[[/_Standards/WikiData/WD~WikiProject_Psychology,10858450|WD~WikiProject_Psychology,10858450]]"
+  - "[[/_Standards/WikiData/WD~WikiProject_Neuroscience,15298430|WD~WikiProject_Neuroscience,15298430]]"
 instance_of:
-- '[[/_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
-- '[[/_Standards/WikiData/WD~health_specialty,44597158|WD~health_specialty,44597158]]'
-- '[[/_Standards/WikiData/WD~science,336|WD~science,336]]'
-permanent_duplicated_item: '[[/_Standards/WikiData/WD~Q12960874,12960874|WD~Q12960874,12960874]]'
-facet_of: '[[/_Standards/WikiData/WD~faculty_of_psychology,17212463|WD~faculty_of_psychology,17212463]]'
+  - "[[/_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]"
+  - "[[/_Standards/WikiData/WD~health_specialty,44597158|WD~health_specialty,44597158]]"
+  - "[[/_Standards/WikiData/WD~science,336|WD~science,336]]"
+permanent_duplicated_item: "[[/_Standards/WikiData/WD~Q12960874,12960874|WD~Q12960874,12960874]]"
+facet_of: "[[/_Standards/WikiData/WD~faculty_of_psychology,17212463|WD~faculty_of_psychology,17212463]]"
 model_item:
-- '[[/_Standards/WikiData/WD~branch_of_psychology,60680430|WD~branch_of_psychology,60680430]]'
-- '[[/_Standards/WikiData/WD~psychological_methodology,60784892|WD~psychological_methodology,60784892]]'
-- '[[/_Standards/WikiData/WD~psychology_terminology,77468620|WD~psychology_terminology,77468620]]'
-opposite_of: '[[/_Standards/WikiData/WD~pseudopsychology,116811295|WD~pseudopsychology,116811295]]'
-has_characteristic: '[[/_Standards/WikiData/WD~psychology_award,132641895|WD~psychology_award,132641895]]'
+  - "[[/_Standards/WikiData/WD~branch_of_psychology,60680430|WD~branch_of_psychology,60680430]]"
+  - "[[/_Standards/WikiData/WD~psychological_methodology,60784892|WD~psychological_methodology,60784892]]"
+  - "[[/_Standards/WikiData/WD~psychology_terminology,77468620|WD~psychology_terminology,77468620]]"
+opposite_of: "[[/_Standards/WikiData/WD~pseudopsychology,116811295|WD~pseudopsychology,116811295]]"
+has_characteristic: "[[/_Standards/WikiData/WD~psychology_award,132641895|WD~psychology_award,132641895]]"
 Dewey_Decimal_Classification: 150
 Basisklassifikation: 77
 DFG_Science_Classification: 110
@@ -483,9 +483,11 @@ dv_has_:
     zh-my: 心理学
     zh_sg: 心理学
     zh_tw: 心理學
+title: Ψ Psychology
+Unicode_character: Ψ
 ---
 
-# [[Psychology]]
+# [[Psychology]] Ψ
 
 #is_/same_as :: [[../WikiData/WD~Psychology,9418|WD~Psychology,9418]] 
 

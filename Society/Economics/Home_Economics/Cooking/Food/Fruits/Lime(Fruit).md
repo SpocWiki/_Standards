@@ -210,10 +210,10 @@ dv_has_:
     zh_hans: 青檸
     zh_hant: 萊姆
 Unicode_character: 🍋🟩
-title: 🍋🟩 Lime(Fruit)
+title: 🍋 Lime(Fruit)
 ---
 
-# [[Lime(Fruit)]] 🍋🟩 
+# [[Lime(Fruit)]] 🍋
 
 
 
