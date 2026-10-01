@@ -206,6 +206,10 @@ X_Twitter_username:
 - WorldBankWater
 YouTube_handle: WorldBank
 dv_has_:
+  facet_:
+    layer: reference
+    status: stable
+    complexity: 1
   name_:
     af: Wêreldbank
     am: የአለም ባንክ
@@ -367,6 +371,25 @@ dv_has_:
     zh-sg: 世界银行
     zh-tw: 世界銀行
     zu: IBhange woMhlaba
+has_facet_layer: reference
+has_facet_status: stable
+has_facet_complexity: 1
+concepts: [world_bank, development_finance]
+description: "World Bank and the World Bank Group institutions filed here: IBRD, IDA and IFC."
+digest:
+  local-files:
+    IBRD(International_Bank_for_Reconstruction_and_Development).md:
+      mtime: "2026-07-25T20:05:04Z"
+      digest: ""
+    IDA(International_Development_Association).md:
+      mtime: "2026-07-25T20:05:04Z"
+      digest: ""
+    IFC(International_Finance_Corporation).md:
+      mtime: "2026-07-25T20:05:04Z"
+      digest: ""
+  folders: {}
+  own: "c76324c6e52233066e310ef3098154a9eecb09ae927eb1b90b0db3d5031a7857"
+  note: "7e6b5744b3beba00cfaff20e23dfb8e4ce3c775b489e30b83816e2e930528232"
 ---
 
 # [[World_Bank]] 

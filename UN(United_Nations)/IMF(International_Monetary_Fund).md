@@ -270,6 +270,10 @@ X_Twitter_username: IMFNews
 Libris_URI: ljx0xkb44jm99k9
 Instagram_username: the_imf
 dv_has_:
+  facet_:
+    layer: reference
+    status: stable
+    complexity: 1
   name_:
     af: Internasionale Monetêre Fonds
     am: አለም አቀፍ ገንዘባዊ መዝገብ
@@ -425,6 +429,19 @@ dv_has_:
     zh-my: 国际货币基金组织
     zh-sg: 国际货币基金组织
     zh-tw: 國際貨幣基金組織
+has_facet_layer: reference
+has_facet_status: stable
+has_facet_complexity: 1
+concepts: [international_monetary_fund, international_finance]
+description: "International Monetary Fund, the global lender of last resort for exchange-rate stability; the World Bank institutions are filed below it."
+digest:
+  local-files: {}
+  folders:
+    World_Bank/:
+      mtime: "2026-10-01T18:02:34Z"
+      digest: "c76324c6e52233066e310ef3098154a9eecb09ae927eb1b90b0db3d5031a7857"
+  own: "ef5460b2dad22ea9ec5d0224fbc91ac0b36fe3533b8010c3bd1e44af1fe4de34"
+  note: "342f06b1a4cdf31ad726a9c06bfbf3ca87c3e49b30568d5ca28cf294b9299830"
 ---
 
 # [[IMF(International_Monetary_Fund)]] 

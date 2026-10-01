@@ -1,3 +1,26 @@
+---
+dv_has_:
+  facet_:
+    layer: reference
+    status: stable
+    complexity: 2
+has_facet_layer: reference
+has_facet_status: stable
+has_facet_complexity: 2
+concepts: [unit_of_measure, trade_facilitation]
+description: "UN/CEFACT unit-of-measure codes (Recommendation 20): their 3-character structure and annexes, maintained jointly with GS1, with notes on single codes."
+digest:
+  local-files:
+    gs1_28.md:
+      mtime: "2026-06-14T13:38:52Z"
+      digest: ""
+    gs1_C62.md:
+      mtime: "2026-06-14T13:38:52Z"
+      digest: ""
+  folders: {}
+  own: "6e1b8e7c1a7592e970a2af749e084d33231622b3c932294c826da4d07e7200b0"
+  note: "6f9f5f8a3b600d7db025c2423e1cfda8ae63f6ac582a08c8d845036c3e0daf89"
+---
 # [[CEFACT]] 
 
 The CEFACT Standard is documented in the UN-Recommendation [[UN~Recommendations/rec20_Rev7e_2010.xlsx|rec20_Rev7e_2010.xlsx]] . 

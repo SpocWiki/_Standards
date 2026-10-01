@@ -303,6 +303,10 @@ headquarters_locations: '[[/_Standards/WikiData/WD~Geneva,71|WD~Geneva,71]]'
 employees: 7000
 OmegaWiki_Defined_Meaning: 712247
 dv_has_:
+  facet_:
+    layer: reference
+    status: stable
+    complexity: 1
   name_:
     ab: Агәабзиарахьчара адунеизегьтәи аиҿкаара
     af: Wêreldgesondheidsorganisasie
@@ -500,6 +504,19 @@ dv_has_:
     zh-my: 世界卫生组织
     zh-sg: 世界卫生组织
     zh-tw: 世界衛生組織
+has_facet_layer: reference
+has_facet_status: stable
+has_facet_complexity: 1
+concepts: [public_health, essential_medicine]
+description: "World Health Organization, the UN agency for global public health, with its Model List of Essential Medicines."
+digest:
+  local-files:
+    Essential_Medicine.md:
+      mtime: "2026-07-25T20:05:04Z"
+      digest: ""
+  folders: {}
+  own: "f1ea5f532f98cde7737d57c20b11d4fcfff3d19f0d0d9d163b1554374e80d9e6"
+  note: "1d2d469b9a1ddc97192e6e05eec4855af35ab1e5828616640f3166ae565631c0"
 ---
 
 # [[WHO(World_Health_Organization)]] 

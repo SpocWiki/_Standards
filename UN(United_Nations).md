@@ -542,6 +542,10 @@ Pinterest_username: unitednations
 Colon_Classification: V1N4
 Libris_URI: vs686bpd13rcfvg
 dv_has_:
+  facet_:
+    layer: reference
+    status: stable
+    complexity: 2
   name_:
     ab: Еидгылоу Амилаҭқәа Рорганизациа
     ace: Persjarikatan Bangsa-Bangsa
@@ -867,6 +871,88 @@ dv_has_:
     zu: Amazwe Ohlangeneyo
 Unicode_character: 🇺🇳
 title: 🇺🇳 UN(United_Nations)
+has_facet_layer: reference
+has_facet_status: stable
+has_facet_complexity: 2
+concepts: [united_nations, international_organization]
+description: "United Nations organs, specialized agencies and related international bodies (UNESCO, WHO, IMF, ICJ, WTO ...), plus the UN/CEFACT trade standards and recommendations."
+digest:
+  local-files:
+    EDIFACT.md:
+      mtime: "2026-06-14T13:38:52Z"
+      digest: ""
+    IAEA(International_Atomic_Energy_Agency).md:
+      mtime: "2026-07-25T20:05:04Z"
+      digest: ""
+    ICAO.md:
+      mtime: "2026-06-14T13:38:52Z"
+      digest: ""
+    ICC(International_Criminal_Court).md:
+      mtime: "2026-07-25T20:05:04Z"
+      digest: ""
+    ICJ(International_Court_of_Justice).md:
+      mtime: "2026-07-25T20:05:04Z"
+      digest: ""
+    IHO(International_Hydrographic_Organization).md:
+      mtime: "2026-07-25T20:05:04Z"
+      digest: ""
+    IOM(International_Organization_for_Migration).md:
+      mtime: "2026-07-25T20:05:04Z"
+      digest: ""
+    International_Maritime_Organization.md:
+      mtime: "2026-07-25T20:05:04Z"
+      digest: ""
+    League_of_Nations.md:
+      mtime: "2026-07-25T20:05:04Z"
+      digest: ""
+    ONET(Occupational_Information_Network).md:
+      mtime: "2026-06-14T13:38:52Z"
+      digest: ""
+    UNICEF.md:
+      mtime: "2026-07-25T20:05:04Z"
+      digest: ""
+    United_Nations_Industrial_Development_Organization.md:
+      mtime: "2026-07-25T20:05:04Z"
+      digest: ""
+    United_Nations_Secretariat.md:
+      mtime: "2026-07-25T20:05:04Z"
+      digest: ""
+    United_Nations_Security_Council.md:
+      mtime: "2026-07-25T20:05:04Z"
+      digest: ""
+    World_Bank_Group.md:
+      mtime: "2026-07-25T20:05:04Z"
+      digest: ""
+    World_Trade_Organization.md:
+      mtime: "2026-07-25T20:05:04Z"
+      digest: ""
+  folders:
+    CEFACT/:
+      mtime: "2026-10-01T18:02:35Z"
+      digest: "6e1b8e7c1a7592e970a2af749e084d33231622b3c932294c826da4d07e7200b0"
+    ECOSOC/:
+      mtime: "2026-10-01T18:02:35Z"
+      digest: "65b6001de317fd3bfa91cbcebd25ebdaf6a6c611929d25d20bcfbe057ffa2402"
+    IMF(International_Monetary_Fund)/:
+      mtime: "2026-10-01T18:02:35Z"
+      digest: "ef5460b2dad22ea9ec5d0224fbc91ac0b36fe3533b8010c3bd1e44af1fe4de34"
+    ISIC(International_Standard_Industrial_Classification)/:
+      mtime: "2026-10-01T18:02:36Z"
+      digest: "af22217ee1d0cdeda2733d86011e2f192dc28a9192187058d46c0105c31d5ea0"
+    UNESCO/:
+      mtime: "2026-10-01T18:02:36Z"
+      digest: "bc9d6d64f149eb21d70fdde6918bf98b52ff32a77097900f381b7e7c4586b0b4"
+    UNHCR/:
+      mtime: "2026-10-01T18:02:36Z"
+      digest: "3377425502bd99902c3f1d19dab3b369378079be4458c93c7bb46121805c23f0"
+    UN~General_Secretary/:
+      mtime: "2026-10-01T18:02:36Z"
+      digest: "043823bf5baa000e3bce482bab2d62bedfd7ff542db944363d63d40aa2956cc8"
+    WHO(World_Health_Organization)/:
+      mtime: "2026-10-01T18:02:36Z"
+      digest: "f1ea5f532f98cde7737d57c20b11d4fcfff3d19f0d0d9d163b1554374e80d9e6"
+  own: "8f3fbce6cdf98833a702dc9658b6775f06c0c90a29fb3db5583d9a115e96a80b"
+  note: "41f6c58269da4700c211febddc2fd71f7cb4d41c96c4d4cde7cb62305c745cd1"
 ---
 # [[UN(United_Nations)]] 🇺🇳
 

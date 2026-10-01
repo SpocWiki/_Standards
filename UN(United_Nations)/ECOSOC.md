@@ -85,6 +85,10 @@ aliases:
 - 유엔 경제 사회 이사회
 has_id_wikidata: Q170075
 dv_has_:
+  facet_:
+    layer: reference
+    status: stable
+    complexity: 1
   name_:
     ar: المجلس الاقتصادي والاجتماعي للأمم المتحدة
     arz: المجلس الاقتصادى والاجتماعى
@@ -185,6 +189,31 @@ dv_has_:
     zh-hk: 聯合國經濟及社會理事會
     zh-sg: 联合国经济及社会理事会
     zh-tw: 聯合國經濟及社會理事會
+has_facet_layer: reference
+has_facet_status: stable
+has_facet_complexity: 1
+concepts: [economic_and_social_council, regional_commission]
+description: "UN Economic and Social Council and its five regional economic commissions: UNECA, UNECE, UNECLAC, UNESCAP and UNESCWA."
+digest:
+  local-files:
+    UNECA.md:
+      mtime: "2026-06-14T13:38:52Z"
+      digest: ""
+    UNECE.md:
+      mtime: "2026-06-14T13:38:52Z"
+      digest: ""
+    UNECLAC.md:
+      mtime: "2026-06-14T13:38:52Z"
+      digest: ""
+    UNESCAP.md:
+      mtime: "2026-06-14T13:38:52Z"
+      digest: ""
+    UNESCWA.md:
+      mtime: "2026-06-14T13:38:52Z"
+      digest: ""
+  folders: {}
+  own: "65b6001de317fd3bfa91cbcebd25ebdaf6a6c611929d25d20bcfbe057ffa2402"
+  note: "b6390c3b1c8c85c05e35c93b024c4d1392f238874c0a86de1c1c96afe0b82811"
 ---
 
 # [[ECOSOC]] 

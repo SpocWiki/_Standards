@@ -133,6 +133,10 @@ native_label: United Nations Secretary-General
 short_name: UNSG
 male_form_of_label: Sekreterê Giştî yê Neteweyên Yekbûyî
 dv_has_:
+  facet_:
+    layer: reference
+    status: stable
+    complexity: 1
   name_:
     af: Sekretaris-generaal van die Verenigde Nasies
     ar: أمين عام الأمم المتحدة
@@ -241,6 +245,28 @@ dv_has_:
     zh-cn: 联合国秘书长
     zh-hans: 联合国秘书长
     zh-hant: 聯合國秘書長
+has_facet_layer: reference
+has_facet_status: stable
+has_facet_complexity: 1
+concepts: [secretary_general, office_holder]
+description: "Office of the UN Secretary-General, head of the Secretariat, with notes on office holders: Annan, Ban Ki-moon, Guterres and Waldheim."
+digest:
+  local-files:
+    Annan,Kofi.md:
+      mtime: "2026-07-25T20:05:04Z"
+      digest: ""
+    Guterres,António.md:
+      mtime: "2026-07-25T20:05:04Z"
+      digest: ""
+    Ki-moon,Ban.md:
+      mtime: "2026-07-25T20:05:04Z"
+      digest: ""
+    Waldheim,Kurt.md:
+      mtime: "2026-07-25T20:05:04Z"
+      digest: ""
+  folders: {}
+  own: "043823bf5baa000e3bce482bab2d62bedfd7ff542db944363d63d40aa2956cc8"
+  note: "f82c4bfa1989a91c806f43ab1c2d5f195cf622ca8cd6587a2f349ace590fcf5e"
 ---
 
 # [[UN~General_Secretary]] 

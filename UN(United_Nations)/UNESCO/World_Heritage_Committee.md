@@ -70,6 +70,10 @@ official_website: https://whc.unesco.org/fr/comite/
 ISNI: 0000000110086483
 Commons_category: World Heritage Sites
 dv_has_:
+  facet_:
+    layer: reference
+    status: stable
+    complexity: 1
   name_:
     ar: لجنة التراث العالمي
     az: Ümumdünya irsi komitəsi
@@ -131,6 +135,19 @@ dv_has_:
     xmf: საგებიო მონძეობაშ კომიტეტი
     zh: 世界遺產委員會
     zh-hant: 世界遺產委員會
+has_facet_layer: reference
+has_facet_status: stable
+has_facet_complexity: 1
+concepts: [world_heritage, heritage_site]
+description: "UNESCO World Heritage Committee, which inscribes the World Heritage Sites and manages the World Heritage Fund."
+digest:
+  local-files:
+    World_Heritage_Site.md:
+      mtime: "2026-07-25T20:05:04Z"
+      digest: ""
+  folders: {}
+  own: "d0f6c7c60f65a54e298fc3eaf07d0583422093c4722c10de3d9472a48f7dea02"
+  note: "7aa34144bdcb9c3c1c4baaf707a78c8cba5b68107a16889d372ef243b7179873"
 ---
 
 # [[World_Heritage_Committee]] 

@@ -210,6 +210,10 @@ X_Twitter_username:
 - UNESCOarabic
 - UNESCO
 dv_has_:
+  facet_:
+    layer: reference
+    status: stable
+    complexity: 1
   name_:
     ab: ИУНЕСКО
     af: UNESCO
@@ -420,6 +424,25 @@ dv_has_:
     zh-my: 联合国教育、科学及文化组织
     zh-sg: 联合国教育、科学及文化组织
     zh-tw: 聯合國教育、科學及文化組織
+has_facet_layer: reference
+has_facet_status: stable
+has_facet_complexity: 1
+concepts: [cultural_heritage, documentary_heritage]
+description: "UNESCO, the UN agency for education, science and culture, with its Memory of the World programme and the World Heritage Committee."
+digest:
+  local-files:
+    MoW(Memory_of_the_World.md:
+      mtime: "2026-06-14T13:38:52Z"
+      digest: ""
+    Transatlantic-MoW.md:
+      mtime: "2026-06-14T13:38:52Z"
+      digest: ""
+  folders:
+    World_Heritage_Committee/:
+      mtime: "2026-10-01T18:02:35Z"
+      digest: "d0f6c7c60f65a54e298fc3eaf07d0583422093c4722c10de3d9472a48f7dea02"
+  own: "bc9d6d64f149eb21d70fdde6918bf98b52ff32a77097900f381b7e7c4586b0b4"
+  note: "75e6de7c41ae054bc885fba99a7f044ffb49664e33bbd9578b1d0570ad2b722a"
 ---
 
 # [[UNESCO]]

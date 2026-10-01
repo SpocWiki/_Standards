@@ -1,6 +1,10 @@
 ---
 has_id_wikidata: Q132551
 dv_has_:
+  facet_:
+    layer: reference
+    status: stable
+    complexity: 1
   name_:
     ar: المفوضية السامية للأمم المتحدة لشؤون اللاجئين
     arz: المفوضيه العليا للامم المتحده لشؤون اللاجئين
@@ -184,6 +188,19 @@ aliases:
 - 联合国难民署
 - 聯合國難民署
 - 유엔난민기구
+has_facet_layer: reference
+has_facet_status: stable
+has_facet_complexity: 1
+concepts: [refugee, refugee_protection]
+description: "UN Refugee Agency (UNHCR), mandated to protect refugees and stateless people, with a note on the notion of refugee."
+digest:
+  local-files:
+    Refugee.md:
+      mtime: "2026-07-25T20:05:04Z"
+      digest: ""
+  folders: {}
+  own: "3377425502bd99902c3f1d19dab3b369378079be4458c93c7bb46121805c23f0"
+  note: "02f5d9eceb01aaf9ff846d4ebe7982df819fa3acde5c8e6ee2506139049dea03"
 ---
 
 # [[UNHCR]] 

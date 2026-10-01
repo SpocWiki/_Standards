@@ -1,6 +1,10 @@
 ---
 has_id_wikidata: Q1666934
 dv_has_:
+  facet_:
+    layer: reference
+    status: stable
+    complexity: 1
   name_:
     ar: التصنيف الصناعي الدولي الموحد
     ba: Халыҡ-ара стандарт тармаҡ классификацияһы
@@ -70,6 +74,22 @@ aliases:
 - 国际标准行业分类
 - 国際標準産業分類
 - 國際標準行業分類
+has_facet_layer: reference
+has_facet_status: stable
+has_facet_complexity: 1
+concepts: [industry_classification, economic_activity]
+description: "International Standard Industrial Classification of economic activities (ISIC Rev. 4) and the related North American NAICS."
+digest:
+  local-files:
+    ISICv4.md:
+      mtime: "2026-06-14T13:38:52Z"
+      digest: ""
+    NAICS.md:
+      mtime: "2026-06-14T13:38:52Z"
+      digest: ""
+  folders: {}
+  own: "af22217ee1d0cdeda2733d86011e2f192dc28a9192187058d46c0105c31d5ea0"
+  note: "ab87f78b7881dfc102625d723fee44424079cc42a17f4ca9157da65851485050"
 ---
 
 # [[ISIC(International_Standard_Industrial_Classification)]] 
