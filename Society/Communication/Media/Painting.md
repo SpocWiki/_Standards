@@ -415,7 +415,7 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting|Painting]] 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Paintings|Painting]] 
 
 ### #is_/same_as :: [[/_public/Society/Communication/Media/Painting.public|Painting.public]] 
 
