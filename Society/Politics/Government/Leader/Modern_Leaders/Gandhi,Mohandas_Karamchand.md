@@ -498,7 +498,9 @@ dv_has_:
 
 #is_/same_as :: [[../../../../../WikiData/WD~Mahatma_Gandhi,1001|WD~Mahatma_Gandhi,1001]] 
 
-Die sieben sozialen Sünden von [[Gandhi,Mahatma]], analog to the [[../Christianity/Seven deadly Sins|Seven deadly Sins]].
+#has_/created_/quote :: "I think it would be a good idea", when asked what he thought of Western civilization. 
+
+Die sieben sozialen Sünden von [[Gandhi,Mohandas_Karamchand|Gandhi Mahatma]], analog to the [[../../../../../Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Seven_deadly_Sins|Seven_deadly_Sins]].
 1. Politik ohne Prinzipien 
 2. Reichtum ohne Arbeit 
 3. Vergnügen ohne Gewissen 
