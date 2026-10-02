@@ -84,3 +84,37 @@ dv_has_:
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Cheek_to_Cheek.secret|Cheek_to_Cheek.secret]] 
 
+
+## Merged from `_Standards/Society/Communication/Media/Performing_Arts/Dance/Dancer/Astaire,Fred/Cheek_to_Cheek.md`
+
+## #has_/text_of_/lyrics
+
+[Chorus]
+Heaven, I'm in heaven
+And my heart beats so that I can hardly speak
+And I seem to find the happiness I seek
+When we're out together dancing, cheek to cheek
+
+[Chorus]
+Heaven, I'm in heaven
+And the cares that hung around me through the week
+Seem to vanish like a gambler's lucky streak
+When we're out together dancing, cheek to cheek
+
+[Verse 1]
+Oh, I love to climb a mountain
+And to reach the highest peak
+But it doesn't thrill me half as much
+As dancing cheek to cheek
+
+[Verse 2]
+Oh, I love to go out fishing
+In a river or a creek
+But I don't enjoy it half as much
+As dancing cheek to cheek
+
+[Bridge]
+Dance with me
+I want my arm about you
+The charm about you
+Will carry me through to Heaven

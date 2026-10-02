@@ -103,6 +103,9 @@ aliases:
 - 能量守恆律
 - 能量守恒定律
 - 에너지 보존 법칙
+- Conservation of energy
+- Conservation_of_Energy
+- Energieerhaltung
 has_id_wikidata: Q11382
 instance_of:
 - '[[/_Standards/WikiData/WD~conservation_law,205805|WD~conservation_law,205805]]'
@@ -232,6 +235,7 @@ dv_has_:
     yi: קאנסערווירונג פון ענערגיע
     yue: 能量守恆定律
     zh: 能量守恒定律
+P8189: 987007543207805171
 ---
 
 # [[Conservation_of_Energy]] 

@@ -190,6 +190,7 @@ taxon_author_citation: Moench
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Illustration%20Fagopyrum%20esculentum0.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Fagopyrum%20esculentum%201DS-II%203-0312.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Japanese%20Buckwheat%20Flower.JPG
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=16528
 UNII: B10M69172N
 UMLS_CUI: C1304558
@@ -370,3 +371,11 @@ dv_has_:
 
 ### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Fagopyrum/Buckwheat.secret|Buckwheat.secret]] 
 
+
+## Merged from `_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Polygonales/Buckwheat.md`
+
+> **Buckwheat** (Fagopyrum esculentum) or common buckwheat is a flowering plant in the knotweed family Polygonaceae cultivated for its grain-like seeds and as a cover crop.  Buckwheat originated around the 6th millennium BCE in the region of what is now Yunnan Province in southwestern China. The name "buckwheat" is used for several other species, such as Fagopyrum tataricum, a domesticated food plant raised in Asia.
+>
+> Despite its name, buckwheat is not closely related to wheat. Buckwheat is not a cereal, nor is it even a member of the grass family. It is related to sorrel, knotweed, and rhubarb.  Buckwheat is considered a pseudocereal, because its seeds' high starch content allows them to be used in cooking like a cereal.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Buckwheat)

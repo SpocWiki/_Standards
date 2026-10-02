@@ -129,6 +129,7 @@ aliases:
 - 複數
 - 複素数
 - 복소수
+- complex number
 has_id_wikidata: Q11567
 subclass_of:
 - '[[/_Standards/WikiData/WD~quaternion,173853|WD~quaternion,173853]]'

@@ -48,6 +48,7 @@ aliases:
 - 文明搖籃
 - 文明摇篮
 - 문명의 발상지
+- cradle of civilization
 has_id_wikidata: Q1207629
 subclass_of:
 - '[[/_Standards/WikiData/WD~cultural_region,3502482|WD~cultural_region,3502482]]'

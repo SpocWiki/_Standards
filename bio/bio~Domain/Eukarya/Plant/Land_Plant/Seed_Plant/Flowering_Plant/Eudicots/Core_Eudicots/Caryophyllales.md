@@ -159,6 +159,20 @@ dv_has_:
     zh_hant: 石竹目
     zh_tw: 石竹目
     zu: Caryophyllales
+parent_taxon: '[[/_Standards/WikiData/WD~core_eudicots,869087|WD~core_eudicots,869087]]'
+instance_of: '[[/_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[/_Standards/WikiData/WD~order,36602|WD~order,36602]]'
+ITIS_TSN: 19520
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Dianthus%20caryophyllus%20L%20%28Clove%20pink%29.JPG
+EPPO_Code: 1CAFO
+MeSH_tree_code: B01.875.800.575.912.250.198.500
+UMLS_CUI: C0996694
+Commons_category: Caryophyllales
+taxon_name: Caryophyllales
+NBN_System_Key: NHMSYS0021060384
+taxon_common_name:
+- klinčkovci
+- 石竹目
 ---
 
 # [[Caryophyllales]]

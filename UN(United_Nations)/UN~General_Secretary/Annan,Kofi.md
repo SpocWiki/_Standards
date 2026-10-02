@@ -41,6 +41,8 @@ aliases:
 - 戈菲安南
 - 科菲·安南
 - 코피 아난
+- Annan
+- Kofi_Annan
 has_id_wikidata: Q1254
 position_held:
 - '[[/_Standards/WikiData/WD~United_Nations_Secretary_General,81066|WD~United_Nations_Secretary_General,81066]]'
@@ -343,6 +345,7 @@ dv_has_:
     yo: Kofi Annan
     yue: 戈菲安南
     zh: 科菲·安南
+Krugosvet_article_archived_: istoriya/ANNAN_KOFI.html
 ---
 
 # [[Annan,Kofi]] 

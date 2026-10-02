@@ -107,6 +107,12 @@ aliases:
   - 憤怒
   - 著氣
   - 노여움
+  - anger
+  - frenzy
+  - fury
+  - Rage
+  - Wrath
+  - Wut
 has_id_wikidata: Q79871
 instance_of:
   - "[[/_Standards/WikiData/WD~seven_deadly_sins,166502|WD~seven_deadly_sins,166502]]"
@@ -280,6 +286,7 @@ dv_has_:
     zh_cn: 愤怒
     zh_hans: 愤怒
     zh_hant: 憤怒
+title: 💢 Anger
 ---
 
 # [[Anger]] 💢 😠 😡 

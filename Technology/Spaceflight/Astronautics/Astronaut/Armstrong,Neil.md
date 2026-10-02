@@ -80,6 +80,7 @@ significant_event:
 - '[[/_Standards/WikiData/WD~extra_vehicular_activity,182020|WD~extra_vehicular_activity,182020]]'
 - '[[/_Standards/WikiData/WD~coronary_artery_bypass_surgery,186020|WD~coronary_artery_bypass_surgery,186020]]'
 - '[[/_Standards/WikiData/WD~walk_on_the_Moon,42882411|WD~walk_on_the_Moon,42882411]]'
+- '[[/_Standards/WikiData/WD~extra-vehicular_activity,182020|WD~extra-vehicular_activity,182020]]'
 educated_at:
 - '[[/_Standards/WikiData/WD~Purdue_University,217741|WD~Purdue_University,217741]]'
 - '[[/_Standards/WikiData/WD~Blume_High_School,4930726|WD~Blume_High_School,4930726]]'
@@ -118,6 +119,7 @@ award_received:
 - "[[/_Standards/WikiData/WD~Grande_Médaille_d'Or_des_Explorations,19904118|WD~Grande_Médaille_d'Or_des_Explorations,19904118]]"
 - '[[/_Standards/WikiData/WD~International_Space_Hall_of_Fame,99951011|WD~International_Space_Hall_of_Fame,99951011]]'
 - '[[/_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144|WD~Presidential_Medal_of_Freedom,17144]]'
+- '[[/_Standards/WikiData/WD~United_Nations_Medal,631727|WD~United_Nations_Medal,631727]]'
 place_of_birth: '[[/_Standards/WikiData/WD~Wapakoneta,492796|WD~Wapakoneta,492796]]'
 is_member_of:
 - '[[/_Standards/WikiData/WD~Scouting_America,608132|WD~Scouting_America,608132]]'
@@ -156,6 +158,7 @@ described_by_source:
 - '[[/_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
 - '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604|WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
 - '[[/_Standards/WikiData/WD~Astronomers_A_Biographical_Reference,126740695|WD~Astronomers_A_Biographical_Reference,126740695]]'
+- '[[/_Standards/WikiData/WD~Astronomers__A_Biographical_Reference,126740695|WD~Astronomers__A_Biographical_Reference,126740695]]'
 copyright_status_as_a_creator: '[[/_Standards/WikiData/WD~works_protected_by_copyrights,73555012|WD~works_protected_by_copyrights,73555012]]'
 present_in_work: '[[/_Standards/WikiData/WD~Star_Trek_The_Original_Series_Core_Game_Book,115519946|WD~Star_Trek_The_Original_Series_Core_Game_Book,115519946]]'
 child: '[[/_Standards/WikiData/WD~Rick_Armstrong,124318888|WD~Rick_Armstrong,124318888]]'
@@ -382,6 +385,31 @@ dv_has_:
     zh-hk: 尼爾岩士唐
     zh-tw: 尼爾·阿姆斯壯
     zu: Neil Armstrong
+member_of:
+- '[[/_Standards/WikiData/WD~Scouting_America,608132|WD~Scouting_America,608132]]'
+- '[[/_Standards/WikiData/WD~National_Academy_of_Engineering,1493021|WD~National_Academy_of_Engineering,1493021]]'
+- '[[/_Standards/WikiData/WD~Kappa_Kappa_Psi,3192863|WD~Kappa_Kappa_Psi,3192863]]'
+- '[[/_Standards/WikiData/WD~Phi_Delta_Theta,3378722|WD~Phi_Delta_Theta,3378722]]'
+- '[[/_Standards/WikiData/WD~Purdue_All-American_Marching_Band,7260967|WD~Purdue_All-American_Marching_Band,7260967]]'
+- '[[/_Standards/WikiData/WD~Academy_of_the_Kingdom_of__for_Royaume,115898215|WD~Academy_of_the_Kingdom_of__for_Royaume,115898215]]'
+National_Library_of_Poland_Descriptor: 9810646466705606
+dv_is_:
+  same_as:
+  - '[[/_Standards/Earth/Explorer/Modern_Explorer/Armstrong,Neil|Armstrong,Neil]]'
+  - '[[/_public/Earth/Explorer/Modern_Explorer/Armstrong,Neil.public|Armstrong,Neil.public]]'
+  - '[[/_internal/Earth/Explorer/Modern_Explorer/Armstrong,Neil.internal|Armstrong,Neil.internal]]'
+  - '[[/_protect/Earth/Explorer/Modern_Explorer/Armstrong,Neil.protect|Armstrong,Neil.protect]]'
+  - '[[/_private/Earth/Explorer/Modern_Explorer/Armstrong,Neil.private|Armstrong,Neil.private]]'
+  - '[[/_personal/Earth/Explorer/Modern_Explorer/Armstrong,Neil.personal|Armstrong,Neil.personal]]'
+  - '[[/_secret/Earth/Explorer/Modern_Explorer/Armstrong,Neil.secret|Armstrong,Neil.secret]]'
+dv_is_same_as:
+- '[[/_Standards/Earth/Explorer/Modern_Explorer/Armstrong,Neil|Armstrong,Neil]]'
+- '[[/_public/Earth/Explorer/Modern_Explorer/Armstrong,Neil.public|Armstrong,Neil.public]]'
+- '[[/_internal/Earth/Explorer/Modern_Explorer/Armstrong,Neil.internal|Armstrong,Neil.internal]]'
+- '[[/_protect/Earth/Explorer/Modern_Explorer/Armstrong,Neil.protect|Armstrong,Neil.protect]]'
+- '[[/_private/Earth/Explorer/Modern_Explorer/Armstrong,Neil.private|Armstrong,Neil.private]]'
+- '[[/_personal/Earth/Explorer/Modern_Explorer/Armstrong,Neil.personal|Armstrong,Neil.personal]]'
+- '[[/_secret/Earth/Explorer/Modern_Explorer/Armstrong,Neil.secret|Armstrong,Neil.secret]]'
 ---
 
 # [[Armstrong,Neil]] 
