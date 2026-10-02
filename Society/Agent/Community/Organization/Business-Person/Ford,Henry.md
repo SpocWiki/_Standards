@@ -50,6 +50,8 @@ aliases:
 - 亨利·福特
 - 亨利福特
 - 헨리 포드
+- Ford
+- Henry_Ford
 has_id_wikidata: Q8768
 award_received:
 - '[[/_Standards/WikiData/WD~Order_of_the_German_Eagle,94117|WD~Order_of_the_German_Eagle,94117]]'
@@ -283,6 +285,7 @@ dv_has_:
     yue: 亨利福特
     za: Henry Ford
     zh: 亨利·福特
+EcuRed_article: Henry_Ford
 ---
 
 # [[Ford,Henry]]  

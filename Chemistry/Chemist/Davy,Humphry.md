@@ -159,6 +159,13 @@ dv_is_same_as:
 - '[[/_private/Chemistry/Chemist/Davy,Humphry.private|Davy,Humphry.private]]'
 - '[[/_personal/Chemistry/Chemist/Davy,Humphry.personal|Davy,Humphry.personal]]'
 - '[[/_secret/Chemistry/Chemist/Davy,Humphry.secret|Davy,Humphry.secret]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Group-17-Halogen/Davy,Humphry|Davy,Humphry]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-17-Halogen/Davy,Humphry.public|Davy,Humphry.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-17-Halogen/Davy,Humphry.internal|Davy,Humphry.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-17-Halogen/Davy,Humphry.protect|Davy,Humphry.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-17-Halogen/Davy,Humphry.private|Davy,Humphry.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-17-Halogen/Davy,Humphry.personal|Davy,Humphry.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-17-Halogen/Davy,Humphry.secret|Davy,Humphry.secret]]'
 dv_has_:
   name_:
     af: Humphry Davy
@@ -262,6 +269,9 @@ dv_has_:
     zh_hk: 漢弗里·戴維
     zh_sg: 汉弗里·戴维
     zh_tw: 漢弗里·戴維
+dv_has_time_started: 1778-12-17
+dv_has_time_stopped: 1829-05-29
+dv_has_age_years: 50
 ---
 
 # [[Davy,Humphry]] 
@@ -299,3 +309,9 @@ dv_has_:
 
 ### #is_/same_as :: [[/_secret/Chemistry/Chemist/Davy,Humphry.secret|Davy,Humphry.secret]] 
 
+
+## Merged from `_Standards/Chemistry/Chemical_Element/Group-17-Halogen/Davy,Humphry.md`
+
+has_time_started = `=this.dv_has_time_started`
+has_time_stopped = `=this.dv_has_time_stopped`
+#has_/age_/years :: `$=Math.round(((dv.current().dv_has_time_stopped ?? new Date()) - dv.current().dv_has_time_started)/1000/60/60/24/365.2425)`

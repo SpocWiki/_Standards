@@ -65,14 +65,19 @@ aliases:
 - 北美大平原
 - 大平原
 - 그레이트플레인스
+- Great_Plains
 has_id_wikidata: Q12707
 instance_of:
 - '[[/_Standards/WikiData/WD~region,82794|WD~region,82794]]'
 - '[[/_Standards/WikiData/WD~plain,160091|WD~plain,160091]]'
+- "[[_Standards/WikiData/WD~region,82794]]"
+- "[[_Standards/WikiData/WD~plain,160091]]"
 located_in_on_physical_feature: '[[/_Standards/WikiData/WD~plain,160091|WD~plain,160091]]'
 named_after:
 - '[[/_Standards/WikiData/WD~plain,160091|WD~plain,160091]]'
 - '[[/_Standards/WikiData/WD~largeness,12935276|WD~largeness,12935276]]'
+- "[[_Standards/WikiData/WD~plain,160091]]"
+- "[[_Standards/WikiData/WD~largeness,12935276]]"
 located_in_the_administrative_territorial_entity:
 - '[[/_Standards/WikiData/WD~Thomas_County,374452|WD~Thomas_County,374452]]'
 - '[[/_Standards/WikiData/WD~North_Dakota,1207|WD~North_Dakota,1207]]'
@@ -89,11 +94,28 @@ located_in_the_administrative_territorial_entity:
 - '[[/_Standards/WikiData/WD~Alberta,1951|WD~Alberta,1951]]'
 - '[[/_Standards/WikiData/WD~Manitoba,1948|WD~Manitoba,1948]]'
 - '[[/_Standards/WikiData/WD~Saskatchewan,1989|WD~Saskatchewan,1989]]'
+- "[[_Standards/WikiData/WD~Thomas_County,374452]]"
+- "[[_Standards/WikiData/WD~North_Dakota,1207]]"
+- "[[_Standards/WikiData/WD~South_Dakota,1211]]"
+- "[[_Standards/WikiData/WD~Wyoming,1214]]"
+- "[[_Standards/WikiData/WD~Montana,1212]]"
+- "[[_Standards/WikiData/WD~Colorado,1261]]"
+- "[[_Standards/WikiData/WD~Texas,1439]]"
+- "[[_Standards/WikiData/WD~New_Mexico,1522]]"
+- "[[_Standards/WikiData/WD~Minnesota,1527]]"
+- "[[_Standards/WikiData/WD~Iowa,1546]]"
+- "[[_Standards/WikiData/WD~Nebraska,1553]]"
+- "[[_Standards/WikiData/WD~Oklahoma,1649]]"
+- "[[_Standards/WikiData/WD~Alberta,1951]]"
+- "[[_Standards/WikiData/WD~Manitoba,1948]]"
+- "[[_Standards/WikiData/WD~Saskatchewan,1989]]"
 partially_coincident_with: '[[/_Standards/WikiData/WD~Great_Plains,60138948|WD~Great_Plains,60138948]]'
 described_by_source: '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 country:
 - '[[/_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
 - '[[/_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- "[[_Standards/WikiData/WD~Canada,16]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 part_of: '[[/_Standards/WikiData/WD~North_America,49|WD~North_America,49]]'
 continent: '[[/_Standards/WikiData/WD~North_America,49|WD~North_America,49]]'
 coordinate_location: Point(-100.0 40.0)
@@ -260,3 +282,7 @@ dv_has_:
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Plain-North_America/Great_Plains.secret|Great_Plains.secret]] 
 
+
+## Merged from `_Standards/Earth/Continent/America~North/USA/USA~7-Mountain/Great_Plains.md`
+
+is_same_as = `=this.dv_is_same_as`

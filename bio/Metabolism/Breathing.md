@@ -115,6 +115,7 @@ Commons_category: Respiration
 described_by_source:
 - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 has_part_s_:
 - '[[/_Standards/WikiData/WD~inhalation,840343|WD~inhalation,840343]]'
 - '[[/_Standards/WikiData/WD~exhalation,2197000|WD~exhalation,2197000]]'
@@ -252,6 +253,8 @@ dv_has_:
     zh: 呼吸
     zh_hans: 呼吸
     zh_hant: 呼吸
+product_or_material_produced: '[[/_Standards/WikiData/WD~breath,13428325|WD~breath,13428325]]'
+P8189: 987007534084005171
 ---
 
 # [[Breathing]]  

@@ -37,6 +37,7 @@ aliases:
 - 常春藤盟校
 - 長春藤聯盟
 - 아이비 리그
+- Ivy_League
 has_id_wikidata: Q49113
 part_of: '[[/_Standards/WikiData/WD~NCAA_Division_I,2842604|WD~NCAA_Division_I,2842604]]'
 topic_has_template: '[[/_Standards/WikiData/WD~Template_Ivy_League,6148939|WD~Template_Ivy_League,6148939]]'
@@ -52,6 +53,14 @@ has_part_s_:
 - '[[/_Standards/WikiData/WD~Yale_University,49112|WD~Yale_University,49112]]'
 - '[[/_Standards/WikiData/WD~Dartmouth_College,49116|WD~Dartmouth_College,49116]]'
 - '[[/_Standards/WikiData/WD~University_of_Pennsylvania,49117|WD~University_of_Pennsylvania,49117]]'
+- '[[_Standards/WikiData/WD~Harvard_University,13371]]'
+- '[[_Standards/WikiData/WD~Princeton_University,21578]]'
+- '[[_Standards/WikiData/WD~Columbia_University,49088]]'
+- '[[_Standards/WikiData/WD~Brown_University,49114]]'
+- '[[_Standards/WikiData/WD~Cornell_University,49115]]'
+- '[[_Standards/WikiData/WD~Yale_University,49112]]'
+- '[[_Standards/WikiData/WD~Dartmouth_College,49116]]'
+- '[[_Standards/WikiData/WD~University_of_Pennsylvania,49117]]'
 country: '[[/_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 NCAA_organization_code: 865
 Commons_gallery: Star Wars
@@ -148,6 +157,10 @@ dv_has_:
     zh-my: 常春藤盟校
     zh_sg: 常春藤盟校
     zh_tw: 常春藤盟校
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~Ivy_League,49113]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~Ivy_League,49113]]"
+
 ---
 
 # [[Ivy_League]] 
@@ -206,3 +219,7 @@ dv_has_:
 
 ### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Ivy_League.secret|Ivy_League.secret]] 
 
+
+## Merged from `_Standards/Earth/Continent/America~North/USA/USA~5-Eastern/Ivy_League.md`
+
+is_same_as = `=this.dv_is_same_as`

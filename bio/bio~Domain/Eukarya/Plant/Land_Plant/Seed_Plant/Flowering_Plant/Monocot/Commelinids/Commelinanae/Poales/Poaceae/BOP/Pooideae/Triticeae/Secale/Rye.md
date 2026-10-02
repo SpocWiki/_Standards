@@ -129,6 +129,7 @@ described_by_source:
 - '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 - '[[/_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_9(3),112869380|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_9(3),112869380]]'
 - '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 parent_taxon: '[[../../../../../../../../../../../../../../../../WikiData/WD~Secale,7215110|WD~Secale,7215110]]'
 maintained_by_WikiProject: '[[/_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
 this_taxon_is_source_of:
@@ -316,6 +317,7 @@ dv_has_:
     zh: 裸麥
     zh_cn: 黑麦
     zh_tw: 黑麥
+Krugosvet_article: biologiya/rozh-posevnaya
 ---
 
 # [[Rye]] 

@@ -214,6 +214,9 @@ dv_has_:
     yo: Erich Fromm
     yue: 佛洛姆
     zh: 埃里希·弗罗姆
+topic_s_main_category: '[[/_Standards/WikiData/WD~Category_Erich_Fromm,8948885|WD~Category_Erich_Fromm,8948885]]'
+Krugosvet_article_archived_: gumanitarnye_nauki/psihologiya_i_pedagogika/FROMM_ERIH.html
+P1015: 90056694
 ---
 
 # [[Fromm,Erich]] 
@@ -249,3 +252,7 @@ dv_has_:
 
 ### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Sociologist/Fromm,Erich.secret|Fromm,Erich.secret]] 
 
+
+## Merged from `_Standards/Philosophy/Philosopher/Modern_Philosopher/Fromm,Erich.md`
+
+#is_/similar_to :: [[Arendt,Hannah]]

@@ -67,6 +67,7 @@ aliases:
 - 代父母
 - 教父母
 - 대부모
+- godparent
 has_id_wikidata: Q223973
 described_by_source:
 - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'

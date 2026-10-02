@@ -88,6 +88,8 @@ aliases:
 - 大麻属
 - 삼속
 - "\U00010337\U00010330\U0001033D\U00010330\U00010340\U00010343"
+- hemp
+- Marijuana
 has_id_wikidata: Q79817
 CAS_Registry_Number: 8063-14-7
 Commons_category: Cannabis
@@ -99,6 +101,7 @@ described_by_source:
 - '[[/_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 - '[[/_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_23(1),112869399|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_23(1),112869399]]'
 - '[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 EPPO_Code: 1CNIG
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomygenus.aspx?id=2034
 hashtag: Cannabis
@@ -262,6 +265,8 @@ dv_has_:
     zh_cn: 大麻属
     zh_hans: 大麻属
     zu: insango
+topic_has_template: '[[/_Standards/WikiData/WD~Template_Cannabis,5609335|WD~Template_Cannabis,5609335]]'
+hashtag_: Cannabis
 ---
 
 # [[Cannabis]] 
@@ -315,3 +320,30 @@ dv_has_:
 
 ### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Rosales/Cannabaceae/Cannabis.secret|Cannabis.secret]] 
 
+
+## Merged from `_Standards/bio/Medicine/Drug/Drug-Dealing/Cannabis.md`
+
+> **Cannabis** is a genus of flowering plants in the family Cannabaceae.
+> The number of species within the genus is disputed.
+> Three species may be recognized: Cannabis sativa, C. indica, and C. ruderalis.
+> Alternatively, C. ruderalis may be included within C. sativa,
+> or all three may be treated as subspecies of C. sativa,
+> or C. sativa may be accepted as a single undivided species.
+> The genus is widely accepted as being indigenous to and originating from Asia.
+>
+> The plant is also known as hemp, although this term is often used to refer
+> only to varieties of Cannabis cultivated for non-drug use.
+>
+> Cannabis has long been used for hemp fibre, hemp seeds and their oils,
+> hemp leaves for use as vegetables and as juice.
+> Industrial hemp products are made from cannabis plants
+> selected to produce an abundance of fibre.
+>
+> Cannabis also has a long history of being used for medicinal purposes,
+> and as a recreational drug known as [[Marijuana]] or weed.
+> Various cannabis strains have been bred, often selectively
+> to produce high or low levels of tetrahydrocannabinol (THC),
+> a cannabinoid and the plant's principal psychoactive constituent.
+> Compounds such as hashish and hash oil are extracted from the plant.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Cannabis)

@@ -108,6 +108,8 @@ aliases:
 - ハイエナ
 - 鬣狗科
 - 하이에나
+- Hyaena
+- hyenas
 has_id_wikidata: Q42046
 different_from: '[[/_Standards/WikiData/WD~African_wild_dog,173651|WD~African_wild_dog,173651]]'
 described_by_source:

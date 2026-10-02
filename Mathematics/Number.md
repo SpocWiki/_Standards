@@ -161,6 +161,8 @@ aliases:
 - 数
 - 數
 - 수
+- is_a_number
+- number
 has_id_wikidata: Q11563
 Commons_category: Numbers
 Commons_gallery: Numbers
@@ -171,6 +173,9 @@ described_by_source:
 - '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 - '[[/_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
 - '[[/_Standards/WikiData/WD~The_Art_of_Computer_Programming,_Volume_1__Fundamental_Algorithms,_3rd_edition,47755251|WD~The_Art_of_Computer_Programming,_Volume_1__Fundamental_Algorithms,_3rd_edition,47755251]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[/_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[/_Standards/WikiData/WD~The_Art_of_Computer_Programming,_Volume_1_Fundamental_Algorithms,_3rd_edition,47755251|WD~The_Art_of_Computer_Programming,_Volume_1_Fundamental_Algorithms,_3rd_edition,47755251]]'
 different_from:
 - '[[/_Standards/WikiData/WD~Zahl,140598|WD~Zahl,140598]]'
 - '[[/_Standards/WikiData/WD~Number,4516286|WD~Number,4516286]]'
@@ -421,6 +426,52 @@ dv_has_:
     zh_sg: 数
     zh_tw: 數
     zu: inombolo
+confidential: public
+cssclasses:
+- Type
+draft: false
+expiryDate: ''
+isDeleted: false
+isReadOnly: false
+keywords:
+- number
+layout: ''
+license: CC BY-SA 4.0
+linkTitle: is_a_number Class
+publish: true
+publishDate: ''
+tags:
+- class/Class
+- schema-org/Class
+- class/data_type
+title: is_a_number Class
+type: Type
+topic_has_template: '[[/_Standards/WikiData/WD~Template_Number_systems,6443303|WD~Template_Number_systems,6443303]]'
+Krugosvet_article_archived_: nauka_i_tehnika/matematika/CHISLO.html
+IMDb_keyword: number-in-title
+dv_is_:
+  same_as:
+  - '[[../../../../WikiData/WD~Number,11563|WD~Number,11563]]'
+  - '[[/_Standards/schema-org/Class/is_a_/Data_Type/Number|Number]]'
+  - '[[/_public/schema-org/Class/is_a_/Data_Type/Number.public|Number.public]]'
+  - '[[/_internal/schema-org/Class/is_a_/Data_Type/Number.internal|Number.internal]]'
+  - '[[/_protect/schema-org/Class/is_a_/Data_Type/Number.protect|Number.protect]]'
+  - '[[/_private/schema-org/Class/is_a_/Data_Type/Number.private|Number.private]]'
+  - '[[/_personal/schema-org/Class/is_a_/Data_Type/Number.personal|Number.personal]]'
+  - '[[/_secret/schema-org/Class/is_a_/Data_Type/Number.secret|Number.secret]]'
+  - '[[Number]]'
+dv_has_child_class:
+- '[[Number/Float|Float]]'
+- '[[Number/Integer|Integer]]'
+dv_is_same_as:
+- '[[../../../../WikiData/WD~Number,11563|WD~Number,11563]]'
+- '[[Number]]'
+- '[[/_public/schema-org/Class/is_a_/Data_Type/Number.public|Number.public]]'
+- '[[/_internal/schema-org/Class/is_a_/Data_Type/Number.internal|Number.internal]]'
+- '[[/_protect/schema-org/Class/is_a_/Data_Type/Number.protect|Number.protect]]'
+- '[[/_private/schema-org/Class/is_a_/Data_Type/Number.private|Number.private]]'
+- '[[/_personal/schema-org/Class/is_a_/Data_Type/Number.personal|Number.personal]]'
+- '[[/_secret/schema-org/Class/is_a_/Data_Type/Number.secret|Number.secret]]'
 ---
 
 # [[Number]]  
@@ -465,3 +516,21 @@ dv_has_:
 
 ### #is_/same_as :: [[/_secret/Mathematics/Number.secret|Number.secret]] 
 
+
+## Merged from `_Standards/schema-org/Class/is_a_/Data_Type/Number.md`
+
+Class of all numbers: [[Number/Float|Float]] and [[Number/Integer|Integer]]
+
+Tag Instances like this:
+#is_a_/number
+
+Data type: Number.
+
+Usage guidelines:
+
+<ul>
+<li>Use values from 0123456789 (Unicode 'DIGIT ZERO' (U+0030) to 'DIGIT NINE' (U+0039)) rather than superficially similar Unicode symbols.</li>
+<li>Use '.' (Unicode 'FULL STOP' (U+002E)) rather than ',' to indicate a decimal point. Avoid using these symbols as a readability separator.</li>
+</ul>
+
+has_child_class = `=this.dv_has_child_class`

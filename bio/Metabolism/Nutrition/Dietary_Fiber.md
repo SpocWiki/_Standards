@@ -61,6 +61,9 @@ aliases:
 - 膳食纤维
 - 食物繊維
 - 식이 섬유
+- Dietary fiber
+- Dietary_Fiber
+- roughage
 has_id_wikidata: Q215210
 dv_has_:
   name_:

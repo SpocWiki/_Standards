@@ -89,6 +89,8 @@ aliases:
 - 防御工事
 - 防禦工事
 - 요새화
+- fort, fortress, fastness, or stronghold
+- Fortification
 has_id_wikidata: Q57821
 has_part_s_:
 - '[[/_Standards/WikiData/WD~city_gate,82117|WD~city_gate,82117]]'
@@ -237,6 +239,26 @@ dv_has_:
     zh_cn: 防御工事
     zh_hans: 防御工事
     zh_hant: 防禦工事
+P8189: 987007545715705200
+dv_is_:
+  same_as:
+  - '[[../../../../../../WikiData/WD~Fortification,57821|WD~Fortification,57821]]'
+  - '[[/_Standards/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification|Fortification]]'
+  - '[[/_public/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.public|Fortification.public]]'
+  - '[[/_internal/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.internal|Fortification.internal]]'
+  - '[[/_protect/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.protect|Fortification.protect]]'
+  - '[[/_private/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.private|Fortification.private]]'
+  - '[[/_personal/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.personal|Fortification.personal]]'
+  - '[[/_secret/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.secret|Fortification.secret]]'
+dv_is_same_as:
+- '[[../../../../../../WikiData/WD~Fortification,57821|WD~Fortification,57821]]'
+- '[[/_Standards/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification|Fortification]]'
+- '[[/_public/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.public|Fortification.public]]'
+- '[[/_internal/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.internal|Fortification.internal]]'
+- '[[/_protect/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.protect|Fortification.protect]]'
+- '[[/_private/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.private|Fortification.private]]'
+- '[[/_personal/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.personal|Fortification.personal]]'
+- '[[/_secret/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.secret|Fortification.secret]]'
 ---
 
 # [[Fortification]] 

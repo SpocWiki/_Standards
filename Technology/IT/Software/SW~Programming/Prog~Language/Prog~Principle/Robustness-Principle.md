@@ -101,3 +101,8 @@ Preferably use only a single persistent Store, otherwise you need 2-phase Commit
 
 ### #is_/same_as :: [[/_secret/Technology/IT/Software/SW~Programming/Prog~Language/Prog~Principle/Robustness-Principle.secret|Robustness-Principle.secret]] 
 
+
+## Merged from `_Standards/Technology/IT/Software/SW~Programming/Prog~Language/Robustness-Principle.md`
+
+This Principle corresponds directly to the [[Liskov_Substitution-Principle]],
+leading to the common[[Prog~Paradigm/Prog~OO/Variance,OO|Variance,OO]]] of Parameters and Results.

@@ -42,6 +42,7 @@ aliases:
 - 賈科莫·普契尼
 - 贾科莫·普契尼
 - 자코모 푸치니
+- Giacomo_Puccini
 has_id_wikidata: Q7311
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Enrico%20Caruso%20-%20Nellie%20Melba%20-%20La%20boh%C3%A8me%20-%20O%20soave%20fanciulla%20%28restored%29.ogg
 BHCL_UUID: c2d1f6af-8394-4754-bbb3-b4897a6a96d9
@@ -66,6 +67,7 @@ described_by_source:
 - '[[/_Standards/WikiData/WD~BEIC_Digital_Library,51955019|WD~BEIC_Digital_Library,51955019]]'
 - '[[/_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
 - '[[/_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456|WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 documentation_files_at: '[[/_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401|WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 educated_at: '[[/_Standards/WikiData/WD~Milan_Conservatory,2045972|WD~Milan_Conservatory,2045972]]'
 Europeana_entity: agent/base/146824
@@ -335,3 +337,18 @@ dv_has_:
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Puccini,Giacomo.secret|Puccini,Giacomo.secret]] 
 
+
+## Merged from `_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Puccini,Giacomo.md`
+
+#has_/time_/started :: 1858-12-22
+#has_/time_/stopped :: 1924-11-29
+#has_/duration  :: `$=((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)`
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000 /60 /60 /24 /365.2425)`
+
+Puccini verwendete das Orchester um die Wirkung der Stimmen zu verstärken.
+Die Librettos stammen i.d.R. aus der Trivial-Literatur.
+Viele Kritiker bewerten seine Werke als trivial;
+Puccini gibt in seinen Interviews zu, dass er dem Publikum gefallen möchte.
+
+Puccini hat [[../../../Composer/Classic_Composer/Wagner,Richard|Wagner,Richard]] für seine moderne Musik bewundert
+und sich später auch für [[../../../Composer/20th_century_Composers/Stravinsky,Igor|Stravinsky,Igor]] und [[Schönberg,Arnold]] interessiert.

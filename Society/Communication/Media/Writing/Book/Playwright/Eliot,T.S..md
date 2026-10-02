@@ -86,6 +86,7 @@ influenced_by:
 - '[[/_Standards/WikiData/WD~Evelyn_Underhill,454734|WD~Evelyn_Underhill,454734]]'
 - '[[/_Standards/WikiData/WD~Richard_Crashaw,553900|WD~Richard_Crashaw,553900]]'
 - '[[/_Standards/WikiData/WD~Kyriakos_Charalambides,1362794|WD~Kyriakos_Charalambides,1362794]]'
+- '[[/_Standards/WikiData/WD~Dante_Alighieri,1067|WD~Dante_Alighieri,1067]]'
 residence:
 - '[[/_Standards/WikiData/WD~Missouri,1581|WD~Missouri,1581]]'
 - '[[/_Standards/WikiData/WD~St._Louis,38022|WD~St._Louis,38022]]'
@@ -340,6 +341,7 @@ dv_has_:
     zh: T·S·艾略特
     zh_hans: T·S·艾略特
     zh_hant: T·S·艾略特
+Krugosvet_article: kultura_i_obrazovanie/literatura/ELIOT_TOMAS_STERNZ.html
 ---
 
 # [[Eliot,T.S.]] 
@@ -386,3 +388,8 @@ dv_has_:
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Playwright/Eliot,T.S..secret|Eliot,T.S..secret]] 
 
+
+## Merged from `_Standards/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Eliot,T.S..md`
+
+#has_/time_/started ::  1888-09-26
+#has_/time_/started ::  1965-01-04

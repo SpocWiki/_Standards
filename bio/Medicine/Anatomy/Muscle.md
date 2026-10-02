@@ -130,6 +130,8 @@ aliases:
 - 筋肉
 - 肌肉
 - 근육
+- is_a_muscle
+- muscle
 has_id_wikidata: Q7365
 Commons_category: Muscles
 Commons_gallery: Muscle
@@ -140,6 +142,7 @@ described_by_source:
 - "[[/_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
 - '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 - '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 development_of_anatomical_structure: '[[/_Standards/WikiData/WD~muscle_organ_development,14863685|WD~muscle_organ_development,14863685]]'
 different_from: '[[/_Standards/WikiData/WD~Piskel,101250889|WD~Piskel,101250889]]'
 equivalent_class:
@@ -353,6 +356,27 @@ dv_has_:
     zh-my: 肌肉
     zh_sg: 肌肉
     zh_tw: 肌肉
+confidential: public
+cssclasses:
+- Type
+draft: false
+expiryDate: ''
+isDeleted: false
+isReadOnly: false
+keywords:
+- muscle
+layout: ''
+license: CC BY-SA 4.0
+linkTitle: is_a_muscle Class
+publish: true
+publishDate: ''
+tags:
+- class/Class
+- schema-org/Class
+title: is_a_muscle Class
+type: Type
+studied_by: '[[/_Standards/WikiData/WD~myology,674407|WD~myology,674407]]'
+P8189: 987007547082105171
 ---
 
 # [[Muscle]]  
@@ -387,3 +411,16 @@ dv_has_:
 
 ### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Muscle.secret|Muscle.secret]] 
 
+
+## Merged from `_Standards/bio/Medicine/Anatomy/Skeleton/Muscle.md`
+
+Class of all muscles.
+
+Tag Instances like this:
+#is_a_/muscle
+
+A muscle is an anatomical structure consisting of a contractile form of tissue that animals use to effect movement.
+
+#has_/parent_class :: [[../AnatomicalStructure|AnatomicalStructure]]
+
+#has_/properties :: [ additionalType, alternateName, antagonist, associatedPathophysiology, bloodSupply, bodyLocation, code, connectedTo, description, diagram, disambiguatingDescription, funding, guideline, identifier, image, insertion, legalStatus, mainEntityOfPage, medicineSystem, muscleAction, name, nerve, partOfSystem, potentialAction, recognizingAuthority, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, study, subStructure, subjectOf, url ]

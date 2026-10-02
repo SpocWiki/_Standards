@@ -66,6 +66,8 @@ aliases:
 - 溜冰
 - 滑冰
 - 빙상 스케이트
+- Ice skating
+- Ice_Skating
 has_id_wikidata: Q779272
 uses: '[[/_Standards/WikiData/WD~ice_skate,108640|WD~ice_skate,108640]]'
 subclass_of:

@@ -82,6 +82,7 @@ aliases:
 - 教育学
 - 教育學
 - 교육학
+- pedagogy
 has_id_wikidata: Q7922
 described_by_source:
 - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'

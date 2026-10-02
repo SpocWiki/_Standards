@@ -95,6 +95,8 @@ aliases:
 - 賭博
 - 赌博
 - 도박
+- betting
+- gaming
 has_id_wikidata: Q11416
 Commons_category: Gambling
 contributing_factor_of: '[[/_Standards/WikiData/WD~problem_gambling,748309|WD~problem_gambling,748309]]'
@@ -105,6 +107,8 @@ described_by_source:
 - '[[/_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135|WD~Encyclopedic_Lexicon,4532135]]'
 - '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 - '[[/_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[/_Standards/WikiData/WD~Meyer_s_Universum,_Zwölfter_Band,133933209|WD~Meyer_s_Universum,_Zwölfter_Band,133933209]]'
 Dewey_Decimal_Classification:
 - 306.482
 - 795
@@ -264,6 +268,8 @@ dv_has_:
     zh_hant: 賭博
     zh_hk: 賭博
     zh_tw: 賭博
+instance_of: '[[/_Standards/WikiData/WD~game_genre,107551175|WD~game_genre,107551175]]'
+IMDb_keyword: gambling
 ---
 
 # [[Gambling]] 

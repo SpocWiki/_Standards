@@ -84,6 +84,7 @@ aliases:
 - 機関
 - 發動機
 - 엔진
+- engine
 has_id_wikidata: Q44167
 Colon_Classification: D513
 Commons_category: Engines
@@ -96,6 +97,8 @@ described_by_source:
 - '[[/_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
 - '[[/_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
 - '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[/_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 different_from: '[[/_Standards/WikiData/WD~software_engine,2622299|WD~software_engine,2622299]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Displacement.gif
@@ -250,6 +253,10 @@ dv_has_:
     zh_sg: 发动机
     zh_tw: 發動機
     zu: Isilumbamdiki
+has_use: '[[/_Standards/WikiData/WD~propulsion,2583685|WD~propulsion,2583685]]'
+topic_has_template:
+- '[[/_Standards/WikiData/WD~Template_Infobox_engine,10968599|WD~Template_Infobox_engine,10968599]]'
+- '[[/_Standards/WikiData/WD~Template_Infobox_automotive_engine,22830011|WD~Template_Infobox_automotive_engine,22830011]]'
 ---
 
 # [[Engine]] 

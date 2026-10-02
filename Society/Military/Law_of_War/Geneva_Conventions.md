@@ -279,3 +279,13 @@ dv_has_:
 
 ### #is_/same_as :: [[/_secret/Society/Military/Law_of_War/Geneva_Conventions.secret|Geneva_Conventions.secret]] 
 
+
+## Merged from `_Standards/Society/Military/Military_Operation/Combat/Geneva_Conventions.md`
+
+> The Geneva Conventions are international humanitarian laws consisting of four treaties and three additional protocols that establish international legal standards for humanitarian treatment in war. The singular term Geneva Convention colloquially denotes the agreements of 1949, negotiated in the aftermath of the Second World War (1939–1945), which updated the terms of the two 1929 treaties and added two new conventions. The Geneva Conventions extensively define the basic rights of wartime prisoners, civilians and military personnel; establish protections for the wounded and sick; and provide protections for the civilians in and around a war-zone.
+>
+> The Geneva Conventions define the rights and protections afforded to those
+>
+> non-combatants who fulfill the criteria of being protected persons. The treaties of 1949 were ratified, in their entirety or with reservations, by 196 countries. The Geneva Conventions concern only protected non-combatants in war. The use of wartime conventional weapons is addressed by the Hague Conventions of 1899 and 1907 and the 1980 Convention on Certain Conventional Weapons, while the biological and chemical warfare in international armed conflicts is addressed by the 1925 Geneva Protocol.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Geneva%20Conventions)

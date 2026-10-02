@@ -98,6 +98,7 @@ aliases:
 - 内分泌系
 - 内分泌系统
 - 내분비계
+- endocrine system
 has_id_wikidata: Q11078
 Commons_category: Endocrine system
 Commons_gallery: Endocrine system
@@ -236,6 +237,26 @@ dv_has_:
     zh: 內分泌系統
     zh_hans: 内分泌系统
     zh_hant: 內分泌系統
+studied_by: '[[/_Standards/WikiData/WD~endocrinology,162606|WD~endocrinology,162606]]'
+dv_is_:
+  same_as:
+  - '[[../../../../WikiData/WD~Endocrine_system,11078|WD~Endocrine_system,11078]]'
+  - '[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System|Endocrine_System]]'
+  - '[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.public|Endocrine_System.public]]'
+  - '[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.internal|Endocrine_System.internal]]'
+  - '[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.protect|Endocrine_System.protect]]'
+  - '[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.private|Endocrine_System.private]]'
+  - '[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.personal|Endocrine_System.personal]]'
+  - '[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.secret|Endocrine_System.secret]]'
+dv_is_same_as:
+- '[[../../../../WikiData/WD~Endocrine_system,11078|WD~Endocrine_system,11078]]'
+- '[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System|Endocrine_System]]'
+- '[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.public|Endocrine_System.public]]'
+- '[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.internal|Endocrine_System.internal]]'
+- '[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.protect|Endocrine_System.protect]]'
+- '[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.private|Endocrine_System.private]]'
+- '[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.personal|Endocrine_System.personal]]'
+- '[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.secret|Endocrine_System.secret]]'
 ---
 
 # [[Endocrine_System]]  

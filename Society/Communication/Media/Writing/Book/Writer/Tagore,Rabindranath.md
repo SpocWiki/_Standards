@@ -70,6 +70,9 @@ aliases:
 - 羅賓德拉納特·泰戈爾
 - ꠞꠛꠤꠘ꠆ꠖꠘꠣꠕ ꠑꠣꠇꠥꠞ
 - 라빈드라나트 타고르
+- Bhanusimha
+- Gurudev
+- Rabindranath_Tagore
 has_id_wikidata: Q7241
 country_of_citizenship: '[[/_Standards/WikiData/WD~British_Raj,129286|WD~British_Raj,129286]]'
 occupation:
@@ -126,6 +129,7 @@ notable_work:
 - '[[/_Standards/WikiData/WD~Bhanusimha_Thakurer_Padabali,51451626|WD~Bhanusimha_Thakurer_Padabali,51451626]]'
 - '[[/_Standards/WikiData/WD~Q97823937,97823937|WD~Q97823937,97823937]]'
 - '[[/_Standards/WikiData/WD~Kabuliwala,106687739|WD~Kabuliwala,106687739]]'
+- '[[/_Standards/WikiData/WD~Hungry_Stones,30681934|WD~Hungry_Stones,30681934]]'
 movement: '[[/_Standards/WikiData/WD~Bengali_Renaissance,817169|WD~Bengali_Renaissance,817169]]'
 award_received:
 - '[[/_Standards/WikiData/WD~Knight_Bachelor,833163|WD~Knight_Bachelor,833163]]'

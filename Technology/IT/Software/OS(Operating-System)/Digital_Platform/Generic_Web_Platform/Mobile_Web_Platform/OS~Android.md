@@ -47,6 +47,7 @@ aliases:
 - អេនដ្រយដ៍
 - 安卓
 - 안드로이드
+- Android
 has_id_wikidata: Q94
 confidential: public
 cssclasses:
@@ -75,6 +76,7 @@ package_management_system:
 - '[[/_Standards/WikiData/WD~APK,596391|WD~APK,596391]]'
 - '[[/_Standards/WikiData/WD~Q1386210,1386210|WD~Q1386210,1386210]]'
 - '[[/_Standards/WikiData/WD~Huawei_AppGallery,95611555|WD~Huawei_AppGallery,95611555]]'
+- "[[/_Standards/WikiData/WD~Q596391,596391|WD~Q596391,596391]]"
 writable_file_format:
 - '[[/_Standards/WikiData/WD~Portable_Network_Graphics,178051|WD~Portable_Network_Graphics,178051]]'
 - '[[/_Standards/WikiData/WD~Waveform_Audio_File_Format,217570|WD~Waveform_Audio_File_Format,217570]]'
@@ -108,6 +110,7 @@ platform: '[[/_Standards/WikiData/WD~Q182933,182933|WD~Q182933,182933]]'
 instance_of:
 - '[[/_Standards/WikiData/WD~computing_platform,241317|WD~computing_platform,241317]]'
 - '[[/_Standards/WikiData/WD~mobile_operating_system,920890|WD~mobile_operating_system,920890]]'
+- "[[/_Standards/WikiData/WD~open_source_software,1130645|WD~open_source_software,1130645]]"
 programmed_in:
 - '[[../../../../../../../WikiData/WD~Q575650,575650|WD~Q575650,575650]]'
 - '[[../../../../../../../WikiData/WD~Q3816639,3816639|WD~Q3816639,3816639]]'
@@ -115,6 +118,11 @@ programmed_in:
 - '[[../../../../../../../WikiData/WD~Q15777,15777|WD~Q15777,15777]]'
 - '[[/_Standards/WikiData/WD~XML_Schema,16342|WD~XML_Schema,16342]]'
 - '[[../../../../../../../WikiData/WD~Java,251|WD~Java,251]]'
+- "[[/_Standards/WikiData/WD~Q575650,575650|WD~Q575650,575650]]"
+- "[[/_Standards/WikiData/WD~Q3816639,3816639|WD~Q3816639,3816639]]"
+- "[[/_Standards/WikiData/WD~Q2407,2407|WD~Q2407,2407]]"
+- "[[/_Standards/WikiData/WD~Q15777,15777|WD~Q15777,15777]]"
+- "[[/_Standards/WikiData/WD~Java,251|WD~Java,251]]"
 has_part_s_:
 - '[[/_Standards/WikiData/WD~Dalvik_VM,754752|WD~Dalvik_VM,754752]]'
 - '[[/_Standards/WikiData/WD~Bionic,4035125|WD~Bionic,4035125]]'
@@ -151,6 +159,12 @@ derivative_work:
 - '[[/_Standards/WikiData/WD~Q111915580,111915580|WD~Q111915580,111915580]]'
 - '[[/_Standards/WikiData/WD~Xiaomi_HyperOS,123102639|WD~Xiaomi_HyperOS,123102639]]'
 - '[[/_Standards/WikiData/WD~MagicOS,124707440|WD~MagicOS,124707440]]'
+- "[[/_Standards/WikiData/WD~Q855981,855981|WD~Q855981,855981]]"
+- "[[/_Standards/WikiData/WD~Q15089879,15089879|WD~Q15089879,15089879]]"
+- "[[/_Standards/WikiData/WD~Q15474162,15474162|WD~Q15474162,15474162]]"
+- "[[/_Standards/WikiData/WD~Q17352119,17352119|WD~Q17352119,17352119]]"
+- "[[/_Standards/WikiData/WD~Q28059734,28059734|WD~Q28059734,28059734]]"
+- "[[/_Standards/WikiData/WD~Q111369340,111369340|WD~Q111369340,111369340]]"
 topic_has_template: '[[/_Standards/WikiData/WD~Template_Android_(operating_system),6678790|WD~Template_Android_(operating_system),6678790]]'
 copyright_license:
 - '[[/_Standards/WikiData/WD~GNU_General_Public_License,_version_2.0,10513450|WD~GNU_General_Public_License,_version_2.0,10513450]]'
@@ -282,6 +296,10 @@ dv_has_:
     tok: ilo Antowi
     ur: اینڈروئیڈ
     wuu: 安卓
+topic_s_main_category: "[[/_Standards/WikiData/WD~Category_Android_(operating_system),6343963|WD~Category_Android_(operating_system),6343963]]"
+Gentoo_Wiki_article: Android
+GitHub_account: android
+Lemmy_instance_URL: https://lemdro.id
 ---
 
 # [[OS~Android]] 
@@ -316,3 +334,70 @@ Represents the broad notion of Android-based operating systems.
 
 ### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~Android.secret|OS~Android.secret]] 
 
+
+## Merged from `_Standards/Technology/IT/Software/OS(Operating-System)/OS~Linux/OS~Android.md`
+
+## #has_/text_of_/abstract
+
+> Android is an operating system based on
+> a modified version of the Linux kernel and other open-source software,
+> designed primarily for touchscreen-based mobile devices
+> such as smartphones and tablet computers.
+>
+> Android has historically been developed by
+> a consortium of developers known as the Open Handset Alliance,
+> but its most widely used version is primarily developed by Google.
+>
+> First released in 2008, Android is the world's most widely used operating system;
+> it is the most used operating system for smartphones, and also most used for tablets;
+> the latest version, released on June 10, 2025, is Android 16.
+>
+> At its core, the operating system is known as the Android Open Source Project (AOSP)
+> and is free and open-source software (FOSS) primarily licensed under the Apache License.
+>
+> However, most devices run the proprietary Android version developed by Google,
+> which ships with additional proprietary closed-source software pre-installed,
+> most notably Google Mobile Services (GMS), which includes core apps such as
+> - Google Chrome,
+> - the digital distribution platform Google Play, and
+> - the associated Google Play Services development platform.
+> Other Google services including
+> - Firebase Cloud Messaging, used for push notifications, are recommended for applications.
+>
+> While AOSP is free, the "Android" name and logo are trademarks of Google,
+> who restrict the use of Android branding on "uncertified" products.
+> The majority of smartphones based on AOSP run Google's ecosystem—
+> which is known simply as Android—
+> some with vendor-customized user interfaces and software suites, for example One UI.
+>
+> Numerous modified distributions exist, which include competing Amazon Fire OS,
+> community-developed LineageOS.
+>
+> The source code has also been used to develop a variety of Android distributions
+> on a range of other devices, such as
+> - Android TV for televisions,
+> - Wear OS for wearables, and
+> - Android Automotive for in-car systems.
+> Commercial products like micro consoles and virtual reality headset have also used Android.
+>
+> Software packages on Android, which use the APK format,
+> are generally distributed through a proprietary application store;
+> non-Google platforms include vendor-specific
+> - Amazon Appstore,
+> - Samsung Galaxy Store,
+> - Huawei AppGallery, and third-party companies
+> - Aptoide,
+> - Cafe Bazaar,
+> - GetJar or
+> - open source F-Droid.
+>
+> Since 2011 Android has been the most used operating system worldwide on smartphones.
+> It has the largest installed base of any operating system in the world
+> with over three billion monthly active users and accounting for
+> 46% of the global operating system market.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Android%20(operating%20system))
+
+Different than other Apps, Google's Services run in privileged Mode on Android.
+They don't ask the User for Permissions for most Operations.
+[[GrapheneOS]] exchanges the Kernel to restrict this.
