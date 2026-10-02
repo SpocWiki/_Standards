@@ -417,15 +417,15 @@ dv_has_:
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Paintings|Painting]] 
 
-### #is_/same_as :: [[/_public/Society/Communication/Media/Painting.public|Painting.public]] 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Paintings.public|Paintings.public]] 
 
-### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting.internal|Painting.internal]] 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Paintings.internal|Paintings.internal]] 
 
-### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting.protect|Painting.protect]] 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Paintings.protect|Paintings.protect]] 
 
-### #is_/same_as :: [[/_private/Society/Communication/Media/Painting.private|Painting.private]] 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Paintings.private|Paintings.private]] 
 
-### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting.personal|Painting.personal]] 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Paintings.personal|Paintings.personal]] 
 
-### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting.secret|Painting.secret]] 
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Paintings.secret|Paintings.secret]] 
 
