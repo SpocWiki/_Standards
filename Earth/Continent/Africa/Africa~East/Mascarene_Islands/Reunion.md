@@ -97,3 +97,28 @@ has_place_latitude = `=this.dv_has_place_latitude`
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Reunion.secret|Reunion.secret]] 
 
+
+## Merged from `_Standards/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Reunion.md`
+
+[ISO2::RE]
+[ISO3::REU]
+```leaflet
+id: Reunion
+zoomFeatures: true
+minZoom: 2
+maxZoom: 18
+geojsonFolder: .//
+markerFolder: ./
+```
+
+[name-en::Reunion]
+[name-de::Réunion]
+[Area-Total::0]
+[Area-Land::0]
+Continent :: [[Africa]]
+[VehicleCode::]
+Capital :: [[Saint_Denis]]
+[Alcohol-l::]
+[Language-Id::]
+[geo-lon::55.45]
+[geo-lat::-20.8833]
