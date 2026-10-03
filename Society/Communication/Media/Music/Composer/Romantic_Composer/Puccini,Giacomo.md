@@ -349,6 +349,3 @@ Puccini verwendete das Orchester um die Wirkung der Stimmen zu verstärken.
 Die Librettos stammen i.d.R. aus der Trivial-Literatur.
 Viele Kritiker bewerten seine Werke als trivial;
 Puccini gibt in seinen Interviews zu, dass er dem Publikum gefallen möchte.
-
-Puccini hat [[../../../Composer/Classic_Composer/Wagner,Richard|Wagner,Richard]] für seine moderne Musik bewundert
-und sich später auch für [[../../../Composer/20th_century_Composers/Stravinsky,Igor|Stravinsky,Igor]] und [[Schönberg,Arnold]] interessiert.

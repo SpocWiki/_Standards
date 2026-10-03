@@ -421,6 +421,4 @@ Tag Instances like this:
 
 A muscle is an anatomical structure consisting of a contractile form of tissue that animals use to effect movement.
 
-#has_/parent_class :: [[../AnatomicalStructure|AnatomicalStructure]]
-
 #has_/properties :: [ additionalType, alternateName, antagonist, associatedPathophysiology, bloodSupply, bodyLocation, code, connectedTo, description, diagram, disambiguatingDescription, funding, guideline, identifier, image, insertion, legalStatus, mainEntityOfPage, medicineSystem, muscleAction, name, nerve, partOfSystem, potentialAction, recognizingAuthority, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, study, subStructure, subjectOf, url ]
