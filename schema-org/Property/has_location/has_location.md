@@ -10,6 +10,7 @@ aliases:
   - schema:location
   - wdt:P276
   - "has location "
+  - has location
 confidential: public
 cssclasses:
   - Predicate
@@ -97,6 +98,15 @@ dv_is_same_as:
   - "[[/_private/schema-org/Property/has_location/has_location.private|has_location.private]]"
   - "[[/_personal/schema-org/Property/has_location/has_location.personal|has_location.personal]]"
   - "[[/_secret/schema-org/Property/has_location/has_location.secret|has_location.secret]]"
+  - "[[has_location]]"
+  - "[[/_public/schema-org/Property/has_location.public|has_location.public]]"
+  - "[[/_internal/schema-org/Property/has_location.internal|has_location.internal]]"
+  - "[[/_protect/schema-org/Property/has_location.protect|has_location.protect]]"
+  - "[[/_private/schema-org/Property/has_location.private|has_location.private]]"
+  - "[[/_personal/schema-org/Property/has_location.personal|has_location.personal]]"
+  - "[[/_secret/schema-org/Property/has_location.secret|has_location.secret]]"
+icon: fas_location_dot
+dv_is_different_from: "#has_/place"
 ---
 
 # [[has_location]] 
@@ -151,3 +161,7 @@ has_child_property = `=this.dv_has_child_property`
 
 ### #is_/same_as :: [[/_secret/schema-org/Property/has_location/has_location.secret|has_location.secret]] 
 
+
+## Merged from `_Standards/schema-org/Property/has_location.md`
+
+# geos
