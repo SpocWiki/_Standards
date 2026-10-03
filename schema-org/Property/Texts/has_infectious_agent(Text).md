@@ -36,7 +36,7 @@ dv_has_:
 dv_has_text_of_infectious_agent: Text
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Property/Texts/has_infectious_agent|has_infectious_agent]]"
+    - "[[/_Standards/schema-org/Property/Texts/has_infectious_agent(Text)|has_infectious_agent]]"
     - "[[/_public/schema-org/Property/Texts/has_infectious_agent.public|has_infectious_agent.public]]"
     - "[[/_internal/schema-org/Property/Texts/has_infectious_agent.internal|has_infectious_agent.internal]]"
     - "[[/_protect/schema-org/Property/Texts/has_infectious_agent.protect|has_infectious_agent.protect]]"
@@ -75,7 +75,7 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_infectious_agent|has_infectious_agent]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_infectious_agent(Text)|has_infectious_agent]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_infectious_agent.public|has_infectious_agent.public]] 
 

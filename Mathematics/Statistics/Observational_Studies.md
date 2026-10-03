@@ -102,7 +102,7 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Observational_Study|Observational_Study]] 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Observational_Studies|Observational_Study]] 
 
 ### #is_/same_as :: [[/_public/Mathematics/Statistics/Observational_Study.public|Observational_Study.public]] 
 

@@ -43,7 +43,7 @@ See also <a href="http://blog.schema.org/2014/06/introducing-role.html">blog pos
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Role|Role]] 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Role(Organization)|Role]] 
 
 ### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Role.public|Role.public]] 
 

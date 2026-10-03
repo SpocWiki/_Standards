@@ -26,7 +26,7 @@ title: Choiseul
 type: geo-Region
 dv_is_:
   same_as:
-    - "[[/_Standards/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Choiseul|Choiseul]]"
+    - "[[/_Standards/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Choiseul,Solomon_Islands|Choiseul]]"
     - "[[/_public/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Choiseul.public|Choiseul.public]]"
     - "[[/_internal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Choiseul.internal|Choiseul.internal]]"
     - "[[/_protect/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Choiseul.protect|Choiseul.protect]]"
@@ -34,7 +34,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Choiseul.personal|Choiseul.personal]]"
     - "[[/_secret/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Choiseul.secret|Choiseul.secret]]"
 dv_is_same_as:
-  - "[[/_Standards/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Choiseul|Choiseul]]"
+  - "[[/_Standards/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Choiseul,Solomon_Islands|Choiseul]]"
   - "[[/_public/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Choiseul.public|Choiseul.public]]"
   - "[[/_internal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Choiseul.internal|Choiseul.internal]]"
   - "[[/_protect/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Choiseul.protect|Choiseul.protect]]"
@@ -57,7 +57,7 @@ markerFolder: ./Choiseul/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Choiseul|Choiseul]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Choiseul,Solomon_Islands|Choiseul]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Choiseul.public|Choiseul.public]] 
 

@@ -134,7 +134,7 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Observational_Study/Longitudinal_Study|Longitudinal_Study]] 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Observational_Study/Longitudinal_Studies|Longitudinal_Study]] 
 
 ### #is_/same_as :: [[/_public/Mathematics/Statistics/Observational_Study/Longitudinal_Study.public|Longitudinal_Study.public]] 
 

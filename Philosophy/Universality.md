@@ -126,7 +126,7 @@ that universalism seeks to achieve but does not inherently guarantee.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Universalism|Universalism]] 
+### #is_/same_as :: [[/_Standards/Philosophy/Universality|Universalism]] 
 
 ### #is_/same_as :: [[/_public/Philosophy/Universalism.public|Universalism.public]] 
 

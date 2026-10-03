@@ -316,7 +316,7 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Society/Economics/Economic_Activity/Work|Work]] 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economic_Activity/Work(Economic_Activity)|Work]] 
 
 ### #is_/same_as :: [[/_public/Society/Economics/Economic_Activity/Work.public|Work.public]] 
 

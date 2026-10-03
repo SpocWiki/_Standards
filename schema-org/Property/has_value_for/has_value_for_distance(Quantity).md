@@ -33,7 +33,7 @@ dv_has_:
   range: "[[../../../Dimension/Linear_Dimension/Distance|Distance]]"
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_distance|has_value_for_distance]]"
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_distance(Quantity)|has_value_for_distance]]"
     - "[[/_public/schema-org/Property/has_value_for/has_value_for_distance.public|has_value_for_distance.public]]"
     - "[[/_internal/schema-org/Property/has_value_for/has_value_for_distance.internal|has_value_for_distance.internal]]"
     - "[[/_protect/schema-org/Property/has_value_for/has_value_for_distance.protect|has_value_for_distance.protect]]"
@@ -79,7 +79,7 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_distance|has_value_for_distance]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_distance(Quantity)|has_value_for_distance]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_distance.public|has_value_for_distance.public]] 
 

@@ -41,7 +41,7 @@ A guideline contraindication that designates a process as harmful and where qual
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Guideline/Medical_Contraindication|Medical_Contraindication]] 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Guideline/Medical_Contraindication(Guideline)|Medical_Contraindication]] 
 
 ### #is_/same_as :: [[/_public/bio/Medicine/Medical_Guideline/Medical_Contraindication.public|Medical_Contraindication.public]] 
 

@@ -81,7 +81,7 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_infectious_agent|has_infectious_agent]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_infectious_agent(Relation)|has_infectious_agent]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_infectious_agent.public|has_infectious_agent.public]] 
 

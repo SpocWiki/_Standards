@@ -27,7 +27,7 @@ It was highly inspirational to
 - [[Seymour Papert]]'s Logo Language and Environment 
 - [[Bill Atkinson]] who created Macs HyperCard System 
 - [[/_Standards/Mathematics/Mathematician/Modern_Mathematician/Berners-Lee,Tim|Tim Berners-Lee]] who defined the WWW with its URLs and HTTP/HTTP Protocols. 
-- which again inspired [[/_Standards/Technology/IT/Prog~Language/Prog~Structured/Cunningham,Ward|Ward Cunningham]] to create the first and still operational [[Data/Wiki|Wiki]], 
+- which again inspired [[/_Standards/Technology/IT/Prog~Language/Prog~Structured/Cunningham,Ward|Ward Cunningham]] to create the first and still operational [[_Standards/Society/Communication/Media/Creative_Work/Web_Site/Wiki|Wiki]], 
   originally used for the Portland Pattern Repository to collect OO Patterns. 
 - which again is the Foundation of the World-wide [[/_Standards/Society/Communication/Media/Creative_Work/Web_Site/Wiki/Wikipedia|Wikipedia]] Success 
 - [[Freebase]] was a Json-based Online Database before it was acquired by Google and transformed into their Knowledge Graph 

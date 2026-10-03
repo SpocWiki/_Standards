@@ -31,7 +31,7 @@ SORT year ASC
 
 ## Confidential Links & Embeds:
 
-### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Seal|Seal]]
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Seal(Musician)|Seal]]
 
 ### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Pop-Musician/Seal.public|Seal.public]]
 

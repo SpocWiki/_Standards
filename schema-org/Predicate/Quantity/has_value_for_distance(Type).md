@@ -27,7 +27,7 @@ title: is_a_distance Class
 type: Type
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Predicate/Quantity/has_value_for_distance|has_value_for_distance]]"
+    - "[[/_Standards/schema-org/Predicate/Quantity/has_value_for_distance(Type)|has_value_for_distance]]"
     - "[[/_public/schema-org/Predicate/Quantity/has_value_for_distance.public|has_value_for_distance.public]]"
     - "[[/_internal/schema-org/Predicate/Quantity/has_value_for_distance.internal|has_value_for_distance.internal]]"
     - "[[/_protect/schema-org/Predicate/Quantity/has_value_for_distance.protect|has_value_for_distance.protect]]"
@@ -92,7 +92,7 @@ has_properties = `=this.dv_has_properties`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Predicate/Quantity/has_value_for_distance|has_value_for_distance]] 
+### #is_/same_as :: [[/_Standards/schema-org/Predicate/Quantity/has_value_for_distance(Type)|has_value_for_distance]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Predicate/Quantity/has_value_for_distance.public|has_value_for_distance.public]] 
 

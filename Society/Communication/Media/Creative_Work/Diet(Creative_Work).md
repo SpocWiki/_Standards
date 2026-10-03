@@ -39,7 +39,7 @@ A strategy of regulating the intake of food to achieve or maintain a specific he
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Diet|Diet]] 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Diet(Creative_Work)|Diet]] 
 
 ### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Diet.public|Diet.public]] 
 

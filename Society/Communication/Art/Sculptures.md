@@ -379,7 +379,7 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Society/Communication/Art/Sculpture|Sculpture]] 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Sculptures|Sculpture]] 
 
 ### #is_/same_as :: [[/_public/Society/Communication/Art/Sculpture.public|Sculpture.public]] 
 
