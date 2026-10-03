@@ -72,6 +72,123 @@ aliases:
 - 长颈鹿
 - 长颈鹿属
 - 기린
+- Atọ
+- Canhêştir
+- Dikálá
+- djirafa
+- Geri
+- Giraf
+- Girafa
+- Girafa do norte
+- Girafe
+- Giraff
+- Giraffa camelopardalis
+- Giraffa septentrionalis
+- Giraffur
+- Girafă
+- Gjirafa
+- Gíraffi
+- Hirapha
+- Hươu cao cổ
+- Indlulamithi
+- ipar jirafa
+- Jarapah
+- jerapah lor
+- jerapah utara
+- Jirafenn
+- Jirafo
+- Kaalkiräk
+- Kaelkirjak
+- Kameelperd
+- Kamelopaki
+- Kilape
+- Kirahvi
+- Kustrol (Giraffa camelopardalis)
+- Kôlo
+- Mburika ajuvuku
+- Miir
+- Mwannalagh
+- Noord kameelperd
+- Noordelijk giraffe
+- Norda ĝirafo
+- nordlig giraf
+- Ntilen
+- Nördliche Giraffe
+- põhja kaelkirjak
+- Qungasersooq
+- Raƙumin dawa
+- Serafa
+- severna žirafa
+- Sioraf
+- Sioráf
+- Sjeverna žirafa
+- Sjiraff
+- soweli pi lawa sewi
+- Tsin yilátah ayání
+- Tsêhe'êsenotováhe
+- Tuath sioraf
+- Twiza
+- yoma
+- Zoyamazatl
+- Zsiráf
+- Zürafa
+- Zırafa
+- Àgùnfọ̀n
+- Ĝirafo
+- Širáffa
+- Żirafa
+- Żyrafa
+- żyrafa sawannowa
+- Žiraf
+- Žirafa
+- žirafa núbijská
+- žirafa severní
+- Žirafa štíhla
+- Žirafe
+- ǩiraff
+- Βόρεια καμηλοπάρδαλη
+- Καμηλοπάρδαλη
+- Жираф
+- жирафа північна
+- Жырафа
+- Зарофа
+- ЙIаьхафоарт
+- Керік
+- паўночны жыраф
+- паўночны жырафа
+- северен жираф
+- северна жирафа
+- Солтүстік Керік
+- СсурухӀи
+- Сурахай
+- Ընձուղտ
+- Հյուսիսային ընձուղտ
+- ג'ירף מנומר
+- זשיראף
+- زرافة شمالية
+- زرافه شمالی
+- زىراپە
+- ڏاچي
+- उत्तरी जिराफ
+- सामवेदः/कौथुमीया/संहिता/पूर्वार्चिकः/छन्द आर्चिकः/1.1.4 चतुर्थप्रपाठकः/1.1.4.1 प्रथमा दशतिः
+- উত্তর আফ্রিকান জিরাফ
+- ઉત્તરી જિરાફ
+- ஒட்டகச் சிவிங்கி
+- ಜಿರಾಫೆ
+- ජිරාෆ්
+- ກວາງຄໍຍາວ
+- ཤ་བ་སྐེ་རིང་།
+- မြောက်ပိုင်းသစ်ကုလားအုပ်
+- မႃႉၼွၵ်ႇၶေႃးယၢဝ်း
+- သစ်ကုလားအုပ်
+- ሰሜናዊ ቀጭኔ
+- ቀጭኔ
+- ᏗᎦᎵᏍᏚᎩᏍᎩ
+- ᥛᥣᥳ ᥘᥩᥐᥱ ᥑᥨᥝᥰ ᥕᥣᥝᥰ
+- ⴰⵎⴷⵖ
+- キタキリン
+- 努比亚长颈鹿
+- 努比亞長頸鹿
 title: 🦒 Giraffa
 has_id_wikidata: Q862089
 dv_has_:
@@ -191,6 +308,150 @@ dv_has_:
     zh_cn: 长颈鹿属
     zh_tw: 長頸鹿屬
 Unicode_character: 🦒
+taxon_common_name:
+- ᏗᎦᎵᏍᏚᎩᏍᎩ
+- Tsêhe'êsenotováhe
+- زەڕافە
+- Giraf
+- Zırafa
+- Ĝirafo
+- Jirafa
+- Jirafa
+- Kirahvi
+- Giraffur
+- Girafe
+- Sioráf
+- 長頸鹿
+- Sioraf
+- Xirafa
+- જિરાફ
+- Mwannalagh
+- Raƙumin dawa
+- Chhòng-kiáng-lu̍k
+- Kamelopaki
+- Kilape
+- जिराफ़
+- Žirafa
+- Jiraf
+- Zsiráf
+- Jerapah
+- Jirafo
+- Gíraffi
+- djirafa
+- Jerapah
+- Amdeɣ
+- Керік
+- ಜಿರಾಫೆ
+- Сурахай
+- Canhêştir
+- Giraff
+- СсурухӀи
+- Dikálá
+- Žirafa
+- Žirafe
+- Жираф
+- Жирафа
+- Анааш
+- जिराफ
+- Zirafah
+- သစ်ကုလားအုပ်
+- Tn̂g-ām-lo̍k
+- Sjiraff
+- जिराफ
+- Giraffe
+- Sjiraff
+- Girafe
+- Tsin yilátah ayání
+- Girafe
+- زرافہ
+- Girafa
+- Hirapha
+- Girafă
+- Жирафа
+- Kôlo
+- ජිරාෆ්
+- Žirafa štíhla
+- severna žirafa
+- Twiza
+- Geri
+- Gjirafa
+- Жирафа
+- Jarapah
+- Giraff
+- Twiga
+- ஒட்டகச் சிவிங்கி
+- జిరాఫీ
+- Зарофа
+- ยีราฟ
+- Zürafa
+- Жираф
+- زىراپە
+- Жирафа
+- زرافہ
+- Hươu cao cổ
+- זשיראף
+- 長頸鹿
+- 长颈鹿
+- Indlulamithi
+- زرافه
+- Giraffe
+- Kaelkirjak
+- jirafa
+- žirafa
+- ജിറാഫ്
+- Giraffe
+- জিরাফ
+- ג'ירף
+- Żyrafa
+- زرافة
+- Καμηλοπάρδαλη
+- Жираф
+- キリン
+- 기린
+- Kameelperd
+- ቀጭኔ
+- زرافه
+- xirafa
+- Zürafə
+- Жырафа
+- Жырафа
+- Жираф
+- Ntilen
+- ཤ་བ་སྐེ་རིང་།
+- Jirafenn
+- Žirafa
+- Girafa
+- Hirapa
+IUCN_conservation_status: '[[/_Standards/WikiData/WD~Vulnerable,278113|WD~Vulnerable,278113]]'
+described_by_source:
+- '[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+CITES_Appendix: '[[/_Standards/WikiData/WD~Appendix_II_of_CITES,2851527|WD~Appendix_II_of_CITES,2851527]]'
+different_from: '[[/_Standards/WikiData/WD~Giraffe,4180503|WD~Giraffe,4180503]]'
+maintained_by_WikiProject: '[[/_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
+original_combination: '[[/_Standards/WikiData/WD~Cervus_camelopardalis,110259076|WD~Cervus_camelopardalis,110259076]]'
+taxon_rank:
+- '[[/_Standards/WikiData/WD~group_of_subspecies,123575881|WD~group_of_subspecies,123575881]]'
+- '[[/_Standards/WikiData/WD~species,7432|WD~species,7432]]'
+instance_of: '[[/_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+litter_size: 1
+heart_rate: 150
+height: 5.5
+longest_observed_lifespan: 39.5
+gestation_period: 457
+mass: 54.5
+OmegaWiki_Defined_Meaning: 6795
+ITIS_TSN: 625036
+taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Giraffa%20camelopardalis%20distribution.svg
+3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Giraffa%20camelopardalis%203d%20scan%20Natural%20History%20Museum%20University%20of%20Pisa%20C%20217.stl
+audio: http://commons.wikimedia.org/wiki/Special:FilePath/Giraffe%20Hum.oga
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Rothschild%27s%20giraffe%20%28Giraffa%20camelopardalis%20rothschildi%29%20-%20Murchison%20Falls%20National%20Park.jpg
+sequenced_genome_URL: https://www.dnazoo.org/assemblies/Giraffa_camelopardalis
+Commons_gallery: Giraffa camelopardalis
+Commons_category: Giraffa camelopardalis
+taxon_name: Giraffa camelopardalis
+EPPO_Code: GIRFCA
+Krugosvet_article: nauka_i_tehnika/biologiya/ZHIRAF.html
 ---
 
 # [[Giraffe]] 🦒 
