@@ -643,17 +643,17 @@ dv_has_:
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie|Movie]] 
 
-### #is_/same_as :: [[/_public/Society/Communication/Media/Movie.public|Movie.public]] 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Movie.public|Movie.public]] 
 
-### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie.internal|Movie.internal]] 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Movie.internal|Movie.internal]] 
 
-### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie.protect|Movie.protect]] 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Movie.protect|Movie.protect]] 
 
-### #is_/same_as :: [[/_private/Society/Communication/Media/Movie.private|Movie.private]] 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Movie.private|Movie.private]] 
 
-### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie.personal|Movie.personal]] 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Movie.personal|Movie.personal]] 
 
-### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie.secret|Movie.secret]] 
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Movie.secret|Movie.secret]] 
 
  
 
