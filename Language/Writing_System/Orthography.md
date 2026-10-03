@@ -266,3 +266,25 @@ dv_has_:
 
 ### #is_/same_as :: [[/_secret/Language/Writing_System/Orthography.secret|Orthography.secret]] 
 
+
+## Merged from `Data/Orthography.md`
+
+# Tabs vs Spaces
+* Spaces are a nightmare to maintain and cost more Space
+* Tabs can be individually configured for desired Width in each Editor.
+* Elastic Tabs are the ideal Solution
+
+# Underscore or Dash instead of Space
+Both Characters usually reside on the same Key,
+but Google and several other Search Engines treat '-' as a Separator.
+Underscore is not a Separator, but a Word-Character that you can build Identifiers with (stems from RegEx `\w` and Unicode)
+Dash is used in many Languages (except German) to combine multiple Words into a single Entity.
+Xml allows both in Tag Names, but most Languages parse '-' as Subtraction.
+
+Dash and Tilde are just too invasive, but an Underscore is longer than a Space in many Fonts. Alternative separating Characters are usually not mapped to Keyboards.
+
+#note/daily
+#note/weekly
+#note/monthly
+#note/quarterly
+#note/yearly

@@ -426,3 +426,22 @@ A map.
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Map.secret|Map.secret]] 
 
+
+## Merged from `Data/Map.md`
+
+```leaflet
+id: leaflet-map
+height: 500px
+lat: 50.133
+long: 8.715
+minZoom: 2
+maxZoom: 19
+defaultZoom: 17
+geojsonColor: #ff0000
+drawColor: #ff0000
+unit: meters
+markerFile: [[MarkerFile]]
+scale: 1
+marker: default, 50.133,8.715, [[Note]]
+marker: default,50.133,8.715, Text,,,
+marker: default,50.132836773997454,8.716118470661268,,,,

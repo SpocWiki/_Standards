@@ -7,6 +7,7 @@ aliases:
   - schema:language
   - dbo:language
   - is in language
+  -
 confidential: public
 cssclasses:
   - Predicate
@@ -25,6 +26,7 @@ supersedes: language
 tags:
   - class/Relation
   - schema-org/Relation
+  - "rather use"
 title: is_in_language
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
@@ -56,6 +58,15 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/is/is_in_language.private|is_in_language.private]]"
   - "[[/_personal/schema-org/Relation/is/is_in_language.personal|is_in_language.personal]]"
   - "[[/_secret/schema-org/Relation/is/is_in_language.secret|is_in_language.secret]]"
+has_creator: '[[]]'
+has_destroyer: '[[]]'
+has_location_started: 
+has_location_stopped: 
+has_time_started: 
+has_time_stopped: 
+Key: Value
+lang: en
+Predicate: '[[Object]]'
 ---
 
 # [[is_in_language]] 
@@ -98,3 +109,48 @@ has_range :: `=this.dv_has_range`
 
 ### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_in_language.secret|is_in_language.secret]] 
 
+
+## Merged from `_0-New/is_in_language.md`
+
+Tags: #IT #URL
+For Tag-Completion in YAML, enclose the Tags in Quotes with a leading Space before the #.
+
+MetaData: like Created, modified etc. can be extracted from File-Versioning in OS or GIT, not within the same File.
+
+Also use [Hugo Metadata Front Matter](https://gohugo.io/content-management/front-matter/) to control Publishing
+Use [Schema.org - Schemas](https://schema.org/docs/schemas.html) to add MetaData and Facts.
+
+# Ideas
+* describe the key Ideas in single Sentences and make Headings and a ToC from them
+
+# 'Outside' File Name Structure is best!
+Similar to the File Name being an Abstract of the Contents.
+Links are simple preserved when Folder is introduced.
+Moving / zipping Folder loses Details but that may be an advantage.
+* Move file and Folder of same Name together!
+
+## Folder Notes
+3 Methods are discussed: [obsidian-folder-note-plugin/folder-note-methods.md at main · xpgo/obsidian-folder-note-plugin (github.com)](https://github.com/xpgo/obsidian-folder-note-plugin/blob/main/doc/folder-note-methods)
+* Index File similar to index.htm or default.htm or .md (not allowed)
+* Outside File Name (not moved together)
+* Inside File Name (lost within other Files)
+
+# Examples
+*
+
+# Links
+* Internal [ [WikiLinks]] are handled only by Obsidian or other Wiki Software and abstract from the Path
+* Alternatively, any CamelCase (used in TiddlyWiki and Ward Cunninghams Wiki) /relative/Path or Text_with_Underscore may be recognized as a nerdy WikiLink that has to be humanized and converted to a relative Path.
+* Other [MarkDown](https://www.markdownguide.org/cheat-sheet/) Apps require proper [ markdown] (Links with relative or absolute Path)
+*
+
+# Media
+- Media can become large, so it exceeds free Cloud offerings
+	- either put it into a single xLarge Folder in an outer Vault and sync only the inner Vault
+	- or create a Folder as soon as you have Attachments and ignore it in .gitIgnore
+		- could also use File Attributes for that
+	- adding a .nosync Extension (anywhere) to every File works, but is not practical!
+	- Limitations of Git Working-Copy:
+		- no push commits
+		- less than 5 repositories.
+	-

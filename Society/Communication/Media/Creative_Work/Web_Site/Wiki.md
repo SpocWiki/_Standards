@@ -267,3 +267,28 @@ dv_has_:
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Web_Site/Wiki.secret|Wiki.secret]] 
 
+
+## Merged from `Data/Wiki.md`
+
+# [[Wiki]]
+> A **Wiki** ( (listen) WIK-ee) is an online hypertext publication
+> collaboratively edited and managed by its own audience, using a web browser.
+>
+> A typical wiki contains multiple pages for the subjects or scope of the project, and could be either open to the public or limited to use within an organization for maintaining its internal knowledge base.
+>
+> There are hundreds of thousands of wikis in use,
+> both public and private,
+> including wikis functioning as knowledge management resources, note-taking tools, community websites, and intranets.
+>
+> [[/_Standards/Technology/IT/Prog~Language/Prog~Structured/Cunningham,Ward|Cunningham,Ward]], the developer of the first wiki software, [[Data/WikiWikiWeb|WikiWikiWeb]],
+> originally described wiki as "the simplest online database that could possibly work".
+> "Wiki" (pronounced [wiki]) is a Hawaiian word meaning "quick".
+>
+> The online encyclopedia project Wikipedia is the most popular wiki-based website,
+> and is one of the most widely viewed sites in the world, having been ranked in the top twenty since 2007.
+>
+> Wikipedia is not a single wiki but rather a collection of hundreds of wikis,
+> with each one pertaining to a specific language.
+> The English-language Wikipedia has the largest collection of articles: as of February 2020, it has over 6 million articles.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Wiki)

@@ -161,6 +161,7 @@ aliases:
 - ꯋꯤꯀꯤꯄꯦꯗꯤꯌꯥ
 - 위키백과
 - "\U00010345\U00010339\U0001033A\U00010339\U00010340\U00010330\U00010339\U00010333\U0001033E\U00010330"
+-
 has_id_wikidata: Q52
 location:
 - '[[/_Standards/WikiData/WD~Carrollton,128261|WD~Carrollton,128261]]'
@@ -927,6 +928,30 @@ dv_has_:
     zh_sg: 维基百科
     zh_tw: 維基百科
     zu: Wikipedia
+linkTitle: 
+keywords: 
+layout: 
+draft: false
+expiryDate: 
+type: 
+has_time_destroyed: 
+has_location_created: 
+has_location_destroyed: 
+has_creator:
+- []
+has_destroyer:
+- []
+isDeleted: false
+isReadOnly: false
+confidential: private
+Key: Value
+Predicate:
+- - Object
+cssclasses: 
+publish: false
+tags:
+- "rather use"
+lang: en
 ---
 
 # [[Wikipedia]] 
@@ -970,3 +995,62 @@ dv_has_:
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Web_Site/Wiki/Wikipedia.secret|Wikipedia.secret]] 
 
+
+## Merged from `Data/Wikipedia.md`
+
+Tags: #IT #URL #Wiki
+Links: rather use typed Links using [key::link] or (key::link)
+
+Sister Projects:
+- [[Data/Wikipedia/DbPedia|DbPedia]]
+- [[Data/Wikipedia/WikiData|WikiData]]
+- [[WikiMedia]] shares Media and creative Works among all Wikipedias
+- [[Wiktionary]]
+
+> **Wikipedia** is a multilingual free online encyclopedia written and maintained by a community of volunteers, known as Wikipedians, through open collaboration and using a wiki-based editing system called MediaWiki. Wikipedia is the largest and most-read reference work in history. It is consistently one of the 10 most popular websites ranked by Similarweb and formerly Alexa; as of 2022, Wikipedia was ranked the 5th most popular site in the world. It is hosted by the Wikimedia Foundation, an American non-profit organization funded mainly through donations. Wikipedia was launched by Jimmy Wales and Larry Sanger on 2001-01-15. Sanger coined its name as a blend of wiki and encyclopedia. Wales was influenced by the "spontaneous order" ideas associated with Friedrich Hayek and the Austrian School of economics after being exposed to these ideas by the libertarian economist Mark Thornton. Initially available only in English, versions in other languages were quickly developed. Its combined editions comprise more than 60 million articles, attracting around 2 billion unique device visits per month and more than 15 million edits per month (about 5.7 edits per second on average)  as of January 2023. In 2006, Time magazine stated that the policy of allowing anyone to edit had made Wikipedia the "biggest (and perhaps best) encyclopedia in the world".Wikipedia has been praised for its enablement of the democratization of knowledge, extent of coverage, unique structure, culture, and reduced degree of commercial bias. It has been criticized for exhibiting systemic bias, particularly gender bias against women and alleged ideological bias. The reliability of Wikipedia was frequently criticized in the 2000s, but has improved over time, as Wikipedia has been generally praised in the late 2010s and early 2020s. The website's coverage of controversial topics such as American politics and major events like the COVID-19 pandemic and the Russian invasion of Ukraine has received substantial media attention. It has been censored by world governments, ranging from specific pages to the entire site. On 3 April 2018, Facebook and YouTube announced that they would help users detect fake news by suggesting fact-checking links to related Wikipedia articles. Articles on breaking news are often accessed as a source of frequently updated information about those events.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia)
+
+MetaData: like Created, modified etc. can be extracted from FileVersioning in OS or GIT, not within the same File.
+
+Also use [Hugo Metadata Front Matter](https://gohugo.io/content-management/front-matter/) to control Publishing
+Use [Schema.org - Schemas](https://schema.org/docs/schemas.html) to add MetaData and Facts.
+
+# Ideas
+* describe the key Ideas in single Sentences and make Headings and a ToC from them
+
+# 'Outside' File Name Structure is best!
+Similar to the File Name being an Abstract of the Contents.
+Links are simple preserved when Folder is introduced.
+Moving / zipping Folder loses Details but that may be an advantage.
+* Move file and Folder of same Name together!
+
+## Folder Notes
+3 Methods are discussed: [obsidian-folder-note-plugin/folder-note-methods.md at main · xpgo/obsidian-folder-note-plugin (github.com)](https://github.com/xpgo/obsidian-folder-note-plugin/blob/main/doc/folder-note-methods.md)
+* Index File similar to index.htm or default.htm or .md (not allowed)
+* Outside File Name (not moved together)
+* Inside File Name (lost within other Files)
+
+# Examples
+*
+
+# Links
+* Internal [ [WikiLinks]] are handled only by Obsidian or other Wiki Software and abstract from the Path
+* Alternatively, any CamelCase (used in TiddlyWiki and Ward Cunninghams Wiki) /relative/Path or Text_with_Underscore may be recognized as a nerdy WikiLink that has to be humanized and converted to a relative Path.
+* Other [MarkDown](https://www.markdownguide.org/cheat-sheet/) Apps require proper [ markdown] (Links with relative or absolute Path)
+*
+
+# Media
+- Media can become large, so it exceeds free Cloud offerings
+	- either put it into a single xLarge Folder in an outer Vault and sync only the inner Vault
+	- or create a Folder as soon as you have Attachments and ignore it in .gitIgnore
+		- could also use File Attributes for that
+	- adding a .nosync Extension (anywhere) to every File works, but is not practical!
+	- Limitations of Git Working Copy:
+		- no push commits
+		- less than 5 repositories.
+	-  adding a .nosync Extension (anywhere) to every File works, but is not practical!
+	- Limitations of Git Working Copy:
+		- no push commits
+		- less than 5 repositories.
+	-

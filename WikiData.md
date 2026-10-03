@@ -92,6 +92,7 @@ aliases:
 - ꠃꠁꠇꠤꠒꠣꠐꠣ
 - 위키데이터
 - 위키자료
+- Wikidata
 has_id_wikidata: Q2013
 instance_of:
 - '[[/_Standards/WikiData/WD~knowledge_base,593744|WD~knowledge_base,593744]]'
@@ -851,6 +852,30 @@ dv_has_:
     vep: Vikidat
     vo: Vükinunäds
     wuu: 维基数据
+confidential: private
+cssclasses: 
+draft: false
+expiryDate: 
+has_creator: '[[]]'
+has_destroyer: '[[]]'
+has_location_created: 
+has_location_destroyed: 
+has_time_created: 
+has_time_destroyed: 
+isDeleted: false
+isReadOnly: false
+Key: Value
+keywords: 
+lang: en
+layout: 
+linkTitle: 
+Predicate: '[[Object]]'
+publish: false
+publishDate: 
+tags:
+- rather use
+title: Untitled
+type: 
 ---
 # [[WikiData]]
 
@@ -1110,3 +1135,252 @@ There are ca. 13e3 Properties defined; these are the 100 [most frequent Properti
 
 ### #is_/same_as :: [[/_secret/WikiData.secret|WikiData.secret]] 
 
+
+## Merged from `Data/Wikipedia/WikiData.md`
+
+#has_/url :: https://www.wikidata.org
+#is_/different_from :: [[DbPedia]]
+#is_/similar_to :: [[DbPedia]]
+#has_/time_/started:: 2012-06-01
+#has_/creator :: [[Wikimedia-Foundation]]
+#has_/license_/CC0
+
+Tags: #IT #URL #RDF  #has_/license_/
+Links: rather use typed Links using [key::link] or (key::link)
+
+The Wikidata Entity IDs start with 'Q' and are contained
+- in the Source Code of each Page using the key `wgWikibaseItemId`
+- a Link can be found in the `Tools/Wikidata_Item` Dropdown at the right
+  below the Heading and the Languages Dropdown.
+
+This combination of Roles makes WikiData [problematic](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2015-12-02/Op-ed):
+- Role as a Data Source: can close the cycle into a bubble
+- no place for pluralism: no Discussion Page
+- no attribution: hindering Verification
+
+[Number of Wikidata-Entities](https://stats.wikimedia.org/#/wikidata.org/content/pages-to-date/normal|line|2004-07-01~2024-05-01|~total|monthly)  is steadily growing.
+
+## #has_/text_of_/abstract
+
+> **WikiData** is a collaboratively edited multilingual knowledge graph hosted by the Wikimedia Foundation. It is a common source of open data that Wikimedia projects such as Wikipedia, and anyone else, can use under the CC0 public domain license. Wikidata is a wiki powered by the software MediaWiki, and is also powered by the set of knowledge graph MediaWiki extensions known as Wikibase.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Wikidata)
+
+Wikidata is the designated successor to Google's [Freebase](https://en.wikipedia.org/wiki/Freebase_(database) "Freebase (database)"),
+designed to deliver data for the Google [Knowledge Graph](https://en.wikipedia.org/wiki/Knowledge_Graph "Knowledge Graph").
+Due to its license it is [controversial](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2015-12-02/Op-ed)
+
+To access the Data use e.g. [CXuesong/WikiClientLibrary: /*🌻*/ Wiki Client Library is a portable & asynchronous MediaWiki API client library on .NET Standard. (github.com)](https://github.com/CXuesong/WikiClientLibrary)
+
+Tags are useful binary Predicates to assign Classes:
+So #person  is the same as type::person or type:person in the FrontMatter.
+
+## Wikidata IDs
+
+The Wikidata entity id can be found
+- in the Links-Section of (e.g. german) Wikipedia Pages.
+- in the Tools Section
+Search for 'Wikidata'.
+
+Q... are Instances starting with
+[Q1: Universum](https://www.wikidata.org/wiki/Q1)
+[Q2: Erde](https://www.wikidata.org/wiki/Q2)
+[Q3: Leben](https://www.wikidata.org/wiki/Q3)
+[Q4: Tod](https://www.wikidata.org/wiki/Q4)
+[Q5: Mensch](https://www.wikidata.org/wiki/Q5)
+[Q8: Glück](https://www.wikidata.org/wiki/Q8)
+[Elbe – Wikidata](https://www.wikidata.org/wiki/Q1644)
+[Finnland – Wikidata](https://www.wikidata.org/wiki/Q33)
+[Berlin – Wikidata](https://www.wikidata.org/wiki/Q64)
+[Deutschland – Wikidata](https://www.wikidata.org/wiki/Q183)
+
+# Schema-Instanzen
+[Stadt – Wikidata](https://www.wikidata.org/wiki/Q515)
+[Land – Wikidata](https://www.wikidata.org/wiki/Q6256)
+[Staat – Wikidata](https://www.wikidata.org/wiki/Q7275)
+[Fluss – Wikidata](https://www.wikidata.org/wiki/Q4022)
+
+# Entity-Schemas
+E1-E999 are Entity Schemas PREFIX wd=http://www.wikidata.org/entity/
+[Alle Seiten (Namensraum: EntitySchema) – Wikidata](https://www.wikidata.org/wiki/Special:AllPages?from=&to=&namespace=640)
+[Mensch (E10) – Wikidata](https://www.wikidata.org/wiki/EntitySchema:E10)
+[Filmfestival (E11) – Wikidata](https://www.wikidata.org/wiki/EntitySchema:E11)
+[Film Festival Instanzen (E12) – Wikidata](https://www.wikidata.org/wiki/EntitySchema:E12)
+[Natürliche Zahlen (E13) – Wikidata](https://www.wikidata.org/wiki/EntitySchema:E13)
+[Mensch (E14) – Wikidata](https://www.wikidata.org/wiki/EntitySchema:E14)
+[Dänische Lexeme (E15) – Wikidata](https://www.wikidata.org/wiki/EntitySchema:E15)
+[Software (E16) – Wikidata](https://www.wikidata.org/wiki/EntitySchema:E16)
+[Fernsehserien (E17) – Wikidata](https://www.wikidata.org/wiki/EntitySchema:E17)
+[Staffeln von Fernsehserien (E18) – Wikidata](https://www.wikidata.org/wiki/EntitySchema:E18)
+[Episoden von Fernsehserien (E19) – Wikidata](https://www.wikidata.org/wiki/EntitySchema:E19)
+[Filmproduzenten (E23) – Wikidata](https://www.wikidata.org/wiki/EntitySchema:E23)
+[Filmregisseure (E24) – Wikidata](https://www.wikidata.org/wiki/EntitySchema:E24)
+[Schauspieler (E25) – Wikidata](https://www.wikidata.org/wiki/EntitySchema:E25)
+
+# MetaData-Schemas
+[Filmfestival (E11) – Wikidata](https://www.wikidata.org/wiki/EntitySchema:E11)
+[ShExR (E1) – Wikidata](https://www.wikidata.org/wiki/EntitySchema:E1)
+[Wikimedia (E2) – Wikidata](https://www.wikidata.org/wiki/EntitySchema:E2)
+[Wikidata Objekt (E3) – Wikidata](https://www.wikidata.org/wiki/EntitySchema:E3)
+[Aussage (E5) – Wikidata](https://www.wikidata.org/wiki/EntitySchema:E5)
+[Übersetzungen (E6) – Wikidata](https://www.wikidata.org/wiki/EntitySchema:E6)
+[Zitate (E7) – Wikidata](https://www.wikidata.org/wiki/EntitySchema:E7)
+[Externes RDF (E8) – Wikidata](https://www.wikidata.org/wiki/EntitySchema:E8)
+
+P1... are Properties PREFIX wdt=http://www.wikidata.org/prop/direct/
+https://www.wikidata.org/wiki/Property:P31
+[P31:instance of](https://www.wikidata.org/wiki/Property:P31) == rdf:type
+[P21:Gender](https://www.wikidata.org/wiki/Property:P21)
+[P17:Country](https://www.wikidata.org/wiki/Property:P17)
+[P18:Image](https://www.wikidata.org/wiki/Property:P18)
+[P10:Video](https://www.wikidata.org/wiki/Property:P10)
+[P30:Continent](https://www.wikidata.org/wiki/Property:P30)
+[P279:subclass of](https://www.wikidata.org/wiki/Property:P279)
+L1... are Lexemes
+S1... are Senses
+
+the RDF URLs start with wd suffix mapped to Namespace
+
+[value :: 3.14]
+
+| month      |     total |
+| ---------- | --------: |
+| 2012-09-01 |       705 |
+| 2012-10-01 |      5647 |
+| 2012-11-01 |    218869 |
+| 2012-12-01 |   2013658 |
+| 2013-01-01 |   3576269 |
+| 2013-02-01 |   5010848 |
+| 2013-03-01 |   8001212 |
+| 2013-04-01 |  10294085 |
+| 2013-05-01 |  11116018 |
+| 2013-06-01 |  11264238 |
+| 2013-07-01 |  12040711 |
+| 2013-08-01 |  12380790 |
+| 2013-09-01 |  12618882 |
+| 2013-10-01 |  12700962 |
+| 2013-11-01 |  12814292 |
+| 2013-12-01 |  13011090 |
+| 2014-01-01 |  13189817 |
+| 2014-02-01 |  13312987 |
+| 2014-03-01 |  13427268 |
+| 2014-04-01 |  13976323 |
+| 2014-05-01 |  14218904 |
+| 2014-06-01 |  14424583 |
+| 2014-07-01 |  14553513 |
+| 2014-08-01 |  14790592 |
+| 2014-09-01 |  15089128 |
+| 2014-10-01 |  15267762 |
+| 2014-11-01 |  15423896 |
+| 2014-12-01 |  15515453 |
+| 2015-01-01 |  15703702 |
+| 2015-02-01 |  16120057 |
+| 2015-03-01 |  16419619 |
+| 2015-04-01 |  16512565 |
+| 2015-05-01 |  16660403 |
+| 2015-06-01 |  17187763 |
+| 2015-07-01 |  17278232 |
+| 2015-08-01 |  17390178 |
+| 2015-09-01 |  17501570 |
+| 2015-10-01 |  17724131 |
+| 2015-11-01 |  17997036 |
+| 2015-12-01 |  18262765 |
+| 2016-01-01 |  18649863 |
+| 2016-02-01 |  19203012 |
+| 2016-03-01 |  19877124 |
+| 2016-04-01 |  20122864 |
+| 2016-05-01 |  20387994 |
+| 2016-06-01 |  21205992 |
+| 2016-07-01 |  21996784 |
+| 2016-08-01 |  22475840 |
+| 2016-09-01 |  22720965 |
+| 2016-10-01 |  23145778 |
+| 2016-11-01 |  23388237 |
+| 2016-12-01 |  23532089 |
+| 2017-01-01 |  23962726 |
+| 2017-02-01 |  24158513 |
+| 2017-03-01 |  24340644 |
+| 2017-04-01 |  24872740 |
+| 2017-05-01 |  25277116 |
+| 2017-06-01 |  26294673 |
+| 2017-07-01 |  28744222 |
+| 2017-08-01 |  32592498 |
+| 2017-09-01 |  35733279 |
+| 2017-10-01 |  36673835 |
+| 2017-11-01 |  38339899 |
+| 2017-12-01 |  41001328 |
+| 2018-01-01 |  41436515 |
+| 2018-02-01 |  44035984 |
+| 2018-03-01 |  44855028 |
+| 2018-04-01 |  45994663 |
+| 2018-05-01 |  47452365 |
+| 2018-06-01 |  48019638 |
+| 2018-07-01 |  48462715 |
+| 2018-08-01 |  48957427 |
+| 2018-09-01 |  49333002 |
+| 2018-10-01 |  50458924 |
+| 2018-11-01 |  51711034 |
+| 2018-12-01 |  52643262 |
+| 2019-01-01 |  53503027 |
+| 2019-02-01 |  54021103 |
+| 2019-03-01 |  54621311 |
+| 2019-04-01 |  55264726 |
+| 2019-05-01 |  56032624 |
+| 2019-06-01 |  56657690 |
+| 2019-07-01 |  57620042 |
+| 2019-08-01 |  58456859 |
+| 2019-09-01 |  60910728 |
+| 2019-10-01 |  64580138 |
+| 2019-11-01 |  68157969 |
+| 2019-12-01 |  71632494 |
+| 2020-01-01 |  75145146 |
+| 2020-02-01 |  77619965 |
+| 2020-03-01 |  79972226 |
+| 2020-04-01 |  83375773 |
+| 2020-05-01 |  86255264 |
+| 2020-06-01 |  86742710 |
+| 2020-07-01 |  87608778 |
+| 2020-08-01 |  88332477 |
+| 2020-09-01 |  88954778 |
+| 2020-10-01 |  89780201 |
+| 2020-11-01 |  90458411 |
+| 2020-12-01 |  91230677 |
+| 2021-01-01 |  91717667 |
+| 2021-02-01 |  92208872 |
+| 2021-03-01 |  92706533 |
+| 2021-04-01 |  93031061 |
+| 2021-05-01 |  93347405 |
+| 2021-06-01 |  93680775 |
+| 2021-07-01 |  94017528 |
+| 2021-08-01 |  94575709 |
+| 2021-09-01 |  94883992 |
+| 2021-10-01 |  95371749 |
+| 2021-11-01 |  95782235 |
+| 2021-12-01 |  96218180 |
+| 2022-01-01 |  96593445 |
+| 2022-02-01 |  96817943 |
+| 2022-03-01 |  97171607 |
+| 2022-04-01 |  97463047 |
+| 2022-05-01 |  97823723 |
+| 2022-06-01 |  98375510 |
+| 2022-07-01 |  98830357 |
+| 2022-08-01 |  99081129 |
+| 2022-09-01 |  99669896 |
+| 2022-10-01 | 100241798 |
+| 2022-11-01 | 100699529 |
+| 2022-12-01 | 101208070 |
+| 2023-01-01 | 101871324 |
+| 2023-02-01 | 102256481 |
+| 2023-03-01 | 102670848 |
+| 2023-04-01 | 103144993 |
+| 2023-05-01 | 103922165 |
+| 2023-06-01 | 105059920 |
+| 2023-07-01 | 105961507 |
+| 2023-08-01 | 106927905 |
+| 2023-09-01 | 107568748 |
+| 2023-10-01 | 107921553 |
+| 2023-11-01 | 108193338 |
+| 2023-12-01 | 108629206 |
+| 2024-01-01 | 108952933 |
+| 2024-02-01 | 109240409 |
+| 2024-03-01 | 109756723 |
