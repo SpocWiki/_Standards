@@ -809,6 +809,9 @@ dv_is_same_as:
 - '[[/_secret/Earth/Continent/America~South/Southern_Cone/Paraguay.secret|Paraguay.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Paraguay
 Unicode_character: 🇵🇾
+dv_Continent: "[[South-America]]"
+dv_Capital: "[[Paraguay/Counties/Presidente_Hayes/City/Asuncion]]"
+dv_is_a_: "[[../../../../Geography/Place]]"
 ---
 
 # [[Paraguay]] 🇵🇾 
@@ -973,3 +976,19 @@ has_place_latitude = `=this.dv_has_place_latitude`
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Paraguay.secret|Paraguay.secret]] 
 
+
+## Merged from `_Standards/Earth/Continent/America~South/Southern_Cone/Paraguay/Paraguay.md`
+
+![[Anthem-Mexico.mp3]]
+
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+Continent = `=this.dv_Continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
+#is_a_/Place
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`

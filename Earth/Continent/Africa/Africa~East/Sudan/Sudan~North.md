@@ -421,6 +421,7 @@ aliases:
 - ꠍꠥꠖꠣꠘ
 - ꯁꯨꯗꯥꯟ
 - 수단
+- Sudan~Northern
 has_id_wikidata: Q1049
 age_of_majority: 18
 anthem: '[[/_Standards/WikiData/WD~Nahnu_Jund_Allah_Jund_Al_watan,548242|WD~Nahnu_Jund_Allah_Jund_Al_watan,548242]]'
@@ -700,6 +701,8 @@ located_in_time_zone: '[[/_Standards/WikiData/WD~UTC+02_00,6723|WD~UTC+02_00,672
 location:
 - 15.6
 - 32.53
+- 19.5
+- 29.9
 location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Base%20Map%20of%20Sudan.png
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sudan%20%28orthographic%20projection%29.svg
 lowest_point: '[[/_Standards/WikiData/WD~Red_Sea,23406|WD~Red_Sea,23406]]'
@@ -788,6 +791,7 @@ studied_by: '[[/_Standards/WikiData/WD~Sudan_studies,115669513|WD~Sudan_studies,
 subreddit: Sudan
 tags:
 - geo/Country
+- geo/Country/Region
 topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Sudan,11295508|WD~Portal_Sudan,11295508]]'
 top_level_Internet_domain: '[[/_Standards/WikiData/WD~.sd,43762|WD~.sd,43762]]'
 total_fertility_rate: 4.353
@@ -806,6 +810,20 @@ Wikimedia_outline: '[[/_Standards/WikiData/WD~outline_of_Sudan,7112466|WD~outlin
 WIPO_ST_3: SD
 Unicode_character: 🇸🇩
 title: 🇸🇩 Sudan~North
+license: CC BY-SA 4.0
+source: https://datahub.io/core/country-codes
+isReadOnly: false
+draft: false
+Languages:
+  - de
+cssclasses:
+  - geo-Region
+publish: true
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # [[Sudan~North]] 🇸🇩 
@@ -896,3 +914,16 @@ has_place_latitude = `=this.dv_has_place_latitude`
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North.secret|Sudan~North.secret]] 
 
+
+## Merged from `_Standards/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North/States~Sudan~North/Sudan~North.md`
+
+# Sudan~Northern
+
+```leaflet
+id: Sudan~Northern
+zoomFeatures: true
+minZoom: 2
+maxZoom: 18
+geojsonFolder: ./Sudan~Northern/
+markerFolder: ./Sudan~Northern/
+```
