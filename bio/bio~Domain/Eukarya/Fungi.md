@@ -151,6 +151,7 @@ aliases:
 - 真菌界
 - 菌界
 - 균계
+- fungi
 has_id_wikidata: Q764
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Splashscreen%20Blender%203.5%20%E2%80%93%20Cozy%20Kitchen%20Pilz.stl
 AlgaeBase_URL: https://www.algaebase.org/browse/taxonomy/detail/?taxonid=92070
@@ -882,3 +883,25 @@ Auwera et al., 1995).
 
 ### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Fungi.secret|Fungi.secret]] 
 
+
+## Merged from `_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Pterygota/Neoptera/Endopterygota/Beetle/Polyphaga/Staphylinoidea/Ptiliidae/Ptiliinae/Nanosellini/Nanosella/fungi.md`
+
+-   ◊ Sibling Groups of  Nanosella
+    -   Nanosella fungi
+
+# *Nanosella fungi*
+
+[W. Eugene Hall]()
+
+Nanosella fungi represents one of the smallest known beetles, with a
+recorded length under 0.30 mm.
+
+LeConte in 1863 described Ptilium fungi from specimens sent to him by
+Victor Motschulsky, presumed from Mobile, Alabama. In 1868, Motschulsky,
+without citing LeConte\'s previous description, described Nanosella
+fungi from Georgia. It is believed that P. fungi is a synonym of
+Nanosella fungi.
+
+As with other members of Nanosellinae, N. fungi inhabits spore tunes of
+polypore fungi. The species is known to occur in eastern and southern
+United States.
