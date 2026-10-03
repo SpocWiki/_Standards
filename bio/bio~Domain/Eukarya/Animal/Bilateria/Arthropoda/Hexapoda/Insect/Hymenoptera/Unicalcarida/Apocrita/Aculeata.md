@@ -122,6 +122,7 @@ aliases:
 - 有剣類
 - 針尾下目
 - 针尾下目
+title: Aculeata
 ---
 
 # [[Aculeata]] 
@@ -161,3 +162,13 @@ aliases:
 
 ### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Hymenoptera/Unicalcarida/Apocrita/Aculeata.secret|Aculeata.secret]] 
 
+
+## Merged from `_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Pterygota/Neoptera/Endopterygota/Hymenoptera/Wasp/Aculeata.md`
+
+### Information on the Internet
+
+-   [International Union for the Study of Social     Insects](http://www.iussi.org/)
+
+## Phylogeny
+
+## Title Illustrations
