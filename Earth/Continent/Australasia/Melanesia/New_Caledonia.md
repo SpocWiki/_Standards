@@ -106,6 +106,13 @@ dv_is_same_as:
   - "[[/_private/Earth/Continent/Australasia/Melanesia/New_Caledonia.private|New_Caledonia.private]]"
   - "[[/_personal/Earth/Continent/Australasia/Melanesia/New_Caledonia.personal|New_Caledonia.personal]]"
   - "[[/_secret/Earth/Continent/Australasia/Melanesia/New_Caledonia.secret|New_Caledonia.secret]]"
+  - "[[/_Standards/Earth/Continent/Australasia/New_Caledonia|New_Caledonia]]"
+  - "[[/_public/Earth/Continent/Australasia/New_Caledonia.public|New_Caledonia.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/New_Caledonia.internal|New_Caledonia.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/New_Caledonia.protect|New_Caledonia.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/New_Caledonia.private|New_Caledonia.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/New_Caledonia.personal|New_Caledonia.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/New_Caledonia.secret|New_Caledonia.secret]]"
 ---
 
 # [[New_Caledonia]] 
@@ -230,3 +237,23 @@ has_place_latitude = `=this.dv_has_place_latitude`
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Melanesia/New_Caledonia.secret|New_Caledonia.secret]] 
 
+
+## Merged from `_Standards/Earth/Continent/Australasia/New_Caledonia.md`
+
+## Edit
+
+## All Contents
+
+```folderv
+```
+
+```folderv
+```
+
+```ccard
+type: folder_brief_live
+style : card
+col: 2
+briefMax: 128
+noteOnly: true
+```

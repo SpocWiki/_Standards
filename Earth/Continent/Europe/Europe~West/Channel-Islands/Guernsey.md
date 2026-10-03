@@ -9,6 +9,7 @@ aliases:
 confidential: public
 cssclasses:
   - Country
+  - geo-Region
 draft: false
 expiryDate: ""
 isDeleted: false
@@ -17,18 +18,22 @@ keywords: ""
 Languages:
   - en
   - nrf
+  - de
 layout: ""
 license: CC BY-SA 4.0
 linkTitle: ""
 location:
   - 49.45
   - -2.55
+  - 49.47
+  - -2.57
 publish: true
 publishDate: ""
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 57601
 tags:
   - geo/Country
+  - geo/Country/Region
 title: Guernsey
 type: Country
 dv_ISO4217-currency_alphabetic: GBP
@@ -195,3 +200,7 @@ has_place_latitude = `=this.dv_has_place_latitude`
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Channel-Islands/Guernsey.secret|Guernsey.secret]] 
 
+
+## Merged from `_Standards/Earth/Continent/Europe/Europe~North/UK/Guernsey.md`
+
+# Guernsey
