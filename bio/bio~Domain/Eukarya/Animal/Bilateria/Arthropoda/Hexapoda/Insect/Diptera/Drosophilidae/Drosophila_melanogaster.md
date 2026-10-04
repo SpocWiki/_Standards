@@ -211,7 +211,7 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Drosophilidae/Drosophila_melanogaster|Drosophila_melanogaster]] 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Pterygota/Neoptera/Endopterygota/Fly/Brachycera/Drosophilidae/Drosophila_melanogaster|Drosophila_melanogaster]] 
 
 ### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Drosophilidae/Drosophila_melanogaster.public|Drosophila_melanogaster.public]] 
 
