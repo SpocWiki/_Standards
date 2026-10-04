@@ -1,0 +1,74 @@
+FullName	FullLen	ProposedAbbrev	AbbrevLen	CharsSaved	Style	Note
+Acanthomorpha	13	Acant	5	8	prefix
+Acanthopterygii	15	Acanth	6	9	prefix	extended 1 char vs Acant to stay distinct from Acanthomorpha
+Actinopterygii	14	Actin	5	9	prefix
+Antennariidae	13	Anten	5	8	prefix
+Antennarius	11	Antenn	6	5	prefix	extended 1 char to stay distinct from Antennariidae
+Archosauria	11	Archo	5	6	prefix
+Archosauromorpha	16	Archos	6	10	prefix	extended 1 char to stay distinct from Archosauria
+Balaenopteridae	15	Balae	5	10	prefix
+Bilateria	9	Bilat	5	4	prefix
+Brachionichthyidae	18	Brach	5	13	prefix
+Callosciurini	13	Callo	5	8	prefix
+Carangaria	10	Caran	5	5	prefix
+Caulophrynidae	14	Caulo	5	9	prefix
+Centrophrynidae	15	Centr	5	10	prefix
+Ceratiidae	10	Cerat	5	5	prefix
+Ceratioidei	11	Cerati	6	5	prefix	extended 1 char to stay distinct from Ceratiidae
+Chordata	8	Chord	5	3	prefix
+Coelurosauria	13	Coelu	5	8	prefix
+Craniata	8	Crani	5	3	prefix
+Diapsida	8	Diaps	5	3	prefix
+Diceratiidae	12	Dicer	5	7	prefix
+Dinosaur	8	Dinos	5	3	prefix
+Eutheria	8	Euthe	5	3	prefix
+Gigantactinidae	15	Gigan	5	10	prefix
+Ground_Squirrel	15	Groun	5	10	prefix	infix alternative: GndSquir (9, saves 6) - reads as both words
+Halecostomi	11	Halec	5	6	prefix
+Himantolophidae	15	Himan	5	10	prefix
+Humpback_Whale	14	Humpb	5	9	prefix	infix alternative: HmpWhale (8, saves 6) - keeps "Whale" readable
+Linophrynidae	13	Linop	5	8	prefix
+Lophichthyidae	14	Lophi	5	9	prefix
+Lophiiformes	12	Lophii	6	6	prefix	extended 1 char to stay distinct from Lophichthyidae
+Melanocetidae	13	Melan	5	8	prefix
+Mysticeti	9	Mysti	5	4	prefix
+Neoceratiidae	13	Neoce	5	8	prefix
+Oneirodidae	11	Oneir	5	6	prefix
+Percomorpha	11	Perco	5	6	prefix
+Percomorphaceae	15	Percom	6	9	prefix	extended 1 char to stay distinct from Percomorpha; note: this pair is a deliberate Wikidata synonym, not a collision needing resolution
+Pleuronectiformes	17	Pleur	5	12	prefix
+Rodentia	8	Roden	5	3	prefix
+Sauropsida	10	Sauro	5	5	prefix
+Sciuromorpha	12	Sciur	5	7	prefix
+Scophthalmidae	14	Scoph	5	9	prefix
+Synapsida	9	Synap	5	4	prefix
+Teleostei	9	Teleo	5	4	prefix
+Tetrabrachiidae	15	Tetra	5	10	prefix
+Tetrapods	9	Tetrap	6	3	prefix	extended 1 char to stay distinct from Tetrabrachiidae
+Thaumatichthyidae	17	Thaum	5	12	prefix
+Therapsida	10	Thera	5	5	prefix
+Theropoda	9	Thero	5	4	prefix
+Vertebrata	10	Verte	5	5	prefix
+Squirrel	8	Squir	5	3	prefix
+Arthropoda	10	Arthr	5	5	prefix
+Chelicerata	11	Cheli	5	6	prefix
+Arachnida	9	Arach	5	4	prefix
+Araneomorphae	13	Arane	5	8	prefix
+Entelegynae	11	Entel	5	6	prefix
+Orbiculariae	12	Orbic	5	7	prefix
+Theridiidae	11	Theri	5	6	prefix
+Latrodectus	11	Latro	5	6	prefix
+geometricus	11	geome	5	6	prefix	species-epithet folder, not a formal rank
+Eudicots	8	Eudic	5	3	prefix
+Core_Eudicots	13	CoreE	5	8	prefix
+Fabaceae	8	Fabac	5	3	prefix
+Papilionoideae	14	Papil	5	9	prefix
+Hologalegina	12	Holog	5	7	prefix
+Inverted_Repeat-lacking	23	Inver	5	18	prefix	biggest single saving in the whole proposal
+Amphibia	8	Amphi	5	3	prefix
+Salientia	9	Salie	5	4	prefix
+Neobatrachia	12	Neoba	5	7	prefix
+Leptodactylidae	15	Lepto	5	10	prefix
+Leptodactylinae	15	Leptod	6	9	prefix	extended 1 char to stay distinct from Leptodactylidae
+Physalaemus	11	Physa	5	6	prefix
+fuscomaculatus	14	fusco	5	9	prefix	species-epithet folder, not a formal rank
