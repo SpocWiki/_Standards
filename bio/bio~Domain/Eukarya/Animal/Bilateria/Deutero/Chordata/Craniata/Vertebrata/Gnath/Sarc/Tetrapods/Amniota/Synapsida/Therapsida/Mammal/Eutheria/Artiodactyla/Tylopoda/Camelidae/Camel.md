@@ -455,9 +455,9 @@ dv_has_:
     -   Camelinae
 
 -   » Sub-Groups
-    -   [Lama pacos](Camel/Lamini/Alpaca.md)
+    -   [Lama pacos](Lamini/Alpaca.md)
     -   [Camelus bactrianus](Camelus_bactrianus)
-    -   [Lama guanicoe](Camel/Lamini/Guanaco.md)
+    -   [Lama guanicoe](Lamini/Guanaco.md)
     -   [Vicugna vicugna](Vicugna_vicugna)
 
 	    -   *Megatylopus* †
@@ -465,10 +465,10 @@ dv_has_:
 	    -   *Megacamelus* †
 	    -   *Gigantocamelus* †
 	-   *Lamini*
-	    -   *[Lama guanicoe](Camel/Lamini/Guanaco.md)*
+	    -   *[Lama guanicoe](Lamini/Guanaco.md)*
 	        [(guanaco)]
 	    -   *Lama glama* [(llama)]
-	    -   *[Lama pacos](Camel/Lamini/Alpaca.md)*
+	    -   *[Lama pacos](Lamini/Alpaca.md)*
 	        [(alpaca)]
 	    -   *[Vicugna         vicugna](Vicugna_vicugna)*
 	        [(vicugna)]
