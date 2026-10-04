@@ -24,6 +24,9 @@ aliases:
 - 유럽가재과
 title: Astacidae
 has_id_wikidata: Q943248
+parent_taxon: '[[/_Standards/WikiData/WD~Astacoidea,7130063|WD~Astacoidea,7130063]]'
+taxon_rank: '[[/_Standards/WikiData/WD~family,35409|WD~family,35409]]'
+taxon_name: Astacidae
 dv_has_:
   name_:
     af: Astacidae
@@ -163,7 +166,7 @@ Photograph copyright © 1995 David Holdich
 -   ◊ Sibling Groups of  Astacidea
     -   [Parastacidae](Parastacidae)
     -   Astacidae
-    -  [Cambaridae](Astacidae/Cambaridae.md) 
+    -  [Cambaridae](Cambaridae.md) 
 
 -   » Sub-Groups
     -  [Pacifastacus](Astacidae/Pacifastacus.md) 

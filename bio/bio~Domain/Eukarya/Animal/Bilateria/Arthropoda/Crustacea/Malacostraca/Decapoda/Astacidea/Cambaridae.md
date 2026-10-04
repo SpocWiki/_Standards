@@ -9,6 +9,9 @@ aliases:
 - 미국가재과
 title: Cambaridae
 has_id_wikidata: Q138415
+parent_taxon: '[[/_Standards/WikiData/WD~Astacoidea,7130063|WD~Astacoidea,7130063]]'
+taxon_rank: '[[/_Standards/WikiData/WD~family,35409|WD~family,35409]]'
+taxon_name: Cambaridae
 dv_has_:
   name_:
     an: Cambaridae
@@ -129,17 +132,17 @@ copyright ::   © [Keith A. Crandall](http://inbio.byu.edu/Faculty/kac/crandall%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Astacidae/Cambaridae|Cambaridae]] 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Cambaridae|Cambaridae]] 
 
-### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Astacidae/Cambaridae.public|Cambaridae.public]] 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Cambaridae.public|Cambaridae.public]] 
 
-### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Astacidae/Cambaridae.internal|Cambaridae.internal]] 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Cambaridae.internal|Cambaridae.internal]] 
 
-### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Astacidae/Cambaridae.protect|Cambaridae.protect]] 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Cambaridae.protect|Cambaridae.protect]] 
 
-### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Astacidae/Cambaridae.private|Cambaridae.private]] 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Cambaridae.private|Cambaridae.private]] 
 
-### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Astacidae/Cambaridae.personal|Cambaridae.personal]] 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Cambaridae.personal|Cambaridae.personal]] 
 
-### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Astacidae/Cambaridae.secret|Cambaridae.secret]] 
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Malacostraca/Decapoda/Astacidea/Cambaridae.secret|Cambaridae.secret]] 
 
