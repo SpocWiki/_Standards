@@ -89,6 +89,38 @@ More confidential Layers (`_internal`, `_protect`, `_private`, `_personal`, `_se
   When used for Disambiguation, the Order is often the Reverse of the Tilde Notation: 
   `Super~Sub-Topic` is equivalent to `Sub-Topic(Super)`, e.g. `Math~Function` ≡ `Function(Math)`. 
 
+## Unique File Names
+
+Every `*.md` File Name is unique across the Vaults and all their Clones, compared case-insensitively as Windows does. 
+Obsidian resolves a bare Link like `[[Name]]` by File Name, so two Notes with the same Name make it ambiguous. 
+A Sidecar (`Note.<level>.md`) differs from its Note by construction. 
+A Clash is resolved by choosing a better Name, never by hiding it: 
+
+| Clash | Resolution | Example |
+|---|---|---|
+| City and its District | the City Note gets `,City`, the District keeps the plain Name | `Bedford,City` and `Bedford` |
+| Same Name in different Countries | Country Suffix on every Member | `Tabor,Slovenia`, `Tabor,Czech_Republic` |
+| Same Name within one Country | District Suffix | `Lichtenau,Rastatt` |
+| Other Homonyms, Class versus Concept | `(Domain)` on the lesser known Sense or on the Class Note | `Seal(Musician)`, `Diet(Creative_Work)` |
+| Art Form versus Class of all X | Plural for the Art Form | `Paintings` and `Painting` |
+| Species Epithet below a Group Folder | Binomial `Genus_epithet` | `Anas_castanea` |
+| Contact Card versus Encyclopedia Note | `(Contact)` | `Smith,Anna(Contact)` |
+| Same Entity in two Branches (same Wikidata Id) | one Note: keep the deeper, more specific Branch and merge the other into it | `Beetle` holds the former `Coleoptera` |
+| Folder Note | either `Name.md` beside `Name/` or `Name/Name.md` inside, not both | |
+
+### Exceptional Names
+
+These Names may occur more than once, because each Occurrence has its own Scope: 
+
+- `ReadMe.md` and `README.md`: one per Folder, describing that Folder. 
+- `License.md`: one per Repository. 
+- `Code_of_Conduct.md` and `Contributing.md`: one per public Repository (`_public` and its Sub-Repository `xLarge.public` each carry their own). 
+- `Untitled.md`: the temporary Name Obsidian gives a new Note. 
+- `City.md`, `River.md`, `Rivers.md`, `Lakes.md`: structural Index Notes that a Place Folder may have. 
+- `_*.md`: generated Index Notes such as `_Lakes.md`. 
+- Everything below `node_modules`, `assets` and `Media_DB`: imported Assets and Media DB Records (`<Name>/<Name>.md`), which are Data and not Wiki Notes. 
+
+The list is machine-checked: `note-dedupe.json` of the SpocWeb.ReadMeGenerator Skill holds it as `ExcludeFileNames`, `ExcludeNamePatterns` and `ExcludeFolderNames`, and `collect-note-duplicates` reports every other Name that occurs twice. 
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Wiki-Growth-Process|Wiki-Growth-Process]] 
