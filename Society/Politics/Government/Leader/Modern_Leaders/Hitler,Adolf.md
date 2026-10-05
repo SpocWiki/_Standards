@@ -326,6 +326,7 @@ dv_has_:
 
 #has_/time_/started :: 1889-04-20 
 #has_/time_/stopped  :: 1945-04-30 
+#has_/created :: [[Mein_Kampf]]  
 
 ## #has_/text_of_/abstract 
 
