@@ -230,6 +230,7 @@ surface_gravity: 11
 synodic_period: 367.49
 temperature: 72
 time_of_discovery_or_invention: 1846-09-23
+title: ♆ Neptune
 topic_s_main_template: '[[/_Standards/WikiData/WD~Template_Neptune,5651603|WD~Template_Neptune,5651603]]'
 Unicode_character:
 - ⯉
@@ -519,7 +520,6 @@ dv_has_:
 ---
 
 # [[Neptune(Planet)]] ♆ 
-
 
 
 #is_/different_from :: [[/_Standards/WikiData/WD~Neptune,3954|WD~Neptune,3954]] 

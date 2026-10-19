@@ -534,47 +534,12 @@ dv_has_:
 
 # [[AI(Artificial_Intelligence)]] 
 
-#is_/same_as :: [[../../WikiData/WD~Artificial_intelligence,11660|WD~Artificial_intelligence,11660]]  
+#is_/different_from :: [[../AGI(Artificial_general_Intelligence)]] 
+#is_/same_as :: [[../../../../../_Standards/WikiData/WD~Artificial_intelligence,11660|WD~Artificial_intelligence,11660]] 
+#is_/different_from :: [[../../../../../_Standards/bio/Psychology/Cognition/Intelligence|Intelligence]]  
 
+#see :: [[AI(Artificial_Intelligence)/AGI(Artificial_general_Intelligence)/LLM(Large_Language_Model)|LLM(Large_Language_Model)]] 
 #see :: [[AI(Artificial_Intelligence)/AGI(Artificial_general_Intelligence)|AGI(Artificial_general_Intelligence)]] 
-## Types of AI 
-
-
-## Applications of AI 
-
-### AI as Tool 
-
-- Verify Theses 
-- Aggregate Data 
-
-### AI Security 
-
-#### Factors 
-
-##### Continuous, even exponential Improvement 
-
-RSI(Recursive Self-Improvement) 
-
-Yes, Models come ever faster. 
-
-##### Observability and Alignment 
-
-- 2026 Latest OpenAI Models modify weights instead of generating readable Reasoning Text. 
-- Models provably "know" they are being tested and adjust their behavior 
-
-##### AI builds its own Successor and modifies Goals 
-
-- 2026 Not done yet. The Incidents were a consequence of the goal given. 
-- even an unaligned model pursued the given goals. 
-
-##### We need to be able to pull the Plug 
-
-- 2026 AI require a global infrastructure, that is run 98% by people. 
-
-
-### AI as Source of Inspiration 
-
-### AI as a Teacher 
 
 
 ## #has_/text_of_/abstract 

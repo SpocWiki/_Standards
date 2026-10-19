@@ -173,7 +173,7 @@ keywords:
 - continent
 layout: ''
 license: CC BY-SA 4.0
-linkTitle: is_a_continent Class
+linkTitle: 🌍 continent Class
 publish: true
 publishDate: ''
 tags:

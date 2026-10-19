@@ -174,6 +174,7 @@ temperature:
 - 44
 - 55
 time_of_discovery_or_invention: 1930-02-18
+title: ♇ Pluto
 UMLS_CUI: C0242761
 Unicode_character:
 - ♇

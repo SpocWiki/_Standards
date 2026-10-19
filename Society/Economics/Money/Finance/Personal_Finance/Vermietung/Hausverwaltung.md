@@ -1,7 +1,7 @@
 
 Hausverwaltung ist eine Vertrauensstellung. 
 Die Verwaltung kontrolliert erhebliche Geldströme und auch die Rücklagen. 
-[[../../../../../../../heuerm/heuerm~Contacts/_Immobilien/Mainterassen/Hausverwaltung~Erbrich|Hausverwaltung~Erbrich]]  
+[[../../../../../../../journals/heuerm/heuerm~Contacts/_Immobilien/Mainterassen/Hausverwaltung~Erbrich|Hausverwaltung~Erbrich]]  
 
 
 ## https://matera.eu/ 

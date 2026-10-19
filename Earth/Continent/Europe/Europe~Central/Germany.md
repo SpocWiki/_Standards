@@ -1554,7 +1554,7 @@ Major Cities with Population in 1000s as of @2020
 | [[Germany/Germany~West/Hamburg,State/cities~Hamburg/Hamburg,City\|Hamburg]]    | Hamburg                |  1841 |
 | Munich     | [[Germany/Germany~West/Bayern\|Bavaria]]                |  1488 |
 | [[Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Köln,County/Köln,City\|Cologne]]    | [[Germany/Germany~West/Nordrhein-Westfalen\|North Rhine-Westphalia]] |  1085 |
-| [[../../../../../heuerm/heuerm~Contacts/Einkaufen/Frankfurt\|Frankfurt]]  | [[Germany/Germany~West/Hessen\|Hesse]]                  |   764 |
+| [[../../../../../journals/heuerm/heuerm~Contacts/Einkaufen/Frankfurt\|Frankfurt]]  | [[Germany/Germany~West/Hessen\|Hesse]]                  |   764 |
 | [[Germany/Germany~West/Baden-Wuerttemberg/counties~BW/Stuttgart,County/City/Stuttgart,City\|Stuttgart]]  | [[Germany/Germany~West/Baden-Wuerttemberg\|Baden-Württemberg]]      |   635 |
 | [[Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Düsseldorf\|Düsseldorf]] | [[Germany/Germany~West/Nordrhein-Westfalen\|North Rhine-Westphalia]] |   620 |
 | [[Germany/Germany~East/Sachsen/counties~Sachsen/Leipzig-City/City/Leipzig\|Leipzig]]    | [[Germany/Germany~East/Sachsen\|Saxony]]                 |   597 |
@@ -1605,7 +1605,7 @@ with numbers as of 2023-06
 > and the [[Netherlands]] to the west. 
 > 
 > The nation's capital and most populous city is [[Germany/Germany~East/Berlin,State/cities~Berlin/Berlin,City|Berlin]] 
-> and its main financial center is [[Frankfurt]]; the largest urban area is [[Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr|Essen,Ruhr]].
+> and its main financial center is [[../../../../../journals/heuerm/heuerm~Contacts/Einkaufen/Frankfurt]]; the largest urban area is [[Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr|Essen,Ruhr]].
 >
 > Settlement in what is now Germany began in the Lower [[../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Paleolithic|Paleolithic]], 
 > with various tribes inhabiting it from the [[../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian/2000-Neolithic|2000-Neolithic]] onward, chiefly the Celts. 

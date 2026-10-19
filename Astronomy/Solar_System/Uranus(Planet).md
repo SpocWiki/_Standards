@@ -254,6 +254,7 @@ temperature:
 - 53
 - 57
 time_of_discovery_or_invention: 1781-03-13
+title: ♅ Uranus 
 topic_s_main_template: '[[/_Standards/WikiData/WD~Template_Uranus,6416482|WD~Template_Uranus,6416482]]'
 UMLS_CUI: C0242757
 Unicode_character:

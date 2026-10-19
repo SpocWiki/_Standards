@@ -308,6 +308,7 @@ studied_in: '[[/_Standards/WikiData/WD~kronology,131626666|WD~kronology,13162666
 surface_gravity: 8.96
 synodic_period: 378.0944
 temperature: 134
+title: 🪐 Saturn
 topic_s_main_category: '[[/_Standards/WikiData/WD~Q32816016,32816016|WD~Q32816016,32816016]]'
 topic_s_main_template: '[[/_Standards/WikiData/WD~Template_Saturn,6308278|WD~Template_Saturn,6308278]]'
 Unicode_character:

@@ -551,7 +551,7 @@ dv_has_:
     zh_sg: 水星
     zh_tw: 水星
     zu: UMerkuriyu
-title: ☿ Mercury(Planet)
+title: ☿ Mercury
 ---
 
 # [[Mercury(Planet)]] ☿ 

@@ -316,6 +316,7 @@ studied_in:
 subreddit: moon
 surface_gravity: 1.62
 synodic_period: 29.530589
+title: ☾ Moon
 temperature:
 - 390
 - 95

@@ -153,7 +153,7 @@ has_child = `=this.dv_has_child`
 has_hobbies = `=this.dv_has_hobbies` 
 
 # Notes
-Lange SystemAnalyse für [[Captano-Team]] gemacht. 
+Lange SystemAnalyse für [[../../../../../../journals/heuerm/heuerm~Contacts/_Arbeit/LPA-Contacts/Captano-Team]] gemacht. 
 
 Seit 2025 bei https://www.metromec.ch/ in Chur in der Schweiz 
 
