@@ -1404,8 +1404,6 @@ Population in 1000s as of @2019
 |                                                                                                                                                                    |                                                                                  |          |
 
 
-
-
 ## #has_/text_of_/abstract  
 
 > **France**, officially the French Republic, is a country located primarily in Western Europe. 

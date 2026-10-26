@@ -1259,6 +1259,13 @@ with numbers as of 2023-06
 | [[Greece/Regions-Greek/Ionian_Islands\|Ionian Islands]]                      |   200 |  2.307 |   0.671 |    3.343 | 0.872 | Island region; tourism and agriculture        |
 
 
+## #has_/place_/city   
+
+
+Population in 1000s as of @2019
+
+
+
 ## #has_/text_of_/abstract 
 
 > **Greece**, officially the Hellenic Republic, is a country in Southeast Europe. Located on the southern tip of the Balkan peninsula, Greece shares land borders with Albania to the northwest, North Macedonia and Bulgaria to the north, and Turkey to the east. The Aegean Sea lies to the east of the mainland, the Ionian Sea to the west, and the Sea of Crete and the Mediterranean Sea to the south. Greece has the longest coastline on the Mediterranean Basin, featuring thousands of islands. The country comprises nine traditional geographic regions, and has a population of over 10.4 million. Athens is the nation's capital and its largest city, followed by Thessaloniki and Patras.
