@@ -1261,9 +1261,22 @@ with numbers as of 2023-06
 
 ## #has_/place_/city   
 
-
 Population in 1000s as of @2019
 
+| Name                                                                                           | Region                                                        | Pop/k |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----: |
+| [[Greece/Regions-Greek/Attica/cities~Attica/Athens\|Athens]]                                   | [[Greece/Regions-Greek/Attica\|Attica]]                       |   643 |
+| [[Greece/Regions-Greek/Macedonia~Central/cities~Central_Macedonia/Thessaloniki\|Thessaloniki]] | [[Greece/Regions-Greek/Macedonia~Central\|Central Macedonia]] |   310 |
+| [[Patras]]                                                                                     | [[Greece/Regions-Greek/Greece~West\|Western Greece]]          |   171 |
+| [[Greece/Regions-Greek/Attica/cities~Attica/Piraeus\|Piraeus]]                                 | [[Greece/Regions-Greek/Attica\|Attica]]                       |   168 |
+| [[Heraklion,City]]                                                                             | [[Greece/Regions-Greek/Crete\|Crete]]                         |   150 |
+| [[Larissa]]                                                                                    | [[Greece/Regions-Greek/Thessaly\|Thessaly]]                   |   147 |
+| [[Peristeri]]                                                                                  | [[Greece/Regions-Greek/Attica\|Attica]]                       |   134 |
+| Acharnes                                                                                       | [[Greece/Regions-Greek/Attica\|Attica]]                       |   101 |
+| Kallithea                                                                                      | [[Greece/Regions-Greek/Attica\|Attica]]                       |    98 |
+| Kalamaria                                                                                      | [[Greece/Regions-Greek/Macedonia~Central\|Central Macedonia]] |    92 |
+| Glyfada                                                                                        | [[Greece/Regions-Greek/Attica\|Attica]]                       |    90 |
+| Nikaia                                                                                         | [[Greece/Regions-Greek/Attica\|Attica]]                       |    88 |
 
 
 ## #has_/text_of_/abstract 
