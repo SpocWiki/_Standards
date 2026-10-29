@@ -53,20 +53,40 @@ aliases:
 - Compilation always requires the rebuild of the whole System 
 - Testing in the worst case requires a full regression test after each Increment 
 
-Full Compilation and Testing means that 
-the differential Cost C grows at least with the total System Size S: 
+#### Full Compilation and Testing 
+
+means that the differential Cost C grows at least with the total System Size S: 
 
 S = Sum dS
 
-dC / dS = g * S  = g * Sum(dS) 
+dC / dS = c1 + g * S  = c1 + g * Sum(dS) 
 
 Differentiation yields 
 d²C / dS² = g  
 
 Integrating this twice yields a quadratic Cost Function: 
 
-C = 
+C = c0 + c1 * S + * g * S²/s
+
+With n increments of size dS (S = n·s), 
+and the k-th increment costing g·(k * dS) * dS for rebuild and retest:
+
+C = g * dS² * (1 + 2 + … + n) = g * dS² * n(n+1)/2 = g/2 (S² + dS * S)
+
+#### differential Compilation and Testing 
+
+can optimally make the cost linear: dC = g * dS  
 
 
-C = 
+#### increasing Complexity for Testing 
+
+On the other hand if the binary combination of components increases the Testing Effort 
+to grow quadratically, then the Cost becomes cubic. 
+can optimally make the cost linear: dC = g * S²  => C = g * S³ / 3
+
+If you also need to consider ternary and higher Combinations of Components, 
+the relevant Powers become ever larger! 
+
+
+
 
