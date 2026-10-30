@@ -1,7 +1,11 @@
+---
+aliases:
+has_id_wikidata: Q1145220
+---
 
 # [[Prosumer]] 
 
-#is_/same_as :: [[WD~Prosumer,]]  
+#is_/same_as :: [[WD~Prosumer,1145220]]  
 
 ## #has_/text_of_/abstract 
 

@@ -1,11 +1,15 @@
 ---
 aliases:
-- Customer 
-- Consumer 
-- Client 
+  - Customer
+  - Consumer
+  - Client
+has_id_wikidata: Q108325200
 ---
 
 # [[Client]] 
+
+#is_/different_from :: [[Prosumer]] 
+#is_/same_as :: [[WD~Client,108325200]] 
 
 ## #has_/text_of_/abstract  
 
