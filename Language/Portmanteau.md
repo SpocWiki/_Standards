@@ -139,6 +139,7 @@ dv_has_examples:
   - "[[Bromance]]"
   - "[[Frenemy]]"
   - "[[Smog]]"
+  - [[../../_internal/Mathematics/Geometry/2D-Geometry/Squircle.internal|Squircle.internal]]
 ---
 
 # [[Portmanteau]] 
