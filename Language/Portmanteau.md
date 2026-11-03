@@ -1,67 +1,67 @@
 ---
 aliases:
-- amálgama
-- birleşik sözcük
-- blend
-- blend word
-- cuvânt telescopat
-- cyfansoddair cywasgedig
-- ger-malizenn
-- hibrīdvārds
-- kata lakur
-- kofferwoord
-- Kofferwort
-- Mengelwoort
-- mot creuat
-- Mot-valise
-- mürəkkəb sözlər
-- palavra-valise
-- parola macedonia
-- parola-valise
-- pinagsamang salita
-- Portmanteau
-- Portmanteau-Wuert
-- Portmanteauwort
-- prekrivanka
-- samantrekt ord
-- sipotchî aplacaedje
-- stopljenica
-- sulandsõna
-- sulautuma
-- szóösszevonás
-- teleskopord
-- tembung garba
-- từ ghép
-- verbum amalgamatum
-- Vort-valizo
-- vortokunfando
-- zbitka wyrazowa
-- біріккен сөздер
-- портманто
-- склеенае слова
-- словослияние
-- стопеница
-- телескопія
-- հիբրիդային բառ
-- הלחם בסיסים
-- امیختہ
-- تکواژ چندوجهی
-- لفظ منحوت
-- পিন্ডারিশব্দ
-- หน่วยคำควบ
-- かばん語
-- 混成詞
-- 混成词
-- 혼성어
+  - amálgama
+  - birleşik sözcük
+  - blend
+  - blend word
+  - cuvânt telescopat
+  - cyfansoddair cywasgedig
+  - ger-malizenn
+  - hibrīdvārds
+  - kata lakur
+  - kofferwoord
+  - Kofferwort
+  - Mengelwoort
+  - mot creuat
+  - Mot-valise
+  - mürəkkəb sözlər
+  - palavra-valise
+  - parola macedonia
+  - parola-valise
+  - pinagsamang salita
+  - Portmanteau
+  - Portmanteau-Wuert
+  - Portmanteauwort
+  - prekrivanka
+  - samantrekt ord
+  - sipotchî aplacaedje
+  - stopljenica
+  - sulandsõna
+  - sulautuma
+  - szóösszevonás
+  - teleskopord
+  - tembung garba
+  - từ ghép
+  - verbum amalgamatum
+  - Vort-valizo
+  - vortokunfando
+  - zbitka wyrazowa
+  - біріккен сөздер
+  - портманто
+  - склеенае слова
+  - словослияние
+  - стопеница
+  - телескопія
+  - հիբրիդային բառ
+  - הלחם בסיסים
+  - امیختہ
+  - تکواژ چندوجهی
+  - لفظ منحوت
+  - পিন্ডারিশব্দ
+  - หน่วยคำควบ
+  - かばん語
+  - 混成詞
+  - 混成词
+  - 혼성어
 has_id_wikidata: Q208674
 subclass_of:
-- '[[/_Standards/WikiData/WD~contamination,287903|WD~contamination,287903]]'
-- '[[/_Standards/WikiData/WD~derivation,728001|WD~derivation,728001]]'
-- '[[/_Standards/WikiData/WD~word_play,998840|WD~word_play,998840]]'
-described_by_source: '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-different_from: '[[/_Standards/WikiData/WD~hybridism,1118483|WD~hybridism,1118483]]'
-has_cause: '[[/_Standards/WikiData/WD~blending,115942947|WD~blending,115942947]]'
-instance_of: '[[/_Standards/WikiData/WD~type_of_word_or_phrase,135929641|WD~type_of_word_or_phrase,135929641]]'
+  - "[[/_Standards/WikiData/WD~contamination,287903|WD~contamination,287903]]"
+  - "[[/_Standards/WikiData/WD~derivation,728001|WD~derivation,728001]]"
+  - "[[/_Standards/WikiData/WD~word_play,998840|WD~word_play,998840]]"
+described_by_source: "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+different_from: "[[/_Standards/WikiData/WD~hybridism,1118483|WD~hybridism,1118483]]"
+has_cause: "[[/_Standards/WikiData/WD~blending,115942947|WD~blending,115942947]]"
+instance_of: "[[/_Standards/WikiData/WD~type_of_word_or_phrase,135929641|WD~type_of_word_or_phrase,135929641]]"
 Commons_category: Portmanteau
 dv_has_:
   name_:
@@ -134,6 +134,11 @@ dv_has_:
     zh_hk: 混成詞
     zh_sg: 混成词
     zh_tw: 混成詞
+dv_has_examples:
+  - "[[../Society/Agent/Community/Organization/Business/Prosumer|Prosumer]]"
+  - "[[Bromance]]"
+  - "[[Frenemy]]"
+  - "[[Smog]]"
 ---
 
 # [[Portmanteau]] 
