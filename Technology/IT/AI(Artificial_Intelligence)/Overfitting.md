@@ -61,7 +61,7 @@ aliases:
 # [[Overfitting]]  
 
 Overfitting is similar to [[rote Learning]] 
-and arguable less efficient than Comprehension and [[../../../Mathematics/Abstraction|Abstraction]]. 
+and arguable less efficient than Comprehension and [[../../../Mathematics/Math~Statement/Abstraction|Abstraction]]. 
 
 ## Overfitting Curve
 

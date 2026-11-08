@@ -2,11 +2,25 @@
 aliases:
   - hype cycle
 has_id_wikidata: Q2303838
+author: "[[_Standards/WikiData/WD~Gartner,174198]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Gartner,174198]]"
+creator: "[[_Standards/WikiData/WD~Gartner,174198]]"
+subclass_of: "[[_Standards/WikiData/WD~diagram,959962]]"
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Gartner%20Hype%20Cycle.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Gartner%20Hype%20Cycle-hi.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Gartner%20Hype%20Cycle-bn.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Gartner%20Hype%20Zyklus.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Gartner%20Hype%20Cycle-ne.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Gartner%20Hype%20Cycle-te.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Ciclo%20de%20sobreexpectacion%20de%20Gartner.png
+Commons_category: Hype cycle
 ---
 
 # [[Hype_Cycle]] 
 
 #is_/same_as :: [[WD~Gartner_hype_cycle,2303838]] 
+
 
 ## #has_/text_of_/abstract 
 

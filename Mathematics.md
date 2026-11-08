@@ -1,162 +1,162 @@
 ---
 aliases:
-- akontabuo
-- Akuënkäŋ
-- Awgrym
-- Ałhíʼayiiltááh
-- caltchul
-- cmaci
-- Dimanya dia makumi
-- fanisana
-- Fika
-- Herreega
-- hisabati
-- I-Mathematics
-- imathemathiki
-- jakhu
-- Laasabu malibu
-- Lissafi
-- maddaght
-- maethamatiks
-- makemakika
-- masvomhu
-- matamaitic
-- matamataig
-- matamatika
-- matemaatika
-- matemat
-- matematica
-- matematicas
-- Matematiche
-- matematică
-- Matematiekku
-- matematihke
-- matematihkka
-- Matematiik
-- matematiikka
-- matematijjka
-- matematik
-- Matematika
-- matematike
-- Matematiki
-- Matematikis
-- matematikk
-- matematikki
-- matematiko
-- matematiks
-- matematikë
-- matematyka
-- matematîk
-- matematïhkka
-- Matematėka
-- matemàtega
-- matemàtica
-- matemàtiques
-- matemática
-- matemáticas
-- matemátika
-- matemátiques
-- matemâtica
-- matemātika
-- Math
-- mathemateg
-- mathematica
-- mathematical
-- Mathematics
-- mathematicã
-- mathematiek
-- Mathematik
-- mathimátíkì
-- mathématiques
-- Matimatix
-- matimàtica
-- matymatyka
-- Matèmatiques
-- Matématik
-- matématika
-- matématikes
-- Matõmaatiga
-- ol matematik
-- papapykuaa
-- pāngarau
-- Rijozijot
-- riyaziyat
-- riyaziyet
-- riyaziyyat
-- rīmcræft
-- Sabi fu Teri
-- Solokseropa
-- sona nanpa
-- Soqyoz
-- stærðfræði
-- støddfrøði
-- Sò͘-ha̍k
-- Só-hŏk
-- sṳ-ho̍k
-- tekubala
-- tinhlayo
-- tlapōhualmatiliztli
-- toán học
-- tusnakt
-- wiskunde
-- xayma
-- xisaab
-- Yupay yachay
-- μαθηματικά
-- математіка
-- математик
-- математикæ
-- Математика
-- математике
-- математиксь
-- матэматыка
-- маѳиматїка
-- риёзиёт
-- Тоогой ухаан
-- Эсв
-- մաթեմատիկա
-- מאטעמאטיק
-- מתמטיקה
-- رياضي
-- رياضيات
-- ریاضی
-- ریاضیات
-- شمېرپوهنه
-- لماط
-- ماتماتيک
-- ماتماتیک
-- گرٛؠندُت
-- ރިޔާޟިއްޔާތު
-- गणित
-- गणितं
-- गणितम्
-- গণিত
-- ਹਿਸਾਬ
-- ગણિત
-- ଗଣିତ
-- கணிதம்
-- గణితం
-- ಗಣಿತ
-- ಗಣಿತ್
-- ഗണിതം
-- ගණිතය
-- คณิตศาสตร์
-- ຄະນິດສາດ
-- རྩིས་རིག
-- သင်္ချာ
-- သၚ်္ချာ
-- მათემატიკა
-- ትምህርተ ሂሳብ
-- ᓈᓴᐅᓯᕆᓂᓗᒃᑖᖅ
-- គណិតវិទ្យា
-- ᥙᥣᥭᥰ ᥘᥙᥳ
-- ᱮᱞᱠᱷᱟ
-- ọmúmú-ónúọgụgụ
-- ⵜⵓⵙⵏⴰⴽⵜ
-- 数学
-- 數學
-- ꯆꯩꯁꯤꯡꯂꯣꯟ
-- 수학
+  - akontabuo
+  - Akuënkäŋ
+  - Awgrym
+  - Ałhíʼayiiltááh
+  - caltchul
+  - cmaci
+  - Dimanya dia makumi
+  - fanisana
+  - Fika
+  - Herreega
+  - hisabati
+  - I-Mathematics
+  - imathemathiki
+  - jakhu
+  - Laasabu malibu
+  - Lissafi
+  - maddaght
+  - maethamatiks
+  - makemakika
+  - masvomhu
+  - matamaitic
+  - matamataig
+  - matamatika
+  - matemaatika
+  - matemat
+  - matematica
+  - matematicas
+  - Matematiche
+  - matematică
+  - Matematiekku
+  - matematihke
+  - matematihkka
+  - Matematiik
+  - matematiikka
+  - matematijjka
+  - matematik
+  - Matematika
+  - matematike
+  - Matematiki
+  - Matematikis
+  - matematikk
+  - matematikki
+  - matematiko
+  - matematiks
+  - matematikë
+  - matematyka
+  - matematîk
+  - matematïhkka
+  - Matematėka
+  - matemàtega
+  - matemàtica
+  - matemàtiques
+  - matemática
+  - matemáticas
+  - matemátika
+  - matemátiques
+  - matemâtica
+  - matemātika
+  - Math
+  - mathemateg
+  - mathematica
+  - mathematical
+  - Mathematics
+  - mathematicã
+  - mathematiek
+  - Mathematik
+  - mathimátíkì
+  - mathématiques
+  - Matimatix
+  - matimàtica
+  - matymatyka
+  - Matèmatiques
+  - Matématik
+  - matématika
+  - matématikes
+  - Matõmaatiga
+  - ol matematik
+  - papapykuaa
+  - pāngarau
+  - Rijozijot
+  - riyaziyat
+  - riyaziyet
+  - riyaziyyat
+  - rīmcræft
+  - Sabi fu Teri
+  - Solokseropa
+  - sona nanpa
+  - Soqyoz
+  - stærðfræði
+  - støddfrøði
+  - Sò͘-ha̍k
+  - Só-hŏk
+  - sṳ-ho̍k
+  - tekubala
+  - tinhlayo
+  - tlapōhualmatiliztli
+  - toán học
+  - tusnakt
+  - wiskunde
+  - xayma
+  - xisaab
+  - Yupay yachay
+  - μαθηματικά
+  - математіка
+  - математик
+  - математикæ
+  - Математика
+  - математике
+  - математиксь
+  - матэматыка
+  - маѳиматїка
+  - риёзиёт
+  - Тоогой ухаан
+  - Эсв
+  - մաթեմատիկա
+  - מאטעמאטיק
+  - מתמטיקה
+  - رياضي
+  - رياضيات
+  - ریاضی
+  - ریاضیات
+  - شمېرپوهنه
+  - لماط
+  - ماتماتيک
+  - ماتماتیک
+  - گرٛؠندُت
+  - ރިޔާޟިއްޔާތު
+  - गणित
+  - गणितं
+  - गणितम्
+  - গণিত
+  - ਹਿਸਾਬ
+  - ગણિત
+  - ଗଣିତ
+  - கணிதம்
+  - గణితం
+  - ಗಣಿತ
+  - ಗಣಿತ್
+  - ഗണിതം
+  - ගණිතය
+  - คณิตศาสตร์
+  - ຄະນິດສາດ
+  - རྩིས་རིག
+  - သင်္ချာ
+  - သၚ်္ချာ
+  - მათემატიკა
+  - ትምህርተ ሂሳብ
+  - ᓈᓴᐅᓯᕆᓂᓗᒃᑖᖅ
+  - គណិតវិទ្យា
+  - ᥙᥣᥭᥰ ᥘᥙᥳ
+  - ᱮᱞᱠᱷᱟ
+  - ọmúmú-ónúọgụgụ
+  - ⵜⵓⵙⵏⴰⴽⵜ
+  - 数学
+  - 數學
+  - ꯆꯩꯁꯤꯡꯂꯣꯟ
+  - 수학
 has_id_wikidata: Q395
 All_Science_Journal_Classification_Codes: 2601
 Archive_of_Our_Own_tag: Mathematics
@@ -165,99 +165,98 @@ Basisklassifikation: 31
 Colon_Classification: B
 Commons_category: Mathematics
 described_by_source:
-- '[[WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[/_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[/_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[/_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- "[[/_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240|WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
-- '[[/_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - "[[WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[/_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - "[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[/_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[/_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[/_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240|WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+  - "[[/_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 Dewey_Decimal_Classification: 510
 DFG_Science_Classification: 33
-facet_of: '[[/_Standards/WikiData/WD~mathematics_education,853077|WD~mathematics_education,853077]]'
+facet_of: "[[/_Standards/WikiData/WD~mathematics_education,853077|WD~mathematics_education,853077]]"
 GitHub_topic:
-- maths
-- math
-- mathematics
+  - maths
+  - math
+  - mathematics
 hashtag:
-- maths
-- math
-- mathematics
+  - maths
+  - math
+  - mathematics
 has_characteristic:
-- '[[/_Standards/WikiData/WD~eternity,138045|WD~eternity,138045]]'
-- '[[/_Standards/WikiData/WD~mathematical_beauty,2248521|WD~mathematical_beauty,2248521]]'
-- '[[/_Standards/WikiData/WD~formalization,5469988|WD~formalization,5469988]]'
+  - "[[/_Standards/WikiData/WD~eternity,138045|WD~eternity,138045]]"
+  - "[[/_Standards/WikiData/WD~mathematical_beauty,2248521|WD~mathematical_beauty,2248521]]"
+  - "[[/_Standards/WikiData/WD~formalization,5469988|WD~formalization,5469988]]"
 has_part_s_:
-- '[[/_Standards/WikiData/WD~combinatorics,76592|WD~combinatorics,76592]]'
-- '[[/_Standards/WikiData/WD~category_theory,217413|WD~category_theory,217413]]'
-- '[[/_Standards/WikiData/WD~mathematical_logic,1166618|WD~mathematical_logic,1166618]]'
-- '[[/_Standards/WikiData/WD~probability_theory,5862903|WD~probability_theory,5862903]]'
-- '[[/_Standards/WikiData/WD~algebra,3968|WD~algebra,3968]]'
-- '[[/_Standards/WikiData/WD~mathematical_analysis,7754|WD~mathematical_analysis,7754]]'
-- '[[/_Standards/WikiData/WD~geometry,8087|WD~geometry,8087]]'
-- '[[/_Standards/WikiData/WD~arithmetic,11205|WD~arithmetic,11205]]'
-- '[[/_Standards/WikiData/WD~number_theory,12479|WD~number_theory,12479]]'
-- '[[/_Standards/WikiData/WD~set_theory,12482|WD~set_theory,12482]]'
-- '[[/_Standards/WikiData/WD~statistics,12483|WD~statistics,12483]]'
-- '[[/_Standards/WikiData/WD~topology,42989|WD~topology,42989]]'
+  - "[[/_Standards/WikiData/WD~combinatorics,76592|WD~combinatorics,76592]]"
+  - "[[/_Standards/WikiData/WD~category_theory,217413|WD~category_theory,217413]]"
+  - "[[/_Standards/WikiData/WD~mathematical_logic,1166618|WD~mathematical_logic,1166618]]"
+  - "[[/_Standards/WikiData/WD~probability_theory,5862903|WD~probability_theory,5862903]]"
+  - "[[/_Standards/WikiData/WD~algebra,3968|WD~algebra,3968]]"
+  - "[[/_Standards/WikiData/WD~mathematical_analysis,7754|WD~mathematical_analysis,7754]]"
+  - "[[/_Standards/WikiData/WD~geometry,8087|WD~geometry,8087]]"
+  - "[[/_Standards/WikiData/WD~arithmetic,11205|WD~arithmetic,11205]]"
+  - "[[/_Standards/WikiData/WD~number_theory,12479|WD~number_theory,12479]]"
+  - "[[/_Standards/WikiData/WD~set_theory,12482|WD~set_theory,12482]]"
+  - "[[/_Standards/WikiData/WD~statistics,12483|WD~statistics,12483]]"
+  - "[[/_Standards/WikiData/WD~topology,42989|WD~topology,42989]]"
 has_use:
-- '[[/_Standards/WikiData/WD~mathematical_modelling,10331368|WD~mathematical_modelling,10331368]]'
-- '[[/_Standards/WikiData/WD~computation,12525525|WD~computation,12525525]]'
-- '[[/_Standards/WikiData/WD~science,336|WD~science,336]]'
-- '[[/_Standards/WikiData/WD~engineering,11023|WD~engineering,11023]]'
-- '[[/_Standards/WikiData/WD~finance,43015|WD~finance,43015]]'
-history_of_topic: '[[/_Standards/WikiData/WD~history_of_mathematics,185264|WD~history_of_mathematics,185264]]'
+  - "[[/_Standards/WikiData/WD~mathematical_modelling,10331368|WD~mathematical_modelling,10331368]]"
+  - "[[/_Standards/WikiData/WD~computation,12525525|WD~computation,12525525]]"
+  - "[[/_Standards/WikiData/WD~science,336|WD~science,336]]"
+  - "[[/_Standards/WikiData/WD~engineering,11023|WD~engineering,11023]]"
+  - "[[/_Standards/WikiData/WD~finance,43015|WD~finance,43015]]"
+history_of_topic: "[[/_Standards/WikiData/WD~history_of_mathematics,185264|WD~history_of_mathematics,185264]]"
 Iconclass_notation: 49D
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mathematics.png
 instance_of:
-- '[[/_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
-- '[[/_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+  - "[[/_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]"
+  - "[[/_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]"
 IPTC_NewsCode: mediatopic/20000715
-is_the_study_of: '[[/_Standards/WikiData/WD~mathematical_object,246672|WD~mathematical_object,246672]]'
+is_the_study_of: "[[/_Standards/WikiData/WD~mathematical_object,246672|WD~mathematical_object,246672]]"
 Krugosvet_article: nauka_i_tehnika/matematika/MATEMATIKA.html
-maintained_by_WikiProject: '[[/_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+maintained_by_WikiProject: "[[/_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]"
 MeSH_tree_code: H01.548
 native_label: μᾰθημᾰτικά
 OmegaWiki_Defined_Meaning: 350427
 part_of:
-- '[[/_Standards/WikiData/WD~exact_science,475023|WD~exact_science,475023]]'
-- '[[/_Standards/WikiData/WD~formal_science,816264|WD~formal_science,816264]]'
-- '[[/_Standards/WikiData/WD~science,_technology,_engineering,_and_mathematics,1881523|WD~science,_technology,_engineering,_and_mathematics,1881523]]'
-permanent_duplicated_item: '[[/_Standards/WikiData/WD~Q20829391,20829391|WD~Q20829391,20829391]]'
+  - "[[/_Standards/WikiData/WD~exact_science,475023|WD~exact_science,475023]]"
+  - "[[/_Standards/WikiData/WD~formal_science,816264|WD~formal_science,816264]]"
+  - "[[/_Standards/WikiData/WD~science,_technology,_engineering,_and_mathematics,1881523|WD~science,_technology,_engineering,_and_mathematics,1881523]]"
+permanent_duplicated_item: "[[/_Standards/WikiData/WD~Q20829391,20829391|WD~Q20829391,20829391]]"
 PhilPapers_topic: mathematics
-practiced_by: '[[/_Standards/WikiData/WD~mathematician,170790|WD~mathematician,170790]]'
+practiced_by: "[[/_Standards/WikiData/WD~mathematician,170790|WD~mathematician,170790]]"
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Matem%C3%A1tica%20%28spa%29-Haylli.wav
 Provenio_UUID: 7aaddbc2-44b0-4bc9-8399-6ff937711403
-said_to_be_the_same_as: '[[/_Standards/WikiData/WD~mathematical_sciences,4387017|WD~mathematical_sciences,4387017]]'
+said_to_be_the_same_as: "[[/_Standards/WikiData/WD~mathematical_sciences,4387017|WD~mathematical_sciences,4387017]]"
 social_media_followers:
-- 100727
-- 2098483
+  - 100727
+  - 2098483
 spoken_text_audio:
-- http://commons.wikimedia.org/wiki/Special:FilePath/De-Mathematik-article2020.ogg
-- http://commons.wikimedia.org/wiki/Special:FilePath/Wiskunde.ogg
-- http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%84%D5%A1%D5%A9%D5%A5%D5%B4%D5%A1%D5%BF%D5%AB%D5%AF%D5%A1%20%28Mathematics%29.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Mathematik-article2020.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Wiskunde.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%84%D5%A1%D5%A9%D5%A5%D5%B4%D5%A1%D5%BF%D5%AB%D5%AF%D5%A1%20%28Mathematics%29.ogg
 Stack_Exchange_site_URL: https://math.stackexchange.com
 Stack_Exchange_tag:
-- https://stackoverflow.com/tags/math
-- https://gamedev.stackexchange.com/tags/mathematics
-subclass_of: '[[/_Standards/WikiData/WD~natural_science,7991|WD~natural_science,7991]]'
+  - https://stackoverflow.com/tags/math
+  - https://gamedev.stackexchange.com/tags/mathematics
+subclass_of: "[[/_Standards/WikiData/WD~natural_science,7991|WD~natural_science,7991]]"
 subreddit:
-- math
-- mathematics
+  - math
+  - mathematics
 topic_s_main_template:
-- '[[/_Standards/WikiData/WD~Template_Math_topics_TOC,14407726|WD~Template_Math_topics_TOC,14407726]]'
-- '[[/_Standards/WikiData/WD~Q25941515,25941515|WD~Q25941515,25941515]]'
-topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Mathematics,7778173|WD~Portal_Mathematics,7778173]]'
+  - "[[/_Standards/WikiData/WD~Template_Math_topics_TOC,14407726|WD~Template_Math_topics_TOC,14407726]]"
+  - "[[/_Standards/WikiData/WD~Q25941515,25941515|WD~Q25941515,25941515]]"
+topic_s_main_Wikimedia_portal: "[[/_Standards/WikiData/WD~Portal_Mathematics,7778173|WD~Portal_Mathematics,7778173]]"
 UMLS_CUI: C0024934
-union_of: '[[/_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+union_of: "[[/_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]"
 Universal_Decimal_Classification: 51
-Wikimedia_outline: '[[/_Standards/WikiData/WD~outline_of_mathematics,3610632|WD~outline_of_mathematics,3610632]]'
+Wikimedia_outline: "[[/_Standards/WikiData/WD~outline_of_mathematics,3610632|WD~outline_of_mathematics,3610632]]"
 WordLift_URL: http://data.thenextweb.com/tnw/entity/mathematics
-dv_has_:
-  name_:
+name_:
     af: wiskunde
     am: ትምህርተ ሂሳብ
     an: matematicas
@@ -605,6 +604,63 @@ dv_has_:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mathematics) 
 
+
+## Structure 
+
+Mathematical papers are meticulously structured 
+to guide the reader through logical arguments. 
+
+They distinguish statements by their 
+- function, 
+- importance, and 
+- level of certainty within the proof structure.
+
+### Types of Mathematical Statements
+
+#### The Core Logical Hierarchy 
+
+> [!definition] Definition: Compact Set
+> A subset $K$ of a metric space is **compact** if every open cover...
+
+> [!theorem] Pythagorean Theorem
+> In a right-angled triangle, the square of the hypotenuse equals...
+
+> [!proof] 
+> Let $a, b, c$ be the sides of the triangle... $\blacksquare$
+
+> [!lemma] Lemma 2.1
+> Auxiliary result used in the main proof...
+
+> [!corollary] Corollary 4.2
+> Directly follows from Theorem 4.1 because...
+      
+    
+    
+
+#### 2. Exploratory and Informational Statements
+
+- **Conjecture:** 
+    
+      
+    
+- ** / :** A specific instantiation of a concept. An example illustrates a definition or theorem, while a counterexample is 
+    
+      
+    
+- **Remark / Note:** Informal commentary providing context, historical background, or explaining why a certain technical approach is taken.
+    
+      
+    
+
+### How They Are Marked and Formatted
+
+In modern mathematical papers, these statements follow standardized visual and structural conventions:
+
+- **Typography and Styling:** Statement labels (such as **Theorem**, **Lemma**, or **Definition**) are typically rendered in **bold**, and the body text of the statement is frequently set in _italics_ to set it apart from normal narrative text (though definitions and remarks are often set in standard upright Roman text).
+    
+- **Sequential Numbering:** Statements are numbered sequentially so authors can easily cross-reference them later in the paper. Numbering can be global (e.g., Theorem 1, Theorem 2) or hierarchical tied to sections (e.g., Theorem 3.2 is the second numbered statement in Section 3). Often, related types share a unified numbering counter (e.g., Definition 2.1, Lemma 2.2, Theorem 2.3) so they appear in strict chronological order.
+    
+- **Marking Proofs:** A proof almost always immediately follows the statement it supports. It is typically marked by a bold **Proof.** header and concluded with a Q.E.D. symbol—such as a black square ($\blacksquare$) or an open box ($\square$)—to visually signal the end of the logical argument.
 
 ## Confidential Links & Embeds: 
 

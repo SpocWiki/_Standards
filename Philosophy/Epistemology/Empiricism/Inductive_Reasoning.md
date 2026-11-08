@@ -162,7 +162,7 @@ dv_has_:
 
 # [[Inductive_Reasoning]] 
 
-#is_/different_from :: [[../../../Mathematics/Proof(Math)/Induction_Proof|Induction_Proof]] 
+#is_/different_from :: [[../../../Mathematics/Math~Statement/Proof(Math)/Induction_Proof|Induction_Proof]] 
 #is_/same_as :: [[/_Standards/WikiData/WD~inductive_reasoning,484511|WD~inductive_reasoning,484511]] 
 
 ## #has_/text_of_/abstract 

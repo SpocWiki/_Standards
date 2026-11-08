@@ -1,77 +1,77 @@
 ---
 aliases:
-- Akeekkoo(Theorem)
-- askkud
-- ceelhâ
-- izrek
-- lause
-- matematická věta
-- mathematischer Satz
-- Saz
-- setning
-- sona pali lon
-- stelling
-- sætning
-- teoirim
-- teoreem
-- teorem
-- teorema
-- teoremo
-- teoremë
-- teoremă
-- teorèma
-- teoréma
-- teorēma
-- teòirim
-- Theorem
-- theorema
-- théorème
-- tiurema
-- twierdzenie
-- téoréma
-- tétel
-- định lý toán học
-- θεώρημα
-- таалһн
-- теорем
-- теорема
-- теоремэ
-- тэарэма
-- թեորեմ
-- טעארעם
-- משפט
-- تيورم
-- تیۆرم
-- قضیه
-- قضیہ
-- مبرهنة
-- प्रमेय
-- উপপাদ্য
-- ਥਿਓਰਮ
-- தேற்றம்
-- ಪ್ರಮೇಯ
-- ප්රමේයය
-- ทฤษฎีบท
-- თეორემა
-- እርግጥ
-- ⴰⵙⴽⴽⵓⴷ
-- 定理
-- 정리
+  - Akeekkoo(Theorem)
+  - askkud
+  - ceelhâ
+  - izrek
+  - lause
+  - matematická věta
+  - mathematischer Satz
+  - Saz
+  - setning
+  - sona pali lon
+  - stelling
+  - sætning
+  - teoirim
+  - teoreem
+  - teorem
+  - teorema
+  - teoremo
+  - teoremë
+  - teoremă
+  - teorèma
+  - teoréma
+  - teorēma
+  - teòirim
+  - Theorem
+  - theorema
+  - théorème
+  - tiurema
+  - twierdzenie
+  - téoréma
+  - tétel
+  - định lý toán học
+  - θεώρημα
+  - таалһн
+  - теорем
+  - теорема
+  - теоремэ
+  - тэарэма
+  - թեորեմ
+  - טעארעם
+  - משפט
+  - تيورم
+  - تیۆرم
+  - قضیه
+  - قضیہ
+  - مبرهنة
+  - प्रमेय
+  - উপপাদ্য
+  - ਥਿਓਰਮ
+  - தேற்றம்
+  - ಪ್ರಮೇಯ
+  - ප්රමේයය
+  - ทฤษฎีบท
+  - თეორემა
+  - እርግጥ
+  - ⴰⵙⴽⴽⵓⴷ
+  - 定理
+  - 정리
 has_id_wikidata: Q65943
 subclass_of:
-- '[[/_Standards/WikiData/WD~proposition,108163|WD~proposition,108163]]'
-- '[[/_Standards/WikiData/WD~conclusion,20665666|WD~conclusion,20665666]]'
-has_characteristic: '[[/_Standards/WikiData/WD~existence,468777|WD~existence,468777]]'
+  - "[[/_Standards/WikiData/WD~proposition,108163|WD~proposition,108163]]"
+  - "[[/_Standards/WikiData/WD~conclusion,20665666|WD~conclusion,20665666]]"
+has_characteristic: "[[/_Standards/WikiData/WD~existence,468777|WD~existence,468777]]"
 uses:
-- '[[/_Standards/WikiData/WD~deductive_reasoning,484284|WD~deductive_reasoning,484284]]'
-- '[[/_Standards/WikiData/WD~axiomatic_system,792542|WD~axiomatic_system,792542]]'
-based_on: '[[/_Standards/WikiData/WD~axiomatic_system,792542|WD~axiomatic_system,792542]]'
-part_of: '[[/_Standards/WikiData/WD~formal_proof,2762418|WD~formal_proof,2762418]]'
-maintained_by_WikiProject: '[[/_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+  - "[[/_Standards/WikiData/WD~deductive_reasoning,484284|WD~deductive_reasoning,484284]]"
+  - "[[/_Standards/WikiData/WD~axiomatic_system,792542|WD~axiomatic_system,792542]]"
+based_on: "[[/_Standards/WikiData/WD~axiomatic_system,792542|WD~axiomatic_system,792542]]"
+part_of: "[[/_Standards/WikiData/WD~formal_proof,2762418|WD~formal_proof,2762418]]"
+maintained_by_WikiProject: "[[/_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]"
 has_part_s_:
-- '[[/_Standards/WikiData/WD~conclusion,43338988|WD~conclusion,43338988]]'
-- '[[/_Standards/WikiData/WD~mathematical_proof,11538|WD~mathematical_proof,11538]]'
-- '[[/_Standards/WikiData/WD~hypothesis,41719|WD~hypothesis,41719]]'
+  - "[[/_Standards/WikiData/WD~conclusion,43338988|WD~conclusion,43338988]]"
+  - "[[/_Standards/WikiData/WD~mathematical_proof,11538|WD~mathematical_proof,11538]]"
+  - "[[/_Standards/WikiData/WD~hypothesis,41719|WD~hypothesis,41719]]"
 properties_for_this_type: studied by
 OmegaWiki_Defined_Meaning: 721810
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%87%E0%A4%AF.wav
@@ -189,7 +189,8 @@ dv_has_:
 
 # [[Theorem]] 
 
-#is_/same_as :: [[../WikiData/WD~Theorem,65943|WD~Theorem,65943]] 
+#is_/same_as :: [[../../WikiData/WD~Theorem,65943|WD~Theorem,65943]] 
+#has_/math_/definition :: A major, significant mathematical statement that has been rigorously proven to be true. Theorems represent the main results or "milestones" of a paper. 
 
 ## #has_/text_of_/abstract 
 
@@ -238,7 +239,7 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Mathematics/Theorem|Theorem]] 
+### #is_/same_as :: [[Theorem|Theorem]] 
 
 ### #is_/same_as :: [[/_public/Mathematics/Theorem.public|Theorem.public]] 
 

@@ -1,140 +1,140 @@
 ---
 aliases:
-- aequatio
-- baraabari
-- cothromóid
-- denklem
-- Deňleme
-- ecuación
-- ecuație
-- egali
-- egyenlet
-- ekuacioni
-- ekuazio
-- ekvacio
-- ekvation
-- Ekwasyon
-- enačba
-- equacionbndryr
-- equaciono
-- equació
-- equación
-- equassion
-- Equation
-- equazione
-- equaziån
-- equazziun
-- equação
-- Gleichung
-- Glieken
-- Gläichung
-- hafaliad
-- hong-têng-sek
-- I-Equation
-- ikwiejan
-- Iquazzioni
-- ivakaraitaki
-- jafna
-- jednadžba
-- jednačina
-- kevatalenn
-- kɩmaŋ wɛʊʊ
-- ligning
-- liknang
-- likning
-- lygtis
-- líkning
-- mlinganyo
-- musaviyleme
-- ovttamahtodat
-- ovtâldâh
-- paqtachani
-- persamaan
-- phương trình
-- qixxaatoo
-- rovnica
-- rovnice
-- równanie
-- tagdazalt
-- Tenglama
-- toki pi sama nanpa
-- tsazaniso
-- tumbasan
-- tənlik
-- vergelyking
-- Vergelykinge
-- vienādojums
-- Võrrand
-- wekhevî
-- wiskundige vergelijking
-- yhtälö
-- ékwasyon
-- équation
-- Ìṣedọ́gba
-- õõutlõk
-- εξίσωση
-- једначина
-- Муодила
-- рівняння
-- раўнаньне
-- равенка
-- танлăх
-- теңдеме
-- теңдеу
-- Тигезләмә
-- тигеҙләмә
-- Тэгшитгэл
-- тэгшэдхэл
-- Тэҥнэбил
-- ураўненне
-- уравнение
-- Հավասարում
-- גלייכונג
-- משוואה
-- ترکڑی
-- مساوات
-- معادلة
-- معادلة رياضية
-- معادله
-- ڤرساماءن
-- ھاوکێشە
-- समीकरण
-- সমীকরণ
-- সমীকৰণ
-- ਸਮੀਕਰਨ
-- સમીકરણ
-- சமன்பாடு
-- ಸಮೀಕರಣ
-- സമവാക്യം
-- สมการ
-- ສົມຜົນ
-- განტოლება
-- ᎢᏗᎦᏲᏍᏗ
-- សមីការ
-- 方程
-- 方程式
-- 방정식
+  - aequatio
+  - baraabari
+  - cothromóid
+  - denklem
+  - Deňleme
+  - ecuación
+  - ecuație
+  - egali
+  - egyenlet
+  - ekuacioni
+  - ekuazio
+  - ekvacio
+  - ekvation
+  - Ekwasyon
+  - enačba
+  - equacionbndryr
+  - equaciono
+  - equació
+  - equación
+  - equassion
+  - Equation
+  - equazione
+  - equaziån
+  - equazziun
+  - equação
+  - Gleichung
+  - Glieken
+  - Gläichung
+  - hafaliad
+  - hong-têng-sek
+  - I-Equation
+  - ikwiejan
+  - Iquazzioni
+  - ivakaraitaki
+  - jafna
+  - jednadžba
+  - jednačina
+  - kevatalenn
+  - kɩmaŋ wɛʊʊ
+  - ligning
+  - liknang
+  - likning
+  - lygtis
+  - líkning
+  - mlinganyo
+  - musaviyleme
+  - ovttamahtodat
+  - ovtâldâh
+  - paqtachani
+  - persamaan
+  - phương trình
+  - qixxaatoo
+  - rovnica
+  - rovnice
+  - równanie
+  - tagdazalt
+  - Tenglama
+  - toki pi sama nanpa
+  - tsazaniso
+  - tumbasan
+  - tənlik
+  - vergelyking
+  - Vergelykinge
+  - vienādojums
+  - Võrrand
+  - wekhevî
+  - wiskundige vergelijking
+  - yhtälö
+  - ékwasyon
+  - équation
+  - Ìṣedọ́gba
+  - õõutlõk
+  - εξίσωση
+  - једначина
+  - Муодила
+  - рівняння
+  - раўнаньне
+  - равенка
+  - танлăх
+  - теңдеме
+  - теңдеу
+  - Тигезләмә
+  - тигеҙләмә
+  - Тэгшитгэл
+  - тэгшэдхэл
+  - Тэҥнэбил
+  - ураўненне
+  - уравнение
+  - Հավասարում
+  - גלייכונג
+  - משוואה
+  - ترکڑی
+  - مساوات
+  - معادلة
+  - معادلة رياضية
+  - معادله
+  - ڤرساماءن
+  - ھاوکێشە
+  - समीकरण
+  - সমীকরণ
+  - সমীকৰণ
+  - ਸਮੀਕਰਨ
+  - સમીકરણ
+  - சமன்பாடு
+  - ಸಮೀಕರಣ
+  - സമവാക്യം
+  - สมการ
+  - ສົມຜົນ
+  - განტოლება
+  - ᎢᏗᎦᏲᏍᏗ
+  - សមីការ
+  - 方程
+  - 方程式
+  - 방정식
 has_id_wikidata: Q11345
 Colon_Classification: B23
 Commons_category: Equations
 described_by_source:
-- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-different_from: '[[/_Standards/WikiData/WD~chemical_equation,182527|WD~chemical_equation,182527]]'
-has_list: '[[/_Standards/WikiData/WD~list_of_equations,3243244|WD~list_of_equations,3243244]]'
-has_part_s_: '[[/_Standards/WikiData/WD~equals_sign,214796|WD~equals_sign,214796]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+different_from: "[[/_Standards/WikiData/WD~chemical_equation,182527|WD~chemical_equation,182527]]"
+has_list: "[[/_Standards/WikiData/WD~list_of_equations,3243244|WD~list_of_equations,3243244]]"
+has_part_s_: "[[/_Standards/WikiData/WD~equals_sign,214796|WD~equals_sign,214796]]"
 IEV_number: 102-01-25
 image: http://commons.wikimedia.org/wiki/Special:FilePath/First%20Equation%20Ever.png
 Krugosvet_article: matematika/uravneniya
-maintained_by_WikiProject: '[[/_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
-manifestation_of: '[[/_Standards/WikiData/WD~equality,842346|WD~equality,842346]]'
+maintained_by_WikiProject: "[[/_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]"
+manifestation_of: "[[/_Standards/WikiData/WD~equality,842346|WD~equality,842346]]"
 OmegaWiki_Defined_Meaning: 477547
-opposite_of: '[[/_Standards/WikiData/WD~inequation,165309|WD~inequation,165309]]'
+opposite_of: "[[/_Standards/WikiData/WD~inequation,165309|WD~inequation,165309]]"
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%B8%E0%A4%AE%E0%A5%80%E0%A4%95%E0%A4%B0%E0%A4%A3.wav
 properties_for_this_type: defining formula
-studied_in: '[[/_Standards/WikiData/WD~elementary_algebra,211294|WD~elementary_algebra,211294]]'
-subclass_of: '[[/_Standards/WikiData/WD~formula,976981|WD~formula,976981]]'
+studied_in: "[[/_Standards/WikiData/WD~elementary_algebra,211294|WD~elementary_algebra,211294]]"
+subclass_of: "[[/_Standards/WikiData/WD~formula,976981|WD~formula,976981]]"
 dv_has_:
   name_:
     af: vergelyking
@@ -296,7 +296,7 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Mathematics/Equation|Equation]] 
+### #is_/same_as :: [[Equation|Equation]] 
 
 ### #is_/same_as :: [[/_public/Mathematics/Equation.public|Equation.public]] 
 

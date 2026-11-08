@@ -71,7 +71,7 @@ is_a = `=this.dv_is_a`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/math_expression : : `=this.dv_has_range`   
+- #has_/math_/expression : : `=this.dv_has_range`   
 - has_math_expression : : `=this.dv_has_range`  
 
 A mathematical expression (e.g. 'x^2-3x=0') 

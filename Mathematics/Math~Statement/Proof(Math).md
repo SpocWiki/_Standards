@@ -242,8 +242,8 @@ dv_has_:
 
 # [[Proof(Math)]] 
 
-#is_/same_as :: [[../WikiData/WD~proof_technique,105530558|WD~proof_technique,105530558]]  
 #is_/same_as :: [[../../WikiData/WD~Mathematical_proof,11538|WD~Mathematical_proof,11538]] 
+#has_/math_/definition :: a deductive argument for a mathematical statement, showing that the stated assumptions logically guarantee the conclusion. 
 
 ## #has_/text_of_/abstract 
 
@@ -251,8 +251,9 @@ dv_has_:
 > showing that the stated assumptions logically guarantee the conclusion. 
 >
 > The argument may use other previously established statements, such as theorems; 
-> but every proof can, in principle, be constructed using only certain basic or original assumptions 
-> known as axioms, along with the accepted rules of inference. 
+> but every proof can, in principle, be constructed 
+> using only certain basic or original assumptions known as axioms, 
+> along with the accepted rules of inference. 
 > 
 > Proofs are examples of exhaustive deductive reasoning that establish logical certainty, 
 > to be distinguished from empirical arguments 
@@ -284,7 +285,7 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Mathematics/Proof(Math)|Proof(Math)]] 
+### #is_/same_as :: [[Proof(Math)|Proof(Math)]] 
 
 ### #is_/same_as :: [[/_public/Mathematics/Proof(Math).public|Proof(Math).public]] 
 

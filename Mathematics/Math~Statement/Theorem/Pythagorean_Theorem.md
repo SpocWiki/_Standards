@@ -357,7 +357,7 @@ dv_has_:
 
 # [[Pythagorean_Theorem]] 
 
-#is_/same_as :: [[../../WikiData/WD~Pythagorean_theorem,11518|WD~Pythagorean_theorem,11518]] 
+#is_/same_as :: [[../../../WikiData/WD~Pythagorean_theorem,11518|WD~Pythagorean_theorem,11518]] 
 
 ## #has_/text_of_/abstract 
 
@@ -394,7 +394,7 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Mathematics/Theorem/Pythagorean_Theorem|Pythagorean_Theorem]] 
+### #is_/same_as :: [[Pythagorean_Theorem|Pythagorean_Theorem]] 
 
 ### #is_/same_as :: [[/_public/Mathematics/Theorem/Pythagorean_Theorem.public|Pythagorean_Theorem.public]] 
 

@@ -189,7 +189,7 @@ dv_has_:
 
 # [[Abstraction]] 
 
-#is_/same_as :: [[../WikiData/WD~Abstraction,673661|WD~Abstraction,673661]] 
+#is_/same_as :: [[../../WikiData/WD~Abstraction,673661|WD~Abstraction,673661]] 
 
 ## #has_/text_of_/abstract 
 
@@ -208,7 +208,7 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Mathematics/Abstraction|Abstraction]] 
+### #is_/same_as :: [[Abstraction|Abstraction]] 
 
 ### #is_/same_as :: [[/_public/Mathematics/Abstraction.public|Abstraction.public]] 
 
