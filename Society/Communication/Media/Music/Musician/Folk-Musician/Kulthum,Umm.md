@@ -8,7 +8,7 @@ Facebook_username: ommkalthom
 Google_Doodle: umm-kalthums-birthday
 name_in_native_language: أم كلثوم
 start_of_work_period: 1923-01-01T00:00:00Z
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Umm%20Kulthum%20as%20Fatimah.jpg
+image: "![[assets/f9a1b5b2c2d4eefa165aa3b79c794709_MD5.jpg]]"
 birth_name: أم كلثوم إبراهيم السيد البلتاجي
 date_of_birth:
   - 1904-05-04T00:00:00Z
@@ -52,7 +52,7 @@ described_by_source:
   - "[[/_Standards/WikiData/WD~al-A_lam(Dar_al-_Ilm,2002),113504685]]"
   - "[[/_Standards/WikiData/WD~Africa_An_Encyclopedic_Reference,115653803]]"
 on_focus_list_of_Wikimedia_project: "[[/_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
-plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD%20%D9%85%D8%AA%D8%AD%D9%81%20%D8%A7%D9%85%20%D9%83%D9%84%D8%AB%D9%88%D9%85%20%D9%81%D9%8A%20%D8%B9%D9%87%D8%AF%20%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%20%D9%85%D8%A8%D8%A7%D8%B1%D9%83.jpg
+plaque_image: "![[assets/51a5a145b6aeecafb6c10bb41b9064c5_MD5.jpg]]"
 religion_or_worldview: "[[/_Standards/WikiData/WD~Islam,432]]"
 native_language: "[[/_Standards/WikiData/WD~Egyptian_Arabic,29919]]"
 languages_spoken_written_or_signed:
