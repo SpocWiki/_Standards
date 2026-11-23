@@ -104,3 +104,23 @@ user_manual_URL: https://obsidian.md/help
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Obsidian%20(software)) 
 
+## Obsidian Internals 
+
+
+### .obsidian` folder 
+
+The vault's `.obsidian` folder holds only configuration (settings, plugins, workspace layout, hotkeys).
+
+Plugins such as Dataview, Omnisearch or Smart Connections keep their own indexes. 
+Those usually sit in the plugin's folder under `.obsidian/plugins/<id>/` or in IndexedDB. 
+
+### metadata cache 
+
+The metadata cache (links, tags, headings, front matter) and the search index live in the app's Electron profile, as IndexedDB, one database per vault:
+
+- Windows: `%APPDATA%\obsidian\IndexedDB\app_obsidian.md_0.indexeddb.leveldb`
+- macOS: `~/Library/Application Support/obsidian/IndexedDB/`
+- Linux: `~/.config/obsidian/IndexedDB/`
+
+It's a LevelDB store keyed by vault ID, so it isn't readable with generic tools. Deleting it is safe: Obsidian rebuilds it from the Markdown files on the next start, which takes a while for a large vault. The notes are the only source of truth, which fits your open-formats preference.
+
