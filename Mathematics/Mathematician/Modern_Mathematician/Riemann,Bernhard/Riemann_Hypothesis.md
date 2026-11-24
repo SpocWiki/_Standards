@@ -140,7 +140,7 @@ dv_has_:
     zh_tw: 黎曼猜想
 ---
 
-# [[Riemann_Hypothesis]]
+# [[_Standards/Mathematics/Mathematician/Modern_Mathematician/Riemann,Bernhard/Riemann_Hypothesis]]
 
 #is_/same_as  [[../../../../WikiData/WD~Riemann_hypothesis,205966|WD~Riemann_hypothesis,205966]] 
 
