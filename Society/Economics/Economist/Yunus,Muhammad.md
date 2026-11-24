@@ -257,7 +257,7 @@ dv_has_:
     zh: 穆罕默德·尤努斯
 ---
 
-# [[Muhammad_Yunus]] 
+# [[Yunus,Muhammad]] 
 
 #is_/same_as :: [[/_Standards/WikiData/WD~Muhammad_Yunus,43969|WD~Muhammad_Yunus,43969]] 
 
@@ -322,7 +322,7 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Society/Economics/Economist/Muhammad_Yunus|Muhammad_Yunus]] 
+### #is_/same_as :: [[Yunus,Muhammad|Yunus,Muhammad]] 
 
 ### #is_/same_as :: [[/_public/Society/Economics/Economist/Muhammad_Yunus.public|Muhammad_Yunus.public]] 
 
