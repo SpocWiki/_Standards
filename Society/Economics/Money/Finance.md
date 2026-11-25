@@ -9,8 +9,16 @@ practiced_by:
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,1921,19047539]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Corporate_Finance_Institute,46129046]]"
+  - "[[_Standards/WikiData/WD~Cambridge_English_Italian_Dictionary,141803489]]"
+  - "[[_Standards/WikiData/WD~Indeed_Career_development,141858324]]"
+  - "[[_Standards/WikiData/WD~Corporate_Finance_Institute_Wealth_Management,141858346]]"
+  - "[[_Standards/WikiData/WD~Built_In,141858374]]"
+  - "[[_Standards/WikiData/WD~Oxford_Advanced_Learner's_Dictionary,141858381]]"
+  - "[[_Standards/WikiData/WD~HESA_Definitions_and_data_standards,141858396]]"
+  - "[[_Standards/WikiData/WD~FreshBooks_Accounting_Archives,141858493]]"
 instance_of:
   - "[[_Standards/WikiData/WD~field_of_work,627436]]"
   - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
@@ -27,7 +35,7 @@ geography_of_topic: "[[_Standards/WikiData/WD~geography_of_finance,17076708]]"
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Finance,18016516]]"
 subclass_of:
   - "[[_Standards/WikiData/WD~business_management,18564125]]"
-  - "[[_Standards/WikiData/WD~banking,_finance_and_investment_studies,113141571]]"
+  - "[[_Standards/WikiData/WD~banking,finance_and_investment_studies,113141571]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_finance,113861741]]"
 Dewey_Decimal_Classification: "332"
 ISCO_88_occupation_class: "331"
@@ -40,6 +48,10 @@ subreddit: finance
 Stack_Exchange_tag: https://or.stackexchange.com/tags/finance
 U_S_National_Archives_Identifier: "10640006"
 Wolfram_Language_entity_code: Entity["Concept", "Finance::h53nj"]
+Climate_Policy_Radar_Topics: Q1337
+Merriam_Webster_online_dictionary_entry: finance
+Dictionary_com_entry: finance
+Cambridge_Dictionary_entry_British_English_: finance
 ---
 
 # [[Finance]] 
