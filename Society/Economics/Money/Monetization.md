@@ -23,3 +23,18 @@ Wolfram_Language_entity_code: Entity["Concept", "Monetisation::t9x39"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Monetization) 
 
+## Confidential Links & Embeds:
+
+### #is_/same_as :: [[/_Standards/Society/Economics/Money/Monetization|Monetization]]
+
+### #is_/same_as :: [[/_public/Society/Economics/Money/Monetization.public|Monetization.public]]
+
+### #is_/same_as :: [[/_internal/Society/Economics/Money/Monetization.internal|Monetization.internal]]
+
+### #is_/same_as :: [[/_protect/Society/Economics/Money/Monetization.protect|Monetization.protect]]
+
+### #is_/same_as :: [[/_private/Society/Economics/Money/Monetization.private|Monetization.private]]
+
+### #is_/same_as :: [[/_personal/Society/Economics/Money/Monetization.personal|Monetization.personal]]
+
+### #is_/same_as :: [[/_secret/Society/Economics/Money/Monetization.secret|Monetization.secret]]
