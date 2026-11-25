@@ -6,3 +6,6 @@
 *.jpeg  linguist-detectable=true  
 *.excalidraw linguist-language=JSON  
 *.geojson linguist-language=JSON  
+# Keep both sides of overlapping TSV and CSV edits; reconcile duplicate or stale rows after a merge.
+*.tsv merge=union
+*.csv merge=union
