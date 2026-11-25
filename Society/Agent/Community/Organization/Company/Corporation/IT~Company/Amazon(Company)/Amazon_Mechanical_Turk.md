@@ -37,9 +37,9 @@ dv_has_:
 
 # [[Amazon_Mechanical_Turk]] 
 
-#is_/similar_to :: [[../../../../../../../../bio/Psychology/Emotion/Humor/Joke/Practical_Joke/Hoax/Mechanical_Turk|Mechanical_Turk]] 
-#is_/similar_to :: [[Fiverr]] 
-#is_/similar_to :: [[Upwork]] 
+#is_/similar_to :: [[../../../../../../../Communication/Media/Joke/Practical_Joke/Hoax/Mechanical_Turk|Mechanical_Turk]] 
+#is_/similar_to :: [[../../../../Business/Freelance/Fiverr]] 
+#is_/similar_to :: [[../../../../Business/Freelance/Upwork]] 
 
 ## #has_/text_of_/abstract  
 
