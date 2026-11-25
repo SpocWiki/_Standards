@@ -599,7 +599,7 @@ has_code = `=this.dv_has_code`
 
 ## #has_/text_of_/abstract 
 
-> **Antarctica** ( ) is Earth's southernmost and least-populated continent. 
+> **Antarctica** is Earth's southernmost and least-populated continent. 
 > Situated almost entirely south of the Antarctic Circle and surrounded by the Southern Ocean 
 > (also known as the Antarctic Ocean), it contains the geographic South Pole. 
 > Antarctica is the fifth-largest continent, being about 40% larger than Europe, 

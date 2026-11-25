@@ -1,8 +1,28 @@
-**
-# [[Complex System]] 
+---
+aliases:
+  - Complex System
+has_id_wikidata: Q854457
+has_characteristic:
+  - "[[/_Standards/WikiData/WD~emergence,215772]]"
+  - "[[/_Standards/WikiData/WD~complexity,723897]]"
+studied_by:
+  - "[[/_Standards/WikiData/WD~systems_theory,269699]]"
+  - "[[/_Standards/WikiData/WD~study_of_complex_systems,2995634]]"
+has_part_s_: "[[/_Standards/WikiData/WD~subsystem,2362312]]"
+topic_s_main_category: "[[/_Standards/WikiData/WD~Category_Complex_systems_theory,7451852]]"
+instance_of: "[[/_Standards/WikiData/WD~type_of_system,96116695]]"
+subclass_of: "[[/_Standards/WikiData/WD~system,58778]]"
+Commons_category: Complex systems
+PhilPapers_topic: complex-systems
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-0x010C-syst%C3%A8me%20complexe.wav
+Dewey_Decimal_Classification: "003.7"
+---
+
+# [[Complex_System]] 
 
 #has_/properties  :: [[../../Science/Physics/State_of_Matter/Phase_Transition|Phase_Transition]] 
 
+#is_/same_as :: [[WD~Complex_System,854457]] 
 
 ## #has_/text_of_/abstract 
 
@@ -69,4 +89,18 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Complex%20system)  
 
+## Confidential Links & Embeds:
 
+### #is_/same_as :: [[/_Standards/Mathematics/Dynamical_System/Complex_System|Complex_System]]
+
+### #is_/same_as :: [[/_public/Mathematics/Dynamical_System/Complex_System.public|Complex_System.public]]
+
+### #is_/same_as :: [[/_internal/Mathematics/Dynamical_System/Complex_System.internal|Complex_System.internal]]
+
+### #is_/same_as :: [[/_protect/Mathematics/Dynamical_System/Complex_System.protect|Complex_System.protect]]
+
+### #is_/same_as :: [[/_private/Mathematics/Dynamical_System/Complex_System.private|Complex_System.private]]
+
+### #is_/same_as :: [[/_personal/Mathematics/Dynamical_System/Complex_System.personal|Complex_System.personal]]
+
+### #is_/same_as :: [[/_secret/Mathematics/Dynamical_System/Complex_System.secret|Complex_System.secret]]
