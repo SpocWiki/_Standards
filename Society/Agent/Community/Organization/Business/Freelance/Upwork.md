@@ -44,11 +44,21 @@ X_Twitter_username: Upwork
 # [[Upwork]] 
 
 #is_/similar_to :: [[Fiverr]] 
+#is_/similar_to :: [[../../Company/Corporation/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk|Amazon_Mechanical_Turk]] 
 #is_/same_as :: [[WD~Upwork,3344170]] 
 
 ## #has_/text_of_/abstract 
 
-> **Upwork** Inc. (formerly Elance-oDesk) is an American freelancing platform headquartered in Palo Alto and San Francisco, California. The company was formed in 2013 as Elance-oDesk after the merger of Elance Inc. and oDesk Corp. The merged company was subsequently rebranded as Upwork in 2015. Upwork went public in 2018. Changes to its fees and account policies have repeatedly drawn protests from freelancers, and after a prolonged decline in its share price the company became the target of an activist investor campaign in 2024 and carried out large workforce reductions in 2024 and 2026.
+> **Upwork** Inc. (formerly Elance-oDesk) is an American freelancing platform 
+> headquartered in Palo Alto and San Francisco, California. 
+> The company was formed in 2013 as Elance-oDesk after the merger of Elance Inc. and oDesk Corp. 
+> 
+> The merged company was subsequently rebranded as Upwork in 2015. 
+> Upwork went public in 2018. 
+> Changes to its fees and account policies have repeatedly drawn protests from freelancers, 
+> and after a prolonged decline in its share price 
+> the company became the target of an activist investor campaign in 2024 
+> and carried out large workforce reductions in 2024 and 2026.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Upwork) 
 

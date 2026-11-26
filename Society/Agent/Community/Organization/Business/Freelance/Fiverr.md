@@ -34,14 +34,30 @@ X_Twitter_username:
 # [[Fiverr]] 
 
 #is_/similar_to :: [[Upwork]] 
+#is_/similar_to :: [[../../Company/Corporation/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk|Amazon_Mechanical_Turk]] 
 #is_/same_as :: [[WD~Fiverr,5410132]]
 
 ## #has_/text_of_/abstract 
 
 > **Fiverr** is an Israeli multinational online marketplace for freelance services. 
-> It connects freelancers to people or businesses looking for services. Fiverr takes its name from the $5 asking price attached to all tasks when the company was founded, though many sellers now charge more.
+> It connects freelancers to people or businesses looking for services. 
+> Fiverr takes its name from the $5 asking price attached to all tasks when the company was founded, 
+> though many sellers now charge more.
 > 
-> Listings on Fiverr are described as diverse, ranging from "get a well-designed business card" to "help with HTML, JavaScript, CSS, and jQuery". The highest-paying jobs on Fiverr include website design, social media manager, proofreading, copywriting, and resume writing. Freelancers work from a variety of workplaces. The platform is global, with freelancers and businesses spanning an estimated 160 countries. Fiverr listed on the NYSE in 2019.
+> Listings on Fiverr are described as diverse, ranging 
+> - from "get a well-designed business card" 
+> - to "help with HTML, JavaScript, CSS, and jQuery". 
+> 
+> The highest-paying jobs on Fiverr include 
+> - website design, 
+> - social media manager, 
+> - proofreading, 
+> - copywriting, and 
+> - resume writing. 
+> 
+> Freelancers work from a variety of workplaces. 
+> The platform is global, with freelancers and businesses spanning an estimated 160 countries. 
+> Fiverr listed on the NYSE in 2019.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fiverr) 
 
