@@ -126,13 +126,22 @@ dv_has_:
 > and can be thought of as the complex projective line P1(C)
 > , the projective space of all complex lines in ℂ².
 >
-> As with any compact Riemann surface, the sphere may also be viewed as a projective algebraic curve, 
+> As with any compact Riemann surface, 
+> the sphere may also be viewed as a projective algebraic curve, 
 > making it a fundamental example in algebraic geometry. 
 > 
 > It also finds utility in other disciplines that depend on analysis and geometry, 
 > such as the Bloch sphere of quantum mechanics and in other branches of physics.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Riemann%20sphere) 
+
+## Antipodal points
+
+Under stereographic projection from the north pole N onto the equatorial plane, 
+the antipode of z is w = −1/z̄: 
+the opposite ray through 0, at the reciprocal distance 1/|z|. 
+
+![[Riemann_Sphere.excalidraw|700]]
 
 
 ## Confidential Links & Embeds: 
