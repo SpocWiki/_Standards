@@ -1,1 +1,1 @@
-<%* const s = tp.file.selection(); tR += (s ? "==" + s + "==" : "") + "^[MH " + tp.date.now("YYYY-MM-DD_HH:mm") + ": " %><% tp.file.cursor() %>]
+<%* const s = tp.file.selection(); tR += (s ? "==" + s + "==" : "") + "^[MH_" + tp.date.now("YYYY_MM_DD_HH_mm") + ": " %><% tp.file.cursor() %>]
