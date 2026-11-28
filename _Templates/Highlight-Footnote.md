@@ -1,0 +1,1 @@
+<%* const s = tp.file.selection(); tR += (s ? "==" + s + "==" : "") + "^[" %><% tp.file.cursor() %>]
