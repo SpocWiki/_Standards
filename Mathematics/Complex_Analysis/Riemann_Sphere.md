@@ -179,6 +179,40 @@ the poles 0 and ∞ lie at $ψ = ∓∞$ and are reached only as limits,
 $φ$ is defined only modulo $2π$ (a cylinder, $\ln z$ is multivalued), 
 and Möbius maps that move the poles, such as $z ↦ (z - 1)/(z + 1)$, stay simpler in $z$. 
 
+## Homogeneous coordinates
+
+A point is a pair $(z_1, z_2) ≠ (0, 0)$ of complex numbers up to a common factor, 
+that is a complex line through the origin of $ℂ^2$ (the projective line $P^1(ℂ)$): 
+
+$$[z_1 : z_2] = [λ z_1 : λ z_2], \qquad λ ∈ ℂ,\ λ ≠ 0$$
+
+For $z_2 ≠ 0$ the point is $[z : 1]$ with $z = z_1 / z_2$; 
+the only point with $z_2 = 0$ is $[1 : 0] = ∞$, so ∞ needs no special case. 
+
+Objects in homogeneous coordinates <a id="homogeneous"></a>:
+
+| Object | Homogeneous form |
+| --- | --- |
+| point $z$, point ∞ | $[z : 1]$, $[1 : 0]$ |
+| Möbius map $z ↦ (a z + b)/(c z + d)$ | matrix $\begin{pmatrix} a & b \\ c & d \end{pmatrix}$ with $a d - b c ≠ 0$, up to a factor |
+| composition of Möbius maps | product of their matrices |
+| rotation of the sphere | $\begin{pmatrix} a & b \\ -\bar b & \bar a \end{pmatrix}$ with $∣a∣^2 + ∣b∣^2 = 1$, the group $SU(2)$ |
+| antipode | $[z_1 : z_2] ↦ [-\bar z_2 : \bar z_1]$ |
+| point on the sphere | $(x + i y,\ h) = \dfrac{(2 z_1 \bar z_2,\ ∣z_1∣^2 - ∣z_2∣^2)}{∣z_1∣^2 + ∣z_2∣^2}$ |
+
+The last row is the Hopf map from $ℂ^2$ onto the sphere. 
+The antipode $(-\bar z_2, \bar z_1)$ is orthogonal to $(z_1, z_2)$ under the Hermitian inner product; 
+with $z_2 = 1$ it is $[-1 : \bar z] = [-1/\bar z : 1]$, the same $w = -1/\bar z$ as below. 
+Matrices in $SU(2)$ keep orthogonal vectors orthogonal, so rotations map antipodes to antipodes. 
+
+Normalised to $∣z_1∣^2 + ∣z_2∣^2 = 1$, the pair is the qubit state $z_1 ∣0⟩ + z_2 ∣1⟩$ 
+and the sphere is the Bloch sphere; 
+with the projection used here $[1 : 0]$ lies at N, while physics usually puts $∣0⟩$ at N, 
+which swaps the roles of $z_1$ and $z_2$. 
+
+Mercator coordinates suit maps that fix or swap 0 and ∞, 
+homogeneous coordinates suit every Möbius map, including those that move the poles. 
+
 ## Antipodal points
 
 Under stereographic projection from the north pole N onto the equatorial plane, 
