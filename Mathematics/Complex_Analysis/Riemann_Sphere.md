@@ -135,13 +135,70 @@ dv_has_:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Riemann%20sphere) 
 
+## Coordinates
+
+A point of the unit sphere has the longitude $φ$ and one of 3 equivalent angles for its height; 
+stereographic projection from the north pole N onto the equatorial plane maps it to $z$. 
+
+Angles, point on the sphere and $z$ <a id="coordinates"></a>:
+
+| Angle | Min | Max | Point on the sphere | $z$ |
+| --- | --- | --- | --- | --- |
+| polar angle $θ$ from N | $0$ | $π$ | $(\sin θ \cos φ,\ \sin θ \sin φ,\ \cos θ)$ | $\cot(θ/2)\, e^{iφ}$ |
+| latitude $δ = π/2 - θ$ | $-π/2$ | $π/2$ | $(\cos δ \cos φ,\ \cos δ \sin φ,\ \sin δ)$ | $\tan(π/4 + δ/2)\, e^{iφ}$ |
+| Mercator $ψ = \operatorname{gd}^{-1}(δ)$ | $-∞$ | $∞$ | $(\operatorname{sech} ψ \cos φ,\ \operatorname{sech} ψ \sin φ,\ \tanh ψ)$ | $e^{ψ + iφ}$ |
+
+Latitude and Mercator coordinate are related by the inverse Gudermannian function: 
+
+$$\sin δ = \tanh ψ, \quad \cos δ = \operatorname{sech} ψ, \quad ψ = \operatorname{artanh}(\sin δ) = \ln \tan(π/4 + δ/2)$$
+
+From $z$ back to the sphere: 
+
+$$(x, y, h) = \frac{(2\,ℜ z,\ 2\,ℑ z,\ ∣z∣^2 - 1)}{∣z∣^2 + 1}, \qquad ψ = \ln ∣z∣, \qquad φ = \arg z$$
+
+So $\ln z = ψ + iφ$: 
+stereographic projection is the Mercator map followed by $\exp$. 
+Mercator coordinates are conformal, the spherical metric is the flat one times a factor: 
+
+$$ds^2 = \operatorname{sech}^2 ψ\,(dψ^2 + dφ^2) = \frac{4\,∣dz∣^2}{(1 + ∣z∣^2)^2}$$
+
+### Maps in Mercator coordinates
+
+Maps that fix or swap 0 and ∞ become translations and reflections <a id="mercator-maps"></a>:
+
+| Map of $z$ | Image of $(ψ, φ)$ | Meaning on the sphere |
+| --- | --- | --- |
+| $z ↦ a z,\ a = e^{α + iβ}$ | $(ψ + α,\ φ + β)$ | rotation about the N-S axis by $β$, with scaling by $e^{α}$ |
+| $z ↦ \bar z$ | $(ψ,\ -φ)$ | reflection in the plane of the real meridian |
+| $z ↦ 1/z$ | $(-ψ,\ -φ)$ | half turn about the real axis |
+| $z ↦ 1/\bar z$ | $(-ψ,\ φ)$ | reflection in the equatorial plane |
+| $z ↦ -1/\bar z$ | $(-ψ,\ φ + π)$ | antipodal map |
+
+Limits: 
+the poles 0 and ∞ lie at $ψ = ∓∞$ and are reached only as limits, 
+$φ$ is defined only modulo $2π$ (a cylinder, $\ln z$ is multivalued), 
+and Möbius maps that move the poles, such as $z ↦ (z - 1)/(z + 1)$, stay simpler in $z$. 
+
 ## Antipodal points
 
 Under stereographic projection from the north pole N onto the equatorial plane, 
 the antipode of z is w = −1/z̄: 
 the opposite ray through 0, at the reciprocal distance 1/|z|. 
+In each of the angles of the [coordinates table](#coordinates): 
+
+$$(θ, φ) ↦ (π - θ,\ φ + π), \qquad (δ, φ) ↦ (-δ,\ φ + π), \qquad (ψ, φ) ↦ (-ψ,\ φ + π)$$
+
+Since $\tan(π/4 - δ/2) = 1/\tan(π/4 + δ/2)$, 
+$∣w∣ = 1/∣z∣$ and $\arg w = \arg z + π$, so $w = -1/\bar z$. 
+
+*[Figure](Riemann_Sphere.excalidraw.md): unit sphere over the equatorial plane, 
+$z = ½(1 - i)$ (blue) and $w = -1 + i$ (red) with their antipodal images Z and W.* 
 
 ![[Riemann_Sphere.excalidraw|700]]
+
+For the example: 
+$\sin δ = -1/3$, so $δ ≈ -19.47°$, $φ = -45°$ and $ψ = \ln(1/\sqrt 2) ≈ -0.347$ for Z; 
+W has $δ ≈ 19.47°$, $φ = 135°$ and $ψ ≈ 0.347$. 
 
 
 ## Confidential Links & Embeds: 
